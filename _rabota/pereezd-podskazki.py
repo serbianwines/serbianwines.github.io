@@ -57,15 +57,18 @@ def perevesti(html, key):
     html = html.replace(scrim + ",", "", 1) if scrim + "," in html \
         else html.replace("," + scrim, "", 1)
 
-    # 3. Панель получает id и атрибут popover.
-    panel_start = '<div class="gpanel %s" role="dialog"' % gp
-    if html.count(panel_start) != 1:
+    # 3. Панель получает id и атрибут popover. У панелей под знаком «?»
+    #    к «gpanel» добавлен ещё один класс, поэтому ищем по концу списка.
+    m = re.search(r'<div class="((?:gpanel|gpanel-unv| )+)%s" role="dialog"' % gp, html)
+    if not m or len(re.findall(r'"[^"]*\b%s" role="dialog"' % gp, html)) != 1:
         sys.exit("%s: панель не найдена или не одна" % key)
+    panel_start = m.group(0)
     html = html.replace(
-        panel_start, '<div class="gpanel %s" id="%s" popover role="dialog"' % (gp, gp))
+        panel_start,
+        '<div class="%s%s" id="%s" popover role="dialog"' % (m.group(1), gp, gp))
 
     # 4. Крестик внутри этой панели закрывает её же.
-    nachalo = html.index('<div class="gpanel %s"' % gp)
+    nachalo = html.index('%s" id="%s"' % (gp, gp))
     sled = html.find('<div class="gpanel ', nachalo + 1)
     konec = sled if sled != -1 else len(html)
     telo = html[nachalo:konec]
@@ -78,14 +81,16 @@ def perevesti(html, key):
 
     # 5. Термины в тексте становятся кнопками. Внутри метки только текст,
     #    поэтому замена целиком безопасна.
+    vsego = 0
     for klass in ("t", "unv"):
         obrazec = re.compile(
             r'<label class="%s" tabindex="0" for="%s">([^<]*)</label>' % (klass, gl))
         html, n = obrazec.subn(
             lambda m: '<button class="%s" type="button" popovertarget="%s">%s</button>'
                       % (klass, gp, m.group(1)), html)
-        if klass == "t" and n == 0:
-            sys.exit("%s: ни одной метки термина" % key)
+        vsego += n
+    if vsego == 0:
+        sys.exit("%s: ни одной метки — ни термина, ни знака «?»" % key)
 
     if 'for="%s"' % gl in html:
         sys.exit("%s: остались ссылки на радиокнопку" % key)

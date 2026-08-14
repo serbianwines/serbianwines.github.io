@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs><clipPath id="km"><circle cx="32" cy="32" r="21"/></clipPath></defs>
+      <rect width="64" height="64" rx="12" fill="#E9E7DC"/>
+      <g clip-path="url(#km)">
+        <rect x="11" y="11"   width="42" height="8.4" fill="#EDCB3F"/>
+        <rect x="11" y="19.4" width="42" height="8.4" fill="#B17026"/>
+        <rect x="11" y="27.8" width="42" height="8.4" fill="#8F3325"/>
+        <rect x="11" y="36.2" width="42" height="8.4" fill="#84B17A"/>
+        <rect x="11" y="44.6" width="42" height="8.4" fill="#376787"/>
+        <g fill="#22282C" opacity=".25">
+          <rect x="11" y="18.9" width="42" height="1"/>
+          <rect x="11" y="27.3" width="42" height="1"/>
+          <rect x="11" y="35.7" width="42" height="1"/>
+          <rect x="11" y="44.1" width="42" height="1"/>
+        </g>
+      </g>
+      <circle cx="32" cy="32" r="21" fill="none" stroke="#22282C" stroke-opacity=".4" stroke-width="1.6"/>
+    </svg>

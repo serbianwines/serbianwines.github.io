@@ -44,9 +44,17 @@ with sync_playwright() as p:
             itog.append(r)
         except Exception as e:
             itog.append({"kljuch": k, "oshibka": str(e).split("\n")[0][:90]})
-    staraja = pg.locator('label.t[for="gl-kosava"]').first
-    staraja.scroll_into_view_if_needed(); staraja.click(); pg.wait_for_timeout(400)
-    staraja_zhiva = pg.locator(".gp-kosava").is_visible()
+    # Берём любую подсказку, которая ещё сидит на радиокнопке.
+    kljuch_staroj = pg.evaluate("""() => {
+        const e = document.querySelector('label.t[for^="gl-"]');
+        return e ? e.getAttribute('for').slice(3) : null;
+    }""")
+    if kljuch_staroj:
+        staraja = pg.locator('label.t[for="gl-%s"]' % kljuch_staroj).first
+        staraja.scroll_into_view_if_needed(); staraja.click(); pg.wait_for_timeout(400)
+        staraja_zhiva = pg.locator(".gp-%s" % kljuch_staroj).is_visible()
+    else:
+        staraja_zhiva = None
     b.close()
 
 ploho = []
@@ -55,5 +63,8 @@ for r in itog:
     if "oshibka" in r or r["do"] or not all([r["otkrylas"], r["verhnij_sloj"], r["ctl_skryt"],
                                              r["esc"], r["krest"], r["vne"]]):
         ploho.append(r["kljuch"])
-print("старый механизм (кошава):", "жив" if staraja_zhiva else "СЛОМАН")
-print("ДЕФЕКТЫ:" + ", ".join(ploho) if ploho or not staraja_zhiva else "всё чисто")
+if staraja_zhiva is None:
+    print("старый механизм: не осталось подсказок на радиокнопках")
+else:
+    print("старый механизм (%s):" % kljuch_staroj, "жив" if staraja_zhiva else "СЛОМАН")
+print("ДЕФЕКТЫ: " + ", ".join(ploho) if ploho or staraja_zhiva is False else "всё чисто")

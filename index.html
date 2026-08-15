@@ -21,7 +21,23 @@
 <meta name="twitter:card" content="summary_large_image">
 <!-- Внешние шрифты убраны: файл автономен и читается без сети.
      Оформление опирается на системный стек (ui-serif / Georgia / ui-monospace). -->
+<link rel="preload" href="fonts/literata.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/alegreya.woff2" as="font" type="font/woff2" crossorigin>
 <style>
+/* Гарнитуры книги: Literata — текст, Alegreya — заголовки, IBM Plex Mono —
+   подписи капителью. Файлы урезаны до знаков, которые в книге есть, и лежат
+   рядом с ней; собраны скриптом _rabota/shrifty.py.
+
+   Пока шрифт едет, текст показывается системным и читается сразу
+   (font-display:swap). Литера и Alegreya — переменные: одним файлом
+   покрываются оба начертания, которые просит вёрстка. */
+@font-face{font-family:"Literata";font-style:normal;font-weight:400 700;font-display:swap;src:url("fonts/literata.woff2") format("woff2")}
+@font-face{font-family:"Literata";font-style:italic;font-weight:400;font-display:swap;src:url("fonts/literata-italic.woff2") format("woff2")}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:700 800;font-display:swap;src:url("fonts/alegreya.woff2") format("woff2")}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:800;font-display:swap;src:url("fonts/alegreya-italic.woff2") format("woff2")}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:400;font-display:swap;src:url("fonts/plexmono-400.woff2") format("woff2")}
+@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:600;font-display:swap;src:url("fonts/plexmono-600.woff2") format("woff2")}
+
 /* ============================================================
    ТЕРРУАРЫ СЕРБИИ
    Палитра выведена из реальных сербских почв:

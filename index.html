@@ -1512,6 +1512,14 @@ try{if(localStorage.getItem("tema")==="temnaya")document.getElementById("dark").
       setTimeout(otkryt, 0);   // если ссылка ведёт туда же, где мы стоим
     }
   });
+  /* Адрес всегда показывает, где читатель стоит: иначе после обновления
+     страницы книга вернётся туда, куда вели когда-то из содержания. */
+  function adres(ide) {
+    try {
+      history.replaceState(null, '', ide ? '#' + ide : location.pathname + location.search);
+    } catch (e) {}
+  }
+
   /* Стрелка возвращает к началу того раздела, который читаешь: сперва к
      заголовку подглавы, потом раздела, и лишь потом к началу книги. Если
      раскрытого раздела выше нет, ссылка отрабатывает сама и ведёт наверх. */
@@ -1524,11 +1532,18 @@ try{if(localStorage.getItem("tema")==="temnaya")document.getElementById("dark").
       if (verh < y - 4) blizhajshij = zagolovki[i];
     }
     sob.preventDefault();
-    if (!blizhajshij) { window.scrollTo(0, 0); return; }
+    if (!blizhajshij) {
+      window.scrollTo(0, 0);
+      adres(null);          // иначе обновление страницы вернёт туда, откуда ушли
+      return;
+    }
     // считаем положение сами: scrollIntoView на этой странице промахивается,
     // потому что карта отрисовывается лениво и раскладка успевает поехать
     var verh = blizhajshij.getBoundingClientRect().top + window.scrollY;
     window.scrollTo(0, Math.max(0, verh - 56));
+    var vnutri = blizhajshij.querySelector('[id]');
+    var snaruzhi = blizhajshij.closest('[id]');
+    adres(vnutri ? vnutri.id : (snaruzhi ? snaruzhi.id : null));
   });
 
   /* Память темы. Переключатель включает тёмную поверх системной, поэтому

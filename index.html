@@ -617,20 +617,22 @@ a{color:var(--iron);text-underline-offset:.18em}
   background:var(--surface);
   margin:0 0 2.5rem;
 }
+/* Полоса почв — первое, что видно: одиннадцать цветов во всю ширину,
+   подпись под ней. Раньше подпись стояла слева и на телефоне сжимала
+   полосу до нескольких пикселей. */
 .key > summary{
   list-style:none;cursor:pointer;
   padding:.7rem .85rem;min-height:44px;
-  display:flex;align-items:center;gap:.75rem;
+  display:grid;grid-template-columns:1fr auto;
+  align-items:center;gap:.5rem .75rem;
   -webkit-tap-highlight-color:transparent;
 }
 .key > summary::-webkit-details-marker{display:none}
-/* На узком экране подпись легенды не сжималась и выталкивала каретку за
-   край страницы — отсюда прокрутка вбок на 320 px. Теперь подпись
-   переносится по словам. Там, где всё помещалось и раньше, не меняется
-   ничего. */
-.key > summary > .key-t{flex:0 1 auto;min-width:0}
+.key > summary > .key-strip{grid-column:1 / -1;grid-row:1}
+.key > summary > .key-t{grid-column:1;grid-row:2;min-width:0}
+.key > summary > .caret{grid-column:2;grid-row:2}
 .key-strip{
-  display:flex;flex:1;height:15px;gap:1px;
+  display:flex;height:26px;gap:1px;
   background:var(--core-ring);
   border-radius:2px;overflow:hidden;
   box-shadow:0 0 0 1px var(--core-ring);
@@ -821,9 +823,9 @@ a{color:var(--iron);text-underline-offset:.18em}
   color:var(--marl);margin:0 0 .2rem;
 }
 .menju-x{
-  display:grid;place-items:center;width:38px;height:38px;padding-top:4px;
+  display:grid;place-items:center;width:38px;height:38px;
   border:1px solid var(--line);border-radius:50%;
-  background:none;color:var(--ink-soft);font-size:.95rem;font-family:inherit;
+  background:none;color:var(--ink-soft);font-family:inherit;
   cursor:pointer;-webkit-tap-highlight-color:transparent;
 }
 .menju-g{
@@ -961,7 +963,21 @@ body:has(.gpanel[popover]:popover-open) .ctl{opacity:0;pointer-events:none}
 button.t,button.unv,button.gp-x{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;letter-spacing:inherit;line-height:inherit;text-align:inherit;margin:0;padding:0;border:0;background:none;color:inherit;-webkit-appearance:none;appearance:none}
 button.t{display:inline;line-height:normal;border-bottom:1px dotted var(--iron)}
 button.unv{font-size:.62em;font-weight:600;line-height:1.05em;text-align:center;color:var(--paper);background:var(--slate)}
-button.gp-x{font-size:.95rem;border:1px solid var(--line);color:var(--ink-soft);padding-top:4px}
+button.gp-x{border:1px solid var(--line);color:var(--ink-soft)}
+/* Крестик рисуется линиями, а не знаком ✕: у разных шрифтов чернила этого
+   знака сидят в строке по-разному, и подогнать его отступом под все
+   браузеры нельзя. Сам знак остаётся в разметке — для тех, кто слушает. */
+.gp-x,.menju-x{position:relative;font-size:0}
+.gp-x::before,.gp-x::after,.menju-x::before,.menju-x::after{
+  content:"";position:absolute;left:50%;top:50%;
+  width:11.6px;height:1px;background:currentColor;
+}
+.gp-x::before,.menju-x::before{transform:translate(-50%,-50%) rotate(45deg)}
+.gp-x::after,.menju-x::after{transform:translate(-50%,-50%) rotate(-45deg)}
+
+/* Знак «?» ставится по кегельной высоте, а не по строке: без этого он
+   съезжает вверх, и по-разному в разных браузерах. */
+.unv{text-box:trim-both cap alphabetic}
 
 
 

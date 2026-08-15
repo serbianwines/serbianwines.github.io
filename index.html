@@ -592,6 +592,11 @@ a{color:var(--iron);text-underline-offset:.18em}
   -webkit-tap-highlight-color:transparent;
 }
 .key > summary::-webkit-details-marker{display:none}
+/* На узком экране подпись легенды не сжималась и выталкивала каретку за
+   край страницы — отсюда прокрутка вбок на 320 px. Теперь подпись
+   переносится по словам. Там, где всё помещалось и раньше, не меняется
+   ничего. */
+.key > summary > .key-t{flex:0 1 auto;min-width:0}
 .key-strip{
   display:flex;flex:1;height:15px;gap:1px;
   background:var(--core-ring);

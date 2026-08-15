@@ -1167,7 +1167,9 @@ body{overflow-wrap:break-word;word-break:normal;hyphens:auto}
 </style>
 </head>
 <body>
-<input type="checkbox" id="dark" class="darkin" aria-hidden="true" tabindex="-1">
+<input type="checkbox" id="dark" class="darkin" aria-hidden="true" tabindex="-1"><script>/* Выбор темы, сохранённый в прошлый раз. Стоит здесь, а не в конце
+   книги, чтобы страница не успела мигнуть светлой. */
+try{if(localStorage.getItem("tema")==="temnaya")document.getElementById("dark").checked=true}catch(e){}</script>
 <div class="pagebg" aria-hidden="true"></div>
 
 <a id="top"></a>
@@ -1511,6 +1513,16 @@ body{overflow-wrap:break-word;word-break:normal;hyphens:auto}
     // потому что карта отрисовывается лениво и раскладка успевает поехать
     var verh = blizhajshij.getBoundingClientRect().top + window.scrollY;
     window.scrollTo(0, Math.max(0, verh - 56));
+  });
+
+  /* Память темы. Переключатель включает тёмную поверх системной, поэтому
+     запоминаем только его состояние: снят — книга снова идёт за системой. */
+  var tema = document.getElementById('dark');
+  if (tema) tema.addEventListener('change', function () {
+    try {
+      if (tema.checked) localStorage.setItem('tema', 'temnaya');
+      else localStorage.removeItem('tema');
+    } catch (e) {}
   });
 
   addEventListener('hashchange', otkryt);

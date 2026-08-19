@@ -65,6 +65,9 @@ def main():
     print("знаков в книге: %d, в наборе для шрифтов: %d" % (len(znaki), len(nabor)))
 
     os.makedirs("fonts", exist_ok=True)
+    # набор запоминается рядом со шрифтами: по нему check.py потом скажет,
+    # не появилось ли в книге буквы, которой в шрифтах нет
+    open("fonts/nabor.txt", "w", encoding="utf-8").write(nabor)
     pravila = []
     for imja, osi, kljuch in GARNITURY:
         url = ("https://fonts.googleapis.com/css2?family="

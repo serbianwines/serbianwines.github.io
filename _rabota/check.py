@@ -19,6 +19,7 @@
 """
 
 import argparse
+import os
 import re
 import sys
 from html.parser import HTMLParser
@@ -162,6 +163,27 @@ def check_tooltips(html):
     return out
 
 
+def check_fonts(html, doc):
+    """Знаки книги против того, на что урезаны шрифты.
+
+    Шрифты лежат рядом с книгой урезанными до её знаков. Стоит появиться в
+    тексте букве, которой в них нет, — она нарисуется чужой гарнитурой
+    посреди слова, и заметить это глазом трудно. Набор, на котором собраны
+    шрифты, записан в fonts/nabor.txt скриптом shrifty.py.
+    """
+    put = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "fonts", "nabor.txt")
+    if not os.path.exists(put):
+        return []
+    nabor = set(open(put, encoding="utf-8").read())
+    # знаки, которых в шрифтах нет вовсе: их и не просили
+    net_v_garniturah = set("◈✕↔")
+    chuzhie = sorted(set("".join(doc.text)) - nabor - net_v_garniturah - set(" \n\r\t"))
+    if not chuzhie:
+        return []
+    return ["в книге есть знак, которого нет в шрифтах: %s (перезапустите "
+            "_rabota/shrifty.py)" % " ".join(repr(z) for z in chuzhie)]
+
+
 def check_structure(doc):
     out = ["структура: %s, строка %d" % (what, line) for what, line in doc.unclosed]
     out += [
@@ -205,6 +227,7 @@ def main():
         ("битые label for", check_labels(html)),
         ("битые внутренние ссылки", check_anchors(html)),
         ("проводка подсказок", check_tooltips(html)),
+        ("знаки и шрифты", check_fonts(html, doc)),
         ("структура и изоляция глав", check_structure(doc)),
         ("разорванные слова", check_torn_words(html)),
     ]

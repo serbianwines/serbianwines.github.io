@@ -83,7 +83,7 @@
 }
 
 @media (prefers-color-scheme: dark){
-  :root{
+  :root:not([data-tema="svetlaya"]){
     --paper:#191E21;
     --paper-2:#20262A;
     --ink:#E3E1D5;
@@ -1094,9 +1094,9 @@ button.gp-x{border:1px solid var(--line);color:var(--ink-soft)}
 
 /* ================= ТЕМА И УПРАВЛЕНИЕ ================= */
 
-/* тёмная по системной настройке */
+/* Тёмная по системной настройке — если читатель не выбрал светлую сам */
 @media (prefers-color-scheme: dark){
-  :root{--paper:#191E21;--paper-2:#20262A;--ink:#E3E1D5;--ink-soft:#9EAAB1;--slate:#93A3AB;--marl:#8A9480;--iron:#CD7048;--iron-lift:#E08A5C;--line:rgba(227,225,213,.16);--line-2:rgba(227,225,213,.08);--surface:rgba(255,255,255,.035);--s-crnica:#484643;--s-cernozem:#736A58;--core-ring:rgba(255,255,255,.26);--land:#343A40;--river:#6E9DBA;}
+  :root:not([data-tema="svetlaya"]){--paper:#191E21;--paper-2:#20262A;--ink:#E3E1D5;--ink-soft:#9EAAB1;--slate:#93A3AB;--marl:#8A9480;--iron:#CD7048;--iron-lift:#E08A5C;--line:rgba(227,225,213,.16);--line-2:rgba(227,225,213,.08);--surface:rgba(255,255,255,.035);--s-crnica:#484643;--s-cernozem:#736A58;--core-ring:rgba(255,255,255,.26);--land:#343A40;--river:#6E9DBA;}
 }
 /* переключатель имеет приоритет над системной */
 /* fallback без :has() — для Safari/iOS ниже 15.4.
@@ -1115,8 +1115,9 @@ button.gp-x{border:1px solid var(--line);color:var(--ink-soft)}
   --core-ring:rgba(255,255,255,.26);--land:#343A40;--river:#6E9DBA;
   color:var(--ink);
 }
-:root:has(#dark:checked){--paper:#191E21;--paper-2:#20262A;--ink:#E3E1D5;--ink-soft:#9EAAB1;--slate:#93A3AB;--marl:#8A9480;--iron:#CD7048;--iron-lift:#E08A5C;--line:rgba(227,225,213,.16);--line-2:rgba(227,225,213,.08);--surface:rgba(255,255,255,.035);--s-crnica:#484643;--s-cernozem:#736A58;--core-ring:rgba(255,255,255,.26);--land:#343A40;--river:#6E9DBA;}
-:root:has(#dark:not(:checked)){
+/* Выбор читателя перебивает системную настройку в обе стороны */
+:root[data-tema="temnaya"]{--paper:#191E21;--paper-2:#20262A;--ink:#E3E1D5;--ink-soft:#9EAAB1;--slate:#93A3AB;--marl:#8A9480;--iron:#CD7048;--iron-lift:#E08A5C;--line:rgba(227,225,213,.16);--line-2:rgba(227,225,213,.08);--surface:rgba(255,255,255,.035);--s-crnica:#484643;--s-cernozem:#736A58;--core-ring:rgba(255,255,255,.26);--land:#343A40;--river:#6E9DBA;}
+:root[data-tema="svetlaya"]{
   --paper:#E9E7DC;--paper-2:#F2F0E7;--ink:#22282C;--ink-soft:#4E5A61;
   --slate:#4A555C;--marl:#8D9683;--iron:#8A3B22;--iron-lift:#A6472A;
   --line:rgba(34,40,44,.14);--line-2:rgba(34,40,44,.08);
@@ -1203,9 +1204,17 @@ body{overflow-wrap:break-word;word-break:normal;hyphens:auto}
 </style>
 </head>
 <body>
-<input type="checkbox" id="dark" class="darkin" aria-hidden="true" tabindex="-1"><script>/* Выбор темы, сохранённый в прошлый раз. Стоит здесь, а не в конце
-   книги, чтобы страница не успела мигнуть светлой. */
-try{if(localStorage.getItem("tema")==="temnaya")document.getElementById("dark").checked=true}catch(e){}</script>
+<input type="checkbox" id="dark" class="darkin" aria-hidden="true" tabindex="-1"><script>/* Тема. По умолчанию книга идёт за системной настройкой; выбор
+   читателя, если он был, её перебивает. Стоит здесь, а не в конце книги,
+   чтобы страница не успела мигнуть чужим цветом.
+
+   Переключатель показывает то, что сейчас на экране, и переключает на
+   противоположное. Без сценариев он умеет только включать тёмную —
+   так было и раньше. */
+try{var v=localStorage.getItem("tema");
+if(v==="temnaya"||v==="svetlaya")document.documentElement.setAttribute("data-tema",v);
+var t=v||(matchMedia("(prefers-color-scheme: dark)").matches?"temnaya":"svetlaya");
+document.getElementById("dark").checked=(t==="temnaya");}catch(e){}</script>
 <div class="pagebg" aria-hidden="true"></div>
 
 <a id="top"></a>
@@ -1574,14 +1583,16 @@ try{if(localStorage.getItem("tema")==="temnaya")document.getElementById("dark").
     adres(vnutri ? vnutri.id : (snaruzhi ? snaruzhi.id : null));
   });
 
-  /* Память темы. Переключатель включает тёмную поверх системной, поэтому
-     запоминаем только его состояние: снят — книга снова идёт за системой. */
+  /* Тема: переключатель выбирает светлую или тёмную и запоминает выбор.
+     Цвет строки браузера идёт следом, иначе он остался бы системным. */
   var tema = document.getElementById('dark');
   if (tema) tema.addEventListener('change', function () {
-    try {
-      if (tema.checked) localStorage.setItem('tema', 'temnaya');
-      else localStorage.removeItem('tema');
-    } catch (e) {}
+    var vybor = tema.checked ? 'temnaya' : 'svetlaya';
+    document.documentElement.setAttribute('data-tema', vybor);
+    try { localStorage.setItem('tema', vybor); } catch (e) {}
+    var cvet = vybor === 'temnaya' ? '#191E21' : '#E9E7DC';
+    var metki = document.querySelectorAll('meta[name="theme-color"]');
+    for (var i = 0; i < metki.length; i++) metki[i].content = cvet;
   });
 
   /* Раскрыли раздел нажатием — адрес показывает его: ссылку можно

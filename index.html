@@ -1584,6 +1584,23 @@ try{if(localStorage.getItem("tema")==="temnaya")document.getElementById("dark").
     } catch (e) {}
   });
 
+  /* Раскрыли раздел нажатием — адрес показывает его: ссылку можно
+     скопировать и переслать, а обновление страницы вернёт сюда же.
+     Свернули — адрес отпускает раздел. */
+  addEventListener('toggle', function (sob) {
+    var uzel = sob.target;
+    if (!uzel || uzel.tagName !== 'DETAILS') return;
+    var svoj = uzel.querySelector(':scope > summary [id]') || uzel.closest('[id]');
+    if (!svoj) return;
+    if (uzel.open) {
+      // не затирать более точный адрес более общим: раскрытие подглавы
+      // тянет за собой раздел, но в адресе должна остаться подглава
+      var cel = location.hash && document.getElementById(location.hash.slice(1));
+      if (cel && cel !== svoj && uzel.contains(cel)) return;
+      adres(svoj.id);
+    } else if (location.hash === '#' + svoj.id) adres(null);
+  }, true);
+
   addEventListener('hashchange', otkryt);
   otkryt();
 })();

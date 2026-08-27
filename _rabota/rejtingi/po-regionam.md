@@ -1,191 +1,179 @@
-# Предварительный расклад по регионам
+# Пятёрки по регионам, Vivino
 
-Это **не** готовые пятёрки. Это то, что удалось собрать без прямого доступа к
-Vivino, — заготовка, по которой видно, где данных хватит, а где нет.
+Собрано в августе 2026-го. Ниже — вина, отобранные правилом: порог по числу
+отзывов, затем сдвиг оценки к средней по выборке, затем потолок в два вина на
+хозяйство. Разбор правила — в `README.md`.
 
-Порядок внутри региона выставлен только там, где известно число отзывов: без
-него сравнивать 4,3 и 4,2 нельзя, в этом и был весь смысл вашего условия.
-Где чисел нет, вина перечислены по убыванию сырой оценки и помечены знаком «·»,
-означающим ровно одно: место не определено.
+**Как это читать.** Столбец «Vivino» — сырая оценка сайта. «Отзывов» — на
+скольких она держится. «После сдвига» — то, по чему выстроен порядок: оценка,
+подтянутая к средней тем сильнее, чем меньше отзывов. Вино с 4,4 по двадцати
+пяти отзывам стоит ниже вина с 4,3 по тремстам сорока — так и задумано.
 
-Средней по Сербии, к которой сдвигаются малые выборки, у меня нет — она
-считается по всей выборке, а выборки нет. Поэтому итоговых чисел здесь тоже
-нет. Их даст `sobrat-rejtingi.py` после сбора.
+**Чего здесь нет.** Вин, у которых число отзывов установить не удалось. Их
+почти две сотни, и они перечислены под каждым районом отдельной строкой —
+это очередь, а не отбраковка: среди них есть вина с оценкой выше всех
+попавших в таблицу. Пока неизвестно, на скольких отзывах эта оценка держится,
+ставить их в список нельзя — это ровно то, чего вы просили избежать.
 
-Сколько отзывов известно — в скобках. Медали Decanter 2026 и выбор Vino.rs
-взяты из самой книги, приложение «Кто на вершине».
+Числа отзывов, помеченные в `vivino-zapisi.jsonl` как «нижняя граница», взяты
+из профиля вкуса или из отдельного урожая: настоящее число не меньше
+указанного. Таких пять.
+
+**Пересобрать файл:**
+
+    cd _rabota/rejtingi
+    cat po-regionam-vstuplenie.md > po-regionam.md
+    python3 svesti-pyaterki.py --markdown >> po-regionam.md
 
 ---
 
+<!-- Собрано скриптом svesti-pyaterki.py. Руками не править: -->
+<!-- правьте vivino-zapisi.jsonl и перегенерируйте.          -->
+
+Порог 25 отзывов · вес недоверия 50 · потолок 2 вина на хозяйство.
+Средняя, к которой идёт сдвиг, — **3.90** по 113 винам, прошедшим порог.
+
 ## Фрушка гора
 
-Единственный регион, где Vivino наполнен по-настоящему.
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Erdevik · Grand Trianon | 4.3 | 340 | 4.25 |
+| 2 | Deurić · Chardonnay | 4.1 | 533 | 4.08 |
+| 3 | Dukay-Sagmeister · Kanias Pinot Noir | 4.1 | 258 | 4.07 |
+| 4 | Kiš · Kišov Bermet Slatko | 4.1 | 102 | 4.04 |
+| 5 | Dukay-Sagmeister · Furmint | 4.3 | 25 | 4.03 |
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Veritas Ćuković · Momentum Cabernet Sauvignon | 4,4 | · |
-| Erdevik · Omnibus Lector Chardonnay | 4,3 | · |
-| Erdevik · Grand Trianon | 4,3 | · |
-| Erdevik · Marlon Delon Cab.Sauv.-Merlot | 4,3 | · |
-| Kovačević · Edicija S Aurelius | 4,2 | · |
-| Deurić · Chardonnay | 4,1 | 533 |
-| Erdevik · Roza Nostra | 4,1 | · |
-| Bikicki · Victor, Sfera Noir | 4,1 | · |
-| Đurđić · Probus | 4,1 | · |
-| Deurić · Marmalade Orange | 4,0 | 821 |
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
 
-Медали: *Marlon Delon Cab.Sauv.-Merlot 2017* (Erdevik) и *Momentum 2017*
-(Veritas Ćuković) — золото Decanter 2026; *La Rem Chardonnay 2023* (Deurić) —
-платина; *Omnibus Lector* — первая платина страны, 2020.
-
-Расхождение, о котором стоит помнить: *La Rem Chardonnay 2023* и
-*La Rem Morava 2023* на Vivino не нашлись вовсе, а грашац Vinčić — Best in Show
-Decanter 2023 — числится там как «недостаточно оценок».
+Veritas Ćuković · Momentum Cabernet Sauvignon 4.4, Erdevik · Omnibus Lector Chardonnay 4.3, Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 4.3, Erdevik · Stifler's Mom Shiraz 4.3, Kovačević · Edicija S Aurelius 4.2, Kovačević · Edicija R Chardonnay 4.2, Erdevik · Trianon 4.1, Kovačević · Edicija R Sauvignon 4.1, Kovačević · Edicija S Sauvignon 4.1, Bikicki · Victor 4.1, Bikicki · Sfera Noir 4.1, Đurđić · Probus 4.1, Molovin · Inat Traminac 4.1, Šapat · Àkcent Réserve 4.1 — и ещё 73.
 
 ## Суботичско-Хоргошская пешчара
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Maurer · Kadarka Gravitation | 4,3 | · |
-| Zvonko Bogdan · Icon Campana Rubimus | 4,3 | · |
-| Maurer · Kadarka Nagy-Krisztus, Oszkar Babba | 4,2 | · |
-| Zvonko Bogdan · Merlot, Cuvée No.1, Icon Campana Albus | 4,1 | · |
-| Maurer · Oszkar Karom, Sott, Tamjanika | 4,1 | · |
-| Tonković · Rapsodija Kadarka | 3,9 | 322 |
-| Tonković · Fantazija Kadarka | 3,8 | 857 |
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Zvonko Bogdan · Chardonnay | 4.0 | 100 | 3.97 |
+| 2 | Tonković · Rapsodija Kadarka | 3.9 | 322 | 3.90 |
+| 3 | Tonković · Fantazija Kadarka | 3.8 | 857 | 3.81 |
 
-Медали: *Chardonnay 2022* и *Éclater Blanc de Blancs Brut Nature 2018*
-(Zvonko Bogdan) — золото Decanter 2026; на Vivino отдельными позициями их нет.
+В списке 3 вина из пяти: у остальных района число отзывов не установлено.
 
-Кадарка Tonković — самое отмечаемое вино района (857 отзывов) при оценке ниже
-средней по региону. Ровно тот случай, ради которого нужен сдвиг к среднему:
-по сырому баллу оно внизу, по надёжности — вверху.
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
+
+Petra · Traminac Late Harvest 4.4, Zvonko Bogdan · Icon Campana Rubimus 4.3, Maurer · Kadarka Gravitation 4.3, Maurer · Kadarka Nagy-Krisztus 4.2, Maurer · Oszkar Babba 4.2, Petra · Cuvée 4.2, Zvonko Bogdan · Merlot 4.1, Zvonko Bogdan · Cuvée No.1 4.1, Zvonko Bogdan · Icon Campana Albus 4.1, Maurer · Oszkar Karom 4.1, Maurer · Sott 4.1, Maurer · Tamjanika 4.1, Zvonko Bogdan · Nebo Tamjanika 4.0, Zvonko Bogdan · Rosé Sec 4.0 — и ещё 8.
 
 ## Банат
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Drašković · Muskat Otonel | 4,1 | · |
-| Drašković · Chardonnay | 3,8 | · |
-| Drašković · Horizont Chardonnay, Mahago, Divlja Ruža Rosé | 3,7 | · |
-| Vršački vinogradi · Banatski Rizling | 3,3 | · |
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Čoka · Ždrepčeva Krv Forever | 4.0 | 66 | 3.96 |
+| 2 | Čoka · Kupianovo Vino | 3.9 | 172 | 3.90 |
 
-Пятёрка не собирается: Galot и Rnjak на Vivino не нашлись, у Vršački vinogradi
-почти всё — «недостаточно оценок». Район на Vivino почти не представлен.
+В списке 2 вина из пяти: у остальных района число отзывов не установлено.
+
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
+
+Drašković · Muskat Otonel 4.1, Drašković · Chardonnay 3.8, Drašković · Horizont Chardonnay 3.7, Drašković · Mahago 3.7, Drašković · Divlja Ruža Rosé 3.7, Drašković · Ruža Vetrova Muskat Otonel 3.7, Drašković · Beli Pinot 3.6, Drašković · Triptih 3.5, Drašković · Rosé 3.5, Vršački vinogradi · Banatski Rizling 3.3.
 
 ## Шумадия
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Radovanović · Réserve Special Cabernet Sauvignon | 4,4 | · |
-| Radovanović · Réserve / Grand Reserve / Cabernet Sauvignon | 4,3 | · |
-| Aleksandrović · Rodoslov Reserve | 4,3 | · |
-| Aleksandrović · Trijumf Gold | 4,2 | · |
-| Despotika · Dodir Muscat Ottonel-Tamjanika | 4,2 | 460 |
-| Arsenijević · Cabernet Sauvignon Limited Edition | 4,2 | · |
-| Tarpoš · Lipar Sauvignon Blanc | 4,2 | 28 |
-| Tarpoš · Cabernet Sauvignon | 4,1 | 61 |
-| Despotika · Morava Orange | 4,1 | 73 |
-| Aleksandrović · Vizija Selection, Trijumf Selection | 4,1 | · |
-| Tarpoš · 1804 Selekcija | 4,0 | 92 |
-| Despotika · Nemir Cab.Sauv.-Prokupac Rosé | 4,0 | 133 |
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Radovanović · Réserve Cabernet Sauvignon | 4.3 | 310 | 4.25 |
+| 2 | Matijašević · SoviNoa Fumé Blanc | 4.3 | 189 | 4.22 |
+| 3 | Despotika · Dodir Muscat Ottonel-Tamjanika | 4.2 | 460 | 4.17 |
+| 4 | Matijašević · SoviNoa Sauvignon Blanc | 4.1 | 522 | 4.08 |
+| 5 | Despotika · Morava Orange | 4.1 | 73 | 4.02 |
 
-Здесь потолок на хозяйство решает всё: без него Radovanović занимает четыре
-места из пяти четырьмя каберне.
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
 
-Медали: *Kameničarka Prokupac 2022* (Aleksandrović) — платина Decanter 2026;
-*Chardonnay Extra Brut 2021* (Tarpoš) — золото. Обоих на Vivino нет.
+Radovanović · Réserve Special Cabernet Sauvignon 4.4, Radovanović · Grand Reserve Cabernet Sauvignon 4.3, Radovanović · Cabernet Sauvignon 4.3, Aleksandrović · Rodoslov Reserve 4.3, Aleksandrović · Trijumf Gold 4.2, Aleksandrović · Prokupac 4.2, Arsenijević · Cabernet Sauvignon Limited Edition 4.2, Radovanović · Pino Sivi 4.1, Aleksandrović · Vizija Selection 4.1, Aleksandrović · Trijumf Selection 4.1, Aleksandrović · Trijumf Noir Brut 4.1, Radovanović · Chardonnay Selekcija 4.1, Aleksandrović · Harizma Selection 4.0, Despotika · Od Sorte Morava 4.0 — и ещё 4.
 
 ## Три Моравы и Жупа
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Temet · Three Morave Rezerva | 4,4 | · |
-| Temet · Dobra Godina | 4,3 | · |
-| Ivanović · No 1/2 | 4,3 | · |
-| Jovac · Single Vineyard Stella Noir | 4,3 | · |
-| Jovac · SV Selection Chardonnay | 4,3 | · |
-| Ivanović · No 3/4 Tamjanika | 4,2 | · |
-| Jovac · SV Selection Tamjanika | 4,2 | · |
-| Temet · Three Bele, Tri Morave White Rezerva | 4,1 | · |
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Temet · Three Morave Rezerva | 4.4 | 25 | 4.07 |
+| 2 | Temet · Three Bele | 4.1 | 43 | 3.99 |
+| 3 | Ivanović · Prokupac | 3.9 | 294 | 3.90 |
 
-Медали: *Stella Noir 2020* (Jovac) — золото Decanter 2026.
+В списке 3 вина из пяти: у остальных района число отзывов не установлено.
 
-Не нашлись на Vivino: Cilić, Fragaria, Yotta, Ralević (кроме враца без оценки),
-Minić, Spasić, Braća Rajković, Radovan. Budimir, Veličković и Vujić — страницы
-есть, оценок нет. То есть по Жупе данных почти нет, и то, что в таблице,
-это Ягодина и Левач.
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
+
+Ivanović · No 1/2 4.3, Jovac · Single Vineyard Stella Noir 4.3, Jovac · Single Vineyard Selection Chardonnay 4.3, Ivanović · No 3/4 Tamjanika 4.2, Jovac · Single Vineyard Selection Tamjanika 4.2, Rubin · Double Barrique Cabernet Sauvignon 4.1, Rubin · Double Barrique Sauvignon Blanc 4.1, Jovac · Single Vineyard Selection Sauvignon Blanc 4.0, Ivanović · Tamjanika 3.9, Zupa · Kupinovo Vino 3.9, Rubin · Amante Matea Merlot 3.8, Rubin · Amante Aurora 3.8, Rubin · Merlot 3.6, Ivanović · Petite Rose 3.6 — и ещё 4.
 
 ## Неготинска Крайина
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Matalj · Kremen Kamen Cabernet Sauvignon | 4,5 | · |
-| Matalj · Zemna Reserva | 4,2 | · |
-| Matalj · Kremen Cabernet-Merlot, Začinak Bukovski | 4,1 | · |
-| Matalj · Kremen Cab.Sauv., Cuvée Bukovski, Crna Tamjanika, Kremen Kremenjača | 4,0 | · |
-| Matalj · Bagrina Bukovska | 3,9 | · |
-| Raj · Crna Tamjanika, Bela Tamjanika | 3,7 | · |
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Matalj · Kremen Kamen Cabernet Sauvignon | 4.5 | 120 | 4.32 |
 
-*Kremen Kamen* — 4,5, высшая оценка среди всех сербских вин, что попались.
-Она же платина Decanter 2026. Единственный случай, где конкурс и покупатели
-сошлись.
+В списке 1 вина из пяти: у остальных района число отзывов не установлено.
 
-Пятёрка при потолке в два вина на хозяйство не собирается: кроме Matalj и Raj
-в районе на Vivino нет никого. У Francuska vinarija страницы вин есть
-(*Istina*, *Tajna*, *Obećanje*, *Brut C*), оценок нет.
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
+
+Matalj · Zemna Reserva 4.2, Matalj · Kremen Cabernet-Merlot 4.1, Matalj · Začinak Bukovski 4.1, Matalj · Kremen Cabernet Sauvignon 4.0, Matalj · Cuvée Bukovski 4.0, Matalj · Crna Tamjanika 4.0, Matalj · Kremen Kremenjača 4.0, Matalj · Bagrina Bukovska 3.9, Raj · Crna Tamjanika 3.7, Raj · Bela Tamjanika 3.7.
 
 ## Топлица
 
-Единственный регион, где числа отзывов известны почти по всем позициям.
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Toplički vinogradi · Gvozdeni Puk Rujno | 4.3 | 42 | 4.08 |
+| 2 | Doja · Breg Prokupac | 4.1 | 99 | 4.03 |
+| 3 | Toplički vinogradi · Epigenia Cabernet Sauvignon | 3.8 | 34 | 3.86 |
+| 4 | Doja · Rosé | 3.5 | 180 | 3.59 |
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Doja · Breg Cabernet Sauvignon | 4,3 | · |
-| Toplički vinogradi · Gvozdeni Puk Rujno | 4,3 | 42 |
-| Doja · Breg Prokupac | 4,1 | · |
-| Doja · Breg Merlot | 4,0 | · |
-| Doja · Prokupac, Tamjanika, Cab.Sauv.-Merlot | 3,9 | · |
-| Toplički vinogradi · Tribus Villa Sauvignon Blanc | 3,8 | 411 |
-| Toplički vinogradi · Epigenia Prokupac | 3,8 | 148 |
-| Toplički vinogradi · Epigenia Cabernet Sauvignon | 3,8 | 34 |
-| Toplički vinogradi · Epigenia Sauvignon Blanc | 3,7 | 65 |
-| Doja · Rosé | 3,5 | 180 |
+В списке 4 вина из пяти: у остальных района число отзывов не установлено.
 
-Kostić и Aranđelović на Vivino не нашлись.
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
+
+Doja · Breg Cabernet Sauvignon 4.3, Doja · Breg Merlot 4.0, Doja · Cabernet Sauvignon-Merlot 3.9, Doja · Prokupac 3.9, Doja · Tamjanika 3.9, Doja · Belo Chardonnay-Pinot Grigio 3.7.
 
 ## Юго-восток
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Aleksić · Žuti Cvet | 4,1 | · |
-| Aleksić · Amanet Vranac | 4,0 | · |
-| Jović · Vranac | 4,0 | · |
-| Džervin · Schlossberg Merlot, Sauvignon | 3,9 | · |
-| Džervin · Rosé Romansa | 3,5 | · |
-| Džervin · Despot Crveni | 3,3 | · |
-| Džervin · Dubravka | 3,0 | · |
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Aleksić · Amanet Vranac | 4.0 | 200 | 3.98 |
+| 2 | Džervin · Rosé Romansa | 3.5 | 61 | 3.68 |
 
-*Dubravka Gold* — то самое вино за 500 динаров из шпаргалки Vino.rs — имеет
-на Vivino отдельную страницу без оценки. Вино, которое профессионалы назвали
-лучшей покупкой за небольшие деньги, покупатели почти не отмечают.
+В списке 2 вина из пяти: у остальных района число отзывов не установлено.
+
+Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
+
+Aleksić · Žuti Cvet 4.1, Aleksić · Limited Bonaca Chardonnay 4.1, Jović · Vranac 4.0, Džervin · Schlossberg Merlot 3.9, Džervin · Sauvignon 3.9, Aleksić · Kardaš Cabernet Sauvignon 3.8, Aleksić · Morava 3.8, Aleksić · Prokupac 3.8, Aleksić · Nostalgija 3.6, Džervin · Despot Crveni 3.3, Džervin · Dubravka 3.0.
 
 ## Подунавье и Белградский район
 
-Пусто. У Janko и Plavinac страницы есть, оценок нет; Trišić не нашёлся.
-Рубрика по Vivino здесь не наполнится.
+Пятёрка не собирается: ни одного вина с известным числом отзывов.
 
 ## Косово и Метохия
 
-| Вино | Vivino | Отзывов |
-|---|---|---|
-| Lakićević · Cuvée No.5 Merula | 4,3 | · |
-| Lakićević · Parus Sauvignon Blanc | 4,2 | · |
-| Lakićević · Cuvée Alcedo, Upupa Tamjanika, Solaris | 4,2 | · |
-| Lakićević · Picus Chardonnay, Picus Selection Chardonnay | 4,1 | · |
-| Lakićević · Cuvée No.1 Oriolus | 4,1 | · |
+| # | Вино | Vivino | Отзывов | После сдвига |
+|---|---|---|---|---|
+| 1 | Lakićević · Cuvée No.5 Merula | 4.2 | 178 | 4.13 |
+| 2 | Lakićević · Upupa Tamjanika | 4.2 | 133 | 4.12 |
 
-По хозяйству в целом: 13 вин, средняя 4,2, 810 оценок — по средней это лучшее
-из сербских хозяйств, что мне попались. Но хозяйство в главе одно, и «пятёрка
-региона» здесь неизбежно будет пятёркой одной винодельни. Потолок на хозяйство
-тут придётся снимать — или называть рубрику иначе.
+В списке 2 вина из пяти: у остальных района число отзывов не установлено.
+
+## Хозяйства без района
+
+Вина есть, к какой главе книги отнести — не установлено:
+
+- Virtus · Prokupac 733 — 4.4 (26)
+- Virtus · Cuvée Virtus Credo — 4.3 (312)
+- Virtus · Credo Beli — 4.2 (122)
+- Grabak · Vivak Prokupac — 4.1 (35)
+- Virtus · Pinot Noir — 4.0 (607)
+- Grabak · Siva Vrana — 4.0 (32)
+- Grabak · Ćuk Merlot — 4.0 (72)
+- Virtus · Marselan — 3.9 (288)
+- Virtus · Gewürztraminer — 3.9 (132)
+- Grabak · Modrovrana — 3.9 (30)
+- Virtus · Mlavac Crveni — 3.8 (198)
+- Virtus · Pinot Grigio — 3.8 (131)
+- Virtus · Sauvignon Blanc — 3.8 (484)
+- Grabak · Prva Lasta — 3.7 (58)
+- Grabak · Grabak Prokupac — 3.7 (52)
+- Virtus · Prokupac — 3.6 (47)
+- Grabak · Bela Galubica — 3.6 (27)
+

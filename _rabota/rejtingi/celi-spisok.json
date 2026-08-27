@@ -1,0 +1,482 @@
+{
+  "istochnik": "index.html",
+  "regiony": [
+    {
+      "kod": "fruska",
+      "imya": "Фрушка гора",
+      "yakor": "#fruska",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Deurić",
+          "podpis": "Мала Ремета"
+        },
+        {
+          "hozyaistvo": "Vinčić",
+          "podpis": "Фрушка гора"
+        },
+        {
+          "hozyaistvo": "Erdevik",
+          "podpis": "Эрдевик"
+        },
+        {
+          "hozyaistvo": "Kovačević",
+          "podpis": "Ириг, торговый центр Срема XVIII века"
+        },
+        {
+          "hozyaistvo": "Mačkov podrum",
+          "podpis": "Ириг, торговый центр Срема XVIII века"
+        },
+        {
+          "hozyaistvo": "Kiš",
+          "podpis": "Сремски Карловци, с 1801"
+        },
+        {
+          "hozyaistvo": "Vinum",
+          "podpis": "Сремски Карловци"
+        },
+        {
+          "hozyaistvo": "Veritas Ćuković",
+          "podpis": "Сремски Карловци"
+        },
+        {
+          "hozyaistvo": "Atelje vina Šapat",
+          "podpis": "Нови Сланкамен"
+        },
+        {
+          "hozyaistvo": "Dukay-Sagmeister",
+          "podpis": "виноградники под Иригом, подвал в Каньиже · органика"
+        },
+        {
+          "hozyaistvo": "Bikicki",
+          "podpis": "Баноштор · натуральные вина"
+        },
+        {
+          "hozyaistvo": "The Sparkling Winery",
+          "podpis": "только игристое"
+        },
+        {
+          "hozyaistvo": "Verkat",
+          "podpis": "Черевич"
+        },
+        {
+          "hozyaistvo": "Đurđić",
+          "podpis": "Фрушка гора"
+        },
+        {
+          "hozyaistvo": "Burma",
+          "podpis": "Фрушка гора"
+        },
+        {
+          "hozyaistvo": "Milanović",
+          "podpis": "Фрушка гора"
+        },
+        {
+          "hozyaistvo": "Dragojlović",
+          "podpis": "Сланкамен · первые этикетки весной 2026"
+        }
+      ],
+      "vina_v_tekste": [
+        "Anonymous Grašac",
+        "Pinole",
+        "La Rem Chardonnay 2023",
+        "La Rem Morava 2023",
+        "Omnibus Lector",
+        "Roza Nostra",
+        "Trianon",
+        "Grand Trianon",
+        "Aurelius",
+        "No.1",
+        "Bermet crveni",
+        "Dina",
+        "Grašac 26a",
+        "Grašac beli 2019",
+        "Atila",
+        "Kew",
+        "Devas",
+        "Kanias",
+        "PK Zero",
+        "Uncensored",
+        "Victor",
+        "The 2023",
+        "Франковка 2023",
+        "Rogoz",
+        "Husar",
+        "Kolodar"
+      ]
+    },
+    {
+      "kod": "subotica",
+      "imya": "Суботичско-Хоргошская пешчара",
+      "yakor": "#subotica",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Petra",
+          "podpis": "Палич"
+        },
+        {
+          "hozyaistvo": "Zvonko Bogdan",
+          "podpis": "Палич, с 2008"
+        },
+        {
+          "hozyaistvo": "Maurer",
+          "podpis": "под Суботицей и в Сремских Карловцах · натуральные вина"
+        },
+        {
+          "hozyaistvo": "Tonković",
+          "podpis": "Палич"
+        }
+      ],
+      "vina_v_tekste": [
+        "Cuvée No.1",
+        "1880",
+        "Crazy Lud",
+        "Gaggan",
+        "Karom"
+      ]
+    },
+    {
+      "kod": "banat",
+      "imya": "Банат",
+      "yakor": "#banat",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Vinarija Drašković",
+          "podpis": "Вршац · крупнейшее хозяйство района"
+        },
+        {
+          "hozyaistvo": "Galot",
+          "podpis": "Гудурица и окрестности"
+        },
+        {
+          "hozyaistvo": "Rnjak",
+          "podpis": "Гудурица и окрестности"
+        },
+        {
+          "hozyaistvo": "Vršački vinogradi",
+          "podpis": "историческое предприятие"
+        }
+      ],
+      "vina_v_tekste": []
+    },
+    {
+      "kod": "sumadija",
+      "imya": "Шумадия",
+      "yakor": "#sumadija",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Aleksandrović",
+          "podpis": "Винча, Топола · село с римским именем Vincea"
+        },
+        {
+          "hozyaistvo": "Radovanović",
+          "podpis": "Крнево"
+        },
+        {
+          "hozyaistvo": "Matijašević Vinogradi",
+          "podpis": "Орашац, основана около 2018"
+        },
+        {
+          "hozyaistvo": "Tarpoš",
+          "podpis": "Опленац"
+        },
+        {
+          "hozyaistvo": "Marko",
+          "podpis": "Ясиковица"
+        },
+        {
+          "hozyaistvo": "Despotika",
+          "podpis": "Влашки До · Лапово"
+        },
+        {
+          "hozyaistvo": "Đorđević Estate",
+          "podpis": "Влашки До · Лапово"
+        },
+        {
+          "hozyaistvo": "Arsenijević",
+          "podpis": "Шумадия"
+        },
+        {
+          "hozyaistvo": "Eden",
+          "podpis": "Шумадия"
+        }
+      ],
+      "vina_v_tekste": [
+        "Trijumf",
+        "Gold",
+        "Rodoslov",
+        "Kameničarka 2022",
+        "Franc Cabernet Sauvignon Barrique",
+        "SoviNoa Fumé Blanc",
+        "Belina",
+        "Čukundeda",
+        "Chardonnay Extra Brut 2021",
+        "Doajen"
+      ]
+    },
+    {
+      "kod": "morave",
+      "imya": "Три Моравы и Жупа",
+      "yakor": "#morave",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Temet",
+          "podpis": "Лозовик над Ягодиной · органика"
+        },
+        {
+          "hozyaistvo": "Cilić",
+          "podpis": "Ягодинское виногорье"
+        },
+        {
+          "hozyaistvo": "Veličković",
+          "podpis": "Три Моравы"
+        },
+        {
+          "hozyaistvo": "Yotta",
+          "podpis": "Жупа"
+        },
+        {
+          "hozyaistvo": "Budimir",
+          "podpis": "Жупа"
+        },
+        {
+          "hozyaistvo": "Fragaria",
+          "podpis": "Жупа"
+        },
+        {
+          "hozyaistvo": "Ivanović",
+          "podpis": "Александровац, с 1919"
+        },
+        {
+          "hozyaistvo": "Radovan",
+          "podpis": "Старци, бывш. Čokot"
+        },
+        {
+          "hozyaistvo": "Vujić",
+          "podpis": "Лукаревина, органика"
+        },
+        {
+          "hozyaistvo": "Ralević",
+          "podpis": "Парачин"
+        },
+        {
+          "hozyaistvo": "Jovac",
+          "podpis": "Йовачко виногорье · Левач"
+        },
+        {
+          "hozyaistvo": "Lastar",
+          "podpis": "Йовачко виногорье · Левач"
+        },
+        {
+          "hozyaistvo": "Minić",
+          "podpis": "Александровац"
+        },
+        {
+          "hozyaistvo": "Spasić",
+          "podpis": "Александровац"
+        },
+        {
+          "hozyaistvo": "Budimir",
+          "podpis": "Александровац"
+        },
+        {
+          "hozyaistvo": "Braća Rajković",
+          "podpis": "Александровац"
+        }
+      ],
+      "vina_v_tekste": [
+        "Vera",
+        "No ¾",
+        "Slatka mala",
+        "Nesanica",
+        "Aurum",
+        "Tri Morave Penušavo",
+        "Žuti Cvet Penušavac",
+        "Tri Morave",
+        "Ergo",
+        "Onyx",
+        "Manifest Sauvignon",
+        "NoNo",
+        "Zanos",
+        "Gmitar",
+        "Aurum 2020",
+        "Ra Ra",
+        "Virgo"
+      ]
+    },
+    {
+      "kod": "negotin",
+      "imya": "Неготинска Крайина",
+      "yakor": "#negotin",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Matalj",
+          "podpis": "Неготин"
+        },
+        {
+          "hozyaistvo": "Francuska vinarija",
+          "podpis": "Рогльево, органика"
+        },
+        {
+          "hozyaistvo": "Вина монастыря Буково",
+          "podpis": "Буковское виногорье"
+        },
+        {
+          "hozyaistvo": "Vimmid",
+          "podpis": "Неготин, Видровац, Рогльево"
+        },
+        {
+          "hozyaistvo": "Raj",
+          "podpis": "Неготин, Видровац, Рогльево"
+        },
+        {
+          "hozyaistvo": "Frunza Aglaja",
+          "podpis": "Неготин, Видровац, Рогльево"
+        },
+        {
+          "hozyaistvo": "Krajinska vinska zadruga",
+          "podpis": "Неготин, Видровац, Рогльево"
+        }
+      ],
+      "vina_v_tekste": [
+        "Kremen",
+        "Kremen Kamen",
+        "Bukovski Cuvee",
+        "Brut C",
+        "Poema",
+        "Obećanje",
+        "Istina",
+        "Tajna",
+        "Filigran"
+      ]
+    },
+    {
+      "kod": "toplica",
+      "imya": "Топлица",
+      "yakor": "#toplica",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Kostić",
+          "podpis": "Прокупле · гаражная винодельня"
+        },
+        {
+          "hozyaistvo": "Doja",
+          "podpis": "Блаце, Прокупачко виногорье"
+        },
+        {
+          "hozyaistvo": "Toplički vinogradi",
+          "podpis": "Гойиновац, 14 км от Прокупле"
+        },
+        {
+          "hozyaistvo": "Aranđelović",
+          "podpis": "Прокупле"
+        }
+      ],
+      "vina_v_tekste": [
+        "Tamjanika oranž 2024",
+        "Breg Prokupac",
+        "Epigenia"
+      ]
+    },
+    {
+      "kod": "jugoistok",
+      "imya": "Юго-восток",
+      "yakor": "#jugoistok",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Aleksić",
+          "podpis": "Вранье, с 2006"
+        },
+        {
+          "hozyaistvo": "Džervin",
+          "podpis": "Княжевац, с 1927-го"
+        },
+        {
+          "hozyaistvo": "Jović",
+          "podpis": "Потрканье, органика · в конверсии"
+        }
+      ],
+      "vina_v_tekste": [
+        "Dubravka Gold",
+        "Vranac Potrkanjski",
+        "Žuti Cvet",
+        "Žuti Cvet Penušavac"
+      ]
+    },
+    {
+      "kod": "podunavlje",
+      "imya": "Подунавье и Белградский район",
+      "yakor": "#podunavlje",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Trišić",
+          "podpis": "Белградский район"
+        },
+        {
+          "hozyaistvo": "Janko",
+          "podpis": "Белградский район"
+        },
+        {
+          "hozyaistvo": "Plavinac",
+          "podpis": "Белградский район"
+        }
+      ],
+      "vina_v_tekste": [
+        "Aureus Mons",
+        "Belina"
+      ]
+    },
+    {
+      "kod": "metohija",
+      "imya": "Косово и Метохия",
+      "yakor": "#metohija",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Lakićević",
+          "podpis": "Лепосавич"
+        }
+      ],
+      "vina_v_tekste": [
+        "Parus",
+        "Merula",
+        "Oriolus",
+        "Upupa",
+        "UN1244"
+      ]
+    },
+    {
+      "kod": "vinarije",
+      "imya": "Приложение Г. Кто на вершине",
+      "yakor": "#vinarije",
+      "hozyaistva": [
+        {
+          "hozyaistvo": "Matalj",
+          "podpis": "Неготинска Крайина"
+        },
+        {
+          "hozyaistvo": "Aleksandrović",
+          "podpis": "Шумадия · Винча, Топола, Опленац"
+        },
+        {
+          "hozyaistvo": "Deurić",
+          "podpis": "Фрушка гора · Мала Ремета"
+        }
+      ],
+      "vina_v_tekste": [
+        "Omnibus Lector",
+        "Kremen Kamen",
+        "Kameničarka Prokupac 2022",
+        "Kremen Kamen 2021",
+        "Trijumf",
+        "La Rem Chardonnay 2023",
+        "La Rem Morava 2023",
+        "Chardonnay Extra Brut 2021",
+        "Chardonnay 2022",
+        "Éclater Blanc de Blancs Brut Nature 2018",
+        "Marlon Delon Cabernet Sauvignon-Merlot 2017",
+        "Stella Noir 2020",
+        "Momentum 2017",
+        "La Gora Bello 2025"
+      ]
+    }
+  ]
+}

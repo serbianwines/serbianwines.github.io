@@ -6,8 +6,13 @@ from pathlib import Path
 from _rabota.audit.meta_audit import (
     build_source_profiles,
     classify_source,
+    duplicate_candidates,
+    fact_signature,
     load_jsonl,
     load_source_policy,
+    normalize_keys,
+    risk_reasons,
+    scan_audit,
     source_lineage_key,
 )
 
@@ -281,6 +286,1091 @@ class SourcePolicyTests(unittest.TestCase):
 
         self.assertEqual(profiles["C0001"]["independent_lineages"], 1)
         self.assertEqual(profiles["C0001"]["tiers"], ["authoritative", "specialist"])
+
+    def test_source_profiles_group_pages_from_one_editorial_publisher(self):
+        sources = [
+            {
+                "source_id": "E000001",
+                "claim_ids": ["C0001"],
+                "resource": "wine_dictionary",
+                "relation": "direct_sensory_support",
+                "url": "https://glossary.wein.plus/gewuerztraminer",
+                "title": "Gewürztraminer",
+            },
+            {
+                "source_id": "E000002",
+                "claim_ids": ["C0001"],
+                "resource": "wine_dictionary",
+                "relation": "direct_sensory_support",
+                "url": "https://glossary.wein.plus/bouquet-varieties",
+                "title": "Bouquet varieties",
+            },
+        ]
+
+        profiles = build_source_profiles(sources, load_source_policy(POLICY_PATH))
+
+        self.assertEqual(profiles["C0001"]["independent_lineages"], 1)
+
+    def test_source_profiles_group_subdomains_from_one_editorial_publisher(self):
+        sources = [
+            {
+                "source_id": "E000001",
+                "claim_ids": ["C0001"],
+                "resource": "wine_dictionary",
+                "relation": "direct_support",
+                "url": "https://glossary.wein.plus/gewuerztraminer",
+                "title": "Gewürztraminer",
+            },
+            {
+                "source_id": "E000002",
+                "claim_ids": ["C0001"],
+                "resource": "wine_guide",
+                "relation": "direct_support",
+                "url": "https://wineguide.wein.plus/wine-regions/traminer",
+                "title": "Traminer region guide",
+            },
+        ]
+
+        profiles = build_source_profiles(sources, load_source_policy(POLICY_PATH))
+
+        self.assertEqual(profiles["C0001"]["independent_lineages"], 1)
+
+
+class CandidateTests(unittest.TestCase):
+    def test_normalize_keys_folds_case_diacritics_and_separators(self):
+        claim = {"entity_keys": ["Župa", "PROKUPAC", "vineyard-aspect"]}
+
+        self.assertEqual(
+            normalize_keys(claim),
+            frozenset({"zupa", "prokupac", "vineyard_aspect"}),
+        )
+
+    def test_fact_signature_extracts_year_unit_and_denominator(self):
+        claim = {
+            "entity_keys": ["winery-x", "2020", "yield", "per-hectare"],
+            "statement": "В 2020 году урожайность составляла 5 тонн с гектара.",
+            "book_quote": "5 т/га",
+            "category": "урожайность",
+        }
+
+        signature = fact_signature(claim)
+
+        self.assertEqual(signature["years"], ["2020"])
+        self.assertIn("tonne", signature["units"])
+        self.assertEqual(signature["denominators"], ["per_hectare"])
+
+    def test_corpus_measurement_values_are_not_scope_years(self):
+        claims = {
+            claim["claim_id"]: claim
+            for claim in load_jsonl(POLICY_PATH.parents[1] / "claims.jsonl")
+        }
+
+        expected_years = {
+            "C0694": [],
+            "C0770": ["1903"],
+            "C0926": [],
+            "C1450": ["2012"],
+        }
+        for claim_id, expected in expected_years.items():
+            with self.subTest(claim_id=claim_id):
+                self.assertEqual(fact_signature(claims[claim_id])["years"], expected)
+
+    def test_fact_signature_recognizes_tonnes_per_hectare_abbreviation(self):
+        signature = fact_signature(
+            {
+                "entity_keys": ["yield", "per-hectare"],
+                "statement": "Урожайность: 5 т/га.",
+                "category": "урожайность",
+            }
+        )
+
+        self.assertIn("tonne", signature["units"])
+        self.assertIn("per_hectare", signature["denominators"])
+
+    def test_fact_signature_extracts_role_scopes_and_measurements(self):
+        signature = fact_signature(
+            {
+                "entity_keys": [
+                    "erdevik-winery",
+                    "belgrade-wine-region",
+                    "producer-variation",
+                    "area-rank",
+                    "country-of-origin",
+                    "yield",
+                ],
+                "statement": "Урожайность составляла 45 гл/га.",
+                "category": "урожайность",
+            }
+        )
+
+        self.assertEqual(signature["producers"], ["erdevik_winery"])
+        self.assertEqual(signature["territories"], ["belgrade_wine_region"])
+        self.assertIn("hectolitre", signature["units"])
+        self.assertIn("per_hectare", signature["denominators"])
+        self.assertIn(
+            {"value": "45", "unit": "hectolitre", "denominator": "per_hectare"},
+            signature["measurements"],
+        )
+
+    def test_fact_signature_separates_named_entities_from_generic_topics(self):
+        cases = (
+            (
+                ["erdevik-winery", "tatjana-djuricic", "oenologist"],
+                ["erdevik_winery", "tatjana_djuricic"],
+            ),
+            (
+                ["fruska-gora", "crveni-cot", "elevation"],
+                ["crveni_cot", "fruska_gora"],
+            ),
+            (
+                ["petra-winery", "palic-lake", "vineyard-area"],
+                ["palic_lake", "petra_winery"],
+            ),
+        )
+
+        for entity_keys, expected in cases:
+            with self.subTest(entity_keys=entity_keys):
+                signature = fact_signature(
+                    {
+                        "entity_keys": entity_keys,
+                        "category": "описание",
+                        "statement": "Факт.",
+                    }
+                )
+                self.assertEqual(signature["named_entity_keys"], expected)
+
+    def test_exact_entity_fingerprint_is_duplicate_candidate(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["prokupac", "kamenicarka", "synonym"],
+                "category": "синоним",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["synonym", "kamenicarka", "prokupac"],
+                "category": "название",
+            },
+        ]
+
+        candidates = duplicate_candidates(claims)
+
+        self.assertEqual(candidates[0]["claim_ids"], ["C0001", "C0002"])
+        self.assertEqual(candidates[0]["match"], "exact")
+
+    def test_one_generic_key_is_not_duplicate_candidate(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["serbia", "climate", "rainfall"],
+                "category": "климат",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["serbia", "probus", "grape"],
+                "category": "история",
+            },
+        ]
+
+        self.assertEqual(duplicate_candidates(claims), [])
+
+    def test_near_duplicate_requires_two_specific_objects_and_property_match(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["prokupac", "kamenicarka", "synonym"],
+                "category": "синоним сорта",
+                "statement": "Каменичарка является синонимом Прокупца.",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["prokupac", "kamenicarka", "name"],
+                "category": "название сорта",
+                "statement": "Название Каменичарка относится к Прокупцу.",
+            },
+        ]
+
+        candidates = duplicate_candidates(claims)
+
+        self.assertEqual(candidates[0]["claim_ids"], ["C0001", "C0002"])
+        self.assertEqual(candidates[0]["match"], "near")
+
+    def test_vintage_or_denominator_difference_is_scope_barrier(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["winery-x", "2020", "yield", "per-hectare"],
+                "category": "урожайность",
+                "statement": "В 2020 году урожайность составляла 5 тонн с гектара.",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["winery-x", "2021", "yield", "total"],
+                "category": "урожайность",
+                "statement": "В 2021 году общий урожай составлял 5 тонн.",
+            },
+        ]
+
+        self.assertEqual(duplicate_candidates(claims), [])
+
+    def test_same_keys_with_different_statement_years_do_not_cluster(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["winery-x", "yield", "total"],
+                "category": "урожайность",
+                "statement": "Общий урожай 2020 года составил 5 тонн.",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["winery-x", "yield", "total"],
+                "category": "урожайность",
+                "statement": "Общий урожай 2021 года составил 5 тонн.",
+            },
+        ]
+
+        self.assertEqual(duplicate_candidates(claims), [])
+
+    def test_corpus_evidence_year_does_not_hide_vintage_repeat(self):
+        claims = {
+            claim["claim_id"]: claim
+            for claim in load_jsonl(POLICY_PATH.parents[1] / "claims.jsonl")
+        }
+
+        candidates = duplicate_candidates([claims["C1356"], claims["C2290"]])
+
+        self.assertEqual(
+            [candidate["claim_ids"] for candidate in candidates],
+            [["C1356", "C2290"]],
+        )
+
+    def test_distinct_territories_producers_and_units_are_scope_barriers(self):
+        cases = (
+            (
+                {
+                    "entity_keys": ["alpha", "beta", "gamma", "zupa-region", "yield"],
+                    "category": "урожайность",
+                    "statement": "Урожайность составила 5 тонн.",
+                },
+                {
+                    "entity_keys": ["alpha", "beta", "gamma", "srem-region", "yield"],
+                    "category": "урожайность",
+                    "statement": "Урожайность составила 5 тонн.",
+                },
+            ),
+            (
+                {
+                    "entity_keys": ["alpha", "beta", "gamma", "erdevik-winery", "yield"],
+                    "category": "урожайность",
+                    "statement": "Урожайность составила 5 тонн.",
+                },
+                {
+                    "entity_keys": ["alpha", "beta", "gamma", "kis-winery", "yield"],
+                    "category": "урожайность",
+                    "statement": "Урожайность составила 5 тонн.",
+                },
+            ),
+            (
+                {
+                    "entity_keys": ["alpha", "beta", "gamma", "yield"],
+                    "category": "урожайность",
+                    "statement": "Объём составил 5 тонн.",
+                },
+                {
+                    "entity_keys": ["alpha", "beta", "gamma", "yield"],
+                    "category": "урожайность",
+                    "statement": "Объём составил 5 литров.",
+                },
+            ),
+        )
+
+        for index, (left, right) in enumerate(cases):
+            with self.subTest(case=index):
+                left = {"claim_id": "C0001", **left}
+                right = {"claim_id": "C0002", **right}
+                self.assertEqual(duplicate_candidates([left, right]), [])
+
+    def test_corpus_distinct_soil_territories_do_not_cluster(self):
+        claims = {
+            claim["claim_id"]: claim
+            for claim in load_jsonl(POLICY_PATH.parents[1] / "claims.jsonl")
+        }
+
+        self.assertEqual(
+            duplicate_candidates([claims["C0066"], claims["C1220"]]),
+            [],
+        )
+
+    def test_distinct_specific_objects_on_both_sides_do_not_cluster(self):
+        base = POLICY_PATH.parents[1]
+        wanted = {"C0240", "C0241", "C0242", "C0243"}
+        claims = [
+            claim for claim in load_jsonl(base / "claims.jsonl") if claim["claim_id"] in wanted
+        ]
+
+        self.assertEqual(duplicate_candidates(claims), [])
+
+    def test_candidate_order_is_deterministic_by_first_claim(self):
+        claims = [
+            {"claim_id": "C0010", "entity_keys": ["gamma", "delta", "identity"], "category": "идентичность"},
+            {"claim_id": "C0011", "entity_keys": ["delta", "gamma", "identity"], "category": "идентичность"},
+            {"claim_id": "C0002", "entity_keys": ["alpha", "beta", "identity"], "category": "идентичность"},
+            {"claim_id": "C0003", "entity_keys": ["beta", "alpha", "identity"], "category": "идентичность"},
+        ]
+
+        candidates = duplicate_candidates(claims)
+
+        self.assertEqual(
+            [candidate["claim_ids"] for candidate in candidates],
+            [["C0002", "C0003"], ["C0010", "C0011"]],
+        )
+
+    def test_overlapping_exact_and_near_matches_form_one_cluster(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["alpha", "beta", "identity"],
+                "category": "идентичность",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["identity", "beta", "alpha"],
+                "category": "идентичность",
+            },
+            {
+                "claim_id": "C0003",
+                "entity_keys": ["alpha", "beta", "name", "variant"],
+                "category": "название",
+            },
+        ]
+
+        candidates = duplicate_candidates(claims)
+
+        self.assertEqual(len(candidates), 1)
+        self.assertEqual(candidates[0]["claim_ids"], ["C0001", "C0002", "C0003"])
+        self.assertEqual(candidates[0]["match"], "near")
+
+    def test_bridge_claim_cannot_merge_semantically_incompatible_endpoints(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["alpha", "beta", "identity"],
+                "category": "идентичность",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["alpha", "beta", "gamma", "identity"],
+                "category": "идентичность",
+            },
+            {
+                "claim_id": "C0003",
+                "entity_keys": ["beta", "gamma", "identity"],
+                "category": "идентичность",
+            },
+        ]
+
+        candidates = duplicate_candidates(claims)
+
+        self.assertFalse(
+            any({"C0001", "C0003"}.issubset(candidate["claim_ids"]) for candidate in candidates)
+        )
+
+    def test_wildcard_scope_preserves_each_compatible_duplicate_edge(self):
+        claims = [
+            {
+                "claim_id": "C0001",
+                "entity_keys": ["alpha", "beta", "yield"],
+                "category": "урожайность",
+                "statement": "Урожайность составляла 5 тонн.",
+            },
+            {
+                "claim_id": "C0002",
+                "entity_keys": ["alpha", "beta", "yield", "2020"],
+                "category": "урожайность",
+                "statement": "В 2020 году урожайность составляла 5 тонн.",
+            },
+            {
+                "claim_id": "C0003",
+                "entity_keys": ["alpha", "beta", "yield", "2021"],
+                "category": "урожайность",
+                "statement": "В 2021 году урожайность составляла 5 тонн.",
+            },
+        ]
+
+        candidates = duplicate_candidates(claims)
+
+        self.assertEqual(
+            [candidate["claim_ids"] for candidate in candidates],
+            [["C0001", "C0002"], ["C0001", "C0003"]],
+        )
+
+    def test_flags_high_consensus_supported_only_by_wikipedia(self):
+        reasons = risk_reasons(
+            {
+                "claim_id": "C0001",
+                "statement": "Это был первый виноградник.",
+                "book_quote": "первый виноградник",
+                "category": "история",
+                "entity_keys": ["first"],
+            },
+            {"status": "совпадает", "consensus": "высокий"},
+            {
+                "tiers": ["wikipedia"],
+                "independent_lineages": 1,
+                "unknown_source_ids": [],
+                "sources": [
+                    {
+                        "tier": "wikipedia",
+                        "independence": "encyclopedic_secondary",
+                        "competence": "within_encyclopedic_scope",
+                    }
+                ],
+            },
+        )
+
+        self.assertIn("high_consensus_without_strong_source", reasons)
+        self.assertIn("high_risk_fact_type", reasons)
+        self.assertIn("categorical_or_superlative", reasons)
+
+    def test_corpus_required_fact_classes_are_high_risk(self):
+        claims = {
+            claim["claim_id"]: claim
+            for claim in load_jsonl(POLICY_PATH.parents[1] / "claims.jsonl")
+        }
+        strong_profile = {
+            "tiers": ["authoritative"],
+            "independent_lineages": 1,
+            "unknown_source_ids": [],
+            "sources": [
+                {
+                    "tier": "authoritative",
+                    "independence": "institutional_primary",
+                    "competence": "within_scope_primary",
+                }
+            ],
+        }
+
+        for claim_id in (
+            "C0010",
+            "C0407",
+            "C0688",
+            "C1048",
+            "C1205",
+            "C1330",
+            "C1534",
+            "C1587",
+            "C1588",
+        ):
+            with self.subTest(claim_id=claim_id):
+                reasons = risk_reasons(
+                    claims[claim_id],
+                    {"status": "совпадает", "consensus": "высокий"},
+                    strong_profile,
+                )
+                self.assertIn("high_risk_fact_type", reasons)
+
+    def test_two_independent_specialist_lines_prevent_weak_high_consensus_flag(self):
+        reasons = risk_reasons(
+            {"claim_id": "C0001", "statement": "Обычный факт.", "category": "описание", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            {
+                "tiers": ["specialist"],
+                "independent_lineages": 2,
+                "unknown_source_ids": [],
+                "sources": [
+                    {
+                        "tier": "specialist",
+                        "independence": "editorially_independent",
+                        "competence": "role_unspecified",
+                        "relation": "direct_support",
+                        "lineage": "url:https://one.example/evidence",
+                    },
+                    {
+                        "tier": "specialist",
+                        "independence": "editorially_independent",
+                        "competence": "role_unspecified",
+                        "relation": "supports_with_qualification",
+                        "lineage": "url:https://two.example/evidence",
+                    }
+                ],
+            },
+        )
+
+        self.assertNotIn("high_consensus_without_strong_source", reasons)
+
+    def test_one_ordinary_specialist_line_is_not_enough_for_high_consensus(self):
+        reasons = risk_reasons(
+            {"claim_id": "C0001", "statement": "Обычный факт.", "category": "описание", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            {
+                "tiers": ["specialist"],
+                "independent_lineages": 1,
+                "unknown_source_ids": [],
+                "sources": [
+                    {
+                        "tier": "specialist",
+                        "independence": "editorially_independent",
+                        "competence": "role_unspecified",
+                        "relation": "direct_support",
+                        "lineage": "url:https://one.example/evidence",
+                    }
+                ],
+            },
+        )
+
+        self.assertIn("high_consensus_without_strong_source", reasons)
+
+    def test_one_decisive_registry_source_is_enough_for_high_consensus(self):
+        reasons = risk_reasons(
+            {"claim_id": "C0001", "statement": "Синоним сорта.", "category": "синоним", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            {
+                "tiers": ["authoritative"],
+                "independent_lineages": 1,
+                "unknown_source_ids": [],
+                "sources": [
+                    {
+                        "tier": "authoritative",
+                        "independence": "editorially_independent",
+                        "competence": "role_unspecified",
+                        "resource": "vivc",
+                        "relation": "direct_identity_evidence",
+                        "lineage": "url:https://www.vivc.de/variety/1",
+                    }
+                ],
+            },
+        )
+
+        self.assertNotIn("high_consensus_without_strong_source", reasons)
+
+    def test_decisive_sources_are_not_decisive_outside_their_fact_domain(self):
+        cases = (
+            (
+                "vivc",
+                "direct_sensory_support",
+                "Для вина типичен аромат розы.",
+                "сортовой сенсорный дескриптор",
+            ),
+            (
+                "current_national_wine_labelling_rulebook",
+                "direct_sensory_support",
+                "Для вина типичен аромат розы.",
+                "сортовой сенсорный дескриптор",
+            ),
+            (
+                "competition_official_results",
+                "direct_origin_support",
+                "Сорт происходит из Сербии.",
+                "происхождение сорта",
+            ),
+            (
+                "official_statistics",
+                "direct_identity_support",
+                "Каменичарка является синонимом Прокупца.",
+                "синоним сорта",
+            ),
+            (
+                "oiv_standard",
+                "direct_history_support",
+                "Хозяйство было основано семьёй виноградарей.",
+                "история хозяйства",
+            ),
+        )
+
+        for resource, relation, statement, category in cases:
+            with self.subTest(resource=resource):
+                reasons = risk_reasons(
+                    {
+                        "claim_id": "C0001",
+                        "statement": statement,
+                        "category": category,
+                        "entity_keys": ["subject", "fact"],
+                    },
+                    {"status": "совпадает", "consensus": "высокий"},
+                    {
+                        "tiers": ["authoritative"],
+                        "independent_lineages": 1,
+                        "unknown_source_ids": [],
+                        "sources": [
+                            {
+                                "tier": "authoritative",
+                                "independence": "editorially_independent",
+                                "competence": "role_unspecified",
+                                "resource": resource,
+                                "relation": relation,
+                                "lineage": f"publisher:{resource}.example",
+                            }
+                        ],
+                    },
+                )
+
+                self.assertIn("high_consensus_without_strong_source", reasons)
+
+    def test_corpus_registry_identity_is_decisive_but_same_publisher_sensory_is_not(self):
+        base = POLICY_PATH.parents[1]
+        claims = {claim["claim_id"]: claim for claim in load_jsonl(base / "claims.jsonl")}
+        decisions = {
+            decision["claim_id"]: decision
+            for decision in load_jsonl(base / "decisions.jsonl")
+        }
+        profiles = build_source_profiles(
+            load_jsonl(base / "sources.jsonl"),
+            load_source_policy(POLICY_PATH),
+        )
+
+        identity_reasons = risk_reasons(
+            claims["C0673"], decisions["C0673"], profiles["C0673"]
+        )
+        sensory_reasons = risk_reasons(
+            claims["C0674"], decisions["C0674"], profiles["C0674"]
+        )
+
+        self.assertNotIn("high_consensus_without_strong_source", identity_reasons)
+        self.assertIn("high_consensus_without_strong_source", sensory_reasons)
+
+    def test_negative_specialist_relation_is_not_strong_support(self):
+        reasons = risk_reasons(
+            {"claim_id": "C0001", "statement": "Обычный факт.", "category": "описание", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            {
+                "tiers": ["specialist"],
+                "independent_lineages": 2,
+                "unknown_source_ids": [],
+                "sources": [
+                    {
+                        "tier": "specialist",
+                        "independence": "editorially_independent",
+                        "competence": "role_unspecified",
+                        "relation": "no_sufficient_public_record",
+                        "lineage": "url:https://one.example/search",
+                    },
+                    {
+                        "tier": "specialist",
+                        "independence": "editorially_independent",
+                        "competence": "role_unspecified",
+                        "relation": "no_relevant_material",
+                        "lineage": "url:https://two.example/search",
+                    },
+                ],
+            },
+        )
+
+        self.assertIn("high_consensus_without_strong_source", reasons)
+
+    def test_unknown_classification_does_not_derive_weak_support_reason(self):
+        reasons = risk_reasons(
+            {"claim_id": "C0001", "statement": "Обычный факт.", "category": "описание", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            {
+                "tiers": ["weak"],
+                "independent_lineages": 1,
+                "unknown_source_ids": ["E000001"],
+                "sources": [
+                    {
+                        "source_id": "E000001",
+                        "tier": "weak",
+                        "independence": "unknown",
+                        "competence": "role_unspecified",
+                        "resource": "unclassified_research_centre",
+                        "relation": "direct_support",
+                        "lineage": "url:https://research.example/evidence",
+                    }
+                ],
+            },
+        )
+
+        self.assertEqual(reasons, ["unknown_source_classification"])
+
+    def test_interested_source_does_not_count_as_strong_support(self):
+        reasons = risk_reasons(
+            {"claim_id": "C0001", "statement": "Факт.", "category": "описание", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            {
+                "tiers": ["authoritative"],
+                "independent_lineages": 1,
+                "unknown_source_ids": [],
+                "sources": [
+                    {
+                        "tier": "authoritative",
+                        "independence": "interested_primary",
+                        "competence": "interested_only",
+                    }
+                ],
+            },
+        )
+
+        self.assertIn("high_consensus_without_strong_source", reasons)
+
+    def test_categorical_pattern_distinguishes_samyj_from_samobytnyj(self):
+        strong_profile = {
+            "tiers": ["specialist"],
+            "independent_lineages": 1,
+            "unknown_source_ids": [],
+            "sources": [
+                {
+                    "tier": "specialist",
+                    "independence": "editorially_independent",
+                    "competence": "role_unspecified",
+                }
+            ],
+        }
+        ordinary = risk_reasons(
+            {"statement": "У вина самобытный стиль.", "category": "описание", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            strong_profile,
+        )
+        superlative = risk_reasons(
+            {"statement": "Это самый старый виноградник.", "category": "история", "entity_keys": []},
+            {"status": "совпадает", "consensus": "высокий"},
+            strong_profile,
+        )
+
+        self.assertNotIn("categorical_or_superlative", ordinary)
+        self.assertIn("categorical_or_superlative", superlative)
+
+    def test_flags_wikipedia_conflict_and_absence_separately(self):
+        empty_profile = {
+            "tiers": [],
+            "independent_lineages": 0,
+            "unknown_source_ids": [],
+            "sources": [],
+        }
+
+        conflict = risk_reasons(
+            {"claim_id": "C0001", "statement": "Факт", "category": "история", "entity_keys": []},
+            {"status": "между Википедиями нет согласия", "consensus": "конфликт"},
+            empty_profile,
+        )
+        absent = risk_reasons(
+            {"claim_id": "C0002", "statement": "Факт", "category": "история", "entity_keys": []},
+            {"status": "в Википедиях отсутствует", "consensus": "отсутствует"},
+            empty_profile,
+        )
+
+        self.assertIn("wikipedia_disagreement", conflict)
+        self.assertNotIn("wikipedia_absence", conflict)
+        self.assertIn("wikipedia_absence", absent)
+
+    def test_resolved_multilingual_wikipedia_conflicts_keep_reason_code(self):
+        base = POLICY_PATH.parents[1]
+        claims = {claim["claim_id"]: claim for claim in load_jsonl(base / "claims.jsonl")}
+        decisions = {
+            decision["claim_id"]: decision
+            for decision in load_jsonl(base / "decisions.jsonl")
+        }
+        profiles = build_source_profiles(
+            load_jsonl(base / "sources.jsonl"),
+            load_source_policy(POLICY_PATH),
+        )
+
+        for claim_id in ("C0040", "C0184", "C1951"):
+            with self.subTest(claim_id=claim_id):
+                self.assertIn(
+                    "wikipedia_disagreement",
+                    risk_reasons(claims[claim_id], decisions[claim_id], profiles[claim_id]),
+                )
+
+        for claim_id in ("C0395", "C0419", "C0647", "C0660"):
+            with self.subTest(negative_claim_id=claim_id):
+                self.assertNotIn(
+                    "wikipedia_disagreement",
+                    risk_reasons(claims[claim_id], decisions[claim_id], profiles[claim_id]),
+                )
+
+    def test_wikipedia_disagreement_uses_only_attached_language_editions(self):
+        reasons = risk_reasons(
+            {
+                "claim_id": "C0001",
+                "statement": "Факт.",
+                "category": "идентичность",
+                "entity_keys": ["subject", "identity"],
+            },
+            {
+                "status": "совпадает",
+                "consensus": "конфликт",
+                "comparison": (
+                    "English Wikipedia gives one identity, whereas German Wikipedia "
+                    "gives another."
+                ),
+                "independence": "Compared Wikipedia EN and DE.",
+            },
+            {
+                "tiers": ["wikipedia"],
+                "independent_lineages": 2,
+                "unknown_source_ids": [],
+                "sources": [
+                    {
+                        "tier": "wikipedia",
+                        "language": "sr",
+                        "relation": "wikipedia_sr_comparison",
+                    },
+                    {
+                        "tier": "wikipedia",
+                        "language": "ru",
+                        "relation": "wikipedia_ru_comparison",
+                    },
+                ],
+            },
+        )
+
+        self.assertNotIn("wikipedia_disagreement", reasons)
+
+    def test_scan_marks_duplicate_status_variance(self):
+        with tempfile.TemporaryDirectory() as directory:
+            base = Path(directory)
+            rows = {
+                "claims.jsonl": [
+                    {"claim_id": "C0001", "entity_keys": ["prokupac", "kamenicarka", "synonym"], "category": "синоним", "statement": "Факт один", "book_quote": "Факт один"},
+                    {"claim_id": "C0002", "entity_keys": ["synonym", "kamenicarka", "prokupac"], "category": "синоним", "statement": "Факт два", "book_quote": "Факт два"},
+                ],
+                "decisions.jsonl": [
+                    {"claim_id": "C0001", "status": "совпадает", "consensus": "высокий", "editor_conclusion": "Подтверждено."},
+                    {"claim_id": "C0002", "status": "подтверждено частично", "consensus": "средний", "editor_conclusion": "Требуется оговорка."},
+                ],
+                "sources.jsonl": [],
+            }
+            for filename, records in rows.items():
+                (base / filename).write_text(
+                    "".join(json.dumps(record, ensure_ascii=False) + "\n" for record in records),
+                    encoding="utf-8",
+                )
+
+            scan = scan_audit(base, POLICY_PATH)
+
+        self.assertEqual(scan["duplicates"][0]["claim_ids"], ["C0001", "C0002"])
+        self.assertIn(
+            "duplicate_decision_variance",
+            scan["duplicates"][0]["risk_reasons"],
+        )
+
+    def test_scan_marks_duplicate_editor_conclusion_variance(self):
+        with tempfile.TemporaryDirectory() as directory:
+            base = Path(directory)
+            rows = {
+                "claims.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "entity_keys": ["prokupac", "kamenicarka", "synonym"],
+                        "category": "синоним",
+                        "statement": "Факт один",
+                        "book_quote": "Факт один",
+                    },
+                    {
+                        "claim_id": "C0002",
+                        "entity_keys": ["synonym", "kamenicarka", "prokupac"],
+                        "category": "синоним",
+                        "statement": "Факт два",
+                        "book_quote": "Факт два",
+                    },
+                ],
+                "decisions.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "status": "совпадает",
+                        "consensus": "высокий",
+                        "independence": "Две независимые линии.",
+                        "editor_conclusion": "Оставить без оговорки.",
+                    },
+                    {
+                        "claim_id": "C0002",
+                        "status": "совпадает",
+                        "consensus": "высокий",
+                        "independence": "Две независимые линии.",
+                        "editor_conclusion": "Оставить только с оговоркой.",
+                    },
+                ],
+                "sources.jsonl": [],
+            }
+            for filename, records in rows.items():
+                (base / filename).write_text(
+                    "".join(json.dumps(record, ensure_ascii=False) + "\n" for record in records),
+                    encoding="utf-8",
+                )
+
+            scan = scan_audit(base, POLICY_PATH)
+
+        duplicate = scan["duplicates"][0]
+        self.assertIn("duplicate_decision_variance", duplicate["risk_reasons"])
+        self.assertEqual(duplicate["variance_fields"], ["editor_conclusion"])
+
+    def test_scan_does_not_select_unknown_classification_alone(self):
+        with tempfile.TemporaryDirectory() as directory:
+            base = Path(directory)
+            rows = {
+                "claims.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "entity_keys": ["ordinary"],
+                        "category": "описание",
+                        "statement": "Обычный факт.",
+                        "book_quote": "Обычный факт.",
+                    }
+                ],
+                "decisions.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "status": "совпадает",
+                        "consensus": "высокий",
+                        "editor_conclusion": "Подтверждено.",
+                    }
+                ],
+                "sources.jsonl": [
+                    {
+                        "source_id": "E000001",
+                        "claim_ids": ["C0001"],
+                        "resource": "unclassified_research_centre",
+                        "relation": "direct_support",
+                        "url": "https://research.example/evidence",
+                        "title": "Evidence",
+                    }
+                ],
+            }
+            for filename, records in rows.items():
+                (base / filename).write_text(
+                    "".join(json.dumps(record, ensure_ascii=False) + "\n" for record in records),
+                    encoding="utf-8",
+                )
+
+            scan = scan_audit(base, POLICY_PATH)
+
+        self.assertEqual(scan["claim_risks"], [])
+
+    def test_scan_derives_late_source_recheck_for_eligible_early_claim(self):
+        with tempfile.TemporaryDirectory() as directory:
+            base = Path(directory)
+            rows = {
+                "claims.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "entity_keys": ["prokupac", "kamenicarka", "synonym"],
+                        "category": "синоним сорта",
+                        "statement": "Каменичарка является синонимом Прокупца.",
+                        "book_quote": "Синоним.",
+                    },
+                    {
+                        "claim_id": "C0301",
+                        "entity_keys": ["prokupac", "kamenicarka", "name"],
+                        "category": "название сорта",
+                        "statement": "Название Каменичарка относится к Прокупцу.",
+                        "book_quote": "Название.",
+                    },
+                ],
+                "decisions.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "status": "подтверждено частично",
+                        "consensus": "средний",
+                        "editor_conclusion": "Нужна проверка.",
+                    },
+                    {
+                        "claim_id": "C0301",
+                        "status": "совпадает",
+                        "consensus": "высокий",
+                        "editor_conclusion": "Подтверждено.",
+                    },
+                ],
+                "sources.jsonl": [
+                    {
+                        "source_id": "E000001",
+                        "claim_ids": ["C0001"],
+                        "resource": "wikipedia",
+                        "language": "en",
+                        "relation": "supports_with_qualification",
+                        "url": "https://en.wikipedia.org/wiki/Prokupac",
+                        "title": "Prokupac",
+                    },
+                    {
+                        "source_id": "E000002",
+                        "claim_ids": ["C0301"],
+                        "resource": "vivc",
+                        "language": "en",
+                        "relation": "direct_identity_evidence",
+                        "url": "https://www.vivc.de/variety/1",
+                        "title": "VIVC variety record",
+                    },
+                ],
+            }
+            for filename, records in rows.items():
+                (base / filename).write_text(
+                    "".join(json.dumps(record, ensure_ascii=False) + "\n" for record in records),
+                    encoding="utf-8",
+                )
+
+            scan = scan_audit(base, POLICY_PATH)
+
+        early = next(item for item in scan["claim_risks"] if item["claim_ids"] == ["C0001"])
+        self.assertIn("late_source_recheck", early["risk_reasons"])
+        self.assertEqual(
+            early["late_source_matches"][0]["resource"],
+            "vivc",
+        )
+
+    def test_late_source_recheck_requires_shared_named_entity(self):
+        with tempfile.TemporaryDirectory() as directory:
+            base = Path(directory)
+            rows = {
+                "claims.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "entity_keys": ["erdevik-winery", "tatjana-djuricic", "oenologist"],
+                        "category": "персона и роль",
+                        "statement": "Главным энологом Erdevik является Tatjana Đuričić.",
+                        "book_quote": "Энолог — Татьяна Джуричич.",
+                    },
+                    {
+                        "claim_id": "C0301",
+                        "entity_keys": ["tarpos", "jelena-zivanovic", "oenologist"],
+                        "category": "персона и роль",
+                        "statement": "Энологом Tarpoš является Jelena Živanović.",
+                        "book_quote": "Энолог — Елена Живанович.",
+                    },
+                ],
+                "decisions.jsonl": [
+                    {
+                        "claim_id": "C0001",
+                        "status": "подтверждено частично",
+                        "consensus": "средний",
+                        "editor_conclusion": "Нужна проверка.",
+                    },
+                    {
+                        "claim_id": "C0301",
+                        "status": "совпадает",
+                        "consensus": "высокий",
+                        "editor_conclusion": "Подтверждено.",
+                    },
+                ],
+                "sources.jsonl": [
+                    {
+                        "source_id": "E000001",
+                        "claim_ids": ["C0001"],
+                        "resource": "wikipedia",
+                        "language": "en",
+                        "relation": "supports_with_qualification",
+                        "url": "https://en.wikipedia.org/wiki/Winemaking",
+                        "title": "Winemaking",
+                    },
+                    {
+                        "source_id": "E000002",
+                        "claim_ids": ["C0301"],
+                        "resource": "government",
+                        "language": "sr",
+                        "relation": "direct_support",
+                        "url": "https://government.example/tarpos-oenologist",
+                        "title": "Tarpoš record",
+                    },
+                ],
+            }
+            for filename, records in rows.items():
+                (base / filename).write_text(
+                    "".join(json.dumps(record, ensure_ascii=False) + "\n" for record in records),
+                    encoding="utf-8",
+                )
+
+            scan = scan_audit(base, POLICY_PATH)
+
+        early = next(item for item in scan["claim_risks"] if item["claim_ids"] == ["C0001"])
+        self.assertNotIn("late_source_recheck", early["risk_reasons"])
+        self.assertNotIn("late_source_matches", early)
 
 
 if __name__ == "__main__":

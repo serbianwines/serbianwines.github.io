@@ -1859,8 +1859,11 @@
    "pokazaniya": [
     "decanter: Negotinska Krajina",
     "ivv: Negotin, Borski okrug",
+    "ivv: Vidrovac, Negotin, Borski okrug",
     "registar: Karbulovo, Borski okrug",
-    "vivino: Central Serbia"
+    "vivino-adres: Serbia",
+    "vivino: Central Serbia",
+    "vivino: Negotinska Krajina"
    ]
   },
   "fruskogorski": {
@@ -5901,22 +5904,6 @@
    "gde": "",
    "pokazaniya": [
     "vivino: Wine of Serbia"
-   ]
-  },
-  "vimmid": {
-   "hozyaistvo": "ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery)",
-   "region": "Centralna Srbija",
-   "rejon": "Rejon Negotinska Krajina",
-   "vinogorje": "Negotinsko vinogorje",
-   "istochnik": "mesto",
-   "raznoglasie": "",
-   "gde": "Vidrovac, Negotin, Borski okrug",
-   "pokazaniya": [
-    "decanter: Negotinska Krajina",
-    "ivv: Vidrovac, Negotin, Borski okrug",
-    "vivino-adres: Serbia",
-    "vivino: Central Serbia",
-    "vivino: Negotinska Krajina"
    ]
   },
   "vinarium": {

@@ -95,15 +95,15 @@ Vivino район еле наскребает пятёрку.
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1186, с оценкой критиков — 574, **с обеими — 190**.
+Вин с оценкой Vivino — 1180, с оценкой критиков — 574, **с обеими — 190**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
-| Фрушка гора | 227 | 100 | 40 |
+| Фрушка гора | 228 | 101 | 41 |
 | Суботичско-Хоргошская пешчара | 76 | 27 | 17 |
 | Банат | 37 | 6 | 4 |
 | Шумадия | 93 | 81 | 25 |
-| Три Моравы и Жупа | 122 | 53 | 15 |
+| Три Моравы и Жупа | 126 | 53 | 15 |
 | Неготинска Крайина | 20 | 34 | 8 |
 | Топлица | 20 | 16 | 6 |
 | Юго-восток | 31 | 27 | 8 |
@@ -120,6 +120,7 @@ Vivino район еле наскребает пятёрку.
 | Bikicki · Uncensored | 2018 | 96 | decanter |
 | Vinčić · Grašac Grand Fru | 2020 | 95 | Falstaff |
 | Chichateau · Chi Chardonnay | 2018 | 95 | Falstaff |
+| Veritas Ćuković · Momentum Cabernet Sauvignon | 2017 | 95 | decanter |
 | Erdevik · Stifler's Mom Shiraz | 2017 | 95 | decanter |
 | Erdevik · Omnibus Lector Chardonnay | 2019 | 95 | decanter |
 | Šapat · Atila Chardonnay | 2022 | 95 | decanter |
@@ -143,6 +144,7 @@ Vivino район еле наскребает пятёрку.
 | Erdevik · Stiflers Mom Shiraz | 2019 | 93 | decanter |
 | Deurić · Aksiom Crveni | 2019 | 93 | decanter |
 | Deurić · Aksiom | 2021 | 93 | decanter |
+| Veritas Ćuković · Momentum Cabernet Sauvignon | 2017 | 93 | decanter |
 | Erdevik · Grand Trianon | 2016 | 93 | Falstaff |
 | Deurić · Aksiom Beli | 2019 | 92 | Falstaff |
 | Erdevik · Grand Trianon Deux Mers | 2016 | 92 | Falstaff |
@@ -410,6 +412,7 @@ Vivino район еле наскребает пятёрку.
 | 2022 | бронза | bronza | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 2016 | 
 | 2022 | бронза | bronza | Deurić · Probus Princeps 2016 | 
 | 2022 | бронза | bronza | Erdevik · Omnibus Lector Chardonnay 2016 | 
+| 2022 | золото | zlato | Veritas Ćuković · Momentum Cabernet Sauvignon 2017 | 
 | 2022 | лучшее белое | 1 | Deurić · Aksiom beli 2019 | 
 | 2022 | лучшее игристое | 1 | Deurić · The 2019 | 
 | 2022 | серебро | srebro | Deurić · Severna Morava 2020 | 
@@ -443,6 +446,7 @@ Vivino район еле наскребает пятёрку.
 | 2020 | лучшая молодая винодельня | 1 | Deurić | 
 | 2020 | лучшее белое | 1 | Chichateau · Chardonnay Chi 2016 | 
 | 2020 | платина | platina | Erdevik · Omnibus Lector Chardonnay 2015 | 
+| 2020 | серебро | srebro | Veritas Ćuković · Momentum Cabernet Sauvignon 2017 | 
 | 2020 | серебро | srebro | Vinum · Frankovka 2017 | 
 | 2020 | серебро | srebro | Vinum · Pinot Noir 2017 | 
 | 2020 | серебро | srebro | Erdevik · Stifler's Mom Shiraz 2016 | 
@@ -473,6 +477,7 @@ Vivino район еле наскребает пятёрку.
 | 2015 | бронза | bronza | Belo Brdo · Alma Mons 2012 | 
 | 2015 | бронза | bronza | Kovačević · Aurelius 2012 | 
 | 2015 | бронза | bronza | Kiš · Kišova Misterija Polusuvo 2011 | 
+| 2015 | серебро | srebro | Veritas Ćuković · Momentum Cabernet Sauvignon 2012 | 
 | 2015 | серебро | srebro | Vinum · Sauvignon Blanc 2013 | 
 
 ## Суботичско-Хоргошская пешчара
@@ -941,14 +946,14 @@ Vivino район еле наскребает пятёрку.
 | Budimir · Svb Rosa | 2009 | 94 | Falstaff |
 | Ivanović · No ½ | 2018 | 94 | Falstaff |
 | Ivanović · Prokupac | 2017 | 94 | Falstaff |
-| Čokot · Prokupac Radovan 100% | 2020 | 94 | Falstaff |
-| Čokot · Radovan 100% Prokupac | 2019 | 93 | Falstaff |
-| Čokot · Tamjanika Radovan 100% | 2022 | 93 | Falstaff |
+| Radovan · Prokupac Radovan 100% | 2020 | 94 | Falstaff |
+| Radovan · 100% Prokupac | 2019 | 93 | Falstaff |
+| Radovan · Tamjanika Radovan 100% | 2022 | 93 | Falstaff |
 | Temet · Tri Morave Reserve | 2018 | 93 | decanter |
-| Čokot · Tamjanika Radovon 100% | 2022 | 93 | Falstaff |
-| Čokot · Prokupac Experiment | 2019 | 93 | Falstaff |
+| Radovan · Tamjanika Radovon 100% | 2022 | 93 | Falstaff |
+| Radovan · Prokupac Experiment | 2019 | 93 | Falstaff |
 | Rubin · Rubinov Prokupac | 2017 | 92 | decanter |
-| Čokot · Experiment Prokupac | 2019 | 92 | decanter |
+| Radovan · Experiment Prokupac | 2019 | 92 | decanter |
 | Vinarija Jovac · Cabernet Sauvignon | 2020 | 92 | decanter |
 | Spasić · Tamjanika | 2021 | 92 | Falstaff |
 | Cilić · Onyx Blanc | 2019 | 92 | Falstaff |
@@ -958,20 +963,20 @@ Vivino район еле наскребает пятёрку.
 | Ivanović · Tamjanika | 2022 | 92 | Falstaff |
 | Ivanović · No 3/4 Tamjanika | 2021 | 92 | Falstaff |
 | Ivanović · Prokupac | 2021 | 92 | Falstaff |
-| Čokot · Prokupac Experiment | 2018 | 92 | Falstaff |
-| Čokot · Tamjanika Experiment | 2022 | 92 | Falstaff |
-| Čokot · Experiment Prokupac | 2015 | 91 | decanter |
+| Radovan · Prokupac Experiment | 2018 | 92 | Falstaff |
+| Radovan · Tamjanika Experiment | 2022 | 92 | Falstaff |
+| Radovan · Experiment Prokupac | 2015 | 91 | decanter |
 | Temet · Ergo | 2016 | 91 | decanter |
-| Čokot · Radovan 100% Prokupac | 2020 | 91 | decanter |
+| Radovan · 100% Prokupac | 2020 | 91 | decanter |
 | Temet · White Stone Merlot | 2017 | 91 | decanter |
 | Temet · Ergo | 2018 | 91 | decanter |
 | Ivanović · Jara Pet Net | 2022 | 91 | Falstaff |
-| Čokot · Radovan Prokupac | 2015 | 90 | decanter |
+| Radovan · Prokupac | 2015 | 90 | decanter |
 | Temet · Tri Morave | 2019 | 90 | decanter |
 | Ivanović · No 1/2 | 2019 | 90 | decanter |
 | Temet · Ergo | 2019 | 90 | decanter |
 | Vinarija Jovac · Merlot | 2020 | 90 | decanter |
-| Čokot · Radovan 100% Prokupac | 2023 | 90 | decanter |
+| Radovan · 100% Prokupac | 2023 | 90 | decanter |
 | Temet · Ergo Rosé | 2019 | 90 | decanter |
 | Temet · Tri Morave | 2017 | 90 | decanter |
 | Temet · Tri Morave Reserve | 2017 | 90 | decanter |
@@ -979,7 +984,7 @@ Vivino район еле наскребает пятёрку.
 | Temet · Ergo | 2018 | 90 | decanter |
 | Temet · Tri Morave Reserve | 2021 | 90 | decanter |
 | Temet · Tri Morave | 2017 | 89 | decanter |
-| Čokot · Experiment Prokupac | 2016 | 89 | decanter |
+| Radovan · Experiment Prokupac | 2016 | 89 | decanter |
 | Temet · Ergo Belo | 2016 | 89 | decanter |
 | Temet · Ergo | 2017 | 89 | decanter |
 | Temet · Tri Morave Brut | 2017 | 89 | decanter |
@@ -1001,7 +1006,7 @@ Vivino район еле наскребает пятёрку.
 | Temet · Tri Morave Rosé | 2015 | 87 | decanter |
 | Temet · Tri Morave Red | 2015 | 87 | decanter |
 | Ivanović · Prokupac | 2016 | 87 | decanter |
-| Čokot · Experiment Prokupac | 2017 | 87 | decanter |
+| Radovan · Experiment Prokupac | 2017 | 87 | decanter |
 | Rubin · Amante Carmen | 2016 | 87 | decanter |
 | Rubin · Cabernet Sauvignon | 2016 | 87 | decanter |
 | Temet · Pinot Grigio | 2018 | 87 | decanter |
@@ -1045,11 +1050,12 @@ Vivino район еле наскребает пятёрку.
 | 2025 | бронза | bronza | Ivanović · No 3/4 2023 | 
 | 2025 | бронза | bronza | Vinarija Jovac · Merlot 2020 | 
 | 2025 | бронза | bronza | Vinarija Jovac · Cabernet Sauvignon 2020 | 
+| 2025 | вклад в сербское виноделие | 1 | Radovan | 
 | 2025 | золото | zlato | Vinarija Jovac · Stella Noir 2021 | 
 | 2025 | лучшая малая винодельня | 1 | Ralević | 
 | 2025 | лучшее красное, международные сорта | 1 | Ralević · Aurum 2020 | 
 | 2025 | лучшее красное, органика, местные сорта | 1 | Vujić · Prokupac Gmitar 2021 | 
-| 2025 | серебро | srebro | Čokot · Radovan 100% Prokupac 2023 | 
+| 2025 | серебро | srebro | Radovan · 100% Prokupac 2023 | 
 | 2024 | бронза | bronza | Vinarija Jovac · Merlot 2020 | 
 | 2024 | бронза | bronza | Rubin · Amante Matea Merlot 2018 | 
 | 2024 | бронза | bronza | Temet · Beli Kamen Merlot 2017 | 
@@ -1059,7 +1065,7 @@ Vivino район еле наскребает пятёрку.
 | 2024 | лучшее белое, органика, местные сорта | 1 | Ivanović · No 3/4 2023 | 
 | 2024 | серебро | srebro | Temet · Tri Morave Reserve 2021 | 
 | 2024 | серебро | srebro | Temet · Ergo 2018 | 
-| 2024 | серебро | srebro | Čokot · Experiment Prokupac 2019 | 
+| 2024 | серебро | srebro | Radovan · Experiment Prokupac 2019 | 
 | 2023 | бронза | bronza | Vinarija Jovac · Tamjanika 2021 | 
 | 2023 | бронза | bronza | Temet · Tri Morave Reserve 2019 | 
 | 2023 | бронза | bronza | Temet · Beli Kamen Syrah 2019 | 
@@ -1070,7 +1076,7 @@ Vivino район еле наскребает пятёрку.
 | 2023 | серебро | srebro | Ivanović · No 1/2 2019 | 
 | 2023 | серебро | srebro | Temet · Tri Morave 2019 | 
 | 2023 | серебро | srebro | Temet · Beli Kamen Merlot 2019 | 
-| 2023 | серебро | srebro | Čokot · Radovan 100% Prokupac 2020 | 
+| 2023 | серебро | srebro | Radovan · 100% Prokupac 2020 | 
 | 2022 | бронза | bronza | Temet · Tri Morave 2020 | 
 | 2022 | бронза | bronza | Temet · Tri Morave Red 2019 | 
 | 2022 | бронза | bronza | Temet · Burgundac Sivi 2019 | 
@@ -1095,7 +1101,7 @@ Vivino район еле наскребает пятёрку.
 | 2020 | серебро | srebro | Temet · Tri Morave Reserve 2017 | 
 | 2020 | серебро | srebro | Rubin · Rubinov Prokupac 2017 | 
 | 2019 | бронза | bronza | Temet · Tri Morave 2017 | 
-| 2019 | бронза | bronza | Čokot · Experiment Prokupac 2017 | 
+| 2019 | бронза | bronza | Radovan · Experiment Prokupac 2017 | 
 | 2019 | бронза | bronza | Temet · Ergo Belo 2016 | 
 | 2019 | бронза | bronza | Rubin · Amante Carmen 2016 | 
 | 2019 | винодельня года | 1 | Temet | 
@@ -1107,15 +1113,15 @@ Vivino район еле наскребает пятёрку.
 | 2018 | бронза | bronza | Temet · Pinot Grigio 2016 | 
 | 2018 | бронза | bronza | Temet · Tri Morave 2016 | 
 | 2018 | бронза | bronza | Ivanović · No 1/2 2015 | 
-| 2018 | бронза | bronza | Čokot · Experiment Prokupac 2016 | 
+| 2018 | бронза | bronza | Radovan · Experiment Prokupac 2016 | 
 | 2018 | бронза | bronza | Ivanović · Prokupac 2016 | 
 | 2018 | серебро | srebro | Temet · Tri Morave 2017 | 
-| 2018 | серебро | srebro | Čokot · Radovan Prokupac 2015 | 
+| 2018 | серебро | srebro | Radovan · Prokupac 2015 | 
 | 2017 | бронза | bronza | Temet · Tri Morave White 2016 | 
 | 2017 | бронза | bronza | Temet · Ergo White 2015 | 
 | 2017 | бронза | bronza | Temet · Tri Morave Rosé 2015 | 
 | 2017 | бронза | bronza | Temet · Tri Morave Red 2015 | 
-| 2017 | серебро | srebro | Čokot · Experiment Prokupac 2015 | 
+| 2017 | серебро | srebro | Radovan · Experiment Prokupac 2015 | 
 | 2016 | бронза | bronza | Temet · Tri Morave 2015 | 
 | 2015 | бронза | bronza | Temet · Tri  Bele 2014 | 
 | 2015 | бронза | bronza | Temet · Pinot Grigio 2014 | 
@@ -1426,7 +1432,6 @@ Vivino район еле наскребает пятёрку.
 
 ## Хозяйства без района
 
-- Veritas · Momentum Cabernet Sauvignon 2017 — 95 [decanter]
 - Grabak · Vivak Prokupac 2017 — 95 [decanter]
 - BT Winery · Limited Edition King Supreme Marselan 2018 — 95 [decanter]
 - Reljić Vinarija · Rebus  Merlot-Cabernet Sauvignon-Probus 2018 — 95 [decanter]
@@ -1441,7 +1446,6 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Frug · Signum Cabernet Sauvignon 2021 — 93 [decanter]
 - Dolina · Cuveé Barrique 2019 — 93 [decanter]
 - Vinarija Eden · Velvet 2020 — 93 [decanter]
-- Veritas · Momentum Cabernet Sauvignon 2017 — 93 [decanter]
 - Vinarija Lastar · Triangl Pinot Noir 2017 — 92 [decanter]
 - Vinarija Frunza Aglaja · Dentelle 2016 — 92 [decanter]
 - Vista Hill · White Reserve 2012 — 92 [decanter]
@@ -1539,7 +1543,7 @@ Vivino район еле наскребает пятёрку.
 - Драгић Винарија (Vina Dragic) · Carski Drum Manzoni 2023 — 90 [decanter]
 - Vinarija Frug · Signum Chardonnay 2022 — 90 [decanter]
 - Vinarija DeLena · 70/30 Sauvignon Blanc /Semillon 2020 — 90 [Falstaff]
-- ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery) · Aglaja Cabernet Sauvignon 2015 — 89 [decanter]
+- Vinarija Frunza Aglaja · Aglaja Cabernet Sauvignon 2015 — 89 [decanter]
 - Virtus · W 2019 — 89 [decanter]
 - Stemina · Panta Rei Chardonnay 2018 — 89 [decanter]
 - BT Winery · President Gold Vranac 2018 — 89 [decanter]
@@ -1729,7 +1733,7 @@ Vivino район еле наскребает пятёрку.
 - PIK Oplenac · Villa Muscat Ottonel 2015 — 86 [decanter]
 - Vinarija Komuna · Chardonnay 2017 — 86 [decanter]
 - Pusula · Cabernet 2015 — 86 [decanter]
-- ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery) · Aglaja Dantelle Cabernet Sauvignon 2016 — 86 [decanter]
+- Vinarija Frunza Aglaja · Aglaja Dantelle Cabernet Sauvignon 2016 — 86 [decanter]
 - Nikad Nije Kasno · Simfonija 2017 — 86 [decanter]
 - Vista Hill · Premium 2019 — 86 [decanter]
 - Драгић Винарија (Vina Dragic) · Carski Drum Sauvignon Blanc 2019 — 86 [decanter]

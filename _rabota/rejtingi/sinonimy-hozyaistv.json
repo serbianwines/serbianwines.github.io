@@ -73,9 +73,10 @@
   },
   "Vinarija Frunza Aglaja": {
    "varianty": [
-    "Aglaya (Аглая)"
+    "Aglaya (Аглая)",
+    "ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery)"
    ],
-   "dokazatelstvo": "В Винарском регистру Аглаја одна на всю Сербию: запись № 84, «VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO», Карбулово Неготинске општине. У Decanter то же хозяйство подано и как «Aglaja», и как «Vinarija Frunza Aglaja», оба раза с рејоном Negotinska Krajina."
+   "dokazatelstvo": "В Винарском регистру Аглаја одна на всю Сербию: запись № 84, «VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO», Карбулово Неготинске општине. Decanter звал это хозяйство год за годом по-разному, но всегда в Неготинској Крајини: «Vinarija Vimmid» (DWWA 2017), «Aglaja» (2018), «Vimmid» (2019), «Vinarija Frunza Aglaja» (2020, 2021). Линейка сквозная: «Dentelle»/«Dantelle» и «Aglaja Sauvignon-Semillon» встречаются под всеми тремя именами, а все вина Vimmid на Vivino подписаны «Аглаја»."
   },
   "Vinarija Gnezdo": {
    "varianty": [
@@ -144,7 +145,6 @@
  },
  "ne_privyazano": {
   "Marselan": "Ошибка ввода у Decanter, DWWA 2023: в поле производителя стоит название сорта, вино тоже «Marselan». Марселан в Сербии делают десятки хозяйств — привязать не к кому.",
-  "Prokupac": "То же, DWWA 2021. Прокупац делают почти все — привязать не к кому.",
-  "Aglaya / Vinarija Frunza Aglaja / ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery)": "Три записи вокруг одной марки: «Dentelle» и «Aglaja» встречаются и у Frunza Aglaja, и у Vimmid. Свести без подтверждения нельзя — возможно, Аглаја это марка, а Vimmid предприятие."
+  "Prokupac": "То же, DWWA 2021. Прокупац делают почти все — привязать не к кому."
  }
 }

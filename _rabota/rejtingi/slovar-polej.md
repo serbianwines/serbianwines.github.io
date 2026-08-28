@@ -21,7 +21,7 @@
 | `region` | виноградарский регион Сербии: `Vojvodina`, `Centralna Srbija`, `Kosovo i Metohija` |
 | `rejon` | рејон по действующей рејонизацији, один из 22. Справочник — `rejony-vinogorja.json` |
 | `vinogorje` | виногорје, одно из 77. Всегда принадлежит своему рејону |
-| `rejon_istochnik` | откуда рејон: `mesto` — по городу хозяйства, это старше всего; `decanter`, `vivino`, `vinarijesrbije`, `falstaff` (через `+`, если сошлись несколько); `bolshinstvo` — источники разошлись, взято подавляющее; `ne_ustanovlen` |
+| `rejon_istochnik` | откуда рејон: `mesto` — по городу хозяйства, это старше всего (город берётся по весу: книга, каталоги винарий, Винарски регистар); `decanter`, `vivino`, `vinarijesrbije`, `falstaff` — по ярлыку источника (через `+`, если сошлись несколько); `vivino-adres` — по адресу со страницы хозяйства на Vivino, это слабее ярлыка; `bolshinstvo` — источники разошлись, взято подавляющее; `ne_ustanovlen` |
 | `region` без `rejon` | место известно грубо: Vivino дал имя старой рејонизације. Регион верен, рејон — один из перечисленных в `rejon_raznoglasie` |
 | `rejon_raznoglasie` | если источники разошлись — что именно каждый говорил. Пусто, когда спора не было |
 | `raion_knigi` | код главы книги: `fruska`, `subotica`, `banat`, `sumadija`, `morave`, `negotin`, `toplica`, `jugoistok`, `podunavlje`, `metohija`. `null` — район не установлен |

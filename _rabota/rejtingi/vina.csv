@@ -2194,9 +2194,19 @@ frug-signum-chardonnay,Vinarija Frug,Signum Chardonnay,,,net_na_vivino,False,Tru
 frug-signum-cuvee,Vinarija Frug,Signum Cuvée,,,net_na_vivino,False,True
 frug-signum-syrah,Vinarija Frug,Signum Syrah,,,net_na_vivino,False,True
 frug-syrah-signum,Vinarija Frug,Syrah Signum,12921850,https://www.vivino.com/w/12921850,ocenka_est,False,False
+frunza-aglaja-aglaja-bagrina-аглада-багрина,Vinarija Frunza Aglaja,Aglaja Bagrina (Аглада Багрина ),13904986,https://www.vivino.com/w/13904986,malo_ocenok,False,False
+frunza-aglaja-aglaja-cabernet-sauvignon,Vinarija Frunza Aglaja,Aglaja Cabernet Sauvignon,,,net_na_vivino,False,True
+frunza-aglaja-aglaja-dantelle-cabernet-sauvignon,Vinarija Frunza Aglaja,Aglaja Dantelle Cabernet Sauvignon,,,net_na_vivino,False,True
 frunza-aglaja-aglaja-sauvignon-semillon,Vinarija Frunza Aglaja,Aglaja Sauvignon-Semillon,,,net_na_vivino,False,True
 frunza-aglaja-cabernet-sauvignon,Vinarija Frunza Aglaja,Cabernet Sauvignon,6310319,https://www.vivino.com/w/6310319,ocenka_est,False,False
 frunza-aglaja-dentelle,Vinarija Frunza Aglaja,Dentelle,,,net_na_vivino,False,True
+frunza-aglaja-л-cabernet-sauvignon,Vinarija Frunza Aglaja,ΑΓЛΑЈΑ Cabernet Sauvignon,5909950,https://www.vivino.com/w/5909950,ocenka_est,False,False
+frunza-aglaja-л-розе,Vinarija Frunza Aglaja,ΑΓЛΑЈΑ РОЗЕ,6398588,https://www.vivino.com/w/6398588,malo_ocenok,False,False
+frunza-aglaja-аглаjа-dentelle-cabernet-sauvignon,Vinarija Frunza Aglaja,Аглаjа Dentelle Cabernet Sauvignon,6435347,https://www.vivino.com/w/6435347,ocenka_est,False,False
+frunza-aglaja-агла-а-chardonnay-aglaja,Vinarija Frunza Aglaja,Аглаја Chardonnay (Aglaja),9283294,https://www.vivino.com/w/9283294,ocenka_est,False,False
+frunza-aglaja-агла-а-sauvignon-blanc-semillon-aglaja,Vinarija Frunza Aglaja,Аглаја Sauvignon Blanc - Semillon (Aglaja),10037274,https://www.vivino.com/w/10037274,ocenka_est,False,False
+frunza-aglaja-агла-а-багрина-aglaja-bagrina,Vinarija Frunza Aglaja,Аглаја Багрина (Aglaja Bagrina),13903789,https://www.vivino.com/w/13903789,malo_ocenok,False,False
+frunza-aglaja-прокупац-aglaja-prokupac,Vinarija Frunza Aglaja,Прокупац (Aglaja Prokupac),12152122,https://www.vivino.com/w/12152122,malo_ocenok,False,False
 frunza-aglaja-розе-rose,Vinarija Frunza Aglaja,Розе (Rose),13269100,https://www.vivino.com/w/13269100,malo_ocenok,False,False
 gamanovic-bela-tamjanika,Vinarija Gamanović,Bela Tamjanika,,,net_na_vivino,False,True
 gamanovic-cabernet-sauvignon,Vinarija Gamanović,Cabernet Sauvignon,10621470,https://www.vivino.com/w/10621470,ocenka_est,False,True
@@ -2969,16 +2979,6 @@ zivanovic-rose,Živanović,Rosé,5658354,https://www.vivino.com/w/5658354,ocenka
 zivanovic-tamjanika,Živanović,Tamjanika,3239960,https://www.vivino.com/w/3239960,malo_ocenok,False,False
 zivanovic-smizle,Živanović,Šmizle,5424223,https://www.vivino.com/w/5424223,ocenka_est,False,False
 zivac-dara-pinot-noir,Živač,Dara Pinot Noir,1442549,https://www.vivino.com/w/1442549,malo_ocenok,False,False
-vimmid-aglaja-bagrina-аглада-багрина,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Aglaja Bagrina (Аглада Багрина ),13904986,https://www.vivino.com/w/13904986,malo_ocenok,False,False
-vimmid-aglaja-cabernet-sauvignon,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Aglaja Cabernet Sauvignon,,,net_na_vivino,False,True
-vimmid-aglaja-dantelle-cabernet-sauvignon,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Aglaja Dantelle Cabernet Sauvignon,,,net_na_vivino,False,True
-vimmid-л-cabernet-sauvignon,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),ΑΓЛΑЈΑ Cabernet Sauvignon,5909950,https://www.vivino.com/w/5909950,ocenka_est,False,False
-vimmid-л-розе,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),ΑΓЛΑЈΑ РОЗЕ,6398588,https://www.vivino.com/w/6398588,malo_ocenok,False,False
-vimmid-аглаjа-dentelle-cabernet-sauvignon,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Аглаjа Dentelle Cabernet Sauvignon,6435347,https://www.vivino.com/w/6435347,ocenka_est,False,False
-vimmid-агла-а-chardonnay-aglaja,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Аглаја Chardonnay (Aglaja),9283294,https://www.vivino.com/w/9283294,ocenka_est,False,False
-vimmid-агла-а-sauvignon-blanc-semillon-aglaja,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Аглаја Sauvignon Blanc - Semillon (Aglaja),10037274,https://www.vivino.com/w/10037274,ocenka_est,False,False
-vimmid-агла-а-багрина-aglaja-bagrina,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Аглаја Багрина (Aglaja Bagrina),13903789,https://www.vivino.com/w/13903789,malo_ocenok,False,False
-vimmid-прокупац-aglaja-prokupac,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery),Прокупац (Aglaja Prokupac),12152122,https://www.vivino.com/w/12152122,malo_ocenok,False,False
 ambelos-25-там-аника,Амбелос Винарија (Ambelos Winery),25 Тамјаника,8139117,https://www.vivino.com/w/8139117,malo_ocenok,False,False
 ambelos-800-аутокефали-а-autocephaly,Амбелос Винарија (Ambelos Winery),800 Аутокефалија (Autocephaly),7680694,https://www.vivino.com/w/7680694,malo_ocenok,False,False
 ambelos-деспотова-саб-а,Амбелос Винарија (Ambelos Winery),Деспотова сабља,7783360,https://www.vivino.com/w/7783360,malo_ocenok,False,False

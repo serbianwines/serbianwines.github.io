@@ -296,7 +296,7 @@ Vivino помечены несербской страной, но **ни одн�
 | Centralna Srbija | Niški rejon | 6 | 14 | 0 | 1 |
 | Centralna Srbija | Pocersko Valjevski Rejon | 7 | 24 | 9 | 9 |
 | Vojvodina | Potiski rejon | 4 | 19 | 4 | 4 |
-| Centralna Srbija | Rejon Negotinska Krajina | 23 | 56 | 79 | 60 |
+| Centralna Srbija | Rejon Negotinska Krajina | 22 | 56 | 79 | 60 |
 | Vojvodina | Rejon Telečka | 4 | 5 | 0 | 0 |
 | Centralna Srbija | Rejon Tri Morave | 67 | 222 | 145 | 138 |
 | Vojvodina | Sremski rejon | 84 | 317 | 273 | 276 |
@@ -492,7 +492,6 @@ Vivino помечены несербской страной, но **ни одн�
 | Vinarija Tana | Rogljevačko-rajačko vinogorje | mesto | — |
 | Vinarija Timacvm Minvs | — | mesto | — |
 | Vinarija Timahus | — | vivino | — |
-| ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery) | Negotinsko vinogorje | mesto | — |
 | Винарија Королија | Rogljevačko-rajačko vinogorje | mesto | — |
 | Винарија Манастира Буково | Negotinsko vinogorje | mesto | — |
 

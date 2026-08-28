@@ -24,6 +24,7 @@ SHKALY = {
     "wine-searcher": (100, 50, 100),
     "vino.rs": (100, 50, 100),
     "tastings": (100, 50, 100),
+    "decanter": (100, 50, 100),
 }
 
 
@@ -36,6 +37,7 @@ def main():
     hozyaistva = chitat("hozyaistva.jsonl")
     vina = chitat("vina.jsonl")
     ocenki = chitat("ocenki.jsonl")
+    nagrady = chitat("nagrady.jsonl")
 
     zamechaniya = []
 
@@ -52,10 +54,18 @@ def main():
              [o for o in ocenki if o["klyuch_vina"] not in klyuchi_vin],
              lambda o: "%s · %s" % (o["hozyaistvo"], o["vino"]))
 
+    proverka("награды без своего вина",
+             [n for n in nagrady if n["klyuch_vina"] and n["klyuch_vina"] not in klyuchi_vin],
+             lambda n: "%s · %s" % (n["hozyaistvo"], n["vino"]))
+
     imena_hozyaistv = {h["hozyaistvo"] for h in hozyaistva}
     proverka("вина без своего хозяйства",
              [v for v in vina if v["hozyaistvo"] not in imena_hozyaistv],
              lambda v: "%s · %s" % (v["hozyaistvo"], v["vino"]))
+
+    proverka("награды без своего хозяйства",
+             [n for n in nagrady if n["hozyaistvo"] not in imena_hozyaistv],
+             lambda n: n["hozyaistvo"])
 
     # Дубли ключей
     vidano = {}
@@ -113,6 +123,8 @@ def main():
              sum(1 for o in ocenki if o["istochnik"] == "vivino")))
     print("   вин без идентификатора Vivino: %d из %d"
           % (sum(1 for v in vina if not v["vivino_id"]), len(vina)))
+    print("   наград: %d, из них хозяйству целиком: %d"
+          % (len(nagrady), sum(1 for n in nagrady if not n["vino"])))
 
     if zamechaniya:
         print("\nЗамечания:")

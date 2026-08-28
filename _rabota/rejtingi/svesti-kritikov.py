@@ -42,6 +42,32 @@ IMYA_ISTOCHNIKA = {
 }
 
 
+def pokazat_nagrady(spisok, markdown):
+    """Награды печатаются отдельным блоком: у них нет шкалы, и в одну
+    таблицу с баллами их ставить нельзя."""
+    if not spisok:
+        if markdown:
+            print("_Наград не найдено._\n")
+        return
+    spisok = sorted(spisok, key=lambda n: (-(n["god"] or 0), n["kategoriya"]))
+    if markdown:
+        print("**Награды**\n")
+        print("| Год | Категория | Место | Кому |")
+        print("|---|---|---|---|")
+        for n in spisok:
+            komu = n["hozyaistvo"] + (" · " + n["vino"] if n["vino"] else "")
+            if n["urozhaj"]:
+                komu += " %d" % n["urozhaj"]
+            print("| %s | %s | %s | %s | " % (n["god"], n["kategoriya"],
+                                              n["mesto"], komu))
+        print()
+    else:
+        for n in spisok:
+            komu = n["hozyaistvo"] + (" · " + n["vino"] if n["vino"] else "")
+            print("   %s %s — %s [%s]"
+                  % (n["god"], n["kategoriya"], komu, n["istochnik"]))
+
+
 def main():
     razbor = argparse.ArgumentParser()
     razbor.add_argument("--markdown", action="store_true")
@@ -50,15 +76,23 @@ def main():
     zapisi = [json.loads(s) for s in
               open(os.path.join(RYADOM, "kritiki-zapisi.jsonl"), encoding="utf-8")
               if s.strip()]
+    nagrady = [json.loads(s) for s in
+               open(os.path.join(RYADOM, "nagrady-zapisi.jsonl"), encoding="utf-8")
+               if s.strip()]
     karta = json.load(open(os.path.join(RYADOM, "raion-hozyaistv.json"),
                            encoding="utf-8"))["hozyaistva"]
 
     po_raionam = {kod: [] for kod, _ in IMENA}
-    bez_raiona = []
+    nagrady_raionov = {kod: [] for kod, _ in IMENA}
+    bez_raiona, nagrady_bez_raiona = [], []
     for z in zapisi:
         svedeniya = karta.get(z["hozyaistvo"])
         raion = svedeniya["raion"] if svedeniya else None
         (po_raionam[raion] if raion else bez_raiona).append(z)
+    for n in nagrady:
+        svedeniya = karta.get(n["hozyaistvo"])
+        raion = svedeniya["raion"] if svedeniya else None
+        (nagrady_raionov[raion] if raion else nagrady_bez_raiona).append(n)
 
     if dovody.markdown:
         print("<!-- Собрано скриптом svesti-kritikov.py. Руками не править. -->\n")
@@ -76,12 +110,15 @@ def main():
                       % (z["hozyaistvo"], z["vino"], z["god"] or "—", z["ball"],
                          IMYA_ISTOCHNIKA.get(z["istochnik"], z["istochnik"])))
             print()
+            pokazat_nagrady(nagrady_raionov[kod], True)
         else:
-            print("%s — %d" % (imya, len(spisok)))
+            print("%s — оценок %d, наград %d"
+                  % (imya, len(spisok), len(nagrady_raionov[kod])))
             for z in spisok:
                 print("   %3s  %s · %s %s [%s]"
                       % (z["ball"], z["hozyaistvo"], z["vino"], z["god"] or "",
                          z["istochnik"]))
+            pokazat_nagrady(nagrady_raionov[kod], False)
     if bez_raiona:
         zagolovok = "## Хозяйства без района\n" if dovody.markdown else "без района:"
         print(zagolovok)

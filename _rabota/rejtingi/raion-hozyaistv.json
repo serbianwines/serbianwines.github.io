@@ -35,7 +35,8 @@
     },
     "Šapat": {
       "raion": "fruska",
-      "istochnik": "kniga"
+      "istochnik": "kniga",
+      "gde": "Нови Сланкамен"
     },
     "Dukay-Sagmeister": {
       "raion": "fruska",
@@ -105,7 +106,8 @@
     },
     "Drašković": {
       "raion": "banat",
-      "istochnik": "kniga"
+      "istochnik": "kniga",
+      "gde": "Вршац. Внимание: vino.rs пишет, что Vršački vinogradi сменили владельца и переименованы в Vinarija Drašković. В книге это два разных хозяйства в одной главе — стоит проверить."
     },
     "Vršački vinogradi": {
       "raion": "banat",
@@ -193,7 +195,8 @@
     },
     "Jović": {
       "raion": "jugoistok",
-      "istochnik": "kniga"
+      "istochnik": "kniga",
+      "gde": "Потркање"
     },
     "Podrum Malča": {
       "raion": "jugoistok",
@@ -216,7 +219,7 @@
     "Virtus": {
       "raion": null,
       "istochnik": "ne_ustanovlen",
-      "gde": "Vivino относит к «Šumadija-Velika Morava»; по вину Mlavac похоже на Браничево, по другим данным Ритопек под Белградом — нужно уточнить"
+      "gde": "Decanter называет район Млава (Браничево, к востоку от Белграда). Значит, не Шумадия, как пишет Vivino. Есть ли Млава внутри главы «Подунавье и Белградский район» — решать автору."
     },
     "Vinis": {
       "raion": null,
@@ -294,6 +297,57 @@
       "raion": "fruska",
       "istochnik": "raspolozhenie",
       "gde": "Срем, по данным Vivino"
+    },
+    "Ralević": {
+      "raion": "morave",
+      "istochnik": "kniga",
+      "gde": "Парачин"
+    },
+    "Vujić": {
+      "raion": "morave",
+      "istochnik": "kniga",
+      "gde": "Лукаревина"
+    },
+    "Yotta": {
+      "raion": "morave",
+      "istochnik": "kniga",
+      "gde": "Жупа"
+    },
+    "Marko": {
+      "raion": "sumadija",
+      "istochnik": "kniga",
+      "gde": "Ясиковица"
+    },
+    "La Gora": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen",
+      "gde": "золото Decanter 2026; в книге названа как «Vinarija Gora», район не указан"
+    },
+    "Žarković": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Podrum Madžić": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Mikić": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Vertiz": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Draganić": {
+      "raion": "sumadija",
+      "istochnik": "raspolozhenie",
+      "gde": "Шумадия, по годовому тесту vino.rs"
+    },
+    "Spasić": {
+      "raion": "morave",
+      "istochnik": "kniga",
+      "gde": "Александровац"
     }
   }
 }

@@ -13,6 +13,7 @@
     hozyaistva.*   хозяйства: район, звёзды, есть ли в книге
     vina.*         вина: ключ, идентификатор Vivino, адрес
     ocenki.*       оценки в длинном виде: строка на измерение
+    nagrady.*      награды и места в категориях: у них нет шкалы
 
 Длинный вид у оценок выбран нарочно. Оценка Vivino и балл Falstaff — разные
 величины в разных шкалах, и складывать их нельзя. Зато в длинной таблице
@@ -82,6 +83,7 @@ def nizhnyaya_granica(ogovorka):
 def main():
     vivino = chitat_jsonl("vivino-zapisi.jsonl")
     kritiki = chitat_jsonl("kritiki-zapisi.jsonl")
+    nagrady_syrye = chitat_jsonl("nagrady-zapisi.jsonl")
     karta = json.load(open(put("raion-hozyaistv.json"), encoding="utf-8"))["hozyaistva"]
     zvezdy = {z["hozyaistvo"]: z for z in
               json.load(open(put("falstaff-zvezdy.json"), encoding="utf-8"))["hozyaistva"]}
@@ -104,7 +106,8 @@ def main():
         return any(k == kn or kn in k for kn in vina_v_knige if kn)
 
     # ---------------- хозяйства ----------------
-    imena = {z["hozyaistvo"] for z in vivino} | {z["hozyaistvo"] for z in kritiki}
+    imena = ({z["hozyaistvo"] for z in vivino} | {z["hozyaistvo"] for z in kritiki}
+             | {z["hozyaistvo"] for z in nagrady_syrye})
     hozyaistva = []
     for imya in sorted(imena):
         svedeniya = karta.get(imya, {})
@@ -149,6 +152,21 @@ def main():
         elif vivino_id and not vidano[k]["vivino_id"]:
             vidano[k]["vivino_id"] = vivino_id
             vidano[k]["vivino_adres"] = adres
+    for z in nagrady_syrye:
+        if not z["vino"]:
+            continue          # награда хозяйству, а не вину
+        k = klyuch(z["hozyaistvo"], z["vino"])
+        if k not in vidano:
+            vidano[k] = {
+                "klyuch": k,
+                "hozyaistvo": z["hozyaistvo"],
+                "vino": z["vino"],
+                "vivino_id": None,
+                "vivino_adres": "",
+                "vivino_status": "net_na_vivino",
+                "v_knige": v_knige_vino(z["vino"]),
+                "est_u_kritikov": False,
+            }
     for z in kritiki:
         k = klyuch(z["hozyaistvo"], z["vino"])
         if k not in vidano:
@@ -204,7 +222,22 @@ def main():
             "sobrano": SOBRANO,
         })
 
-    for imya, tablica in (("hozyaistva", hozyaistva), ("vina", vina), ("ocenki", ocenki)):
+    # ---------------- награды ----------------
+    nagrady = [{
+        "klyuch_vina": klyuch(z["hozyaistvo"], z["vino"]) if z["vino"] else "",
+        "hozyaistvo": z["hozyaistvo"],
+        "vino": z["vino"],
+        "istochnik": z["istochnik"],
+        "god": z["god"],
+        "kategoriya": z["kategoriya"],
+        "mesto": z["mesto"],
+        "urozhaj": z["urozhaj"],
+        "stranica": z["stranica"],
+        "sobrano": SOBRANO,
+    } for z in nagrady_syrye]
+
+    for imya, tablica in (("hozyaistva", hozyaistva), ("vina", vina),
+                          ("ocenki", ocenki), ("nagrady", nagrady)):
         with open(put(imya + ".jsonl"), "w", encoding="utf-8") as f:
             for s in tablica:
                 f.write(json.dumps(s, ensure_ascii=False) + "\n")

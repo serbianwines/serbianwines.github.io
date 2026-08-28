@@ -12,7 +12,8 @@ Chichateau,chichateau,fruska,raspolozhenie,"Лежимир, Фрушка гор�
 Despotika,despotika,sumadija,kniga,,True,despotika-despotika,,4
 Deurić,deuric,fruska,kniga,,True,vinarija-deuric,3,15
 Doja,doja,toplica,kniga,,True,,4,8
-Drašković,draskovic,banat,kniga,,True,vinarija-draskovic,,9
+Draganić,draganic,sumadija,raspolozhenie,"Шумадия, по годовому тесту vino.rs",False,,,0
+Drašković,draskovic,banat,kniga,"Вршац. Внимание: vino.rs пишет, что Vršački vinogradi сменили владельца и переименованы в Vinarija Drašković. В книге это два разных хозяйства в одной главе — стоит проверить.",True,vinarija-draskovic,,9
 Dukay-Sagmeister,dukay-sagmeister,fruska,kniga,,True,dukay-sagmeister,,8
 Džervin,dzervin,jugoistok,kniga,,True,dzervin,,5
 Erdevik,erdevik,fruska,kniga,,True,erdevik,,6
@@ -20,23 +21,29 @@ Grabak,grabak,,ne_ustanovlen,,False,vinarija-grabak,,7
 Ivanović,ivanovic,morave,kniga,,True,vinarija-ivanovic,,5
 Jeremić,jeremic,,ne_ustanovlen,Vivino относит к «Šumadija-Velika Morava»; точное виногорье не установлено,False,vinarija-jeremic,,6
 Jovac,jovac,morave,kniga,,True,vinarija-jovac,,4
-Jović,jovic,jugoistok,kniga,,True,,,1
+Jović,jovic,jugoistok,kniga,Потркање,True,,,1
 Kiš,kis,fruska,kniga,,True,vinarija-kis,,10
 Kovačević,kovacevic,fruska,kniga,,True,vinarija-kovacevic,,11
+La Gora,la-gora,,ne_ustanovlen,"золото Decanter 2026; в книге названа как «Vinarija Gora», район не указан",False,,,0
 Lakićević,lakicevic,metohija,kniga,,True,vinarija-lakicevic,,8
+Manastir Bukovo,manastir-bukovo,negotin,kniga,,False,,,0
+Marko,marko,sumadija,kniga,Ясиковица,True,,,0
 Matalj,matalj,negotin,kniga,,True,matalj-vinarija,4,9
 Matijašević,matijasevic,sumadija,kniga,,True,matijasevic-vinogradi,,8
 Maurer,maurer,subotica,kniga,,True,maurer,4,6
 Mačkov podrum,mackov-podrum,fruska,kniga,,True,mackov-podrum,,8
+Mikić,mikic,,ne_ustanovlen,,False,,,0
 Milijan Jelić,milijan-jelic,,raspolozhenie,"Валево, Поцерско-Ваљевски район — в книге такой главы нет",False,,,4
 Milinčić,milincic,,ne_ustanovlen,,False,,,2
 Molovin,molovin,fruska,raspolozhenie,"Моловин, Срем",False,,,3
 Navip,navip,,raspolozhenie,"Земун; фрушкогорские этикетки, но хозяйство не районное",False,navip,,1
 Petra,petra,subotica,kniga,,True,vinarija-petra,,7
 Plavinac,plavinac,podunavlje,kniga,,True,vinarija-plavinac,,3
+Podrum Madžić,podrum-madzic,,ne_ustanovlen,,False,,,0
 Podrum Malča,podrum-malca,jugoistok,raspolozhenie,Малча под Нишем,False,,,1
 Radovanović,radovanovic,sumadija,kniga,,True,radovanovic,,10
 Raj,raj,negotin,kniga,,True,,,2
+Ralević,ralevic,morave,kniga,Парачин,True,,,0
 Rubin,rubin,morave,raspolozhenie,"Крушевац, Расина",False,rubin,,8
 Tarpoš,tarpos,sumadija,kniga,,True,tarpos,,10
 Temet,temet,morave,kniga,,True,temet,4,14
@@ -44,19 +51,23 @@ Tonković,tonkovic,subotica,kniga,,True,vinarija-tonkovic,,4
 Toplički vinogradi,toplicki-vinogradi,toplica,kniga,,True,toplicki-vinogradi,,10
 Trivanović,trivanovic,fruska,raspolozhenie,"Срем, по данным Vivino",True,trivanovic,,8
 Veritas Ćuković,veritas-cukovic,fruska,kniga,,True,veritas-srem,,6
+Vertiz,vertiz,,ne_ustanovlen,,False,,,0
 Vinartos,vinartos,,ne_ustanovlen,,False,vinartos-vinarija,,2
 Vinis,vinis,,ne_ustanovlen,Vivino относит к «Šumadija-Velika Morava»,False,,,3
 Vinogradi Grocka,vinogradi-grocka,podunavlje,raspolozhenie,Гроцка под Белградом,False,,,1
 Vinum,vinum,fruska,kniga,,True,vinarija-vinum,,10
 Vinčić,vincic,fruska,kniga,,True,,4,2
-Virtus,virtus,,ne_ustanovlen,"Vivino относит к «Šumadija-Velika Morava»; по вину Mlavac похоже на Браничево, по другим данным Ритопек под Белградом — нужно уточнить",False,vinarija-virtus,,10
+Virtus,virtus,,ne_ustanovlen,"Decanter называет район Млава (Браничево, к востоку от Белграда). Значит, не Шумадия, как пишет Vivino. Есть ли Млава внутри главы «Подунавье и Белградский район» — решать автору.",False,vinarija-virtus,,10
 Vršački vinogradi,vrsacki-vinogradi,banat,kniga,,True,,,1
+Vujić,vujic,morave,kniga,Лукаревина,True,,,0
+Yotta,yotta,morave,kniga,Жупа,True,,,0
 Zupa,zupa,morave,raspolozhenie,"Александровац, Жупа",False,,,1
 Zupa Aleksandrovac,zupa-aleksandrovac,morave,raspolozhenie,"Александровац, Жупа",False,,,1
 Zvonko Bogdan,zvonko-bogdan,subotica,kniga,,True,zvonko-bogdan,,10
 Čoka,coka,banat,raspolozhenie,"Чока, северный Банат",False,vinarija-coka,,7
 Čokot,cokot,morave,kniga,"в книге как Radovan, бывш. Čokot",False,,,0
 Đurđić,durdic,fruska,kniga,,True,vinarija-durdic,,7
-Šapat,sapat,fruska,kniga,,True,atelje-vina-sapat,,6
+Šapat,sapat,fruska,kniga,Нови Сланкамен,True,atelje-vina-sapat,,6
 Šijački,sijacki,fruska,raspolozhenie,"Баноштор, Фрушка гора",False,,,2
+Žarković,zarkovic,,ne_ustanovlen,,False,,,0
 Živanović,zivanovic,fruska,raspolozhenie,Сремски Карловци,True,,,2

@@ -1,6 +1,6 @@
 {"istochnik": "falstaff", "hozyaistvo": "Matalj", "vino": "Zamna Cabernet Sauvignon", "god": "2020", "ball": 96, "stranica": "falstaff.com/en/listings/red-wine-the-best-vintages-from-serbia"}
 {"istochnik": "falstaff", "hozyaistvo": "Ivanović", "vino": "Prokupac Gaga", "god": "2017", "ball": 96, "stranica": "falstaff, список красных"}
-{"istochnik": "falstaff", "hozyaistvo": "Doja", "vino": "Prokupac Breg", "god": "2019", "ball": 95, "stranica": "falstaff, список красных"}
+{"istochnik": "falstaff", "hozyaistvo": "Doja", "vino": "Prokupac Breg", "god": "2019", "ball": 95, "stranica": "falstaff.com/en/wines/vinariju-doja-2019-doja-prokupac-breg · Peter Moser 2023"}
 {"istochnik": "falstaff", "hozyaistvo": "Matalj", "vino": "Kremen Kamen Cabernet Sauvignon", "god": "2017", "ball": 95, "stranica": "falstaff, список красных"}
 {"istochnik": "falstaff", "hozyaistvo": "Matalj", "vino": "Kremen Kamen Cabernet Sauvignon", "god": "2020", "ball": 95, "stranica": "falstaff/wines/matalj-vinarija"}
 {"istochnik": "falstaff", "hozyaistvo": "Vinčić", "vino": "Grašac Grand Fru", "god": "2020", "ball": 95, "stranica": "falstaff/wineries/vinarija-vincic"}
@@ -60,3 +60,20 @@
 {"istochnik": "falstaff", "hozyaistvo": "Erdevik", "vino": "Grand Trianon Deux Mers", "god": "2016", "ball": 92, "stranica": "falstaff.com/en/wines/vinarija-erdevik-2016-grand-trianon-deux-mers"}
 {"istochnik": "falstaff", "hozyaistvo": "Bikicki", "vino": "Sfera Noir (натуральное)", "god": "2021", "ball": 92, "stranica": "falstaff.com/de/weine/bikicki-2021-sfera-noir-natural-wine · Peter Moser"}
 {"istochnik": "falstaff", "hozyaistvo": "Aleksandrović", "vino": "Vizija Selection", "god": "2020", "ball": 91, "stranica": "falstaff.com/en/wines/vinarija-aleksandrovic-2020-vizija-selection"}
+{"istochnik": "falstaff", "hozyaistvo": "Aleksić", "vino": "Biser Extra Brut", "god": "2016", "ball": 91, "stranica": "falstaff.com/en/wines/aleksic-vinarija-2016-vinarija-aleksic-biser-extra-brut"}
+{"istochnik": "falstaff", "hozyaistvo": "Aleksandrović", "vino": "Trijumf Brut Rosé", "god": "2019", "ball": 92, "stranica": "falstaff.com/en/wines/vinarija-aleksandrovic-2019-trijumf-brut-rose"}
+{"istochnik": "decanter", "hozyaistvo": "Matalj", "vino": "Kremen Kamen", "god": "2021", "ball": 97, "stranica": "Платина DWWA 2026"}
+{"istochnik": "decanter", "hozyaistvo": "Aleksandrović", "vino": "Kameničarka Prokupac", "god": "2022", "ball": 97, "stranica": "Платина DWWA 2026"}
+{"istochnik": "decanter", "hozyaistvo": "Deurić", "vino": "La Rem Chardonnay", "god": "2023", "ball": 97, "stranica": "Платина DWWA 2026"}
+{"istochnik": "decanter", "hozyaistvo": "Erdevik", "vino": "Omnibus Lector Chardonnay", "god": "2015", "ball": 97, "stranica": "Платина DWWA 2020, первая платина Сербии"}
+{"istochnik": "decanter", "hozyaistvo": "Vinčić", "vino": "Grašac", "god": null, "ball": 97, "stranica": "Best in Show DWWA 2023"}
+{"istochnik": "decanter", "hozyaistvo": "Tonković", "vino": "Kadarka", "god": null, "ball": 91, "stranica": "Серебро DWWA 2017, балл по сербской рознице"}
+{"istochnik": "falstaff", "hozyaistvo": "Doja", "vino": "Prokupac", "god": "2019", "ball": 93, "stranica": "falstaff.com/en/wines/vinariju-doja-2019-doja-prokupac · Peter Moser 2023"}
+{"istochnik": "falstaff", "hozyaistvo": "Doja", "vino": "Chardonnay Barik", "god": "2022", "ball": 91, "stranica": "falstaff.com/at/weine/vinariju-doja-2022-doja-chardonnay-barik · Peter Moser 2023"}
+{"istochnik": "falstaff", "hozyaistvo": "Doja", "vino": "Rosé", "god": "2022", "ball": 91, "stranica": "falstaff, список розе"}
+{"istochnik": "falstaff", "hozyaistvo": "Doja", "vino": "Merlot Breg", "god": "2019", "ball": 94, "stranica": "falstaff.com/en/wines/vinariju-doja-2019-doja-merlot-breg"}
+{"istochnik": "falstaff", "hozyaistvo": "Matijašević", "vino": "Prokupac Čukundeda", "god": "2020", "ball": 92, "stranica": "falstaff.com/en/wines/matijasevic-vinogradi-2020-prokupac-cukundeda · Peter Moser 2023"}
+{"istochnik": "falstaff", "hozyaistvo": "Deurić", "vino": "The Brut", "god": "2018", "ball": 92, "stranica": "falstaff.com/de/weine/vinarija-deuric-2018-deuric-the-brut"}
+{"istochnik": "falstaff", "hozyaistvo": "Ivanović", "vino": "Tamjanika", "god": "2022", "ball": 92, "stranica": "falstaff.com/en/wines/vinarija-ivanovic-2022-tamjanika · Peter Moser 2023"}
+{"istochnik": "decanter", "hozyaistvo": "Drašković", "vino": "Beli Pinot", "god": "2020", "ball": 90, "stranica": "DWWA, Јужни Банат; по vino.rs"}
+{"istochnik": "decanter", "hozyaistvo": "Drašković", "vino": "Horizont Chardonnay", "god": "2021", "ball": 89, "stranica": "DWWA; по vino.rs"}

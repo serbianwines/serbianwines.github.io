@@ -130,18 +130,46 @@ def stroki():
                           ", ".join(h["hozyaistvo"] for h in spisok[:12])
                           + (" и ещё %d" % (len(spisok) - 12) if len(spisok) > 12 else "")))
 
+    # --------------------------------------------- виногорја внутри рејона
+    # Книга строится от виноградарских областей, поэтому важно не только
+    # сколько хозяйств в рејоне, но и как они разложены по его виногорјима
+    # и какие виногорја пусты. Округ здесь не участвует вовсе: он
+    # административный и к виноградарству отношения не имеет.
+    vinogorja_rejona = {r["rejon"]: [v["vinogorje"] for v in r["vinogorja"]]
+                        for r in spr["rejony"]}
+    out.append("\n## Виногорја внутри рејонов\n")
+    out.append("Официальных виногорја 77. Пустое виногорје — не ошибка: "
+               "хозяйство может быть, но без установленного места.\n")
+    out.append("| Рејон | Виногорје | Хозяйств |")
+    out.append("|---|---|---|")
+    for rejon in poryadok:
+        spisok = po_rejonu.get(rejon, [])
+        if not spisok:
+            continue
+        po_vg = collections.Counter(h["vinogorje"] for h in spisok)
+        for vg in vinogorja_rejona.get(rejon, []):
+            out.append("| %s | %s | %s |"
+                       % (rejon, vg, po_vg.get(vg) or "—"))
+        if po_vg.get(None):
+            out.append("| %s | *виногорје не установлено* | %d |"
+                       % (rejon, po_vg[None]))
+
     # --------------------------------------------- хозяйства по рејонима
     out.append("\n## Хозяйства по рејонима\n")
+    out.append("Город — куда ехать. Это населённый пункт хозяйства, "
+               "а не округ: округ единица государственного управления, "
+               "к виноградарству отношения не имеет.\n")
     for rejon in poryadok:
         spisok = sorted(po_rejonu.get(rejon, []), key=lambda h: h["hozyaistvo"])
         if not spisok:
             continue
         out.append("\n### %s — %s\n" % (rejon, region[rejon]))
-        out.append("| Хозяйство | Виногорје | Откуда рејон | В книге |")
-        out.append("|---|---|---|---|")
+        out.append("| Хозяйство | Виногорје | Город | Откуда рејон | В книге |")
+        out.append("|---|---|---|---|---|")
         for h in spisok:
-            out.append("| %s | %s | %s | %s |"
+            out.append("| %s | %s | %s | %s | %s |"
                        % (h["hozyaistvo"], h["vinogorje"] or "—",
+                          h.get("gorod") or "—",
                           h["rejon_istochnik"],
                           GLAVY.get(h["raion_knigi"], "—")))
     return out

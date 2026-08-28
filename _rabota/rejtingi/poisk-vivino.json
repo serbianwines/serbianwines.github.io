@@ -1,0 +1,4491 @@
+{
+ "chto_eto": "Поиск Vivino по производителям из регистра, которых нет в наших таблицах.",
+ "zaprosy": {
+  "ABERDAR DOO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6402",
+     "nazvanie": "Vinarija ABERDAR DOO Donja Šatornja",
+     "naselje": "Donja Šatornja",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [
+    "vino-matic",
+    "sanmuru-jirisan-doo-rae"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "BOBAN MARKOVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5551",
+     "nazvanie": "ZANATSKO TRGOVINSKA RADNJA VINARIJA BOBAN MARKOVIĆ PR, STRAGARI",
+     "naselje": "Stragari",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "markovic-si-istra",
+    "markovics",
+    "markovic",
+    "markovic-wine-of-montenegro",
+    "sylviane-boban",
+    "rajko-markovic",
+    "tomislav-markovic",
+    "vignoble-pascal-boban"
+   ],
+   "podhodyat": [
+    "markovic-si-istra",
+    "markovics",
+    "markovic",
+    "markovic-wine-of-montenegro",
+    "sylviane-boban",
+    "rajko-markovic",
+    "tomislav-markovic",
+    "vignoble-pascal-boban"
+   ],
+   "vne_listinga": [
+    "markovic-si-istra",
+    "markovics",
+    "markovic",
+    "markovic-wine-of-montenegro",
+    "sylviane-boban",
+    "rajko-markovic",
+    "tomislav-markovic",
+    "vignoble-pascal-boban"
+   ]
+  },
+  "BRAĆA ADAMOVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7267",
+     "nazvanie": "Suzana Adamović PR Proizvodnja vina od grožđa Vinarija BRAĆA ADAMOVIĆ Vlasotince",
+     "naselje": "Vlasotince",
+     "okrug": "Jablanički"
+    }
+   ],
+   "nashlos": [
+    "braca-rajkovic",
+    "plancic"
+   ],
+   "podhodyat": [
+    "braca-rajkovic"
+   ],
+   "vne_listinga": []
+  },
+  "BT WINERY": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5919",
+     "nazvanie": "\"BT WINERY\" D.O.O. BEŠKA",
+     "naselje": "Beška",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "bt-winery",
+    "babor-bt-128469",
+    "bt-wines",
+    "csanadi-badacsony",
+    "bt-organic-wines",
+    "sinkovicz-es-kiss-bt",
+    "marquis-winery-maruki-winery",
+    "d-s"
+   ],
+   "podhodyat": [
+    "bt-winery",
+    "marquis-winery-maruki-winery",
+    "yajianggu-winery",
+    "wandering-winery"
+   ],
+   "vne_listinga": [
+    "marquis-winery-maruki-winery",
+    "yajianggu-winery",
+    "wandering-winery"
+   ]
+  },
+  "Balint Pinceszet": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "171",
+     "nazvanie": "Akoš Balint PR, SZR za proizvodnju i prodaju vina i gajenje grožđa \"Podrum Balint Pinceszet\" Horgoš",
+     "naselje": "Horgoš",
+     "okrug": "Severnobanatski"
+    }
+   ],
+   "nashlos": [
+    "boda-balint-pinceszet",
+    "podrum-balint",
+    "losonci-balint",
+    "barcza-balint",
+    "erdos-balint",
+    "foldi-balint",
+    "pinceszet-74667",
+    "molnar-bor"
+   ],
+   "podhodyat": [
+    "boda-balint-pinceszet",
+    "podrum-balint",
+    "losonci-balint",
+    "barcza-balint",
+    "erdos-balint",
+    "foldi-balint",
+    "pinceszet-74667",
+    "kovalik-pinceszet",
+    "prokai-pinceszet"
+   ],
+   "vne_listinga": [
+    "boda-balint-pinceszet",
+    "podrum-balint",
+    "losonci-balint",
+    "barcza-balint",
+    "erdos-balint",
+    "foldi-balint",
+    "pinceszet-74667",
+    "kovalik-pinceszet",
+    "prokai-pinceszet"
+   ]
+  },
+  "CARPE DIEM": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "1014",
+     "nazvanie": "Dejan Čvorović PR proizvodnja vina vinarija CARPE DIEM Lazarevac",
+     "naselje": "Lazarevac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "carpe-diem-md-moldova",
+    "carpe-diem-jerez-xeres-sherry",
+    "carpe-diem-maule-valley",
+    "carpe-diem",
+    "winnica-carpe-diem",
+    "carpe-diem-vineyards",
+    "chateau-carpe-diem",
+    "domaine-ame-carpe-diem"
+   ],
+   "podhodyat": [
+    "carpe-diem-md-moldova",
+    "carpe-diem-jerez-xeres-sherry",
+    "carpe-diem-maule-valley",
+    "carpe-diem",
+    "winnica-carpe-diem",
+    "carpe-diem-vineyards",
+    "chateau-carpe-diem",
+    "domaine-ame-carpe-diem",
+    "diem",
+    "carpe-vino"
+   ],
+   "vne_listinga": [
+    "carpe-diem-md-moldova",
+    "carpe-diem-jerez-xeres-sherry",
+    "carpe-diem-maule-valley",
+    "carpe-diem",
+    "winnica-carpe-diem",
+    "carpe-diem-vineyards",
+    "chateau-carpe-diem",
+    "domaine-ame-carpe-diem",
+    "diem",
+    "carpe-vino"
+   ]
+  },
+  "CELANOVA AGRO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6542",
+     "nazvanie": "\"CELANOVA AGRO\" DOO Vršac",
+     "naselje": "Vršac",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [
+    "agros",
+    "agro-mohelno",
+    "agro-urdiense",
+    "agro-batoreu",
+    "villarta",
+    "agro-star",
+    "agros-romani",
+    "agro-zlechov"
+   ],
+   "podhodyat": [
+    "agros",
+    "agro-mohelno",
+    "agro-urdiense",
+    "agro-batoreu",
+    "agro-star",
+    "agros-romani",
+    "agro-zlechov",
+    "agro-de-gudin",
+    "agro-de-bazan"
+   ],
+   "vne_listinga": [
+    "agros",
+    "agro-mohelno",
+    "agro-urdiense",
+    "agro-batoreu",
+    "agro-star",
+    "agros-romani",
+    "agro-zlechov",
+    "agro-de-gudin",
+    "agro-de-bazan"
+   ]
+  },
+  "Conart": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5287",
+     "nazvanie": "\"Conart\" doo Beograd",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "conart-rioblanc"
+   ],
+   "podhodyat": [
+    "conart-rioblanc"
+   ],
+   "vne_listinga": [
+    "conart-rioblanc"
+   ]
+  },
+  "DIONIS PROMET": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5243",
+     "nazvanie": "Društvo sa ograničenom odgovornošću za proizvodnju promet i usluge \"DIONIS PROMET\", Aleksandrovac",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "dionis-crimea",
+    "dionis-collection",
+    "crama-dionis",
+    "dionis-club",
+    "chateau-dionis"
+   ],
+   "podhodyat": [
+    "dionis-crimea",
+    "dionis-collection",
+    "crama-dionis",
+    "dionis-club",
+    "chateau-dionis"
+   ],
+   "vne_listinga": [
+    "dionis-crimea",
+    "dionis-collection",
+    "crama-dionis",
+    "dionis-club",
+    "chateau-dionis"
+   ]
+  },
+  "DIONIS VD": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5336",
+     "nazvanie": "Dragan Veselinović PR, proizvodnja vina od grožđa, destilacija, prečišćavanje i mešanje pića i delatnost restorana \"DIONIS VD\", Petrovaradin",
+     "naselje": "Petrovaradin",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "vd",
+    "dionis-crimea",
+    "dionis-collection",
+    "crama-dionis",
+    "chateau-dionis",
+    "dionis-club"
+   ],
+   "podhodyat": [
+    "dionis-crimea",
+    "dionis-collection",
+    "crama-dionis",
+    "chateau-dionis",
+    "dionis-club"
+   ],
+   "vne_listinga": [
+    "dionis-crimea",
+    "dionis-collection",
+    "crama-dionis",
+    "chateau-dionis",
+    "dionis-club"
+   ]
+  },
+  "DOO SREMSKI": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7128",
+     "nazvanie": "BV VINARIJA DOO SREMSKI KARLOVCI",
+     "naselje": "Sremski Karlovci",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "vino-matic",
+    "sanmuru-jirisan-doo-rae"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "DVE KULE": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6873",
+     "nazvanie": "\"DVE KULE\" DOO BAČINCI",
+     "naselje": "Bačinci",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "dve-mogili-winery"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "EMPORIO CONSULTING": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5235",
+     "nazvanie": "\"EMPORIO CONSULTING\" DOO, BEOGRAD (VOŽDOVAC)",
+     "naselje": "Ripanj",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "emporio-puglia",
+    "emporio",
+    "nanok-consulting",
+    "hedera-consulting",
+    "emporio-cestaroli",
+    "emporio-cassi",
+    "emporio-veracruz",
+    "emporio-alessandro"
+   ],
+   "podhodyat": [
+    "emporio-puglia",
+    "emporio",
+    "nanok-consulting",
+    "hedera-consulting",
+    "emporio-cestaroli",
+    "emporio-cassi",
+    "emporio-veracruz",
+    "emporio-alessandro",
+    "emporio-paraiso",
+    "emporio-58"
+   ],
+   "vne_listinga": [
+    "emporio-puglia",
+    "emporio",
+    "nanok-consulting",
+    "hedera-consulting",
+    "emporio-cestaroli",
+    "emporio-cassi",
+    "emporio-veracruz",
+    "emporio-alessandro",
+    "emporio-paraiso",
+    "emporio-58"
+   ]
+  },
+  "FAMILIA Kula": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5815",
+     "nazvanie": "Tanja Sarić PR proizvodnja vina vinarija FAMILIA Kula, Malo Crniće",
+     "naselje": "Kula",
+     "okrug": "Braničevski"
+    }
+   ],
+   "nashlos": [
+    "kula-wine",
+    "vinarija-kula-popovic",
+    "kula-vineyards",
+    "popova-kula",
+    "vinarija-bela-kula",
+    "la-familia",
+    "la-familia-piedmont",
+    "de-familia"
+   ],
+   "podhodyat": [
+    "kula-wine",
+    "vinarija-kula-popovic",
+    "kula-vineyards",
+    "popova-kula",
+    "vinarija-bela-kula",
+    "la-familia",
+    "la-familia-piedmont",
+    "de-familia",
+    "familia-rizzi"
+   ],
+   "vne_listinga": [
+    "kula-wine",
+    "vinarija-kula-popovic",
+    "kula-vineyards",
+    "popova-kula",
+    "la-familia",
+    "la-familia-piedmont",
+    "de-familia",
+    "familia-rizzi"
+   ]
+  },
+  "FENIX DOO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7398",
+     "nazvanie": "VINARIJA FENIX DOO BAČKI PETROVAC",
+     "naselje": "Bački Petrovac",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "fenix",
+    "finca-fenix",
+    "vino-matic",
+    "sanmuru-jirisan-doo-rae"
+   ],
+   "podhodyat": [
+    "fenix",
+    "finca-fenix"
+   ],
+   "vne_listinga": [
+    "fenix",
+    "finca-fenix"
+   ]
+  },
+  "FMS KVART": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6637",
+     "nazvanie": "PRIVREDNO DRUŠTVO ZA INŽENJERING, TRGOVINU I USLUGE „FMS KVART“ DOO OREŠKOVICA",
+     "naselje": "Oreškovica",
+     "okrug": "Braničevski"
+    }
+   ],
+   "nashlos": [
+    "amfm",
+    "leroy-fm-pere-fils"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "GRAND TRADE": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5255",
+     "nazvanie": "Preduzeće za proizvodnju, promet i saobraćaj \"GRAND TRADE\" Sombor",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "montecatini-terme"
+   ],
+   "podhodyat": [
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "grand-languedoc-roussillon",
+    "le-grand"
+   ],
+   "vne_listinga": [
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "grand-languedoc-roussillon",
+    "le-grand"
+   ]
+  },
+  "GROW LINE": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6631",
+     "nazvanie": "Nebojša Dimitrijević PR usluge u gajenju useva \"GROW LINE\" Božurnja",
+     "naselje": "Božurnja",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [
+    "grow",
+    "grow-wild",
+    "line",
+    "do-line",
+    "grow-africa",
+    "s-line",
+    "low-grow",
+    "red-line"
+   ],
+   "podhodyat": [
+    "grow",
+    "grow-wild",
+    "line",
+    "do-line",
+    "grow-africa",
+    "s-line",
+    "low-grow",
+    "red-line",
+    "line-cauquil",
+    "red-line-niederosterreich"
+   ],
+   "vne_listinga": [
+    "grow",
+    "grow-wild",
+    "line",
+    "do-line",
+    "grow-africa",
+    "s-line",
+    "low-grow",
+    "red-line",
+    "line-cauquil",
+    "red-line-niederosterreich"
+   ]
+  },
+  "Gajić Lazarevac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5206",
+     "nazvanie": "Mladen Gajić PR proizvodnja i prodaja vina Podrum Gajić Lazarevac",
+     "naselje": "Lazarevac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "mali-podrum-gajitsh-mali-podrum-gajic"
+   ],
+   "podhodyat": [
+    "mali-podrum-gajitsh-mali-podrum-gajic"
+   ],
+   "vne_listinga": []
+  },
+  "Hrebeljanović DOO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6163",
+     "nazvanie": "Vinarija Hrebeljanović DOO Ćuprija",
+     "naselje": "Ćuprija",
+     "okrug": "Pomoravski"
+    }
+   ],
+   "nashlos": [
+    "vino-matic",
+    "sanmuru-jirisan-doo-rae"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "I DESTILERIJA": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4219",
+     "nazvanie": "VINARIJA I DESTILERIJA ANA NAGLIĆ D.O.O. Surčin",
+     "naselje": "Surčin",
+     "okrug": "Beograd"
+    },
+    {
+     "reg_nomer": "317",
+     "nazvanie": "VINARIJA I DESTILERIJA DIONIS SRĐAN GITARIĆ PR DOBRI DO",
+     "naselje": "Dobri Do",
+     "okrug": "Podunavski"
+    }
+   ],
+   "nashlos": [
+    "bogojevic",
+    "i-do",
+    "i-l-o",
+    "iipessenet",
+    "i-casalil",
+    "io-wines",
+    "i-fanti",
+    "i-granducali"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "ILLE-VIVI STRAGARI": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6743",
+     "nazvanie": "NOFE ILLE PR PROIZVODNJA GROŽĐA I PRAVLJENJE VINA VINOGRADI I VINARIJA ILLE-VIVI STRAGARI",
+     "naselje": "Stragari",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [
+    "vivi",
+    "illes",
+    "vivi-estate",
+    "vivi-rosso",
+    "vivi-priamus",
+    "illes-pince",
+    "paradis-de-l-ille",
+    "l-ille-128893"
+   ],
+   "podhodyat": [
+    "vivi",
+    "illes",
+    "vivi-estate",
+    "vivi-rosso",
+    "vivi-priamus",
+    "illes-pince",
+    "paradis-de-l-ille",
+    "l-ille-128893",
+    "illes-borhaz",
+    "illes-gyula"
+   ],
+   "vne_listinga": [
+    "vivi",
+    "illes",
+    "vivi-estate",
+    "vivi-rosso",
+    "vivi-priamus",
+    "illes-pince",
+    "paradis-de-l-ille",
+    "l-ille-128893",
+    "illes-borhaz",
+    "illes-gyula"
+   ]
+  },
+  "Istok": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6667",
+     "nazvanie": "Irena Belić PR \"Vinarija Istok\" Davidovac",
+     "naselje": "Davidovac",
+     "okrug": "Borski"
+    }
+   ],
+   "nashlos": [
+    "istok-istok"
+   ],
+   "podhodyat": [
+    "istok-istok"
+   ],
+   "vne_listinga": [
+    "istok-istok"
+   ]
+  },
+  "JANKOVIĆ NEGOTIN": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6426",
+     "nazvanie": "GORAN JANKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM JANKOVIĆ NEGOTIN (REČKA)",
+     "naselje": "Negotin",
+     "okrug": "Borski"
+    }
+   ],
+   "nashlos": [
+    "jankovic",
+    "klet-jankovic",
+    "josef-jankovic"
+   ],
+   "podhodyat": [
+    "jankovic",
+    "klet-jankovic",
+    "josef-jankovic"
+   ],
+   "vne_listinga": [
+    "jankovic",
+    "klet-jankovic",
+    "josef-jankovic"
+   ]
+  },
+  "KAŠTEL SCHULHOFF": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "2431",
+     "nazvanie": "PD „KAŠTEL SCHULHOFF” DOO Novi Sad",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "kastel",
+    "kastel-berg",
+    "franz-kastel",
+    "kastel-sikuli"
+   ],
+   "podhodyat": [
+    "kastel",
+    "kastel-berg",
+    "franz-kastel",
+    "kastel-sikuli"
+   ],
+   "vne_listinga": [
+    "kastel",
+    "kastel-berg",
+    "franz-kastel",
+    "kastel-sikuli"
+   ]
+  },
+  "KNEŽEVIĆ DRUŠTVO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6437",
+     "nazvanie": "VINARIJA KNEŽEVIĆ DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU SREMSKI KARLOVCI",
+     "naselje": "Sremski Karlovci",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "monte-grande"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Kana": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6359",
+     "nazvanie": "Milan Ratković PR proizvodnja vina \"Kana\" Kruševac",
+     "naselje": "Tekija",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "kana-vin-de-pays-vignobles-de-france",
+    "kana",
+    "vinarstvi-kana"
+   ],
+   "podhodyat": [
+    "kana-vin-de-pays-vignobles-de-france",
+    "kana",
+    "vinarstvi-kana"
+   ],
+   "vne_listinga": [
+    "kana-vin-de-pays-vignobles-de-france",
+    "kana",
+    "vinarstvi-kana"
+   ]
+  },
+  "Kapija Šumadije": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6345",
+     "nazvanie": "Milorad Ilić PR Proizvodnja vina \"Vinarija Kapija Šumadije\" Ripanj",
+     "naselje": "Ripanj",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "chateau-demir-kapija"
+   ],
+   "podhodyat": [
+    "chateau-demir-kapija"
+   ],
+   "vne_listinga": [
+    "chateau-demir-kapija"
+   ]
+  },
+  "Klinocki Wine": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4226",
+     "nazvanie": "Atila Klinocki, PR Radnja za proizvodnju vina \"Klinocki Wine\" Bajmok",
+     "naselje": "Bajmok",
+     "okrug": "Severnobački"
+    }
+   ],
+   "nashlos": [
+    "di-wine",
+    "o-wines-languedoc-roussillon",
+    "le-du-s-wines",
+    "la-pinot",
+    "le-wine",
+    "l-wines",
+    "le-wines",
+    "o-wines"
+   ],
+   "podhodyat": [
+    "di-wine",
+    "o-wines-languedoc-roussillon",
+    "le-du-s-wines",
+    "le-wine",
+    "l-wines",
+    "le-wines",
+    "o-wines",
+    "y-wines",
+    "wine-wine-plus"
+   ],
+   "vne_listinga": [
+    "di-wine",
+    "o-wines-languedoc-roussillon",
+    "le-du-s-wines",
+    "le-wine",
+    "l-wines",
+    "le-wines",
+    "o-wines",
+    "y-wines",
+    "wine-wine-plus"
+   ]
+  },
+  "Kula Vetrova": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5311",
+     "nazvanie": "Marija Deđanski pr proizvodnja vina \"Vinarija Kula Vetrova\" Malo Središte",
+     "naselje": "Malo Središte",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [
+    "kula-wine",
+    "vinarija-kula-popovic",
+    "kula-vineyards",
+    "popova-kula",
+    "vinarija-bela-kula",
+    "yanik-ulke"
+   ],
+   "podhodyat": [
+    "kula-wine",
+    "vinarija-kula-popovic",
+    "kula-vineyards",
+    "popova-kula",
+    "vinarija-bela-kula"
+   ],
+   "vne_listinga": [
+    "kula-wine",
+    "vinarija-kula-popovic",
+    "kula-vineyards",
+    "popova-kula"
+   ]
+  },
+  "LJUTICA LOVĆENAC": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7183",
+     "nazvanie": "DRAGANA LJUTICA PREDUZETNIK PROIZVODNJA VINA OD GROŽĐA VINARIJA LJUTICA LOVĆENAC",
+     "naselje": "Lovćenac",
+     "okrug": "Severnobački"
+    }
+   ],
+   "nashlos": [
+    "vinarija-ljutica"
+   ],
+   "podhodyat": [
+    "vinarija-ljutica"
+   ],
+   "vne_listinga": [
+    "vinarija-ljutica"
+   ]
+  },
+  "M AGRO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6598",
+     "nazvanie": "\"M AGRO\" DOO SREMSKA MITROVICA",
+     "naselje": "Sremska Mitrovica",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "agros",
+    "agro-mohelno",
+    "agro-urdiense",
+    "agro-batoreu",
+    "villarta",
+    "agro-star",
+    "agros-romani",
+    "agro-zlechov"
+   ],
+   "podhodyat": [
+    "agros",
+    "agro-mohelno",
+    "agro-urdiense",
+    "agro-batoreu",
+    "agro-star",
+    "agros-romani",
+    "agro-zlechov",
+    "agro-de-gudin",
+    "agro-de-bazan"
+   ],
+   "vne_listinga": [
+    "agros",
+    "agro-mohelno",
+    "agro-urdiense",
+    "agro-batoreu",
+    "agro-star",
+    "agros-romani",
+    "agro-zlechov",
+    "agro-de-gudin",
+    "agro-de-bazan"
+   ]
+  },
+  "MD BRANDS": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "11",
+     "nazvanie": "\"MD BRANDS\" DOO, Gornji Stupanj - Aleksandrovac",
+     "naselje": "Gornji Stupanj",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "us-brand",
+    "de-brand",
+    "md-vinos-baja-california",
+    "brio-us",
+    "vinorum-md-134230",
+    "brand-122507",
+    "thilo-brand",
+    "fredi-brand"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MEĆAVAˮ DOO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "1285",
+     "nazvanie": "„VINARIJA MEĆAVAˮ DOO",
+     "naselje": "Niš - Pantelej",
+     "okrug": "Nišavski"
+    }
+   ],
+   "nashlos": [
+    "vino-matic",
+    "sanmuru-jirisan-doo-rae"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MI-MI": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4179",
+     "nazvanie": "PREDUZEĆE \"MI-MI\" DOO, Blace",
+     "naselje": "Blace",
+     "okrug": "Toplički"
+    }
+   ],
+   "nashlos": [
+    "mi-mi-en-provence",
+    "mis-soles",
+    "mi-chango",
+    "marshall-mi",
+    "habla-de-mi",
+    "mi-pak",
+    "mi-estancia",
+    "mi-scusi"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MILOSAVLJEVIĆ BUČJE": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "15",
+     "nazvanie": "DRAGAN MILOSAVLJEVIĆ PR, VINARIJA MILOSAVLJEVIĆ BUČJE",
+     "naselje": "Bučje",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "milosavljevic",
+    "vila-vina"
+   ],
+   "podhodyat": [
+    "milosavljevic"
+   ],
+   "vne_listinga": [
+    "milosavljevic"
+   ]
+  },
+  "Mala Sugubina 198": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4212",
+     "nazvanie": "Zemljoradnička zadruga \"Mala Sugubina 198\", Mala Sugubina",
+     "naselje": "Mala Sugubina",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "mala-valley",
+    "mala-kristina",
+    "sylva-mala",
+    "mala-peira",
+    "la-mala-maria",
+    "batch-no-198",
+    "fossa-mala",
+    "mala-kuca-winery"
+   ],
+   "podhodyat": [
+    "mala-valley",
+    "mala-kristina",
+    "sylva-mala",
+    "mala-peira",
+    "la-mala-maria",
+    "fossa-mala",
+    "mala-kuca-winery",
+    "winnica-palac-mala-wies"
+   ],
+   "vne_listinga": [
+    "mala-valley",
+    "mala-kristina",
+    "sylva-mala",
+    "mala-peira",
+    "la-mala-maria",
+    "fossa-mala",
+    "mala-kuca-winery",
+    "winnica-palac-mala-wies"
+   ]
+  },
+  "Milivojević - 1972": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4183",
+     "nazvanie": "Maja Milivojević PR, proizvodnja vina i rakije \"Podrum Milivojević - 1972\", Rečka",
+     "naselje": "Rečka",
+     "okrug": "Borski"
+    }
+   ],
+   "nashlos": [
+    "mangiafico-1972"
+   ],
+   "podhodyat": [
+    "mangiafico-1972"
+   ],
+   "vne_listinga": [
+    "mangiafico-1972"
+   ]
+  },
+  "PAVLOVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4131",
+     "nazvanie": "Slobodan Pavlović preduzetnik, Proizvodno zanatska radnja \"PODRUM PAVLOVIĆ\", Trska",
+     "naselje": "Trska",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [
+    "pavlovic"
+   ],
+   "podhodyat": [
+    "pavlovic"
+   ],
+   "vne_listinga": [
+    "pavlovic"
+   ]
+  },
+  "PIĆA VV": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7111",
+     "nazvanie": "PRIVREDNO DRUŠTVO PODRUM PIĆA VV DOO ALEKSANDROVAC",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "la-pica",
+    "chateau-pica",
+    "finca-la-pica",
+    "mas-picas",
+    "pica-peixe",
+    "pica-zabal",
+    "le-cid",
+    "pica-priori"
+   ],
+   "podhodyat": [
+    "la-pica",
+    "chateau-pica",
+    "finca-la-pica",
+    "mas-picas",
+    "pica-peixe",
+    "pica-zabal",
+    "pica-priori",
+    "podrum-pica-maric"
+   ],
+   "vne_listinga": [
+    "la-pica",
+    "chateau-pica",
+    "finca-la-pica",
+    "mas-picas",
+    "pica-peixe",
+    "pica-zabal",
+    "pica-priori"
+   ]
+  },
+  "RB BARIL": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5245",
+     "nazvanie": "Blagoje Ivljanin preduzetnik radnja za proizvodnju vina od grožđa \"RB BARIL\" Aleksandrovac",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "baril",
+    "bouza-do-rb",
+    "moc-baril",
+    "sousa-fernandes",
+    "grand-baril",
+    "rb-rare-blends"
+   ],
+   "podhodyat": [
+    "baril",
+    "moc-baril",
+    "grand-baril"
+   ],
+   "vne_listinga": [
+    "baril",
+    "moc-baril",
+    "grand-baril"
+   ]
+  },
+  "REVIN EXPORT-IMPORT": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5234",
+     "nazvanie": "\"REVIN EXPORT-IMPORT\", PREDUZEĆE ZA PROIZVODNJU, PROMET ROBA I USLUGA DOO, BEOGRAD (ČUKARICA)",
+     "naselje": "Umka",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "export",
+    "vinarstvo-revin",
+    "export-union",
+    "griesedieck-imports",
+    "massanois-imports",
+    "landscape-import",
+    "m-imports",
+    "italhandel-import"
+   ],
+   "podhodyat": [
+    "export",
+    "vinarstvo-revin",
+    "export-union",
+    "griesedieck-imports",
+    "massanois-imports",
+    "landscape-import",
+    "m-imports",
+    "italhandel-import",
+    "import-ant",
+    "d-a-imports"
+   ],
+   "vne_listinga": [
+    "export",
+    "vinarstvo-revin",
+    "export-union",
+    "griesedieck-imports",
+    "massanois-imports",
+    "landscape-import",
+    "m-imports",
+    "italhandel-import",
+    "import-ant",
+    "d-a-imports"
+   ]
+  },
+  "SIMIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7271",
+     "nazvanie": "JOVAN SIMIĆ PREDUZETNIK PROIZVODNJA VINA VINARIJA SIMIĆ - GRADINA MRČIĆ",
+     "naselje": "Valjevo",
+     "okrug": "Kolubarski"
+    }
+   ],
+   "nashlos": [
+    "vinarija-simic"
+   ],
+   "podhodyat": [
+    "vinarija-simic"
+   ],
+   "vne_listinga": []
+  },
+  "SIMIĆ Drenča": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4118",
+     "nazvanie": "Marija Simić PR, proizvodnja i prerada vina VINARIJA SIMIĆ Drenča",
+     "naselje": "Drenča",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "vinarija-simic"
+   ],
+   "podhodyat": [
+    "vinarija-simic"
+   ],
+   "vne_listinga": []
+  },
+  "SLATINA ALEKSANDROVAC": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7306",
+     "nazvanie": "Two Bricks DOO BEOGRAD OGRANAK VINARIJA SLATINA ALEKSANDROVAC",
+     "naselje": "Lesenovci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "zupa"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "STEP TO FRUIT": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6869",
+     "nazvanie": "\"STEP TO FRUIT\" DOO Novi Sad",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "steps",
+    "step-by-step",
+    "les-fruits",
+    "three-steps",
+    "twentyfive-steps",
+    "wild-steps",
+    "sanctury-step",
+    "brave-step"
+   ],
+   "podhodyat": [
+    "steps",
+    "step-by-step",
+    "les-fruits",
+    "three-steps",
+    "twentyfive-steps",
+    "wild-steps",
+    "sanctury-step",
+    "brave-step",
+    "curious-fruit",
+    "simply-fruit"
+   ],
+   "vne_listinga": [
+    "steps",
+    "step-by-step",
+    "les-fruits",
+    "three-steps",
+    "twentyfive-steps",
+    "wild-steps",
+    "sanctury-step",
+    "brave-step",
+    "curious-fruit",
+    "simply-fruit"
+   ]
+  },
+  "SUČKO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4079",
+     "nazvanie": "Milan Sučević PR, radnja za proizvodnju rakije i vina \"SUČKO\", Beograd-Voždovac",
+     "naselje": "Beograd - Voždovac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "milan-sucevic"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Sava": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4113",
+     "nazvanie": "Vladislav Gajić PR proizvodnja vina \"Vinska Kuća Sava\" Tržac",
+     "naselje": "Tržac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "sava-denizli",
+    "savas",
+    "terra-di-sava",
+    "terre-di-sava",
+    "duc-de-valon",
+    "casa-del-vio",
+    "svs",
+    "mihai-sava"
+   ],
+   "podhodyat": [
+    "sava-denizli",
+    "savas",
+    "terra-di-sava",
+    "terre-di-sava",
+    "mihai-sava",
+    "sava-minic",
+    "cantina-sava"
+   ],
+   "vne_listinga": [
+    "sava-denizli",
+    "savas",
+    "terra-di-sava",
+    "terre-di-sava",
+    "mihai-sava",
+    "cantina-sava"
+   ]
+  },
+  "Sava na Dunavu": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5778",
+     "nazvanie": "Nataša Silađi PR Proizvodnja vina \"Sava na Dunavu\" Koruška",
+     "naselje": "Beočin",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "sava-denizli",
+    "savas",
+    "na",
+    "terra-di-sava",
+    "terre-di-sava",
+    "duc-de-valon",
+    "casa-del-vio",
+    "svs"
+   ],
+   "podhodyat": [
+    "sava-denizli",
+    "savas",
+    "terra-di-sava",
+    "terre-di-sava",
+    "mihai-sava",
+    "sava-minic"
+   ],
+   "vne_listinga": [
+    "sava-denizli",
+    "savas",
+    "terra-di-sava",
+    "terre-di-sava",
+    "mihai-sava"
+   ]
+  },
+  "Staro Užice": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5236",
+     "nazvanie": "Nikola Karaklić preduzetnik, radnja za ugostiteljstvo i proizvodnju jakih alkoholnih pića \"Staro Užice\" Beograd (Savski venac)",
+     "naselje": "Beograd - Čukarica",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "staro-oryahovo"
+   ],
+   "podhodyat": [
+    "staro-oryahovo"
+   ],
+   "vne_listinga": [
+    "staro-oryahovo"
+   ]
+  },
+  "TRI TAČKE": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6688",
+     "nazvanie": "DRAGAN LONČAREVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA TRI TAČKE BANATSKI BRESTOVAC",
+     "naselje": "Banatski Brestovac",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [
+    "tri",
+    "tri-trate",
+    "tri-puske",
+    "domaine-des-tris",
+    "la-tri-fontoj",
+    "tri-sklepy",
+    "tri-pe",
+    "tri-tip"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Trival": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5276",
+     "nazvanie": "Marija Dimitrijević preduzetnik proizvodnja vina od grožđa Vinarija \"Trival\" Drača",
+     "naselje": "Drača",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [
+    "trival"
+   ],
+   "podhodyat": [
+    "trival"
+   ],
+   "vne_listinga": [
+    "trival"
+   ]
+  },
+  "VINA DABOVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6142",
+     "nazvanie": "TATJANA DABOVIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM VINA DABOVIĆ BEOGRAD",
+     "naselje": "Surčin",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "vinarija-dabovic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina"
+   ],
+   "podhodyat": [
+    "vinarija-dabovic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "vina-trebla"
+   ],
+   "vne_listinga": [
+    "vinarija-dabovic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "vina-trebla"
+   ]
+  },
+  "VINA JOKIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4233",
+     "nazvanie": "RADOSLAV JOKIĆ PR PROIZVODNJA VINA PODRUM VINA JOKIĆ VINČA",
+     "naselje": "Vinča",
+     "okrug": "Šumadijski"
+    },
+    {
+     "reg_nomer": "5535",
+     "nazvanie": "Sonja Jokić PR, proizvodnja vina od grožđa \"KUĆA VINA JOKIĆ\", Sombor",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [
+    "jokic",
+    "vinarija-jokic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha"
+   ],
+   "podhodyat": [
+    "jokic",
+    "vinarija-jokic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "vina-trebla"
+   ],
+   "vne_listinga": [
+    "jokic",
+    "vinarija-jokic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "vina-trebla"
+   ]
+  },
+  "VINA ĐURĐEVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5841",
+     "nazvanie": "NENAD ĐURĐEVIĆ PR VINARIJA VINA ĐURĐEVIĆ ALEKSANDROVAC",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "vina-durdevic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "la-vina-comunitat-valenciana"
+   ],
+   "podhodyat": [
+    "vina-durdevic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "la-vina-comunitat-valenciana",
+    "vina-trebla"
+   ],
+   "vne_listinga": [
+    "vina-durdevic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "la-vina-comunitat-valenciana",
+    "vina-trebla"
+   ]
+  },
+  "VINOGRADI UROŠEVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4137",
+     "nazvanie": "KATA UROŠEVIĆ PR VINARIJA VINOGRADI UROŠEVIĆ BANOŠTOR",
+     "naselje": "Banoštor",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "vinogradi-urosevic",
+    "vinogradi",
+    "vinogradi-nikolic",
+    "fruskogorski",
+    "matijasevic-vinogradi",
+    "vinogradi-fon",
+    "botunjac",
+    "vinogradi-nuic"
+   ],
+   "podhodyat": [
+    "vinogradi-urosevic",
+    "vinogradi",
+    "vinogradi-nikolic",
+    "matijasevic-vinogradi",
+    "vinogradi-fon",
+    "vinogradi-nuic",
+    "carski-vinogradi",
+    "krizevacki-vinogradi"
+   ],
+   "vne_listinga": [
+    "vinogradi-urosevic",
+    "vinogradi",
+    "vinogradi-fon",
+    "vinogradi-nuic",
+    "carski-vinogradi",
+    "krizevacki-vinogradi"
+   ]
+  },
+  "VISTA HILLS PLUS": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5698",
+     "nazvanie": "Privredno društvo \"VISTA HILLS PLUS\" DOO Šid",
+     "naselje": "Šid",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "vista-hill",
+    "vista-hills",
+    "plus",
+    "r-plus",
+    "plus-minus",
+    "vistas",
+    "le-vista",
+    "vista-nelson"
+   ],
+   "podhodyat": [
+    "vista-hill",
+    "vista-hills",
+    "plus",
+    "r-plus",
+    "plus-minus",
+    "vistas",
+    "le-vista",
+    "vista-nelson",
+    "plus-one"
+   ],
+   "vne_listinga": [
+    "vista-hills",
+    "plus",
+    "r-plus",
+    "plus-minus",
+    "vistas",
+    "le-vista",
+    "vista-nelson",
+    "plus-one"
+   ]
+  },
+  "WINE NET": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4174",
+     "nazvanie": "\"WINE NET\" DOO, Bujačić",
+     "naselje": "Valjevo",
+     "okrug": "Kolubarski"
+    }
+   ],
+   "nashlos": [
+    "son-net",
+    "net-1",
+    "di-wine",
+    "o-wines-languedoc-roussillon",
+    "le-du-s-wines",
+    "la-pinot",
+    "le-wine",
+    "l-wines"
+   ],
+   "podhodyat": [
+    "di-wine",
+    "o-wines-languedoc-roussillon",
+    "le-du-s-wines",
+    "le-wine",
+    "l-wines",
+    "le-wines",
+    "o-wines"
+   ],
+   "vne_listinga": [
+    "di-wine",
+    "o-wines-languedoc-roussillon",
+    "le-du-s-wines",
+    "le-wine",
+    "l-wines",
+    "le-wines",
+    "o-wines"
+   ]
+  },
+  "Zenit trade": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5291",
+     "nazvanie": "\"Zenit trade\" doo Beograd",
+     "naselje": "Zemun",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "zenit",
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade"
+   ],
+   "podhodyat": [
+    "zenit",
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "zhejiang-chun-foreign-trade-coltd"
+   ],
+   "vne_listinga": [
+    "zenit",
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "zhejiang-chun-foreign-trade-coltd"
+   ]
+  },
+  "akademia modele": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "92",
+     "nazvanie": "AKADEMIA MODELE DOO BANOŠTOR",
+     "naselje": "Banoštor",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "modele"
+   ],
+   "podhodyat": [
+    "modele"
+   ],
+   "vne_listinga": [
+    "modele"
+   ]
+  },
+  "artisani distillery": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4136",
+     "nazvanie": "Artisani distillery since 1957 DOO Kruševac-Veliki Kupci",
+     "naselje": "Veliki Kupci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "bacchus-distillery",
+    "strelitsky-distillery",
+    "somovets",
+    "chris-xsvcg",
+    "glendronach-distillery",
+    "galicia-distillery",
+    "baiwang-distillery",
+    "naveen"
+   ],
+   "podhodyat": [
+    "bacchus-distillery",
+    "strelitsky-distillery",
+    "glendronach-distillery",
+    "galicia-distillery",
+    "baiwang-distillery",
+    "joadja-distillery"
+   ],
+   "vne_listinga": [
+    "bacchus-distillery",
+    "strelitsky-distillery",
+    "glendronach-distillery",
+    "galicia-distillery",
+    "baiwang-distillery",
+    "joadja-distillery"
+   ]
+  },
+  "astra itb": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "24",
+     "nazvanie": "ASTRA ITB DOO Beograd",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "astra-vera",
+    "astra-bella"
+   ],
+   "podhodyat": [
+    "astra-vera",
+    "astra-bella"
+   ],
+   "vne_listinga": [
+    "astra-vera",
+    "astra-bella"
+   ]
+  },
+  "avi kraljevo": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6782",
+     "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU AVI KRALJEVO",
+     "naselje": "Kraljevo",
+     "okrug": "Raški"
+    }
+   ],
+   "nashlos": [
+    "celler-de-l-avi",
+    "fonte-de-avis",
+    "avis-de-tempete",
+    "rara-avis",
+    "l-avi-salvi",
+    "vinos",
+    "vinos-avis-franco",
+    "la-collina-degli-avi"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "barik novi": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "823",
+     "nazvanie": "„Barikˮ DOO Novi Slankamen",
+     "naselje": "Novi Slankamen",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "barik",
+    "novi",
+    "novi-vinodolski",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "chateau-de-novi",
+    "winnica-novi",
+    "domaine-novis"
+   ],
+   "podhodyat": [
+    "barik",
+    "novi",
+    "novi-vinodolski",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "chateau-de-novi",
+    "winnica-novi",
+    "domaine-novis",
+    "ca-novi",
+    "massif-novi-izvor"
+   ],
+   "vne_listinga": [
+    "barik",
+    "novi",
+    "novi-vinodolski",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "chateau-de-novi",
+    "winnica-novi",
+    "domaine-novis",
+    "ca-novi",
+    "massif-novi-izvor"
+   ]
+  },
+  "bojan jankovic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "208",
+     "nazvanie": "Bojan Janković PR, proizvodnja vinskog i stonog grožđa „Mons aureus vinogradiˮ Smederevo",
+     "naselje": "Smederevo",
+     "okrug": "Podunavski"
+    }
+   ],
+   "nashlos": [
+    "jankovic",
+    "klet-jankovic",
+    "bojan-basa",
+    "josef-jankovic"
+   ],
+   "podhodyat": [
+    "jankovic",
+    "klet-jankovic",
+    "bojan-basa",
+    "josef-jankovic"
+   ],
+   "vne_listinga": [
+    "jankovic",
+    "klet-jankovic",
+    "josef-jankovic"
+   ]
+  },
+  "bojan zivadinovic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5879",
+     "nazvanie": "BOJAN ŽIVADINOVIĆ PR, UGOSTITELJSKA RADNJA IZVOR POŽAREVAC",
+     "naselje": "Požarevac",
+     "okrug": "Braničevski"
+    }
+   ],
+   "nashlos": [
+    "bojan-basa"
+   ],
+   "podhodyat": [
+    "bojan-basa"
+   ],
+   "vne_listinga": []
+  },
+  "bookbridge import": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5385",
+     "nazvanie": "BOOKBRIDGE IMPORT & EXPORT DOO Beograd-Palilula",
+     "naselje": "Beograd - Palilula",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "griesedieck-imports",
+    "massanois-imports",
+    "landscape-import",
+    "m-imports",
+    "italhandel-import",
+    "import-ant",
+    "d-a-imports",
+    "celler-mumbru-vernet-1918"
+   ],
+   "podhodyat": [
+    "griesedieck-imports",
+    "massanois-imports",
+    "landscape-import",
+    "m-imports",
+    "italhandel-import",
+    "import-ant",
+    "d-a-imports"
+   ],
+   "vne_listinga": [
+    "griesedieck-imports",
+    "massanois-imports",
+    "landscape-import",
+    "m-imports",
+    "italhandel-import",
+    "import-ant",
+    "d-a-imports"
+   ]
+  },
+  "dan beograd": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7436",
+     "nazvanie": "DAN COMPANY DOO PREDUZEĆE ZA TRGOVINU, BEOGRAD (SAVSKI VENAC)",
+     "naselje": "Beograd - Savski Venac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "dan-ryan-s",
+    "crazy-dan",
+    "nz-dan-murphys",
+    "dans-l-aude",
+    "dan-hugoes",
+    "dan-struckman",
+    "tenuta-dan",
+    "dan-marioni"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "darko jaksic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4230",
+     "nazvanie": "DARKO JAKŠIĆ PR KONSALTING WINE RESEARCH BEOGRAD",
+     "naselje": "Beograd - Palilula",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "darko-wines-alentejo"
+   ],
+   "podhodyat": [
+    "darko-wines-alentejo"
+   ],
+   "vne_listinga": [
+    "darko-wines-alentejo"
+   ]
+  },
+  "doo Beograd": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7010",
+     "nazvanie": "MOJA VINARIJA doo Beograd",
+     "naselje": "Zemun",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "vino-matic",
+    "sanmuru-jirisan-doo-rae"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "dragan antic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5952",
+     "nazvanie": "DRAGAN ANTIĆ PR TRGOVINA PROIZVODNJA RAKIJE I PRERADA MESA ŠMEK 037 KRUŠEVAC",
+     "naselje": "Kruševac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "dragan",
+    "l-antic-magatzem",
+    "manuscris-antic",
+    "duracic",
+    "dragan-boraszata",
+    "dragan-lj-sekulic",
+    "antic-wine-co",
+    "virgen-del-galir"
+   ],
+   "podhodyat": [
+    "dragan",
+    "l-antic-magatzem",
+    "manuscris-antic",
+    "dragan-boraszata",
+    "dragan-lj-sekulic",
+    "antic-wine-co"
+   ],
+   "vne_listinga": [
+    "dragan",
+    "l-antic-magatzem",
+    "manuscris-antic",
+    "dragan-boraszata",
+    "dragan-lj-sekulic",
+    "antic-wine-co"
+   ]
+  },
+  "dusan milosavljevic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6629",
+     "nazvanie": "Dušan Milosavljević PR proizvodnja vina KM VINARIJA 022 Irig",
+     "naselje": "Irig",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "milosavljevic",
+    "dusan-zitny",
+    "durdovansky",
+    "dusan-belko",
+    "dusan-rubinic",
+    "vinarstvi-dusan-padalik",
+    "vinarstvi-sovis",
+    "car-dusan-tsar-dushan"
+   ],
+   "podhodyat": [
+    "milosavljevic",
+    "dusan-zitny",
+    "dusan-belko",
+    "dusan-rubinic",
+    "vinarstvi-dusan-padalik",
+    "car-dusan-tsar-dushan"
+   ],
+   "vne_listinga": [
+    "milosavljevic",
+    "dusan-zitny",
+    "dusan-belko",
+    "dusan-rubinic",
+    "vinarstvi-dusan-padalik",
+    "car-dusan-tsar-dushan"
+   ]
+  },
+  "enologic novi": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6567",
+     "nazvanie": "ENOLOGIC MD DOO NOVI SAD",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "novi",
+    "novi-vinodolski",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "chateau-de-novi",
+    "winnica-novi",
+    "domaine-novis",
+    "ca-novi"
+   ],
+   "podhodyat": [
+    "novi",
+    "novi-vinodolski",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "chateau-de-novi",
+    "winnica-novi",
+    "domaine-novis",
+    "ca-novi",
+    "massif-novi-izvor",
+    "mas-du-novi-domaine-saint-jean-du-noviciat"
+   ],
+   "vne_listinga": [
+    "novi",
+    "novi-vinodolski",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "chateau-de-novi",
+    "winnica-novi",
+    "domaine-novis",
+    "ca-novi",
+    "massif-novi-izvor",
+    "mas-du-novi-domaine-saint-jean-du-noviciat"
+   ]
+  },
+  "erne sagmeister": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6032",
+     "nazvanie": "ERNE SAGMEISTER PR KANJIŽA",
+     "naselje": "Kanjiža",
+     "okrug": "Severnobanatski"
+    }
+   ],
+   "nashlos": [
+    "sagmeister-kxpop",
+    "erne-costa-toscana",
+    "erne",
+    "weingut-sagmeister",
+    "dukay-sagmeister"
+   ],
+   "podhodyat": [
+    "sagmeister-kxpop",
+    "erne-costa-toscana",
+    "erne",
+    "weingut-sagmeister",
+    "dukay-sagmeister"
+   ],
+   "vne_listinga": [
+    "sagmeister-kxpop",
+    "erne-costa-toscana",
+    "erne",
+    "weingut-sagmeister"
+   ]
+  },
+  "ers fruit": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7262",
+     "nazvanie": "Društvo sa ograničenom odgovornošću ERS FRUIT TRADE Beograd",
+     "naselje": "Beograd - Stari Grad",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "les-fruits",
+    "curious-fruit",
+    "simply-fruit",
+    "stone-fruit",
+    "soupcon-de-fruit",
+    "fruit-flower",
+    "fr-le-fruit-de-perthus",
+    "fruit-52"
+   ],
+   "podhodyat": [
+    "les-fruits",
+    "curious-fruit",
+    "simply-fruit",
+    "stone-fruit",
+    "soupcon-de-fruit",
+    "fruit-flower",
+    "fr-le-fruit-de-perthus",
+    "fruit-52",
+    "fruit-vine",
+    "fruit-du-soleil"
+   ],
+   "vne_listinga": [
+    "les-fruits",
+    "curious-fruit",
+    "simply-fruit",
+    "stone-fruit",
+    "soupcon-de-fruit",
+    "fruit-flower",
+    "fr-le-fruit-de-perthus",
+    "fruit-52",
+    "fruit-vine",
+    "fruit-du-soleil"
+   ]
+  },
+  "fotografska foto": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5799",
+     "nazvanie": "FOTOGRAFSKA RADNJA FOTO STUDIO RAKONJAC SLOBODAN RAKONJAC PR, KRUŠEVAC",
+     "naselje": "Kruševac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "italia-foto-wine-co"
+   ],
+   "podhodyat": [
+    "italia-foto-wine-co"
+   ],
+   "vne_listinga": [
+    "italia-foto-wine-co"
+   ]
+  },
+  "gaman kladovo": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5864",
+     "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU ZA PROIZVODNJU I TRGOVINU GAMAN KLADOVO",
+     "naselje": "Kladovo",
+     "okrug": "Borski"
+    }
+   ],
+   "nashlos": [
+    "gran-gaman"
+   ],
+   "podhodyat": [
+    "gran-gaman"
+   ],
+   "vne_listinga": [
+    "gran-gaman"
+   ]
+  },
+  "glob trade": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6033",
+     "nazvanie": "PREDUZEĆE ZA PROIZVODNJU, TRGOVINU I USLUGE GLOB TRADE COMPANY DOO BEOGRAD (GRAD)",
+     "naselje": "Zvezdara - Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "montecatini-terme"
+   ],
+   "podhodyat": [
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "zhejiang-chun-foreign-trade-coltd"
+   ],
+   "vne_listinga": [
+    "trade-secret",
+    "albo-trade",
+    "the-trades",
+    "trade-winds",
+    "trade-di-ferrali-daniele",
+    "jiro-trade",
+    "barter-trade",
+    "zhejiang-chun-foreign-trade-coltd"
+   ]
+  },
+  "goran ajdukovic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7132",
+     "nazvanie": "Goran Ajduković PR AG-COMPANY",
+     "naselje": "Svilojevo",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [
+    "goran-loman",
+    "sven",
+    "vinarija-goran-filipovic"
+   ],
+   "podhodyat": [
+    "goran-loman",
+    "vinarija-goran-filipovic"
+   ],
+   "vne_listinga": [
+    "goran-loman",
+    "vinarija-goran-filipovic"
+   ]
+  },
+  "holding international": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5327",
+     "nazvanie": "„MC HOLDING INTERNATIONALˮ DOO BEOGRAD",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "holdings",
+    "international",
+    "vintner-holdings",
+    "the-holdings",
+    "brilliant-holding-ltd",
+    "macrolink-holding",
+    "globus-holding",
+    "international-press"
+   ],
+   "podhodyat": [
+    "holdings",
+    "international",
+    "vintner-holdings",
+    "the-holdings",
+    "brilliant-holding-ltd",
+    "macrolink-holding",
+    "globus-holding",
+    "international-press",
+    "holding-thumbs",
+    "selection-international"
+   ],
+   "vne_listinga": [
+    "holdings",
+    "international",
+    "vintner-holdings",
+    "the-holdings",
+    "brilliant-holding-ltd",
+    "macrolink-holding",
+    "globus-holding",
+    "international-press",
+    "holding-thumbs",
+    "selection-international"
+   ]
+  },
+  "house kosmaj": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6586",
+     "nazvanie": "WINE HOUSE KOSMAJ DOO",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "house-vin-de-pays-doc",
+    "house",
+    "western-house",
+    "opera-house",
+    "millford-house",
+    "presidential-house",
+    "dog-house",
+    "violettas-house"
+   ],
+   "podhodyat": [
+    "house-vin-de-pays-doc",
+    "house",
+    "western-house",
+    "opera-house",
+    "millford-house",
+    "presidential-house",
+    "dog-house",
+    "violettas-house",
+    "our-house",
+    "mikurian-house"
+   ],
+   "vne_listinga": [
+    "house-vin-de-pays-doc",
+    "house",
+    "western-house",
+    "opera-house",
+    "millford-house",
+    "presidential-house",
+    "dog-house",
+    "violettas-house",
+    "our-house",
+    "mikurian-house"
+   ]
+  },
+  "hup mihajlovac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5917",
+     "nazvanie": "HUP „MIHAJLOVACˮ DOO BEOGRAD",
+     "naselje": "Beograd - Čukarica",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "clevora"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "jelena burmudzija": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7331",
+     "nazvanie": "JELENA BURMUDŽIJA PR GAJENJE GROŽĐA I TRGOVINA VINOM PETROVARADIN",
+     "naselje": "Petrovaradin",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "jelena-savojska",
+    "opg-piskovic-jelena"
+   ],
+   "podhodyat": [
+    "jelena-savojska",
+    "opg-piskovic-jelena"
+   ],
+   "vne_listinga": [
+    "jelena-savojska",
+    "opg-piskovic-jelena"
+   ]
+  },
+  "jelena munizaba": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5326",
+     "nazvanie": "JELENA MUNIŽABA PR RADNJA ZA PROIZVODNJU GROŽĐA I VINA TURIZAM I UGOSTITELJSTVO RIĐICA",
+     "naselje": "Riđica",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [
+    "jelena-savojska",
+    "opg-piskovic-jelena"
+   ],
+   "podhodyat": [
+    "jelena-savojska",
+    "opg-piskovic-jelena"
+   ],
+   "vne_listinga": [
+    "jelena-savojska",
+    "opg-piskovic-jelena"
+   ]
+  },
+  "jelenac organic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5786",
+     "nazvanie": "Jelenac organic d.o.o. Jelenac",
+     "naselje": "Topola (Varošica)",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [
+    "organic",
+    "o-organics",
+    "organicsp",
+    "mon-organic",
+    "organic-one",
+    "edelrebe-organics",
+    "camellias-organics",
+    "ecovin-organics"
+   ],
+   "podhodyat": [
+    "organic",
+    "o-organics",
+    "organicsp",
+    "mon-organic",
+    "organic-one",
+    "edelrebe-organics",
+    "camellias-organics",
+    "ecovin-organics",
+    "broombee-organic",
+    "organic-roots"
+   ],
+   "vne_listinga": [
+    "organic",
+    "o-organics",
+    "organicsp",
+    "mon-organic",
+    "organic-one",
+    "edelrebe-organics",
+    "camellias-organics",
+    "ecovin-organics",
+    "broombee-organic",
+    "organic-roots"
+   ]
+  },
+  "judit poljakovic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4170",
+     "nazvanie": "JUDIT POLJAKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINSKI SALAŠ ČUVARDIĆ SUBOTIC",
+     "naselje": "Subotica",
+     "okrug": "Severnobački"
+    }
+   ],
+   "nashlos": [
+    "weinhaus-peter-und-judit-landmann"
+   ],
+   "podhodyat": [
+    "weinhaus-peter-und-judit-landmann"
+   ],
+   "vne_listinga": [
+    "weinhaus-peter-und-judit-landmann"
+   ]
+  },
+  "klementina beograd": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5983",
+     "nazvanie": "Klementina 2015 DOO Beograd-Vračar",
+     "naselje": "Beograd - Vračar",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "pto-klementina"
+   ],
+   "podhodyat": [
+    "pto-klementina"
+   ],
+   "vne_listinga": [
+    "pto-klementina"
+   ]
+  },
+  "miljko markovic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7265",
+     "nazvanie": "MILJKO MARKOVIĆ PR, AGENCIJA ZA UZGOJ I ISKORIŠĆAVANJE ŠUMA I ODGOVARAJUĆE USLUŽNE AKTIVNOSTI ROMB-M, BEOGRAD (RAKOVICA)",
+     "naselje": "Beograd - Rakovica",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "markovic-si-istra",
+    "markovics",
+    "markovic",
+    "markovic-wine-of-montenegro",
+    "rajko-markovic",
+    "tomislav-markovic"
+   ],
+   "podhodyat": [
+    "markovic-si-istra",
+    "markovics",
+    "markovic",
+    "markovic-wine-of-montenegro",
+    "rajko-markovic",
+    "tomislav-markovic"
+   ],
+   "vne_listinga": [
+    "markovic-si-istra",
+    "markovics",
+    "markovic",
+    "markovic-wine-of-montenegro",
+    "rajko-markovic",
+    "tomislav-markovic"
+   ]
+  },
+  "milos mladenovic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6997",
+     "nazvanie": "MILOŠ MLADENOVIĆ PREDUZETNIK TRGOVINSKA RADNJA TRGOVINA HEVI BOGOJEVCE",
+     "naselje": "Bogojevce",
+     "okrug": "Jablanički"
+    }
+   ],
+   "nashlos": [
+    "milo-castilla-and-leon",
+    "milo",
+    "milo-chiandussi",
+    "don-milo",
+    "milos-matus",
+    "milo-yoichi",
+    "crama-milo",
+    "frano-milos"
+   ],
+   "podhodyat": [
+    "milos-matus",
+    "frano-milos"
+   ],
+   "vne_listinga": [
+    "milos-matus",
+    "frano-milos"
+   ]
+  },
+  "milos sudimac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6394",
+     "nazvanie": "MILOŠ SUDIMAC PR TRGOVINSKA RADNJA ENOCENTAR VITKOVO",
+     "naselje": "Vitkovo",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "milo-castilla-and-leon",
+    "milo",
+    "milo-yoichi",
+    "crama-milo",
+    "frano-milos",
+    "milo-chiandussi",
+    "don-milo",
+    "milos-matus"
+   ],
+   "podhodyat": [
+    "frano-milos",
+    "milos-matus"
+   ],
+   "vne_listinga": [
+    "frano-milos",
+    "milos-matus"
+   ]
+  },
+  "miroslav valcic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "2332",
+     "nazvanie": "Miroslav Valčić PR, proizvodnja grožđa i vina „Valčićˮ, Gvozdenović",
+     "naselje": "Gvozdenović",
+     "okrug": "Kolubarski"
+    }
+   ],
+   "nashlos": [
+    "miroslav-dudo",
+    "miroslav-fric",
+    "miroslav-hlvka",
+    "miroslav-trcka",
+    "miroslav-jagos",
+    "miroslav-machalek",
+    "miroslav-habrina",
+    "perk-vino"
+   ],
+   "podhodyat": [
+    "miroslav-dudo",
+    "miroslav-fric",
+    "miroslav-hlvka",
+    "miroslav-trcka",
+    "miroslav-jagos",
+    "miroslav-machalek",
+    "miroslav-habrina"
+   ],
+   "vne_listinga": [
+    "miroslav-dudo",
+    "miroslav-fric",
+    "miroslav-hlvka",
+    "miroslav-trcka",
+    "miroslav-jagos",
+    "miroslav-machalek",
+    "miroslav-habrina"
+   ]
+  },
+  "nenad stankov": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5676",
+     "nazvanie": "Nenad Stankov preduzetnik proizvodnja vina TALISMAN Vršac",
+     "naselje": "Vršac",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [
+    "vuckovic-stankov"
+   ],
+   "podhodyat": [
+    "vuckovic-stankov"
+   ],
+   "vne_listinga": [
+    "vuckovic-stankov"
+   ]
+  },
+  "nikolina macura": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5757",
+     "nazvanie": "NIKOLINA MACURA PR PROIZVODNJA VINA MACURA PRODUKT STARI SLANKAMEN",
+     "naselje": "Inđija",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "nikolina"
+   ],
+   "podhodyat": [
+    "nikolina"
+   ],
+   "vne_listinga": [
+    "nikolina"
+   ]
+  },
+  "noster fructus": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6769",
+     "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU NOSTER FRUCTUS LEPOSAVIĆ",
+     "naselje": "Kutnje",
+     "okrug": "Kosovskomitrovački"
+    }
+   ],
+   "nashlos": [
+    "fructus-es",
+    "roselito"
+   ],
+   "podhodyat": [
+    "fructus-es"
+   ],
+   "vne_listinga": [
+    "fructus-es"
+   ]
+  },
+  "oko sokolovo": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5622",
+     "nazvanie": "Oko sokolovo Crkvenac Doo",
+     "naselje": "Svilajnac",
+     "okrug": "Pomoravski"
+    }
+   ],
+   "nashlos": [
+    "petite-roubie",
+    "oko-weinbau",
+    "oko-weingut-zang",
+    "ruesch",
+    "oko-weingut-hell"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "patrijarsijska dobra": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "144",
+     "nazvanie": "„Patrijaršijska dobraˮ DOO Beograd",
+     "naselje": "Beograd - Stari Grad",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "es-dobra",
+    "dobra-dealu-mare",
+    "dobra-nalada",
+    "dobra-berba",
+    "dobra",
+    "dobra-zemlja",
+    "dobra-spanelska-vina",
+    "m-enostavno-dobra"
+   ],
+   "podhodyat": [
+    "es-dobra",
+    "dobra-dealu-mare",
+    "dobra-nalada",
+    "dobra-berba",
+    "dobra",
+    "dobra-zemlja",
+    "dobra-spanelska-vina",
+    "m-enostavno-dobra"
+   ],
+   "vne_listinga": [
+    "es-dobra",
+    "dobra-dealu-mare",
+    "dobra-nalada",
+    "dobra-berba",
+    "dobra",
+    "dobra-zemlja",
+    "dobra-spanelska-vina",
+    "m-enostavno-dobra"
+   ]
+  },
+  "poljoprivredni fakultet": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "152",
+     "nazvanie": "Poljoprivredni fakultet u Beogradu, O.D. Radmilovac",
+     "naselje": "Zemun",
+     "okrug": "Beograd"
+    },
+    {
+     "reg_nomer": "192",
+     "nazvanie": "Poljoprivredni fakultet, Univerzitet u Novom Sadu",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "biotechicki-fakultet"
+   ],
+   "podhodyat": [
+    "biotechicki-fakultet"
+   ],
+   "vne_listinga": [
+    "biotechicki-fakultet"
+   ]
+  },
+  "power inter": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "142",
+     "nazvanie": "„Power inter montˮ DOO Beograd",
+     "naselje": "Zvezdara - Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "inter",
+    "power",
+    "powers-winery",
+    "raw-power",
+    "inter-cellar",
+    "power-gres",
+    "flower-power",
+    "romaina-power"
+   ],
+   "podhodyat": [
+    "inter",
+    "power",
+    "powers-winery",
+    "raw-power",
+    "inter-cellar",
+    "power-gres",
+    "flower-power",
+    "romaina-power",
+    "power-peerage",
+    "prisius-inter-pares"
+   ],
+   "vne_listinga": [
+    "inter",
+    "power",
+    "powers-winery",
+    "raw-power",
+    "inter-cellar",
+    "power-gres",
+    "flower-power",
+    "romaina-power",
+    "power-peerage",
+    "prisius-inter-pares"
+   ]
+  },
+  "pro irig": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6561",
+     "nazvanie": "VINO PRO VINO DOO IRIG",
+     "naselje": "Irig",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "de-pro",
+    "ponti-tokaj",
+    "pro-midi",
+    "mercy-pro",
+    "prodivini",
+    "venta-del-pro",
+    "pro-andrea",
+    "pro-amico"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "projekt centar": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "49",
+     "nazvanie": "„AE PROJEKT CENTARˮ DOO Sombor",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [
+    "das-mesa",
+    "nussbaum-projekt",
+    "the-larsen-projekt",
+    "kosmic-wine-projekt",
+    "projekt-wild-typ"
+   ],
+   "podhodyat": [
+    "nussbaum-projekt",
+    "the-larsen-projekt",
+    "kosmic-wine-projekt",
+    "projekt-wild-typ"
+   ],
+   "vne_listinga": [
+    "nussbaum-projekt",
+    "the-larsen-projekt",
+    "kosmic-wine-projekt",
+    "projekt-wild-typ"
+   ]
+  },
+  "skola domom": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "190",
+     "nazvanie": "Poljoprivredna škola sa domom učenika „Rajko Bosnićˮ Bukovo-Negotin",
+     "naselje": "Negotin",
+     "okrug": "Borski"
+    }
+   ],
+   "nashlos": [
+    "srednja-skola-ilok",
+    "vinarska-skola-valtice",
+    "stredna-odborna-skola-vinarsko-ovocinarska-modra"
+   ],
+   "podhodyat": [
+    "srednja-skola-ilok",
+    "vinarska-skola-valtice",
+    "stredna-odborna-skola-vinarsko-ovocinarska-modra"
+   ],
+   "vne_listinga": [
+    "srednja-skola-ilok",
+    "vinarska-skola-valtice",
+    "stredna-odborna-skola-vinarsko-ovocinarska-modra"
+   ]
+  },
+  "skrbic group": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6647",
+     "nazvanie": "ŠKRBIĆ GROUP DOO",
+     "naselje": "Beograd - Palilula",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "skrbic",
+    "chicha",
+    "airlog-group",
+    "bernardin-group",
+    "shl-group",
+    "fas-group",
+    "vantage-group",
+    "charcoal-group"
+   ],
+   "podhodyat": [
+    "skrbic",
+    "airlog-group",
+    "bernardin-group",
+    "shl-group",
+    "fas-group",
+    "vantage-group",
+    "charcoal-group",
+    "digital-group",
+    "atalyk-group"
+   ],
+   "vne_listinga": [
+    "skrbic",
+    "airlog-group",
+    "bernardin-group",
+    "shl-group",
+    "fas-group",
+    "vantage-group",
+    "charcoal-group",
+    "digital-group",
+    "atalyk-group"
+   ]
+  },
+  "snezana matic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5295",
+     "nazvanie": "Snežana Matić Perić PR proizvodnja vina od grožđa Paraf vinski atelje Beograd",
+     "naselje": "Beograd - Vračar",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "matic",
+    "petar-matic",
+    "matic-wines",
+    "vino-matic",
+    "vinska-kuca-matic"
+   ],
+   "podhodyat": [
+    "matic",
+    "petar-matic",
+    "matic-wines",
+    "vino-matic",
+    "vinska-kuca-matic"
+   ],
+   "vne_listinga": [
+    "matic",
+    "petar-matic",
+    "matic-wines",
+    "vino-matic",
+    "vinska-kuca-matic"
+   ]
+  },
+  "soko beska": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "177",
+     "nazvanie": "SOKO AGRAR DOO BEŠKA",
+     "naselje": "Beška",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "sokos"
+   ],
+   "podhodyat": [
+    "sokos"
+   ],
+   "vne_listinga": [
+    "sokos"
+   ]
+  },
+  "srednja skola": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "157",
+     "nazvanie": "Srednja škola „Sveti Trifunˮ sa domom učenika",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "srednja-skola-ilok",
+    "vinarska-skola-valtice",
+    "stredna-odborna-skola-vinarsko-ovocinarska-modra"
+   ],
+   "podhodyat": [
+    "srednja-skola-ilok",
+    "vinarska-skola-valtice",
+    "stredna-odborna-skola-vinarsko-ovocinarska-modra"
+   ],
+   "vne_listinga": [
+    "srednja-skola-ilok",
+    "vinarska-skola-valtice",
+    "stredna-odborna-skola-vinarsko-ovocinarska-modra"
+   ]
+  },
+  "strahinja knezevic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7124",
+     "nazvanie": "STRAHINJA KNEŽEVIĆ PR TRGOVINSKO ZANATSKA RADNJA I MENJAČNICA SAMANTA PLUS BAČKA PALANKA",
+     "naselje": "Bačka Palanka",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "monte-grande"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "tempo foods": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5575",
+     "nazvanie": "JR TEMPO FOODS DOO PLANINICA",
+     "naselje": "Trstenik",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "tempo-coonawarra",
+    "tempo",
+    "tempo-campo-de-borja",
+    "cormel-foods",
+    "jubilee-foods",
+    "adriatica-food",
+    "terre-del-tempo",
+    "vinhas-do-tempo"
+   ],
+   "podhodyat": [
+    "tempo-coonawarra",
+    "tempo",
+    "tempo-campo-de-borja",
+    "cormel-foods",
+    "jubilee-foods",
+    "terre-del-tempo",
+    "vinhas-do-tempo",
+    "bricco-del-tempo",
+    "tempo-largo"
+   ],
+   "vne_listinga": [
+    "tempo-coonawarra",
+    "tempo",
+    "tempo-campo-de-borja",
+    "cormel-foods",
+    "jubilee-foods",
+    "terre-del-tempo",
+    "vinhas-do-tempo",
+    "bricco-del-tempo",
+    "tempo-largo"
+   ]
+  },
+  "terra granum": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6909",
+     "nazvanie": "TERRA GRANUM DOO SREMSKI KARLOVCI",
+     "naselje": "Sremski Karlovci",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "es-terras",
+    "terra",
+    "es-la-terra",
+    "terra-central-valley",
+    "terra-s",
+    "de-terra-tennessee",
+    "terra-umbria",
+    "silenzi-di-terra"
+   ],
+   "podhodyat": [
+    "es-terras",
+    "terra",
+    "es-la-terra",
+    "terra-central-valley",
+    "terra-s",
+    "de-terra-tennessee",
+    "terra-umbria",
+    "silenzi-di-terra",
+    "prima-terra",
+    "terra-uarda"
+   ],
+   "vne_listinga": [
+    "es-terras",
+    "terra",
+    "es-la-terra",
+    "terra-central-valley",
+    "terra-s",
+    "de-terra-tennessee",
+    "terra-umbria",
+    "silenzi-di-terra",
+    "prima-terra",
+    "terra-uarda"
+   ]
+  },
+  "terra organica": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5888",
+     "nazvanie": "Terra organica društvo sa ograničenom odgovornošću Beograd-Stari Grad",
+     "naselje": "Beograd - Stari Grad",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "terra-organica",
+    "terra-organica-maule-valley",
+    "organica",
+    "prim-organica",
+    "organica-iberiano-estate",
+    "es-terras",
+    "terra",
+    "es-la-terra"
+   ],
+   "podhodyat": [
+    "terra-organica",
+    "terra-organica-maule-valley",
+    "organica",
+    "prim-organica",
+    "organica-iberiano-estate",
+    "es-terras",
+    "terra",
+    "es-la-terra",
+    "terra-central-valley",
+    "terra-s"
+   ],
+   "vne_listinga": [
+    "terra-organica",
+    "terra-organica-maule-valley",
+    "organica",
+    "prim-organica",
+    "organica-iberiano-estate",
+    "es-terras",
+    "terra",
+    "es-la-terra",
+    "terra-central-valley",
+    "terra-s"
+   ]
+  },
+  "vina Simić": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6644",
+     "nazvanie": "Vojislav Simić PR \"Podrum vina Simić\"",
+     "naselje": "Topola (Varošica)",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [
+    "vinarija-simic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina"
+   ],
+   "podhodyat": [
+    "vinarija-simic",
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "vina-trebla"
+   ],
+   "vne_listinga": [
+    "vinas-de-la-vina",
+    "las-vinas",
+    "vinas",
+    "la-vina-comunitat-valenciana",
+    "vinas-mendoza",
+    "la-vina-serra-gaucha",
+    "la-vina",
+    "vina-trebla"
+   ]
+  },
+  "vinera beograd": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4195",
+     "nazvanie": "VINERA PREDUZEĆE ZA PROIZVODNJU TRGOVINU I USLUGE DOO BEOGRAD (NOVI BEOGRAD)",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "crema-vinera",
+    "pra-vinera",
+    "la-crema-vinera",
+    "via-vinera-karabunar-estate"
+   ],
+   "podhodyat": [
+    "crema-vinera",
+    "pra-vinera",
+    "la-crema-vinera",
+    "via-vinera-karabunar-estate"
+   ],
+   "vne_listinga": [
+    "crema-vinera",
+    "pra-vinera",
+    "la-crema-vinera",
+    "via-vinera-karabunar-estate"
+   ]
+  },
+  "vinica manastira": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "3712",
+     "nazvanie": "„Vinica Manastira Visoki Dečaniˮ DOO, Velika Hoča",
+     "naselje": "Velika Hoča",
+     "okrug": "Prizrenski"
+    }
+   ],
+   "nashlos": [
+    "manastira",
+    "vinica",
+    "vina-de-vinica",
+    "es-vinica-chivana",
+    "vinitsa-grkovitsh-vinica-grkovic",
+    "vinica-brkic-family-winery-vinitsa-brkitsh"
+   ],
+   "podhodyat": [
+    "manastira",
+    "vinica",
+    "vina-de-vinica",
+    "es-vinica-chivana",
+    "vinitsa-grkovitsh-vinica-grkovic",
+    "vinica-brkic-family-winery-vinitsa-brkitsh"
+   ],
+   "vne_listinga": [
+    "manastira",
+    "vinica",
+    "vina-de-vinica",
+    "es-vinica-chivana",
+    "vinica-brkic-family-winery-vinitsa-brkitsh"
+   ]
+  },
+  "xtim novi": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4025",
+     "nazvanie": "XTIM DOO Novi Slankamen",
+     "naselje": "Novi Slankamen",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [
+    "novi",
+    "novi-vinodolski",
+    "chateau-de-novi",
+    "winnica-novi",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "domaine-novis",
+    "ca-novi"
+   ],
+   "podhodyat": [
+    "novi",
+    "novi-vinodolski",
+    "chateau-de-novi",
+    "winnica-novi",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "domaine-novis",
+    "ca-novi",
+    "massif-novi-izvor",
+    "mas-du-novi-domaine-saint-jean-du-noviciat"
+   ],
+   "vne_listinga": [
+    "novi",
+    "novi-vinodolski",
+    "chateau-de-novi",
+    "winnica-novi",
+    "troli-de-novi",
+    "domaine-le-novi",
+    "domaine-novis",
+    "ca-novi",
+    "massif-novi-izvor",
+    "mas-du-novi-domaine-saint-jean-du-noviciat"
+   ]
+  },
+  "zemljoradnicka zadruga": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4184",
+     "nazvanie": "ZEMLJORADNIČKA ZADRUGA KRAJINSKA VINARSKA ZADRUGA ROGLJEVO",
+     "naselje": "Rogljevo",
+     "okrug": "Borski"
+    }
+   ],
+   "nashlos": [
+    "plesivica-poljoprivredna-zadruga",
+    "pz-svirce",
+    "pzmaslina-i-vino",
+    "dingac-vinarija"
+   ],
+   "podhodyat": [
+    "plesivica-poljoprivredna-zadruga"
+   ],
+   "vne_listinga": [
+    "plesivica-poljoprivredna-zadruga"
+   ]
+  },
+  "Đolić Aleksandrovac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7206",
+     "nazvanie": "Vladica Đolić PR proizvodnja vina od grožđa Vinarija Đolić Aleksandrovac",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "zupa"
+   ],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "ŠKRBIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4196",
+     "nazvanie": "Vukašin Škrbić PR, radnja za proizvodnju i prodaju vina i rakije \"VINARIJA ŠKRBIĆ\", Beograd-Palilula",
+     "naselje": "Beograd - Palilula",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [
+    "skrbic",
+    "chicha"
+   ],
+   "podhodyat": [
+    "skrbic"
+   ],
+   "vne_listinga": [
+    "skrbic"
+   ]
+  },
+  "ŽUPANČIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5660",
+     "nazvanie": "Vlatko Župančić PR proizvodnja vina \"VINARIJA ŽUPANČIĆ\" Petrovaradin",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [
+    "zupancic-wine-of-croatia",
+    "zupancic",
+    "zupancic-wines",
+    "vinarija-zupancic"
+   ],
+   "podhodyat": [
+    "zupancic-wine-of-croatia",
+    "zupancic",
+    "zupancic-wines",
+    "vinarija-zupancic"
+   ],
+   "vne_listinga": [
+    "zupancic-wine-of-croatia",
+    "zupancic",
+    "zupancic-wines",
+    "vinarija-zupancic"
+   ]
+  },
+  "ŽUPSKI": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4114",
+     "nazvanie": "\"ŽUPSKI PODRUM\" DOO, Aleksandrovac",
+     "naselje": "Ržanica",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [
+    "zupski-podrum"
+   ],
+   "podhodyat": [
+    "zupski-podrum"
+   ],
+   "vne_listinga": [
+    "zupski-podrum"
+   ]
+  },
+  "ADAMOVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5226",
+     "nazvanie": "Rade Adamović preduzetnik, Proizvodnja vina od grožđa \"VINARIJA ADAMOVIĆ\", Banoštor",
+     "naselje": "Banoštor",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "BOKI PROMET": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4090",
+     "nazvanie": "DOO \"BOKI PROMET\" ,Aleksandrovac",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "BUDUĆNOST": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4073",
+     "nazvanie": "Slađan Crnoglavac PR, radnja za proizvodnju i promet vina i rakije \"VINARIJA BUDUĆNOST\", Strojinci",
+     "naselje": "Strojinci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "BULLET": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5257",
+     "nazvanie": "\"BULLET\", DOO, Beograd",
+     "naselje": "Beograd - Voždovac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Božur Božurevac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7317",
+     "nazvanie": "Nikola Jezdimirović pr proizvodnja vina od grožđa Vinarija Božur Božurevac",
+     "naselje": "Božurevac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "DAVČIK Tavankut": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4234",
+     "nazvanie": "Sara Davčik pr Proizvodnja vina od grožđa VINARIJA DAVČIK Tavankut",
+     "naselje": "Gornji Tavankut",
+     "okrug": "Severnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "DIMITRIJEVIĆ LAZAREVAC": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4175",
+     "nazvanie": "DUŠAN DIMITRIJEVIĆ PR PROIZVODNJA VINA VINARIJA DIMITRIJEVIĆ LAZAREVAC",
+     "naselje": "Lazarevac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "DRUŠTVO S": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6550",
+     "nazvanie": "PRIVREDNO DRUŠTVO CENTAR ZA VINOGRADARSTVO I VINARSTVO DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU NIŠ",
+     "naselje": "Niš",
+     "okrug": "Nišavski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "DUDAN": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5629",
+     "nazvanie": "Zvinimir Dudan PR proizvodnja vina od grožđa \"VINARIJA DUDAN\" Novi Sad",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Dozet": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4210",
+     "nazvanie": "Darko Dozet PR, proizvodnja vina od grožđa \"Vinarija Dozet\" Sombor",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "EUROTEST": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5282",
+     "nazvanie": "Trgovinsko društvo \"EUROTEST\" DOO Novi Pazar",
+     "naselje": "Novi Pazar",
+     "okrug": "Raški"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "GAVRIĆ BRESTOVIK": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6030",
+     "nazvanie": "RANKO GAVRIĆ PR VINARIJA GAVRIĆ BRESTOVIK",
+     "naselje": "Ratari",
+     "okrug": "Podunavski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "GITARIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6970",
+     "nazvanie": "Ivan Gitarić PR Proizvodnja vina \"VINARIJA GITARIĆ\" Smederevo (Dobri Do)",
+     "naselje": "Dobri Do",
+     "okrug": "Podunavski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "GRADINA": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4176",
+     "nazvanie": "Udruženje vinogradara i vinara \"GRADINA\"",
+     "naselje": "Mrčić",
+     "okrug": "Kolubarski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "JEZDIMIROVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5826",
+     "nazvanie": "Privredno društvo za proizvodnju i promet \"VINARIJA JEZDIMIROVIĆ\" DOO Riljac",
+     "naselje": "Riljac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "JOVONIĆ OSANICA": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6440",
+     "nazvanie": "SVILEN JOVONIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM JOVONIĆ OSANICA",
+     "naselje": "Žagubica",
+     "okrug": "Braničevski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "KOPLJARI": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4221",
+     "nazvanie": "\"VINARIJA KOPLJARI\" DOO Kopljare",
+     "naselje": "Kopljare",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "KRSMANOVIĆ DMNS": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4099",
+     "nazvanie": "Dragan Krsmanović PR, \"VINARIJA KRSMANOVIĆ DMNS\", Šid",
+     "naselje": "Šid",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Kratina": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4229",
+     "nazvanie": "Danka Cajić PR radnja za proizvodnju vina Podrum Kratina 2008 Sićevo",
+     "naselje": "Sićevo",
+     "okrug": "Nišavski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "LAŠIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6668",
+     "nazvanie": "\"VINARIJA LAŠIĆ\" DOO Ljubinci",
+     "naselje": "Ljubinci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MILPEKS": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4177",
+     "nazvanie": "\"MILPEKS\" DOO Žabari",
+     "naselje": "Žabari",
+     "okrug": "Braničevski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MIRACULIX Beograd": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5819",
+     "nazvanie": "NIKOLA MRVALJEVIĆ pr proizvodnja vina vinarija MIRACULIX Beograd",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MIRKOVIĆ PANČEVO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6785",
+     "nazvanie": "KOSTA MIRKOVIĆ PR PROIZVODNJA VINA VINARIJA MIRKOVIĆ PANČEVO",
+     "naselje": "Pančevo",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MOBILSISTEMI": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5579",
+     "nazvanie": "„MOBILSISTEMI\" DOO Novi Sad",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "MOZAIKMILAN": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4059",
+     "nazvanie": "Milan Vidojević PR, proizvodnja vina i izrada mozaika \"MOZAIKMILAN\", Gornja Zleginja",
+     "naselje": "Gornja Zleginja",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Odrovački Rivica": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4098",
+     "nazvanie": "Sava Odrovački PR Vinarija Odrovački Rivica",
+     "naselje": "Rivica",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "PEBEKOM": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5239",
+     "nazvanie": "\"PEBEKOM\" d.o.o., Beograd",
+     "naselje": "Beograd - Vračar",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "PETELJKA": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6405",
+     "nazvanie": "\"PETELJKA\" DOO BEOGRAD-ZVEZDARA",
+     "naselje": "Zvezdara - Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "PUHAČA ČURU": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6017",
+     "nazvanie": "NEDELJKO PUHAČA PR PROIZVODNJA VINA OD GROŽĐA VINARIJA PUHAČA ČURU",
+     "naselje": "Čurug",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Paun": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6554",
+     "nazvanie": "Živojin Paunović PR proizvodnja i promet vina \"Vinarija Paun\" Beograd",
+     "naselje": "Beograd - Vračar",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Pavkov": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5620",
+     "nazvanie": "Mladen Pavkov PR proizvodnja vina od grožđa \"Vinska kuća Pavkov\" Sombor",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Predojević": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6623",
+     "nazvanie": "Goran Predojević PR Proizvodnja vina\"Vinarija Predojević\" Topola (Varošica)",
+     "naselje": "Topola (Varošica)",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "RUTIĆ PARČIN": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6678",
+     "nazvanie": "ZORICA RUTIĆ PR PROIZVODNJA VINA VINARIJA RUTIĆ PARČIN",
+     "naselje": "Parčin",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Ravna": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5618",
+     "nazvanie": "Milan Urošević PR proizvodnja vina od grožđa Vinarski podrum Ravna",
+     "naselje": "Ravna",
+     "okrug": "Zaječarski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "SECOTEK": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6578",
+     "nazvanie": "\"SECOTEK\" DOO Beograd-Savski Venac",
+     "naselje": "Beograd - Savski Venac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "SKENDEROVIĆ Ljutovo": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7118",
+     "nazvanie": "Katarina Skenderović pr Proizvodnja vina PODRUM SKENDEROVIĆ Ljutovo",
+     "naselje": "Ljutovo",
+     "okrug": "Severnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "SOMOGY": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4127",
+     "nazvanie": "Šandor Šomođi PR, Proizvodnja vina \"PODRUM SOMOGY\", Zrenjanin",
+     "naselje": "Zrenjanin",
+     "okrug": "Srednjebanatski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "SOVILJ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "957",
+     "nazvanie": "\"VINARIJA SOVILJ\" DOO IRIG",
+     "naselje": "Irig",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "TOPIĆ PANČEVO": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7263",
+     "nazvanie": "SVETOZAR TOPIĆ PREDUZETNIK INŽENjERING PROJEKTOVANjE SAVETOVANjE U OBLASTI ELEKTROTEHNIKE I VINARIJA TOPIĆ PANČEVO",
+     "naselje": "Pančevo",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "TRIVIĆ NARANČIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6380",
+     "nazvanie": "Tatjana Trivić PR, Proizvodnja vina Vinarija TRIVIĆ NARANČIĆ Novi Sad",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Tadić": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4074",
+     "nazvanie": "Goran Tadić, PR Proizvodnja i prodaja vina \"Vinarija Tadić\" Neradin",
+     "naselje": "Neradin",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Tomaševićˮ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "3987",
+     "nazvanie": "Jasmina Tomašević PR „Vinarija Tomaševićˮ",
+     "naselje": "Ripanj",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Uča Vranovo": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7117",
+     "nazvanie": "Boban Novaković PR proizvodnja vina Vinarija Uča Vranovo",
+     "naselje": "Vranovo",
+     "okrug": "Podunavski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "VALDOV VRDNIK": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7167",
+     "nazvanie": "MIROSLAV SIDOR PREDUZETNIK VINARIJA VALDOV VRDNIK",
+     "naselje": "Vrdnik",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "VASILJEVIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6566",
+     "nazvanie": "Kosta Vasiljević preduzetnik Proizvodnja vina \"VINARIJA VASILJEVIĆ\" Boleč",
+     "naselje": "Boleč",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "VIR SISTEM": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6441",
+     "nazvanie": "Društvo za proizvodnju, trgovinu i usluge \"VIR SISTEM\" DOO Mali Požarevac",
+     "naselje": "Mali Požarevac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "VLAŠKI SOMBOR": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7357",
+     "nazvanie": "GOJKO VLAŠKI PR VINARIJA VLAŠKI SOMBOR",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "VRT": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4129",
+     "nazvanie": "GABRIJELA TRIPKOVIĆ PR PROIZVODNJA VINA I UGOSTITELJSKA RADNJA VINARIJA VRT 2011 SOMBOR",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "VUČJI": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4130",
+     "nazvanie": "VUK VUJKO PR PROIZVODNJA VINA OD GROŽĐA \"VUČJI PODRUM\" SOMBOR",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Verandaˮ Rumenka": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "2066",
+     "nazvanie": "Bojan Mandić PR, Proizvodnja vina od grožđa„Vinarija Verandaˮ Rumenka",
+     "naselje": "Rumenka",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Vidik": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6552",
+     "nazvanie": "Vladan Đurić PR proizvodnja vina od grožđa \"Vinarija Vidik\" Valjevo",
+     "naselje": "Valjevo",
+     "okrug": "Kolubarski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Vitez Viteževo": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6478",
+     "nazvanie": "Volica Puzović PR proizvodnja vina od grožđa Vinarija Vitez Viteževo",
+     "naselje": "Viteževo",
+     "okrug": "Braničevski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "acim pinosava": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5743",
+     "nazvanie": "DRUŠTVO AĆIM DOO, PINOSAVA",
+     "naselje": "Beograd - Voždovac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "borjana pirot": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6788",
+     "nazvanie": "BORJANA DOO, PIROT",
+     "naselje": "Pirot",
+     "okrug": "Pirotski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "durovic lazarevac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6335",
+     "nazvanie": "FAMILY ĐUROVIĆ DOO LAZAREVAC",
+     "naselje": "Lazarevac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "enocentrik jagodina": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "963",
+     "nazvanie": "ENOCENTRIK DOO Jagodina",
+     "naselje": "Jagodina",
+     "okrug": "Pomoravski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "eurosalon fabrika": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7126",
+     "nazvanie": "EUROSALON FABRIKA DOO BEOGRAD (PALILULA) OGRANAK EUROSALON WINERY",
+     "naselje": "Krušedol Selo",
+     "okrug": "Sremski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "hrusija leskovac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6458",
+     "nazvanie": ",,Hrusija\" DOO Leskovac",
+     "naselje": "Leskovac",
+     "okrug": "Jablanički"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "ipex gradnja": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6411",
+     "nazvanie": "IPEX GRАDNJA ДОО Смедеревска Паланка",
+     "naselje": "Smederevska Palanka",
+     "okrug": "Podunavski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "jelisaveta": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6724",
+     "nazvanie": "JELISAVETA DOO",
+     "naselje": "Pančevo",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "kosmaj komerc": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "3713",
+     "nazvanie": "KOSMAJ-KOMERC DOO Mladenovac",
+     "naselje": "Mladenovac (varoš)",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "majstorska radionica": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5776",
+     "nazvanie": "Majstorska radionica 2018 DOO Beograd-Savski Venac",
+     "naselje": "Beograd - Savski Venac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "minestra obrenovac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5802",
+     "nazvanie": "Društvo za proizvodnju promet i usluge MINESTRA 2019 DOO OBRENOVAC",
+     "naselje": "Grabovac",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "miodrag scojic": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6008",
+     "nazvanie": "MIODRAG ŠĆOJIĆ PR PROIZVODNJA VINA ŠĆOJIĆ-N&M KLADOVO",
+     "naselje": "Kladovo",
+     "okrug": "Borski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "mvv capulus": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6993",
+     "nazvanie": "MVV CAPULUS DOO Kruševac",
+     "naselje": "Kruševac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "pruzanje turistickih": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4169",
+     "nazvanie": "PREDUZEĆE ZA PRUŽANJE TURISTIČKIH I UGOSTITELJSKIH USLUGA MAJKIN SALAŠ DOO HAJDUKOVO",
+     "naselje": "Hajdukovo",
+     "okrug": "Severnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "rafirman beograd": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5808",
+     "nazvanie": "RAFIRMAN DOO Beograd-Stari Grad",
+     "naselje": "Beograd - Stari Grad",
+     "okrug": "Beograd"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "rakovac": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4160",
+     "nazvanie": "WINE&CO DOO RAKOVAC",
+     "naselje": "Rakovac",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "severni horgos": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7152",
+     "nazvanie": "SEVERNI VINOGRADI DOO HORGOŠ",
+     "naselje": "Horgoš",
+     "okrug": "Severnobanatski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "tandex subotica": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "51",
+     "nazvanie": "TANDEX DOO Subotica",
+     "naselje": "Subotica",
+     "okrug": "Severnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "taske beograd": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7356",
+     "nazvanie": "TAŠKE DOO BEOGRAD OGRANAK ERAK WINE",
+     "naselje": "Braničevo",
+     "okrug": "Braničevski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "tehnomasina vlasotince": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5286",
+     "nazvanie": "TEHNOMAŠINA A.I.G. DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU, VLASOTINCE",
+     "naselje": "Vlasotince",
+     "okrug": "Jablanički"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "tody blace": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "382",
+     "nazvanie": "„TODYˮ DOO Blace",
+     "naselje": "Donja Jošanica",
+     "okrug": "Toplički"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "topola ovsiste": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "5837",
+     "nazvanie": "Vinarija 27 DOO Topola, Ovsište",
+     "naselje": "Ovsište",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "trgovinsko kvins": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4208",
+     "nazvanie": "Trgovinsko privredno društvo KVINS VAN d.o.o. Pečenjevce",
+     "naselje": "Pečenjevce",
+     "okrug": "Jablanički"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "vocar kopaonik": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4108",
+     "nazvanie": "DOO VOĆAR KOPAONIK BRUS",
+     "naselje": "Brus",
+     "okrug": "Rasinski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "vund stepanovicevo": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4231",
+     "nazvanie": "VUND DOO ZA PROIZVODNJU TRGOVINU I USLUGE STEPANOVIĆEVO",
+     "naselje": "Stepanovićevo",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "ČURUG": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "7433",
+     "nazvanie": "DRAGANA MILIĆEV PREDUZETNIK PROIZVODNJA VINA OD GROŽĐA STARI PODRUM ČURUG",
+     "naselje": "Čurug",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "ĐURIĆ": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "4087",
+     "nazvanie": "Miloš Đurić PR, Proizvodnja vina i rakije \"VINARIJA ĐURIĆ\", Pančevo",
+     "naselje": "Pančevo",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "Štit": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6610",
+     "nazvanie": "Zoran Bubanja PR Proizvodnja vina \"Vinarija Štit\" Topola (selo)",
+     "naselje": "Topola (selo)",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  },
+  "ŽDRNJA TEMERIN": {
+   "zapisi_registra": [
+    {
+     "reg_nomer": "6992",
+     "nazvanie": "BILJANA ŽDRNJA PR PROIZVODNJA VINA VINARIJA ŽDRNJA TEMERIN",
+     "naselje": "Temerin",
+     "okrug": "Južnobački"
+    }
+   ],
+   "nashlos": [],
+   "podhodyat": [],
+   "vne_listinga": []
+  }
+ }
+}

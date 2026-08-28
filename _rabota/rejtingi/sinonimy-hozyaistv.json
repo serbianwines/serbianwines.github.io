@@ -22,6 +22,12 @@
    ],
    "dokazatelstvo": "Та же ошибка у Decanter, DWWA 2026: производитель «Chardonnay», вино «Omnibus Lector Chardonnay». Линейка Omnibus Lector — Erdevik, она проходит через конкурс с 2015 года."
   },
+  "Fruškogorski": {
+   "varianty": [
+    "Tri SuncA"
+   ],
+   "dokazatelstvo": "То же: Gilbert & Gaillard записал в хозяйство марку. «Три сунца» — линейка Фрушкогорског: у него «Tri Sunca Grašac» и «Tri Sunca Traminac Kasna Berba». Отдельного производителя с таким именем нет ни в Винарском регистру, ни у Vivino."
+  },
   "Manastir Bukovo": {
    "varianty": [
     "Manastira Bukovo"
@@ -49,9 +55,10 @@
   },
   "Podrum Pevac": {
    "varianty": [
-    "Подрум Певац"
+    "Подрум Певац",
+    "Destilerija Pevac"
    ],
-   "dokazatelstvo": "Одно хозяйство в двух алфавитах. У Decanter «Podrum Pevac» — Gušt, Gušt Barrique Chardonnay, Prokupac, Tišina Malvazija, Zagrljaj; у Vivino «Подрум Певац» — Гушт Шардоне, Гушт Шардоне Барик, Прокупац, Тишина Малвазийа, Загрљај. Линейка совпадает вином в вино. Слаг Vivino podrum-pevats, сайт podrumpevac.rs."
+   "dokazatelstvo": "Одно хозяйство в двух алфавитах. У Decanter «Podrum Pevac» — Gušt, Gušt Barrique Chardonnay, Prokupac, Tišina Malvazija, Zagrljaj; у Vivino «Подрум Певац» — Гушт Шардоне, Гушт Шардоне Барик, Прокупац, Тишина Малвазийа, Загрљај. Линейка совпадает вином в вино. Слаг Vivino podrum-pevats, сайт podrumpevac.rs. Concours Mondial зовёт то же хозяйство «Destilerija Pevac» и награждает у него «Zagrljaj» 2019 (золото 2023) и «Gušt Šardone Barik» 2021 (серебро) — оба вина стоят в его линейке."
   },
   "Probus Vineyards": {
    "varianty": [
@@ -64,6 +71,13 @@
     "Čokot"
    ],
    "dokazatelstvo": "Регистр, запись № 4202: «Radovan Đorđević PR, proizvodnja vina „PODRUM ČOKOT“, Starci». Книга называет хозяйство Radovan и сама помечает: «бывш. Čokot». Вина «Radovan Prokupac», «Prokupac Radovan 100%» — под именем Čokot."
+  },
+  "Rubin": {
+   "varianty": [
+    "Rubin Ad Krusevac",
+    "Amante"
+   ],
+   "dokazatelstvo": "Юридическая форма и город в имени: регистр даёт «RUBIN AD, Kruševac». Так его пишут IWC («RUBIN AD KRUSEVAC», медали 2013–2015) и Concours Mondial («Rubin AD Krusevac», Гран-золото 2013 за Terra Lazarica). Другого Рубина в сербском виноделии нет. Gilbert & Gaillard ставит в поле хозяйства марку: под именем «Amante» у него «Carmen» 2019 (88) и «Aurora» 2019 (90) — оба вина стоят в линейке Рубина, «Amante Carmen» и «Amante Aurora»."
   },
   "Veritas Ćuković": {
    "varianty": [

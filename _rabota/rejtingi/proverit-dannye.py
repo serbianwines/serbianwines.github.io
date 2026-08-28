@@ -34,6 +34,7 @@ SHKALY = {
     "vino.rs": (100, 50, 100),
     "tastings": (100, 50, 100),
     "decanter": (100, 50, 100),
+    "gilbert-gaillard": (100, 50, 100),
 }
 
 

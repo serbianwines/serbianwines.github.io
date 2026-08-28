@@ -189,7 +189,7 @@ janko-zapis-testament,Podrum Janko,Zapis Testament,decanter,2019,бронза,br
 matalj-kremen-cabernet-sauvignon,Matalj,Kremen Cabernet Sauvignon,decanter,2019,бронза,bronza,2016,"awards.decanter.com, DWWA 2019, вино 599683",2026-08-28
 virtus-prokupac,Virtus,Prokupac,decanter,2019,серебро,srebro,2016,"awards.decanter.com, DWWA 2019, вино 571881",2026-08-28
 nikad-nije-kasno-signature,Nikad Nije Kasno,Signature,decanter,2019,бронза,bronza,2016,"awards.decanter.com, DWWA 2019, вино 598540",2026-08-28
-rubin-amante-carmen,Rubin,Amante Carmen,decanter,2019,бронза,bronza,2016,"awards.decanter.com, DWWA 2019, вино 599076",2026-08-28
+rubin-amante-carmen,Rubin,Carmen,decanter,2019,бронза,bronza,2016,"awards.decanter.com, DWWA 2019, вино 599076",2026-08-28
 virtus-marselan,Virtus,Marselan,decanter,2019,серебро,srebro,2016,"awards.decanter.com, DWWA 2019, вино 571879",2026-08-28
 temet-tri-morave-reserva,Temet,Tri Morave Reserva,decanter,2019,золото,zlato,2016,"awards.decanter.com, DWWA 2019, вино 572378",2026-08-28
 temet-ergo,Temet,Ergo,decanter,2019,серебро,srebro,2016,"awards.decanter.com, DWWA 2019, вино 571866",2026-08-28
@@ -313,7 +313,7 @@ bikicki-cu,Bikicki,Cu,decanter,2021,бронза,bronza,2018,"awards.decanter.co
 bikicki-uncensored,Bikicki,Uncensored,decanter,2021,золото,zlato,2018,"awards.decanter.com, DWWA 2021, вино 700527",2026-08-28
 doja-merlot-cabernet-sauvignon,Doja,Merlot-Cabernet Sauvignon,decanter,2021,бронза,bronza,2018,"awards.decanter.com, DWWA 2021, вино 696654",2026-08-28
 matalj-bukovski-cuvee,Matalj,Bukovski Cuvée,decanter,2021,бронза,bronza,2018,"awards.decanter.com, DWWA 2021, вино 694555",2026-08-28
-rubin-amante-matea,Rubin,Amante Matea,decanter,2021,бронза,bronza,2018,"awards.decanter.com, DWWA 2021, вино 697284",2026-08-28
+rubin-amante-matea,Rubin,Matea,decanter,2021,бронза,bronza,2018,"awards.decanter.com, DWWA 2021, вино 697284",2026-08-28
 zmajevac-prokupac,Zmajevac,Prokupac,decanter,2021,серебро,srebro,2018,"awards.decanter.com, DWWA 2021, вино 693415",2026-08-28
 rubinov-prokupac,Rubinov,Prokupac,decanter,2021,бронза,bronza,2018,"awards.decanter.com, DWWA 2021, вино 697216",2026-08-28
 bt-kings-crown,BT Winery,King's Crown,decanter,2021,бронза,bronza,2018,"awards.decanter.com, DWWA 2021, вино 687706",2026-08-28
@@ -609,7 +609,7 @@ despotika-morava,Despotika,Morava,decanter,2024,бронза,bronza,2022,"awards
 atelje-sapat-su-su-blaufrankisch,Šapat,šU-šU Blaufrankisch,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 756998",2026-08-28
 dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 750283",2026-08-28
 draskovic-frankovka-rezerva,Drašković,Frankovka Rezerva,decanter,2024,серебро,srebro,2018,"awards.decanter.com, DWWA 2024, вино 751528",2026-08-28
-rubin-amante-matea-merlot,Rubin,Amante Matea Merlot,decanter,2024,бронза,bronza,2018,"awards.decanter.com, DWWA 2024, вино 749707",2026-08-28
+rubin-amante-matea-merlot,Rubin,Matea Merlot,decanter,2024,бронза,bronza,2018,"awards.decanter.com, DWWA 2024, вино 749707",2026-08-28
 temet-ergo,Temet,Ergo,decanter,2024,серебро,srebro,2018,"awards.decanter.com, DWWA 2024, вино 750354",2026-08-28
 grabak-modrovrana-cabernet-sauvignon,Grabak,Modrovrana Cabernet Sauvignon,decanter,2024,бронза,bronza,2018,"awards.decanter.com, DWWA 2024, вино 747465",2026-08-28
 temet-beli-kamen-merlot,Temet,Beli Kamen Merlot,decanter,2024,бронза,bronza,2017,"awards.decanter.com, DWWA 2024, вино 750352",2026-08-28
@@ -908,3 +908,72 @@ imperator-valerius,Vinarija Imperator,Valerius,vino.rs,2020,"лучшее бел
 ,Temet,,vino.rs,2020,винодельня года,1,,"vino.rs, годовой тест 2020",2026-08-28
 ,Chichateau,,vino.rs,2020,лучшая малая винодельня,1,,"vino.rs, годовой тест 2020",2026-08-28
 ,Deurić,,vino.rs,2020,лучшая молодая винодельня,1,,"vino.rs, годовой тест 2020",2026-08-28
+aleksandrovic-trijumf-barrique,Aleksandrović,Trijumf Barrique,iwc,2009,бронза,bronza,2006,"internationalwinechallenge.com, IWC 2009, вино 10217",2026-08-28
+aleksandrovic-regent,Aleksandrović,Regent,iwc,2010,отмечено,commended,2007,"internationalwinechallenge.com, IWC 2010, вино 27219",2026-08-28
+aleksandrovic-harizma,Aleksandrović,Harizma,iwc,2010,отмечено,commended,2008,"internationalwinechallenge.com, IWC 2010, вино 27221",2026-08-28
+aleksandrovic-oplen,Aleksandrović,Oplen,iwc,2012,серебро,srebro,2010,"internationalwinechallenge.com, IWC 2012, вино 43470",2026-08-28
+aleksandrovic-harizma,Aleksandrović,Harizma,iwc,2012,серебро,srebro,2009,"internationalwinechallenge.com, IWC 2012, вино 43471",2026-08-28
+budimir-triada,Budimir,Triada,iwc,2012,бронза,bronza,2009,"internationalwinechallenge.com, IWC 2012, вино 47817",2026-08-28
+aleksandrovic-trijumf-rose,Aleksandrović,Trijumf Rose,iwc,2012,отмечено,commended,2010,"internationalwinechallenge.com, IWC 2012, вино 43474",2026-08-28
+budimir-tamjanika-zupska,Budimir,Tamjanika Zupska,iwc,2012,отмечено,commended,2009,"internationalwinechallenge.com, IWC 2012, вино 47816",2026-08-28
+aleksandrovic-trijumf,Aleksandrović,Trijumf,iwc,2013,серебро,srebro,2010,"internationalwinechallenge.com, IWC 2013, вино 53953",2026-08-28
+aleksandrovic-trijumf-barrique,Aleksandrović,Trijumf Barrique,iwc,2013,серебро,srebro,2009,"internationalwinechallenge.com, IWC 2013, вино 53959",2026-08-28
+aleksandrovic-trijumf,Aleksandrović,Trijumf,iwc,2013,отмечено,commended,2011,"internationalwinechallenge.com, IWC 2013, вино 53955",2026-08-28
+aleksandrovic-harizma,Aleksandrović,Harizma,iwc,2013,отмечено,commended,2011,"internationalwinechallenge.com, IWC 2013, вино 53957",2026-08-28
+aleksandrovic-trijumf-noir,Aleksandrović,Trijumf Noir,iwc,2013,отмечено,commended,2009,"internationalwinechallenge.com, IWC 2013, вино 53963",2026-08-28
+aleksandrovic-regent,Aleksandrović,Regent,iwc,2013,отмечено,commended,2008,"internationalwinechallenge.com, IWC 2013, вино 53964",2026-08-28
+aleksandrovic-rodoslov,Aleksandrović,Rodoslov,iwc,2013,отмечено,commended,2006,"internationalwinechallenge.com, IWC 2013, вино 53965",2026-08-28
+aleksandrovic-trijumf-barrique,Aleksandrović,Trijumf Barrique,iwc,2014,серебро,srebro,2012,"internationalwinechallenge.com, IWC 2014, вино 67742",2026-08-28
+aleksandrovic-regent,Aleksandrović,Regent,iwc,2014,бронза,bronza,2009,"internationalwinechallenge.com, IWC 2014, вино 67744",2026-08-28
+aleksandrovic-rodoslov,Aleksandrović,Rodoslov,iwc,2014,бронза,bronza,2006,"internationalwinechallenge.com, IWC 2014, вино 67745",2026-08-28
+aleksandrovic-trijumf-noir,Aleksandrović,Trijumf Noir,iwc,2014,бронза,bronza,2009,"internationalwinechallenge.com, IWC 2014, вино 67746",2026-08-28
+aleksandrovic-trijumf-gold,Aleksandrović,Trijumf Gold,iwc,2014,отмечено,commended,2012,"internationalwinechallenge.com, IWC 2014, вино 67733",2026-08-28
+aleksandrovic-regent,Aleksandrović,Regent,iwc,2014,отмечено,commended,2008,"internationalwinechallenge.com, IWC 2014, вино 67743",2026-08-28
+aleksic-amanet,Aleksić,Amanet,iwc,2014,отмечено,commended,2011,"internationalwinechallenge.com, IWC 2014, вино 68861",2026-08-28
+aleksic-kardas-limited,Aleksić,Kardas Limited,iwc,2014,отмечено,commended,2011,"internationalwinechallenge.com, IWC 2014, вино 68862",2026-08-28
+aleksic-zuti-cvet,Aleksić,Zuti Cvet,iwc,2014,отмечено,commended,2013,"internationalwinechallenge.com, IWC 2014, вино 68863",2026-08-28
+rubin-terra-lazarica-chardonnay-barrique,Rubin,Terra Lazarica Chardonnay Barrique,iwc,2014,отмечено,commended,2008,"internationalwinechallenge.com, IWC 2014, вино 71615",2026-08-28
+rubin-terra-lazarica-sauvignon-blanc-barrique,Rubin,Terra Lazarica Sauvignon blanc Barrique,iwc,2014,отмечено,commended,2009,"internationalwinechallenge.com, IWC 2014, вино 71621",2026-08-28
+rubin-terra-lazarica-merlot-barrique,Rubin,Terra Lazarica Merlot Barrique,iwc,2014,отмечено,commended,2008,"internationalwinechallenge.com, IWC 2014, вино 71625",2026-08-28
+aleksic-amanet,Aleksić,Amanet,iwc,2015,серебро,srebro,2011,"internationalwinechallenge.com, IWC 2015, вино 88609",2026-08-28
+aleksandrovic-trijumf-barrique,Aleksandrović,Trijumf Barrique,iwc,2015,серебро,srebro,2012,"internationalwinechallenge.com, IWC 2015, вино 90917",2026-08-28
+aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,iwc,2015,серебро,srebro,2009,"internationalwinechallenge.com, IWC 2015, вино 90929",2026-08-28
+aleksandrovic-trijumf-selection,Aleksandrović,Trijumf Selection,iwc,2015,бронза,bronza,2013,"internationalwinechallenge.com, IWC 2015, вино 90915",2026-08-28
+aleksandrovic-regent-reserve,Aleksandrović,Regent Reserve,iwc,2015,бронза,bronza,2009,"internationalwinechallenge.com, IWC 2015, вино 90926",2026-08-28
+aleksic-nostalgija,Aleksić,Nostalgija,iwc,2015,отмечено,commended,2011,"internationalwinechallenge.com, IWC 2015, вино 88617",2026-08-28
+aleksandrovic-trijumf-gold,Aleksandrović,Trijumf Gold,iwc,2015,отмечено,commended,2012,"internationalwinechallenge.com, IWC 2015, вино 91204",2026-08-28
+aleksandrovic-trijumf-noir,Aleksandrović,Trijumf Noir,iwc,2016,бронза,bronza,2012,"internationalwinechallenge.com, IWC 2016, вино 99051",2026-08-28
+aleksandrovic-regent-reserve,Aleksandrović,Regent Reserve,iwc,2016,бронза,bronza,2012,"internationalwinechallenge.com, IWC 2016, вино 99055",2026-08-28
+zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,iwc,2016,отмечено,commended,2013,"internationalwinechallenge.com, IWC 2016, вино 97797",2026-08-28
+lastar-chardonnay-lastar,Vinarija Lastar,Chardonnay Lastar,iwc,2017,бронза,bronza,2015,"internationalwinechallenge.com, IWC 2017, вино 109904",2026-08-28
+lastar-chardonnay-lastar-triangle,Vinarija Lastar,Chardonnay Lastar Triangle,iwc,2017,бронза,bronza,2015,"internationalwinechallenge.com, IWC 2017, вино 111264",2026-08-28
+lastar-pinot-noir-lastar,Vinarija Lastar,Pinot Noir Lastar,iwc,2017,отмечено,commended,2015,"internationalwinechallenge.com, IWC 2017, вино 109905",2026-08-28
+doja-belo,Doja,Belo,iwc,2017,отмечено,commended,2015,"internationalwinechallenge.com, IWC 2017, вино 114980",2026-08-28
+lastar-chardonnay-lastar-triangle,Vinarija Lastar,Chardonnay Lastar Triangle,iwc,2018,бронза,bronza,2015,"internationalwinechallenge.com, IWC 2018, вино 125418",2026-08-28
+lastar-chardonnay-lastar,Vinarija Lastar,Chardonnay Lastar,iwc,2018,бронза,bronza,2016,"internationalwinechallenge.com, IWC 2018, вино 125419",2026-08-28
+lastar-tamjanika-lastar,Vinarija Lastar,Tamjanika Lastar,iwc,2018,бронза,bronza,2016,"internationalwinechallenge.com, IWC 2018, вино 125420",2026-08-28
+doja-prokupac,Doja,Prokupac,iwc,2018,отмечено,commended,2016,"internationalwinechallenge.com, IWC 2018, вино 128252",2026-08-28
+doja-belo-chardonnay-pinot-grigio,Doja,Belo Chardonnay & Pinot Grigio,iwc,2018,отмечено,commended,2016,"internationalwinechallenge.com, IWC 2018, вино 128256",2026-08-28
+lastar-chardonnay-lastar,Vinarija Lastar,Chardonnay Lastar,iwc,2019,бронза,bronza,2017,"internationalwinechallenge.com, IWC 2019, вино 136886",2026-08-28
+lastar-pinot-noir-lastar,Vinarija Lastar,Pinot Noir Lastar,iwc,2019,бронза,bronza,2016,"internationalwinechallenge.com, IWC 2019, вино 136887",2026-08-28
+lastar-chardonnay-triangl,Vinarija Lastar,Chardonnay Triangl,iwc,2019,бронза,bronza,2016,"internationalwinechallenge.com, IWC 2019, вино 136888",2026-08-28
+matalj-kremen,Matalj,Kremen,iwc,2019,отмечено,commended,2016,"internationalwinechallenge.com, IWC 2019, вино 133910",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,iwc,2019,отмечено,commended,2015,"internationalwinechallenge.com, IWC 2019, вино 133911",2026-08-28
+matalj-terasa-sauvignon-blanc,Matalj,Terasa Sauvignon Blanc,iwc,2019,отмечено,commended,2017,"internationalwinechallenge.com, IWC 2019, вино 133912",2026-08-28
+lastar-sauvignon-viognier-triangl,Vinarija Lastar,Sauvignon Viognier Triangl,iwc,2019,отмечено,commended,2016,"internationalwinechallenge.com, IWC 2019, вино 136890",2026-08-28
+pik-oplenac-villa-nota-rose,PIK Oplenac,Villa Nota Rose,iwc,2019,отмечено,commended,2018,"internationalwinechallenge.com, IWC 2019, вино 143607",2026-08-28
+lastar-chardonnay-triangl,Vinarija Lastar,Chardonnay Triangl,iwc,2020,серебро,srebro,2017,"internationalwinechallenge.com, IWC 2020, вино 154201",2026-08-28
+lastar-sauvignon-viognier-triangl,Vinarija Lastar,Sauvignon Viognier Triangl,iwc,2020,серебро,srebro,2017,"internationalwinechallenge.com, IWC 2020, вино 154202",2026-08-28
+lastar-pinot-noir-triangl,Vinarija Lastar,Pinot Noir Triangl,iwc,2020,серебро,srebro,2017,"internationalwinechallenge.com, IWC 2020, вино 154203",2026-08-28
+pik-oplenac-monarh-immortal-s,PIK Oplenac,Monarh Immortal S,iwc,2020,бронза,bronza,2017,"internationalwinechallenge.com, IWC 2020, вино 153707",2026-08-28
+pik-oplenac-red-tron,PIK Oplenac,Red Tron,iwc,2020,бронза,bronza,2016,"internationalwinechallenge.com, IWC 2020, вино 153709",2026-08-28
+pik-oplenac-rose-tron,PIK Oplenac,Rose Tron,iwc,2020,отмечено,commended,2019,"internationalwinechallenge.com, IWC 2020, вино 153708",2026-08-28
+lastar-merlot-cabernet-franc,Vinarija Lastar,Merlot Cabernet Franc,iwc,2021,бронза,bronza,2017,"internationalwinechallenge.com, IWC 2021, вино 161411",2026-08-28
+lastar-chardonnay-lastar,Vinarija Lastar,Chardonnay Lastar,iwc,2022,бронза,bronza,2018,"internationalwinechallenge.com, IWC 2022, вино 171737",2026-08-28
+lastar-pinot-noir-lastar,Vinarija Lastar,Pinot Noir Lastar,iwc,2022,отмечено,commended,2017,"internationalwinechallenge.com, IWC 2022, вино 171736",2026-08-28
+rubin-terra-lazarica-cabernet-sauvignon-barrique,Rubin,Terra Lazarica Cabernet Sauvignon Barrique,cmb,2013,большое золото,veliko-zlato,2007,results.concoursmondial.com/en/results/2013/62845-terra-lazarica-cabernet-sauvignon-barrique-2007,2026-08-28
+nikad-nije-kasno-signature,Nikad Nije Kasno,Signature,cmb,2019,золото,zlato,2016,results.concoursmondial.com/en/results/2019/133525-nikad-nije-kasno-signature-2016,2026-08-28
+rubin-amante-carmen,Rubin,Carmen,cmb,2019,серебро,srebro,2016,results.concoursmondial.com/en/results/2019/134613-amante-carmen-2016,2026-08-28
+pevac-zagrljaj,Podrum Pevac,Zagrljaj,cmb,2023,золото,zlato,2019,results.concoursmondial.com/en/results/2023/192932-zagrljaj-2019,2026-08-28
+pevac-gust-sardone-barik-white,Podrum Pevac,Gušt Šardone Barik White,cmb,2023,серебро,srebro,2021,results.concoursmondial.com/en/results/2023/192927-gust-sardone-barik-white-2021,2026-08-28
+ralevic-eter-chardonnay,Ralević,Eter Chardonnay,cmb,2024,золото,zlato,2019,results.concoursmondial.com/en/results/2024/219438-eter-chardonnay-2019,2026-08-28

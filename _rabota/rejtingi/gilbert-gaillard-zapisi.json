@@ -1,0 +1,54 @@
+{
+ "chto_eto": "Сербские вина в гиде Gilbert & Gaillard: балл по стобалльной шкале, то есть оценка критика, а не медаль.",
+ "istochnik": "https://www.gilbertgaillard.com/en/resultats",
+ "strana_v_spravochnike": "44",
+ "obeshchano": 5,
+ "vsego": 5,
+ "zapisi": [
+  {
+   "nomer": "289139",
+   "hozyaistvo": "Plavinac",
+   "vino": "Tamjanika",
+   "urozhaj": 2025,
+   "ball": 88,
+   "kategoriya": "Vin de Yougoslavie Dry white wine",
+   "stranica": "https://www.gilbertgaillard.com/en/resultats/plavinac-tamjanika-289139"
+  },
+  {
+   "nomer": "289140",
+   "hozyaistvo": "Plavinac",
+   "vino": "Sauvignon Blanc",
+   "urozhaj": 2025,
+   "ball": 88,
+   "kategoriya": "Vin de Yougoslavie Dry white wine",
+   "stranica": "https://www.gilbertgaillard.com/en/resultats/plavinac-sauvignon-blanc-289140"
+  },
+  {
+   "nomer": "273477",
+   "hozyaistvo": "Tri SuncA",
+   "vino": "",
+   "urozhaj": 2015,
+   "ball": 93,
+   "kategoriya": "Vin de Yougoslavie Dessert wine",
+   "stranica": "https://www.gilbertgaillard.com/en/resultats/tri-sunca-2015-273477"
+  },
+  {
+   "nomer": "272003",
+   "hozyaistvo": "Amante",
+   "vino": "Carmen",
+   "urozhaj": 2019,
+   "ball": 88,
+   "kategoriya": "Vin de Yougoslavie Red wine",
+   "stranica": "https://www.gilbertgaillard.com/en/resultats/amante-carmen-272003"
+  },
+  {
+   "nomer": "272004",
+   "hozyaistvo": "Amante",
+   "vino": "Aurora",
+   "urozhaj": 2019,
+   "ball": 90,
+   "kategoriya": "Vin de Yougoslavie Dry white wine",
+   "stranica": "https://www.gilbertgaillard.com/en/resultats/amante-aurora-272004"
+  }
+ ]
+}

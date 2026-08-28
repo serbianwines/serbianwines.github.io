@@ -214,7 +214,7 @@ def klyuch_mesta(*chasti):
 # Тот же список, что в `sobrat-tablicy.py`, — ключи обязаны совпадать.
 SLUZHEBNYE = ("vinarija", "podrum", "podrumi", "vinogradi", "vinska-kuca",
               "vinarska-kuca", "gazdinstvo", "winery", "estate", "manastir",
-              "monastery", "vino", "vina", "doo", "pr", "vinery",
+              "monastery", "vino", "vina", "doo", "ad", "pr", "vinery",
               "vineyards", "wine", "wines")
 
 
@@ -496,6 +496,37 @@ def kandidaty(gde):
     return out
 
 
+# Справочник винарий кое-где пишет в графе города область, а не место.
+# Ехать «во Фрушку гору» нельзя — это гряда, а «в Жупу» — это край.
+NE_GOROD = {"fruska-gora", "zupa"}
+
+
+def imya_goroda(gde, karty):
+    """Место, куда ехать: населённый пункт, а не округ.
+
+    Округ в этой работе — только машинерия: он помогает найти рејон и
+    отсечь чужие, но читателю он не нужен. Нужен город или село:
+    «Vinča, Topola - Oplenac, Šumadijski okrug» — ехать в Винчу.
+
+    Берётся самый точный кусок поля, который справочник узнаёт как место.
+    Пояснения вроде «Vivino относит к „Zapadna Morava“» местом не
+    становятся: там узнавать нечего.
+    """
+    if not gde:
+        return ""
+    for kus in kandidaty(gde):
+        klyuch = klyuch_mesta(kus)
+        if klyuch.endswith("-okrug") or klyuch in NE_GOROD:
+            continue
+        # Виногорје — не место назначения: «Фрушка гора» и «Левачко
+        # виногорје» это область, а не адрес, куда ехать.
+        for uroven in ("opstina", "selo", "spravochnik"):
+            if klyuch in karty[uroven]:
+                return re.sub(r"^(selo|village|село)\s+", "", kus,
+                              flags=re.I).strip()
+    return ""
+
+
 def po_mestu(gde, karty):
     """Рејон и виногорје по месту хозяйства.
 
@@ -679,6 +710,7 @@ def main():
             "region": region,
             "rejon": rejon,
             "vinogorje": vinogorje,
+            "gorod": imya_goroda(gde, karty),
             "istochnik": istochnik if rejon else "ne_ustanovlen",
             "raznoglasie": raznoglasie,
             "gde": gde,

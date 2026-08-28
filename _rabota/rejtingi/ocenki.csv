@@ -1344,7 +1344,7 @@ janko-zapis-testament,Podrum Janko,Zapis Testament,decanter,100,88,,False,2016,2
 matalj-kremen-cabernet-sauvignon,Matalj,Kremen Cabernet Sauvignon,decanter,100,87,,False,2016,2020,,"awards.decanter.com, DWWA 2020, вино 580365",2026-08-28
 virtus-prokupac,Virtus,Prokupac,decanter,100,90,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 571881",2026-08-28
 nikad-nije-kasno-signature,Nikad Nije Kasno,Signature,decanter,100,88,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 598540",2026-08-28
-rubin-amante-carmen,Rubin,Amante Carmen,decanter,100,87,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 599076",2026-08-28
+rubin-amante-carmen,Rubin,Carmen,decanter,100,87,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 599076",2026-08-28
 temet-tri-morave-reserva,Temet,Tri Morave Reserva,decanter,100,95,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 572378",2026-08-28
 lastar-pinot-noir,Vinarija Lastar,Pinot Noir,decanter,100,87,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 595676",2026-08-28
 molovin-vista-hill-red-reserve,Molovin,Vista Hill Red Reserve,decanter,100,94,,False,2010,2019,,"awards.decanter.com, DWWA 2019, вино 570382",2026-08-28
@@ -1465,7 +1465,7 @@ bikicki-cu,Bikicki,Cu,decanter,100,86,,False,2018,2021,,"awards.decanter.com, DW
 bikicki-uncensored,Bikicki,Uncensored,decanter,100,96,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 700527",2026-08-28
 doja-merlot-cabernet-sauvignon,Doja,Merlot-Cabernet Sauvignon,decanter,100,88,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 696654",2026-08-28
 matalj-bukovski-cuvee,Matalj,Bukovski Cuvée,decanter,100,89,,False,2018,2022,,"awards.decanter.com, DWWA 2022, вино 711492",2026-08-28
-rubin-amante-matea,Rubin,Amante Matea,decanter,100,86,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 697284",2026-08-28
+rubin-amante-matea,Rubin,Matea,decanter,100,86,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 697284",2026-08-28
 zmajevac-prokupac,Zmajevac,Prokupac,decanter,100,90,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 693415",2026-08-28
 rubinov-prokupac,Rubinov,Prokupac,decanter,100,86,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 697216",2026-08-28
 bt-kings-crown,BT Winery,King's Crown,decanter,100,86,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 687706",2026-08-28
@@ -1743,7 +1743,7 @@ despotika-morava,Despotika,Morava,decanter,100,87,,False,2022,2024,,"awards.deca
 atelje-sapat-su-su-blaufrankisch,Šapat,šU-šU Blaufrankisch,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756998",2026-08-28
 dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750283",2026-08-28
 draskovic-frankovka-rezerva,Drašković,Frankovka Rezerva,decanter,100,90,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 751528",2026-08-28
-rubin-amante-matea-merlot,Rubin,Amante Matea Merlot,decanter,100,87,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 749707",2026-08-28
+rubin-amante-matea-merlot,Rubin,Matea Merlot,decanter,100,87,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 749707",2026-08-28
 grabak-modrovrana-cabernet-sauvignon,Grabak,Modrovrana Cabernet Sauvignon,decanter,100,88,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 747465",2026-08-28
 erdevik-marlon-delon-cabernet-sauvignon-merlot,Erdevik,Marlon Delon Cabernet Sauvignon-Merlot,decanter,100,95,,False,2017,2026,,"awards.decanter.com, DWWA 2026, вино 788543",2026-08-28
 aleksandrovic-vozd-cabernet-sauvignon,Aleksandrović,Vožd Cabernet Sauvignon,decanter,100,95,,False,2017,2024,,"awards.decanter.com, DWWA 2024, вино 757517",2026-08-28
@@ -2175,3 +2175,8 @@ aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,falst
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,falstaff,100,93,,False,2018,,,"falstaff, поиск по Сербии · красное, 14,5%",2026-08-28
 ivanovic-prokupac-gaga,Ivanović,Prokupac Gaga,falstaff,100,96,,False,2017,,,"falstaff, поиск по Сербии · красное, 14,5%",2026-08-28
 matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,falstaff,100,95,,False,2017,,,"falstaff, поиск по Сербии · красное, 15%",2026-08-28
+plavinac-tamjanika,Plavinac,Tamjanika,gilbert-gaillard,100,88,,False,2025,,,https://www.gilbertgaillard.com/en/resultats/plavinac-tamjanika-289139,2026-08-28
+plavinac-sauvignon-blanc,Plavinac,Sauvignon Blanc,gilbert-gaillard,100,88,,False,2025,,,https://www.gilbertgaillard.com/en/resultats/plavinac-sauvignon-blanc-289140,2026-08-28
+fruskogorski-tri-sunca,Fruškogorski,Tri SuncA,gilbert-gaillard,100,93,,False,2015,,,https://www.gilbertgaillard.com/en/resultats/tri-sunca-2015-273477,2026-08-28
+rubin-carmen,Rubin,Carmen,gilbert-gaillard,100,88,,False,2019,,,https://www.gilbertgaillard.com/en/resultats/amante-carmen-272003,2026-08-28
+rubin-aurora,Rubin,Aurora,gilbert-gaillard,100,90,,False,2019,,,https://www.gilbertgaillard.com/en/resultats/amante-aurora-272004,2026-08-28

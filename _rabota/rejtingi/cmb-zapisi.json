@@ -1,0 +1,61 @@
+{
+ "chto_eto": "Сербские вина, отмеченные на Concours Mondial de Bruxelles. Конкурс ставит медали, а не баллы — это награды, не оценки.",
+ "istochnik": "results.concoursmondial.com",
+ "vsego": 6,
+ "zapisi": [
+  {
+   "god": 2013,
+   "nomer": "62845",
+   "hozyaistvo": "Rubin AD Krusevac",
+   "vino": "Terra Lazarica Cabernet Sauvignon Barrique",
+   "urozhaj": 2007,
+   "medal": "Grand Gold",
+   "stranica": "results.concoursmondial.com/en/results/2013/62845-terra-lazarica-cabernet-sauvignon-barrique-2007"
+  },
+  {
+   "god": 2019,
+   "nomer": "133525",
+   "hozyaistvo": "Nikad Nije Kasno",
+   "vino": "Nikad Nije Kasno Signature",
+   "urozhaj": 2016,
+   "medal": "Gold",
+   "stranica": "results.concoursmondial.com/en/results/2019/133525-nikad-nije-kasno-signature-2016"
+  },
+  {
+   "god": 2019,
+   "nomer": "134613",
+   "hozyaistvo": "Rubin AD",
+   "vino": "Amante Carmen",
+   "urozhaj": 2016,
+   "medal": "Silver",
+   "stranica": "results.concoursmondial.com/en/results/2019/134613-amante-carmen-2016"
+  },
+  {
+   "god": 2023,
+   "nomer": "192932",
+   "hozyaistvo": "Destilerija Pevac",
+   "vino": "Zagrljaj",
+   "urozhaj": 2019,
+   "medal": "Gold",
+   "stranica": "results.concoursmondial.com/en/results/2023/192932-zagrljaj-2019"
+  },
+  {
+   "god": 2023,
+   "nomer": "192927",
+   "hozyaistvo": "Destilerija Pevac",
+   "vino": "Gušt Šardone Barik White",
+   "urozhaj": 2021,
+   "medal": "Silver",
+   "stranica": "results.concoursmondial.com/en/results/2023/192927-gust-sardone-barik-white-2021"
+  },
+  {
+   "god": 2024,
+   "nomer": "219438",
+   "hozyaistvo": "Winery Ralevic",
+   "vino": "Eter Chardonnay",
+   "urozhaj": 2019,
+   "medal": "Gold",
+   "stranica": "results.concoursmondial.com/en/results/2024/219438-eter-chardonnay-2019"
+  }
+ ]
+}

@@ -86,8 +86,8 @@
 
 | Ступень | Всего | Из них без рејона | Из них в книге |
 |---|---|---|---|
-| оценка критика или медаль | 142 | 13 | 54 |
-| только Vivino, выборка набрана | 112 | 38 | 16 |
+| оценка критика или медаль | 143 | 13 | 54 |
+| только Vivino, выборка набрана | 111 | 38 | 16 |
 | вина есть, оценок нет | 180 | 86 | 10 |
 | **всего** | **434** | **137** | **80** |
 
@@ -102,7 +102,7 @@
 | Vinarija Stanković | 91 | 6 | — | — | 0 | 2026 |
 | Николић Неyзински (Nikolićh Neuzinsky) | 90 | 3 | — | — | 0 | 2025 |
 | Podrum Petrović | 90 | 2 | 3.7 | 1 | 63 | 2023 |
-| Nikad Nije Kasno | 88 | 2 | 4.3 | 3 | 511 | 2020 |
+| Nikad Nije Kasno | 88 | 3 | 4.3 | 3 | 511 | 2020 |
 | Natural Grape Concept | 87 | 2 | — | — | 0 | 2026 |
 | Pr Anjino Vino | 87 | 1 | — | — | 0 | 2025 |
 | Gardijan | 86 | 1 | — | — | 0 | 2026 |
@@ -157,7 +157,6 @@
 |---|---|---|---|---|
 | Vinex Grozd | 2.9 | 2 | 146 | Rejon Tri Morave |
 | Vinarija Selecta | 3.2 | 1 | 28 | Južnobanatski rejon |
-| Fruškogorski | 3.3 | 2 | 99 | Sremski rejon |
 | Vinarija Vojinović | 3.3 | 1 | 27 | Beogradski rejon |
 | Navip | 3.4 | 6 | 479 | Vranjski rejon |
 | Agrina | 3.4 | 1 | 225 | Sremski rejon |

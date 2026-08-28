@@ -163,7 +163,7 @@ def svesti_vivino(ruchnoe, iz_api):
 SLUZHEBNYE = ("vinarija", "vinarija-", "podrum", "podrumi", "vinogradi",
               "vinska-kuca", "vinarska-kuca", "gazdinstvo", "winery",
               "vinarija-vinarija", "estate", "manastir", "monastery",
-              "vino", "vina", "doo", "pr", "vinery", "vineyards",
+              "vino", "vina", "doo", "ad", "pr", "vinery", "vineyards",
               "wine", "wines")
 
 
@@ -434,6 +434,10 @@ def main():
             "region": mesto.get("region"),
             "rejon": mesto.get("rejon"),
             "vinogorje": mesto.get("vinogorje"),
+            # Место назначения: населённый пункт, куда ехать. Округ сюда
+            # не попадает — он служебный, к виноградарству отношения
+            # не имеет и в справочнике не нужен.
+            "gorod": mesto.get("gorod", ""),
             "rejon_istochnik": mesto.get("istochnik", "ne_ustanovlen"),
             "rejon_raznoglasie": mesto.get("raznoglasie", ""),
             "raion_knigi": svedeniya.get("raion"),

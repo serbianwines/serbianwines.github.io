@@ -1,0 +1,715 @@
+{
+ "istochnik": "ivv.rs — «Вина и винарије Србије», карточки 142 хозяйств",
+ "vinarii": [
+  {
+   "slug": "100-zena",
+   "imya": "100 žena",
+   "mesto": "Niš, Nišavski okrug"
+  },
+  {
+   "slug": "45-paralela",
+   "imya": "45. Paralela",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "adora",
+   "imya": "Adora",
+   "mesto": "Jagodina, Pomoravski okrug"
+  },
+  {
+   "slug": "akademia-modele",
+   "imya": "Akademia Modele",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "aleksandrovic",
+   "imya": "Aleksandrović",
+   "mesto": "Vinča, Topola - Oplenac, Šumadijski okrug"
+  },
+  {
+   "slug": "aleksic",
+   "imya": "Aleksić",
+   "mesto": "Vranje, Pčinjski okrug"
+  },
+  {
+   "slug": "ambelos",
+   "imya": "Ambelos",
+   "mesto": "Velika Plana, Podunavski okrug"
+  },
+  {
+   "slug": "arsenijevic",
+   "imya": "Arsenijević",
+   "mesto": "Topola, Šumadijski okrug"
+  },
+  {
+   "slug": "art-wine",
+   "imya": "Art Wine",
+   "mesto": "Grošnica, Kragujevac, Šumadijski okrug"
+  },
+  {
+   "slug": "atelje-vina-sapat",
+   "imya": "Atelje Šapat",
+   "mesto": "Novi Slankamen, Sremski okrug"
+  },
+  {
+   "slug": "bajilo",
+   "imya": "Bajilo",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "belo-brdo",
+   "imya": "Belo Brdo",
+   "mesto": "Čerević, Južno-bački okrug"
+  },
+  {
+   "slug": "bikicki",
+   "imya": "Bikicki",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "botunjac",
+   "imya": "Botunjac",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "brestovacki",
+   "imya": "Brestovački",
+   "mesto": "Erdevik, Sremski okrug"
+  },
+  {
+   "slug": "chateau-prince",
+   "imya": "Château Prince",
+   "mesto": "Topola, Šumadijski okrug"
+  },
+  {
+   "slug": "chichateau",
+   "imya": "Chichateau",
+   "mesto": "Šišatovac, Sremski okrug"
+  },
+  {
+   "slug": "cilic-gazdinstvo",
+   "imya": "Cilić Gazdinstvo",
+   "mesto": "Lozovik, Pomoravski okrug"
+  },
+  {
+   "slug": "cosic",
+   "imya": "Ćosić",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "crvena-ptica",
+   "imya": "Crvena ptica",
+   "mesto": "Krušedol, Irig, Sremski okrug"
+  },
+  {
+   "slug": "cuvardic",
+   "imya": "Čuvardić",
+   "mesto": "Subotica, Severno-bački okrug"
+  },
+  {
+   "slug": "danguba",
+   "imya": "Danguba",
+   "mesto": "Šid, Sremski okrug"
+  },
+  {
+   "slug": "delena",
+   "imya": "DeLena",
+   "mesto": "Topola, Šumadijski okrug"
+  },
+  {
+   "slug": "despotika",
+   "imya": "Despotika",
+   "mesto": "Vlaški Do, Smederevska Palanka, Podunavski okrug"
+  },
+  {
+   "slug": "deuric",
+   "imya": "Deurić",
+   "mesto": "Mala Remeta, Sremski okrug"
+  },
+  {
+   "slug": "djordje",
+   "imya": "Đorđe",
+   "mesto": "Banatski Karovac, Južno-banatski okrug"
+  },
+  {
+   "slug": "djurdjevica-legat",
+   "imya": "Đurđevića Legat",
+   "mesto": "Ključ, Kolubarski okrug"
+  },
+  {
+   "slug": "djurdjic",
+   "imya": "Đurđić",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "do-kraja-sveta",
+   "imya": "Do kraja sveta",
+   "mesto": "Kovilj, Južno-bački okrug"
+  },
+  {
+   "slug": "doja",
+   "imya": "Doja",
+   "mesto": "Blace, Toplički okrug"
+  },
+  {
+   "slug": "dragic",
+   "imya": "Dragić",
+   "mesto": "Riđica, Zapadno-bački okrug"
+  },
+  {
+   "slug": "draskovic",
+   "imya": "Drašković",
+   "mesto": "Vršac, Južno-banatski okrug"
+  },
+  {
+   "slug": "dukay",
+   "imya": "Dukay",
+   "mesto": "Kanjiža, Severno-banatski okrug"
+  },
+  {
+   "slug": "dulka",
+   "imya": "Dulka",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "dumo",
+   "imya": "Dumo",
+   "mesto": "Rakovac, Beočin, Južno-bački okrug"
+  },
+  {
+   "slug": "dzervin",
+   "imya": "Džervin",
+   "mesto": "Knjaževac, Zaječarski okrug"
+  },
+  {
+   "slug": "eden",
+   "imya": "Eden",
+   "mesto": "Ranilović, Šumadijski okrug"
+  },
+  {
+   "slug": "emporio",
+   "imya": "Emporio",
+   "mesto": "Beograd, Beogradski okrug"
+  },
+  {
+   "slug": "erdevik",
+   "imya": "Erdevik",
+   "mesto": "Erdevik, Sremski okrug"
+  },
+  {
+   "slug": "fragaria",
+   "imya": "Fragaria",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "frunza-aglaja",
+   "imya": "Frunza Aglaja",
+   "mesto": "Negotin, Borski okrug"
+  },
+  {
+   "slug": "fruskogorski-vinogradi",
+   "imya": "Fruškogorski vinogradi",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "gaston-wine",
+   "imya": "Gaston Wine",
+   "mesto": "Neštin, Južno-bački okrug"
+  },
+  {
+   "slug": "hopovo",
+   "imya": "Hopovo",
+   "mesto": "Irig, Sremski okrug"
+  },
+  {
+   "slug": "ilic-njemcevic",
+   "imya": "Ilić-Njemčević",
+   "mesto": "Bikić Do, Sremski okrug"
+  },
+  {
+   "slug": "imperator",
+   "imya": "Imperator",
+   "mesto": "Rakovac, Fruška gora, Južno-bački okrug"
+  },
+  {
+   "slug": "ivanovic",
+   "imya": "Ivanović",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "janko",
+   "imya": "Janko",
+   "mesto": "Smederevo, Podunavski okrug"
+  },
+  {
+   "slug": "janovi-vinogradi",
+   "imya": "Janovi vinogradi",
+   "mesto": "Sopot, Beogradski okrug"
+  },
+  {
+   "slug": "jeremic",
+   "imya": "Jeremić",
+   "mesto": "Smederevo, Podunavski okrug"
+  },
+  {
+   "slug": "jovic",
+   "imya": "Jović",
+   "mesto": "Knjaževac, Zaječarski okrug"
+  },
+  {
+   "slug": "kapija-sumadije",
+   "imya": "Kapija Šumadije",
+   "mesto": "Ripanj, Beogradski okrug"
+  },
+  {
+   "slug": "karic",
+   "imya": "Karić",
+   "mesto": "Varna, Mačvanski okrug"
+  },
+  {
+   "slug": "katanic",
+   "imya": "Katanić",
+   "mesto": "Kamenica, Šumadijski okrug"
+  },
+  {
+   "slug": "kis",
+   "imya": "Kiš",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "km",
+   "imya": "KM",
+   "mesto": "Novi Sad, Južno-bački okrug"
+  },
+  {
+   "slug": "komuna",
+   "imya": "Komuna",
+   "mesto": "Rivica, Sremski okrug"
+  },
+  {
+   "slug": "kosovic",
+   "imya": "Kosović",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "kovacevic",
+   "imya": "Kovačević",
+   "mesto": "Irig, Sremski okrug"
+  },
+  {
+   "slug": "lastar",
+   "imya": "Lastar",
+   "mesto": "Rekovac, Pomoravski okrug"
+  },
+  {
+   "slug": "mackov-podrum",
+   "imya": "Mačkov podrum",
+   "mesto": "Irig, Sremski okrug"
+  },
+  {
+   "slug": "madzic",
+   "imya": "Madžić",
+   "mesto": "Smederevska Palanka, Podunavski okrug"
+  },
+  {
+   "slug": "matalj",
+   "imya": "Matalj",
+   "mesto": "Negotinska Krajina, Borski okrug"
+  },
+  {
+   "slug": "matijasevic",
+   "imya": "Matijašević",
+   "mesto": "Orašac, Šumadijski okrug"
+  },
+  {
+   "slug": "maurer-oszkar",
+   "imya": "Maurer Oszkár",
+   "mesto": "Šupljak, Severno-bački okrug"
+  },
+  {
+   "slug": "milanov-podrum",
+   "imya": "Milanov podrum",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "milanovic",
+   "imya": "Milanović",
+   "mesto": "Surduk, Sremski okrug"
+  },
+  {
+   "slug": "milijan-jelic",
+   "imya": "Milijan Jelić",
+   "mesto": "Valjevo, Južno-bački okrug"
+  },
+  {
+   "slug": "milosavljevic",
+   "imya": "Milosavljević",
+   "mesto": "Počekovina, Rasinski okrug"
+  },
+  {
+   "slug": "milutinovic",
+   "imya": "Milutinović",
+   "mesto": "Novi Sad, Južno-bački okrug"
+  },
+  {
+   "slug": "molovin",
+   "imya": "Molovin",
+   "mesto": "Šid, Sremski okrug"
+  },
+  {
+   "slug": "mons-aureus",
+   "imya": "Mons Aureus",
+   "mesto": "Smederevo, Podunavski okrug"
+  },
+  {
+   "slug": "mrdjanin",
+   "imya": "Mrđanin",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "nika",
+   "imya": "Nika",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "ozz-benisek-veselinovic",
+   "imya": "OZZ Benišek-Veselinović",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "panjkovic",
+   "imya": "Panjković",
+   "mesto": "Smederevo, Beogradski okrug"
+  },
+  {
+   "slug": "pantic",
+   "imya": "Pantić",
+   "mesto": "Mladenovac, Beogradski okrug"
+  },
+  {
+   "slug": "patkov-vinograd",
+   "imya": "Patkov vinograd",
+   "mesto": "Krčedin, Sremski okrug"
+  },
+  {
+   "slug": "patrijarsijska-dobra",
+   "imya": "Patrijaršijska Dobra",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "petra",
+   "imya": "Petra",
+   "mesto": "Palić, Severno-bački okrug"
+  },
+  {
+   "slug": "plavinci",
+   "imya": "Plavinci",
+   "mesto": "Zaklopača, Beogradski okrug"
+  },
+  {
+   "slug": "podrum-acanski",
+   "imya": "Podrum Ačanski",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "podrum-bacina",
+   "imya": "Podrum Bačina",
+   "mesto": "Varvarin, Rasinski okrug"
+  },
+  {
+   "slug": "podrum-braca-rajkovic",
+   "imya": "Braća Rajković",
+   "mesto": "Gornje Zleginje, Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "podrum-djordevic",
+   "imya": "Podrum Ðordević",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "podrum-pevac",
+   "imya": "Podrum Pevac",
+   "mesto": "Kragujevac, Šumadijski okrug"
+  },
+  {
+   "slug": "podrum-radovanovic",
+   "imya": "Radovanović",
+   "mesto": "Krnjevo, Podunavski okrug"
+  },
+  {
+   "slug": "podrum-stari-hrast",
+   "imya": "Stari hrast",
+   "mesto": "Žirovnica, Kragujevac, Šumadijski okrug"
+  },
+  {
+   "slug": "podrum-stojkovic",
+   "imya": "Podrum Stojković",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "podrum-tosic",
+   "imya": "Podrum Tošići",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "podrum-vina-zarkovic",
+   "imya": "Podrum Žarković",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "prekogacic",
+   "imya": "Prekogačić",
+   "mesto": "Beočin, Južno-bački okrug"
+  },
+  {
+   "slug": "probus",
+   "imya": "Probus",
+   "mesto": "Veliki Radinci, Sremski okrug"
+  },
+  {
+   "slug": "radosevic",
+   "imya": "Radošević",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "rakicevic",
+   "imya": "Rakićević",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "rogan",
+   "imya": "Rogan",
+   "mesto": "Lipovac, Šumadijski okrug"
+  },
+  {
+   "slug": "sagmeister",
+   "imya": "Sagmeister",
+   "mesto": "Kanjiža, Severno-banatski okrug"
+  },
+  {
+   "slug": "salas-nas",
+   "imya": "Salaš Naš",
+   "mesto": "Horgoš, Severno-banatski okrug"
+  },
+  {
+   "slug": "salaxia",
+   "imya": "Salaxia",
+   "mesto": "Rakovac, Južno-bački okrug"
+  },
+  {
+   "slug": "selecta",
+   "imya": "Selecta",
+   "mesto": "Gudurica, Južno-banatski okrug"
+  },
+  {
+   "slug": "sijacki",
+   "imya": "Šijački",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "smiljkovic-90",
+   "imya": "Smiljković 90",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "sokolov-zamak",
+   "imya": "Sokolov Zamak",
+   "mesto": "Beška, Sremski okrug"
+  },
+  {
+   "slug": "somogyi",
+   "imya": "Somogyi",
+   "mesto": "Zrenjanin, Srednje-banatski okrug"
+  },
+  {
+   "slug": "spasic",
+   "imya": "Spasić",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "stakic",
+   "imya": "Stakić",
+   "mesto": "Neštin, Zapadno-bački okrug"
+  },
+  {
+   "slug": "stari-hrast",
+   "imya": "Stari hrast",
+   "mesto": "Kragujevac, Šumadijski okrug"
+  },
+  {
+   "slug": "stemina",
+   "imya": "Stemina",
+   "mesto": "Trstenik, Rasinski okrug"
+  },
+  {
+   "slug": "tarpos",
+   "imya": "Tarpoš",
+   "mesto": "Arandjelovac, Šumadijski okrug"
+  },
+  {
+   "slug": "temet",
+   "imya": "Temet",
+   "mesto": "selo Lozovik, Jagodina, Pomoravski okrug"
+  },
+  {
+   "slug": "todor",
+   "imya": "Todor",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "tonkovic",
+   "imya": "Tonković",
+   "mesto": "Subotica, Severno-bački okrug"
+  },
+  {
+   "slug": "tri-medje-i-oblak",
+   "imya": "Tri medje i oblak",
+   "mesto": "Neštin, Zapadno-bački okrug"
+  },
+  {
+   "slug": "tri-planine",
+   "imya": "Tri planine",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "trilogija",
+   "imya": "Trilogija",
+   "mesto": "Banja, Arandjelovac, Šumadijski okrug"
+  },
+  {
+   "slug": "trisic",
+   "imya": "Trišić",
+   "mesto": "Vranić, Beograd, Beogradski okrug"
+  },
+  {
+   "slug": "trivanovic",
+   "imya": "Trivanović",
+   "mesto": "Šid, Sremski okrug"
+  },
+  {
+   "slug": "velickovic",
+   "imya": "Veličković",
+   "mesto": "Aranđelovac, Šumadijski okrug"
+  },
+  {
+   "slug": "veritas",
+   "imya": "Veritas",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "verkat",
+   "imya": "Verkat",
+   "mesto": "Čerević, Južno-bački okrug"
+  },
+  {
+   "slug": "vertiz",
+   "imya": "Vertiz",
+   "mesto": "Levačko vinogorje, Pomoravski okrug"
+  },
+  {
+   "slug": "vimmid",
+   "imya": "Vimmid",
+   "mesto": "Vidrovac, Negotin, Borski okrug"
+  },
+  {
+   "slug": "vinarium",
+   "imya": "Vinarium",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "vincic",
+   "imya": "Vinčić",
+   "mesto": "Šid, Sremski okrug"
+  },
+  {
+   "slug": "vindulo",
+   "imya": "Vindulo",
+   "mesto": "Temerin, Južno-bački okrug"
+  },
+  {
+   "slug": "vinik",
+   "imya": "Vinik",
+   "mesto": "Vršac, Južno-banatski okrug"
+  },
+  {
+   "slug": "vino-budimir",
+   "imya": "Vino Budimir",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "vinogradi-urosevic",
+   "imya": "Vinogradi Urošević",
+   "mesto": "Banoštor, Južno-bački okrug"
+  },
+  {
+   "slug": "vinska-kuca-minica",
+   "imya": "Vinska kuća Minića",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "vinski-dvor",
+   "imya": "Vinski dvor",
+   "mesto": "Hajdukovo, Severno-bački okrug"
+  },
+  {
+   "slug": "vinum",
+   "imya": "Vinum",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "virtus",
+   "imya": "Virtus",
+   "mesto": "Žabari, Braničevski okrug"
+  },
+  {
+   "slug": "vojinovic",
+   "imya": "Podrum Vojinović",
+   "mesto": "Mladenovac, Beogradski okrug"
+  },
+  {
+   "slug": "vujic",
+   "imya": "Vujić",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "wine-house-kosmaj",
+   "imya": "Wine House Kosmaj",
+   "mesto": "Rogaca, Beogradski okrug"
+  },
+  {
+   "slug": "yotta",
+   "imya": "Yotta",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "zabic",
+   "imya": "Žabić",
+   "mesto": "Čerević, Južno-bački okrug"
+  },
+  {
+   "slug": "zivanovic",
+   "imya": "Živanović",
+   "mesto": "Sremski Karlovci, Južno-bački okrug"
+  },
+  {
+   "slug": "zivkovic",
+   "imya": "Živković",
+   "mesto": "Aleksandrovac, Rasinski okrug"
+  },
+  {
+   "slug": "zmajevac",
+   "imya": "Zmajevac",
+   "mesto": "Lipovac, Šumadijski okrug"
+  },
+  {
+   "slug": "zorca",
+   "imya": "Zorča",
+   "mesto": "Lazarevac, Beogradski okrug"
+  },
+  {
+   "slug": "zvonko-bogdan",
+   "imya": "Zvonko Bogdan",
+   "mesto": "Palić, Severno-bački okrug"
+  }
+ ]
+}

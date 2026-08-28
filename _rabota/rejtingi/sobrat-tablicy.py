@@ -161,6 +161,24 @@ SLUZHEBNYE = ("vinarija", "vinarija-", "podrum", "podrumi", "vinogradi",
               "vinarija-vinarija", "estate", "manastir", "monastery")
 
 
+# Имена, сведённые руками и с доказательством, — `sinonimy-hozyaistv.json`.
+# Похожесть имён доказательством не считается: Jovanović и Jovanov,
+# Madžić и Adžić, Stojković и Stojanović — разные хозяйства.
+def _sinonimy():
+    """Варианты имени → каноническое. Сводится по ключу, а не по строке.
+
+    По строке не годится: у источников есть и «Šapat», и «Sapat» без
+    диакритики, и перечислять оба в списке синонимов — заведомо не
+    перечислить все. Ключ их и так уравнивает, поэтому свожу ключи.
+    """
+    put_f = os.path.join(RYADOM, "sinonimy-hozyaistv.json")
+    if not os.path.exists(put_f):
+        return {}
+    d = json.load(open(put_f, encoding="utf-8"))["hozyaistva"]
+    return {_bazovyj_klyuch(v): _bazovyj_klyuch(imya)
+            for imya, z in d.items() for v in z["varianty"]}
+
+
 def bez_skobok(imya):
     """«Винарија Тришић (Vinarija Trišić)» — это «Vinarija Trišić».
 
@@ -182,11 +200,19 @@ def bez_skobok(imya):
     return v_skobkah
 
 
-def klyuch_hozyaistva(imya):
-    """Ключ хозяйства: без служебных слов, регистра и диакритики."""
+def _bazovyj_klyuch(imya):
     k = klyuch(bez_skobok(imya))
     chasti = [c for c in k.split("-") if c and c not in SLUZHEBNYE]
     return "-".join(chasti) or k
+
+
+SINONIMY = {}
+
+
+def klyuch_hozyaistva(imya):
+    """Ключ хозяйства: без служебных слов, регистра и диакритики."""
+    k = _bazovyj_klyuch(imya)
+    return SINONIMY.get(k, k)
 
 
 def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
@@ -518,6 +544,9 @@ def main():
             pero.writeheader()
             pero.writerows(tablica)
         print("%-12s %4d строк → %s.jsonl, %s.csv" % (imya, len(tablica), imya, imya))
+
+
+SINONIMY.update(_sinonimy())
 
 
 if __name__ == "__main__":

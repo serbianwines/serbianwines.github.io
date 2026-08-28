@@ -22,6 +22,7 @@
 | `rejon` | рејон по действующей рејонизацији, один из 22. Справочник — `rejony-vinogorja.json` |
 | `vinogorje` | виногорје, одно из 77. Всегда принадлежит своему рејону |
 | `rejon_istochnik` | откуда рејон: `mesto` — по городу хозяйства, это старше всего; `decanter`, `vivino`, `vinarijesrbije`, `falstaff` (через `+`, если сошлись несколько); `bolshinstvo` — источники разошлись, взято подавляющее; `ne_ustanovlen` |
+| `region` без `rejon` | место известно грубо: Vivino дал имя старой рејонизације. Регион верен, рејон — один из перечисленных в `rejon_raznoglasie` |
 | `rejon_raznoglasie` | если источники разошлись — что именно каждый говорил. Пусто, когда спора не было |
 | `raion_knigi` | код главы книги: `fruska`, `subotica`, `banat`, `sumadija`, `morave`, `negotin`, `toplica`, `jugoistok`, `podunavlje`, `metohija`. `null` — район не установлен |
 | `raion_istochnik` | откуда район: `kniga` — так решила книга; `raspolozhenie` — по расположению винодельни; `ne_ustanovlen` |

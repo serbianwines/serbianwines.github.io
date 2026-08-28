@@ -112,6 +112,39 @@ DECANTER_PARA = {
     (None, None): (None, None),
 }
 
+# Имя старой рејонизације рејона не даёт, но регион даёт, а иногда и
+# короткий список, в котором рејон точно есть. Это не «не знаем ничего»:
+# «Šumadija-Great Morava» — четыре рејона из двадцати двух, и записать
+# их в поле расхождения полезнее, чем оставить пустоту.
+#
+# «Central Serbia» и «Wine of Serbia» сюда не входят: у первого слаг
+# `serbia`, то есть это вся страна, а не регион Централна Србија.
+VIVINO_REGION = {
+    "Srem": "Vojvodina", "Fruška Gora": "Vojvodina", "Bačka": "Vojvodina",
+    "Potisje": "Vojvodina", "Banat": "Vojvodina", "Vojvodina": "Vojvodina",
+    "Subotica-Horgos": "Vojvodina",
+    "Šumadija-Great Morava": "Centralna Srbija", "Tri Morave": "Centralna Srbija",
+    "West Morava": "Centralna Srbija", "Morava": "Centralna Srbija",
+    "Negotinska Krajina": "Centralna Srbija", "Timočka Krajina": "Centralna Srbija",
+    "Toplica": "Centralna Srbija", "Knjaževac": "Centralna Srbija",
+    "Niš": "Centralna Srbija", "Nisava-South Morava": "Centralna Srbija",
+    "Leskovac": "Centralna Srbija", "Vranje": "Centralna Srbija",
+    "Pirot": "Centralna Srbija", "Pocerina": "Centralna Srbija",
+    "Čačak-Kraljevo": "Centralna Srbija",
+    "Metohija": "Kosovo i Metohija",
+}
+
+KANDIDATY_REJONA = {
+    "Banat": ["Banatski rejon", "Južnobanatski rejon"],
+    "Timočka Krajina": ["Rejon Negotinska Krajina", "Knjaževački rejon"],
+    "Nisava-South Morava": ["Niški rejon", "Nišavski rejon", "Leskovački rejon",
+                            "Vranjski rejon", "Toplički rejon"],
+    "Šumadija-Great Morava": ["Šumadijski rejon", "Beogradski rejon",
+                              "Mlavski rejon", "Rejon Tri Morave"],
+    "West Morava": ["Čačansko–kraljevački rejon", "Rejon Tri Morave"],
+    "Metohija": ["Severnometohijski rejon", "Južnometohijski rejon"],
+}
+
 FALSTAFF_REJON = {
     "Суботица-Хоргош": "Subotički rejon",
     "Шумадия-Велика Морава": None,   # тот же старый большой рејон
@@ -181,6 +214,24 @@ SLUZHEBNYE = ("vinarija", "podrum", "podrumi", "vinogradi", "vinska-kuca",
               "monastery")
 
 
+# Имена, сведённые руками и с доказательством, — `sinonimy-hozyaistv.json`.
+# Похожесть имён доказательством не считается: Jovanović и Jovanov,
+# Madžić и Adžić, Stojković и Stojanović — разные хозяйства.
+def _sinonimy():
+    """Варианты имени → каноническое. Сводится по ключу, а не по строке.
+
+    По строке не годится: у источников есть и «Šapat», и «Sapat» без
+    диакритики, и перечислять оба в списке синонимов — заведомо не
+    перечислить все. Ключ их и так уравнивает, поэтому свожу ключи.
+    """
+    put_f = os.path.join(RYADOM, "sinonimy-hozyaistv.json")
+    if not os.path.exists(put_f):
+        return {}
+    d = json.load(open(put_f, encoding="utf-8"))["hozyaistva"]
+    return {_bazovyj_klyuch(v): _bazovyj_klyuch(imya)
+            for imya, z in d.items() for v in z["varianty"]}
+
+
 def bez_skobok(imya):
     """«Винарија Тришић (Vinarija Trišić)» — это «Vinarija Trišić».
 
@@ -197,6 +248,9 @@ def bez_skobok(imya):
     return v_skobkah
 
 
+SINONIMY = {}
+
+
 def klyuch_hozyaistva(imya):
     """Ключ хозяйства — ровно тот же, что в `sobrat-tablicy.py`.
 
@@ -204,6 +258,10 @@ def klyuch_hozyaistva(imya):
     через скобки: ключи обязаны совпадать с остальными таблицами, иначе
     рејон не с чем будет связать.
     """
+    return SINONIMY.get(_bazovyj_klyuch(imya), _bazovyj_klyuch(imya))
+
+
+def _bazovyj_klyuch(imya):
     k = prostoj_klyuch(bez_skobok(imya))
     chasti = [c for c in k.split("-") if c and c not in SLUZHEBNYE]
     return "-".join(chasti) or k
@@ -211,28 +269,57 @@ def klyuch_hozyaistva(imya):
 
 # ---------------------------------------------------------------- справочник
 def spravochnik():
+    """Справочник и четыре карты мест, по убыванию достоверности.
+
+    Уровни разделены нарочно. «Aleksandrovac» — это и община Рејона Три
+    Мораве, и кадастровое село ещё в четырёх виногорјима по всей стране.
+    Пока обе карты были свалены в одну, девять жупских винарий оставались
+    без рејона: имя выглядело неоднозначным. Община — административная
+    единица, и когда справочник пишет город, он имеет в виду её.
+    """
     d = json.load(open(put("rejony-vinogorja.json"), encoding="utf-8"))
     po_rejonu = {r["rejon"]: r for r in d["rejony"]}
     IMYA_REJONA.update({r["kod"]: r["rejon"] for r in d["rejony"]})
-    # город → рејон и город → виногорје, для показаний по месту
-    gorod_rejon, gorod_vinogorje = {}, {}
+
+    karty = {"vinogorje": {}, "opstina": {}, "selo": {}, "okrug": {},
+             "spravochnik": {}}
     for r in d["rejony"]:
         for o in r["opstine"]:
-            gorod_rejon.setdefault(klyuch_mesta(o), set()).add(r["rejon"])
+            karty["opstina"].setdefault(klyuch_mesta(o), set()).add(
+                (r["rejon"], None))
         for v in r["vinogorja"]:
+            karty["vinogorje"].setdefault(klyuch_mesta(v["vinogorje"]),
+                                          set()).add((r["rejon"], v["vinogorje"]))
             for o in v["katastarske_opstine"]:
-                gorod_vinogorje.setdefault(klyuch_mesta(o), set()).add(
+                karty["selo"].setdefault(klyuch_mesta(o), set()).add(
                     (r["rejon"], v["vinogorje"]))
-    # Справочник vinarijesrbije знает ещё сотню мест, которых нет в списке
-    # общин: сёла и части городов. Рејон по ним ставится так же.
+    # Округ — самый крупный уровень. Он выводится не по выборке, а по
+    # официальным спискам: община → округ, община → рејон, значит округ →
+    # рејоны. Годится только тот округ, который целиком лежит в одном
+    # рејоне: Зајечарски, например, делится между Књажевачким и Нишким,
+    # и по нему ставить нечего.
+    if os.path.exists(put("opstina-okrug.json")):
+        pары = json.load(open(put("opstina-okrug.json"), encoding="utf-8"))["opstiny"]
+        okrug_opstiny = {klyuch_mesta(o): ok for o, ok in pары.items()}
+        okrug_rejony = {}
+        for r in d["rejony"]:
+            for o in r["opstine"]:
+                ok = okrug_opstiny.get(klyuch_mesta(o))
+                if ok:
+                    okrug_rejony.setdefault(ok, set()).add(r["rejon"])
+        for ok, rejony in okrug_rejony.items():
+            if len(rejony) == 1:
+                karty["okrug"].setdefault(klyuch_mesta(ok + " okrug"),
+                                          set()).add((next(iter(rejony)), None))
+
     if os.path.exists(put("vinarijesrbije-mesta.json")):
         vs = json.load(open(put("vinarijesrbije-mesta.json"), encoding="utf-8"))
         for g in vs["goroda"]:
             kod = SLUG_REJONA.get(g["rejon_slug"], g["rejon_slug"])
             if IMYA_REJONA.get(kod):
-                gorod_rejon.setdefault(klyuch_mesta(g["gorod"]), set()).add(
-                    IMYA_REJONA[kod])
-    return d, po_rejonu, gorod_rejon, gorod_vinogorje
+                karty["spravochnik"].setdefault(klyuch_mesta(g["gorod"]),
+                                                set()).add((IMYA_REJONA[kod], None))
+    return d, po_rejonu, karty
 
 
 # ---------------------------------------------------------------- показания
@@ -263,7 +350,9 @@ def pokazaniya():
                 continue
             p[klyuch_hozyaistva(w["hozyaistvo"])].append({
                 "istochnik": "vivino", "syroe": syroe,
-                "rejon": VIVINO_REJON.get(syroe), "vinogorje": None})
+                "rejon": VIVINO_REJON.get(syroe), "vinogorje": None,
+                "region": VIVINO_REGION.get(syroe),
+                "kandidaty": KANDIDATY_REJONA.get(syroe)})
 
     for s in open(put("kritiki-zapisi.jsonl"), encoding="utf-8"):
         if not s.strip():
@@ -275,6 +364,17 @@ def pokazaniya():
         p[klyuch_hozyaistva(z["hozyaistvo"])].append({
             "istochnik": "falstaff", "syroe": oblast,
             "rejon": FALSTAFF_REJON.get(oblast), "vinogorje": None})
+
+    # ivv.rs рејона не называет вовсе — только место. Зато место у него
+    # есть у всех 142 хозяйств, и часто с округом: «Aleksandrovac,
+    # Rasinski okrug». Рејон из него выводится картой мест.
+    if os.path.exists(put("ivv-mesta.json")):
+        for v in json.load(open(put("ivv-mesta.json"), encoding="utf-8"))["vinarii"]:
+            if not v.get("mesto"):
+                continue
+            p[klyuch_hozyaistva(v["imya"])].append({
+                "istochnik": "ivv", "syroe": v["mesto"],
+                "rejon": None, "vinogorje": None, "gorod": v["mesto"]})
 
     if os.path.exists(put("vinarijesrbije-mesta.json")):
         d = json.load(open(put("vinarijesrbije-mesta.json"), encoding="utf-8"))
@@ -294,46 +394,69 @@ def pokazaniya():
     return p
 
 
-def po_mestu(gde, gorod_rejon, gorod_vinogorje):
-    """Рејон и виногорје по городу хозяйства, если он назван однозначно.
+UROVNI = ("vinogorje", "opstina", "selo", "okrug", "spravochnik")
 
-    В карте книги в этом поле не только город: «Вршац. Внимание: …»,
-    «Земун; фрушкогорские этикетки, но…». Берём то, что стоит до первого
-    знака препинания, — дальше идёт замечание, а не место.
+
+def kandidaty(gde):
+    """Куски поля места, от целого к частям.
+
+    В поле пишут по-разному: «Vinča, Topola - Oplenac», «Grošnica,
+    Kragujevac», «Гроцка под Белградом», «Вршац. Внимание: …». Поэтому
+    сначала отсекается замечание после точки с запятой, потом поле
+    делится по запятым и тире, и каждая часть ещё укорачивается с конца
+    по слову — так «Гроцка под Белградом» находится как «Гроцка».
+    """
+    gde = re.split(r"[;(]", gde)[0]
+    gde = re.sub(r"\.\s+[А-ЯA-Z].*$", "", gde)      # «Вршац. Внимание: …»
+    chasti = [c.strip(" .-") for c in re.split(r"[,–—]|\s-\s", gde)]
+    out = []
+    for c in chasti:
+        if not c:
+            continue
+        slova = c.split()
+        for skolko in range(len(slova), 0, -1):
+            out.append(" ".join(slova[:skolko]))
+    return out
+
+
+def po_mestu(gde, karty):
+    """Рејон и виногорје по месту хозяйства.
+
+    Сначала собираются все попадания, потом берётся самое достоверное:
+    названное виногорје старше общины, община старше кадастрового села,
+    село старше чужого справочника. Если на одном уровне два разных
+    ответа — место считается неразобранным: угадывать тут нельзя.
     """
     if not gde:
         return None, None, ""
-    gde = re.split(r"[,;.(]", gde)[0].strip()
-    if not gde:
-        return None, None, ""
-    # В поле не только место: «Гроцка под Белградом», «Малча под Нишем».
-    # Пробуем целиком, потом отбрасываем по слову с конца — так «Нови
-    # Сланкамен» находится целиком, а «Гроцка под Белградом» находится
-    # как «Гроцка», не превращаясь по дороге в «Нови».
-    slova = gde.split()
-    for skolko in range(len(slova), 0, -1):
-        chast = " ".join(slova[:skolko])
-        k = klyuch_mesta(chast)
-        r = gorod_rejon.get(k, set())
-        v = gorod_vinogorje.get(k, set())
-        # Сперва рејон по списку общин, и только потом виногорје внутри
-        # него. Имена мест по стране повторяются: «Topola» — и община
-        # Шумадијског рејона, и кадастровое село Јагодинског виногорја.
-        # Если искать сразу виногорје, Александровић уезжает из Шумадије.
-        if len(r) == 1:
-            rejon = next(iter(r))
-            svoi = {vg for rj, vg in v if rj == rejon}
-            return rejon, (next(iter(svoi)) if len(svoi) == 1 else None), chast
-        if len(v) == 1:
-            # Общины рејон не назвали, но виногорје на всю страну одно —
-            # так находится Крњево, которое общиной не является.
-            rejon, vinogorje = next(iter(v))
-            return rejon, vinogorje, chast
+    kusky = kandidaty(gde)
+
+    def popadaniya(uroven):
+        out = []
+        for kus in kusky:
+            for para in karty[uroven].get(klyuch_mesta(kus), ()):
+                out.append((para, kus))
+        return out
+
+    for uroven in UROVNI:
+        nashlos = popadaniya(uroven)
+        rejony = {p[0] for p, _ in nashlos}
+        if len(rejony) != 1:
+            continue
+        rejon = rejony.pop()
+        # Рејон найден. Виногорје ищется отдельно и уже внутри него:
+        # уровень общины виногорја не знает вовсе, а село знает — так
+        # «Vinča, Topola - Oplenac» даёт и Шумадијски, и Опленачко.
+        vinogorja = {vg for u in ("vinogorje", "selo")
+                     for (rj, vg), _ in popadaniya(u) if rj == rejon and vg}
+        return (rejon,
+                vinogorja.pop() if len(vinogorja) == 1 else None,
+                nashlos[0][1])
     return None, None, ""
 
 
 def main():
-    d, po_rejonu, gorod_rejon, gorod_vinogorje = spravochnik()
+    d, po_rejonu, karty = spravochnik()
     karta = json.load(open(put("raion-hozyaistv.json"), encoding="utf-8"))["hozyaistva"]
     gde_po_klyuchu = {klyuch_hozyaistva(k): v.get("gde", "")
                       for k, v in karta.items()}
@@ -354,11 +477,29 @@ def main():
         istochnik = "ne_ustanovlen"
         # Город: сперва из книги, иначе из справочника винарий. Он нужен
         # не только ради рејона — по нему же находится и виногорје.
-        gde = gde_po_klyuchu.get(k, "") or next(
-            (x["gorod"] for x in pok if x.get("gorod")), "")
-        m_rejon, m_vinogorje, m_gde = po_mestu(gde, gorod_rejon, gorod_vinogorje)
+        # Города, названные хоть кем-то. Их может быть несколько, и они
+        # могут спорить: у Urošević ivv.rs пишет Баноштор на Фрушкој
+        # гори, а vinarijesrbije — Књажевац, это разные концы страны.
+        # Такой спор место не решает — оно и есть предмет спора.
+        goroda = [gde_po_klyuchu.get(k, "")] + [x["gorod"] for x in pok
+                                                if x.get("gorod")]
+        goroda = [g for g in goroda if g]
+        razobrano = [(g,) + po_mestu(g, karty)[:2] for g in goroda]
+        razobrano = [(g, r, v) for g, r, v in razobrano if r]
+        raznye = {r for _, r, _ in razobrano}
 
         raznoglasie = ""
+        if len(raznye) > 1:
+            gde = gde_po_klyuchu.get(k, "")
+            m_rejon = m_vinogorje = None
+            raznoglasie = "города спорят: " + "; ".join(
+                "%s → %s" % (g, r) for g, r, _ in razobrano)
+            spor.append((k, {}, None, None))
+        else:
+            gde = razobrano[0][0] if razobrano else (
+                gde_po_klyuchu.get(k, "")
+                or next((x["gorod"] for x in pok if x.get("gorod")), ""))
+            m_rejon, m_vinogorje, _ = po_mestu(gde, karty)
         # Место — старше всего. Справочник винарий пишет Vino Budimir
         # в Сремски рејон, а адресом даёт Александровац, то есть Жупу:
         # ярлык у них ошибочный, адрес — нет. Поэтому если город найден
@@ -379,7 +520,8 @@ def main():
                 # Одиночная запись против восьмидесяти — это опечатка
                 # у источника, а не второе место работы хозяйства.
                 rejon, istochnik = pervyj, "bolshinstvo"
-            raznoglasie = "; ".join("%s ×%d" % (r, n) for r, n in rejony.most_common())
+            raznoglasie = "; ".join(x for x in (raznoglasie,
+                "; ".join("%s ×%d" % (r, n) for r, n in rejony.most_common())) if x)
             spor.append((k, dict(rejony), m_rejon, rejon))
 
         # Виногорје — тем же порядком: место старше ярлыка источника.
@@ -408,9 +550,22 @@ def main():
         elif vinogorje and not rejon:
             vinogorje = None
 
+        # Рејона может не быть, а регион при этом известен: «Banat» —
+        # это точно Војводина, пусть и неясно, Банатски или Јужнобанатски.
+        # Тогда же записываются кандидаты — короткий список, в котором
+        # рејон точно есть. Пустое поле и «один из четырёх» — не одно и то же.
+        region = po_rejonu.get(rejon, {}).get("region")
+        if not rejon:
+            regiony = {x["region"] for x in pok if x.get("region")}
+            if len(regiony) == 1:
+                region = regiony.pop()
+            kand = sorted({r for x in pok for r in (x.get("kandidaty") or [])})
+            if kand and not raznoglasie:
+                raznoglasie = "рејон один из: " + "; ".join(kand)
+
         itog[k] = {
             "hozyaistvo": imya_po_klyuchu.get(k, k),
-            "region": po_rejonu.get(rejon, {}).get("region"),
+            "region": region,
             "rejon": rejon,
             "vinogorje": vinogorje,
             "istochnik": istochnik if rejon else "ne_ustanovlen",
@@ -442,6 +597,9 @@ def main():
         for k, r, m, vzyato in spor:
             print("   %-24s %-46s место: %-16s взято: %s"
                   % (k, r, m or "—", vzyato or "— (не поставлен)"))
+
+
+SINONIMY.update(_sinonimy())
 
 
 if __name__ == "__main__":

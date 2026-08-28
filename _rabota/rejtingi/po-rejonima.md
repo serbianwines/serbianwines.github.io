@@ -55,28 +55,28 @@ Morava» — пять рејонов сразу. По таким именам р
 
 | Регион | Рејон | Хозяйств | Оценок Vivino | Оценок критиков | Наград |
 |---|---|---|---|---|---|
-| Vojvodina | Rejon Bačka | 8 | 12 | 0 | 1 |
-| Vojvodina | Banatski rejon | 4 | 6 | 7 | 7 |
-| Centralna Srbija | Beogradski rejon | 8 | 29 | 24 | 26 |
+| Vojvodina | Rejon Bačka | 7 | 5 | 0 | 1 |
+| Vojvodina | Banatski rejon | 3 | 1 | 7 | 7 |
+| Centralna Srbija | Beogradski rejon | 12 | 32 | 24 | 26 |
 | Centralna Srbija | Čačansko–kraljevački rejon | 2 | 1 | 1 | 1 |
-| Vojvodina | Južnobanatski rejon | 6 | 17 | 13 | 13 |
+| Vojvodina | Južnobanatski rejon | 8 | 23 | 13 | 13 |
 | Kosovo i Metohija | Južnometohijski rejon | 1 | 0 | 0 | 0 |
 | Centralna Srbija | Knjaževački rejon | 4 | 20 | 4 | 5 |
 | Centralna Srbija | Leskovački rejon | 4 | 3 | 0 | 0 |
 | Centralna Srbija | Mlavski rejon | 3 | 14 | 46 | 44 |
 | Centralna Srbija | Nišavski rejon | 1 | 2 | 1 | 1 |
 | Centralna Srbija | Niški rejon | 3 | 10 | 0 | 0 |
-| Centralna Srbija | Pocersko Valjevski Rejon | 3 | 21 | 4 | 4 |
-| Vojvodina | Potiski rejon | 2 | 19 | 0 | 0 |
+| Centralna Srbija | Pocersko Valjevski Rejon | 5 | 24 | 9 | 9 |
+| Vojvodina | Potiski rejon | 3 | 19 | 0 | 0 |
 | Centralna Srbija | Rejon Negotinska Krajina | 17 | 52 | 79 | 59 |
 | Vojvodina | Rejon Telečka | 1 | 2 | 0 | 0 |
-| Centralna Srbija | Rejon Tri Morave | 36 | 157 | 149 | 140 |
-| Vojvodina | Sremski rejon | 82 | 304 | 270 | 270 |
+| Centralna Srbija | Rejon Tri Morave | 46 | 181 | 145 | 137 |
+| Vojvodina | Sremski rejon | 86 | 310 | 269 | 269 |
 | Vojvodina | Subotički rejon | 14 | 90 | 116 | 96 |
-| Centralna Srbija | Šumadijski rejon | 15 | 137 | 166 | 120 |
+| Centralna Srbija | Šumadijski rejon | 23 | 164 | 172 | 128 |
 | Centralna Srbija | Toplički rejon | 4 | 22 | 33 | 25 |
 | Centralna Srbija | Vranjski rejon | 2 | 16 | 39 | 40 |
-| — | **рејон не установлен** | 254 | 255 | 45 | 57 |
+| — | **рејон не установлен** | 223 | 195 | 39 | 48 |
 
 **Рејоны, из которых не собралось ни одного хозяйства:** Severnometohijski rejon.
 
@@ -90,8 +90,8 @@ Morava» — пять рејонов сразу. По таким именам р
 | Фрушка гора | Sremski rejon — 20; не установлен — 2 |
 | Суботичко-Хоргошская пешчара | Subotički rejon — 4 |
 | Банат | Južnobanatski rejon — 1; Potiski rejon — 1; не установлен — 1 |
-| Шумадия | Šumadijski rejon — 6; не установлен — 1; Rejon Tri Morave — 1 |
-| Три Моравы и Жупа | Rejon Tri Morave — 9; не установлен — 2; Sremski rejon — 1 |
+| Шумадия | Šumadijski rejon — 7; Rejon Tri Morave — 1 |
+| Три Моравы и Жупа | Rejon Tri Morave — 11; Šumadijski rejon — 1 |
 | Неготинска Крайина | Rejon Negotinska Krajina — 3 |
 | Топлица | Toplički rejon — 2 |
 | Юго-восток | Knjaževački rejon — 2; Vranjski rejon — 1; Niški rejon — 1 |
@@ -100,14 +100,14 @@ Morava» — пять рејонов сразу. По таким именам р
 
 **Рејоны, где хозяйства есть, а в книге их нет:**
 
-- **Rejon Bačka** (Vojvodina) — 117 Wine, Dimalis, Fekete, Sila, Tri Međe I Oblak, Vinarija Baza, Vinarija Mrđanin, Vindulo
-- **Banatski rejon** (Vojvodina) — Galot, Salaš Gnezdo Doo Bečej, Vinarija Sočanski, Драгић Винарија (Vina Dragic)
+- **Rejon Bačka** (Vojvodina) — 117 Wine, Dimalis, Fekete, Sila, Tri Međe I Oblak, Vinarija Baza, Vindulo
+- **Banatski rejon** (Vojvodina) — Salaš Gnezdo Doo Bečej, Vinarija Sočanski, Драгић Винарија (Vina Dragic)
 - **Čačansko–kraljevački rejon** (Centralna Srbija) — Vinarija Tomić - Rošci, Винарија Ступови (Vinarija Stupovi)
 - **Južnometohijski rejon** (Kosovo i Metohija) — Podrum Lukic
 - **Leskovački rejon** (Centralna Srbija) — Prima, Vinarija Aquila, Козарак, Митровиђ Винарија
 - **Mlavski rejon** (Centralna Srbija) — Pruna, Virtus, Virtus W
 - **Nišavski rejon** (Centralna Srbija) — Vinarija Savic
-- **Pocersko Valjevski Rejon** (Centralna Srbija) — Andrića Vinograd, Milijan Jelić, Pusula
+- **Pocersko Valjevski Rejon** (Centralna Srbija) — Andrića Vinograd, Karić Vinarija, Milijan Jelić, Pusula, Vinarija Đurđevića Legat
 - **Rejon Telečka** (Vojvodina) — Milisavljević
 
 ## Хозяйства по рејонима
@@ -123,14 +123,12 @@ Morava» — пять рејонов сразу. По таким именам р
 | Sila | — | vivino | — |
 | Tri Međe I Oblak | — | vivino | — |
 | Vinarija Baza | — | vivino | — |
-| Vinarija Mrđanin | — | vivino | — |
-| Vindulo | — | vinarijesrbije+vivino | — |
+| Vindulo | — | mesto | — |
 
 ### Banatski rejon — Vojvodina
 
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
-| Galot | — | mesto | — |
 | Salaš Gnezdo Doo Bečej | — | decanter | — |
 | Vinarija Sočanski | — | vinarijesrbije | — |
 | Драгић Винарија (Vina Dragic) | — | decanter | — |
@@ -139,11 +137,15 @@ Morava» — пять рејонов сразу. По таким именам р
 
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
+| Janovi Vinogradi | Avalsko-kosmajsko vinogorje | mesto | — |
 | Plavinci | Gročansko vinogorje | mesto | — |
 | Podrum Janko | Smederevsko vinogorje | mesto | — |
-| Vinarija Jeremic | — | decanter+vinarijesrbije | — |
+| Vinarija Jeremic | Smederevsko vinogorje | mesto | — |
 | Vinarija Milićević | Avalsko-kosmajsko vinogorje | mesto | — |
 | Vinarija Milojević | Lazarevačko vinogorje | mesto | — |
+| Vinarija Panjković | Smederevsko vinogorje | mesto | — |
+| Vinarija Pantić | — | mesto | — |
+| Vinarija Vojinović | — | mesto | — |
 | Vinarija Zorča | Lazarevačko vinogorje | mesto | — |
 | Винарија Тришић (Vinarija Trišić) | Avalsko-kosmajsko vinogorje | mesto | — |
 | Виногради Гроцка (Vinogradi Grocka) | Gročansko vinogorje | mesto | Подунавье и Белградский район |
@@ -160,11 +162,13 @@ Morava» — пять рејонов сразу. По таким именам р
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
 | Drašković | Vršačko vinogorje | mesto | Банат |
+| Galot | Vinogorje Deliblatske peščare | mesto | — |
 | Rnjak | Vršačko vinogorje | mesto | — |
 | Vinarija Aleksandar | — | vinarijesrbije | — |
 | Vinarija Nedin | Vršačko vinogorje | mesto | — |
 | Vinarija Rajić | — | decanter | — |
-| Vinik | — | vinarijesrbije | — |
+| Vinarija Selecta | Vršačko vinogorje | mesto | — |
+| Vinik | Vršačko vinogorje | mesto | — |
 
 ### Južnometohijski rejon — Kosovo i Metohija
 
@@ -176,7 +180,7 @@ Morava» — пять рејонов сразу. По таким именам р
 
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
-| Dzervin | — | vivino | Юго-восток |
+| Dzervin | Potrkanjsko vinogorje | mesto | Юго-восток |
 | Jović | Potrkanjsko vinogorje | mesto | Юго-восток |
 | Podrum Džervin 1927 | — | decanter | — |
 | Vinarija Todorović | — | bolshinstvo | — |
@@ -195,7 +199,7 @@ Morava» — пять рејонов сразу. По таким именам р
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
 | Pruna | — | mesto | — |
-| Virtus | — | bolshinstvo | — |
+| Virtus | Požarevačko vinogorje | mesto | — |
 | Virtus W | — | decanter | — |
 
 ### Nišavski rejon — Centralna Srbija
@@ -209,7 +213,7 @@ Morava» — пять рејонов сразу. По таким именам р
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
 | Podrum Malča | Čegarsko vinogorje | mesto | Юго-восток |
-| Vinarija 100 Žena | Čegarsko vinogorje | mesto | — |
+| Vinarija 100 Žena | — | vinarijesrbije+vivino | — |
 | Виница Грковић (Vinica Grković) | — | vivino | — |
 
 ### Pocersko Valjevski Rejon — Centralna Srbija
@@ -217,13 +221,16 @@ Morava» — пять рејонов сразу. По таким именам р
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
 | Andrića Vinograd | — | vivino | — |
-| Milijan Jelić | — | vinarijesrbije+vivino | — |
+| Karić Vinarija | Pocersko vinogorje | mesto | — |
+| Milijan Jelić | Podgorsko vinogorje | mesto | — |
 | Pusula | Podgorsko vinogorje | mesto | — |
+| Vinarija Đurđevića Legat | Podgorsko vinogorje | mesto | — |
 
 ### Potiski rejon — Vojvodina
 
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
+| Dukay | Severnopotisko vinogorje | mesto | — |
 | Vinarija Coka | Severnopotisko vinogorje | mesto | Банат |
 | Vinartos Vinarija | — | vivino | — |
 
@@ -235,18 +242,18 @@ Morava» — пять рејонов сразу. По таким именам р
 | Francuska Vinarija - Estelle et Cyrille Bongiraud | — | vivino | — |
 | Manastir Bukovo | — | decanter | Неготинска Крайина |
 | Manastira Bukovo | — | decanter | — |
-| Matalj | Negotinsko vinogorje | mesto | Неготинска Крайина |
+| Matalj | — | mesto | Неготинска Крайина |
 | Matalj Vainarija | — | decanter | — |
 | Tenuta Est Winery | — | vivino | — |
 | Traško Vinarija | — | decanter+vivino | — |
-| Vinarija Frunza Aglaja | — | decanter | — |
+| Vinarija Frunza Aglaja | Negotinsko vinogorje | mesto | — |
 | Vinarija Gamanović | — | decanter+vivino | — |
 | Vinarija Janucic | — | decanter+vivino | — |
 | Vinarija Novak (Новак) | — | vivino | — |
 | Vinarija Porta | — | vivino | — |
 | Vinarija Raj | Negotinsko vinogorje | mesto | Неготинска Крайина |
 | Vinarija Timahus | — | vivino | — |
-| ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery) | — | decanter+vivino | — |
+| ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery) | Negotinsko vinogorje | mesto | — |
 | Винарија Манастира Буково | — | vivino | — |
 
 ### Rejon Telečka — Vojvodina
@@ -259,42 +266,52 @@ Morava» — пять рејонов сразу. По таким именам р
 
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
-| Adora | Jagodinsko vinogorje | decanter | — |
+| Adora | Jagodinsko vinogorje | mesto | — |
 | Aleksandar Todorović | — | vivino | — |
 | Bacina Vino | Kruševačko vinogorje | decanter | — |
-| Botunjac | — | vivino | — |
-| Cilić | — | vivino | Три Моравы и Жупа |
+| Botunjac | Župsko vinogorje | mesto | — |
+| Braca Rajkovic | Župsko vinogorje | mesto | — |
+| Budimir | Župsko vinogorje | mesto | Три Моравы и Жупа |
 | Cvetković Vinarija | — | mesto | — |
 | Grabak | Kruševačko vinogorje | decanter | — |
-| Ivanović | Kruševačko vinogorje | decanter+vinarijesrbije+vivino | Три Моравы и Жупа |
+| Ivanović | Župsko vinogorje | mesto | Три Моравы и Жупа |
 | Marko | Trsteničko vinogorje | mesto | Шумадия |
 | Milan Nikolić | Jagodinsko vinogorje | decanter | — |
+| Milanov Podrum | Župsko vinogorje | mesto | — |
 | Pet Hrastova | — | mesto | — |
-| Podrum Bačina | Kruševačko vinogorje | decanter | — |
-| Podrum Pevac | Jagodinsko vinogorje | decanter | — |
+| Podrum Bačina | Kruševačko vinogorje | mesto | — |
+| Podrum Tošići | Župsko vinogorje | mesto | — |
 | Radovan | — | vinarijesrbije | — |
 | Ralević | — | mesto | Три Моравы и Жупа |
 | Rubin | Kruševačko vinogorje | mesto | Три Моравы и Жупа |
-| Stemina | Kruševačko vinogorje | decanter+vivino | — |
-| Temet | Jagodinsko vinogorje | decanter+vivino | Три Моравы и Жупа |
+| Spasić | Župsko vinogorje | mesto | Три Моравы и Жупа |
+| Stemina | Kruševačko vinogorje | mesto | — |
+| Temet | Jagodinsko vinogorje | mesto | Три Моравы и Жупа |
 | Varina | — | vivino | — |
 | Vert | — | vivino | — |
+| Vertiz | Levačko vinogorje | mesto | — |
 | Vila Vina | — | vivino | — |
 | Vinarija Bora | — | vivino | — |
 | Vinarija Fragaria | Župsko vinogorje | mesto | — |
 | Vinarija Jovac | Jagodinsko vinogorje | decanter+vivino | Три Моравы и Жупа |
-| Vinarija Lastar | Jagodinsko vinogorje | decanter | — |
+| Vinarija Lastar | Levačko vinogorje | mesto | — |
 | Vinarija Manastira Studenica | Kruševačko vinogorje | decanter | — |
 | Vinarija Mozaik Milan | — | vivino | — |
-| Vinarija Smiljković 90 | — | vivino | — |
+| Vinarija Smiljković 90 | Župsko vinogorje | mesto | — |
 | Vinarija Venčac | Jagodinsko vinogorje | decanter | — |
 | Vinarija Vinis | Jagodinsko vinogorje | decanter | — |
-| Vino Budimir | — | vivino | — |
+| Vinarija Ćosić | Župsko vinogorje | mesto | — |
+| Vino Budimir | Župsko vinogorje | mesto | — |
 | Vinska Kuća Milinčić | — | vivino | — |
-| Vujić | — | vinarijesrbije | Три Моравы и Жупа |
+| Vinska Kuća Minića | Župsko vinogorje | mesto | — |
+| Vujić | Župsko vinogorje | mesto | Три Моравы и Жупа |
 | Yotta | — | mesto | Три Моравы и Жупа |
+| Zupa | Župsko vinogorje | mesto | Три Моравы и Жупа |
 | Čokot | Kruševačko vinogorje | decanter | Три Моравы и Жупа |
+| Žarković | Župsko vinogorje | mesto | — |
+| Винарија Живковић (Vinarija Živković) | Župsko vinogorje | mesto | — |
 | Манастир Студеница (Manastir Studenica) | — | vivino | — |
+| Три Планине (Vinarija Tri Planine) | Župsko vinogorje | mesto | — |
 
 ### Sremski rejon — Vojvodina
 
@@ -303,23 +320,23 @@ Morava» — пять рејонов сразу. По таким именам р
 | 45. Paralela | Fruškogorsko vinogorje | mesto | — |
 | Alchemy Winery | Fruškogorsko vinogorje | vivino | — |
 | Art Et Vinum | Fruškogorsko vinogorje | mesto | — |
-| Atelje Vina Šapat | Fruškogorsko vinogorje | vivino | — |
 | Atos-Fructum | Fruškogorsko vinogorje | decanter | — |
+| Ačanski | Fruškogorsko vinogorje | mesto | — |
 | BT Winery | Fruškogorsko vinogorje | decanter | — |
 | Bajilo | Fruškogorsko vinogorje | mesto | — |
-| Belo Brdo | Fruškogorsko vinogorje | decanter+vinarijesrbije+vivino | Фрушка гора |
+| Belo Brdo | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Benišek Veselinović | Fruškogorsko vinogorje | mesto | — |
 | Bikicki | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Bjelica | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Breg | Fruškogorsko vinogorje | mesto | — |
-| Budimir | Fruškogorsko vinogorje | vinarijesrbije | Три Моравы и Жупа |
 | Chardonnay | Fruškogorsko vinogorje | decanter | — |
 | Chichateau | Fruškogorsko vinogorje | mesto | Фрушка гора |
-| Deurić | Fruškogorsko vinogorje | bolshinstvo | Фрушка гора |
+| Deurić | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Do Kraja Sveta | Fruškogorsko vinogorje | vivino | — |
 | Dragojlović Vinarija | Fruškogorsko vinogorje | vivino | — |
+| Dulka | Fruškogorsko vinogorje | mesto | — |
 | Erdevik | Fruškogorsko vinogorje | mesto | Фрушка гора |
-| Fruškogorski | Fruškogorsko vinogorje | decanter | — |
+| Fruškogorski | Fruškogorsko vinogorje | mesto | — |
 | Gora | Fruškogorsko vinogorje | decanter | — |
 | Hadži Popović | Fruškogorsko vinogorje | vivino | — |
 | Imperator Vino | Fruškogorsko vinogorje | vivino | — |
@@ -327,7 +344,7 @@ Morava» — пять рејонов сразу. По таким именам р
 | Kovačević | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Krstašica | Fruškogorsko vinogorje | decanter+vivino | — |
 | Krstašica Doo | Fruškogorsko vinogorje | decanter | — |
-| La Gora | Fruškogorsko vinogorje | decanter+vinarijesrbije+vivino | — |
+| La Gora | Fruškogorsko vinogorje | mesto | — |
 | La Grande Bellezza | Fruškogorsko vinogorje | decanter | — |
 | Mackov Podrum | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Manufaktura Spasić | Fruškogorsko vinogorje | decanter | — |
@@ -338,48 +355,52 @@ Morava» — пять рејонов сразу. По таким именам р
 | Molovin | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Molowinery | Fruškogorsko vinogorje | decanter | — |
 | Nera | Fruškogorsko vinogorje | vivino | — |
-| Patkov Vinograd | Fruškogorsko vinogorje | vivino | — |
+| Patkov Vinograd | Fruškogorsko vinogorje | mesto | — |
 | Petković Latin | Fruškogorsko vinogorje | vivino | — |
+| Podrum Probus | Fruškogorsko vinogorje | mesto | — |
+| Podrum Stojković | Fruškogorsko vinogorje | mesto | — |
 | Probus Vineyards | Fruškogorsko vinogorje | decanter | — |
 | Probus Vineyards CCLXXX | Fruškogorsko vinogorje | decanter | — |
 | Quet | Fruškogorsko vinogorje | decanter | — |
+| Radošević | Fruškogorsko vinogorje | mesto | — |
 | Rittium | Fruškogorsko vinogorje | vivino | — |
 | Salaxia | Fruškogorsko vinogorje | vivino | — |
 | Teodora | Fruškogorsko vinogorje | vivino | — |
 | The Sparkling Winery | Fruškogorsko vinogorje | decanter | — |
-| Tri Medje I Oblak | Fruškogorsko vinogorje | decanter | — |
-| Trivanović | Fruškogorsko vinogorje | decanter+vinarijesrbije+vivino | Фрушка гора |
+| Tri Medje I Oblak | Fruškogorsko vinogorje | mesto | — |
+| Trivanović | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Veritas | Fruškogorsko vinogorje | mesto | — |
 | Veritas Ćuković | Fruškogorsko vinogorje | decanter+vinarijesrbije+vivino | Фрушка гора |
-| Verkat | Fruškogorsko vinogorje | decanter | Фрушка гора |
+| Verkat | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Vinarija Acumincum | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Vinarija Aven | Fruškogorsko vinogorje | bolshinstvo | — |
-| Vinarija Brestovački | Fruškogorsko vinogorje | vivino | — |
+| Vinarija Brestovački | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Burma Fruška Gora | Fruškogorsko vinogorje | vivino | — |
 | Vinarija Dosen | Fruškogorsko vinogorje | mesto | — |
-| Vinarija Dumo | Fruškogorsko vinogorje | decanter | — |
+| Vinarija Dumo | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Frug | Fruškogorsko vinogorje | decanter | — |
 | Vinarija Grumen | Fruškogorsko vinogorje | vivino | — |
-| Vinarija Imperator | Fruškogorsko vinogorje | decanter | — |
+| Vinarija Imperator | Fruškogorsko vinogorje | mesto | — |
+| Vinarija KM | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Komazec | Fruškogorsko vinogorje | decanter+vivino | — |
 | Vinarija Komuna | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Kurjak | Fruškogorsko vinogorje | mesto | — |
 | Vinarija MK Kosović | Fruškogorsko vinogorje | vivino | — |
 | Vinarija Mrdjanin | Fruškogorsko vinogorje | decanter | — |
+| Vinarija Mrđanin | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Podrum Danguba | Fruškogorsko vinogorje | mesto | — |
-| Vinarija Sokolov Zamak | Fruškogorsko vinogorje | decanter | — |
+| Vinarija Sokolov Zamak | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Tanasković | Fruškogorsko vinogorje | vivino | — |
-| Vinarija Đurđić | Fruškogorsko vinogorje | vivino | Фрушка гора |
+| Vinarija Đurđić | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Vinarija Šijački | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Vinarium | Fruškogorsko vinogorje | mesto | — |
-| Vinum | Fruškogorsko vinogorje | decanter+vivino | Фрушка гора |
-| Vinčić | Fruškogorsko vinogorje | bolshinstvo | Фрушка гора |
+| Vinum | Fruškogorsko vinogorje | mesto | Фрушка гора |
+| Vinčić | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Vista Hill Plus | Fruškogorsko vinogorje | decanter | — |
 | Vista Hills Plus | Fruškogorsko vinogorje | decanter | — |
 | Winery Djurdjic | Fruškogorsko vinogorje | decanter | — |
 | Šapat | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Šveljo | Fruškogorsko vinogorje | vinarijesrbije | — |
-| šApat Wine Atelier | Fruškogorsko vinogorje | decanter | — |
 | Živanović | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | ВИНАРИЈА СТОЈАНОВИЋ (Vinarija Stojanović) | Fruškogorsko vinogorje | mesto | — |
 
@@ -394,10 +415,10 @@ Morava» — пять рејонов сразу. По таким именам р
 | Porodična Vinarija Stanimirović | — | vivino | — |
 | Reljić Vinarija | — | decanter | — |
 | The Collective Presents | — | vivino | — |
-| Tonković | — | mesto | Суботичко-Хоргошская пешчара |
+| Tonković | Palićko vinogorje | mesto | Суботичко-Хоргошская пешчара |
 | Vinarija Dragić | Riđičko vinogorje | mesto | — |
 | Vinarija Petra | Palićko vinogorje | mesto | Суботичко-Хоргошская пешчара |
-| Vinarija Salaš Naš | — | vivino | — |
+| Vinarija Salaš Naš | Horgoško vinogorje | mesto | — |
 | Vinarija Zaba | Riđičko vinogorje | decanter | — |
 | Vinski Dvor | — | vivino | — |
 | Zvonko Bogdan | Palićko vinogorje | mesto | Суботичко-Хоргошская пешчара |
@@ -407,20 +428,28 @@ Morava» — пять рејонов сразу. По таким именам р
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
 | Aleksandrović | Oplenačko vinogorje | mesto | Шумадия |
-| Château Prince | Oplenačko vinogorje | decanter | — |
-| Despotika | Oplenačko vinogorje | bolshinstvo | Шумадия |
-| Draganić | — | vinarijesrbije | Шумадия |
+| Arsenijević | — | mesto | Шумадия |
+| Art Wine | — | mesto | — |
+| Château Prince | Oplenačko vinogorje | mesto | — |
+| Cilić | Krnjevačko vinogorje | mesto | Три Моравы и Жупа |
+| Despotika | Krnjevačko vinogorje | mesto | Шумадия |
+| Draganić | Oplenačko vinogorje | mesto | Шумадия |
+| Katanic | Kragujevačko vinogorje | mesto | — |
 | Matijašević | Oplenačko vinogorje | mesto | Шумадия |
 | PIK Oplenac | Oplenačko vinogorje | decanter | — |
-| Podrum Stari Hrast | Oplenačko vinogorje | decanter | — |
+| Podrum Madžić | — | mesto | — |
+| Podrum Pevac | — | mesto | — |
+| Podrum Stari Hrast | Kragujevačko vinogorje | mesto | — |
 | Radovanović | Krnjevačko vinogorje | mesto | Шумадия |
+| Rogan | Oplenačko vinogorje | mesto | — |
 | Tarpoš | Oplenačko vinogorje | mesto | Шумадия |
 | Tref Line | Oplenačko vinogorje | decanter | — |
-| Vinarija DeLena | Oplenačko vinogorje | decanter | — |
+| Vinarija DeLena | Oplenačko vinogorje | mesto | — |
 | Vinarija Eden | Oplenačko vinogorje | mesto | — |
 | Vinarija Žir | Krnjevačko vinogorje | mesto | — |
-| Vinogradi Veličković Vinarija | Oplenačko vinogorje | decanter | — |
-| Zmajevac | Oplenačko vinogorje | decanter | — |
+| Vinogradi Veličković Vinarija | Oplenačko vinogorje | mesto | — |
+| Zmajevac | Oplenačko vinogorje | mesto | — |
+| Амбелос Винарија (Ambelos Winery) | — | mesto | — |
 
 ### Toplički rejon — Centralna Srbija
 

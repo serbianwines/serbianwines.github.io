@@ -1,0 +1,15 @@
+{
+ "chto_eto": "Имена, под которыми одно и то же хозяйство встречается у разных источников. Список ведётся руками и только с доказательством: догадки по похожести имён сюда не идут — они уже дали ложные пары (Jovanović и Jovanov, Madžić и Adžić, Stojković и Stojanović — разные хозяйства).",
+ "kak_chitat": "Ключ — имя, которое остаётся; значение — список имён, которые к нему сводятся, и чем это доказано.",
+ "hozyaistva": {
+  "Atelje Vina Šapat": {
+   "varianty": ["Šapat", "šApat Wine Atelier", "Atelje Šapat"],
+   "dokazatelstvo": "У записи «Šapat» стоит слаг Vivino atelje-vina-sapat — то есть это одна и та же страница хозяйства. ivv.rs зовёт его «Atelje Šapat», Нови Сланкамен. «šApat Wine Atelier» — то же имя по-английски, вин за ним не числится."
+  }
+ },
+ "ne_odno_i_to_zhe": {
+  "Plavinac / Plavinci": "Разные хозяйства, а не написания. У Vivino это две страницы с непересекающимися линейками: у Plavinci семь вин (Indigo Regent, Ćilibar, Selena Tamjanika, пет-наты), у Vinarija Plavinac — двадцать шесть классических. Plavinci стоит в Заклопачи под Гроцкой, у Plavinac места не нашлось.",
+  "Vinarija Mihailović / Vinarija Mihajlović": "Разные. У нашего Mihailović единственное вино «Луг (Lug)» с районом Vivino «Šumadija-Great Morava», а Mihajlović из справочника vinarijesrbije стоит в Књажевцу, это Зајечарски округ.",
+  "Mihajlovacko": "Не хозяйство, а обломок разбора: за именем стоит одна запись «Codrum Vina Dajit Gamay Kvalit» без района."
+ }
+}

@@ -95,11 +95,11 @@ Vivino район еле наскребает пятёрку.
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1189, с оценкой критиков — 587, **с обеими — 182**.
+Вин с оценкой Vivino — 1186, с оценкой критиков — 583, **с обеими — 187**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
-| Фрушка гора | 212 | 89 | 34 |
+| Фрушка гора | 227 | 95 | 39 |
 | Суботичско-Хоргошская пешчара | 76 | 27 | 17 |
 | Банат | 37 | 6 | 4 |
 | Шумадия | 93 | 81 | 25 |
@@ -122,6 +122,7 @@ Vivino район еле наскребает пятёрку.
 | Chichateau · Chi Chardonnay | 2018 | 95 | Falstaff |
 | Erdevik · Stifler's Mom Shiraz | 2017 | 95 | decanter |
 | Erdevik · Omnibus Lector Chardonnay | 2019 | 95 | decanter |
+| Šapat · Atila Chardonnay | 2022 | 95 | decanter |
 | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot | 2017 | 95 | decanter |
 | Veritas Ćuković · Momentum | 2017 | 95 | decanter |
 | Erdevik · Trianon | 2018 | 94 | decanter |
@@ -137,6 +138,7 @@ Vivino район еле наскребает пятёрку.
 | Bjelica · Graffiti | 2018 | 93 | Falstaff |
 | Deurić · Severna Morava | 2020 | 93 | decanter |
 | Deurić · Severna Morava | 2021 | 93 | decanter |
+| Šapat · Reserve Cabernet Sauvignon | 2020 | 93 | decanter |
 | Erdevik · Stiflers Mom Shiraz | 2019 | 93 | decanter |
 | Deurić · Aksiom Crveni | 2019 | 93 | decanter |
 | Deurić · Aksiom | 2021 | 93 | decanter |
@@ -165,6 +167,7 @@ Vivino район еле наскребает пятёрку.
 | Verkat · Grašac Beli 4.0 | 2021 | 91 | decanter |
 | Veritas Ćuković · Momentum | 2021 | 91 | decanter |
 | Erdevik · Ex Cathedra Sauvignon Blanc | 2021 | 91 | decanter |
+| Šapat · Bianca Moscato Giallo | 2023 | 91 | decanter |
 | Deurić · La Rem Morava Amf. | 2023 | 91 | decanter |
 | Vinčić · Grand Fru | 2020 | 91 | decanter |
 | Bikicki · Uncensored | 2022 | 91 | decanter |
@@ -188,8 +191,10 @@ Vivino район еле наскребает пятёрку.
 | Erdevik · Stifles Mom | 2017 | 90 | decanter |
 | Deurić · Aksiom Beli | 2019 | 90 | decanter |
 | Erdevik · Marlon Delon | 2017 | 90 | decanter |
+| Šapat · Magnus | 2020 | 90 | decanter |
 | Veritas Ćuković · Monte Karlovci Merlot | 2021 | 90 | decanter |
 | Veritas Ćuković · ćUk | 2021 | 90 | decanter |
+| Šapat · šU-šU Blaufrankisch | 2022 | 90 | decanter |
 | Deurić · Severna Morava | 2023 | 90 | decanter |
 | Vinčić · Grand Fru | 2023 | 90 | decanter |
 | Deurić · Gorska Tamjanika | 2024 | 90 | decanter |
@@ -198,6 +203,7 @@ Vivino район еле наскребает пятёрку.
 | Erdevik · Grand Trianon | 2020 | 90 | decanter |
 | Šapat · Terol Teroldego | 2022 | 90 | decanter |
 | Veritas Ćuković · Monte Karlovci | 2022 | 90 | decanter |
+| Šapat · Nera | 2023 | 90 | decanter |
 | Veritas Ćuković · Momentum Mali | 2023 | 90 | decanter |
 | Kovačević · Chardonnay | 2025 | 90 | decanter |
 | Erdevik · Stifler's Mom Shiraz | 2020 | 90 | decanter |
@@ -217,6 +223,8 @@ Vivino район еле наскребает пятёрку.
 | Šapat · Atila Cabernet Sauvignon | 2022 | 89 | decanter |
 | Deurić · Sauvignon Blanc | 2024 | 89 | decanter |
 | Veritas Ćuković · Ćuk | 2021 | 89 | decanter |
+| Šapat · Atila Cabernet Sauvignon | 2022 | 89 | decanter |
+| Šapat · Cuvée | 2023 | 89 | decanter |
 | Erdevik · Grand Trianon | 2019 | 89 | decanter |
 | Erdevik · Trianon Merlot-Cabernet Sauvignon-Syrah | 2015 | 88 | decanter |
 | Kovačević · R Edition Aurelius | 2012 | 88 | decanter |
@@ -236,6 +244,7 @@ Vivino район еле наскребает пятёрку.
 | Deurić · Severna Morava | 2020 | 88 | decanter |
 | Deurić · The Brut | 2019 | 88 | decanter |
 | Deurić · Pinot Noir | 2020 | 88 | decanter |
+| Šapat · Chardonnay | 2022 | 88 | decanter |
 | Veritas Ćuković · Bela Harmonija | 2022 | 88 | decanter |
 | Chichateau · Blake Sauvignon Blanc | 2023 | 88 | decanter |
 | Erdevik · Trianon Pinot Blanc-Pinot Grigio-Sauvignon Blanc | 2023 | 88 | decanter |
@@ -244,6 +253,8 @@ Vivino район еле наскребает пятёрку.
 | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot | 2020 | 88 | decanter |
 | Bikicki · Skins | 2022 | 88 | decanter |
 | Chichateau · Chardonnay | 2021 | 88 | decanter |
+| Šapat · Atila Chardonnay | 2024 | 88 | decanter |
+| Šapat · Chardonnay | 2024 | 88 | decanter |
 | Verkat · Grašac Beli | 2024 | 88 | decanter |
 | Deurić · Pinot Noir | 2021 | 88 | decanter |
 | Deurić · 276 Probus | 2023 | 88 | decanter |
@@ -262,6 +273,7 @@ Vivino район еле наскребает пятёрку.
 | Vinčić · Grand Fru | 2020 | 87 | decanter |
 | Bikicki · S/O | 2020 | 87 | decanter |
 | Erdevik · Geronimo | 2021 | 87 | decanter |
+| Šapat · Pi' Crveno Premium | 2019 | 87 | decanter |
 | Bikicki · Cu | 2022 | 87 | decanter |
 | Erdevik · Grand Trianon | 2016 | 87 | decanter |
 | Kovačević · Edicija S Aurelius | — | 86 | Wine-Searcher |
@@ -276,11 +288,15 @@ Vivino район еле наскребает пятёрку.
 
 | Год | Категория | Место | Кому |
 |---|---|---|---|
+| 2026 | бронза | bronza | Šapat · Atila Chardonnay 2024 | 
 | 2026 | бронза | bronza | Deurić · Sauvignon Blanc 2024 | 
+| 2026 | бронза | bronza | Šapat · Chardonnay 2024 | 
 | 2026 | бронза | bronza | Verkat · Grašac Beli 2024 | 
 | 2026 | бронза | bronza | Veritas Ćuković · Ćuk 2021 | 
 | 2026 | бронза | bronza | Deurić · Pinot Noir 2021 | 
+| 2026 | бронза | bronza | Šapat · Atila Cabernet Sauvignon 2022 | 
 | 2026 | бронза | bronza | Deurić · 276 Probus 2023 | 
+| 2026 | бронза | bronza | Šapat · Cuvée 2023 | 
 | 2026 | бронза | bronza | Chichateau · Blake Sauvignon Blanc 2023 | 
 | 2026 | бронза | bronza | Erdevik · Grand Trianon 2019 | 
 | 2026 | бронза | bronza | Deurić · La Rem Morava Amf. 2023 | 
@@ -293,6 +309,7 @@ Vivino район еле наскребает пятёрку.
 | 2026 | серебро | srebro | Deurić · Aksiom 2022 | 
 | 2026 | серебро | srebro | Chichateau · Fabula Lagum 2021 | 
 | 2026 | серебро | srebro | Veritas Ćuković · Monte Karlovci 2022 | 
+| 2026 | серебро | srebro | Šapat · Nera 2023 | 
 | 2026 | серебро | srebro | Veritas Ćuković · Momentum Mali 2023 | 
 | 2026 | серебро | srebro | Šapat · Atila Cabernet Sauvignon 2023 | 
 | 2026 | серебро | srebro | Kovačević · Chardonnay 2025 | 
@@ -334,17 +351,24 @@ Vivino район еле наскребает пятёрку.
 | 2024 | бронза | bronza | Deurić · Pinot Noir 2020 | 
 | 2024 | бронза | bronza | Molovin · Inat Limited Edition Rajnski Rizling 2021 | 
 | 2024 | бронза | bronza | Erdevik · Geronimo 2021 | 
+| 2024 | бронза | bronza | Šapat · Chardonnay 2022 | 
 | 2024 | бронза | bronza | Veritas Ćuković · Bela Harmonija 2022 | 
+| 2024 | бронза | bronza | Šapat · Pi' Crveno Premium 2019 | 
 | 2024 | винодельня года | 1 | Kovačević | 
+| 2024 | золото | zlato | Šapat · Atila Chardonnay 2022 | 
 | 2024 | лучшая малая винодельня | 1 | Bikicki | 
 | 2024 | лучшее белое, международные сорта | 1 | Kovačević · Sauvignon S Edicija 2021 | 
 | 2024 | лучшее белое, органика, международные сорта | 1 | Dukay-Sagmeister · Furmint Kew 2020 | 
+| 2024 | серебро | srebro | Šapat · Magnus 2020 | 
+| 2024 | серебро | srebro | Šapat · Reserve Cabernet Sauvignon 2020 | 
 | 2024 | серебро | srebro | Veritas Ćuković · Monte Karlovci Merlot 2021 | 
 | 2024 | серебро | srebro | Veritas Ćuković · ćUk 2021 | 
 | 2024 | серебро | srebro | Veritas Ćuković · Momentum 2021 | 
 | 2024 | серебро | srebro | Erdevik · Omnibus Lector Chardonnay 2019 | 
 | 2024 | серебро | srebro | Erdevik · Ex Cathedra Sauvignon Blanc 2021 | 
+| 2024 | серебро | srebro | Šapat · šU-šU Blaufrankisch 2022 | 
 | 2024 | серебро | srebro | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 2017 | 
+| 2024 | серебро | srebro | Šapat · Bianca Moscato Giallo 2023 | 
 | 2024 | серебро | srebro | Erdevik · Stiflers Mom Shiraz 2019 | 
 | 2024 | серебро | srebro | Deurić · Aksiom Crveni 2019 | 
 | 2023 | Best in Show | best-in-show | Vinčić · Grašac 2020 | 
@@ -1376,7 +1400,6 @@ Vivino район еле наскребает пятёрку.
 - BT Winery · Limited Edition King Supreme Marselan 2018 — 95 [decanter]
 - Reljić Vinarija · Rebus  Merlot-Cabernet Sauvignon-Probus 2018 — 95 [decanter]
 - BT Winery · Mister Marselan 2021 — 95 [decanter]
-- šApat Wine Atelier · Atila Chardonnay 2022 — 95 [decanter]
 - Virtus · Morava 2023 — 95 [decanter]
 - La Gora · Bello 2025 — 95 [decanter]
 - Molowinery · Vista Hill Red Reserve 2010 — 94 [decanter]
@@ -1385,7 +1408,6 @@ Vivino район еле наскребает пятёрку.
 - Dibonis Winery · Di Icewine 2020 — 94 [decanter]
 - Vinarija Dragić · Crni Biser 2023 — 94 [decanter]
 - Vino Budimir · Svb Rosa 2009 — 94 [Falstaff]
-- šApat Wine Atelier · Reserve Cabernet Sauvignon 2020 — 93 [decanter]
 - Virtus · Pinot Grigio 2024 — 93 [decanter]
 - Vinarija Frug · Signum Cabernet Sauvignon 2021 — 93 [decanter]
 - Dolina · Cuveé Barrique 2019 — 93 [decanter]
@@ -1427,7 +1449,6 @@ Vivino район еле наскребает пятёрку.
 - Virtus · Prokupac 2020 — 91 [decanter]
 - Vinarija Lastar · Cabernet Franc 2020 — 91 [decanter]
 - Vinarija Savic · Merlot 2021 — 91 [decanter]
-- šApat Wine Atelier · Bianca Moscato Giallo 2023 — 91 [decanter]
 - Vinarija Komuna · Rara Avis 2020 — 91 [decanter]
 - Virtus · Marselan 2020 — 91 [decanter]
 - Vinarija Dragić · Beli Biser 2022 — 91 [decanter]
@@ -1472,14 +1493,12 @@ Vivino район еле наскребает пятёрку.
 - Podrum Janko · Bifora 2020 — 90 [decanter]
 - Vinarija Dragić · Crni Biser 2020 — 90 [decanter]
 - Manufaktura Spasić · Rebo 2020 — 90 [decanter]
-- šApat Wine Atelier · Magnus 2020 — 90 [decanter]
 - Traško Vinarija · Fabulous Cabernet Franc 2021 — 90 [decanter]
 - Vinarija Milićević · Vladavina Icone Merlot 2021 — 90 [decanter]
 - Vinarija Fleur D'Oranger · Grof Muskat Krokan 2021 — 90 [decanter]
 - Vinarija Stanković · Cabernet Sauvignon 2022 — 90 [decanter]
 - Драгић Винарија (Vina Dragic) · Nemirac 2022 — 90 [decanter]
 - Vinarija Sokolov Zamak · Tamjanika 2022 — 90 [decanter]
-- šApat Wine Atelier · šU-šU Blaufrankisch 2022 — 90 [decanter]
 - Vinarija Dragić · Carski Drum Manzoni 2023 — 90 [decanter]
 - Vinarija Dragić · Crni Biser 2023 — 90 [decanter]
 - Vinarija Frug · Sauvignon Blanc 2024 — 90 [decanter]
@@ -1491,7 +1510,6 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Gnezdo · Belo 2024 — 90 [decanter]
 - Vinarija Frug · Signum Chardonnay 2024 — 90 [decanter]
 - Virtus · Marselan 2022 — 90 [decanter]
-- šApat Wine Atelier · Nera 2023 — 90 [decanter]
 - Vinarija Dragić · Carski Drum Cabernet Franc 2023 — 90 [decanter]
 - Vinarija Stanković · Cabernet Sauvignon 2023 — 90 [decanter]
 - Vinarija Zorča · Velika Dusa Merlot 2019 — 90 [decanter]
@@ -1529,9 +1547,7 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Rajić · Triva Souvignier Gris 2024 — 89 [decanter]
 - La Gora · Lupo 2024 — 89 [decanter]
 - Vinarija Imperator · Max 2021 — 89 [decanter]
-- šApat Wine Atelier · Atila Cabernet Sauvignon 2022 — 89 [decanter]
 - Traško Vinarija · Fabulous Cabernet Franc 2022 — 89 [decanter]
-- šApat Wine Atelier · Cuvée 2023 — 89 [decanter]
 - Vinarija Frug · Pinot Noir 2023 — 89 [decanter]
 - La Gora · Sauvignon Blanc 2025 — 89 [decanter]
 - PIK Oplenac · Constanta Muse Sauvignon Blanc 2021 — 89 [Falstaff]
@@ -1585,7 +1601,6 @@ Vivino район еле наскребает пятёрку.
 - Krstašica · Konekcija Merlot 2021 — 88 [decanter]
 - BT Winery · Mister Marselan 2022 — 88 [decanter]
 - Virtus · Credo Beli 2022 — 88 [decanter]
-- šApat Wine Atelier · Chardonnay 2022 — 88 [decanter]
 - Winery Djurdjic · Grašac Beli 2022 — 88 [decanter]
 - Karić Vinarija · Adria Belo 2022 — 88 [decanter]
 - Grabak · Modrovrana Cabernet Sauvignon 2018 — 88 [decanter]
@@ -1595,8 +1610,6 @@ Vivino район еле наскребает пятёрку.
 - Gora · White Blend 2024 — 88 [decanter]
 - Vinarija Mira · La Baba Morava 2024 — 88 [decanter]
 - Vinarija Rajić · Prokupac 2024 — 88 [decanter]
-- šApat Wine Atelier · Atila Chardonnay 2024 — 88 [decanter]
-- šApat Wine Atelier · Chardonnay 2024 — 88 [decanter]
 - La Gora · Bello 2024 — 88 [decanter]
 - Vinarija Imperator · Gratianus Traminac 2021 — 88 [decanter]
 - Винарија Тришић (Vinarija Trišić) · Dimasid 2021 — 88 [decanter]
@@ -1661,7 +1674,6 @@ Vivino район еле наскребает пятёрку.
 - Podrum Džervin 1927 · Trifun Grand Cabernet Sauvignon 2019 — 87 [decanter]
 - Podrum Janko · Zlatno Runo Cabernet Sauvignon 2019 — 87 [decanter]
 - Vinarija Aven · Cabernet Sauvignon 2019 — 87 [decanter]
-- šApat Wine Atelier · Pi' Crveno Premium 2019 — 87 [decanter]
 - Vinarija Dragić · Carski Drum Manzoni 2024 — 87 [decanter]
 - Breg · Sila 2024 — 87 [decanter]
 - Vinarija Frug · Grašac 2024 — 87 [decanter]

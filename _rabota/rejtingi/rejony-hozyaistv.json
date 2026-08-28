@@ -6,11 +6,12 @@
    "hozyaistvo": "Vinarija 100 Žena",
    "region": "Centralna Srbija",
    "rejon": "Niški rejon",
-   "vinogorje": "Čegarsko vinogorje",
-   "istochnik": "mesto",
-   "raznoglasie": "",
-   "gde": "Vele Polje",
+   "vinogorje": null,
+   "istochnik": "vinarijesrbije+vivino",
+   "raznoglasie": "города спорят: Niš, Nišavski okrug → Nišavski rejon; Vele Polje → Niški rejon",
+   "gde": "",
    "pokazaniya": [
+    "ivv: Niš, Nišavski okrug",
     "vinarijesrbije: Niški rejon, Vele Polje",
     "vivino: Niš"
    ]
@@ -34,8 +35,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Sremski Karlovci",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Sremski Karlovci",
     "vivino: Central Serbia",
     "vivino: Vojvodina"
@@ -55,13 +57,14 @@
   },
   "acanski": {
    "hozyaistvo": "Ačanski",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Banoštor, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Banoštor, Južno-bački okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -83,11 +86,12 @@
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Jagodinsko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Jagodina, Pomoravski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Jagodina",
+    "ivv: Jagodina, Pomoravski okrug",
     "vivino: Central Serbia",
     "vivino: Wine of Serbia"
    ]
@@ -95,10 +99,10 @@
   "adzic": {
    "hozyaistvo": "adzic",
    "region": "Vojvodina",
-   "rejon": "Potiski rejon",
+   "rejon": "Rejon Bačka",
    "vinogorje": null,
-   "istochnik": "vinarijesrbije",
-   "raznoglasie": "",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Rejon Bačka, у источников Potiski rejon ×1",
    "gde": "Temerin",
    "pokazaniya": [
     "vinarijesrbije: Potiski rejon, Temerin"
@@ -169,8 +173,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Banoštor",
+   "gde": "Banoštor, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Banoštor, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Banoštor"
    ]
   },
@@ -243,7 +248,7 @@
    "vinogorje": "Oplenačko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Topola",
+   "gde": "Vinča, Topola - Oplenac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava · Oplenac",
@@ -251,6 +256,7 @@
     "falstaff: Шумадия-Велика Морава",
     "falstaff: поиск по Сербии",
     "falstaff: список белых",
+    "ivv: Vinča, Topola - Oplenac, Šumadijski okrug",
     "vinarijesrbije: Rejon Šumadija, Topola",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
@@ -263,12 +269,13 @@
    "vinogorje": null,
    "istochnik": "mesto",
    "raznoglasie": "по месту Vranjski rejon, у источников Vranjski rejon ×39; Niški rejon ×1",
-   "gde": "Vranje",
+   "gde": "Vranje, Pčinjski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Nišava-South Morava · Niš",
     "decanter: Nišava-South Morava · Vranje",
     "falstaff: falstaff.com/en/wines/aleksic-vinarija-2016-vinarija-aleksic-biser-extra-brut",
+    "ivv: Vranje, Pčinjski okrug",
     "vinarijesrbije: Vranjski rejon, Vranje",
     "vivino: Central Serbia",
     "vivino: Vranje",
@@ -289,13 +296,14 @@
   },
   "ambelos": {
    "hozyaistvo": "Амбелос Винарија (Ambelos Winery)",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
    "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Velika Plana, Podunavski okrug",
    "pokazaniya": [
+    "ivv: Velika Plana, Podunavski okrug",
     "vivino: Wine of Serbia"
    ]
   },
@@ -359,7 +367,7 @@
   },
   "apatovic": {
    "hozyaistvo": "Vinarija Apatović",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -421,13 +429,14 @@
   },
   "arsenijevic": {
    "hozyaistvo": "Arsenijević",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
    "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Topola, Šumadijski okrug",
    "pokazaniya": [
+    "ivv: Topola, Šumadijski okrug",
     "vivino: Šumadija-Great Morava"
    ]
   },
@@ -447,26 +456,31 @@
   },
   "art-wine": {
    "hozyaistvo": "Art Wine",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
    "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Grošnica, Kragujevac, Šumadijski okrug",
    "pokazaniya": [
+    "ivv: Grošnica, Kragujevac, Šumadijski okrug",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
    ]
   },
   "atelje-vina-sapat": {
-   "hozyaistvo": "Atelje Vina Šapat",
+   "hozyaistvo": "Šapat",
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Нови Сланкамен",
    "pokazaniya": [
+    "decanter: ",
+    "decanter: Srem",
+    "decanter: Vojvodina",
+    "ivv: Novi Slankamen, Sremski okrug",
     "vivino: Srem"
    ]
   },
@@ -503,11 +517,12 @@
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Kruševačko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Varvarin, Rasinski okrug",
    "pokazaniya": [
-    "decanter: West Morava · Kruševac"
+    "decanter: West Morava · Kruševac",
+    "ivv: Varvarin, Rasinski okrug"
    ]
   },
   "bacina-vino": {
@@ -536,7 +551,7 @@
   },
   "bahus": {
    "hozyaistvo": "Bahus",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -554,8 +569,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Sremski Karlovci",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Sremski Karlovci",
     "vivino: Central Serbia"
    ]
@@ -637,13 +653,14 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter+vinarijesrbije+vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Срем, по данным Vivino",
+   "gde": "Čerević, Južno-bački okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
+    "ivv: Čerević, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Čerević",
     "vivino: Srem"
    ]
@@ -668,12 +685,13 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Banoštor",
+   "gde": "Banoštor, Južno-bački okrug",
    "pokazaniya": [
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
     "decanter: Vojvodina",
     "falstaff: falstaff.com/de/weine/bikicki-2021-sfera-noir-natural-wine",
+    "ivv: Banoštor, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Banoštor",
     "vivino: Central Serbia",
     "vivino: Srem"
@@ -806,24 +824,26 @@
    "hozyaistvo": "Botunjac",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
-   "vinogorje": null,
-   "istochnik": "vivino",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia",
     "vivino: Tri Morave"
    ]
   },
   "braca-rajkovic": {
    "hozyaistvo": "Braca Rajkovic",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Gornje Zleginje, Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Gornje Zleginje, Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia",
     "vivino: West Morava"
    ]
@@ -847,10 +867,11 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Erdevik, Sremski okrug",
    "pokazaniya": [
+    "ivv: Erdevik, Sremski okrug",
     "vivino: Srem"
    ]
   },
@@ -895,11 +916,11 @@
   },
   "budimir": {
    "hozyaistvo": "Budimir",
-   "region": "Vojvodina",
-   "rejon": "Sremski rejon",
-   "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "vinarijesrbije",
-   "raznoglasie": "",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Rejon Tri Morave, у источников Sremski rejon ×1",
    "gde": "Aleksandrovac",
    "pokazaniya": [
     "falstaff: список красных",
@@ -921,7 +942,7 @@
   },
   "burcel-todorov": {
    "hozyaistvo": "Vinarija Burcel Todorov",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -1007,13 +1028,14 @@
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
    "vinogorje": "Oplenačko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Topola, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava",
     "decanter: Šumadija-Great Morava · Oplenac",
+    "ivv: Topola, Šumadijski okrug",
     "vivino: Šumadija-Great Morava"
    ]
   },
@@ -1040,19 +1062,21 @@
    "pokazaniya": [
     "decanter: Srem",
     "falstaff: список белых",
+    "ivv: Šišatovac, Sremski okrug",
     "vivino: Srem"
    ]
   },
   "cilic": {
    "hozyaistvo": "Cilić",
    "region": "Centralna Srbija",
-   "rejon": "Rejon Tri Morave",
-   "vinogorje": null,
-   "istochnik": "vivino",
-   "raznoglasie": "",
-   "gde": "",
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Krnjevačko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Šumadijski rejon, у источников Rejon Tri Morave ×2",
+   "gde": "Lozovik, Pomoravski okrug",
    "pokazaniya": [
     "falstaff: falstaff.com/en/wines/cilic-vinarija-2019-cilic-onyx-blanc",
+    "ivv: Lozovik, Pomoravski okrug",
     "vivino: Tri Morave",
     "vivino: Šumadija-Great Morava"
    ]
@@ -1125,11 +1149,11 @@
   },
   "conte-vallonne": {
    "hozyaistvo": "Conte Vallonne",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -1137,13 +1161,14 @@
   },
   "cosic": {
    "hozyaistvo": "Vinarija Ćosić",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -1159,6 +1184,18 @@
     "vivino: Central Serbia"
    ]
   },
+  "crvena-ptica": {
+   "hozyaistvo": "crvena-ptica",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Krušedol, Irig, Sremski okrug",
+   "pokazaniya": [
+    "ivv: Krušedol, Irig, Sremski okrug"
+   ]
+  },
   "cubra": {
    "hozyaistvo": "Cubra",
    "region": null,
@@ -1169,6 +1206,18 @@
    "gde": "",
    "pokazaniya": [
     "vivino: Wine of Serbia"
+   ]
+  },
+  "cuvardic": {
+   "hozyaistvo": "cuvardic",
+   "region": "Vojvodina",
+   "rejon": "Subotički rejon",
+   "vinogorje": "Palićko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Subotica, Severno-bački okrug",
+   "pokazaniya": [
+    "ivv: Subotica, Severno-bački okrug"
    ]
   },
   "cvetkovic": {
@@ -1228,21 +1277,22 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Šid",
+   "gde": "Šid, Sremski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
+    "ivv: Šid, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Šid",
     "vivino: Wine of Serbia"
    ]
   },
   "dealul-tirolului": {
    "hozyaistvo": "Dealul Tirolului",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat",
@@ -1266,12 +1316,13 @@
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
    "vinogorje": "Oplenačko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Topola, Šumadijski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Oplenac",
     "falstaff: поиск по Сербии",
+    "ivv: Topola, Šumadijski okrug",
     "vivino: Šumadija-Great Morava"
    ]
   },
@@ -1279,10 +1330,10 @@
    "hozyaistvo": "Despotika",
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
-   "vinogorje": "Oplenačko vinogorje",
-   "istochnik": "bolshinstvo",
-   "raznoglasie": "Šumadijski rejon ×17; Beogradski rejon ×4",
-   "gde": "",
+   "vinogorje": "Krnjevačko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Šumadijski rejon, у источников Šumadijski rejon ×17; Beogradski rejon ×4",
+   "gde": "Vlaški Do, Smederevska Palanka, Podunavski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Belgrade",
     "decanter: Šumadija-Great Morava · Oplenac",
@@ -1291,6 +1342,7 @@
     "falstaff: Шумадия-Велика Морава",
     "falstaff: поиск по Сербии",
     "falstaff: список розе",
+    "ivv: Vlaški Do, Smederevska Palanka, Podunavski okrug",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
    ]
@@ -1300,9 +1352,9 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "bolshinstvo",
-   "raznoglasie": "Sremski rejon ×87; Subotički rejon ×1",
-   "gde": "",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Sremski rejon, у источников Sremski rejon ×87; Subotički rejon ×1",
+   "gde": "Mala Remeta, Sremski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
@@ -1310,6 +1362,7 @@
     "decanter: Subotica-Horgoš",
     "falstaff: falstaff.com/de/weine/vinarija-deuric-2018-deuric-the-brut",
     "falstaff: falstaff.com/en/wines/vinarija-deuric-2019-deuric-aksiom-beli",
+    "ivv: Mala Remeta, Sremski okrug",
     "vivino: Srem"
    ]
   },
@@ -1353,11 +1406,11 @@
   },
   "djokovic": {
    "hozyaistvo": "Djokovic",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -1383,8 +1436,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "vivino",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Kovilj, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Kovilj, Južno-bački okrug",
     "vivino: Srem"
    ]
   },
@@ -1395,13 +1449,14 @@
    "vinogorje": "Prokupačko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Blace",
+   "gde": "Blace, Toplički okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Centralna Srbija",
     "decanter: Nišava-South Morava · Toplica",
     "falstaff: поиск по Сербии",
     "falstaff: список красных",
+    "ivv: Blace, Toplički okrug",
     "vinarijesrbije: Toplički rejon, Blace",
     "vivino: Central Serbia",
     "vivino: Toplica"
@@ -1409,11 +1464,11 @@
   },
   "dolina": {
    "hozyaistvo": "Dolina",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "decanter: ",
@@ -1427,8 +1482,9 @@
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Banatski Karovac, Južno-banatski okrug",
    "pokazaniya": [
+    "ivv: Banatski Karovac, Južno-banatski okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -1461,10 +1517,10 @@
    "hozyaistvo": "Draganić",
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
-   "vinogorje": null,
-   "istochnik": "vinarijesrbije",
+   "vinogorje": "Oplenačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Шумадия, по годовому тесту vino.rs",
+   "gde": "Lipovac",
    "pokazaniya": [
     "vinarijesrbije: Rejon Šumadija, Lipovac",
     "vivino: Central Serbia"
@@ -1477,11 +1533,12 @@
    "vinogorje": "Riđičko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Riđica",
+   "gde": "Riđica, Zapadno-bački okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Subotica-Horgoš · Riđičko-Vinogorje",
     "decanter: Vojvodina · Subotica",
+    "ivv: Riđica, Zapadno-bački okrug",
     "vinarijesrbije: Subotički rejon, Riđica",
     "vivino: Vojvodina"
    ]
@@ -1521,6 +1578,7 @@
    "pokazaniya": [
     "decanter: ",
     "decanter: Banat · South Banat",
+    "ivv: Vršac, Južno-banatski okrug",
     "vinarijesrbije: Južnobanatski rejon",
     "vivino: Central Serbia"
    ]
@@ -1539,19 +1597,20 @@
   },
   "dukay": {
    "hozyaistvo": "Dukay",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Potiski rejon",
+   "vinogorje": "Severnopotisko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Kanjiža, Severno-banatski okrug",
    "pokazaniya": [
+    "ivv: Kanjiža, Severno-banatski okrug",
     "vivino: Vojvodina"
    ]
   },
   "dukay-sagmeister": {
    "hozyaistvo": "Dukay-Sagmeister",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -1563,13 +1622,14 @@
   },
   "dulka": {
    "hozyaistvo": "Dulka",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -1578,26 +1638,28 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Rakovac, Beočin, Južno-bački okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
+    "ivv: Rakovac, Beočin, Južno-bački okrug",
     "vivino: Wine of Serbia"
    ]
   },
   "durdevica-legat": {
    "hozyaistvo": "Vinarija Đurđevića Legat",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "Rejon Tri Morave ×6; Pocersko Valjevski Rejon ×2",
-   "gde": "",
+   "region": "Centralna Srbija",
+   "rejon": "Pocersko Valjevski Rejon",
+   "vinogorje": "Podgorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Pocersko Valjevski Rejon, у источников Rejon Tri Morave ×6; Pocersko Valjevski Rejon ×2",
+   "gde": "Ključ, Kolubarski okrug",
    "pokazaniya": [
     "decanter: Pocerina",
+    "ivv: Ključ, Kolubarski okrug",
     "vivino: Central Serbia",
     "vivino: Tri Morave",
     "vivino: Wine of Serbia"
@@ -1608,10 +1670,11 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vivino: Srem"
    ]
   },
@@ -1619,11 +1682,12 @@
    "hozyaistvo": "Dzervin",
    "region": "Centralna Srbija",
    "rejon": "Knjaževački rejon",
-   "vinogorje": null,
-   "istochnik": "vivino",
+   "vinogorje": "Potrkanjsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Knjaževac, Zaječarski okrug",
    "pokazaniya": [
+    "ivv: Knjaževac, Zaječarski okrug",
     "vivino: Knjaževac",
     "vivino: Wine of Serbia"
    ]
@@ -1647,13 +1711,26 @@
    "vinogorje": "Oplenačko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Ranilović",
+   "gde": "Ranilović, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava",
     "decanter: Šumadija-Great Morava · Oplenac",
+    "ivv: Ranilović, Šumadijski okrug",
     "vinarijesrbije: Rejon Šumadija, Ranilović",
     "vivino: Šumadija-Great Morava"
+   ]
+  },
+  "emporio": {
+   "hozyaistvo": "emporio",
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
+   "vinogorje": null,
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Beograd, Beogradski okrug",
+   "pokazaniya": [
+    "ivv: Beograd, Beogradski okrug"
    ]
   },
   "enellion": {
@@ -1687,7 +1764,7 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Erdevik",
+   "gde": "Erdevik, Sremski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
@@ -1695,6 +1772,7 @@
     "falstaff: falstaff.com/en/wines/vinarija-erdevik-2016-grand-trianon-deux-mers",
     "falstaff: falstaff.com/en/wines/vinarija-erdevik-2017-grand-trianon",
     "falstaff: поиск по Сербии",
+    "ivv: Erdevik, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Erdevik",
     "vivino: Srem"
    ]
@@ -1755,9 +1833,10 @@
    "vinogorje": "Župsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Drenča",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
     "decanter: West Morava · Kruševac",
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vinarijesrbije: Rejon Tri Morave, Drenča",
     "vivino: Central Serbia"
    ]
@@ -1804,12 +1883,13 @@
    "hozyaistvo": "Vinarija Frunza Aglaja",
    "region": "Centralna Srbija",
    "rejon": "Rejon Negotinska Krajina",
-   "vinogorje": null,
-   "istochnik": "decanter",
+   "vinogorje": "Negotinsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Negotin, Borski okrug",
    "pokazaniya": [
-    "decanter: Negotinska Krajina"
+    "decanter: Negotinska Krajina",
+    "ivv: Negotin, Borski okrug"
    ]
   },
   "fruskogorski": {
@@ -1817,11 +1897,12 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Banoštor, Južno-bački okrug",
    "pokazaniya": [
     "decanter: Srem · Fruška Gora",
+    "ivv: Banoštor, Južno-bački okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -1852,10 +1933,10 @@
   "galot": {
    "hozyaistvo": "Galot",
    "region": "Vojvodina",
-   "rejon": "Banatski rejon",
-   "vinogorje": null,
+   "rejon": "Južnobanatski rejon",
+   "vinogorje": "Vinogorje Deliblatske peščare",
    "istochnik": "mesto",
-   "raznoglasie": "",
+   "raznoglasie": "по месту Južnobanatski rejon, у источников Banatski rejon ×1",
    "gde": "Banatski Karlovac",
    "pokazaniya": [
     "vinarijesrbije: Banatski rejon, Banatski Karlovac",
@@ -1895,8 +1976,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Neštin",
+   "gde": "Neštin, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Neštin, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Neštin"
    ]
   },
@@ -1914,7 +1996,7 @@
   },
   "gnezdo": {
    "hozyaistvo": "Vinarija Gnezdo",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -2026,6 +2108,18 @@
     "vinarijesrbije: Južnometohijski rejon, Velika Hoča"
    ]
   },
+  "hopovo": {
+   "hozyaistvo": "hopovo",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Irig, Sremski okrug",
+   "pokazaniya": [
+    "ivv: Irig, Sremski okrug"
+   ]
+  },
   "ilic-nijemcevic": {
    "hozyaistvo": "Ilic Nijemcevic",
    "region": null,
@@ -2038,16 +2132,29 @@
     "vivino: Central Serbia"
    ]
   },
+  "ilic-njemcevic": {
+   "hozyaistvo": "ilic-njemcevic",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Bikić Do, Sremski okrug",
+   "pokazaniya": [
+    "ivv: Bikić Do, Sremski okrug"
+   ]
+  },
   "imperator": {
    "hozyaistvo": "Vinarija Imperator",
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Rakovac, Fruška gora, Južno-bački okrug",
    "pokazaniya": [
-    "decanter: Srem"
+    "decanter: Srem",
+    "ivv: Rakovac, Fruška gora, Južno-bački okrug"
    ]
   },
   "imperator-vino": {
@@ -2091,15 +2198,16 @@
    "hozyaistvo": "Ivanović",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
-   "vinogorje": "Kruševačko vinogorje",
-   "istochnik": "decanter+vinarijesrbije+vivino",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Aleksandrovac",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Centralna Srbija",
     "decanter: West Morava · Kruševac",
     "falstaff: поиск по Сербии",
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vinarijesrbije: Rejon Tri Morave, Aleksandrovac",
     "vivino: Central Serbia",
     "vivino: Tri Morave"
@@ -2107,11 +2215,11 @@
   },
   "izba-jovanovic": {
    "hozyaistvo": "Изба Јовановић (Izba Jovanovic)",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Leskovački rejon; Nišavski rejon; Niški rejon; Toplički rejon; Vranjski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Nisava-South Morava"
@@ -2131,11 +2239,11 @@
   },
   "janek-wineyard": {
    "hozyaistvo": "Janek Wineyard",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -2148,10 +2256,11 @@
    "vinogorje": "Smederevsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Smederevo",
+   "gde": "Smederevo, Podunavski okrug",
    "pokazaniya": [
     "decanter: Centralna Srbija",
     "decanter: Šumadija-Great Morava · Belgrade",
+    "ivv: Smederevo, Podunavski okrug",
     "vinarijesrbije: Beogradski rejon, Smederevo",
     "vivino: Central Serbia",
     "vivino: Wine of Serbia"
@@ -2159,13 +2268,15 @@
   },
   "janovi": {
    "hozyaistvo": "Janovi Vinogradi",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
+   "vinogorje": "Avalsko-kosmajsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
+   "gde": "Sopot, Beogradski okrug",
+   "pokazaniya": [
+    "ivv: Sopot, Beogradski okrug"
+   ]
   },
   "janucic": {
    "hozyaistvo": "Vinarija Janucic",
@@ -2197,13 +2308,14 @@
    "hozyaistvo": "Vinarija Jeremic",
    "region": "Centralna Srbija",
    "rejon": "Beogradski rejon",
-   "vinogorje": null,
-   "istochnik": "decanter+vinarijesrbije",
+   "vinogorje": "Smederevsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Vivino относит к «Šumadija-Velika Morava»; точное виногорье не установлено",
+   "gde": "Smederevo, Podunavski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Belgrade",
     "falstaff: поиск по Сербии",
+    "ivv: Smederevo, Podunavski okrug",
     "vinarijesrbije: Beogradski rejon, Smederevo",
     "vivino: Šumadija-Great Morava"
    ]
@@ -2251,10 +2363,10 @@
   "jovanov": {
    "hozyaistvo": "jovanov",
    "region": "Vojvodina",
-   "rejon": "Potiski rejon",
-   "vinogorje": null,
+   "rejon": "Banatski rejon",
+   "vinogorje": "Srednjebanatsko vinogorje",
    "istochnik": "mesto",
-   "raznoglasie": "",
+   "raznoglasie": "по месту Banatski rejon, у источников Potiski rejon ×1",
    "gde": "Melenci",
    "pokazaniya": [
     "vinarijesrbije: Potiski rejon, Melenci"
@@ -2281,6 +2393,7 @@
    "raznoglasie": "",
    "gde": "Потркање",
    "pokazaniya": [
+    "ivv: Knjaževac, Zaječarski okrug",
     "vinarijesrbije: Knjaževački rejon, Knjaževac",
     "vivino: Knjaževac",
     "vivino: Wine of Serbia"
@@ -2303,7 +2416,7 @@
    "region": "Vojvodina",
    "rejon": "Rejon Bačka",
    "vinogorje": null,
-   "istochnik": "vinarijesrbije",
+   "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Temerin",
    "pokazaniya": [
@@ -2312,11 +2425,11 @@
   },
   "kalem": {
    "hozyaistvo": "Kalem",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Leskovački rejon; Nišavski rejon; Niški rejon; Toplički rejon; Vranjski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Central Serbia",
@@ -2324,40 +2437,54 @@
     "vivino: Wine of Serbia"
    ]
   },
+  "kapija-sumadije": {
+   "hozyaistvo": "kapija-sumadije",
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
+   "vinogorje": "Avalsko-kosmajsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Ripanj, Beogradski okrug",
+   "pokazaniya": [
+    "ivv: Ripanj, Beogradski okrug"
+   ]
+  },
   "karic": {
    "hozyaistvo": "Karić Vinarija",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "Sremski rejon ×3; Pocersko Valjevski Rejon ×1",
-   "gde": "",
+   "region": "Centralna Srbija",
+   "rejon": "Pocersko Valjevski Rejon",
+   "vinogorje": "Pocersko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Pocersko Valjevski Rejon, у источников Sremski rejon ×3; Pocersko Valjevski Rejon ×1",
+   "gde": "Varna, Mačvanski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Pocerina",
     "decanter: Srem",
+    "ivv: Varna, Mačvanski okrug",
     "vivino: Srem"
    ]
   },
   "katanic": {
    "hozyaistvo": "Katanic",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Kragujevačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Kamenica, Šumadijski okrug",
    "pokazaniya": [
+    "ivv: Kamenica, Šumadijski okrug",
     "vivino: Central Serbia"
    ]
   },
   "kepul": {
    "hozyaistvo": "Kepul",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -2370,9 +2497,10 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Sremski Karlovci",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
     "decanter: Srem · Fruška Gora",
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Sremski Karlovci",
     "vivino: Srem",
     "vivino: Wine of Serbia"
@@ -2380,13 +2508,15 @@
   },
   "km": {
    "hozyaistvo": "Vinarija KM",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
+   "gde": "Novi Sad, Južno-bački okrug",
+   "pokazaniya": [
+    "ivv: Novi Sad, Južno-bački okrug"
+   ]
   },
   "komazec": {
    "hozyaistvo": "Vinarija Komazec",
@@ -2408,10 +2538,11 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Rivica",
+   "gde": "Rivica, Sremski okrug",
    "pokazaniya": [
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
+    "ivv: Rivica, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Rivica",
     "vivino: Srem"
    ]
@@ -2435,8 +2566,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Sremski Karlovci",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Sremski Karlovci"
    ]
   },
@@ -2460,13 +2592,14 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Fruška Gora",
+   "gde": "Irig, Sremski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
     "decanter: Vojvodina",
     "falstaff: falstaff.com/en/wines/vinarija-kovacevic-2019-kovacevic-aurelius-edicija-s",
+    "ivv: Irig, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Fruška Gora",
     "vivino: Central Serbia",
     "vivino: Srem"
@@ -2625,9 +2758,9 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter+vinarijesrbije+vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "золото Decanter 2026; в книге названа как «Vinarija Gora», район не указан",
+   "gde": "Irig",
    "pokazaniya": [
     "decanter: Srem",
     "vinarijesrbije: Sremski rejon, Irig",
@@ -2671,11 +2804,11 @@
   },
   "lalic": {
    "hozyaistvo": "Vinarija Lalić",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -2683,7 +2816,7 @@
   },
   "langov": {
    "hozyaistvo": "Langov Podrum",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -2697,24 +2830,25 @@
    "hozyaistvo": "Vinarija Lastar",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
-   "vinogorje": "Jagodinsko vinogorje",
-   "istochnik": "decanter",
+   "vinogorje": "Levačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Rekovac, Pomoravski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Centralna Srbija",
     "decanter: Šumadija-Great Morava · Jagodina",
+    "ivv: Rekovac, Pomoravski okrug",
     "vivino: Central Serbia"
    ]
   },
   "legat": {
    "hozyaistvo": "Legat",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -2777,8 +2911,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Irig",
+   "gde": "Irig, Sremski okrug",
    "pokazaniya": [
+    "ivv: Irig, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Irig",
     "vivino: Central Serbia",
     "vivino: Srem"
@@ -2786,13 +2921,14 @@
   },
   "madzic": {
    "hozyaistvo": "Podrum Madžić",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
    "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Smederevska Palanka, Podunavski okrug",
    "pokazaniya": [
+    "ivv: Smederevska Palanka, Podunavski okrug",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
    ]
@@ -2896,11 +3032,11 @@
   },
   "marinkovic": {
    "hozyaistvo": "Marinković",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -2937,16 +3073,17 @@
    "hozyaistvo": "Matalj",
    "region": "Centralna Srbija",
    "rejon": "Rejon Negotinska Krajina",
-   "vinogorje": "Negotinsko vinogorje",
+   "vinogorje": null,
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Negotin",
+   "gde": "Negotinska Krajina, Borski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Centralna Srbija",
     "decanter: Negotinska Krajina",
     "falstaff: поиск по Сербии",
     "falstaff: список красных",
+    "ivv: Negotinska Krajina, Borski okrug",
     "vinarijesrbije: Rejon Negotinska Krajina, Negotin",
     "vivino: Central Serbia",
     "vivino: Negotinska Krajina"
@@ -2971,7 +3108,7 @@
    "vinogorje": "Oplenačko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Orašac",
+   "gde": "Orašac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava",
@@ -2979,6 +3116,7 @@
     "falstaff: Шумадия-Велика Морава",
     "falstaff: поиск по Сербии",
     "falstaff: список белых",
+    "ivv: Orašac, Šumadijski okrug",
     "vinarijesrbije: Rejon Šumadija, Orašac",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
@@ -2996,6 +3134,18 @@
     "falstaff: falstaff.com/en/wines/oszkar-maurer-2021-kadarka-1880-natural-wine-1",
     "vivino: Subotica-Horgos",
     "vivino: Šumadija-Great Morava"
+   ]
+  },
+  "maurer-oszkar": {
+   "hozyaistvo": "maurer-oszkar",
+   "region": null,
+   "rejon": null,
+   "vinogorje": null,
+   "istochnik": "ne_ustanovlen",
+   "raznoglasie": "",
+   "gde": "Šupljak, Severno-bački okrug",
+   "pokazaniya": [
+    "ivv: Šupljak, Severno-bački okrug"
    ]
   },
   "max-ex-doo": {
@@ -3038,11 +3188,11 @@
   },
   "mihailovic": {
    "hozyaistvo": "Vinarija Mihailović",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -3097,13 +3247,14 @@
   },
   "milanov": {
    "hozyaistvo": "Milanov Podrum",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -3114,19 +3265,20 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Surduk",
+   "gde": "Surduk, Sremski okrug",
    "pokazaniya": [
+    "ivv: Surduk, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Surduk",
     "vivino: Srem"
    ]
   },
   "miletic": {
    "hozyaistvo": "Miletic",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Rejon Tri Morave; Čačansko–kraljevački rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: West Morava"
@@ -3175,11 +3327,12 @@
    "hozyaistvo": "Milijan Jelić",
    "region": "Centralna Srbija",
    "rejon": "Pocersko Valjevski Rejon",
-   "vinogorje": null,
-   "istochnik": "vinarijesrbije+vivino",
+   "vinogorje": "Podgorsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Валево, Поцерско-Ваљевски район — в книге такой главы нет",
+   "gde": "Valjevo, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Valjevo, Južno-bački okrug",
     "vinarijesrbije: Pocersko-Valjevski rejon, Valjevo",
     "vivino: Central Serbia",
     "vivino: Pocerina"
@@ -3221,9 +3374,21 @@
     "vivino: Wine of Serbia"
    ]
   },
+  "milosavljevic": {
+   "hozyaistvo": "milosavljevic",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": null,
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Počekovina, Rasinski okrug",
+   "pokazaniya": [
+    "ivv: Počekovina, Rasinski okrug"
+   ]
+  },
   "milosevic": {
    "hozyaistvo": "Podrum Milošević",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -3245,6 +3410,18 @@
    "pokazaniya": [
     "vivino: Central Serbia",
     "vivino: Wine of Serbia"
+   ]
+  },
+  "milutinovic": {
+   "hozyaistvo": "milutinovic",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Novi Sad, Južno-bački okrug",
+   "pokazaniya": [
+    "ivv: Novi Sad, Južno-bački okrug"
    ]
   },
   "minic": {
@@ -3334,7 +3511,7 @@
   },
   "molin": {
    "hozyaistvo": "Molin Winery",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -3357,6 +3534,7 @@
     "decanter: Vojvodina",
     "falstaff: falstaff.com/en/wines/vinarija-molovin-2020-inat-traminac",
     "falstaff: список красных",
+    "ivv: Šid, Sremski okrug",
     "vivino: Srem"
    ]
   },
@@ -3372,6 +3550,18 @@
     "decanter: ",
     "decanter: Srem",
     "decanter: Srem · Fruška Gora"
+   ]
+  },
+  "mons-aureus": {
+   "hozyaistvo": "mons-aureus",
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
+   "vinogorje": "Smederevsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Smederevo, Podunavski okrug",
+   "pokazaniya": [
+    "ivv: Smederevo, Podunavski okrug"
    ]
   },
   "moravski-val": {
@@ -3401,12 +3591,13 @@
   "mrdanin": {
    "hozyaistvo": "Vinarija Mrđanin",
    "region": "Vojvodina",
-   "rejon": "Rejon Bačka",
-   "vinogorje": null,
-   "istochnik": "vivino",
-   "raznoglasie": "",
-   "gde": "",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Sremski rejon, у источников Rejon Bačka ×10",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vivino: Bačka"
    ]
   },
@@ -3450,11 +3641,11 @@
   },
   "navip": {
    "hozyaistvo": "Navip",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "Земун; фрушкогорские этикетки, но хозяйство не районное",
    "pokazaniya": [
     "vivino: Banat",
@@ -3506,6 +3697,18 @@
    "gde": "",
    "pokazaniya": [
     "vivino: Srem"
+   ]
+  },
+  "nika": {
+   "hozyaistvo": "nika",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
+   "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug"
    ]
   },
   "nikad-nije-kasno": {
@@ -3630,6 +3833,18 @@
     "vivino: Central Serbia"
    ]
   },
+  "ordevic": {
+   "hozyaistvo": "ordevic",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
+   "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug"
+   ]
+  },
   "orlic": {
    "hozyaistvo": "Vinarija Orlić",
    "region": null,
@@ -3654,9 +3869,21 @@
     "vivino: Wine of Serbia"
    ]
   },
+  "ozz-benisek-veselinovic": {
+   "hozyaistvo": "ozz-benisek-veselinovic",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
+   "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug"
+   ]
+  },
   "palic": {
    "hozyaistvo": "Podrum Palić",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -3680,13 +3907,14 @@
   },
   "panjkovic": {
    "hozyaistvo": "Vinarija Panjković",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
+   "vinogorje": "Smederevsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Smederevo, Beogradski okrug",
    "pokazaniya": [
+    "ivv: Smederevo, Beogradski okrug",
     "vivino: Wine of Serbia"
    ]
   },
@@ -3704,13 +3932,14 @@
   },
   "pantic": {
    "hozyaistvo": "Vinarija Pantić",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
    "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Mladenovac, Beogradski okrug",
    "pokazaniya": [
+    "ivv: Mladenovac, Beogradski okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -3719,10 +3948,11 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Krčedin, Sremski okrug",
    "pokazaniya": [
+    "ivv: Krčedin, Sremski okrug",
     "vivino: Srem"
    ]
   },
@@ -3738,9 +3968,21 @@
     "vivino: Wine of Serbia"
    ]
   },
+  "patrijarsijska-dobra": {
+   "hozyaistvo": "patrijarsijska-dobra",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
+   "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug"
+   ]
+  },
   "perla": {
    "hozyaistvo": "Perla",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -3777,7 +4019,7 @@
   },
   "petica": {
    "hozyaistvo": "Petica",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -3806,9 +4048,10 @@
    "vinogorje": "Palićko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Palić",
+   "gde": "Palić, Severno-bački okrug",
    "pokazaniya": [
     "falstaff: Суботица-Хоргош",
+    "ivv: Palić, Severno-bački okrug",
     "vinarijesrbije: Subotički rejon, Palić",
     "vivino: Central Serbia"
    ]
@@ -3830,14 +4073,15 @@
   "pevac": {
    "hozyaistvo": "Podrum Pevac",
    "region": "Centralna Srbija",
-   "rejon": "Rejon Tri Morave",
-   "vinogorje": "Jagodinsko vinogorje",
-   "istochnik": "decanter",
-   "raznoglasie": "",
-   "gde": "",
+   "rejon": "Šumadijski rejon",
+   "vinogorje": null,
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Šumadijski rejon, у источников Rejon Tri Morave ×4; виногорје Jagodinsko vinogorje — не из этого рејона",
+   "gde": "Kragujevac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
-    "decanter: Šumadija-Great Morava · Jagodina"
+    "decanter: Šumadija-Great Morava · Jagodina",
+    "ivv: Kragujevac, Šumadijski okrug"
    ]
   },
   "piano": {
@@ -3892,11 +4136,11 @@
   },
   "pirg": {
    "hozyaistvo": "Vinarija PIRG",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -3904,11 +4148,11 @@
   },
   "plavi-perun": {
    "hozyaistvo": "Plavi Perun",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -3934,8 +4178,9 @@
    "vinogorje": "Gročansko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Grocka",
+   "gde": "Zaklopača, Beogradski okrug",
    "pokazaniya": [
+    "ivv: Zaklopača, Beogradski okrug",
     "vinarijesrbije: Beogradski rejon, Grocka",
     "vivino: Central Serbia"
    ]
@@ -4000,6 +4245,18 @@
     "vivino: Central Serbia"
    ]
   },
+  "prekogacic": {
+   "hozyaistvo": "prekogacic",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Beočin, Južno-bački okrug",
+   "pokazaniya": [
+    "ivv: Beočin, Južno-bački okrug"
+   ]
+  },
   "prima": {
    "hozyaistvo": "Prima",
    "region": "Centralna Srbija",
@@ -4015,13 +4272,15 @@
   },
   "probus": {
    "hozyaistvo": "Podrum Probus",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
+   "gde": "Veliki Radinci, Sremski okrug",
+   "pokazaniya": [
+    "ivv: Veliki Radinci, Sremski okrug"
+   ]
   },
   "probus-vineyards": {
    "hozyaistvo": "Probus Vineyards",
@@ -4165,13 +4424,14 @@
   },
   "radosevic": {
    "hozyaistvo": "Radošević",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Banoštor, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Banoštor, Južno-bački okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -4206,10 +4466,11 @@
    "vinogorje": "Krnjevačko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Krnjevo",
+   "gde": "Krnjevo, Podunavski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Oplenac",
     "falstaff: поиск по Сербии",
+    "ivv: Krnjevo, Podunavski okrug",
     "vinarijesrbije: Rejon Šumadija, Krnjevo",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
@@ -4291,6 +4552,18 @@
     "vivino: Central Serbia"
    ]
   },
+  "rakicevic": {
+   "hozyaistvo": "rakicevic",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
+   "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug"
+   ]
+  },
   "ralevic": {
    "hozyaistvo": "Ralević",
    "region": "Centralna Srbija",
@@ -4308,11 +4581,11 @@
   },
   "raskovic": {
    "hozyaistvo": "Подрум вина Рашковић - (Rašković Winery)",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Rejon Tri Morave; Čačansko–kraljevački rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Central Serbia",
@@ -4370,23 +4643,24 @@
   },
   "rogan": {
    "hozyaistvo": "Rogan",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Lipovac, Šumadijski okrug",
    "pokazaniya": [
+    "ivv: Lipovac, Šumadijski okrug",
     "vivino: Central Serbia"
    ]
   },
   "royal": {
    "hozyaistvo": "Краљвеска Винарија (Royal Winery)",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -4444,11 +4718,11 @@
   },
   "s-milosevic": {
    "hozyaistvo": "Vinarija S. Milošević",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Rejon Tri Morave; Čačansko–kraljevački rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: West Morava",
@@ -4467,6 +4741,18 @@
     "vivino: Central Serbia"
    ]
   },
+  "sagmeister": {
+   "hozyaistvo": "sagmeister",
+   "region": "Vojvodina",
+   "rejon": "Potiski rejon",
+   "vinogorje": "Severnopotisko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Kanjiža, Severno-banatski okrug",
+   "pokazaniya": [
+    "ivv: Kanjiža, Severno-banatski okrug"
+   ]
+  },
   "salas-gnezdo-doo-becej": {
    "hozyaistvo": "Salaš Gnezdo Doo Bečej",
    "region": "Vojvodina",
@@ -4483,11 +4769,12 @@
    "hozyaistvo": "Vinarija Salaš Naš",
    "region": "Vojvodina",
    "rejon": "Subotički rejon",
-   "vinogorje": null,
-   "istochnik": "vivino",
+   "vinogorje": "Horgoško vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Horgoš, Severno-banatski okrug",
    "pokazaniya": [
+    "ivv: Horgoš, Severno-banatski okrug",
     "vivino: Subotica-Horgos"
    ]
   },
@@ -4498,36 +4785,10 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "vivino",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Rakovac, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Rakovac, Južno-bački okrug",
     "vivino: Srem"
-   ]
-  },
-  "sapat": {
-   "hozyaistvo": "Šapat",
-   "region": "Vojvodina",
-   "rejon": "Sremski rejon",
-   "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "mesto",
-   "raznoglasie": "",
-   "gde": "Нови Сланкамен",
-   "pokazaniya": [
-    "decanter: ",
-    "decanter: Vojvodina"
-   ]
-  },
-  "sapat-wine-atelier": {
-   "hozyaistvo": "šApat Wine Atelier",
-   "region": "Vojvodina",
-   "rejon": "Sremski rejon",
-   "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "decanter: ",
-    "decanter: Srem",
-    "decanter: Vojvodina"
    ]
   },
   "sava-minic": {
@@ -4571,13 +4832,14 @@
   },
   "selecta": {
    "hozyaistvo": "Vinarija Selecta",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Južnobanatski rejon",
+   "vinogorje": "Vršačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Gudurica, Južno-banatski okrug",
    "pokazaniya": [
+    "ivv: Gudurica, Južno-banatski okrug",
     "vivino: Banat"
    ]
   },
@@ -4602,6 +4864,7 @@
    "raznoglasie": "",
    "gde": "Баноштор, Фрушка гора",
    "pokazaniya": [
+    "ivv: Banoštor, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Banoštor",
     "vivino: Central Serbia",
     "vivino: Vojvodina"
@@ -4635,11 +4898,12 @@
    "hozyaistvo": "Vinarija Smiljković 90",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
-   "vinogorje": null,
-   "istochnik": "vivino",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia",
     "vivino: Tri Morave"
    ]
@@ -4662,22 +4926,35 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Beška, Sremski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
+    "ivv: Beška, Sremski okrug",
     "vivino: Vojvodina"
+   ]
+  },
+  "somogyi": {
+   "hozyaistvo": "somogyi",
+   "region": "Vojvodina",
+   "rejon": "Potiski rejon",
+   "vinogorje": "Srednjepotisko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Zrenjanin, Srednje-banatski okrug",
+   "pokazaniya": [
+    "ivv: Zrenjanin, Srednje-banatski okrug"
    ]
   },
   "soul-wine": {
    "hozyaistvo": "Soul Wine",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -4685,14 +4962,15 @@
   },
   "spasic": {
    "hozyaistvo": "Spasić",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Александровац",
    "pokazaniya": [
-    "falstaff: falstaff.com/en/wines/vinarija-spasic-2021-vinarija-spasic-tamjanika"
+    "falstaff: falstaff.com/en/wines/vinarija-spasic-2021-vinarija-spasic-tamjanika",
+    "ivv: Aleksandrovac, Rasinski okrug"
    ]
   },
   "srodne-duse": {
@@ -4705,6 +4983,18 @@
    "gde": "",
    "pokazaniya": [
     "vivino: Wine of Serbia"
+   ]
+  },
+  "stakic": {
+   "hozyaistvo": "stakic",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Neštin, Zapadno-bački okrug",
+   "pokazaniya": [
+    "ivv: Neštin, Zapadno-bački okrug"
    ]
   },
   "stankovic": {
@@ -4723,7 +5013,7 @@
   },
   "stari-dani": {
    "hozyaistvo": "Stari Dani",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -4751,13 +5041,15 @@
    "hozyaistvo": "Podrum Stari Hrast",
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
-   "vinogorje": "Oplenačko vinogorje",
-   "istochnik": "decanter",
+   "vinogorje": "Kragujevačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Žirovnica, Kragujevac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava · Oplenac",
+    "ivv: Kragujevac, Šumadijski okrug",
+    "ivv: Žirovnica, Kragujevac, Šumadijski okrug",
     "vivino: Šumadija-Great Morava"
    ]
   },
@@ -4790,11 +5082,12 @@
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Kruševačko vinogorje",
-   "istochnik": "decanter+vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Trstenik, Rasinski okrug",
    "pokazaniya": [
     "decanter: West Morava · Kruševac",
+    "ivv: Trstenik, Rasinski okrug",
     "vivino: Central Serbia",
     "vivino: Tri Morave"
    ]
@@ -4814,13 +5107,14 @@
   },
   "stojkovic": {
    "hozyaistvo": "Podrum Stojković",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Banoštor, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Banoštor, Južno-bački okrug",
     "vivino: Vojvodina"
    ]
   },
@@ -4955,10 +5249,11 @@
    "vinogorje": "Oplenačko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Aranđelovac",
+   "gde": "Arandjelovac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava · Oplenac",
+    "ivv: Arandjelovac, Šumadijski okrug",
     "vinarijesrbije: Rejon Šumadija, Aranđelovac",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
@@ -4969,15 +5264,16 @@
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Jagodinsko vinogorje",
-   "istochnik": "decanter+vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "selo Lozovik, Jagodina, Pomoravski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava",
     "decanter: Šumadija-Great Morava · Jagodina",
     "falstaff: falstaff/tastings/tasting-serbien",
     "falstaff: список белых",
     "falstaff: список красных",
+    "ivv: selo Lozovik, Jagodina, Pomoravski okrug",
     "vivino: Central Serbia",
     "vivino: Tri Morave",
     "vivino: Wine of Serbia",
@@ -5080,6 +5376,18 @@
     "vivino: Negotinska Krajina"
    ]
   },
+  "todor": {
+   "hozyaistvo": "todor",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
+   "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug"
+   ]
+  },
   "todorovic": {
    "hozyaistvo": "Vinarija Todorović",
    "region": "Centralna Srbija",
@@ -5124,13 +5432,14 @@
    "hozyaistvo": "Tonković",
    "region": "Vojvodina",
    "rejon": "Subotički rejon",
-   "vinogorje": null,
+   "vinogorje": "Palićko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Bački Vinogradi",
+   "gde": "Subotica, Severno-bački okrug",
    "pokazaniya": [
     "decanter: Subotica-Horgoš",
     "decanter: Vojvodina · Subotica",
+    "ivv: Subotica, Severno-bački okrug",
     "vinarijesrbije: Subotički rejon, Bački Vinogradi",
     "vivino: Subotica-Horgos",
     "vivino: Vojvodina"
@@ -5164,13 +5473,14 @@
   },
   "tosici": {
    "hozyaistvo": "Podrum Tošići",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -5217,11 +5527,12 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Neštin, Zapadno-bački okrug",
    "pokazaniya": [
-    "decanter: Srem"
+    "decanter: Srem",
+    "ivv: Neštin, Zapadno-bački okrug"
    ]
   },
   "tri-oraha": {
@@ -5238,13 +5549,14 @@
   },
   "tri-planine": {
    "hozyaistvo": "Три Планине (Vinarija Tri Planine)",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Šumadija-Great Morava"
    ]
   },
@@ -5258,6 +5570,18 @@
    "gde": "",
    "pokazaniya": [
     "vivino: Wine of Serbia"
+   ]
+  },
+  "trilogija": {
+   "hozyaistvo": "trilogija",
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Banja, Arandjelovac, Šumadijski okrug",
+   "pokazaniya": [
+    "ivv: Banja, Arandjelovac, Šumadijski okrug"
    ]
   },
   "trilogija-vinery": {
@@ -5279,9 +5603,10 @@
    "vinogorje": "Avalsko-kosmajsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Vranić",
+   "gde": "Vranić, Beograd, Beogradski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Belgrade",
+    "ivv: Vranić, Beograd, Beogradski okrug",
     "vinarijesrbije: Beogradski rejon, Vranić",
     "vivino: Wine of Serbia"
    ]
@@ -5291,11 +5616,12 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter+vinarijesrbije+vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Срем, по данным Vivino",
+   "gde": "Šid, Sremski okrug",
    "pokazaniya": [
     "decanter: Srem",
+    "ivv: Šid, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Šid",
     "vivino: Srem"
    ]
@@ -5353,7 +5679,7 @@
   },
   "uns-petra": {
    "hozyaistvo": "Uns Petra",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -5367,11 +5693,12 @@
    "hozyaistvo": "urosevic",
    "region": "Centralna Srbija",
    "rejon": "Knjaževački rejon",
-   "vinogorje": "Potrkanjsko vinogorje",
-   "istochnik": "mesto",
-   "raznoglasie": "",
-   "gde": "Knjaževac",
+   "vinogorje": null,
+   "istochnik": "vinarijesrbije",
+   "raznoglasie": "города спорят: Banoštor, Južno-bački okrug → Sremski rejon; Knjaževac → Knjaževački rejon",
+   "gde": "",
    "pokazaniya": [
+    "ivv: Banoštor, Južno-bački okrug",
     "vinarijesrbije: Knjaževački rejon, Knjaževac"
    ]
   },
@@ -5426,11 +5753,12 @@
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
    "vinogorje": "Oplenačko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aranđelovac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Oplenac",
+    "ivv: Aranđelovac, Šumadijski okrug",
     "vivino: Central Serbia",
     "vivino: Wine of Serbia"
    ]
@@ -5454,10 +5782,11 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Sremski Karlovci",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Sremski Karlovci",
     "vivino: Srem"
    ]
@@ -5482,11 +5811,12 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Čerević, Južno-bački okrug",
    "pokazaniya": [
     "decanter: Srem",
+    "ivv: Čerević, Južno-bački okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -5504,13 +5834,15 @@
   },
   "vertiz": {
    "hozyaistvo": "Vertiz",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Levačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
+   "gde": "Levačko vinogorje, Pomoravski okrug",
+   "pokazaniya": [
+    "ivv: Levačko vinogorje, Pomoravski okrug"
+   ]
   },
   "verus": {
    "hozyaistvo": "Verus",
@@ -5526,11 +5858,11 @@
   },
   "victory": {
    "hozyaistvo": "Victory",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Rejon Tri Morave; Čačansko–kraljevački rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: West Morava"
@@ -5578,12 +5910,13 @@
    "hozyaistvo": "ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery)",
    "region": "Centralna Srbija",
    "rejon": "Rejon Negotinska Krajina",
-   "vinogorje": null,
-   "istochnik": "decanter+vivino",
+   "vinogorje": "Negotinsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Vidrovac, Negotin, Borski okrug",
    "pokazaniya": [
     "decanter: Negotinska Krajina",
+    "ivv: Vidrovac, Negotin, Borski okrug",
     "vivino: Central Serbia",
     "vivino: Negotinska Krajina"
    ]
@@ -5627,7 +5960,7 @@
   },
   "vina-pesic": {
    "hozyaistvo": "Vina Pešić",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -5639,11 +5972,11 @@
   },
   "vina-todor": {
    "hozyaistvo": "Полрум Вина Тодор (Podrum Vina Todor)",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -5669,8 +6002,9 @@
    "vinogorje": "Fruškogorsko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Beočin",
+   "gde": "Banoštor, Južno-bački okrug",
    "pokazaniya": [
+    "ivv: Banoštor, Južno-bački okrug",
     "vinarijesrbije: Sremski rejon, Beočin",
     "vivino: Srem"
    ]
@@ -5729,12 +6063,13 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "bolshinstvo",
-   "raznoglasie": "Sremski rejon ×7; Šumadijski rejon ×1",
-   "gde": "",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Sremski rejon, у источников Sremski rejon ×7; Šumadijski rejon ×1",
+   "gde": "Šid, Sremski okrug",
    "pokazaniya": [
     "decanter: Srem",
     "falstaff: falstaff/wineries/vinarija-vincic",
+    "ivv: Šid, Sremski okrug",
     "vinarijesrbije: Rejon Šumadija",
     "vivino: Srem",
     "vivino: Vojvodina"
@@ -5745,11 +6080,12 @@
    "region": "Vojvodina",
    "rejon": "Rejon Bačka",
    "vinogorje": null,
-   "istochnik": "vinarijesrbije+vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Temerin, Južno-bački okrug",
    "pokazaniya": [
     "decanter: ",
+    "ivv: Temerin, Južno-bački okrug",
     "vinarijesrbije: Bački rejon",
     "vivino: Bačka",
     "vivino: Central Serbia",
@@ -5832,11 +6168,12 @@
    "hozyaistvo": "Vinik",
    "region": "Vojvodina",
    "rejon": "Južnobanatski rejon",
-   "vinogorje": null,
-   "istochnik": "vinarijesrbije",
+   "vinogorje": "Vršačko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Vršac, Južno-banatski okrug",
    "pokazaniya": [
+    "ivv: Vršac, Južno-banatski okrug",
     "vinarijesrbije: Južnobanatski rejon",
     "vivino: Central Serbia",
     "vivino: Wine of Serbia"
@@ -5871,12 +6208,13 @@
    "hozyaistvo": "Vino Budimir",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
-   "vinogorje": null,
-   "istochnik": "vivino",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
     "falstaff: поиск по Сербии",
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia",
     "vivino: Tri Morave"
    ]
@@ -5969,23 +6307,24 @@
   },
   "vinska-kuca-minica": {
    "hozyaistvo": "Vinska Kuća Minića",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia"
    ]
   },
   "vinska-kuca-rajic": {
    "hozyaistvo": "Vinska Kuća Rajić",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -6010,8 +6349,9 @@
    "vinogorje": null,
    "istochnik": "vivino",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Hajdukovo, Severno-bački okrug",
    "pokazaniya": [
+    "ivv: Hajdukovo, Severno-bački okrug",
     "vivino: California",
     "vivino: Dalmatian Coast",
     "vivino: Subotica-Horgos"
@@ -6034,13 +6374,14 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "istochnik": "decanter+vivino",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Sremski Karlovci, Južno-bački okrug",
    "pokazaniya": [
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
     "falstaff: список белых",
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vivino: Central Serbia",
     "vivino: Srem",
     "vivino: Vojvodina"
@@ -6062,14 +6403,15 @@
    "hozyaistvo": "Virtus",
    "region": "Centralna Srbija",
    "rejon": "Mlavski rejon",
-   "vinogorje": null,
-   "istochnik": "bolshinstvo",
-   "raznoglasie": "Mlavski rejon ×45; Beogradski rejon ×2",
-   "gde": "Decanter называет район Млава (Браничево, к востоку от Белграда). Значит, не Шумадия, как пишет Vivino. Есть ли Млава внутри главы «Подунавье и Белградский район» — решать автору.",
+   "vinogorje": "Požarevačko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Mlavski rejon, у источников Mlavski rejon ×45; Beogradski rejon ×2",
+   "gde": "Žabari, Braničevski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava · Belgrade",
     "decanter: Šumadija-Great Morava · Mlava",
+    "ivv: Žabari, Braničevski okrug",
     "vinarijesrbije: Mlavski rejon, Viteževo",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
@@ -6163,20 +6505,21 @@
   },
   "vojinovic": {
    "hozyaistvo": "Vinarija Vojinović",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
    "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Mladenovac, Beogradski okrug",
    "pokazaniya": [
+    "ivv: Mladenovac, Beogradski okrug",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
    ]
   },
   "vojnovic": {
    "hozyaistvo": "Vinarija Vojnović",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -6201,11 +6544,11 @@
   },
   "vrsacki": {
    "hozyaistvo": "Vršački Vinogradi",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat"
@@ -6251,11 +6594,12 @@
    "hozyaistvo": "Vujić",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
-   "vinogorje": null,
-   "istochnik": "vinarijesrbije",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Лукаревина",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vinarijesrbije: Rejon Tri Morave, Aleksandrovac",
     "vivino: Central Serbia"
    ]
@@ -6306,6 +6650,18 @@
     "vivino: Wine of Serbia"
    ]
   },
+  "wine-house-kosmaj": {
+   "hozyaistvo": "wine-house-kosmaj",
+   "region": "Centralna Srbija",
+   "rejon": "Beogradski rejon",
+   "vinogorje": "Avalsko-kosmajsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Rogaca, Beogradski okrug",
+   "pokazaniya": [
+    "ivv: Rogaca, Beogradski okrug"
+   ]
+  },
   "wineco": {
    "hozyaistvo": "WinEco",
    "region": null,
@@ -6340,6 +6696,7 @@
    "raznoglasie": "",
    "gde": "Жупа",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia",
     "vivino: Šumadija-Great Morava"
    ]
@@ -6357,6 +6714,18 @@
     "vivino: Vojvodina"
    ]
   },
+  "zabic": {
+   "hozyaistvo": "zabic",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Čerević, Južno-bački okrug",
+   "pokazaniya": [
+    "ivv: Čerević, Južno-bački okrug"
+   ]
+  },
   "zagorac": {
    "hozyaistvo": "Podrum Zagorac",
    "region": null,
@@ -6371,13 +6740,15 @@
   },
   "zarkovic": {
    "hozyaistvo": "Žarković",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
+   "gde": "Aleksandrovac, Rasinski okrug",
+   "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug"
+   ]
   },
   "zdravkovici": {
    "hozyaistvo": "zdravkovici",
@@ -6396,7 +6767,7 @@
    "region": "Vojvodina",
    "rejon": "Rejon Bačka",
    "vinogorje": null,
-   "istochnik": "vinarijesrbije",
+   "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Temerin",
    "pokazaniya": [
@@ -6430,7 +6801,7 @@
   },
   "zivac": {
    "hozyaistvo": "Živač",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -6449,6 +6820,7 @@
    "raznoglasie": "",
    "gde": "Сремски Карловци",
    "pokazaniya": [
+    "ivv: Sremski Karlovci, Južno-bački okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -6466,13 +6838,14 @@
   },
   "zivkovic": {
    "hozyaistvo": "Винарија Живковић (Vinarija Živković)",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "Rejon Tri Morave ×1; Mlavski rejon ×1",
-   "gde": "",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
+   "raznoglasie": "по месту Rejon Tri Morave, у источников Rejon Tri Morave ×1; Mlavski rejon ×1",
+   "gde": "Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "ivv: Aleksandrovac, Rasinski okrug",
     "vinarijesrbije: Mlavski rejon",
     "vivino: Central Serbia",
     "vivino: Tri Morave",
@@ -6508,12 +6881,13 @@
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
    "vinogorje": "Oplenačko vinogorje",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Lipovac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Šumadija-Great Morava · Oplenac",
+    "ivv: Lipovac, Šumadijski okrug",
     "vivino: Central Serbia"
    ]
   },
@@ -6524,19 +6898,20 @@
    "vinogorje": "Lazarevačko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Lazarevac",
+   "gde": "Lazarevac, Beogradski okrug",
    "pokazaniya": [
     "decanter: Šumadija-Great Morava · Belgrade",
+    "ivv: Lazarevac, Beogradski okrug",
     "vinarijesrbije: Beogradski rejon, Lazarevac",
     "vivino: Central Serbia"
    ]
   },
   "zupa": {
    "hozyaistvo": "Zupa",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Александровац, Жупа",
    "pokazaniya": [
@@ -6545,10 +6920,10 @@
   },
   "zupa-aleksandrovac": {
    "hozyaistvo": "zupa-aleksandrovac",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Александровац, Жупа",
    "pokazaniya": []
@@ -6572,13 +6947,14 @@
    "vinogorje": "Palićko vinogorje",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Palić",
+   "gde": "Palić, Severno-bački okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Subotica-Horgoš",
     "decanter: Vojvodina",
     "decanter: Vojvodina · Subotica",
     "falstaff: Суботица-Хоргош",
+    "ivv: Palić, Severno-bački okrug",
     "vinarijesrbije: Subotički rejon, Palić",
     "vivino: Central Serbia",
     "vivino: Subotica-Horgos",
@@ -6587,7 +6963,7 @@
   },
   "винари-а-короли-а": {
    "hozyaistvo": "Винарија Королија",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
@@ -6634,11 +7010,11 @@
   },
   "дика-винари-а": {
    "hozyaistvo": "Дика Винарија",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -6682,11 +7058,11 @@
   },
   "орли-породична-винари-а-orlic-family": {
    "hozyaistvo": "Орлић Породична Винарија - Orlić Family Winery",
-   "region": null,
+   "region": "Vojvodina",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Banat",
@@ -6719,11 +7095,11 @@
   },
   "подрум-мило-еви": {
    "hozyaistvo": "Подрум Милојевић",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Šumadija-Great Morava"
@@ -6731,11 +7107,11 @@
   },
   "подрум-певац": {
    "hozyaistvo": "Подрум Певац",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
    "gde": "",
    "pokazaniya": [
     "vivino: Central Serbia",

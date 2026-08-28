@@ -65,6 +65,8 @@ Vivino район еле наскребает пятёрку.
 | Molovin · Inat Frankovka | 2019 | 93 | Falstaff |
 | Bjelica · Graffiti | 2018 | 93 | Falstaff |
 | Deurić · Aksiom Beli | 2019 | 92 | Falstaff |
+| Erdevik · Grand Trianon Deux Mers | 2016 | 92 | Falstaff |
+| Bikicki · Sfera Noir (натуральное) | 2021 | 92 | Falstaff |
 | Erdevik · Grand Trianon | — | 91 | Wine-Searcher |
 | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot | — | 91 | Wine-Searcher |
 | Kovačević · Aurelius Edicija S | 2019 | 90 | Falstaff |
@@ -102,10 +104,12 @@ Vivino район еле наскребает пятёрку.
 | Aleksandrović · Trijumf Selection Sauvignon Blanc | 2021 | 93 | Falstaff |
 | Aleksandrović · Trijumf Selection | 2021 | 93 | Falstaff |
 | Aleksandrović · Rodoslov Grand Reserve | 2018 | 93 | Falstaff |
+| Radovanović · Cabernet Sauvignon Reserve | 2019 | 92 | Falstaff |
 | Aleksandrović · Rodoslov Reserve | — | 91 | Wine-Searcher |
 | Radovanović · Reserve Cabernet Sauvignon | 2013 | 91 | Tastings.com |
 | Despotika · Morava | 2021 | 91 | Falstaff |
 | Despotika · Zmajeviti Prokupac | — | 91 | Falstaff |
+| Aleksandrović · Vizija Selection | 2020 | 91 | Falstaff |
 | Radovanović · Réserve Cabernet Sauvignon | — | 90 | Wine-Searcher |
 | Radovanović · Classique Cabernet Sauvignon | 2015 | 90 | Tastings.com |
 | Despotika · Nemir rosé | 2024 | 89 | Falstaff |

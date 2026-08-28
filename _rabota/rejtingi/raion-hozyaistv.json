@@ -271,6 +271,29 @@
     "Francuska vinarija": {
       "raion": "negotin",
       "istochnik": "kniga"
+    },
+    "Jeremić": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen",
+      "gde": "Vivino относит к «Šumadija-Velika Morava»; точное виногорье не установлено"
+    },
+    "Art Wine": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Vinartos": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Vila Vina": {
+      "raion": null,
+      "istochnik": "raspolozhenie",
+      "gde": "Vivino относит к «Zapadna Morava» — главы под этот район в книге нет"
+    },
+    "Belo Brdo": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Срем, по данным Vivino"
     }
   }
 }

@@ -45,7 +45,7 @@
 
 Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
 
-Veritas Ćuković · Momentum Cabernet Sauvignon 4.4, Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 4.3, Erdevik · Stifler's Mom Shiraz 4.3, Kovačević · Edicija R Chardonnay 4.2, Erdevik · Trianon 4.1, Kovačević · Edicija R Sauvignon 4.1, Kovačević · Edicija S Sauvignon 4.1, Bikicki · Victor 4.1, Bikicki · Sfera Noir 4.1, Đurđić · Probus 4.1, Molovin · Inat Traminac 4.1, Šapat · Àkcent Réserve 4.1, Vinčić · Grand Fru 4.0, Bikicki · Makana 4.0 — и ещё 71.
+Veritas Ćuković · Momentum Cabernet Sauvignon 4.4, Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 4.3, Erdevik · Stifler's Mom Shiraz 4.3, Kovačević · Edicija R Chardonnay 4.2, Chichateau · Chi Chardonnay 4.2, Chichateau · Fabula Lagum 4.2, Erdevik · Trianon 4.1, Kovačević · Edicija R Sauvignon 4.1, Kovačević · Edicija S Sauvignon 4.1, Bikicki · Victor 4.1, Bikicki · Sfera Noir 4.1, Đurđić · Probus 4.1, Molovin · Inat Traminac 4.1, Šapat · Àkcent Réserve 4.1 — и ещё 76.
 
 ## Суботичско-Хоргошская пешчара
 

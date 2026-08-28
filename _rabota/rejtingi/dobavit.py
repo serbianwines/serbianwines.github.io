@@ -8,12 +8,39 @@
 
 Число отзывов может быть пустым: значит, выдача его не показала. Такие
 записи в отбор не идут, но в файле остаются — по ним видно, что искать дальше.
+
+Строки берутся со стандартного входа или из файла, если он назван первым
+доводом, — на Windows это единственный удобный способ:
+
+    py -3 dobavit.py dobavka.txt
 """
 import json
 import os
 import sys
 
+# На русской Windows консоль по умолчанию не UTF-8, и первая же кириллица
+# в выводе роняет скрипт с UnicodeEncodeError. Просим UTF-8 явно.
+for _potok in (sys.stdout, sys.stderr, sys.stdin):
+    if hasattr(_potok, "reconfigure"):
+        try:
+            _potok.reconfigure(encoding="utf-8", errors="replace")
+        except (ValueError, OSError):
+            pass
+
 FAJL = os.path.join(os.path.dirname(os.path.abspath(__file__)), "vivino-zapisi.jsonl")
+
+
+def otkryt_vhod():
+    """Строки со входа: из файла, если он назван, иначе из stdin.
+
+    В PowerShell и cmd нет heredoc, и подать строки на stdin неудобно.
+    Поэтому на Windows проще положить их в файл и передать его именем:
+
+        py -3 dobavit.py dobavka.txt
+    """
+    if len(sys.argv) > 1:
+        return open(sys.argv[1], encoding="utf-8").read().splitlines()
+    return sys.stdin
 
 
 def main():
@@ -25,7 +52,7 @@ def main():
                 bylo[(z["hozyaistvo"], z["vino"])] = z
 
     dobavleno = obnovleno = 0
-    for stroka in sys.stdin:
+    for stroka in otkryt_vhod():
         stroka = stroka.strip()
         if not stroka or stroka.startswith("#"):
             continue

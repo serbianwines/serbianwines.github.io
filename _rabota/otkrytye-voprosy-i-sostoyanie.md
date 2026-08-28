@@ -95,6 +95,10 @@ JSON, который страница получает от своего сер�
 нужен) и `rejtingi/sobrat-brauzerom.py` (Falstaff, награды Decanter, vino.rs
 через Playwright). Оба на живых сайтах не проверялись.
 
+Скрипты готовы к запуску и на Windows: команда `py -3`, вывод сам просит
+UTF-8, а строки для пополнения подаются файлом, потому что heredoc в
+PowerShell нет. Раздел «На Windows» в `rejtingi/README.md`.
+
 Правило отбора и вопросы, которые решать автору, — в `rejtingi/README.md`.
 
 ---

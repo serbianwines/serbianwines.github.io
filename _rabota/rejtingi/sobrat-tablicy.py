@@ -27,8 +27,18 @@
 import csv
 import json
 import os
+import sys
 import re
 import unicodedata
+
+# На русской Windows консоль по умолчанию не UTF-8, и первая же кириллица
+# в выводе роняет скрипт с UnicodeEncodeError. Просим UTF-8 явно.
+for _potok in (sys.stdout, sys.stderr, sys.stdin):
+    if hasattr(_potok, "reconfigure"):
+        try:
+            _potok.reconfigure(encoding="utf-8", errors="replace")
+        except (ValueError, OSError):
+            pass
 
 RYADOM = os.path.dirname(os.path.abspath(__file__))
 SOBRANO = "2026-08-28"

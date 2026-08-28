@@ -78,6 +78,33 @@
     python3 _rabota/rejtingi/sobrat-tablicy.py
     python3 _rabota/rejtingi/proverit-dannye.py
 
+### На Windows
+
+То же самое, но с тремя оговорками.
+
+**Команда — `py -3`, не `python3`.** В PowerShell, из корня репозитория:
+
+    py -3 -m pip install playwright
+    py -3 -m playwright install chromium
+    py -3 _rabota\rejtingi\sobrat-rejtingi.py
+    py -3 _rabota\rejtingi\sobrat-brauzerom.py
+    py -3 _rabota\rejtingi\sobrat-tablicy.py
+    py -3 _rabota\rejtingi\proverit-dannye.py
+
+**Кириллица в выводе.** Русская консоль Windows по умолчанию не UTF-8, и
+первая же русская буква уронила бы скрипт с `UnicodeEncodeError`. Все
+скрипты теперь просят UTF-8 сами, ничего настраивать не нужно. Если вывод
+всё же в кракозябрах, помогает `chcp 65001` перед запуском.
+
+**Пополнение данных.** В PowerShell и cmd нет heredoc, поэтому строки для
+`dobavit.py`, `dobavit-kritiki.py` и `dobavit-nagrady.py` подаются файлом:
+
+    py -3 _rabota\rejtingi\dobavit.py dobavka.txt
+
+Файл — обычный текстовый, в UTF-8, по строке на запись, формат тот же, что
+описан в шапке каждого скрипта. Пустые строки и строки с `#` пропускаются.
+Режим со стандартным входом никуда не делся и работает как раньше.
+
 Порядок величин: Vivino отдаёт около двух тысяч сербских вин за сорок-восемьдесят
 запросов, то есть минуты. Списки Falstaff — четыре загрузки страниц вместо
 полусотни поисков. Награды Decanter — по одной загрузке на год конкурса.

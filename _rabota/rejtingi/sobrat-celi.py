@@ -17,6 +17,15 @@ import json
 import re
 import sys
 
+# На русской Windows консоль по умолчанию не UTF-8, и первая же кириллица
+# в выводе роняет скрипт с UnicodeEncodeError. Просим UTF-8 явно.
+for _potok in (sys.stdout, sys.stderr, sys.stdin):
+    if hasattr(_potok, "reconfigure"):
+        try:
+            _potok.reconfigure(encoding="utf-8", errors="replace")
+        except (ValueError, OSError):
+            pass
+
 REGIONY = [
     ("fruska",     "Фрушка гора"),
     ("subotica",   "Суботичско-Хоргошская пешчара"),

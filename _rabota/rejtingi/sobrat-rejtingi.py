@@ -40,6 +40,15 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+# На русской Windows консоль по умолчанию не UTF-8, и первая же кириллица
+# в выводе роняет скрипт с UnicodeEncodeError. Просим UTF-8 явно.
+for _potok in (sys.stdout, sys.stderr, sys.stdin):
+    if hasattr(_potok, "reconfigure"):
+        try:
+            _potok.reconfigure(encoding="utf-8", errors="replace")
+        except (ValueError, OSError):
+            pass
+
 RYADOM = os.path.dirname(os.path.abspath(__file__))
 CELI = os.path.join(RYADOM, "celi-spisok.json")
 SYRYE = os.path.join(RYADOM, "vivino-syrye.json")

@@ -5,7 +5,7 @@
 {"hozyaistvo": "Agrina", "klyuch": "agrina", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Alaska Barka", "klyuch": "alaska-barka", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Alchemy Winery", "klyuch": "alchemy", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
-{"hozyaistvo": "Aleksandar Todorovic", "klyuch": "aleksandar-todorovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 12}
+{"hozyaistvo": "Aleksandar Todorović", "klyuch": "aleksandar-todorovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 12}
 {"hozyaistvo": "Aleksandrović", "klyuch": "aleksandrovic", "raion_knigi": "sumadija", "raion_istochnik": "kniga", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 39}
 {"hozyaistvo": "Aleksić", "klyuch": "aleksic", "raion_knigi": "jugoistok", "raion_istochnik": "kniga", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 20}
 {"hozyaistvo": "Amstadt Winery", "klyuch": "amstadt", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
@@ -19,6 +19,7 @@
 {"hozyaistvo": "Atelje Vina Šapat", "klyuch": "atelje-vina-sapat", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 26}
 {"hozyaistvo": "Atos-Fructum", "klyuch": "atos-fructum", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Ačanski", "klyuch": "acanski", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
+{"hozyaistvo": "BT Winery", "klyuch": "bt", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 11}
 {"hozyaistvo": "Bacina Vino", "klyuch": "bacina-vino", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Bahus", "klyuch": "bahus", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 5}
 {"hozyaistvo": "Bajilo", "klyuch": "bajilo", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 14}
@@ -36,7 +37,6 @@
 {"hozyaistvo": "Botunjac", "klyuch": "botunjac", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 8}
 {"hozyaistvo": "Braca Rajkovic", "klyuch": "braca-rajkovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 10}
 {"hozyaistvo": "Breg", "klyuch": "breg", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
-{"hozyaistvo": "Bt Winery", "klyuch": "bt", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 11}
 {"hozyaistvo": "Budimir", "klyuch": "budimir", "raion_knigi": "morave", "raion_istochnik": "kniga", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Chardonnay", "klyuch": "chardonnay", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Chicha", "klyuch": "chicha", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 11}
@@ -85,7 +85,7 @@
 {"hozyaistvo": "Janek Wineyard", "klyuch": "janek-wineyard", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Janovi Vinogradi", "klyuch": "janovi", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Jevremović", "klyuch": "jevremovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
-{"hozyaistvo": "Josic", "klyuch": "josic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
+{"hozyaistvo": "Josic Winery", "klyuch": "josic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Jović", "klyuch": "jovic", "raion_knigi": "jugoistok", "raion_istochnik": "kniga", "gde": "Потркање", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 16}
 {"hozyaistvo": "K-ing", "klyuch": "k-ing", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Kalem", "klyuch": "kalem", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 23}
@@ -115,7 +115,7 @@
 {"hozyaistvo": "Mali Šareni Podrum", "klyuch": "mali-sareni", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Manastir Bukovo", "klyuch": "bukovo", "raion_knigi": "negotin", "raion_istochnik": "kniga", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Manastira Bukovo", "klyuch": "manastira-bukovo", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
-{"hozyaistvo": "Manufaktura Spasic", "klyuch": "manufaktura-spasic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 10}
+{"hozyaistvo": "Manufaktura Spasić", "klyuch": "manufaktura-spasic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 10}
 {"hozyaistvo": "Marinković", "klyuch": "marinkovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Marko", "klyuch": "marko", "raion_knigi": "sumadija", "raion_istochnik": "kniga", "gde": "Ясиковица", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Marselan", "klyuch": "marselan", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
@@ -161,7 +161,6 @@
 {"hozyaistvo": "Pet Hrastova", "klyuch": "pet-hrastova", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
 {"hozyaistvo": "Petica", "klyuch": "petica", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
 {"hozyaistvo": "Petković Latin", "klyuch": "petkovic-latin", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
-{"hozyaistvo": "Petra", "klyuch": "petra", "raion_knigi": "subotica", "raion_istochnik": "kniga", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 10}
 {"hozyaistvo": "Pimnica Perić", "klyuch": "pimnica-peric", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 5}
 {"hozyaistvo": "Plavi Perun", "klyuch": "plavi-perun", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Plavinac", "klyuch": "plavinac", "raion_knigi": "podunavlje", "raion_istochnik": "kniga", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 26}
@@ -223,7 +222,6 @@
 {"hozyaistvo": "Saboss", "klyuch": "saboss", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 6}
 {"hozyaistvo": "Salaxia", "klyuch": "salaxia", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 8}
 {"hozyaistvo": "Salaš Gnezdo Doo Bečej", "klyuch": "salas-gnezdo-doo-becej", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
-{"hozyaistvo": "Sapat Wine Atelier", "klyuch": "sapat-wine-atelier", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Sava Minić", "klyuch": "sava-minic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
 {"hozyaistvo": "Savković", "klyuch": "savkovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
 {"hozyaistvo": "Serbika Wine", "klyuch": "serbika-wine", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 5}
@@ -293,16 +291,16 @@
 {"hozyaistvo": "Vinarija Burma Fruška Gora", "klyuch": "burma-fruska-gora", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 6}
 {"hozyaistvo": "Vinarija Coka", "klyuch": "coka", "raion_knigi": "banat", "raion_istochnik": "raspolozhenie", "gde": "Чока, северный Банат", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 43}
 {"hozyaistvo": "Vinarija Dajic", "klyuch": "dajic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 7}
-{"hozyaistvo": "Vinarija Delena", "klyuch": "delena", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 7}
+{"hozyaistvo": "Vinarija DeLena", "klyuch": "delena", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 7}
 {"hozyaistvo": "Vinarija Dosen", "klyuch": "dosen", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Vinarija Dragić", "klyuch": "dragic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 9}
 {"hozyaistvo": "Vinarija Dumo", "klyuch": "dumo", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Vinarija Eden", "klyuch": "eden", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 10}
-{"hozyaistvo": "Vinarija Fleur D'Oranger", "klyuch": "fleur-d-oranger", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 5}
+{"hozyaistvo": "Vinarija Fleur D'Oranger", "klyuch": "fleur-doranger", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 5}
 {"hozyaistvo": "Vinarija Fragaria", "klyuch": "fragaria", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 8}
 {"hozyaistvo": "Vinarija Frug", "klyuch": "frug", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 9}
 {"hozyaistvo": "Vinarija Frunza Aglaja", "klyuch": "frunza-aglaja", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
-{"hozyaistvo": "Vinarija Gamanovič", "klyuch": "gamanovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 8}
+{"hozyaistvo": "Vinarija Gamanović", "klyuch": "gamanovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 8}
 {"hozyaistvo": "Vinarija Gnezdo", "klyuch": "gnezdo", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Vinarija Grumen", "klyuch": "grumen", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 8}
 {"hozyaistvo": "Vinarija Gvožđan", "klyuch": "gvozdan", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
@@ -337,6 +335,7 @@
 {"hozyaistvo": "Vinarija PIRG", "klyuch": "pirg", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 6}
 {"hozyaistvo": "Vinarija Panjković", "klyuch": "panjkovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Vinarija Pantić", "klyuch": "pantic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 5}
+{"hozyaistvo": "Vinarija Petra", "klyuch": "petra", "raion_knigi": "subotica", "raion_istochnik": "kniga", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 10}
 {"hozyaistvo": "Vinarija Piano", "klyuch": "piano", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 14}
 {"hozyaistvo": "Vinarija Podrum Danguba", "klyuch": "danguba", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 4}
 {"hozyaistvo": "Vinarija Porta", "klyuch": "porta", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
@@ -364,7 +363,7 @@
 {"hozyaistvo": "Vinarija Tomić - Rošci", "klyuch": "tomic-rosci", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Vinarija Trišić", "klyuch": "trisic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Vinarija Unikat", "klyuch": "unikat", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
-{"hozyaistvo": "Vinarija Val d'Ov", "klyuch": "val-d-ov", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
+{"hozyaistvo": "Vinarija Val d'Ov", "klyuch": "val-dov", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Vinarija Venčac", "klyuch": "vencac", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Vinarija Vilotijević", "klyuch": "vilotijevic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 2}
 {"hozyaistvo": "Vinarija Vimmid", "klyuch": "vimmid", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
@@ -435,6 +434,7 @@
 {"hozyaistvo": "Šapat", "klyuch": "sapat", "raion_knigi": "fruska", "raion_istochnik": "kniga", "gde": "Нови Сланкамен", "v_knige": true, "vivino_slug": "atelje-vina-sapat", "falstaff_zvezd": null, "vin_v_dannyh": 3}
 {"hozyaistvo": "Šumadija", "klyuch": "sumadija", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}
 {"hozyaistvo": "Šveljo", "klyuch": "sveljo", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 3}
+{"hozyaistvo": "šApat Wine Atelier", "klyuch": "sapat-wine-atelier", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Žarković", "klyuch": "zarkovic", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 0}
 {"hozyaistvo": "Živanović", "klyuch": "zivanovic", "raion_knigi": "fruska", "raion_istochnik": "raspolozhenie", "gde": "Сремски Карловци", "v_knige": true, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 11}
 {"hozyaistvo": "Živač", "klyuch": "zivac", "raion_knigi": null, "raion_istochnik": "ne_ustanovlen", "gde": "", "v_knige": false, "vivino_slug": "", "falstaff_zvezd": null, "vin_v_dannyh": 1}

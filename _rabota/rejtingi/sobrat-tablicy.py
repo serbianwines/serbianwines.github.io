@@ -168,6 +168,48 @@ def klyuch_hozyaistva(imya):
     return "-".join(chasti) or k
 
 
+def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
+    """Ключ вина: хозяйство плюс имя, без повтора хозяйства в имени.
+
+    Falstaff печатает имя хозяйства внутри названия вина — «Zvonko Bogdan
+    Cuvée No 1», «Manastir Bukovo Filigran Gamay», — а Decanter и Vivino
+    зовут те же вина «Cuvée No.1» и «Filigran Gamay». Без снятия повтора
+    одно вино попадает в таблицу дважды и в отчёте стоит двумя строками.
+
+    Для записей Vivino повтор не снимается: у них есть собственный
+    идентификатор, и он говорит, что «Tarpos Merlot» и «Merlot» у Tarpoš —
+    две разные позиции каталога. Свести их по имени значило бы решить за
+    Vivino, что это одно вино, и потерять одну из двух выборок отзывов.
+    """
+    hoz = klyuch_hozyaistva(hozyaistvo)
+    chasti = klyuch(vino).split("-")
+    if snimat_povtor:
+        for skolko in range(len(chasti) - 1, 0, -1):
+            nachalo = [c for c in chasti[:skolko] if c not in SLUZHEBNYE]
+            if "-".join(nachalo) == hoz:
+                chasti = chasti[skolko:]
+                break
+    return hoz + "-" + "-".join(chasti)
+
+
+def imya_vina(hozyaistvo, vino, snimat_povtor=True):
+    """Имя вина для таблиц — без имени хозяйства в начале.
+
+    Ключ повтор уже снимает; здесь то же самое делается с показываемым
+    именем, иначе в отчёте стоит «Zvonko Bogdan · Zvonko Bogdan Cuvée
+    No 1». В сырых записях имя остаётся ровно таким, как его печатает
+    источник, — таблицы производные, сырьё правится только руками.
+    """
+    if not snimat_povtor:
+        return vino
+    slova = vino.split()
+    hoz = klyuch_hozyaistva(hozyaistvo)
+    for skolko in range(len(slova) - 1, 0, -1):
+        if klyuch_hozyaistva(" ".join(slova[:skolko])) == hoz:
+            return " ".join(slova[skolko:])
+    return vino
+
+
 def klyuch(*chasti):
     """Устойчивый ключ: без регистра, диакритики и лишних пробелов."""
     s = " ".join(c for c in chasti if c).lower()
@@ -175,6 +217,11 @@ def klyuch(*chasti):
     s = s.replace("ć", "c").replace("ž", "z")
     s = unicodedata.normalize("NFKD", s)
     s = "".join(z for z in s if not unicodedata.combining(z))
+    # Апостроф и точка внутри слова разделителями не работают: «King's
+    # Crown» и «Kings Crown», «Cuvée No.1» и «Cuvee No1» — одно вино,
+    # записанное разными руками. Пробел и дефис разделителями остаются,
+    # иначе «Cabernet-Merlot» разошлось бы с «Cabernet Merlot».
+    s = re.sub(r"[.'\u2019]", "", s)
     s = re.sub(r"[^a-z0-9а-я]+", "-", s)
     return s.strip("-")
 
@@ -256,7 +303,14 @@ def main():
     for k, nabor in varianty.items():
         knizhnye = [i for i in nabor if klyuch_hozyaistva(i) in imena_knigi
                     and i in karta]
-        imena.append(knizhnye[0] if knizhnye else max(nabor, key=len))
+        # Ровно равные по длине варианты («Todorović» и «Todorovic»)
+        # иначе выбирались как попало — от запуска к запуску имя в
+        # таблицах менялось. Порядок задан явно: длиннее, с диакритикой,
+        # затем по алфавиту.
+        imena.append(knizhnye[0] if knizhnye else
+                     sorted(nabor, key=lambda i: (-len(i),
+                                                  -sum(z > "\x7f" for z in i),
+                                                  i))[0])
     # Канонические имена выбраны; теперь всюду пишем именно их, иначе
     # в таблице вин хозяйство будет зваться иначе, чем в таблице хозяйств.
     kanon = {}
@@ -310,7 +364,7 @@ def main():
     # ---------------- вина ----------------
     vina, vidano = [], {}
     for z in vivino:
-        k = klyuch_hozyaistva(z["hozyaistvo"]) + "-" + klyuch(z["vino"])
+        k = klyuch_vina(z["hozyaistvo"], z["vino"], snimat_povtor=False)
         vivino_id, adres, _ = razobrat_stranicu(z.get("stranica"))
         if k not in vidano:
             vidano[k] = {
@@ -333,12 +387,12 @@ def main():
     for z in nagrady_syrye:
         if not z["vino"]:
             continue          # награда хозяйству, а не вину
-        k = klyuch_hozyaistva(z["hozyaistvo"]) + "-" + klyuch(z["vino"])
+        k = klyuch_vina(z["hozyaistvo"], z["vino"])
         if k not in vidano:
             vidano[k] = {
                 "klyuch": k,
                 "hozyaistvo": z["hozyaistvo"],
-                "vino": z["vino"],
+                "vino": imya_vina(z["hozyaistvo"], z["vino"]),
                 "vivino_id": None,
                 "vivino_adres": "",
                 "vivino_status": "net_na_vivino",
@@ -346,12 +400,12 @@ def main():
                 "est_u_kritikov": False,
             }
     for z in kritiki:
-        k = klyuch_hozyaistva(z["hozyaistvo"]) + "-" + klyuch(z["vino"])
+        k = klyuch_vina(z["hozyaistvo"], z["vino"])
         if k not in vidano:
             vidano[k] = {
                 "klyuch": k,
                 "hozyaistvo": z["hozyaistvo"],
-                "vino": z["vino"],
+                "vino": imya_vina(z["hozyaistvo"], z["vino"]),
                 "vivino_id": None,
                 "vivino_adres": "",
                 "vivino_status": "net_na_vivino",
@@ -369,7 +423,8 @@ def main():
             continue
         _, adres, ogovorka = razobrat_stranicu(z.get("stranica"))
         ocenki.append({
-            "klyuch_vina": klyuch_hozyaistva(z["hozyaistvo"]) + "-" + klyuch(z["vino"]),
+            "klyuch_vina": klyuch_vina(z["hozyaistvo"], z["vino"],
+                                       snimat_povtor=False),
             "hozyaistvo": z["hozyaistvo"],
             "vino": z["vino"],
             "istochnik": "vivino",
@@ -387,9 +442,9 @@ def main():
         if z.get("ball") is None:
             continue
         ocenki.append({
-            "klyuch_vina": klyuch_hozyaistva(z["hozyaistvo"]) + "-" + klyuch(z["vino"]),
+            "klyuch_vina": klyuch_vina(z["hozyaistvo"], z["vino"]),
             "hozyaistvo": z["hozyaistvo"],
-            "vino": z["vino"],
+            "vino": imya_vina(z["hozyaistvo"], z["vino"]),
             "istochnik": z["istochnik"],
             "shkala": 100,
             "ball": z["ball"],
@@ -404,10 +459,10 @@ def main():
 
     # ---------------- награды ----------------
     nagrady = [{
-        "klyuch_vina": (klyuch_hozyaistva(z["hozyaistvo"]) + "-" + klyuch(z["vino"])
+        "klyuch_vina": (klyuch_vina(z["hozyaistvo"], z["vino"])
                         if z["vino"] else ""),
         "hozyaistvo": z["hozyaistvo"],
-        "vino": z["vino"],
+        "vino": imya_vina(z["hozyaistvo"], z["vino"]),
         "istochnik": z["istochnik"],
         "god": z["god"],
         "kategoriya": z["kategoriya"],

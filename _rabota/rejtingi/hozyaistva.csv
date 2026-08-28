@@ -6,7 +6,7 @@ Aglaya (Аглая),aglaya-аглая,,ne_ustanovlen,,False,,,2
 Agrina,agrina,,ne_ustanovlen,,False,,,1
 Alaska Barka,alaska-barka,,ne_ustanovlen,,False,,,1
 Alchemy Winery,alchemy,,ne_ustanovlen,,False,,,1
-Aleksandar Todorovic,aleksandar-todorovic,,ne_ustanovlen,,False,,,12
+Aleksandar Todorović,aleksandar-todorovic,,ne_ustanovlen,,False,,,12
 Aleksandrović,aleksandrovic,sumadija,kniga,,True,,,39
 Aleksić,aleksic,jugoistok,kniga,,True,,,20
 Amstadt Winery,amstadt,,ne_ustanovlen,,False,,,1
@@ -20,6 +20,7 @@ Art Wine,art-wine,,ne_ustanovlen,,False,,,5
 Atelje Vina Šapat,atelje-vina-sapat,,ne_ustanovlen,,True,,,26
 Atos-Fructum,atos-fructum,,ne_ustanovlen,,False,,,0
 Ačanski,acanski,,ne_ustanovlen,,False,,,3
+BT Winery,bt,,ne_ustanovlen,,False,,,11
 Bacina Vino,bacina-vino,,ne_ustanovlen,,False,,,0
 Bahus,bahus,,ne_ustanovlen,,False,,,5
 Bajilo,bajilo,,ne_ustanovlen,,False,,,14
@@ -37,7 +38,6 @@ Bojan Basa,bojan-basa,fruska,raspolozhenie,Срем,False,,3,4
 Botunjac,botunjac,,ne_ustanovlen,,False,,,8
 Braca Rajkovic,braca-rajkovic,,ne_ustanovlen,,True,,,10
 Breg,breg,,ne_ustanovlen,,False,,,3
-Bt Winery,bt,,ne_ustanovlen,,False,,,11
 Budimir,budimir,morave,kniga,,True,,,0
 Chardonnay,chardonnay,,ne_ustanovlen,,False,,,0
 Chicha,chicha,,ne_ustanovlen,,False,,,11
@@ -86,7 +86,7 @@ Jagodinska,jagodinska,,ne_ustanovlen,,False,,,2
 Janek Wineyard,janek-wineyard,,ne_ustanovlen,,False,,,1
 Janovi Vinogradi,janovi,,ne_ustanovlen,,False,,,1
 Jevremović,jevremovic,,ne_ustanovlen,,False,,,2
-Josic,josic,,ne_ustanovlen,,False,,,0
+Josic Winery,josic,,ne_ustanovlen,,False,,,0
 Jović,jovic,jugoistok,kniga,Потркање,True,,,16
 K-ing,k-ing,,ne_ustanovlen,,False,,,1
 Kalem,kalem,,ne_ustanovlen,,False,,,23
@@ -116,7 +116,7 @@ Mali Podrum Stamenković,mali-stamenkovic,,ne_ustanovlen,,False,,,2
 Mali Šareni Podrum,mali-sareni,,ne_ustanovlen,,False,,,3
 Manastir Bukovo,bukovo,negotin,kniga,,False,,,0
 Manastira Bukovo,manastira-bukovo,,ne_ustanovlen,,False,,,0
-Manufaktura Spasic,manufaktura-spasic,,ne_ustanovlen,,True,,,10
+Manufaktura Spasić,manufaktura-spasic,,ne_ustanovlen,,True,,,10
 Marinković,marinkovic,,ne_ustanovlen,,False,,,3
 Marko,marko,sumadija,kniga,Ясиковица,True,,,3
 Marselan,marselan,,ne_ustanovlen,,False,,,0
@@ -162,7 +162,6 @@ Perun Wine,perun-wine,,ne_ustanovlen,,False,,,2
 Pet Hrastova,pet-hrastova,,ne_ustanovlen,,False,,,2
 Petica,petica,,ne_ustanovlen,,False,,,2
 Petković Latin,petkovic-latin,,ne_ustanovlen,,False,,,2
-Petra,petra,subotica,kniga,,True,,,10
 Pimnica Perić,pimnica-peric,,ne_ustanovlen,,False,,,5
 Plavi Perun,plavi-perun,,ne_ustanovlen,,False,,,3
 Plavinac,plavinac,podunavlje,kniga,,True,,,26
@@ -224,7 +223,6 @@ Rujevica,rujevica,,ne_ustanovlen,,False,,,1
 Saboss,saboss,,ne_ustanovlen,,False,,,6
 Salaxia,salaxia,,ne_ustanovlen,,False,,,8
 Salaš Gnezdo Doo Bečej,salas-gnezdo-doo-becej,,ne_ustanovlen,,False,,,0
-Sapat Wine Atelier,sapat-wine-atelier,,ne_ustanovlen,,False,,,0
 Sava Minić,sava-minic,,ne_ustanovlen,,True,,,2
 Savković,savkovic,,ne_ustanovlen,,False,,,2
 Serbika Wine,serbika-wine,,ne_ustanovlen,,False,,,5
@@ -294,16 +292,16 @@ Vinarija Burcel Todorov,burcel-todorov,,ne_ustanovlen,,False,,,2
 Vinarija Burma Fruška Gora,burma-fruska-gora,,ne_ustanovlen,,True,,,6
 Vinarija Coka,coka,banat,raspolozhenie,"Чока, северный Банат",False,,,43
 Vinarija Dajic,dajic,,ne_ustanovlen,,False,,,7
-Vinarija Delena,delena,,ne_ustanovlen,,False,,,7
+Vinarija DeLena,delena,,ne_ustanovlen,,False,,,7
 Vinarija Dosen,dosen,,ne_ustanovlen,,False,,,3
 Vinarija Dragić,dragic,,ne_ustanovlen,,False,,,9
 Vinarija Dumo,dumo,,ne_ustanovlen,,False,,,3
 Vinarija Eden,eden,,ne_ustanovlen,,True,,,10
-Vinarija Fleur D'Oranger,fleur-d-oranger,,ne_ustanovlen,,False,,,5
+Vinarija Fleur D'Oranger,fleur-doranger,,ne_ustanovlen,,False,,,5
 Vinarija Fragaria,fragaria,,ne_ustanovlen,,True,,,8
 Vinarija Frug,frug,,ne_ustanovlen,,False,,,9
 Vinarija Frunza Aglaja,frunza-aglaja,,ne_ustanovlen,,True,,,0
-Vinarija Gamanovič,gamanovic,,ne_ustanovlen,,False,,,8
+Vinarija Gamanović,gamanovic,,ne_ustanovlen,,False,,,8
 Vinarija Gnezdo,gnezdo,,ne_ustanovlen,,False,,,3
 Vinarija Grumen,grumen,,ne_ustanovlen,,False,,,8
 Vinarija Gvožđan,gvozdan,,ne_ustanovlen,,False,,,1
@@ -338,6 +336,7 @@ Vinarija Orlić,orlic,,ne_ustanovlen,,False,,,0
 Vinarija PIRG,pirg,,ne_ustanovlen,,False,,,6
 Vinarija Panjković,panjkovic,,ne_ustanovlen,,False,,,3
 Vinarija Pantić,pantic,,ne_ustanovlen,,False,,,5
+Vinarija Petra,petra,subotica,kniga,,True,,,10
 Vinarija Piano,piano,,ne_ustanovlen,,False,,,14
 Vinarija Podrum Danguba,danguba,,ne_ustanovlen,,False,,,4
 Vinarija Porta,porta,,ne_ustanovlen,,False,,,2
@@ -365,7 +364,7 @@ Vinarija Todorović,todorovic,,ne_ustanovlen,,False,,,13
 Vinarija Tomić - Rošci,tomic-rosci,,ne_ustanovlen,,False,,,1
 Vinarija Trišić,trisic,,ne_ustanovlen,,True,,,0
 Vinarija Unikat,unikat,,ne_ustanovlen,,False,,,2
-Vinarija Val d'Ov,val-d-ov,,ne_ustanovlen,,False,,,1
+Vinarija Val d'Ov,val-dov,,ne_ustanovlen,,False,,,1
 Vinarija Venčac,vencac,,ne_ustanovlen,,False,,,0
 Vinarija Vilotijević,vilotijevic,,ne_ustanovlen,,False,,,2
 Vinarija Vimmid,vimmid,,ne_ustanovlen,,True,,,0
@@ -436,6 +435,7 @@ Zvonko Bogdan,zvonko-bogdan,subotica,kniga,,True,zvonko-bogdan,,20
 Šapat,sapat,fruska,kniga,Нови Сланкамен,True,atelje-vina-sapat,,3
 Šumadija,sumadija,,ne_ustanovlen,,False,,,1
 Šveljo,sveljo,,ne_ustanovlen,,False,,,3
+šApat Wine Atelier,sapat-wine-atelier,,ne_ustanovlen,,False,,,0
 Žarković,zarkovic,,ne_ustanovlen,,False,,,0
 Živanović,zivanovic,fruska,raspolozhenie,Сремски Карловци,True,,,11
 Živač,zivac,,ne_ustanovlen,,False,,,1

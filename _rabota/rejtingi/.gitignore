@@ -4,3 +4,4 @@
 # kesh-decanter пересобирается за секунды.
 kesh-vivino/
 kesh-decanter/
+__pycache__/

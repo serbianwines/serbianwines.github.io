@@ -50,7 +50,8 @@ def main():
         for stroka in open(FAJL, encoding="utf-8"):
             if stroka.strip():
                 z = json.loads(stroka)
-                bylo[(z["istochnik"], z["hozyaistvo"], z["vino"], z["god"])] = z
+                bylo[(z["istochnik"], z["hozyaistvo"], z["vino"], z["god"],
+                      z.get("konkurs_god"))] = z
 
     for stroka in otkryt_vhod():
         stroka = stroka.strip()
@@ -64,10 +65,12 @@ def main():
             "hozyaistvo": ch[1],
             "vino": ch[2],
             "god": ch[3] or None,
+            "konkurs_god": None,
             "ball": int(ch[4]) if ch[4] and ch[4] != "-" else None,
             "stranica": ch[5] if len(ch) > 5 else "",
         }
-        bylo[(z["istochnik"], z["hozyaistvo"], z["vino"], z["god"])] = z
+        bylo[(z["istochnik"], z["hozyaistvo"], z["vino"], z["god"],
+              z.get("konkurs_god"))] = z
 
     with open(FAJL, "w", encoding="utf-8") as f:
         for z in bylo.values():

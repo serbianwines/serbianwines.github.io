@@ -53,6 +53,34 @@ IMYA_ISTOCHNIKA = {
 }
 
 
+def pokazat_perekrytie(kritiki, karta):
+    """Сколько вин оценено и толпой, и экспертом.
+
+    Главный вопрос к любому рейтингу — с чем его сверять. Пересечение
+    двух дорожек показывает, где это возможно, а где мнение одно
+    и проверить его нечем.
+    """
+    put_ocenok = os.path.join(RYADOM, "ocenki.jsonl")
+    vse = [json.loads(s) for s in open(put_ocenok, encoding="utf-8") if s.strip()]
+    vivino = {z["klyuch_vina"] for z in vse if z["istochnik"] == "vivino"}
+    eksperty = {z["klyuch_vina"] for z in vse if z["shkala"] == 100}
+    raion = {h: (s or {}).get("raion") for h, s in karta.items()}
+
+    print("## Где две дорожки пересекаются\n")
+    print("Вин с оценкой Vivino — %d, с оценкой критиков — %d, "
+          "**с обеими — %d**.\n" % (len(vivino), len(eksperty),
+                                     len(vivino & eksperty)))
+    print("| Район | Vivino | Критики | И то и другое |")
+    print("|---|---|---|---|")
+    for kod, imya in IMENA:
+        v = {z["klyuch_vina"] for z in vse
+             if z["istochnik"] == "vivino" and raion.get(z["hozyaistvo"]) == kod}
+        k = {z["klyuch_vina"] for z in vse
+             if z["shkala"] == 100 and raion.get(z["hozyaistvo"]) == kod}
+        print("| %s | %d | %d | %d |" % (imya, len(v), len(k), len(v & k)))
+    print()
+
+
 def pokazat_nagrady(spisok, markdown):
     """Награды печатаются отдельным блоком: у них нет шкалы, и в одну
     таблицу с баллами их ставить нельзя."""
@@ -114,6 +142,7 @@ def main():
 
     if dovody.markdown:
         print("<!-- Собрано скриптом svesti-kritikov.py. Руками не править. -->\n")
+        pokazat_perekrytie(zapisi, karta)
     for kod, imya in IMENA:
         spisok = sorted(po_raionam[kod], key=lambda z: -(z["ball"] or 0))
         if dovody.markdown:

@@ -21,9 +21,7 @@
 
 **Пересобрать файл:**
 
-    cd _rabota/rejtingi
-    cat po-regionam-vstuplenie.md > po-regionam.md
-    python3 svesti-pyaterki.py --markdown >> po-regionam.md
+    python3 _rabota/rejtingi/svesti-pyaterki.py --otchet
 
 ---
 

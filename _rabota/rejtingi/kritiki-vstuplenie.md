@@ -74,9 +74,7 @@ Vivino район еле наскребает пятёрку.
 
 **Пересобрать файл:**
 
-    cd _rabota/rejtingi
-    cat kritiki-vstuplenie.md > kritiki-po-regionam.md
-    python3 svesti-kritikov.py --markdown >> kritiki-po-regionam.md
+    python3 _rabota/rejtingi/svesti-kritikov.py --otchet
 
 ---
 

@@ -3,7 +3,9 @@
 """
 Собрать из сырых выписок три нормализованные таблицы.
 
-Сырьё — `vivino-zapisi.jsonl`, `kritiki-zapisi.jsonl`, `raion-hozyaistv.json`,
+Сырьё — `vivino-zapisi.jsonl` и `vivino-syrye.json` (сплошной сбор по API,
+если он сделан; при совпадении он старше), `kritiki-zapisi.jsonl`,
+`nagrady-zapisi.jsonl`, `raion-hozyaistv.json`,
 `falstaff-zvezdy.json`, `celi-spisok.json`. Всё это писалось по ходу сбора и
 для анализа неудобно: идентификатор вина спрятан внутри строки-примечания,
 две дорожки лежат порознь, шкалы разные.
@@ -54,6 +56,53 @@ def chitat_jsonl(imya):
     return [json.loads(s) for s in open(put(imya), encoding="utf-8") if s.strip()]
 
 
+def vivino_iz_api():
+    """Сплошной сбор по API, если он уже сделан.
+
+    `sobrat-rejtingi.py` складывает результат в `vivino-syrye.json`. Эти
+    данные точнее ручных выписок: там оценка и число отзывов приходят
+    полями, а не пересказом выдачи. Поэтому при совпадении они старше.
+    """
+    if not os.path.exists(put("vivino-syrye.json")):
+        return []
+    d = json.load(open(put("vivino-syrye.json"), encoding="utf-8"))
+    iz_api = []
+    for z in d.get("vina", []):
+        if not z.get("hozyaistvo") or not z.get("vino"):
+            continue
+        iz_api.append({
+            "hozyaistvo": z["hozyaistvo"],
+            "vino": z["vino"],
+            "ocenka": z.get("ocenka"),
+            "chislo_ocenok": z.get("chislo_ocenok"),
+            "stranica": ("w/%s" % z["id_vina"]) if z.get("id_vina") else "",
+            "iz_api": True,
+        })
+    return iz_api
+
+
+def svesti_vivino(ruchnoe, iz_api):
+    """Слить ручные выписки и сбор по API. При совпадении API старше.
+
+    Ручное не выбрасывается: в нём могут оказаться вина, которых сплошной
+    обход не вернул (снятые с продажи, переименованные). Но там, где есть
+    и то и другое, берётся API.
+    """
+    svedeno = {}
+    for z in ruchnoe:
+        svedeno[(klyuch(z["hozyaistvo"]), klyuch(z["vino"]))] = z
+    poverh_ruchnyh = 0
+    for z in iz_api:
+        k = (klyuch(z["hozyaistvo"]), klyuch(z["vino"]))
+        if k in svedeno:
+            poverh_ruchnyh += 1
+        svedeno[k] = z
+    if iz_api:
+        print("Vivino: ручных %d, из API %d, из них поверх ручных %d"
+              % (len(ruchnoe), len(iz_api), poverh_ruchnyh))
+    return list(svedeno.values())
+
+
 def klyuch(*chasti):
     """Устойчивый ключ: без регистра, диакритики и лишних пробелов."""
     s = " ".join(c for c in chasti if c).lower()
@@ -91,7 +140,7 @@ def nizhnyaya_granica(ogovorka):
 
 
 def main():
-    vivino = chitat_jsonl("vivino-zapisi.jsonl")
+    vivino = svesti_vivino(chitat_jsonl("vivino-zapisi.jsonl"), vivino_iz_api())
     kritiki = chitat_jsonl("kritiki-zapisi.jsonl")
     nagrady_syrye = chitat_jsonl("nagrady-zapisi.jsonl")
     karta = json.load(open(put("raion-hozyaistv.json"), encoding="utf-8"))["hozyaistva"]

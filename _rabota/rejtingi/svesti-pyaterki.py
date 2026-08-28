@@ -16,6 +16,7 @@
 """
 
 import argparse
+import io
 import json
 import os
 import sys
@@ -75,7 +76,11 @@ def sdvinutaya(ocenka, chislo, srednee):
 def main():
     razbor = argparse.ArgumentParser()
     razbor.add_argument("--markdown", action="store_true")
+    razbor.add_argument("--otchet", action="store_true",
+                        help="собрать po-regionam.md целиком: вступление плюс таблицы")
     dovody = razbor.parse_args()
+    if dovody.otchet:
+        dovody.markdown = True
 
     zapisi, karta = chitat()
 
@@ -175,5 +180,26 @@ def main():
     return vyvod, srednee, bez_raiona, bez_chisla
 
 
+def sobrat_otchet():
+    """Записать готовый отчёт: вступление плюс таблицы.
+
+    Склейкой в оболочке этого лучше не делать: в PowerShell перенаправление
+    пишет не в UTF-8, и файл выходит в кракозябрах. Проще собрать самим.
+    """
+    vstuplenie = open(os.path.join(RYADOM, "po-regionam-vstuplenie.md"), encoding="utf-8").read()
+    bufer = io.StringIO()
+    nastojashchij, sys.stdout = sys.stdout, bufer
+    try:
+        main()
+    finally:
+        sys.stdout = nastojashchij
+    with open(os.path.join(RYADOM, "po-regionam.md"), "w", encoding="utf-8") as f:
+        f.write(vstuplenie + bufer.getvalue())
+    print("собран po-regionam.md")
+
+
 if __name__ == "__main__":
-    main()
+    if "--otchet" in sys.argv:
+        sobrat_otchet()
+    else:
+        main()

@@ -40,7 +40,7 @@ deuric-aksiom-beli,Deurić,Aksiom beli,vino.rs,2022,лучшее белое,1,20
 deuric-the,Deurić,The,vino.rs,2022,лучшее игристое,1,2019,"vino.rs, годовой тест 2022",2026-08-28
 ,Aleksić,,awc-vienna,2015,лучшая национальная винодельня,1,,AWC Vienna 2015,2026-08-28
 temet-tri-bele,Temet,Tri  Bele,decanter,2015,бронза,bronza,2014,"awards.decanter.com, DWWA 2015, вино 648854",2026-08-28
-bogdan-sauvignon-blanc,Bogdan,Sauvignon blanc,decanter,2015,серебро,srebro,2014,"awards.decanter.com, DWWA 2015, вино 662038",2026-08-28
+zvonko-bogdan-sauvignon-blanc,Zvonko Bogdan,Sauvignon blanc,decanter,2015,серебро,srebro,2014,"awards.decanter.com, DWWA 2015, вино 662038",2026-08-28
 temet-pinot-grigio,Temet,Pinot Grigio,decanter,2015,бронза,bronza,2014,"awards.decanter.com, DWWA 2015, вино 661878",2026-08-28
 janko-zavet,Podrum Janko,Zavet,decanter,2015,бронза,bronza,2013,"awards.decanter.com, DWWA 2015, вино 650334",2026-08-28
 matalj-kremen-cabernet-sauvignon,Matalj,Kremen Cabernet Sauvignon,decanter,2015,бронза,bronza,2013,"awards.decanter.com, DWWA 2015, вино 650415",2026-08-28
@@ -72,15 +72,15 @@ despotika-trag,Despotika,Trag,decanter,2016,бронза,bronza,2013,"awards.dec
 zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,decanter,2016,серебро,srebro,2013,"awards.decanter.com, DWWA 2016, вино 547493",2026-08-28
 aleksic-kardas,Aleksić,Kardaš,decanter,2016,бронза,bronza,2013,"awards.decanter.com, DWWA 2016, вино 547706",2026-08-28
 virtus-credo,Virtus,Credo,decanter,2016,бронза,bronza,2013,"awards.decanter.com, DWWA 2016, вино 547184",2026-08-28
-molowinery-plavi-princip,Molowinery,Plavi Princip,decanter,2016,серебро,srebro,2013,"awards.decanter.com, DWWA 2016, вино 547925",2026-08-28
-mcculloch-wines-mcc-traminac,Mcculloch Wines,Mcc Traminac,decanter,2016,бронза,bronza,2013,"awards.decanter.com, DWWA 2016, вино 548196",2026-08-28
+molovin-plavi-princip,Molovin,Plavi Princip,decanter,2016,серебро,srebro,2013,"awards.decanter.com, DWWA 2016, вино 547925",2026-08-28
+mcculloch-mcc-traminac,Mcculloch Wines,Mcc Traminac,decanter,2016,бронза,bronza,2013,"awards.decanter.com, DWWA 2016, вино 548196",2026-08-28
 radovanovic-selekcija-chardonnay,Radovanović,Selekcija Chardonnay,decanter,2016,бронза,bronza,2013,"awards.decanter.com, DWWA 2016, вино 547953",2026-08-28
 janko-misija-chardonnay,Podrum Janko,Misija Chardonnay,decanter,2016,бронза,bronza,2013,"awards.decanter.com, DWWA 2016, вино 547011",2026-08-28
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,decanter,2016,серебро,srebro,2009,"awards.decanter.com, DWWA 2016, вино 544903",2026-08-28
-bacina-vino-dolina-xii,Bacina Vino,Dolina XII,decanter,2016,бронза,bronza,,"awards.decanter.com, DWWA 2016, вино 554385",2026-08-28
-molowinery-crveni-inat,Molowinery,Crveni Inat,decanter,2016,бронза,bronza,2010,"awards.decanter.com, DWWA 2016, вино 547926",2026-08-28
+bacina-dolina-xii,Podrum Bačina,Dolina XII,decanter,2016,бронза,bronza,,"awards.decanter.com, DWWA 2016, вино 554385",2026-08-28
+molovin-crveni-inat,Molovin,Crveni Inat,decanter,2016,бронза,bronza,2010,"awards.decanter.com, DWWA 2016, вино 547926",2026-08-28
 virtus-gewurztraminer,Virtus,Gewürztraminer,decanter,2016,бронза,bronza,2014,"awards.decanter.com, DWWA 2016, вино 547354",2026-08-28
-aleksic-doo-bonaca-limited,Winery Aleksić Doo,Bonaca Limited,decanter,2016,серебро,srebro,2014,"awards.decanter.com, DWWA 2016, вино 560390",2026-08-28
+aleksic-bonaca-limited,Aleksić,Bonaca Limited,decanter,2016,серебро,srebro,2014,"awards.decanter.com, DWWA 2016, вино 560390",2026-08-28
 matalj-terasa-chardonnay,Matalj,Terasa Chardonnay,decanter,2017,серебро,srebro,2013,"awards.decanter.com, DWWA 2017, вино 531241",2026-08-28
 matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,decanter,2017,серебро,srebro,2013,"awards.decanter.com, DWWA 2017, вино 531242",2026-08-28
 bukovo-filigran-cabernet-sauvignon,Manastir Bukovo,Filigran Cabernet Sauvignon,decanter,2017,серебро,srebro,2013,"awards.decanter.com, DWWA 2017, вино 558475",2026-08-28
@@ -123,14 +123,14 @@ aleksandrovic-regent-reserve,Aleksandrović,Regent Reserve,decanter,2017,бро�
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,decanter,2017,бронза,bronza,2012,"awards.decanter.com, DWWA 2017, вино 531151",2026-08-28
 lastar-tamjanika,Vinarija Lastar,Tamjanika,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 537575",2026-08-28
 despotika-nebo-riesling-pinot-blanc,Despotika,Nebo Riesling-Pinot Blanc,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 538259",2026-08-28
-molowinery-crveni-inat,Molowinery,Crveni Inat,decanter,2018,бронза,bronza,2010,"awards.decanter.com, DWWA 2018, вино 537518",2026-08-28
-manastira-bukovo-merlot,Manastira Bukovo,Merlot,decanter,2018,серебро,srebro,2015,"awards.decanter.com, DWWA 2018, вино 592373",2026-08-28
+molovin-crveni-inat,Molovin,Crveni Inat,decanter,2018,бронза,bronza,2010,"awards.decanter.com, DWWA 2018, вино 537518",2026-08-28
+bukovo-merlot,Manastir Bukovo,Merlot,decanter,2018,серебро,srebro,2015,"awards.decanter.com, DWWA 2018, вино 592373",2026-08-28
 zvonko-bogdan-chardonnay,Zvonko Bogdan,Chardonnay,decanter,2018,бронза,bronza,2015,"awards.decanter.com, DWWA 2018, вино 591536",2026-08-28
 janko-smederevka,Podrum Janko,Smederevka,decanter,2018,бронза,bronza,2017,"awards.decanter.com, DWWA 2018, вино 537521",2026-08-28
 temet-tri-morave,Temet,Tri Morave,decanter,2018,серебро,srebro,2017,"awards.decanter.com, DWWA 2018, вино 538153",2026-08-28
-virtus-w-gewurztraminer,Virtus W,Gewürztraminer,decanter,2018,бронза,bronza,2017,"awards.decanter.com, DWWA 2018, вино 591834",2026-08-28
+virtus-gewurztraminer,Virtus,Gewürztraminer,decanter,2018,бронза,bronza,2017,"awards.decanter.com, DWWA 2018, вино 591834",2026-08-28
 erdevik-nostra,Erdevik,Nostra,decanter,2018,серебро,srebro,2017,"awards.decanter.com, DWWA 2018, вино 538066",2026-08-28
-virtus-w-pinot-grigio,Virtus W,Pinot Grigio,decanter,2018,серебро,srebro,2017,"awards.decanter.com, DWWA 2018, вино 591816",2026-08-28
+virtus-pinot-grigio,Virtus,Pinot Grigio,decanter,2018,серебро,srebro,2017,"awards.decanter.com, DWWA 2018, вино 591816",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Žuti Cvet Tamjanika,decanter,2018,серебро,srebro,2017,"awards.decanter.com, DWWA 2018, вино 590820",2026-08-28
 despotika-morava,Despotika,Morava,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 538261",2026-08-28
 temet-ergo,Temet,Ergo,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 538141",2026-08-28
@@ -145,13 +145,13 @@ janko-zavet-stari,Podrum Janko,Zavet Stari,decanter,2018,серебро,srebro,2
 cokot-radovan-prokupac,Čokot,Radovan Prokupac,decanter,2018,серебро,srebro,2015,"awards.decanter.com, DWWA 2018, вино 538818",2026-08-28
 grabak-modrovrana,Grabak,Modrovrana,decanter,2018,бронза,bronza,2015,"awards.decanter.com, DWWA 2018, вино 538977",2026-08-28
 ivanovic-no-1-2,Ivanović,No 1/2,decanter,2018,бронза,bronza,2015,"awards.decanter.com, DWWA 2018, вино 592435",2026-08-28
-virtus-w-pinot-noir,Virtus W,Pinot Noir,decanter,2018,бронза,bronza,2015,"awards.decanter.com, DWWA 2018, вино 591850",2026-08-28
+virtus-pinot-noir,Virtus,Pinot Noir,decanter,2018,бронза,bronza,2015,"awards.decanter.com, DWWA 2018, вино 591850",2026-08-28
 pik-oplenac-villa-muscat-ottonel,PIK Oplenac,Villa Muscat Ottonel,decanter,2018,бронза,bronza,2015,"awards.decanter.com, DWWA 2018, вино 535244",2026-08-28
 virtus-marselan,Virtus,Marselan,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 591820",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,2018,золото,zlato,2016,"awards.decanter.com, DWWA 2018, вино 591497",2026-08-28
 deuric-probus,Deurić,Probus,decanter,2018,серебро,srebro,2016,"awards.decanter.com, DWWA 2018, вино 590903",2026-08-28
 despotika-trag-merlot,Despotika,TRAG Merlot,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 538269",2026-08-28
-virtus-w-prokupac,Virtus W,Prokupac,decanter,2018,серебро,srebro,2016,"awards.decanter.com, DWWA 2018, вино 591874",2026-08-28
+virtus-prokupac,Virtus,Prokupac,decanter,2018,серебро,srebro,2016,"awards.decanter.com, DWWA 2018, вино 591874",2026-08-28
 cokot-experiment-prokupac,Čokot,Experiment Prokupac,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 535016",2026-08-28
 janko-bifora,Podrum Janko,Bifora,decanter,2018,бронза,bronza,2016,"awards.decanter.com, DWWA 2018, вино 537023",2026-08-28
 janko-crveni-zapis,Podrum Janko,Crveni Zapis,decanter,2018,серебро,srebro,2016,"awards.decanter.com, DWWA 2018, вино 537039",2026-08-28
@@ -179,7 +179,7 @@ zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,decanter,2
 temet-tri-morave,Temet,Tri Morave,decanter,2019,бронза,bronza,2017,"awards.decanter.com, DWWA 2019, вино 571848",2026-08-28
 grabak-prokupac,Grabak,Prokupac,decanter,2019,бронза,bronza,2017,"awards.decanter.com, DWWA 2019, вино 596222",2026-08-28
 cokot-experiment-prokupac,Čokot,Experiment Prokupac,decanter,2019,бронза,bronza,2017,"awards.decanter.com, DWWA 2019, вино 571820",2026-08-28
-probus-vineyards-magis,Probus Vineyards,Magis,decanter,2019,бронза,bronza,2017,"awards.decanter.com, DWWA 2019, вино 599036",2026-08-28
+probus-magis,Probus Vineyards,Magis,decanter,2019,бронза,bronza,2017,"awards.decanter.com, DWWA 2019, вино 599036",2026-08-28
 pik-oplenac-monarh-s,PIK Oplenac,Monarh S,decanter,2019,бронза,bronza,2015,"awards.decanter.com, DWWA 2019, вино 571698",2026-08-28
 pusula-cabernet,Pusula,Cabernet,decanter,2019,бронза,bronza,2015,"awards.decanter.com, DWWA 2019, вино 596067",2026-08-28
 temet-ergo-belo,Temet,Ergo Belo,decanter,2019,бронза,bronza,2016,"awards.decanter.com, DWWA 2019, вино 571870",2026-08-28
@@ -194,7 +194,7 @@ virtus-marselan,Virtus,Marselan,decanter,2019,серебро,srebro,2016,"awards
 temet-tri-morave-reserva,Temet,Tri Morave Reserva,decanter,2019,золото,zlato,2016,"awards.decanter.com, DWWA 2019, вино 572378",2026-08-28
 temet-ergo,Temet,Ergo,decanter,2019,серебро,srebro,2016,"awards.decanter.com, DWWA 2019, вино 571866",2026-08-28
 lastar-pinot-noir,Vinarija Lastar,Pinot Noir,decanter,2019,бронза,bronza,2016,"awards.decanter.com, DWWA 2019, вино 595676",2026-08-28
-molowinery-vista-hill-red-reserve,Molowinery,Vista Hill Red Reserve,decanter,2019,серебро,srebro,2010,"awards.decanter.com, DWWA 2019, вино 570382",2026-08-28
+molovin-vista-hill-red-reserve,Molovin,Vista Hill Red Reserve,decanter,2019,серебро,srebro,2010,"awards.decanter.com, DWWA 2019, вино 570382",2026-08-28
 trisic-dimasid,Винарија Тришић (Vinarija Trišić),Dimasid,decanter,2019,серебро,srebro,2013,"awards.decanter.com, DWWA 2019, вино 600113",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Zuti Cvet Tamjanika,decanter,2019,бронза,bronza,2018,"awards.decanter.com, DWWA 2019, вино 570692",2026-08-28
 bukovo-filigran-гаме,Manastir Bukovo,Filigran Гаме,decanter,2019,бронза,bronza,2015,"awards.decanter.com, DWWA 2019, вино 596546",2026-08-28
@@ -215,7 +215,7 @@ despotika-trag,Despotika,Trag,decanter,2020,серебро,srebro,2017,"awards.d
 veritas-momentum-cabernet-sauvignon,Veritas,Momentum Cabernet Sauvignon,decanter,2020,серебро,srebro,2017,"awards.decanter.com, DWWA 2020, вино 576748",2026-08-28
 vinum-frankovka,Vinum,Frankovka,decanter,2020,серебро,srebro,2017,"awards.decanter.com, DWWA 2020, вино 583954",2026-08-28
 vinum-pinot-noir,Vinum,Pinot Noir,decanter,2020,серебро,srebro,2017,"awards.decanter.com, DWWA 2020, вино 583969",2026-08-28
-djurdjic-cabernet-franc,Winery Djurdjic,Cabernet Franc,decanter,2020,бронза,bronza,2017,"awards.decanter.com, DWWA 2020, вино 584567",2026-08-28
+durdic-cabernet-franc,Vinarija Đurđić,Cabernet Franc,decanter,2020,бронза,bronza,2017,"awards.decanter.com, DWWA 2020, вино 584567",2026-08-28
 rubin-rubinov-prokupac,Rubin,Rubinov Prokupac,decanter,2020,серебро,srebro,2017,"awards.decanter.com, DWWA 2020, вино 580939",2026-08-28
 grabak-vivak-prokupac,Grabak,Vivak Prokupac,decanter,2020,золото,zlato,2017,"awards.decanter.com, DWWA 2020, вино 584171",2026-08-28
 grabak-siva-vrana,Grabak,Siva Vrana,decanter,2020,бронза,bronza,2017,"awards.decanter.com, DWWA 2020, вино 584172",2026-08-28
@@ -248,10 +248,10 @@ rubin-cabernet-sauvignon,Rubin,Cabernet Sauvignon,decanter,2020,бронза,bro
 zvonko-bogdan-pinot-grigio,Zvonko Bogdan,Pinot Grigio,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 584037",2026-08-28
 temet-tri-morave,Temet,Tri Morave,decanter,2020,бронза,bronza,2018,"awards.decanter.com, DWWA 2020, вино 581067",2026-08-28
 virtus-w,Virtus,W,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 583930",2026-08-28
-vista-hills-plus-premium,Vista Hills Plus,Premium,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 583634",2026-08-28
+vista-hill-premium,Vista Hill,Premium,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 583634",2026-08-28
 erdevik-roza-nostra,Erdevik,Roza Nostra,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 580452",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 578709",2026-08-28
-dragic-carski-drum-sauvignon-blanc,Vinarija Dragić,Carski Drum Sauvignon Blanc,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 578821",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 578709",2026-08-28
+dragic-carski-drum-sauvignon-blanc,Драгић Винарија (Vina Dragic),Carski Drum Sauvignon Blanc,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 578821",2026-08-28
 virtus-sauvignon-blanc,Virtus,Sauvignon Blanc,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 583944",2026-08-28
 virtus-pinot-grigio,Virtus,Pinot Grigio,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 583945",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Zuti Cvet Tamjanika,decanter,2020,бронза,bronza,2019,"awards.decanter.com, DWWA 2020, вино 584229",2026-08-28
@@ -284,9 +284,9 @@ aven-merlot,Vinarija Aven,Merlot,decanter,2020,бронза,bronza,2018,"awards.
 aven-cabernet-sauvignon,Vinarija Aven,Cabernet Sauvignon,decanter,2020,бронза,bronza,2018,"awards.decanter.com, DWWA 2020, вино 583682",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,2020,серебро,srebro,2018,"awards.decanter.com, DWWA 2020, вино 584043",2026-08-28
 zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,decanter,2020,бронза,bronza,2018,"awards.decanter.com, DWWA 2020, вино 584044",2026-08-28
-vista-hill-plus-white-reserve,Vista Hill Plus,White Reserve,decanter,2020,серебро,srebro,2012,"awards.decanter.com, DWWA 2020, вино 583638",2026-08-28
+vista-hill-white-reserve,Vista Hill,White Reserve,decanter,2020,серебро,srebro,2012,"awards.decanter.com, DWWA 2020, вино 583638",2026-08-28
 temet-tri-morave-brut,Temet,Tri Morave Brut,decanter,2020,бронза,bronza,2017,"awards.decanter.com, DWWA 2020, вино 580969",2026-08-28
-probus-vineyards-traminac,Probus Vineyards,Traminac,decanter,2020,бронза,bronza,2018,"awards.decanter.com, DWWA 2020, вино 581209",2026-08-28
+probus-traminac,Probus Vineyards,Traminac,decanter,2020,бронза,bronza,2018,"awards.decanter.com, DWWA 2020, вино 581209",2026-08-28
 kovacevic-fresco-bianco-brut,Kovačević,Fresco Bianco Brut,decanter,2021,бронза,bronza,2019,"awards.decanter.com, DWWA 2021, вино 692379",2026-08-28
 aleksic-zuti-cvet-tamjanika-dry,Aleksić,Žuti Cvet Tamjanika Dry,decanter,2021,серебро,srebro,2019,"awards.decanter.com, DWWA 2021, вино 701752",2026-08-28
 aleksandrovic-trijumf-noir,Aleksandrović,Trijumf Noir,decanter,2021,серебро,srebro,2010,"awards.decanter.com, DWWA 2021, вино 699191",2026-08-28
@@ -304,7 +304,7 @@ zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,2021,золото,zla
 zmajevac-chardonnay,Zmajevac,Chardonnay,decanter,2021,бронза,bronza,2019,"awards.decanter.com, DWWA 2021, вино 698718",2026-08-28
 eden-chardonnay,Vinarija Eden,Chardonnay,decanter,2021,бронза,bronza,2019,"awards.decanter.com, DWWA 2021, вино 698899",2026-08-28
 aleksandrovic-trijumf-gold,Aleksandrović,Trijumf Gold,decanter,2021,серебро,srebro,2019,"awards.decanter.com, DWWA 2021, вино 699029",2026-08-28
-belina-belina,Belina,Belina,decanter,2021,бронза,bronza,2019,"awards.decanter.com, DWWA 2021, вино 698096",2026-08-28
+matijasevic-belina,Matijašević,Belina,decanter,2021,бронза,bronza,2019,"awards.decanter.com, DWWA 2021, вино 698096",2026-08-28
 zvonko-bogdan-chardonnay,Zvonko Bogdan,Chardonnay,decanter,2021,серебро,srebro,2019,"awards.decanter.com, DWWA 2021, вино 701103",2026-08-28
 matijasevic-sovinoa,Matijašević,SoviNoa,decanter,2021,золото,zlato,2019,"awards.decanter.com, DWWA 2021, вино 702661",2026-08-28
 deuric-severna-morava,Deurić,Severna Morava,decanter,2021,серебро,srebro,2018,"awards.decanter.com, DWWA 2021, вино 693888",2026-08-28
@@ -366,7 +366,7 @@ deuric-severna-morava,Deurić,Severna Morava,decanter,2022,серебро,srebro
 bt-kings-crown,BT Winery,Kings Crown,decanter,2022,бронза,bronza,2020,"awards.decanter.com, DWWA 2022, вино 711544",2026-08-28
 bt-king-supreme-marselan,BT Winery,King Supreme Marselan,decanter,2022,бронза,bronza,2020,"awards.decanter.com, DWWA 2022, вино 709417",2026-08-28
 sokolov-zamak-marselan,Vinarija Sokolov Zamak,Marselan,decanter,2022,серебро,srebro,2020,"awards.decanter.com, DWWA 2022, вино 712066",2026-08-28
-nikolich-neuzinsky-vineyards-the-secret-code-of-our-terroir,Nikolich Neuzinsky Vineyards,The Secret Code of Our Terroir,decanter,2022,бронза,bronza,2020,"awards.decanter.com, DWWA 2022, вино 709221",2026-08-28
+nikolich-neuzinsky-the-secret-code-of-our-terroir,Николић Неyзински (Nikolićh Neuzinsky),The Secret Code of Our Terroir,decanter,2022,бронза,bronza,2020,"awards.decanter.com, DWWA 2022, вино 709221",2026-08-28
 temet-tri-morave-red,Temet,Tri Morave Red,decanter,2022,бронза,bronza,2019,"awards.decanter.com, DWWA 2022, вино 713774",2026-08-28
 matijasevic-cukundeda-prokupac,Matijašević,Čukundeda Prokupac,decanter,2022,серебро,srebro,2019,"awards.decanter.com, DWWA 2022, вино 715585",2026-08-28
 matijasevic-cukundeda-superiore,Matijašević,Čukundeda Superiore,decanter,2022,серебро,srebro,2019,"awards.decanter.com, DWWA 2022, вино 715588",2026-08-28
@@ -374,7 +374,7 @@ aleksic-amanet-vranac,Aleksić,Amanet Vranac,decanter,2022,золото,zlato,20
 aleksandrovic-prokupac,Aleksandrović,Prokupac,decanter,2022,серебро,srebro,2019,"awards.decanter.com, DWWA 2022, вино 713110",2026-08-28
 aven-balance,Vinarija Aven,Balance,decanter,2022,бронза,bronza,2019,"awards.decanter.com, DWWA 2022, вино 711751",2026-08-28
 dumo-pinot-noir,Vinarija Dumo,Pinot Noir,decanter,2022,бронза,bronza,2019,"awards.decanter.com, DWWA 2022, вино 720883",2026-08-28
-max-ex-doo-rebus-crveni,Max-Ex Doo,Rebus Crveni,decanter,2022,бронза,bronza,2019,"awards.decanter.com, DWWA 2022, вино 705400",2026-08-28
+max-ex-rebus-crveni,Max-Ex Doo,Rebus Crveni,decanter,2022,бронза,bronza,2019,"awards.decanter.com, DWWA 2022, вино 705400",2026-08-28
 reljic-rebus-reserve,Reljić Vinarija,Rebus Reserve,decanter,2022,серебро,srebro,2019,"awards.decanter.com, DWWA 2022, вино 705696",2026-08-28
 petrovic-cabernet-sauvignon,Podrum Petrović,Cabernet Sauvignon,decanter,2022,бронза,bronza,2019,"awards.decanter.com, DWWA 2022, вино 705926",2026-08-28
 deuric-aksiom-beli,Deurić,Aksiom Beli,decanter,2022,серебро,srebro,2019,"awards.decanter.com, DWWA 2022, вино 711712",2026-08-28
@@ -433,7 +433,7 @@ matalj-crna-tamjanika,Matalj,Crna Tamjanika,decanter,2022,серебро,srebro,
 jovac-tamjanika,Vinarija Jovac,Tamjanika,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 737575",2026-08-28
 draskovic-horizont-chardonnay,Drašković,Horizont Chardonnay,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 728650",2026-08-28
 draskovic-burgundac-beli,Drašković,Burgundac Beli,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 728670",2026-08-28
-nikolich-neuzinsky-vineyards-santa-maria,Nikolich Neuzinsky Vineyards,Santa Maria,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 737745",2026-08-28
+nikolich-neuzinsky-santa-maria,Николић Неyзински (Nikolićh Neuzinsky),Santa Maria,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 737745",2026-08-28
 virtus-gewurztraminer,Virtus,Gewurztraminer,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 736170",2026-08-28
 virtus-prokupac,Virtus,Prokupac,decanter,2023,бронза,bronza,2019,"awards.decanter.com, DWWA 2023, вино 736213",2026-08-28
 bacina-dolina,Podrum Bačina,Dolina,decanter,2023,бронза,bronza,2018,"awards.decanter.com, DWWA 2023, вино 732158",2026-08-28
@@ -464,18 +464,18 @@ doja-prokupac,Doja,Prokupac,decanter,2023,серебро,srebro,2019,"awards.dec
 doja-breg-prokupac,Doja,Breg Prokupac,decanter,2023,серебро,srebro,2019,"awards.decanter.com, DWWA 2023, вино 738192",2026-08-28
 doja-breg-cabernet-sauvignon,Doja,Breg Cabernet Sauvignon,decanter,2023,серебро,srebro,2019,"awards.decanter.com, DWWA 2023, вино 738193",2026-08-28
 doja-breg-merlot,Doja,Breg Merlot,decanter,2023,серебро,srebro,2019,"awards.decanter.com, DWWA 2023, вино 738194",2026-08-28
-matalj-vainarija-bukovski-cuvee,Matalj Vainarija,Bukovski Cuvée,decanter,2023,серебро,srebro,2019,"awards.decanter.com, DWWA 2023, вино 730710",2026-08-28
+matalj-bukovski-cuvee,Matalj,Bukovski Cuvée,decanter,2023,серебро,srebro,2019,"awards.decanter.com, DWWA 2023, вино 730710",2026-08-28
 zaba-barrique-merlot,Vinarija Zaba,Barrique Merlot,decanter,2023,бронза,bronza,2019,"awards.decanter.com, DWWA 2023, вино 731512",2026-08-28
 temet-ergo,Temet,Ergo,decanter,2023,бронза,bronza,2019,"awards.decanter.com, DWWA 2023, вино 738235",2026-08-28
 deuric-aksiom-beli,Deurić,Aksiom Beli,decanter,2023,серебро,srebro,2019,"awards.decanter.com, DWWA 2023, вино 732061",2026-08-28
 tarpos-cabernet-sauvignon,Tarpoš,Cabernet Sauvignon,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 738923",2026-08-28
 tarpos-merlot,Tarpoš,Merlot,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 738937",2026-08-28
-trilogija-vinery-pecat-grand-reserve,Trilogija Vinery,Pečat Grand Reserve,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 737242",2026-08-28
+trilogija-pecat-grand-reserve,Трилогия Винария - Vinarija Trilogija,Pečat Grand Reserve,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 737242",2026-08-28
 erdevik-stiflers-mom-shiraz,Erdevik,Stifler's Mom Shiraz,decanter,2023,золото,zlato,2017,"awards.decanter.com, DWWA 2023, вино 734090",2026-08-28
 erdevik-marlon-delon,Erdevik,Marlon Delon,decanter,2023,серебро,srebro,2017,"awards.decanter.com, DWWA 2023, вино 734771",2026-08-28
-probus-vineyards-cclxxx-magis,Probus Vineyards CCLXXX,Magis,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 738157",2026-08-28
-probus-vineyards-cclxxx-belim,Probus Vineyards CCLXXX,Belim,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 738233",2026-08-28
-vina-dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 724396",2026-08-28
+probus-magis,Probus Vineyards,Magis,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 738157",2026-08-28
+probus-belim,Probus Vineyards,Belim,decanter,2023,бронза,bronza,2017,"awards.decanter.com, DWWA 2023, вино 738233",2026-08-28
+dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 724396",2026-08-28
 bt-mister-marselan,BT Winery,Mister Marselan,decanter,2023,золото,zlato,2021,"awards.decanter.com, DWWA 2023, вино 731026",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,2023,серебро,srebro,2021,"awards.decanter.com, DWWA 2023, вино 731250",2026-08-28
 stupovi-merlot,Винарија Ступови (Vinarija Stupovi),Merlot,decanter,2023,серебро,srebro,2021,"awards.decanter.com, DWWA 2023, вино 727916",2026-08-28
@@ -492,7 +492,7 @@ deuric-severna-morava,Deurić,Severna Morava,decanter,2023,бронза,bronza,2
 lastar-triangl-chardonnay,Vinarija Lastar,Triangl Chardonnay,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 737761",2026-08-28
 lastar-triangl-sauvignon-viognier,Vinarija Lastar,Triangl Sauvignon-Viognier,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 737764",2026-08-28
 draskovic-beli-pinot,Drašković,Beli Pinot,decanter,2023,серебро,srebro,2020,"awards.decanter.com, DWWA 2023, вино 728644",2026-08-28
-vina-dragic-aurora,Драгић Винарија (Vina Dragic),Aurora,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 724398",2026-08-28
+dragic-aurora,Драгић Винарија (Vina Dragic),Aurora,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 724398",2026-08-28
 aleksic-kontra,Aleksić,Kontra,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 739614",2026-08-28
 vincic-grand-fru,Vinčić,Grand Fru,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 732247",2026-08-28
 durdevica-legat-otisak,Vinarija Đurđevića Legat,Otisak,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 738861",2026-08-28
@@ -502,9 +502,9 @@ cokot-radovan-100-prokupac,Čokot,Radovan 100% Prokupac,decanter,2023,сереб
 matijasevic-tri-doline,Matijašević,Tri Doline,decanter,2023,золото,zlato,2020,"awards.decanter.com, DWWA 2023, вино 738328",2026-08-28
 jovac-stella-noir,Vinarija Jovac,Stella Noir,decanter,2023,золото,zlato,2020,"awards.decanter.com, DWWA 2023, вино 737590",2026-08-28
 matalj-kremen,Matalj,Kremen,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 730682",2026-08-28
-tri-medje-i-oblak-vagabundo-cabernet-sauvignon,Tri Medje I Oblak,Vagabundo Cabernet Sauvignon,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 738202",2026-08-28
+tri-mede-i-oblak-vagabundo-cabernet-sauvignon,Tri Medje I Oblak,Vagabundo Cabernet Sauvignon,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 738202",2026-08-28
 reljic-rebus-crveni,Reljić Vinarija,Rebus Crveni,decanter,2023,серебро,srebro,2020,"awards.decanter.com, DWWA 2023, вино 723895",2026-08-28
-mrdjanin-family-edition-probus,Vinarija Mrdjanin,Family Edition Probus,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 732411",2026-08-28
+mrdanin-family-edition-probus,Vinarija Mrdjanin,Family Edition Probus,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 732411",2026-08-28
 gamanovic-cabernet-sauvignon,Vinarija Gamanović,Cabernet Sauvignon,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 727545",2026-08-28
 bikicki-uncensored,Bikicki,Uncensored,decanter,2023,серебро,srebro,2020,"awards.decanter.com, DWWA 2023, вино 732509",2026-08-28
 bikicki-s-o,Bikicki,S/O,decanter,2023,бронза,bronza,2020,"awards.decanter.com, DWWA 2023, вино 732516",2026-08-28
@@ -515,7 +515,7 @@ tarpos-chardonnay,Tarpoš,Chardonnay,decanter,2023,бронза,bronza,2022,"awa
 tarpos-tamjanika,Tarpoš,Tamjanika,decanter,2023,серебро,srebro,2022,"awards.decanter.com, DWWA 2023, вино 738946",2026-08-28
 petrovic-grasac,Podrum Petrović,Grašac,decanter,2023,серебро,srebro,2022,"awards.decanter.com, DWWA 2023, вино 730433",2026-08-28
 erdevik-grand-trianon,Erdevik,Grand Trianon,decanter,2023,бронза,bronza,2016,"awards.decanter.com, DWWA 2023, вино 734754",2026-08-28
-tri-medje-i-oblak-bigfoot-chardonnay,Tri Medje I Oblak,Bigfoot Chardonnay,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 738198",2026-08-28
+tri-mede-i-oblak-bigfoot-chardonnay,Tri Medje I Oblak,Bigfoot Chardonnay,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 738198",2026-08-28
 verkat-barrique-malvazija,Verkat,Barrique Malvazija,decanter,2023,серебро,srebro,2021,"awards.decanter.com, DWWA 2023, вино 738802",2026-08-28
 verkat-grasac-beli-40,Verkat,Grašac Beli 4.0,decanter,2023,серебро,srebro,2021,"awards.decanter.com, DWWA 2023, вино 738851",2026-08-28
 pevac-gust-barrique-chardonnay,Podrum Pevac,Gušt Barrique Chardonnay,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 727088",2026-08-28
@@ -528,15 +528,15 @@ chateau-prince-velika-morava,Château Prince,Velika Morava,decanter,2023,сер�
 stari-hrast-sauvignon-blanc,Podrum Stari Hrast,Sauvignon Blanc,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 728004",2026-08-28
 aleksic-zuti-cvet-tamjanika-sec,Aleksić,Zuti Cvet Tamjanika Sec,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 739613",2026-08-28
 deuric-the-brut,Deurić,The Brut,decanter,2023,бронза,bronza,2019,"awards.decanter.com, DWWA 2023, вино 732063",2026-08-28
-vina-dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 724393",2026-08-28
+dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 724393",2026-08-28
 danguba-ponovo-nase-tamjanika,Vinarija Podrum Danguba,Ponovo Naše Tamjanika,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 730147",2026-08-28
 gamanovic-bela-tamjanika,Vinarija Gamanović,Bela Tamjanika,decanter,2023,бронза,bronza,2021,"awards.decanter.com, DWWA 2023, вино 727546",2026-08-28
 art-et-vinum-meduza,Art Et Vinum,Meduza,decanter,2023,серебро,srebro,2021,"awards.decanter.com, DWWA 2023, вино 734083",2026-08-28
 vincic-grand-fru,Vinčić,Grand Fru,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755439",2026-08-28
-dragic-carski-drum-rajnski-rizling,Vinarija Dragić,Carski Drum Rajnski Rizling,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755837",2026-08-28
+dragic-carski-drum-rajnski-rizling,Драгић Винарија (Vina Dragic),Carski Drum Rajnski Rizling,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755837",2026-08-28
 doja-breg-prokupac,Doja,Breg Prokupac,decanter,2024,золото,zlato,2020,"awards.decanter.com, DWWA 2024, вино 752964",2026-08-28
 zvonko-bogdan-icon-campana-albus,Zvonko Bogdan,Icon Campana Albus,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 756201",2026-08-28
-manastira-studenica-1186-prokupac,Vinarija Manastira Studenica,1186 Prokupac,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 756007",2026-08-28
+studenica-1186-prokupac,Манастир Студеница (Manastir Studenica),1186 Prokupac,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 756007",2026-08-28
 fragaria-votazi,Vinarija Fragaria,Votazi,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 757148",2026-08-28
 matalj-bukovski-prokupac,Matalj,Bukovski Prokupac,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 757453",2026-08-28
 jovac-merlot,Vinarija Jovac,Merlot,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 754765",2026-08-28
@@ -547,15 +547,15 @@ todorovic-merlot,Vinarija Todorović,Merlot,decanter,2024,бронза,bronza,20
 virtus-prokupac,Virtus,Prokupac,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 755464",2026-08-28
 virtus-marselan,Virtus,Marselan,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755469",2026-08-28
 virtus-credo,Virtus,Credo,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755474",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 755814",2026-08-28
-dragic-carski-drum-cabernet-franc,Vinarija Dragić,Carski Drum Cabernet Franc,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755829",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 755814",2026-08-28
+dragic-carski-drum-cabernet-franc,Драгић Винарија (Vina Dragic),Carski Drum Cabernet Franc,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755829",2026-08-28
 manufaktura-spasic-rebo,Manufaktura Spasić,Rebo,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 757987",2026-08-28
-atelje-vina-sapat-magnus,Šapat,Magnus,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 756967",2026-08-28
-atelje-vina-sapat-reserve-cabernet-sauvignon,Šapat,Reserve Cabernet Sauvignon,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 756984",2026-08-28
+atelje-sapat-magnus,Šapat,Magnus,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 756967",2026-08-28
+atelje-sapat-reserve-cabernet-sauvignon,Šapat,Reserve Cabernet Sauvignon,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 756984",2026-08-28
 manufaktura-spasic-krivac,Manufaktura Spasić,Krivac,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 755026",2026-08-28
 deuric-pinot-noir,Deurić,Pinot Noir,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 752920",2026-08-28
 lastar-cabernet-franc,Vinarija Lastar,Cabernet Franc,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 746476",2026-08-28
-krstasica-doo-konekcija-merlot,Krstašica Doo,Konekcija Merlot,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 746132",2026-08-28
+krstasica-konekcija-merlot,Krstašica Doo,Konekcija Merlot,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 746132",2026-08-28
 unikat-cabernet-sauvignon,Vinarija Unikat,Cabernet Sauvignon,decanter,2024,бронза,bronza,2020,"awards.decanter.com, DWWA 2024, вино 749546",2026-08-28
 aleksandrovic-prokupac,Aleksandrović,Prokupac,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 757533",2026-08-28
 despotika-trag,Despotika,Trag,decanter,2024,бронза,bronza,2021,"awards.decanter.com, DWWA 2024, вино 759538",2026-08-28
@@ -564,7 +564,7 @@ zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvee No1,decanter,2024,бронза,bronz
 tarpos-cabernet-sauvignon,Tarpoš,Cabernet Sauvignon,decanter,2024,бронза,bronza,2021,"awards.decanter.com, DWWA 2024, вино 755936",2026-08-28
 matijasevic-cukundeda-prokupac,Matijašević,Cukundeda Prokupac,decanter,2024,серебро,srebro,2021,"awards.decanter.com, DWWA 2024, вино 756928",2026-08-28
 aven-cabernet-sauvignon,Vinarija Aven,Cabernet Sauvignon,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 749388",2026-08-28
-krstasica-konekcija-merlot,Krstašica,Konekcija Merlot,decanter,2024,бронза,bronza,2021,"awards.decanter.com, DWWA 2024, вино 746134",2026-08-28
+krstasica-konekcija-merlot,Krstašica Doo,Konekcija Merlot,decanter,2024,бронза,bronza,2021,"awards.decanter.com, DWWA 2024, вино 746134",2026-08-28
 pevac-prokupac,Podrum Pevac,Prokupac,decanter,2024,бронза,bronza,2021,"awards.decanter.com, DWWA 2024, вино 748634",2026-08-28
 sokolov-zamak-marselan,Vinarija Sokolov Zamak,Marselan,decanter,2024,бронза,bronza,2021,"awards.decanter.com, DWWA 2024, вино 758249",2026-08-28
 trasko-fabulous-cabernet-franc,Traško Vinarija,Fabulous Cabernet Franc,decanter,2024,серебро,srebro,2021,"awards.decanter.com, DWWA 2024, вино 747082",2026-08-28
@@ -592,22 +592,22 @@ tonkovic-fantazija-organic-kadarka,Tonković,Fantazija Organic Kadarka,decanter,
 bt-mister-marselan,BT Winery,Mister Marselan,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 756346",2026-08-28
 stankovic-cabernet-sauvignon,Vinarija Stanković,Cabernet Sauvignon,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 750297",2026-08-28
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 756195",2026-08-28
-vina-dragic-nemirac,Драгић Винарија (Vina Dragic),Nemirac,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 750285",2026-08-28
+dragic-nemirac,Драгић Винарија (Vina Dragic),Nemirac,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 750285",2026-08-28
 fragaria-jagoda,Vinarija Fragaria,Jagoda,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 757521",2026-08-28
-manastira-studenica-tamjanika-bela-rec,Vinarija Manastira Studenica,Tamjanika Bela Reč,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 756175",2026-08-28
-dragic-carski-drum-chardonnay,Vinarija Dragić,Carski Drum Chardonnay,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 755834",2026-08-28
+studenica-tamjanika-bela-rec,Манастир Студеница (Manastir Studenica),Tamjanika Bela Reč,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 756175",2026-08-28
+dragic-carski-drum-chardonnay,Драгић Винарија (Vina Dragic),Carski Drum Chardonnay,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 755834",2026-08-28
 virtus-credo-beli,Virtus,Credo Beli,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 755456",2026-08-28
 stankovic-chardonnay,Vinarija Stanković,Chardonnay,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 750293",2026-08-28
 matalj-terasa-chardonnay,Matalj,Terasa Chardonnay,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 757455",2026-08-28
 sokolov-zamak-tamjanika,Vinarija Sokolov Zamak,Tamjanika,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 758250",2026-08-28
-atelje-vina-sapat-chardonnay,Šapat,Chardonnay,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 756719",2026-08-28
-atelje-vina-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,2024,золото,zlato,2022,"awards.decanter.com, DWWA 2024, вино 756721",2026-08-28
+atelje-sapat-chardonnay,Šapat,Chardonnay,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 756719",2026-08-28
+atelje-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,2024,золото,zlato,2022,"awards.decanter.com, DWWA 2024, вино 756721",2026-08-28
 veritas-cukovic-bela-harmonija,Veritas Ćuković,Bela Harmonija,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 753458",2026-08-28
-djurdjic-grasac-beli,Winery Djurdjic,Grašac Beli,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 749711",2026-08-28
+durdic-grasac-beli,Vinarija Đurđić,Grašac Beli,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 749711",2026-08-28
 karic-adria-belo,Karić Vinarija,Adria Belo,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 745092",2026-08-28
 despotika-morava,Despotika,Morava,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 759525",2026-08-28
-atelje-vina-sapat-su-su-blaufrankisch,Šapat,šU-šU Blaufrankisch,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 756998",2026-08-28
-vina-dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 750283",2026-08-28
+atelje-sapat-su-su-blaufrankisch,Šapat,šU-šU Blaufrankisch,decanter,2024,серебро,srebro,2022,"awards.decanter.com, DWWA 2024, вино 756998",2026-08-28
+dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 750283",2026-08-28
 draskovic-frankovka-rezerva,Drašković,Frankovka Rezerva,decanter,2024,серебро,srebro,2018,"awards.decanter.com, DWWA 2024, вино 751528",2026-08-28
 rubin-amante-matea-merlot,Rubin,Amante Matea Merlot,decanter,2024,бронза,bronza,2018,"awards.decanter.com, DWWA 2024, вино 749707",2026-08-28
 temet-ergo,Temet,Ergo,decanter,2024,серебро,srebro,2018,"awards.decanter.com, DWWA 2024, вино 750354",2026-08-28
@@ -616,19 +616,19 @@ temet-beli-kamen-merlot,Temet,Beli Kamen Merlot,decanter,2024,бронза,bronz
 temet-beli-kamen-syrah,Temet,Beli Kamen Syrah,decanter,2024,бронза,bronza,2017,"awards.decanter.com, DWWA 2024, вино 750353",2026-08-28
 erdevik-marlon-delon-cabernet-sauvignon-merlot,Erdevik,Marlon Delon Cabernet Sauvignon-Merlot,decanter,2024,серебро,srebro,2017,"awards.decanter.com, DWWA 2024, вино 756001",2026-08-28
 aleksandrovic-vozd-cabernet-sauvignon,Aleksandrović,Vožd Cabernet Sauvignon,decanter,2024,золото,zlato,2017,"awards.decanter.com, DWWA 2024, вино 757517",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,2024,серебро,srebro,2023,"awards.decanter.com, DWWA 2024, вино 755831",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,2024,серебро,srebro,2023,"awards.decanter.com, DWWA 2024, вино 755831",2026-08-28
 aleksic-zuti-cvet,Aleksić,Zuti Cvet,decanter,2024,бронза,bronza,2023,"awards.decanter.com, DWWA 2024, вино 756937",2026-08-28
 aleksic-arno-sauvignon-blanc,Aleksić,Arno Sauvignon Blanc,decanter,2024,бронза,bronza,2023,"awards.decanter.com, DWWA 2024, вино 756951",2026-08-28
 tarpos-sauvignon-blanc,Tarpoš,Sauvignon Blanc,decanter,2024,бронза,bronza,2023,"awards.decanter.com, DWWA 2024, вино 755934",2026-08-28
 tarpos-tamjanika,Tarpoš,Tamjanika,decanter,2024,серебро,srebro,2023,"awards.decanter.com, DWWA 2024, вино 755935",2026-08-28
 sokolov-zamak-chardonnay,Vinarija Sokolov Zamak,Chardonnay,decanter,2024,бронза,bronza,2023,"awards.decanter.com, DWWA 2024, вино 758248",2026-08-28
-atelje-vina-sapat-bianca-moscato-giallo,Šapat,Bianca Moscato Giallo,decanter,2024,серебро,srebro,2023,"awards.decanter.com, DWWA 2024, вино 756381",2026-08-28
+atelje-sapat-bianca-moscato-giallo,Šapat,Bianca Moscato Giallo,decanter,2024,серебро,srebro,2023,"awards.decanter.com, DWWA 2024, вино 756381",2026-08-28
 matalj-terasa-sauvignon-blanc,Matalj,Terasa Sauvignon Blanc,decanter,2024,серебро,srebro,2023,"awards.decanter.com, DWWA 2024, вино 757459",2026-08-28
 pevac-gust,Podrum Pevac,Gušt,decanter,2024,бронза,bronza,2023,"awards.decanter.com, DWWA 2024, вино 748669",2026-08-28
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,2024,серебро,srebro,2019,"awards.decanter.com, DWWA 2024, вино 756193",2026-08-28
 doja-breg-merlot,Doja,Breg Merlot,decanter,2024,серебро,srebro,2019,"awards.decanter.com, DWWA 2024, вино 752965",2026-08-28
 virtus-prokupac,Virtus,Prokupac,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 755459",2026-08-28
-dzervin-1927-trifun-grand-cabernet-sauvignon,Podrum Džervin 1927,Trifun Grand Cabernet Sauvignon,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 748202",2026-08-28
+dzervin-trifun-grand-cabernet-sauvignon,Dzervin,Trifun Grand Cabernet Sauvignon,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 748202",2026-08-28
 janko-zlatno-runo-cabernet-sauvignon,Podrum Janko,Zlatno Runo Cabernet Sauvignon,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 757869",2026-08-28
 cokot-experiment-prokupac,Čokot,Experiment Prokupac,decanter,2024,серебро,srebro,2019,"awards.decanter.com, DWWA 2024, вино 756253",2026-08-28
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,decanter,2024,серебро,srebro,2019,"awards.decanter.com, DWWA 2024, вино 757518",2026-08-28
@@ -639,18 +639,18 @@ erdevik-stiflers-mom-shiraz,Erdevik,Stiflers Mom Shiraz,decanter,2024,сереб
 tonkovic-rapsodija-kadarka,Tonković,Rapsodija Kadarka,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 745066",2026-08-28
 deuric-aksiom-crveni,Deurić,Aksiom Crveni,decanter,2024,серебро,srebro,2019,"awards.decanter.com, DWWA 2024, вино 752927",2026-08-28
 temet-beli-kamen-prokupac,Temet,Beli Kamen Prokupac,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 750347",2026-08-28
-atelje-vina-sapat-pi-crveno-premium,Šapat,Pi' Crveno Premium,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 756960",2026-08-28
+atelje-sapat-pi-crveno-premium,Šapat,Pi' Crveno Premium,decanter,2024,бронза,bronza,2019,"awards.decanter.com, DWWA 2024, вино 756960",2026-08-28
 zvonko-bogdan-eclater-blanc-de-blancs-extra-brut,Zvonko Bogdan,Eclater Blanc De Blancs Extra Brut,decanter,2024,золото,zlato,2019,"awards.decanter.com, DWWA 2024, вино 756211",2026-08-28
 zvonko-bogdan-eclater-blanc-de-blancs-extra-brut,Zvonko Bogdan,Eclater Blanc De Blancs Extra Brut,decanter,2024,серебро,srebro,2018,"awards.decanter.com, DWWA 2024, вино 756205",2026-08-28
 despotika-nemir,Despotika,Nemir,decanter,2024,бронза,bronza,2023,"awards.decanter.com, DWWA 2024, вино 759531",2026-08-28
-salas-gnezdo-doo-becej-genzdo-muskat-krokan,Salaš Gnezdo Doo Bečej,Genzdo Muskat Krokan,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 753039",2026-08-28
-vina-dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 750276",2026-08-28
+gnezdo-genzdo-muskat-krokan,Vinarija Gnezdo,Genzdo Muskat Krokan,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 753039",2026-08-28
+dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,2024,бронза,bronza,2022,"awards.decanter.com, DWWA 2024, вино 750276",2026-08-28
 dibonis-di-icewine,Dibonis Winery,Di Icewine,decanter,2024,серебро,srebro,2020,"awards.decanter.com, DWWA 2024, вино 756424",2026-08-28
 karic-adria-belo,Karić Vinarija,Adria Belo,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 761764",2026-08-28
 stankovic-chardonnay,Vinarija Stanković,Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 768380",2026-08-28
 ivanovic-no-3-4,Ivanović,No 3/4,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 770341",2026-08-28
-krstasica-konekicja-chardonnay,Krstašica,Konekicja Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 771778",2026-08-28
-krstasica-konekicja-sauvignon-blanc,Krstašica,Konekicja Sauvignon Blanc,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 771809",2026-08-28
+krstasica-konekicja-chardonnay,Krstašica Doo,Konekicja Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 771778",2026-08-28
+krstasica-konekicja-sauvignon-blanc,Krstašica Doo,Konekicja Sauvignon Blanc,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 771809",2026-08-28
 sokolov-zamak-chardonnay,Vinarija Sokolov Zamak,Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 771933",2026-08-28
 frug-chardonnay,Vinarija Frug,Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 772363",2026-08-28
 chichateau-blake-sauvignon-blanc,Chichateau,Blake Sauvignon Blanc,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 772806",2026-08-28
@@ -661,18 +661,18 @@ deuric-la-rem-morava-amf,Deurić,La Rem Morava Amf.,decanter,2025,серебро
 deuric-la-rem-chardonnay,Deurić,La Rem Chardonnay,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 768555",2026-08-28
 deuric-severna-morava,Deurić,Severna Morava,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 768596",2026-08-28
 vincic-grand-fru,Vinčić,Grand Fru,decanter,2025,серебро,srebro,2020,"awards.decanter.com, DWWA 2025, вино 773243",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 771666",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 771666",2026-08-28
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,2025,золото,zlato,2023,"awards.decanter.com, DWWA 2025, вино 774735",2026-08-28
-atelje-vina-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 772702",2026-08-28
-atelje-vina-sapat-chardonnay,Šapat,Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 771854",2026-08-28
+atelje-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 772702",2026-08-28
+atelje-sapat-chardonnay,Šapat,Chardonnay,decanter,2025,бронза,bronza,2023,"awards.decanter.com, DWWA 2025, вино 771854",2026-08-28
 matalj-bagrina,Matalj,Bagrina,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 768171",2026-08-28
 virtus-morava,Virtus,Morava,decanter,2025,золото,zlato,2023,"awards.decanter.com, DWWA 2025, вино 771116",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 771660",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 771660",2026-08-28
 tarpos-prokupac,Tarpoš,Prokupac,decanter,2025,золото,zlato,2023,"awards.decanter.com, DWWA 2025, вино 771690",2026-08-28
 cokot-radovan-100-prokupac,Čokot,Radovan 100% Prokupac,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 771671",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée no.1,decanter,2025,серебро,srebro,2023,"awards.decanter.com, DWWA 2025, вино 774731",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,2025,бронза,bronza,2024,"awards.decanter.com, DWWA 2025, вино 771661",2026-08-28
-dragic-carski-drum-sauvignon-blanc,Vinarija Dragić,Carski Drum Sauvignon Blanc,decanter,2025,бронза,bronza,2024,"awards.decanter.com, DWWA 2025, вино 771665",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,2025,бронза,bronza,2024,"awards.decanter.com, DWWA 2025, вино 771661",2026-08-28
+dragic-carski-drum-sauvignon-blanc,Драгић Винарија (Vina Dragic),Carski Drum Sauvignon Blanc,decanter,2025,бронза,bronza,2024,"awards.decanter.com, DWWA 2025, вино 771665",2026-08-28
 breg-sila,Breg,Sila,decanter,2025,бронза,bronza,2024,"awards.decanter.com, DWWA 2025, вино 773198",2026-08-28
 breg-grasac,Breg,Grašac,decanter,2025,бронза,bronza,2024,"awards.decanter.com, DWWA 2025, вино 773219",2026-08-28
 deuric-gorska-tamjanika,Deurić,Gorska Tamjanika,decanter,2025,серебро,srebro,2024,"awards.decanter.com, DWWA 2025, вино 768585",2026-08-28
@@ -688,7 +688,7 @@ mira-la-baba-morava,Vinarija Mira,La Baba Morava,decanter,2025,бронза,bron
 erdevik-omnibus-lector-chardonnay,Erdevik,Omnibus Lector Chardonnay,decanter,2025,золото,zlato,2019,"awards.decanter.com, DWWA 2025, вино 764827",2026-08-28
 zvonko-bogdan-pinot-blanc,Zvonko Bogdan,Pinot Blanc,decanter,2025,серебро,srebro,2019,"awards.decanter.com, DWWA 2025, вино 774740",2026-08-28
 zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,decanter,2025,бронза,bronza,2019,"awards.decanter.com, DWWA 2025, вино 774730",2026-08-28
-dzervin-1927-trifun-grand-cabernet-sauvignon,Podrum Džervin 1927,Trifun Grand Cabernet Sauvignon,decanter,2025,серебро,srebro,2019,"awards.decanter.com, DWWA 2025, вино 761930",2026-08-28
+dzervin-trifun-grand-cabernet-sauvignon,Dzervin,Trifun Grand Cabernet Sauvignon,decanter,2025,серебро,srebro,2019,"awards.decanter.com, DWWA 2025, вино 761930",2026-08-28
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,decanter,2025,серебро,srebro,2019,"awards.decanter.com, DWWA 2025, вино 765140",2026-08-28
 chichateau-fabula-lagum-cabernet-sauvignon-cabernet-franc-merlot,Chichateau,Fabula Lagum Cabernet Sauvignon-Cabernet Franc-Merlot,decanter,2025,серебро,srebro,2019,"awards.decanter.com, DWWA 2025, вино 772801",2026-08-28
 deuric-aksiom,Deurić,Aksiom,decanter,2025,серебро,srebro,2019,"awards.decanter.com, DWWA 2025, вино 768384",2026-08-28
@@ -720,20 +720,20 @@ doja-breg-cabernet-sauvignon,Doja,Breg Cabernet Sauvignon,decanter,2025,брон
 virtus-prokupac,Virtus,Prokupac,decanter,2025,бронза,bronza,2020,"awards.decanter.com, DWWA 2025, вино 771113",2026-08-28
 virtus-marselan,Virtus,Marselan,decanter,2025,серебро,srebro,2020,"awards.decanter.com, DWWA 2025, вино 771114",2026-08-28
 nikolich-neuzinsky-monah-cabernet-franc-merlot,Николић Неyзински (Nikolićh Neuzinsky),Monah Cabernet Franc-Merlot,decanter,2025,серебро,srebro,2020,"awards.decanter.com, DWWA 2025, вино 772108",2026-08-28
-dragic-carski-drum-rajnski-rizling,Vinarija Dragić,Carski Drum Rajnski Rizling,decanter,2025,бронза,bronza,2020,"awards.decanter.com, DWWA 2025, вино 771662",2026-08-28
+dragic-carski-drum-rajnski-rizling,Драгић Винарија (Vina Dragic),Carski Drum Rajnski Rizling,decanter,2025,бронза,bronza,2020,"awards.decanter.com, DWWA 2025, вино 771662",2026-08-28
 despotika-barik-morava,Despotika,Barik Morava,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 771994",2026-08-28
 bikicki-uncensored,Bikicki,Uncensored,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 772489",2026-08-28
 bikicki-skins,Bikicki,Skins,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 772491",2026-08-28
 bikicki-cu,Bikicki,Cu,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 772495",2026-08-28
-dragic-beli-biser,Vinarija Dragić,Beli Biser,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 771664",2026-08-28
+dragic-beli-biser,Драгић Винарија (Vina Dragic),Beli Biser,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 771664",2026-08-28
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 774734",2026-08-28
-atelje-vina-sapat-cuvee,Šapat,Cuvée,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 772831",2026-08-28
-atelje-vina-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 772833",2026-08-28
-atelje-vina-sapat-terol-teroldego,Šapat,Terol Teroldego,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 772836",2026-08-28
+atelje-sapat-cuvee,Šapat,Cuvée,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 772831",2026-08-28
+atelje-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 772833",2026-08-28
+atelje-sapat-terol-teroldego,Šapat,Terol Teroldego,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 772836",2026-08-28
 matalj-kremen,Matalj,Kremen,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 761756",2026-08-28
 frug-signum-syrah,Vinarija Frug,Signum Syrah,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 772841",2026-08-28
 bt-mister-marselan,BT Winery,Mister Marselan,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 765708",2026-08-28
-pr-anjino-vino-suton-merlot,Pr Anjino Vino,Suton Merlot,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 762133",2026-08-28
+anjino-suton-merlot,Pr Anjino Vino,Suton Merlot,decanter,2025,бронза,bronza,2022,"awards.decanter.com, DWWA 2025, вино 762133",2026-08-28
 frug-cuvee,Vinarija Frug,Cuvée,decanter,2025,серебро,srebro,2022,"awards.decanter.com, DWWA 2025, вино 772835",2026-08-28
 deuric-aksiom,Deurić,Aksiom,decanter,2025,бронза,bronza,2021,"awards.decanter.com, DWWA 2025, вино 768544",2026-08-28
 chichateau-chardonnay,Chichateau,Chardonnay,decanter,2025,бронза,bronza,2021,"awards.decanter.com, DWWA 2025, вино 772804",2026-08-28
@@ -745,10 +745,10 @@ aleksandrovic-trijumf-rose-brut,Aleksandrović,Trijumf Rosé Brut,decanter,2025,
 rajic-prokupac,Vinarija Rajić,Prokupac,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790975",2026-08-28
 zvonko-bogdan-cuvee-no-1,Zvonko Bogdan,Cuvée No. 1,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 787966",2026-08-28
 gnezdo-kadarka,Vinarija Gnezdo,Kadarka,decanter,2026,серебро,srebro,2024,"awards.decanter.com, DWWA 2026, вино 789006",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790272",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790272",2026-08-28
 chateau-prince-charm-chardonnay-morava,Château Prince,Charm Chardonnay-Morava,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 779199",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790248",2026-08-28
-dragic-carski-drum-sauvignon-blanc,Vinarija Dragić,Carski Drum Sauvignon Blanc,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790256",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790248",2026-08-28
+dragic-carski-drum-sauvignon-blanc,Драгић Винарија (Vina Dragic),Carski Drum Sauvignon Blanc,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790256",2026-08-28
 virtus-credo,Virtus,Credo,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790252",2026-08-28
 gnezdo-krokan-muskat,Vinarija Gnezdo,Krokan Muskat,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 789002",2026-08-28
 zvonko-bogdan-icon-campana-albus,Zvonko Bogdan,Icon Campana Albus,decanter,2026,серебро,srebro,2024,"awards.decanter.com, DWWA 2026, вино 787969",2026-08-28
@@ -759,16 +759,16 @@ karic-adria,Karić Vinarija,Adria,decanter,2026,серебро,srebro,2024,"awar
 milicevic-vladavina-riesling-grasac,Vinarija Milićević,Vladavina Riesling-Grašac,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 779149",2026-08-28
 rajic-tamjanika,Vinarija Rajić,Tamjanika,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790974",2026-08-28
 fleur-doranger-krokan-muskat,Vinarija Fleur D'Oranger,Krokan Muskat,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790590",2026-08-28
-atelje-vina-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790635",2026-08-28
+atelje-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790635",2026-08-28
 marko-doajen-chardonnay,Marko,Doajen Chardonnay,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 789695",2026-08-28
 virtus-pinot-grigio,Virtus,Pinot Grigio,decanter,2026,серебро,srebro,2024,"awards.decanter.com, DWWA 2026, вино 790262",2026-08-28
 rajic-triva-souvignier-gris,Vinarija Rajić,Triva Souvignier Gris,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790798",2026-08-28
 deuric-sauvignon-blanc,Deurić,Sauvignon Blanc,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 787734",2026-08-28
 matalj-bagrina,Matalj,Bagrina,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 787244",2026-08-28
-atelje-vina-sapat-chardonnay,Šapat,Chardonnay,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790451",2026-08-28
+atelje-sapat-chardonnay,Šapat,Chardonnay,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790451",2026-08-28
 gnezdo-belo,Vinarija Gnezdo,Belo,decanter,2026,серебро,srebro,2024,"awards.decanter.com, DWWA 2026, вино 789003",2026-08-28
 verkat-grasac-beli,Verkat,Grašac Beli,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790650",2026-08-28
-chardonnay-omnibus-lector-chardonnay,Chardonnay,Omnibus Lector Chardonnay,decanter,2026,серебро,srebro,2024,"awards.decanter.com, DWWA 2026, вино 788542",2026-08-28
+erdevik-omnibus-lector-chardonnay,Erdevik,Omnibus Lector Chardonnay,decanter,2026,серебро,srebro,2024,"awards.decanter.com, DWWA 2026, вино 788542",2026-08-28
 la-gora-lupo,La Gora,Lupo,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790313",2026-08-28
 la-gora-bello,La Gora,Bello,decanter,2026,бронза,bronza,2024,"awards.decanter.com, DWWA 2026, вино 790318",2026-08-28
 frug-signum-chardonnay,Vinarija Frug,Signum Chardonnay,decanter,2026,серебро,srebro,2022,"awards.decanter.com, DWWA 2026, вино 789455",2026-08-28
@@ -797,7 +797,7 @@ frug-pinot-noir,Vinarija Frug,Pinot Noir,decanter,2026,серебро,srebro,202
 frug-signum-cuvee,Vinarija Frug,Signum Cuvée,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 789513",2026-08-28
 mister-marselan,Mister,Marselan,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 790777",2026-08-28
 frug-signum-syrah,Vinarija Frug,Signum Syrah,decanter,2026,серебро,srebro,2022,"awards.decanter.com, DWWA 2026, вино 789498",2026-08-28
-atelje-vina-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 790442",2026-08-28
+atelje-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 790442",2026-08-28
 veritas-cukovic-monte-karlovci,Veritas Ćuković,Monte Karlovci,decanter,2026,серебро,srebro,2022,"awards.decanter.com, DWWA 2026, вино 779080",2026-08-28
 trasko-fabulous-cabernet-sauvignon,Traško Vinarija,Fabulous Cabernet Sauvignon,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 785315",2026-08-28
 trasko-fabulous-cabernet-franc,Traško Vinarija,Fabulous Cabernet Franc,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 785310",2026-08-28
@@ -808,17 +808,17 @@ zvonko-bogdan-chardonnay,Zvonko Bogdan,Chardonnay,decanter,2026,золото,zla
 zvonko-bogdan-pinot-blanc,Zvonko Bogdan,Pinot Blanc,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 786005",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 787965",2026-08-28
 rajic-monika,Vinarija Rajić,Monika,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 790726",2026-08-28
-atelje-vina-sapat-nera,Šapat,Nera,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790638",2026-08-28
-dragic-carski-drum-cabernet-franc,Vinarija Dragić,Carski Drum Cabernet Franc,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790286",2026-08-28
+atelje-sapat-nera,Šapat,Nera,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790638",2026-08-28
+dragic-carski-drum-cabernet-franc,Драгић Винарија (Vina Dragic),Carski Drum Cabernet Franc,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790286",2026-08-28
 lastar-sofijin-izbor-pinot-noir,Vinarija Lastar,Sofijin Izbor Pinot Noir,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 785454",2026-08-28
 stankovic-cabernet-sauvignon,Vinarija Stanković,Cabernet Sauvignon,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 785457",2026-08-28
 deuric-276-probus,Deurić,276 Probus,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 787728",2026-08-28
 veritas-cukovic-momentum-mali,Veritas Ćuković,Momentum Mali,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 778977",2026-08-28
 natural-grape-concept-prokupac,Natural Grape Concept,Prokupac,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 780355",2026-08-28
 matalj-kremen,Matalj,Kremen,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 787241",2026-08-28
-orlic-mmxxiii-shiraz,Vinarija Orlić,MMXXIII Shiraz,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 779090",2026-08-28
-atelje-vina-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790454",2026-08-28
-atelje-vina-sapat-cuvee,Šapat,Cuvée,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 790641",2026-08-28
+orlic-family-mmxxiii-shiraz,Орлић Породична Винарија - Orlić Family Winery,MMXXIII Shiraz,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 779090",2026-08-28
+atelje-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790454",2026-08-28
+atelje-sapat-cuvee,Šapat,Cuvée,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 790641",2026-08-28
 imperator-constantius,Vinarija Imperator,Constantius,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 779059",2026-08-28
 frug-pinot-noir,Vinarija Frug,Pinot Noir,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 789493",2026-08-28
 plavinac-smederevka,Plavinac,Smederevka,decanter,2026,бронза,bronza,2025,"awards.decanter.com, DWWA 2026, вино 788473",2026-08-28
@@ -826,20 +826,20 @@ aleksic-morava,Aleksić,Morava,decanter,2026,бронза,bronza,2025,"awards.de
 kovacevic-chardonnay,Kovačević,Chardonnay,decanter,2026,серебро,srebro,2025,"awards.decanter.com, DWWA 2026, вино 790799",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Žuti Cvet Tamjanika,decanter,2026,серебро,srebro,2025,"awards.decanter.com, DWWA 2026, вино 793610",2026-08-28
 pevac-tisina-malvazija,Podrum Pevac,Tišina Malvazija,decanter,2026,серебро,srebro,2025,"awards.decanter.com, DWWA 2026, вино 788670",2026-08-28
-tri-medje-i-oblak-vagabundo-sauvignon-blanc,Tri Medje I Oblak,Vagabundo Sauvignon Blanc,decanter,2026,бронза,bronza,2025,"awards.decanter.com, DWWA 2026, вино 788001",2026-08-28
+tri-mede-i-oblak-vagabundo-sauvignon-blanc,Tri Medje I Oblak,Vagabundo Sauvignon Blanc,decanter,2026,бронза,bronza,2025,"awards.decanter.com, DWWA 2026, вино 788001",2026-08-28
 la-gora-lupo,La Gora,Lupo,decanter,2026,серебро,srebro,2025,"awards.decanter.com, DWWA 2026, вино 790321",2026-08-28
 la-gora-bello,La Gora,Bello,decanter,2026,золото,zlato,2025,"awards.decanter.com, DWWA 2026, вино 790324",2026-08-28
 la-gora-chardonnay,La Gora,Chardonnay,decanter,2026,бронза,bronza,2025,"awards.decanter.com, DWWA 2026, вино 790327",2026-08-28
 la-gora-sauvignon-blanc,La Gora,Sauvignon Blanc,decanter,2026,бронза,bronza,2025,"awards.decanter.com, DWWA 2026, вино 790338",2026-08-28
 breg-grasac,Breg,Grašac,decanter,2026,бронза,bronza,2025,"awards.decanter.com, DWWA 2026, вино 789245",2026-08-28
 frug-grasac,Vinarija Frug,Grašac,decanter,2026,серебро,srebro,2025,"awards.decanter.com, DWWA 2026, вино 789433",2026-08-28
-dragic-mitra,Vinarija Dragić,Mitra,decanter,2026,серебро,srebro,2025,"awards.decanter.com, DWWA 2026, вино 790291",2026-08-28
+dragic-mitra,Драгић Винарија (Vina Dragic),Mitra,decanter,2026,серебро,srebro,2025,"awards.decanter.com, DWWA 2026, вино 790291",2026-08-28
 matijasevic-belina,Matijašević,Belina,decanter,2026,серебро,srebro,2022,"awards.decanter.com, DWWA 2026, вино 789174",2026-08-28
 imperator-val-rajnski-rizling,Vinarija Imperator,VAL Rajnski Rizling,decanter,2026,бронза,bronza,2022,"awards.decanter.com, DWWA 2026, вино 779044",2026-08-28
 frug-signum-chardonnay,Vinarija Frug,Signum Chardonnay,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 789468",2026-08-28
 chichateau-blake-sauvignon-blanc,Chichateau,Blake Sauvignon Blanc,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 791021",2026-08-28
 temet-ergo,Temet,Ergo,decanter,2026,серебро,srebro,2019,"awards.decanter.com, DWWA 2026, вино 778874",2026-08-28
-dzervin-1927-trifun-grand-cabernet-sauvignon,Podrum Džervin 1927,Trifun Grand Cabernet Sauvignon,decanter,2026,бронза,bronza,2019,"awards.decanter.com, DWWA 2026, вино 778833",2026-08-28
+dzervin-trifun-grand-cabernet-sauvignon,Dzervin,Trifun Grand Cabernet Sauvignon,decanter,2026,бронза,bronza,2019,"awards.decanter.com, DWWA 2026, вино 778833",2026-08-28
 dolina-cuvee-barrique,Dolina,Cuveé Barrique,decanter,2026,серебро,srebro,2019,"awards.decanter.com, DWWA 2026, вино 792994",2026-08-28
 dolina-barrique-xix-reserve,Dolina,Barrique Xix Reserve,decanter,2026,серебро,srebro,2019,"awards.decanter.com, DWWA 2026, вино 792997",2026-08-28
 erdevik-grand-trianon,Erdevik,Grand Trianon,decanter,2026,бронза,bronza,2019,"awards.decanter.com, DWWA 2026, вино 788544",2026-08-28
@@ -868,7 +868,7 @@ deuric-la-rem-morava-amf,Deurić,La Rem Morava Amf.,decanter,2026,бронза,b
 deuric-la-rem-chardonnay,Deurić,La Rem Chardonnay,decanter,2026,платина,platina,2023,"awards.decanter.com, DWWA 2026, вино 787711",2026-08-28
 veritas-cukovic-barrique-chardonay,Veritas Ćuković,Barrique Chardonay,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 779078",2026-08-28
 gardijan-stigma-chardonnay,Gardijan,Stigma Chardonnay,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 786344",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790261",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 790261",2026-08-28
 erdevik-ex-cathedra-sauvignon-blanc,Erdevik,Ex Cathedra Sauvignon Blanc,decanter,2026,серебро,srebro,2023,"awards.decanter.com, DWWA 2026, вино 788541",2026-08-28
 the-sparkling-the-extra-brut,The Sparkling Winery,The Extra Brut,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 787756",2026-08-28
 aleksic-zuti-cvet-tamjanika-extra-brut,Aleksić,Zuti Cvet Tamjanika Extra Brut,decanter,2026,бронза,bronza,2023,"awards.decanter.com, DWWA 2026, вино 793612",2026-08-28
@@ -895,7 +895,7 @@ zvonko-bogdan-icon-campana-albus,Zvonko Bogdan,Icon Campana Albus,vino.rs,2021,�
 ,Aleksandar Todorović,,vino.rs,2021,десятка лучших виноделен,5,,"vino.rs, годовой тест 2021",2026-08-28
 ,MV Vinarija,,vino.rs,2021,десятка лучших виноделен,6,,"vino.rs, годовой тест 2021",2026-08-28
 ,Изба Јовановић (Izba Jovanovic),,vino.rs,2021,десятка лучших виноделен,7,,"vino.rs, годовой тест 2021",2026-08-28
-,Tri Međe I Oblak,,vino.rs,2021,десятка лучших виноделен,8,,"vino.rs, годовой тест 2021",2026-08-28
+,Tri Medje I Oblak,,vino.rs,2021,десятка лучших виноделен,8,,"vino.rs, годовой тест 2021",2026-08-28
 ,Podrum Šukac,,vino.rs,2021,десятка лучших виноделен,9,,"vino.rs, годовой тест 2021",2026-08-28
 ,Patkov Vinograd,,vino.rs,2021,десятка лучших виноделен,10,,"vino.rs, годовой тест 2021",2026-08-28
 ,Radovan,,vino.rs,2025,вклад в сербское виноделие,1,,"vino.rs, годовой тест 2025",2026-08-28

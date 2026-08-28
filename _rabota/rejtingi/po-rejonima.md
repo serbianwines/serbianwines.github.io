@@ -13,7 +13,8 @@
 
 | Источник | Что даёт | Хозяйств |
 |---|---|---|
-| **vinarijesrbije.rs** | справочник винарий: рејон и город | 129 |
+| **ivv.rs** | «Вина и винарије Србије»: место с округом — «Vinča, Topola - Oplenac, Šumadijski okrug» | 142 |
+| **vinarijesrbije.rs** | справочник винарий: рејон, город, адрес | 129 |
 | **Decanter** | `region` + `subRegion` у каждого вина — единственный источник, доходящий до виногорја | 997 записей |
 | **Vivino** | плоский `region` у вина, до виногорја не доходит | 2786 вин |
 | **Falstaff** | область в печатном списке | 116 позиций |
@@ -23,23 +24,122 @@
 Таблица явная, и это не занудство: часть имён у Vivino и Decanter осталась
 от **старой рејонизације**, где рејонов было девять. «Šumadija-Great Morava»
 покрывает нынешние Шумадијски, Београдски, Млавски и Три Мораве; «Nišava-South
-Morava» — пять рејонов сразу. По таким именам рејон не ставится вовсе: лучше
-пустое поле, чем правдоподобная выдумка.
+Morava» — пять рејонов сразу. По таким именам рејон не ставится, но
+записывается регион и короткий список, в котором рејон точно есть.
+
+## Округ у справочников — административный, не виноградарский
+
+Это стоит держать в голове. Последнее слово в адресе у ivv.rs — всегда
+**управни округ**: Шумадијски, Јужно-бачки, Расински. Их двадцать, и это
+единицы государственного управления, а не виноградарские области; с
+рејонима они не совпадают ни границами, ни числом. У vinarijesrbije.rs
+наоборот: там названы именно рејоны, но их ярлыки местами ошибочны — тот
+же Vino Budimir у них в Сремском рејону при адресе в Александровцу.
+
+Поэтому ни один ярлык источника не берётся как рејон напрямую. Округ
+работает только как **вместилище**: если все общины округа лежат в одном
+рејоне, рејон известен. Так получается у 14 округов из 23; по остальным —
+Зајечарски делится между Књажевачким и Нишким, Јужно-бачки между четырьмя
+рејонима — по округу не ставится ничего.
+
+На одном округе держатся девять хозяйств: Vinarija Eden, Katanić,
+Matalj, Matijašević, Milanović, Podrum Probus, Rogan, Tarpoš, Zmajevac.
+Все остальные опираются на общину или село.
+
+## Место ищется по уровням достоверности
+
+Имена мест по Сербии повторяются, и уровень решает всё. «Aleksandrovac» —
+община Рејона Три Мораве и одновременно кадастровое село ещё в четырёх
+виногорјима по стране; «Topola» — община Шумадијског рејона и село
+Јагодинског виногорја. Пока обе карты были свалены в одну, девять жупских
+винарий оставались без рејона, а Александровић уезжал из Шумадије.
+
+Порядок такой, от точного к общему:
+
+1. **названное виногорје** — если в поле прямо стоит «Levačko vinogorje»;
+2. **община рејона** — административная единица, её и имеют в виду справочники;
+3. **кадастровая община виногорја** — село, 2162 имени;
+4. **округ** — годится только тот, что целиком лежит в одном рејоне. Таких
+   14 из 23; Зајечарски, например, делится между Књажевачким и Нишким, и по
+   нему ставить нечего. Округ выводится не по выборке, а по официальным
+   спискам: община → округ, община → рејон;
+5. **город из чужого справочника** — последним.
+
+Рејон находится первым, виногорје ищется уже внутри него.
 
 ## Как решается спор
 
-Источники расходятся у полутора десятков хозяйств. Порядок такой:
-
-1. **Место решает.** Если известен город и он однозначно лежит в одном
-   рејоне — берётся он. Город точнее любого счёта записей.
-2. **Подавляющее большинство.** Восемьдесят семь записей за Сремски рејон
-   против одной за Суботички — это опечатка у источника, а не второе место
-   работы хозяйства. Порог — вчетверо.
-3. **Иначе рејон не ставится**, а расхождение записывается в
-   `rejon_raznoglasie`, чтобы его было видно.
+1. **Место старше ярлыка источника.** Справочник vinarijesrbije пишет
+   Vino Budimir в Сремски рејон, а адресом даёт Александровац — то есть Жупу;
+   он же держит Vinarija Čoka в Суботичком, хотя Чока — община Потиског
+   рејона. Ярлык у них ошибочный, адрес — нет.
+2. **Если спорят сами города** — рејон не ставится. У Urošević ivv.rs пишет
+   Баноштор на Фрушкој гори, а vinarijesrbije — Књажевац; это разные концы
+   страны, и выбирать тут не из чего.
+3. **Подавляющее большинство.** Восемьдесят семь записей за Сремски рејон
+   против одной за Суботички — опечатка у источника, а не второе место работы
+   хозяйства. Порог — вчетверо.
+4. **Иначе рејон не ставится**, а расхождение пишется в `rejon_raznoglasie`.
 
 Виногорје из чужого рејона отбрасывается: у Savić рејон вышел Нишавски по
 четырём записям, а виногорје — Опленачко по одной, и второе неверно.
+
+## Чего делать нельзя
+
+**Выводить место из имени хозяйства.** Проверено: даёт тринадцать ответов,
+из них верных два. «Подрум Вина Тодор» садится в село Вина Књажевачког
+рејона, потому что «вина» — родительный падеж слова «вино»; «Weingut Jović» —
+в Мališevsko виногорје по фамилии; «Манастир Студеница» — в Метохију.
+
+**Сводить хозяйства по похожести имён.** Тоже проверено: Jovanović и Jovanov,
+Madžić и Adžić, Stojković и Stojanović, Radlović и Aranđelović — разные
+хозяйства. Свёденные имена лежат в `sinonimy-hozyaistv.json`, и у каждого
+записано доказательство.
+
+## Одно хозяйство под пятью именами
+
+По ходу вскрылось, что часть строк в таблице — не разные хозяйства,
+а одно и то же под разными написаниями. Три корня:
+
+**«dj» вместо «đ».** Decanter пишет «Mrdjanin», «Djurdjic», «Medje» там,
+где у Vivino стоит «Mrđanin», «Đurđić», «Međe». Ключ теперь считает их
+одной буквой — три слияния, ложных нет.
+
+**Служебные слова.** «Vino Budimir» и «Budimir», «Krstašica Doo» и
+«Krstašica», «Podrum Vina Žarković» и «Žarković», «Pr Anjino Vino» и
+«Anjino Vino» — одни и те же дома. Слова «вино», «вина», «д.о.о.», «пр»,
+«vineyards», «wines» ничего не различают и отброшены — одиннадцать
+слияний, ложных нет.
+
+**Кириллица через тире.** «Орлић Породична Винарија - Orlić Family
+Winery» — одно имя дважды, как и «X (Y)» в скобках. Разбирается так же.
+
+Остальное сведено руками, по одному, с доказательством — в
+`sinonimy-hozyaistv.json`. Всего строк стало 443 вместо 472.
+
+## Три строки, которые вообще не хозяйства
+
+У Decanter в поле производителя иногда стоит название сорта:
+
+- **Belina**, DWWA 2021 — то же вино урожаев 2020–2022 подано за
+  Matijašević, и других «Belina» на конкурсе нет. Привязано.
+- **Chardonnay**, DWWA 2026 — вино «Omnibus Lector Chardonnay», а это
+  линейка Erdevik. Привязано.
+- **Marselan** (DWWA 2023) и **Prokupac** (DWWA 2021) — привязать не
+  к кому: эти сорта делают десятки хозяйств. Строки остались как есть,
+  с пометкой в `sinonimy-hozyaistv.json`.
+
+Отдельно: **Mihajlovacko** — не хозяйство, а обломок разбора у Vivino.
+За именем стоит одна запись «Codrum Vina Dajit Gamay Kvalitetno Suvo
+Crveno»: это текст с этикетки, попавший в поле имени.
+
+## Как проверить глазами
+
+Хозяйство на Vivino открывается по слагу:
+`https://www.vivino.com/wineries/<слаг>` — слаг лежит в поле
+`vivino_slug` таблицы хозяйств. Награда Decanter — по номеру вина из
+поля `stranica`: `https://awards.decanter.com/DWWA/<год>/wines/<номер>`.
+Карточка ivv.rs — `https://www.ivv.rs/vinarija/<слаг>/`.
 
 **Пересобрать файл:**
 
@@ -55,28 +155,28 @@ Morava» — пять рејонов сразу. По таким именам р
 
 | Регион | Рејон | Хозяйств | Оценок Vivino | Оценок критиков | Наград |
 |---|---|---|---|---|---|
-| Vojvodina | Rejon Bačka | 7 | 5 | 0 | 1 |
-| Vojvodina | Banatski rejon | 3 | 1 | 7 | 7 |
+| Vojvodina | Rejon Bačka | 6 | 0 | 0 | 0 |
+| Vojvodina | Banatski rejon | 1 | 0 | 0 | 0 |
 | Centralna Srbija | Beogradski rejon | 12 | 32 | 24 | 26 |
 | Centralna Srbija | Čačansko–kraljevački rejon | 2 | 1 | 1 | 1 |
 | Vojvodina | Južnobanatski rejon | 8 | 23 | 13 | 13 |
 | Kosovo i Metohija | Južnometohijski rejon | 1 | 0 | 0 | 0 |
-| Centralna Srbija | Knjaževački rejon | 4 | 20 | 4 | 5 |
+| Centralna Srbija | Knjaževački rejon | 3 | 20 | 4 | 5 |
 | Centralna Srbija | Leskovački rejon | 4 | 3 | 0 | 0 |
-| Centralna Srbija | Mlavski rejon | 3 | 14 | 46 | 44 |
+| Centralna Srbija | Mlavski rejon | 2 | 14 | 46 | 44 |
 | Centralna Srbija | Nišavski rejon | 1 | 2 | 1 | 1 |
 | Centralna Srbija | Niški rejon | 3 | 10 | 0 | 0 |
 | Centralna Srbija | Pocersko Valjevski Rejon | 5 | 24 | 9 | 9 |
 | Vojvodina | Potiski rejon | 3 | 19 | 0 | 0 |
-| Centralna Srbija | Rejon Negotinska Krajina | 17 | 52 | 79 | 59 |
+| Centralna Srbija | Rejon Negotinska Krajina | 15 | 52 | 79 | 59 |
 | Vojvodina | Rejon Telečka | 1 | 2 | 0 | 0 |
-| Centralna Srbija | Rejon Tri Morave | 46 | 181 | 145 | 137 |
-| Vojvodina | Sremski rejon | 86 | 310 | 269 | 269 |
-| Vojvodina | Subotički rejon | 14 | 90 | 116 | 96 |
-| Centralna Srbija | Šumadijski rejon | 23 | 164 | 172 | 128 |
+| Centralna Srbija | Rejon Tri Morave | 44 | 182 | 144 | 137 |
+| Vojvodina | Sremski rejon | 76 | 319 | 269 | 272 |
+| Vojvodina | Subotički rejon | 13 | 91 | 122 | 102 |
+| Centralna Srbija | Šumadijski rejon | 24 | 164 | 174 | 130 |
 | Centralna Srbija | Toplički rejon | 4 | 22 | 33 | 25 |
-| Centralna Srbija | Vranjski rejon | 2 | 16 | 39 | 40 |
-| — | **рејон не установлен** | 223 | 195 | 39 | 48 |
+| Centralna Srbija | Vranjski rejon | 1 | 16 | 39 | 40 |
+| — | **рејон не установлен** | 214 | 190 | 38 | 45 |
 
 **Рејоны, из которых не собралось ни одного хозяйства:** Severnometohijski rejon.
 
@@ -100,12 +200,12 @@ Morava» — пять рејонов сразу. По таким именам р
 
 **Рејоны, где хозяйства есть, а в книге их нет:**
 
-- **Rejon Bačka** (Vojvodina) — 117 Wine, Dimalis, Fekete, Sila, Tri Međe I Oblak, Vinarija Baza, Vindulo
-- **Banatski rejon** (Vojvodina) — Salaš Gnezdo Doo Bečej, Vinarija Sočanski, Драгић Винарија (Vina Dragic)
+- **Rejon Bačka** (Vojvodina) — 117 Wine, Dimalis, Fekete, Sila, Vinarija Baza, Vindulo
+- **Banatski rejon** (Vojvodina) — Vinarija Sočanski
 - **Čačansko–kraljevački rejon** (Centralna Srbija) — Vinarija Tomić - Rošci, Винарија Ступови (Vinarija Stupovi)
 - **Južnometohijski rejon** (Kosovo i Metohija) — Podrum Lukic
 - **Leskovački rejon** (Centralna Srbija) — Prima, Vinarija Aquila, Козарак, Митровиђ Винарија
-- **Mlavski rejon** (Centralna Srbija) — Pruna, Virtus, Virtus W
+- **Mlavski rejon** (Centralna Srbija) — Pruna, Virtus
 - **Nišavski rejon** (Centralna Srbija) — Vinarija Savic
 - **Pocersko Valjevski Rejon** (Centralna Srbija) — Andrića Vinograd, Karić Vinarija, Milijan Jelić, Pusula, Vinarija Đurđevića Legat
 - **Rejon Telečka** (Vojvodina) — Milisavljević
@@ -121,7 +221,6 @@ Morava» — пять рејонов сразу. По таким именам р
 | Dimalis | — | vivino | — |
 | Fekete | — | vivino | — |
 | Sila | — | vivino | — |
-| Tri Međe I Oblak | — | vivino | — |
 | Vinarija Baza | — | vivino | — |
 | Vindulo | — | mesto | — |
 
@@ -129,9 +228,7 @@ Morava» — пять рејонов сразу. По таким именам р
 
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
-| Salaš Gnezdo Doo Bečej | — | decanter | — |
 | Vinarija Sočanski | — | vinarijesrbije | — |
-| Драгић Винарија (Vina Dragic) | — | decanter | — |
 
 ### Beogradski rejon — Centralna Srbija
 
@@ -182,7 +279,6 @@ Morava» — пять рејонов сразу. По таким именам р
 |---|---|---|---|
 | Dzervin | Potrkanjsko vinogorje | mesto | Юго-восток |
 | Jović | Potrkanjsko vinogorje | mesto | Юго-восток |
-| Podrum Džervin 1927 | — | decanter | — |
 | Vinarija Todorović | — | bolshinstvo | — |
 
 ### Leskovački rejon — Centralna Srbija
@@ -200,7 +296,6 @@ Morava» — пять рејонов сразу. По таким именам р
 |---|---|---|---|
 | Pruna | — | mesto | — |
 | Virtus | Požarevačko vinogorje | mesto | — |
-| Virtus W | — | decanter | — |
 
 ### Nišavski rejon — Centralna Srbija
 
@@ -241,9 +336,7 @@ Morava» — пять рејонов сразу. По таким именам р
 | Dalia | — | vivino | — |
 | Francuska Vinarija - Estelle et Cyrille Bongiraud | — | vivino | — |
 | Manastir Bukovo | — | decanter | Неготинска Крайина |
-| Manastira Bukovo | — | decanter | — |
 | Matalj | — | mesto | Неготинска Крайина |
-| Matalj Vainarija | — | decanter | — |
 | Tenuta Est Winery | — | vivino | — |
 | Traško Vinarija | — | decanter+vivino | — |
 | Vinarija Frunza Aglaja | Negotinsko vinogorje | mesto | — |
@@ -268,7 +361,6 @@ Morava» — пять рејонов сразу. По таким именам р
 |---|---|---|---|
 | Adora | Jagodinsko vinogorje | mesto | — |
 | Aleksandar Todorović | — | vivino | — |
-| Bacina Vino | Kruševačko vinogorje | decanter | — |
 | Botunjac | Župsko vinogorje | mesto | — |
 | Braca Rajkovic | Župsko vinogorje | mesto | — |
 | Budimir | Župsko vinogorje | mesto | Три Моравы и Жупа |
@@ -295,13 +387,11 @@ Morava» — пять рејонов сразу. По таким именам р
 | Vinarija Fragaria | Župsko vinogorje | mesto | — |
 | Vinarija Jovac | Jagodinsko vinogorje | decanter+vivino | Три Моравы и Жупа |
 | Vinarija Lastar | Levačko vinogorje | mesto | — |
-| Vinarija Manastira Studenica | Kruševačko vinogorje | decanter | — |
 | Vinarija Mozaik Milan | — | vivino | — |
 | Vinarija Smiljković 90 | Župsko vinogorje | mesto | — |
 | Vinarija Venčac | Jagodinsko vinogorje | decanter | — |
 | Vinarija Vinis | Jagodinsko vinogorje | decanter | — |
 | Vinarija Ćosić | Župsko vinogorje | mesto | — |
-| Vino Budimir | Župsko vinogorje | mesto | — |
 | Vinska Kuća Milinčić | — | vivino | — |
 | Vinska Kuća Minića | Župsko vinogorje | mesto | — |
 | Vujić | Župsko vinogorje | mesto | Три Моравы и Жупа |
@@ -310,7 +400,8 @@ Morava» — пять рејонов сразу. По таким именам р
 | Čokot | Kruševačko vinogorje | decanter | Три Моравы и Жупа |
 | Žarković | Župsko vinogorje | mesto | — |
 | Винарија Живковић (Vinarija Živković) | Župsko vinogorje | mesto | — |
-| Манастир Студеница (Manastir Studenica) | — | vivino | — |
+| Манастир Студеница (Manastir Studenica) | Kruševačko vinogorje | decanter+vivino | — |
+| Полрум Вина Тодор (Podrum Vina Todor) | Župsko vinogorje | mesto | — |
 | Три Планине (Vinarija Tri Planine) | Župsko vinogorje | mesto | — |
 
 ### Sremski rejon — Vojvodina
@@ -329,7 +420,6 @@ Morava» — пять рејонов сразу. По таким именам р
 | Bikicki | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Bjelica | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Breg | Fruškogorsko vinogorje | mesto | — |
-| Chardonnay | Fruškogorsko vinogorje | decanter | — |
 | Chichateau | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Deurić | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Do Kraja Sveta | Fruškogorsko vinogorje | vivino | — |
@@ -339,28 +429,22 @@ Morava» — пять рејонов сразу. По таким именам р
 | Fruškogorski | Fruškogorsko vinogorje | mesto | — |
 | Gora | Fruškogorsko vinogorje | decanter | — |
 | Hadži Popović | Fruškogorsko vinogorje | vivino | — |
-| Imperator Vino | Fruškogorsko vinogorje | vivino | — |
 | Kiš | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Kovačević | Fruškogorsko vinogorje | mesto | Фрушка гора |
-| Krstašica | Fruškogorsko vinogorje | decanter+vivino | — |
-| Krstašica Doo | Fruškogorsko vinogorje | decanter | — |
+| Krstašica Doo | Fruškogorsko vinogorje | decanter+vivino | — |
 | La Gora | Fruškogorsko vinogorje | mesto | — |
 | La Grande Bellezza | Fruškogorsko vinogorje | decanter | — |
 | Mackov Podrum | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Manufaktura Spasić | Fruškogorsko vinogorje | decanter | — |
-| McCulloch | Fruškogorsko vinogorje | decanter+vivino | — |
-| Mcculloch Wines | Fruškogorsko vinogorje | decanter | — |
+| Mcculloch Wines | Fruškogorsko vinogorje | decanter+vivino | — |
 | Milanović | Fruškogorsko vinogorje | mesto | — |
 | Mister | Fruškogorsko vinogorje | decanter | — |
 | Molovin | Fruškogorsko vinogorje | mesto | Фрушка гора |
-| Molowinery | Fruškogorsko vinogorje | decanter | — |
 | Nera | Fruškogorsko vinogorje | vivino | — |
 | Patkov Vinograd | Fruškogorsko vinogorje | mesto | — |
 | Petković Latin | Fruškogorsko vinogorje | vivino | — |
-| Podrum Probus | Fruškogorsko vinogorje | mesto | — |
 | Podrum Stojković | Fruškogorsko vinogorje | mesto | — |
-| Probus Vineyards | Fruškogorsko vinogorje | decanter | — |
-| Probus Vineyards CCLXXX | Fruškogorsko vinogorje | decanter | — |
+| Probus Vineyards | Fruškogorsko vinogorje | mesto | — |
 | Quet | Fruškogorsko vinogorje | decanter | — |
 | Radošević | Fruškogorsko vinogorje | mesto | — |
 | Rittium | Fruškogorsko vinogorje | vivino | — |
@@ -386,8 +470,7 @@ Morava» — пять рејонов сразу. По таким именам р
 | Vinarija Komuna | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Kurjak | Fruškogorsko vinogorje | mesto | — |
 | Vinarija MK Kosović | Fruškogorsko vinogorje | vivino | — |
-| Vinarija Mrdjanin | Fruškogorsko vinogorje | decanter | — |
-| Vinarija Mrđanin | Fruškogorsko vinogorje | mesto | — |
+| Vinarija Mrdjanin | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Podrum Danguba | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Sokolov Zamak | Fruškogorsko vinogorje | mesto | — |
 | Vinarija Tanasković | Fruškogorsko vinogorje | vivino | — |
@@ -396,9 +479,7 @@ Morava» — пять рејонов сразу. По таким именам р
 | Vinarium | Fruškogorsko vinogorje | mesto | — |
 | Vinum | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Vinčić | Fruškogorsko vinogorje | mesto | Фрушка гора |
-| Vista Hill Plus | Fruškogorsko vinogorje | decanter | — |
-| Vista Hills Plus | Fruškogorsko vinogorje | decanter | — |
-| Winery Djurdjic | Fruškogorsko vinogorje | decanter | — |
+| Vista Hill | Fruškogorsko vinogorje | decanter | — |
 | Šapat | Fruškogorsko vinogorje | mesto | Фрушка гора |
 | Šveljo | Fruškogorsko vinogorje | vinarijesrbije | — |
 | Živanović | Fruškogorsko vinogorje | mesto | Фрушка гора |
@@ -408,7 +489,6 @@ Morava» — пять рејонов сразу. По таким именам р
 
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
-| Bogdan | — | decanter | — |
 | Dibonis Winery | — | decanter+vivino | — |
 | Maurer | — | vivino | Суботичко-Хоргошская пешчара |
 | Max-Ex Doo | — | decanter | — |
@@ -416,12 +496,12 @@ Morava» — пять рејонов сразу. По таким именам р
 | Reljić Vinarija | — | decanter | — |
 | The Collective Presents | — | vivino | — |
 | Tonković | Palićko vinogorje | mesto | Суботичко-Хоргошская пешчара |
-| Vinarija Dragić | Riđičko vinogorje | mesto | — |
 | Vinarija Petra | Palićko vinogorje | mesto | Суботичко-Хоргошская пешчара |
 | Vinarija Salaš Naš | Horgoško vinogorje | mesto | — |
 | Vinarija Zaba | Riđičko vinogorje | decanter | — |
 | Vinski Dvor | — | vivino | — |
 | Zvonko Bogdan | Palićko vinogorje | mesto | Суботичко-Хоргошская пешчара |
+| Драгић Винарија (Vina Dragic) | Riđičko vinogorje | mesto | — |
 
 ### Šumadijski rejon — Centralna Srbija
 
@@ -450,6 +530,7 @@ Morava» — пять рејонов сразу. По таким именам р
 | Vinogradi Veličković Vinarija | Oplenačko vinogorje | mesto | — |
 | Zmajevac | Oplenačko vinogorje | mesto | — |
 | Амбелос Винарија (Ambelos Winery) | — | mesto | — |
+| Трилогия Винария - Vinarija Trilogija | Oplenačko vinogorje | mesto | — |
 
 ### Toplički rejon — Centralna Srbija
 
@@ -465,4 +546,3 @@ Morava» — пять рејонов сразу. По таким именам р
 | Хозяйство | Виногорје | Откуда рејон | В книге |
 |---|---|---|---|
 | Aleksić | — | mesto | Юго-восток |
-| Winery Aleksić Doo | — | decanter | — |

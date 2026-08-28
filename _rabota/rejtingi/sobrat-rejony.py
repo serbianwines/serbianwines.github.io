@@ -197,8 +197,10 @@ def latinicej(s):
 
 
 def prostoj_klyuch(s):
+    # «dj» — тот же «đ» без диакритики, см. `sobrat-tablicy.py`.
+    s = s.lower().replace("dj", "đ")
     for a, b in (("š", "s"), ("đ", "d"), ("č", "c"), ("ć", "c"), ("ž", "z")):
-        s = s.lower().replace(a, b)
+        s = s.replace(a, b)
     s = unicodedata.normalize("NFKD", s)
     s = "".join(z for z in s if not unicodedata.combining(z))
     return re.sub(r"[^a-z0-9а-я]+", "-", s).strip("-")
@@ -209,9 +211,11 @@ def klyuch_mesta(*chasti):
     return prostoj_klyuch(latinicej(" ".join(c for c in chasti if c)))
 
 
+# Тот же список, что в `sobrat-tablicy.py`, — ключи обязаны совпадать.
 SLUZHEBNYE = ("vinarija", "podrum", "podrumi", "vinogradi", "vinska-kuca",
               "vinarska-kuca", "gazdinstvo", "winery", "estate", "manastir",
-              "monastery")
+              "monastery", "vino", "vina", "doo", "pr", "vinery",
+              "vineyards", "wine", "wines")
 
 
 # Имена, сведённые руками и с доказательством, — `sinonimy-hozyaistv.json`.
@@ -241,11 +245,18 @@ def bez_skobok(imya):
     """
     sovpalo = re.search(r"^(.+?)\s*\(([^()]+)\)\s*$", imya)
     if not sovpalo:
+        # То же самое, но через тире: «Орлић Породична Винарија -
+        # Orlić Family Winery», «Трилогия Винария - Vinarija Trilogija».
+        sovpalo = re.search(r"^(.+?)\s+[-–]\s+(.+?)\s*$", imya)
+    if not sovpalo:
         return imya
-    v_skobkah = sovpalo.group(2)
-    if any("\u0400" <= z <= "\u04ff" for z in v_skobkah):
-        return sovpalo.group(1)
-    return v_skobkah
+    levo, pravo = sovpalo.group(1), sovpalo.group(2)
+    kirillica = lambda s: any("\u0400" <= z <= "\u04ff" for z in s)
+    if kirillica(pravo) and not kirillica(levo):
+        return levo
+    if kirillica(levo) and not kirillica(pravo):
+        return pravo
+    return imya
 
 
 SINONIMY = {}

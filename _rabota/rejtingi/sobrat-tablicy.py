@@ -156,9 +156,15 @@ def svesti_vivino(ruchnoe, iz_api):
 # «Vinarija Deurić», у Decanter «Vinarija Deuric». Слова «винария»,
 # «подрум», «виногради» в имени ничего не различают — при сведении их
 # отбрасываем, а для показа берём то имя, которое встретилось первым.
+# Слова, которые в имени хозяйства ничего не различают: род занятий
+# («винарија», «подрум»), форма собственности («д.о.о.», «пр») и
+# английские кальки. «Vino Budimir» и «Budimir», «Krstašica Doo» и
+# «Krstašica», «Podrum Vina Žarković» и «Žarković» — одни и те же дома.
 SLUZHEBNYE = ("vinarija", "vinarija-", "podrum", "podrumi", "vinogradi",
               "vinska-kuca", "vinarska-kuca", "gazdinstvo", "winery",
-              "vinarija-vinarija", "estate", "manastir", "monastery")
+              "vinarija-vinarija", "estate", "manastir", "monastery",
+              "vino", "vina", "doo", "pr", "vinery", "vineyards",
+              "wine", "wines")
 
 
 # Имена, сведённые руками и с доказательством, — `sinonimy-hozyaistv.json`.
@@ -193,11 +199,18 @@ def bez_skobok(imya):
     """
     sovpalo = re.search(r"^(.+?)\s*\(([^()]+)\)\s*$", imya)
     if not sovpalo:
+        # То же самое, но через тире: «Орлић Породична Винарија -
+        # Orlić Family Winery», «Трилогия Винария - Vinarija Trilogija».
+        sovpalo = re.search(r"^(.+?)\s+[-–]\s+(.+?)\s*$", imya)
+    if not sovpalo:
         return imya
-    v_skobkah = sovpalo.group(2)
-    if any("\u0400" <= z <= "\u04ff" for z in v_skobkah):
-        return sovpalo.group(1)
-    return v_skobkah
+    levo, pravo = sovpalo.group(1), sovpalo.group(2)
+    kirillica = lambda s: any("\u0400" <= z <= "\u04ff" for z in s)
+    if kirillica(pravo) and not kirillica(levo):
+        return levo
+    if kirillica(levo) and not kirillica(pravo):
+        return pravo
+    return imya
 
 
 def _bazovyj_klyuch(imya):
@@ -207,6 +220,8 @@ def _bazovyj_klyuch(imya):
 
 
 SINONIMY = {}
+# Имена, объявленные в файле синонимов главными: они и показываются.
+KANON_IMYA = set()
 
 
 def klyuch_hozyaistva(imya):
@@ -260,6 +275,10 @@ def imya_vina(hozyaistvo, vino, snimat_povtor=True):
 def klyuch(*chasti):
     """Устойчивый ключ: без регистра, диакритики и лишних пробелов."""
     s = " ".join(c for c in chasti if c).lower()
+    # «dj» — тот же «đ», записанный без диакритики: Decanter пишет
+    # «Mrdjanin», «Djurdjic», «Medje» там, где у Vivino стоит «Mrđanin»,
+    # «Đurđić», «Međe». Без этого одно хозяйство разъезжается на два.
+    s = s.replace("dj", "đ")
     s = s.replace("š", "s").replace("đ", "d").replace("č", "c")
     s = s.replace("ć", "c").replace("ž", "z")
     s = unicodedata.normalize("NFKD", s)
@@ -354,7 +373,12 @@ def main():
         # иначе выбирались как попало — от запуска к запуску имя в
         # таблицах менялось. Порядок задан явно: длиннее, с диакритикой,
         # затем по алфавиту.
+        # Имя, названное в `sinonimy-hozyaistv.json`, старше длины: там
+        # оно выбрано с доказательством. Иначе побеждала бы опечатка —
+        # «Vista Hills Plus» длиннее, чем «Vista Hill».
+        svedennoe = [i for i in nabor if i in KANON_IMYA]
         imena.append(knizhnye[0] if knizhnye else
+                     svedennoe[0] if svedennoe else
                      sorted(nabor, key=lambda i: (-len(i),
                                                   -sum(z > "\x7f" for z in i),
                                                   i))[0])
@@ -547,6 +571,10 @@ def main():
 
 
 SINONIMY.update(_sinonimy())
+KANON_IMYA.update(
+    json.load(open(os.path.join(RYADOM, "sinonimy-hozyaistv.json"),
+                   encoding="utf-8"))["hozyaistva"]
+    if os.path.exists(os.path.join(RYADOM, "sinonimy-hozyaistv.json")) else {})
 
 
 if __name__ == "__main__":

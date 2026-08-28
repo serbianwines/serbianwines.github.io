@@ -1,15 +1,77 @@
 {
  "chto_eto": "Имена, под которыми одно и то же хозяйство встречается у разных источников. Список ведётся руками и только с доказательством: догадки по похожести имён сюда не идут — они уже дали ложные пары (Jovanović и Jovanov, Madžić и Adžić, Stojković и Stojanović — разные хозяйства).",
- "kak_chitat": "Ключ — имя, которое остаётся; значение — список имён, которые к нему сводятся, и чем это доказано.",
+ "kak_chitat": "Ключ — имя, которое остаётся; значение — список имён, которые к нему сводятся, и чем это доказано. Написания, различающиеся только регистром, диакритикой, служебными словами («винарија», «подрум», «д.о.о.», «вино») или парой dj/đ, сюда не входят: их сводит сам ключ.",
  "hozyaistva": {
   "Atelje Vina Šapat": {
    "varianty": ["Šapat", "šApat Wine Atelier", "Atelje Šapat"],
-   "dokazatelstvo": "У записи «Šapat» стоит слаг Vivino atelje-vina-sapat — то есть это одна и та же страница хозяйства. ivv.rs зовёт его «Atelje Šapat», Нови Сланкамен. «šApat Wine Atelier» — то же имя по-английски, вин за ним не числится."
+   "dokazatelstvo": "У записи «Šapat» стоит слаг Vivino atelje-vina-sapat — то есть это одна и та же страница хозяйства. ivv.rs зовёт его «Atelje Šapat», Нови Сланкамен."
+  },
+  "Matijašević": {
+   "varianty": ["Belina"],
+   "dokazatelstvo": "Ошибка ввода у Decanter: в DWWA 2021 в поле производителя стоит название сорта. То же вино «Belina» урожаев 2020, 2021 и 2022 подано в DWWA 2022, 2023 и 2026 уже за Matijašević Vinogradi, и других производителей вина с таким именем на конкурсе нет."
+  },
+  "Erdevik": {
+   "varianty": ["Chardonnay"],
+   "dokazatelstvo": "Та же ошибка у Decanter, DWWA 2026: производитель «Chardonnay», вино «Omnibus Lector Chardonnay». Линейка Omnibus Lector — Erdevik, она проходит через конкурс с 2015 года."
+  },
+  "Zvonko Bogdan": {
+   "varianty": ["Bogdan"],
+   "dokazatelstvo": "DWWA 2015, вина «Rosé Sec» и «Sauvignon blanc» урожая 2014 — обе позиции есть в линейке Zvonko Bogdan. Другого сербского хозяйства с именем Bogdan ни в одном источнике нет."
+  },
+  "Manastir Bukovo": {
+   "varianty": ["Manastira Bukovo"],
+   "dokazatelstvo": "Родительный падеж того же имени: «винарија манастира Буково». У обеих записей вина одной линейки Filigran, DWWA 2018 и 2020–2021."
+  },
+  "Vista Hill": {
+   "varianty": ["Vista Hill Plus", "Vista Hills Plus"],
+   "dokazatelstvo": "Одно хозяйство в трёх написаниях у Decanter: DWWA 2020 подала «White Reserve» как Vista Hill Plus и «Premium» как Vista Hills Plus, DWWA 2021 — уже как Vista Hill."
+  },
+  "Molovin": {
+   "varianty": ["Molowinery"],
+   "dokazatelstvo": "«Molowinery» — то же имя с английским окончанием. В DWWA 2015–2018 под ним поданы вина линейки Inat, а вся линейка Inat — Molovin.",
+   "ogovorka": "В DWWA 2019 под тем же именем поданы два вина Vista Hill — «Vista Hill Selection» и «Vista Hill Red Reserve». Vista Hill с 2020 года подаётся отдельно; похоже, это вторая марка того же предприятия. Две награды 2019 года из-за этого стоят за Molovin."
+  },
+  "Matalj": {
+   "varianty": ["Matalj Vainarija"],
+   "dokazatelstvo": "Опечатка в слове «Vinarija» у Decanter. Вино «Bukovski Cuvée» — Matalj."
+  },
+  "Probus Vineyards": {
+   "varianty": ["Probus Vineyards CCLXXX"],
+   "dokazatelstvo": "CCLXXX — римское 280, часть названия серии, а не отдельное хозяйство."
+  },
+  "Манастир Студеница (Manastir Studenica)": {
+   "varianty": ["Vinarija Manastira Studenica"],
+   "dokazatelstvo": "Родительный падеж того же имени."
+  },
+  "Орлић Породична Винарија - Orlić Family Winery": {
+   "varianty": ["Vinarija Orlić"],
+   "dokazatelstvo": "То же хозяйство: Vivino держит полное имя, Decanter — короткое."
+  },
+  "Трилогия Винария - Vinarija Trilogija": {
+   "varianty": ["Trilogija Vinery"],
+   "dokazatelstvo": "Опечатка в слове «Winery» у Decanter."
+  },
+  "Virtus": {
+   "varianty": ["Virtus W"],
+   "dokazatelstvo": "Vivino держит две страницы одного хозяйства; вина обеих — Млавски рејон, Жабари."
+  },
+  "Vinarija Gnezdo": {
+   "varianty": ["Salaš Gnezdo Doo Bečej"],
+   "dokazatelstvo": "Полное юридическое имя того же хозяйства. Вино у Decanter — «Genzdo Muskat Krokan», с опечаткой в самом имени."
+  },
+  "Dzervin": {
+   "varianty": ["Podrum Džervin 1927"],
+   "dokazatelstvo": "То же имя с годом основания."
   }
  },
  "ne_odno_i_to_zhe": {
-  "Plavinac / Plavinci": "Разные хозяйства, а не написания. У Vivino это две страницы с непересекающимися линейками: у Plavinci семь вин (Indigo Regent, Ćilibar, Selena Tamjanika, пет-наты), у Vinarija Plavinac — двадцать шесть классических. Plavinci стоит в Заклопачи под Гроцкой, у Plavinac места не нашлось.",
+  "Plavinac / Plavinci": "Разные хозяйства, а не написания. У Vivino это две страницы с непересекающимися линейками: у Plavinci семь вин (Indigo Regent, Ćilibar, Selena Tamjanika, пет-наты), у Vinarija Plavinac — двадцать шесть классических. Plavinci стоит в Заклопачи под Гроцкой.",
   "Vinarija Mihailović / Vinarija Mihajlović": "Разные. У нашего Mihailović единственное вино «Луг (Lug)» с районом Vivino «Šumadija-Great Morava», а Mihajlović из справочника vinarijesrbije стоит в Књажевцу, это Зајечарски округ.",
-  "Mihajlovacko": "Не хозяйство, а обломок разбора: за именем стоит одна запись «Codrum Vina Dajit Gamay Kvalit» без района."
+  "Mihajlovacko": "Не хозяйство, а обломок разбора у Vivino: за именем стоит одна запись «Codrum Vina Dajit Gamay Kvalitetno Suvo Crveno» без района — это текст с этикетки, а не имя дома."
+ },
+ "ne_privyazano": {
+  "Marselan": "Ошибка ввода у Decanter, DWWA 2023: в поле производителя стоит название сорта, вино тоже «Marselan». Марселан в Сербии делают десятки хозяйств — привязать не к кому.",
+  "Prokupac": "То же, DWWA 2021. Прокупац делают почти все — привязать не к кому.",
+  "Aglaya / Vinarija Frunza Aglaja / ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery)": "Три записи вокруг одной марки: «Dentelle» и «Aglaja» встречаются и у Frunza Aglaja, и у Vimmid. Свести без подтверждения нельзя — возможно, Аглаја это марка, а Vimmid предприятие."
  }
 }

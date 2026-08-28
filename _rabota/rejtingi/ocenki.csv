@@ -282,12 +282,12 @@ petra-orange-methode-traditionelle,Vinarija Petra,Orange Méthode Traditionelle,
 petra-pinot-noir-barrique,Vinarija Petra,Pinot Noir Barrique,vivino,5,3.9,103,False,,,,https://www.vivino.com/w/3995639,2026-08-28
 petra-pinot-noir,Vinarija Petra,Pinot Noir,vivino,5,3.7,34,False,,,,https://www.vivino.com/w/5198523,2026-08-28
 petra-pinot-grigio,Vinarija Petra,Pinot Grigio,vivino,5,3.5,71,False,,,,https://www.vivino.com/w/6317690,2026-08-28
-atelje-vina-sapat-akcent-reserve,Šapat,Àkcent Réserve,vivino,5,4.4,35,False,,,,https://www.vivino.com/w/7480596,2026-08-28
-atelje-vina-sapat-bianca-moscato-giallo,Šapat,Bianca - Moscato Giallo,vivino,5,4,78,False,,,,https://www.vivino.com/w/11923805,2026-08-28
-atelje-vina-sapat-picrveno,Šapat,Pi'Crveno,vivino,5,4,172,False,,,,https://www.vivino.com/w/3056614,2026-08-28
-atelje-vina-sapat-reserve-cabernet-sauvignon,Šapat,Reserve Cabernet Sauvignon,vivino,5,4,59,False,,,,https://www.vivino.com/w/10165174,2026-08-28
-atelje-vina-sapat-cabernet-sauvignon,Šapat,Cabernet Sauvignon,vivino,5,4.1,35,False,,,,https://www.vivino.com/w/6739165,2026-08-28
-atelje-vina-sapat-barrique-cabernet-sauvignon,Šapat,Barrique Cabernet Sauvignon,vivino,5,4,61,False,,,,https://www.vivino.com/w/4849583,2026-08-28
+atelje-sapat-akcent-reserve,Šapat,Àkcent Réserve,vivino,5,4.4,35,False,,,,https://www.vivino.com/w/7480596,2026-08-28
+atelje-sapat-bianca-moscato-giallo,Šapat,Bianca - Moscato Giallo,vivino,5,4,78,False,,,,https://www.vivino.com/w/11923805,2026-08-28
+atelje-sapat-picrveno,Šapat,Pi'Crveno,vivino,5,4,172,False,,,,https://www.vivino.com/w/3056614,2026-08-28
+atelje-sapat-reserve-cabernet-sauvignon,Šapat,Reserve Cabernet Sauvignon,vivino,5,4,59,False,,,,https://www.vivino.com/w/10165174,2026-08-28
+atelje-sapat-cabernet-sauvignon,Šapat,Cabernet Sauvignon,vivino,5,4.1,35,False,,,,https://www.vivino.com/w/6739165,2026-08-28
+atelje-sapat-barrique-cabernet-sauvignon,Šapat,Barrique Cabernet Sauvignon,vivino,5,4,61,False,,,,https://www.vivino.com/w/4849583,2026-08-28
 radovanovic-chardonnay-selekcija,Radovanović,Chardonnay Selekcija,vivino,5,4.1,546,False,,,,https://www.vivino.com/w/1485343,2026-08-28
 radovanovic-franc-cabernet-sauvignon,Radovanović,Franc - Cabernet Sauvignon,vivino,5,3.9,1064,False,,,,https://www.vivino.com/w/1183542,2026-08-28
 radovanovic-rose,Radovanović,Rosé,vivino,5,3.9,279,False,,,,https://www.vivino.com/w/1583287,2026-08-28
@@ -317,9 +317,9 @@ chichateau-fabula-lagum,Chichateau,Fabula Lagum,vivino,5,4.2,843,False,,,,https:
 chichateau-pink-punk-roze,Chichateau,Pink Punk Roze,vivino,5,4,948,False,,,,https://www.vivino.com/w/2689627,2026-08-28
 chichateau-fabula-mala,Chichateau,Fabula Mala,vivino,5,4.1,726,False,,,,https://www.vivino.com/w/5813099,2026-08-28
 chichateau-sauvignon-blank,Chichateau,Sauvignon Blank,vivino,5,3.9,273,False,,,,https://www.vivino.com/w/5762784,2026-08-28
-art-wine-argument-cabernet-sauvignon,Art Wine,Argument Cabernet Sauvignon,vivino,5,4.1,32,False,,,,https://www.vivino.com/w/3312021,2026-08-28
-art-wine-tangenta-chardonnay,Art Wine,Tangenta Chardonnay,vivino,5,4,30,False,,,,https://www.vivino.com/w/1362578,2026-08-28
-art-wine-sumarum-merlot,Art Wine,Sumarum Merlot,vivino,5,3.7,50,False,,,,https://www.vivino.com/w/5875137,2026-08-28
+art-argument-cabernet-sauvignon,Art Wine,Argument Cabernet Sauvignon,vivino,5,4.1,32,False,,,,https://www.vivino.com/w/3312021,2026-08-28
+art-tangenta-chardonnay,Art Wine,Tangenta Chardonnay,vivino,5,4,30,False,,,,https://www.vivino.com/w/1362578,2026-08-28
+art-sumarum-merlot,Art Wine,Sumarum Merlot,vivino,5,3.7,50,False,,,,https://www.vivino.com/w/5875137,2026-08-28
 panjkovic-mudrost,Vinarija Panjković,Mudrost,vivino,5,3.9,27,False,,,,https://www.vivino.com/w/11154263,2026-08-28
 panjkovic-radost,Vinarija Panjković,Radost,vivino,5,3.8,29,False,,,,https://www.vivino.com/w/11215005,2026-08-28
 francuska-estelle-et-cyrille-bongiraud-istina,Francuska Vinarija - Estelle et Cyrille Bongiraud,Istina,vivino,5,3.7,534,False,,,,https://www.vivino.com/w/1549948,2026-08-28
@@ -384,7 +384,7 @@ erdevik-tri-bele-koze-blanc,Erdevik,Tri Bele Koze Blanc,vivino,5,3.6,361,False,,
 erdevik-tri-crvene-koze-roze,Erdevik,Tri Crvene Koze Roze,vivino,5,3.7,303,False,,,,https://www.vivino.com/w/8092760,2026-08-28
 erdevik-sauvignon-blanc,Erdevik,Sauvignon Blanc,vivino,5,3.7,144,False,,,,https://www.vivino.com/w/5148360,2026-08-28
 erdevik-geronimo-reserve-indienne-graschatz,Erdevik,Geronimo Réserve Indienne Graschatz,vivino,5,3.9,143,False,,,,https://www.vivino.com/w/9876393,2026-08-28
-erdevik-nopi-djogri-pinot-grigio,Erdevik,Nopi Djogri Pinot Grigio,vivino,5,3.9,101,False,,,,https://www.vivino.com/w/10873088,2026-08-28
+erdevik-nopi-dogri-pinot-grigio,Erdevik,Nopi Djogri Pinot Grigio,vivino,5,3.9,101,False,,,,https://www.vivino.com/w/10873088,2026-08-28
 erdevik-trianon-blanc,Erdevik,Trianon Blanc,vivino,5,4,102,False,,,,https://www.vivino.com/w/12037717,2026-08-28
 erdevik-kunst-pg,Erdevik,Kunst PG,vivino,5,4,36,False,,,,https://www.vivino.com/w/11939234,2026-08-28
 erdevik-la-grande-bellezza-blanc-de-blancs-extra-brut,Erdevik,La Grande Bellezza Blanc de Blancs Extra Brut,vivino,5,4,36,False,,,,https://www.vivino.com/w/13352667,2026-08-28
@@ -490,21 +490,21 @@ matalj-terasa-12-chardonnay,Matalj,Terasa 12 Chardonnay,vivino,5,3.9,419,False,,
 matalj-dusica-rose,Matalj,Dušica Rose,vivino,5,3.8,161,False,,,,https://www.vivino.com/w/5596760,2026-08-28
 matalj-chardonnay,Matalj,Chardonnay,vivino,5,3.9,26,False,,,,https://www.vivino.com/w/12588980,2026-08-28
 matalj-bagrina,Matalj,Bagrina,vivino,5,4.1,33,False,,,,https://www.vivino.com/w/13199166,2026-08-28
-vino-budimir-tamjanika-budimir,Vino Budimir,Tamjanika Budimir,vivino,5,3.9,869,False,,,,https://www.vivino.com/w/2402010,2026-08-28
-vino-budimir-svb-rosa,Vino Budimir,Svb Rosa,vivino,5,4.2,653,False,,,,https://www.vivino.com/w/1970828,2026-08-28
-vino-budimir-x-projekat-iks,Vino Budimir,X Projekat Iks,vivino,5,4,534,False,,,,https://www.vivino.com/w/3082001,2026-08-28
-vino-budimir-triada,Vino Budimir,Triada,vivino,5,3.6,527,False,,,,https://www.vivino.com/w/2130032,2026-08-28
-vino-budimir-lila-prokupac-boje,Vino Budimir,Lila Prokupac Boje,vivino,5,3.8,512,False,,,,https://www.vivino.com/w/3821618,2026-08-28
-vino-budimir-margvs-margi-riesling,Vino Budimir,Margvs Margi Riesling,vivino,5,3.8,362,False,,,,https://www.vivino.com/w/1692571,2026-08-28
-vino-budimir-lila-prokupac-boje-vieilles-vignes,Vino Budimir,Lila Prokupac Boje Vieilles Vignes,vivino,5,4,261,False,,,,https://www.vivino.com/w/6747969,2026-08-28
-vino-budimir-i-kao-da-si-andeo,Vino Budimir,I Kao da si Anđeo,vivino,5,3.7,243,False,,,,https://www.vivino.com/w/2353059,2026-08-28
-vino-budimir-pro-cou-patz,Vino Budimir,Pro-Cou-Patz,vivino,5,3.9,208,False,,,,https://www.vivino.com/w/6696736,2026-08-28
-vino-budimir-kas-da-si-anates,Vino Budimir,Kas Da Si Anates,vivino,5,3.8,149,False,,,,https://www.vivino.com/w/1979180,2026-08-28
-vino-budimir-vera-tamjanika,Vino Budimir,Vera Tamjanika,vivino,5,3.9,86,False,,,,https://www.vivino.com/w/7806795,2026-08-28
-vino-budimir-triada-white,Vino Budimir,Triada White,vivino,5,3.6,72,False,,,,https://www.vivino.com/w/6993499,2026-08-28
-vino-budimir-vera,Vino Budimir,Vera,vivino,5,4,62,False,,,,https://www.vivino.com/w/1692601,2026-08-28
-vino-budimir-tamjanika-zupska,Vino Budimir,Tamjanika Župska,vivino,5,3.5,60,False,,,,https://www.vivino.com/w/1582598,2026-08-28
-vino-budimir-triada-rose,Vino Budimir,Triada Rosé,vivino,5,3.6,38,False,,,,https://www.vivino.com/w/5792825,2026-08-28
+budimir-tamjanika-budimir,Budimir,Tamjanika Budimir,vivino,5,3.9,869,False,,,,https://www.vivino.com/w/2402010,2026-08-28
+budimir-svb-rosa,Budimir,Svb Rosa,vivino,5,4.2,653,False,,,,https://www.vivino.com/w/1970828,2026-08-28
+budimir-x-projekat-iks,Budimir,X Projekat Iks,vivino,5,4,534,False,,,,https://www.vivino.com/w/3082001,2026-08-28
+budimir-triada,Budimir,Triada,vivino,5,3.6,527,False,,,,https://www.vivino.com/w/2130032,2026-08-28
+budimir-lila-prokupac-boje,Budimir,Lila Prokupac Boje,vivino,5,3.8,512,False,,,,https://www.vivino.com/w/3821618,2026-08-28
+budimir-margvs-margi-riesling,Budimir,Margvs Margi Riesling,vivino,5,3.8,362,False,,,,https://www.vivino.com/w/1692571,2026-08-28
+budimir-lila-prokupac-boje-vieilles-vignes,Budimir,Lila Prokupac Boje Vieilles Vignes,vivino,5,4,261,False,,,,https://www.vivino.com/w/6747969,2026-08-28
+budimir-i-kao-da-si-andeo,Budimir,I Kao da si Anđeo,vivino,5,3.7,243,False,,,,https://www.vivino.com/w/2353059,2026-08-28
+budimir-pro-cou-patz,Budimir,Pro-Cou-Patz,vivino,5,3.9,208,False,,,,https://www.vivino.com/w/6696736,2026-08-28
+budimir-kas-da-si-anates,Budimir,Kas Da Si Anates,vivino,5,3.8,149,False,,,,https://www.vivino.com/w/1979180,2026-08-28
+budimir-vera-tamjanika,Budimir,Vera Tamjanika,vivino,5,3.9,86,False,,,,https://www.vivino.com/w/7806795,2026-08-28
+budimir-triada-white,Budimir,Triada White,vivino,5,3.6,72,False,,,,https://www.vivino.com/w/6993499,2026-08-28
+budimir-vera,Budimir,Vera,vivino,5,4,62,False,,,,https://www.vivino.com/w/1692601,2026-08-28
+budimir-tamjanika-zupska,Budimir,Tamjanika Župska,vivino,5,3.5,60,False,,,,https://www.vivino.com/w/1582598,2026-08-28
+budimir-triada-rose,Budimir,Triada Rosé,vivino,5,3.6,38,False,,,,https://www.vivino.com/w/5792825,2026-08-28
 rubin-medveda-krv-bears-blood-stono-poluslatko-crveno,Rubin,Medveda KRV Bear's Blood Stono Poluslatko Crveno,vivino,5,3.2,483,False,,,,https://www.vivino.com/w/1293590,2026-08-28
 rubin-cabernet-sauvignon,Rubin,Cabernet Sauvignon,vivino,5,3.3,471,False,,,,https://www.vivino.com/w/1473684,2026-08-28
 rubin-pinot-noir,Rubin,Pinot Noir,vivino,5,3.2,440,False,,,,https://www.vivino.com/w/2362047,2026-08-28
@@ -679,18 +679,18 @@ vinarska-kuca-spasic-там-аника-лекци-а-tamanika-lesson,Vinarska Ku
 vinarska-kuca-spasic-ада-а-тама-аница-azdaja-tamjanika,Vinarska Kuća Spasić,Адаја Тамајаница (Aždaja Tamjanika),vivino,5,4.2,46,False,,,,https://www.vivino.com/w/10184862,2026-08-28
 vinarska-kuca-spasic-деспот-despot,Vinarska Kuća Spasić,Деспот (Despot),vivino,5,3.5,44,False,,,,https://www.vivino.com/w/8178260,2026-08-28
 toplicki-tribus-villa-cuvee,Toplički Vinogradi,Tribus Villa Cuvée,vivino,5,3.2,37,False,,,,https://www.vivino.com/w/4934380,2026-08-28
-atelje-vina-sapat-magnus,Šapat,Magnus,vivino,5,3.7,163,False,,,,https://www.vivino.com/w/5798893,2026-08-28
-atelje-vina-sapat-chardonnay,Šapat,Chardonnay,vivino,5,3.6,116,False,,,,https://www.vivino.com/w/2829130,2026-08-28
-atelje-vina-sapat-suma,Šapat,Suma,vivino,5,3.4,93,False,,,,https://www.vivino.com/w/4500349,2026-08-28
-atelje-vina-sapat-cuvee-magnus,Šapat,Cuvée Magnus,vivino,5,3.9,43,False,,,,https://www.vivino.com/w/5367760,2026-08-28
-atelje-vina-sapat-atila-single-vineyard-sauvignon-blanc,Šapat,Atila Single Vineyard Sauvignon Blanc,vivino,5,4.2,45,False,,,,https://www.vivino.com/w/13118475,2026-08-28
-atelje-vina-sapat-rose,Šapat,Rosé,vivino,5,3.5,38,False,,,,https://www.vivino.com/w/2422026,2026-08-28
-atelje-vina-sapat-reserve-merlot,Šapat,Reserve Merlot,vivino,5,3.9,33,False,,,,https://www.vivino.com/w/9980708,2026-08-28
-atelje-vina-sapat-picrveno-reserve,Šapat,Pi'Crveno Reserve,vivino,5,4,31,False,,,,https://www.vivino.com/w/10043215,2026-08-28
-atelje-vina-sapat-merlot,Šapat,Merlot,vivino,5,3.7,34,False,,,,https://www.vivino.com/w/2829163,2026-08-28
-atelje-vina-sapat-atila-chardonnay,Šapat,Atila Chardonnay,vivino,5,4.3,48,False,,,,https://www.vivino.com/w/12946376,2026-08-28
-atelje-vina-sapat-atila-single-vineyard-cabernet-sauvignon,Šapat,Atila Single Vineyard Cabernet Sauvignon,vivino,5,4.1,40,False,,,,https://www.vivino.com/w/12992692,2026-08-28
-atelje-vina-sapat-picrveno-premium,Šapat,Pi'Crveno Premium,vivino,5,4,45,False,,,,https://www.vivino.com/w/12994240,2026-08-28
+atelje-sapat-magnus,Šapat,Magnus,vivino,5,3.7,163,False,,,,https://www.vivino.com/w/5798893,2026-08-28
+atelje-sapat-chardonnay,Šapat,Chardonnay,vivino,5,3.6,116,False,,,,https://www.vivino.com/w/2829130,2026-08-28
+atelje-sapat-suma,Šapat,Suma,vivino,5,3.4,93,False,,,,https://www.vivino.com/w/4500349,2026-08-28
+atelje-sapat-cuvee-magnus,Šapat,Cuvée Magnus,vivino,5,3.9,43,False,,,,https://www.vivino.com/w/5367760,2026-08-28
+atelje-sapat-atila-single-vineyard-sauvignon-blanc,Šapat,Atila Single Vineyard Sauvignon Blanc,vivino,5,4.2,45,False,,,,https://www.vivino.com/w/13118475,2026-08-28
+atelje-sapat-rose,Šapat,Rosé,vivino,5,3.5,38,False,,,,https://www.vivino.com/w/2422026,2026-08-28
+atelje-sapat-reserve-merlot,Šapat,Reserve Merlot,vivino,5,3.9,33,False,,,,https://www.vivino.com/w/9980708,2026-08-28
+atelje-sapat-picrveno-reserve,Šapat,Pi'Crveno Reserve,vivino,5,4,31,False,,,,https://www.vivino.com/w/10043215,2026-08-28
+atelje-sapat-merlot,Šapat,Merlot,vivino,5,3.7,34,False,,,,https://www.vivino.com/w/2829163,2026-08-28
+atelje-sapat-atila-chardonnay,Šapat,Atila Chardonnay,vivino,5,4.3,48,False,,,,https://www.vivino.com/w/12946376,2026-08-28
+atelje-sapat-atila-single-vineyard-cabernet-sauvignon,Šapat,Atila Single Vineyard Cabernet Sauvignon,vivino,5,4.1,40,False,,,,https://www.vivino.com/w/12992692,2026-08-28
+atelje-sapat-picrveno-premium,Šapat,Pi'Crveno Premium,vivino,5,4,45,False,,,,https://www.vivino.com/w/12994240,2026-08-28
 vinum-italijanski-rizling-bel-vino,Vinum,Italijanski Rizling Bel Vino,vivino,5,3.5,47,False,,,,https://www.vivino.com/w/2505246,2026-08-28
 vinum-sauvignon-blanc,Vinum,Sauvignon Blanc,vivino,5,3.7,36,False,,,,https://www.vivino.com/w/1787844,2026-08-28
 jovic-chardonnay,Jović,Chardonnay,vivino,5,3.8,141,False,,,,https://www.vivino.com/w/2592532,2026-08-28
@@ -705,17 +705,17 @@ braca-rajkovic-prince-rskavac,Braca Rajkovic,Prince Rskavac,vivino,5,3.5,173,Fal
 braca-rajkovic-sofia-cuvee,Braca Rajkovic,Sofia Cuvée,vivino,5,3.7,157,False,,,,https://www.vivino.com/w/1844965,2026-08-28
 braca-rajkovic-sofia-rose,Braca Rajkovic,Sofia Rosé,vivino,5,3.7,48,False,,,,https://www.vivino.com/w/6631524,2026-08-28
 braca-rajkovic-33-bela,Braca Rajkovic,33 Bela,vivino,5,4.1,41,False,,,,https://www.vivino.com/w/9720246,2026-08-28
-imperator-vino-maximianvs,Imperator Vino,Maximianvs,vivino,5,4,204,False,,,,https://www.vivino.com/w/2063040,2026-08-28
-imperator-vino-valerius-rajnski-rizling,Imperator Vino,Valerius Rajnski Rizling,vivino,5,3.9,207,False,,,,https://www.vivino.com/w/2386201,2026-08-28
-imperator-vino-gratianus-traminac,Imperator Vino,Gratianus Traminac,vivino,5,4,93,False,,,,https://www.vivino.com/w/2982058,2026-08-28
-imperator-vino-quintillus-malbec-merlot,Imperator Vino,Quintillus Malbec - Merlot,vivino,5,4.1,134,False,,,,https://www.vivino.com/w/7292102,2026-08-28
-imperator-vino-grasac,Imperator Vino,Grašac,vivino,5,4,66,False,,,,https://www.vivino.com/w/11026501,2026-08-28
-imperator-vino-sila-nika,Imperator Vino,Sila Nika,vivino,5,3.8,56,False,,,,https://www.vivino.com/w/10787592,2026-08-28
-imperator-vino-claudius-sauvignon-blanc,Imperator Vino,Claudius Sauvignon Blanc,vivino,5,3.7,43,False,,,,https://www.vivino.com/w/6418764,2026-08-28
-imperator-vino-animus,Imperator Vino,Animus,vivino,5,4.1,36,False,,,,https://www.vivino.com/w/11495278,2026-08-28
-imperator-vino-constantivs-cabernet-franc-cabernet-sauvignon,Imperator Vino,Constantivs Cabernet Franc- Cabernet Sauvignon,vivino,5,4.2,28,False,,,,https://www.vivino.com/w/5788189,2026-08-28
-imperator-vino-cargras-grasac,Imperator Vino,Cargraš Grašac,vivino,5,3.9,33,False,,,,https://www.vivino.com/w/12653401,2026-08-28
-imperator-vino-maq-i-primus,Imperator Vino,Maq I Primus,vivino,5,4,30,False,,,,https://www.vivino.com/w/12450019,2026-08-28
+imperator-maximianvs,Vinarija Imperator,Maximianvs,vivino,5,4,204,False,,,,https://www.vivino.com/w/2063040,2026-08-28
+imperator-valerius-rajnski-rizling,Vinarija Imperator,Valerius Rajnski Rizling,vivino,5,3.9,207,False,,,,https://www.vivino.com/w/2386201,2026-08-28
+imperator-gratianus-traminac,Vinarija Imperator,Gratianus Traminac,vivino,5,4,93,False,,,,https://www.vivino.com/w/2982058,2026-08-28
+imperator-quintillus-malbec-merlot,Vinarija Imperator,Quintillus Malbec - Merlot,vivino,5,4.1,134,False,,,,https://www.vivino.com/w/7292102,2026-08-28
+imperator-grasac,Vinarija Imperator,Grašac,vivino,5,4,66,False,,,,https://www.vivino.com/w/11026501,2026-08-28
+imperator-sila-nika,Vinarija Imperator,Sila Nika,vivino,5,3.8,56,False,,,,https://www.vivino.com/w/10787592,2026-08-28
+imperator-claudius-sauvignon-blanc,Vinarija Imperator,Claudius Sauvignon Blanc,vivino,5,3.7,43,False,,,,https://www.vivino.com/w/6418764,2026-08-28
+imperator-animus,Vinarija Imperator,Animus,vivino,5,4.1,36,False,,,,https://www.vivino.com/w/11495278,2026-08-28
+imperator-constantivs-cabernet-franc-cabernet-sauvignon,Vinarija Imperator,Constantivs Cabernet Franc- Cabernet Sauvignon,vivino,5,4.2,28,False,,,,https://www.vivino.com/w/5788189,2026-08-28
+imperator-cargras-grasac,Vinarija Imperator,Cargraš Grašac,vivino,5,3.9,33,False,,,,https://www.vivino.com/w/12653401,2026-08-28
+imperator-maq-i-primus,Vinarija Imperator,Maq I Primus,vivino,5,4,30,False,,,,https://www.vivino.com/w/12450019,2026-08-28
 vinska-kuca-minica-tamnjanika-stota-suza,Vinska Kuća Minića,Tamnjanika Stota Suza,vivino,5,4.1,887,False,,,,https://www.vivino.com/w/5912218,2026-08-28
 vinska-kuca-minica-dorotej-pinot-noir,Vinska Kuća Minića,Dorotej Pinot Noir,vivino,5,3.5,31,False,,,,https://www.vivino.com/w/1242038,2026-08-28
 100-zena-rose,Vinarija 100 Žena,Rosé,vivino,5,4.1,180,False,,,,https://www.vivino.com/w/10751600,2026-08-28
@@ -760,13 +760,13 @@ delena-70-30-sauvignon-blanc-semillon,Vinarija DeLena,70/30 Sauvignon Blanc - S�
 delena-kota-376-malbec,Vinarija DeLena,Kota 376 Malbec,vivino,5,4.4,136,False,,,,https://www.vivino.com/w/9416193,2026-08-28
 delena-100-jazz-mirisni-traminac,Vinarija DeLena,100 Jazz Mirisni Traminac,vivino,5,4.1,108,False,,,,https://www.vivino.com/w/6867642,2026-08-28
 delena-roselena,Vinarija DeLena,Rosélena,vivino,5,3.8,28,False,,,,https://www.vivino.com/w/8160677,2026-08-28
-vila-vina-tamjanika,Vila Vina,Tamjanika,vivino,5,3.8,337,False,,,,https://www.vivino.com/w/2276630,2026-08-28
-vila-vina-prokupac,Vila Vina,Prokupac,vivino,5,3.7,225,False,,,,https://www.vivino.com/w/2263572,2026-08-28
-vila-vina-cabernet-sauvignon,Vila Vina,Cabernet Sauvignon,vivino,5,3.5,83,False,,,,https://www.vivino.com/w/2891444,2026-08-28
-vila-vina-barrique-cabernet-sauvignon,Vila Vina,Barrique Cabernet Sauvignon,vivino,5,3.9,65,False,,,,https://www.vivino.com/w/2063327,2026-08-28
-vila-vina-sauvignon-blanc,Vila Vina,Sauvignon Blanc,vivino,5,3.6,38,False,,,,https://www.vivino.com/w/2280685,2026-08-28
-vila-vina-rose,Vila Vina,Rose,vivino,5,3.4,35,False,,,,https://www.vivino.com/w/7312376,2026-08-28
-vila-vina-jefimija,Vila Vina,Jefimija,vivino,5,4,30,False,,,,https://www.vivino.com/w/9714780,2026-08-28
+vila-tamjanika,Vila Vina,Tamjanika,vivino,5,3.8,337,False,,,,https://www.vivino.com/w/2276630,2026-08-28
+vila-prokupac,Vila Vina,Prokupac,vivino,5,3.7,225,False,,,,https://www.vivino.com/w/2263572,2026-08-28
+vila-cabernet-sauvignon,Vila Vina,Cabernet Sauvignon,vivino,5,3.5,83,False,,,,https://www.vivino.com/w/2891444,2026-08-28
+vila-barrique-cabernet-sauvignon,Vila Vina,Barrique Cabernet Sauvignon,vivino,5,3.9,65,False,,,,https://www.vivino.com/w/2063327,2026-08-28
+vila-sauvignon-blanc,Vila Vina,Sauvignon Blanc,vivino,5,3.6,38,False,,,,https://www.vivino.com/w/2280685,2026-08-28
+vila-rose,Vila Vina,Rose,vivino,5,3.4,35,False,,,,https://www.vivino.com/w/7312376,2026-08-28
+vila-jefimija,Vila Vina,Jefimija,vivino,5,4,30,False,,,,https://www.vivino.com/w/9714780,2026-08-28
 eden-genesis,Vinarija Eden,Genesis,vivino,5,4.1,212,False,,,,https://www.vivino.com/w/9172474,2026-08-28
 eden-velvet,Vinarija Eden,Velvet,vivino,5,4,170,False,,,,https://www.vivino.com/w/10209010,2026-08-28
 eden-chardonnay,Vinarija Eden,Chardonnay,vivino,5,4.1,115,False,,,,https://www.vivino.com/w/8615110,2026-08-28
@@ -896,8 +896,8 @@ navip-adria-muscat-ottonel,Navip,Adria Muscat Ottonel,vivino,5,3.1,95,False,,,,h
 navip-riesling-italico,Navip,Riesling Italico,vivino,5,2.9,71,False,,,,https://www.vivino.com/w/2418044,2026-08-28
 navip-muscat-ottonel,Navip,Muscat Ottonel,vivino,5,3.4,45,False,,,,https://www.vivino.com/w/1192237,2026-08-28
 navip-merlot-dionis,Navip,Merlot Dionis,vivino,5,2.9,40,False,,,,https://www.vivino.com/w/1394918,2026-08-28
-perun-wine-вранац,Perun Wine,Вранац,vivino,5,3.5,250,False,,,,https://www.vivino.com/w/12541540,2026-08-28
-perun-wine-ризлинг-riesling,Perun Wine,Ризлинг (Riesling),vivino,5,3.5,261,False,,,,https://www.vivino.com/w/12521275,2026-08-28
+perun-вранац,Perun Wine,Вранац,vivino,5,3.5,250,False,,,,https://www.vivino.com/w/12541540,2026-08-28
+perun-ризлинг-riesling,Perun Wine,Ризлинг (Riesling),vivino,5,3.5,261,False,,,,https://www.vivino.com/w/12521275,2026-08-28
 bajilo-bermet,Bajilo,Bermet,vivino,5,3.9,118,False,,,,https://www.vivino.com/w/1223768,2026-08-28
 bajilo-sila,Bajilo,Sila,vivino,5,4,99,False,,,,https://www.vivino.com/w/5675917,2026-08-28
 bajilo-cabernet-sauvignon,Bajilo,Cabernet Sauvignon,vivino,5,3.5,64,False,,,,https://www.vivino.com/w/4855048,2026-08-28
@@ -928,11 +928,11 @@ stemina-stephanos-kruna,Stemina,Stephanos Kruna,vivino,5,3.9,92,False,,,,https:/
 stemina-minna-rose,Stemina,Minna Rosé,vivino,5,3.9,84,False,,,,https://www.vivino.com/w/1843672,2026-08-28
 stemina-драга-draga,Stemina,Драга (Draga),vivino,5,4.5,62,False,,,,https://www.vivino.com/w/7683917,2026-08-28
 stemina-stephanos-cabernet-sauvignon,Stemina,Stephanos Cabernet Sauvignon,vivino,5,4.4,32,False,,,,https://www.vivino.com/w/1491055,2026-08-28
-tri-mede-i-oblak-grasac-beli,Tri Međe I Oblak,Grašac Beli,vivino,5,3.9,122,False,,,,https://www.vivino.com/w/10187486,2026-08-28
-tri-mede-i-oblak-vagabundo-crveno,Tri Međe I Oblak,Vagabundo Crveno,vivino,5,4,94,False,,,,https://www.vivino.com/w/6408234,2026-08-28
-tri-mede-i-oblak-vagabundo-belo,Tri Međe I Oblak,Vagabundo Belo,vivino,5,3.9,75,False,,,,https://www.vivino.com/w/5791386,2026-08-28
-tri-mede-i-oblak-bigfoot-chardonnay,Tri Međe I Oblak,Bigfoot Chardonnay,vivino,5,4.2,66,False,,,,https://www.vivino.com/w/10589566,2026-08-28
-tri-mede-i-oblak-pagan-roze,Tri Međe I Oblak,Pagan Roze,vivino,5,4,26,False,,,,https://www.vivino.com/w/11214777,2026-08-28
+tri-mede-i-oblak-grasac-beli,Tri Medje I Oblak,Grašac Beli,vivino,5,3.9,122,False,,,,https://www.vivino.com/w/10187486,2026-08-28
+tri-mede-i-oblak-vagabundo-crveno,Tri Medje I Oblak,Vagabundo Crveno,vivino,5,4,94,False,,,,https://www.vivino.com/w/6408234,2026-08-28
+tri-mede-i-oblak-vagabundo-belo,Tri Medje I Oblak,Vagabundo Belo,vivino,5,3.9,75,False,,,,https://www.vivino.com/w/5791386,2026-08-28
+tri-mede-i-oblak-bigfoot-chardonnay,Tri Medje I Oblak,Bigfoot Chardonnay,vivino,5,4.2,66,False,,,,https://www.vivino.com/w/10589566,2026-08-28
+tri-mede-i-oblak-pagan-roze,Tri Medje I Oblak,Pagan Roze,vivino,5,4,26,False,,,,https://www.vivino.com/w/11214777,2026-08-28
 grabak-plava-paunica,Grabak,Plava Paunica,vivino,5,3.5,31,False,,,,https://www.vivino.com/w/8521865,2026-08-28
 pusula-sauvignon-blanc,Pusula,Sauvignon Blanc,vivino,5,3.6,109,False,,,,https://www.vivino.com/w/2660419,2026-08-28
 pusula-traminac,Pusula,Traminac,vivino,5,4,67,False,,,,https://www.vivino.com/w/4812477,2026-08-28
@@ -940,13 +940,13 @@ pusula-cabernet-sauvignon,Pusula,Cabernet Sauvignon,vivino,5,3.4,60,False,,,,htt
 pusula-cabernet-cuvee,Pusula,Cabernet Cuvee,vivino,5,3.8,56,False,,,,https://www.vivino.com/w/9719905,2026-08-28
 pusula-rose,Pusula,Rose,vivino,5,3.4,44,False,,,,https://www.vivino.com/w/2285292,2026-08-28
 pusula-chardonnay,Pusula,Chardonnay,vivino,5,3.7,34,False,,,,https://www.vivino.com/w/2504604,2026-08-28
-mrdanin-probus,Vinarija Mrđanin,Probus,vivino,5,4.1,105,False,,,,https://www.vivino.com/w/7357737,2026-08-28
-mrdanin-sila,Vinarija Mrđanin,Sila,vivino,5,3.9,79,False,,,,https://www.vivino.com/w/8910374,2026-08-28
-mrdanin-cabernet-sauvignon,Vinarija Mrđanin,Cabernet Sauvignon,vivino,5,3.9,37,False,,,,https://www.vivino.com/w/3762174,2026-08-28
-mrdanin-bermet,Vinarija Mrđanin,Bermet,vivino,5,4.1,35,False,,,,https://www.vivino.com/w/8675229,2026-08-28
-mrdanin-rosse,Vinarija Mrđanin,Rosse,vivino,5,3.8,33,False,,,,https://www.vivino.com/w/8905785,2026-08-28
-mrdanin-chardonnay,Vinarija Mrđanin,Chardonnay,vivino,5,3.9,29,False,,,,https://www.vivino.com/w/7786571,2026-08-28
-mrdanin-grasac,Vinarija Mrđanin,Grašac,vivino,5,3.7,28,False,,,,https://www.vivino.com/w/9848166,2026-08-28
+mrdanin-probus,Vinarija Mrdjanin,Probus,vivino,5,4.1,105,False,,,,https://www.vivino.com/w/7357737,2026-08-28
+mrdanin-sila,Vinarija Mrdjanin,Sila,vivino,5,3.9,79,False,,,,https://www.vivino.com/w/8910374,2026-08-28
+mrdanin-cabernet-sauvignon,Vinarija Mrdjanin,Cabernet Sauvignon,vivino,5,3.9,37,False,,,,https://www.vivino.com/w/3762174,2026-08-28
+mrdanin-bermet,Vinarija Mrdjanin,Bermet,vivino,5,4.1,35,False,,,,https://www.vivino.com/w/8675229,2026-08-28
+mrdanin-rosse,Vinarija Mrdjanin,Rosse,vivino,5,3.8,33,False,,,,https://www.vivino.com/w/8905785,2026-08-28
+mrdanin-chardonnay,Vinarija Mrdjanin,Chardonnay,vivino,5,3.9,29,False,,,,https://www.vivino.com/w/7786571,2026-08-28
+mrdanin-grasac,Vinarija Mrdjanin,Grašac,vivino,5,3.7,28,False,,,,https://www.vivino.com/w/9848166,2026-08-28
 sijacki-chardonnay,Vinarija Šijački,Chardonnay,vivino,5,4,52,False,,,,https://www.vivino.com/w/2566345,2026-08-28
 sijacki-rizling-italijanski-sijacki,Vinarija Šijački,Rizling Italijanski Sijacki,vivino,5,3.8,42,False,,,,https://www.vivino.com/w/6464465,2026-08-28
 sijacki-merlot-sijacki,Vinarija Šijački,Merlot - Sijacki,vivino,5,3.7,39,False,,,,https://www.vivino.com/w/4091313,2026-08-28
@@ -984,29 +984,29 @@ vimmid-агла-а-chardonnay-aglaja,ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winer
 verkat-grasac-beli,Verkat,Grašac Beli,vivino,5,3.8,129,False,,,,https://www.vivino.com/w/7704137,2026-08-28
 verkat-malvazija,Verkat,Malvazija,vivino,5,3.8,97,False,,,,https://www.vivino.com/w/7540800,2026-08-28
 verkat-roze,Verkat,Roze,vivino,5,3.9,39,False,,,,https://www.vivino.com/w/9138257,2026-08-28
-probus-vineyards-impossible-pet-nat,Probus Vineyards,Impossible Pet-Nat,vivino,5,3.9,76,False,,,,https://www.vivino.com/w/10756291,2026-08-28
-probus-vineyards-magis-cabernet-sauvignon-merlot,Probus Vineyards,Magis Cabernet Sauvignon - Merlot,vivino,5,4.2,64,False,,,,https://www.vivino.com/w/7804377,2026-08-28
-probus-vineyards-belim-believe-in-yourself,Probus Vineyards,BeliM Believe in Yourself,vivino,5,4.1,54,False,,,,https://www.vivino.com/w/10660317,2026-08-28
-probus-vineyards-traminac,Probus Vineyards,Traminac,vivino,5,4.1,33,False,,,,https://www.vivino.com/w/10584591,2026-08-28
-probus-vineyards-smells-like-love-chardonnay,Probus Vineyards,Smells Like Love Chardonnay,vivino,5,4,25,False,,,,https://www.vivino.com/w/10756346,2026-08-28
-mcculloch-traminac,McCulloch,Traminac,vivino,5,3.9,73,False,,,,https://www.vivino.com/w/5127162,2026-08-28
-mcculloch-merlot-malbec,McCulloch,Merlot - Malbec,vivino,5,3.8,65,False,,,,https://www.vivino.com/w/2598832,2026-08-28
-mcculloch-coupage,McCulloch,Coupage,vivino,5,4.1,50,False,,,,https://www.vivino.com/w/6539186,2026-08-28
-mcculloch-rajnski-riesling,McCulloch,Rajnski Riesling,vivino,5,3.7,41,False,,,,https://www.vivino.com/w/4572360,2026-08-28
-mcculloch-pinot-noir,McCulloch,Pinot Noir,vivino,5,4,33,False,,,,https://www.vivino.com/w/2120595,2026-08-28
+probus-impossible-pet-nat,Probus Vineyards,Impossible Pet-Nat,vivino,5,3.9,76,False,,,,https://www.vivino.com/w/10756291,2026-08-28
+probus-magis-cabernet-sauvignon-merlot,Probus Vineyards,Magis Cabernet Sauvignon - Merlot,vivino,5,4.2,64,False,,,,https://www.vivino.com/w/7804377,2026-08-28
+probus-belim-believe-in-yourself,Probus Vineyards,BeliM Believe in Yourself,vivino,5,4.1,54,False,,,,https://www.vivino.com/w/10660317,2026-08-28
+probus-traminac,Probus Vineyards,Traminac,vivino,5,4.1,33,False,,,,https://www.vivino.com/w/10584591,2026-08-28
+probus-smells-like-love-chardonnay,Probus Vineyards,Smells Like Love Chardonnay,vivino,5,4,25,False,,,,https://www.vivino.com/w/10756346,2026-08-28
+mcculloch-traminac,Mcculloch Wines,Traminac,vivino,5,3.9,73,False,,,,https://www.vivino.com/w/5127162,2026-08-28
+mcculloch-merlot-malbec,Mcculloch Wines,Merlot - Malbec,vivino,5,3.8,65,False,,,,https://www.vivino.com/w/2598832,2026-08-28
+mcculloch-coupage,Mcculloch Wines,Coupage,vivino,5,4.1,50,False,,,,https://www.vivino.com/w/6539186,2026-08-28
+mcculloch-rajnski-riesling,Mcculloch Wines,Rajnski Riesling,vivino,5,3.7,41,False,,,,https://www.vivino.com/w/4572360,2026-08-28
+mcculloch-pinot-noir,Mcculloch Wines,Pinot Noir,vivino,5,4,33,False,,,,https://www.vivino.com/w/2120595,2026-08-28
 vincic-amfora-grasac,Vinčić,Amfora Grašac,vivino,5,3.9,49,False,,,,https://www.vivino.com/w/12184852,2026-08-28
 vincic-red-reserve,Vinčić,Red Reserve,vivino,5,4.3,37,False,,,,https://www.vivino.com/w/11010050,2026-08-28
-djokovic-syrah,Djokovic,Syrah,vivino,5,4.2,162,False,,,,https://www.vivino.com/w/11154637,2026-08-28
-djokovic-chardonnay,Djokovic,Chardonnay,vivino,5,4.1,85,False,,,,https://www.vivino.com/w/11154586,2026-08-28
+dokovic-syrah,Djokovic,Syrah,vivino,5,4.2,162,False,,,,https://www.vivino.com/w/11154637,2026-08-28
+dokovic-chardonnay,Djokovic,Chardonnay,vivino,5,4.1,85,False,,,,https://www.vivino.com/w/11154586,2026-08-28
 studenica-1186-cabernet-sauvignon,Манастир Студеница (Manastir Studenica),1186 Cabernet Sauvignon,vivino,5,4.2,146,False,,,,https://www.vivino.com/w/6594771,2026-08-28
 studenica-бели-рец-там-аника-bela-rec-tamjanika,Манастир Студеница (Manastir Studenica),Бели Рец Тамјаника (Bela Reč Tamjanika),vivino,5,4,70,False,,,,https://www.vivino.com/w/9466549,2026-08-28
 studenica-прокупац-1186-prokupac-1186,Манастир Студеница (Manastir Studenica),Прокупац 1186 (Prokupac 1186),vivino,5,4.1,33,False,,,,https://www.vivino.com/w/10657715,2026-08-28
 durdevica-legat-otisak-merlot-cabernet-sauvignon-crveno,Vinarija Đurđevića Legat,Otisak Merlot - Cabernet Sauvignon Crveno,vivino,5,4.2,149,False,,,,https://www.vivino.com/w/10695195,2026-08-28
 durdevica-legat-do-neba-i-nazad-belo,Vinarija Đurđevića Legat,Do Neba i Nazad Belo,vivino,5,4,53,False,,,,https://www.vivino.com/w/10402878,2026-08-28
-serbika-wine-rizling,Serbika Wine,Rizling,vivino,5,3.7,122,False,,,,https://www.vivino.com/w/12538478,2026-08-28
-serbika-wine-vranac,Serbika Wine,Vranac,vivino,5,3.7,84,False,,,,https://www.vivino.com/w/12498502,2026-08-28
-serbika-wine-simbol-rose,Serbika Wine,Simbol Rose,vivino,5,3.6,29,False,,,,https://www.vivino.com/w/12538480,2026-08-28
-serbika-wine-sunce-rizling,Serbika Wine,Sunce Rizling,vivino,5,4,27,False,,,,https://www.vivino.com/w/12551067,2026-08-28
+serbika-rizling,Serbika Wine,Rizling,vivino,5,3.7,122,False,,,,https://www.vivino.com/w/12538478,2026-08-28
+serbika-vranac,Serbika Wine,Vranac,vivino,5,3.7,84,False,,,,https://www.vivino.com/w/12498502,2026-08-28
+serbika-simbol-rose,Serbika Wine,Simbol Rose,vivino,5,3.6,29,False,,,,https://www.vivino.com/w/12538480,2026-08-28
+serbika-sunce-rizling,Serbika Wine,Sunce Rizling,vivino,5,4,27,False,,,,https://www.vivino.com/w/12551067,2026-08-28
 pirg-barrique-sauvignon-blanc,Vinarija PIRG,Barrique Sauvignon Blanc,vivino,5,4.1,159,False,,,,https://www.vivino.com/w/11551233,2026-08-28
 pirg-vranac,Vinarija PIRG,Vranac,vivino,5,3.9,38,False,,,,https://www.vivino.com/w/11257791,2026-08-28
 pirg-skriljac,Vinarija PIRG,Škriljac,vivino,5,4.1,27,False,,,,https://www.vivino.com/w/13320358,2026-08-28
@@ -1103,8 +1103,8 @@ tri-planine-поно-на-прича-midnight-story,Три Планине (Vinar
 tri-planine-заборав-ена-ба-ка-a-forgotten-fairy-tale,Три Планине (Vinarija Tri Planine),Заборављена Бајка (A Forgotten Fairy Tale),vivino,5,4.3,32,False,,,,https://www.vivino.com/w/8569867,2026-08-28
 tri-planine-два-другара-two-friends,Три Планине (Vinarija Tri Planine),Два Другара (Two Friends),vivino,5,4.2,25,False,,,,https://www.vivino.com/w/9470585,2026-08-28
 tri-planine-боjа-зоре-dawn-color,Три Планине (Vinarija Tri Planine),Боjа Зоре (Dawn Color),vivino,5,3.8,28,False,,,,https://www.vivino.com/w/10246998,2026-08-28
-basha-vino-tamjanika-prva,Basha Vino,Tamjanika Prva,vivino,5,4.3,66,False,,,,https://www.vivino.com/w/9587193,2026-08-28
-basha-vino-furmint,Basha Vino,Furmint,vivino,5,4.2,40,False,,,,https://www.vivino.com/w/11377368,2026-08-28
+basha-tamjanika-prva,Basha Vino,Tamjanika Prva,vivino,5,4.3,66,False,,,,https://www.vivino.com/w/9587193,2026-08-28
+basha-furmint,Basha Vino,Furmint,vivino,5,4.2,40,False,,,,https://www.vivino.com/w/11377368,2026-08-28
 burma-fruska-gora-sila,Vinarija Burma Fruška Gora,Sila,vivino,5,4.1,40,False,,,,https://www.vivino.com/w/12280985,2026-08-28
 adora-merlot-cabernet,Adora,Merlot - Cabernet,vivino,5,4.1,25,False,,,,https://www.vivino.com/w/7648679,2026-08-28
 tosici-ponoc-cabernet-sauvignon,Podrum Tošići,Ponoc Cabernet Sauvignon,vivino,5,3.8,49,False,,,,https://www.vivino.com/w/5063648,2026-08-28
@@ -1117,8 +1117,8 @@ trasko-fabulous-cabernet-franc,Traško Vinarija,Fabulous Cabernet Franc,vivino,5
 trasko-bagrina-edicion-limitada,Traško Vinarija,Bagrina Edición Limitada,vivino,5,3.9,36,False,,,,https://www.vivino.com/w/12517246,2026-08-28
 raskovic-мегдан-megdan,Подрум вина Рашковић - (Rašković Winery),Мегдан (Megdan),vivino,5,3.9,66,False,,,,https://www.vivino.com/w/7819803,2026-08-28
 raskovic-там-аника-tamjanika,Подрум вина Рашковић - (Rašković Winery),Тамјаника (Tamjanika),vivino,5,3.6,27,False,,,,https://www.vivino.com/w/7626443,2026-08-28
-krstasica-sauvignon-blanc,Krstašica,Sauvignon Blanc,vivino,5,3.8,59,False,,,,https://www.vivino.com/w/8614991,2026-08-28
-krstasica-merlot,Krstašica,Merlot,vivino,5,3.8,43,False,,,,https://www.vivino.com/w/7952166,2026-08-28
+krstasica-sauvignon-blanc,Krstašica Doo,Sauvignon Blanc,vivino,5,3.8,59,False,,,,https://www.vivino.com/w/8614991,2026-08-28
+krstasica-merlot,Krstašica Doo,Merlot,vivino,5,3.8,43,False,,,,https://www.vivino.com/w/7952166,2026-08-28
 piano-cabernet-sauvignon-merlot,Vinarija Piano,Cabernet Sauvignon - Merlot,vivino,5,3.7,58,False,,,,https://www.vivino.com/w/2038081,2026-08-28
 dajic-gamay-barrique,Vinarija Dajic,Gamay Barrique,vivino,5,4.4,51,False,,,,https://www.vivino.com/w/4436751,2026-08-28
 mikic-cuvee-i,Mikić,Cuvée I,vivino,5,3.7,34,False,,,,https://www.vivino.com/w/9503591,2026-08-28
@@ -1136,8 +1136,8 @@ status-vranac,Status,Vranac,vivino,5,4,36,False,,,,https://www.vivino.com/w/3943
 status-калча-kalca,Status,Калча (Kalča),vivino,5,3.3,26,False,,,,https://www.vivino.com/w/3838149,2026-08-28
 milisavljevic-cuvee-mistique,Milisavljević,Cuvée Mistique,vivino,5,3.2,36,False,,,,https://www.vivino.com/w/5114033,2026-08-28
 milisavljevic-karo-nero-pinot-noir,Milisavljević,Karo Nero Pinot Noir,vivino,5,3.6,33,False,,,,https://www.vivino.com/w/9139775,2026-08-28
-vina-pesic-sauvignon-blanc,Vina Pešić,Sauvignon Blanc,vivino,5,3.1,32,False,,,,https://www.vivino.com/w/7795426,2026-08-28
-vina-pesic-tamjanika,Vina Pešić,Tamjanika,vivino,5,3.4,30,False,,,,https://www.vivino.com/w/10034792,2026-08-28
+pesic-sauvignon-blanc,Vina Pešić,Sauvignon Blanc,vivino,5,3.1,32,False,,,,https://www.vivino.com/w/7795426,2026-08-28
+pesic-tamjanika,Vina Pešić,Tamjanika,vivino,5,3.4,30,False,,,,https://www.vivino.com/w/10034792,2026-08-28
 trisic-тришино-trisas,Винарија Тришић (Vinarija Trišić),Тришино (Triša's),vivino,5,4,50,False,,,,https://www.vivino.com/w/6205738,2026-08-28
 acumincum-nomad-shiraz,Vinarija Acumincum,Nomad Shiraz,vivino,5,4,77,False,,,,https://www.vivino.com/w/9222021,2026-08-28
 vrbica-barrique,Vinarija Vrbica,Barrique,vivino,5,3.7,35,False,,,,https://www.vivino.com/w/2055966,2026-08-28
@@ -1145,7 +1145,7 @@ vrbica-barriques,Vinarija Vrbica,Barriques,vivino,5,3.8,30,False,,,,https://www.
 patkov-vinograd-князь-мышкин,Patkov Vinograd,Князь Мышкин,vivino,5,3.6,49,False,,,,https://www.vivino.com/w/7368574,2026-08-28
 patkov-vinograd-majstor-i-margarita,Patkov Vinograd,Majstor i Margarita,vivino,5,3.7,36,False,,,,https://www.vivino.com/w/7104367,2026-08-28
 selecta-pinot-noir,Vinarija Selecta,Pinot Noir,vivino,5,3.2,28,False,,,,https://www.vivino.com/w/7575287,2026-08-28
-vina-dragic-аурора-aurora,Драгић Винарија (Vina Dragic),Аурора (Aurora),vivino,5,3.8,39,False,,,,https://www.vivino.com/w/6988795,2026-08-28
+dragic-аурора-aurora,Драгић Винарија (Vina Dragic),Аурора (Aurora),vivino,5,3.8,39,False,,,,https://www.vivino.com/w/6988795,2026-08-28
 козарак-хамбург-hamburg,Козарак,Хамбург (Hamburg),vivino,5,3.5,41,False,,,,https://www.vivino.com/w/9665910,2026-08-28
 козарак-рислинг-riesling,Козарак,Рислинг (Riesling),vivino,5,3.1,33,False,,,,https://www.vivino.com/w/10133866,2026-08-28
 salas-nas-chardonnay,Vinarija Salaš Naš,Chardonnay,vivino,5,3.6,32,False,,,,https://www.vivino.com/w/11242710,2026-08-28
@@ -1165,10 +1165,10 @@ robert-rudinski-rizling,Robert Rudinski,Rizling,vivino,5,3.6,62,False,,,,https:/
 novak-багрина-bagrina,Vinarija Novak (Новак),Багрина (Bagrina),vivino,5,3.9,50,False,,,,https://www.vivino.com/w/9306397,2026-08-28
 vinokratija-mangup-cabernet-sauvignon,Vinokratija,Mangup Cabernet Sauvignon,vivino,5,3.5,32,False,,,,https://www.vivino.com/w/7851137,2026-08-28
 moderato-cabernet,Moderato,Cabernet,vivino,5,3.6,38,False,,,,https://www.vivino.com/w/4944991,2026-08-28
-vina-zarkovic-мерлот-merlot,Podrum Vina Žarković,Мерлот (Merlot),vivino,5,4.1,28,False,,,,https://www.vivino.com/w/10144954,2026-08-28
+zarkovic-мерлот-merlot,Žarković,Мерлот (Merlot),vivino,5,4.1,28,False,,,,https://www.vivino.com/w/10144954,2026-08-28
 nelt-doba-cabernet-franc,Nelt,Doba Cabernet Franc,vivino,5,3.8,40,False,,,,https://www.vivino.com/w/4513964,2026-08-28
 vinska-kuca-rajic-tamjanika,Vinska Kuća Rajić,Tamjanika,vivino,5,4,35,False,,,,https://www.vivino.com/w/12606650,2026-08-28
-probus-sremski-karlovci-venera,Podrum Probus,Sremski Karlovci Venera,vivino,5,3.7,32,False,,,,https://www.vivino.com/w/5290586,2026-08-28
+probus-sremski-karlovci-venera,Probus Vineyards,Sremski Karlovci Venera,vivino,5,3.7,32,False,,,,https://www.vivino.com/w/5290586,2026-08-28
 wineco-carigrad-barrique,WinEco,Carigrad Barrique,vivino,5,3.5,30,False,,,,https://www.vivino.com/w/1739667,2026-08-28
 dulka-bermet,Dulka,Bermet,vivino,5,3.6,27,False,,,,https://www.vivino.com/w/2201224,2026-08-28
 velickovic-prvo-belo-sauvignon-blanc,Vinogradi Veličković Vinarija,Prvo Belo Sauvignon Blanc,vivino,5,3.6,34,False,,,,https://www.vivino.com/w/6936539,2026-08-28
@@ -1180,7 +1180,7 @@ vojnovic-пунаjeдpa-puna-jedra,Vinarija Vojnović,Пунаjeдpa (Puna Jedra
 radenkovic-podrum-carigrad,Radenković,Podrum Carigrad,vivino,5,3.5,29,False,,,,https://www.vivino.com/w/1971891,2026-08-28
 andrica-vinograd-consul-prokupac-merlot,Andrića Vinograd,Consul Prokupac - Merlot,vivino,5,3.7,48,False,,,,https://www.vivino.com/w/10630234,2026-08-28
 m-dubrana-n-scheidt-exode-blanc,M. Dubrana - N. Scheidt,Exode Blanc,vivino,5,3.8,27,False,,,,https://www.vivino.com/w/3743049,2026-08-28
-мали-подрум-га-и-mali-gajic-црвени-витез-crveni-vite,Мали Подрум Гајић - Mali Podrum Gajić,Црвени Витез (Crveni Vite),vivino,5,3.8,35,False,,,,https://www.vivino.com/w/10802618,2026-08-28
+mali-gajic-црвени-витез-crveni-vite,Мали Подрум Гајић - Mali Podrum Gajić,Црвени Витез (Crveni Vite),vivino,5,3.8,35,False,,,,https://www.vivino.com/w/10802618,2026-08-28
 vojinovic-istina-reservee,Vinarija Vojinović,Istina Réservée,vivino,5,3.3,27,False,,,,https://www.vivino.com/w/4294902,2026-08-28
 intuicija-tamjanika-morava,Intuicija,Tamjanika - Morava,vivino,5,4.1,32,False,,,,https://www.vivino.com/w/13261652,2026-08-28
 suncani-breg-sauvignon-blanc,Sunčani Breg,Sauvignon Blanc,vivino,5,3.4,26,False,,,,https://www.vivino.com/w/5529288,2026-08-28
@@ -1218,7 +1218,6 @@ temet-tri-morave-belo-reserve,Temet,Tri Morave Belo Reserve,falstaff,100,95,,Fal
 matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,falstaff,100,95,,False,2016,,,"falstaff, список красных",2026-08-28
 matijasevic-sovinoa-fume-blanc,Matijašević,SoviNoa Fumé Blanc,falstaff,100,94,,False,2020,,,"falstaff, список белых",2026-08-28
 temet-tri-morave-crveno-reserve,Temet,Tri Morave Crveno Reserve,falstaff,100,94,,False,2019,,,"falstaff, список красных",2026-08-28
-budimir-svb-rosa,Budimir,Svb Rosa,falstaff,100,94,,False,2009,,,"falstaff, список красных",2026-08-28
 matijasevic-sovinoa-sauvignon-blanc,Matijašević,SoviNoa Sauvignon Blanc,falstaff,100,93,,False,2021,,,"falstaff, список белых",2026-08-28
 aleksandrovic-trijumf-selection-sauvignon-blanc,Aleksandrović,Trijumf Selection Sauvignon Blanc,falstaff,100,93,,False,2021,,,"falstaff, список белых",2026-08-28
 molovin-inat-frankovka,Molovin,Inat Frankovka,falstaff,100,93,,False,2019,,,"falstaff, список красных",2026-08-28
@@ -1240,15 +1239,15 @@ despotika-trag,Despotika,Trag,decanter,100,86,,False,2013,2016,,"awards.decanter
 zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,decanter,100,90,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 547493",2026-08-28
 aleksic-kardas,Aleksić,Kardaš,decanter,100,86,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 547706",2026-08-28
 virtus-credo,Virtus,Credo,decanter,100,90,,False,2013,2018,,"awards.decanter.com, DWWA 2018, вино 591825",2026-08-28
-molowinery-plavi-princip,Molowinery,Plavi Princip,decanter,100,90,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 547925",2026-08-28
-mcculloch-wines-mcc-traminac,Mcculloch Wines,Mcc Traminac,decanter,100,86,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 548196",2026-08-28
+molovin-plavi-princip,Molovin,Plavi Princip,decanter,100,90,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 547925",2026-08-28
+mcculloch-mcc-traminac,Mcculloch Wines,Mcc Traminac,decanter,100,86,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 548196",2026-08-28
 radovanovic-selekcija-chardonnay,Radovanović,Selekcija Chardonnay,decanter,100,88,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 547953",2026-08-28
 janko-misija-chardonnay,Podrum Janko,Misija Chardonnay,decanter,100,88,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 547011",2026-08-28
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,decanter,100,90,,False,2009,2016,,"awards.decanter.com, DWWA 2016, вино 544903",2026-08-28
-bacina-vino-dolina-xii,Bacina Vino,Dolina XII,decanter,100,88,,False,,2016,,"awards.decanter.com, DWWA 2016, вино 554385",2026-08-28
-molowinery-crveni-inat,Molowinery,Crveni Inat,decanter,100,88,,False,2010,2018,,"awards.decanter.com, DWWA 2018, вино 537518",2026-08-28
+bacina-dolina-xii,Podrum Bačina,Dolina XII,decanter,100,88,,False,,2016,,"awards.decanter.com, DWWA 2016, вино 554385",2026-08-28
+molovin-crveni-inat,Molovin,Crveni Inat,decanter,100,88,,False,2010,2018,,"awards.decanter.com, DWWA 2018, вино 537518",2026-08-28
 virtus-gewurztraminer,Virtus,Gewürztraminer,decanter,100,88,,False,2014,2016,,"awards.decanter.com, DWWA 2016, вино 547354",2026-08-28
-aleksic-doo-bonaca-limited,Winery Aleksić Doo,Bonaca Limited,decanter,100,90,,False,2014,2016,,"awards.decanter.com, DWWA 2016, вино 560390",2026-08-28
+aleksic-bonaca-limited,Aleksić,Bonaca Limited,decanter,100,90,,False,2014,2016,,"awards.decanter.com, DWWA 2016, вино 560390",2026-08-28
 matalj-terasa-chardonnay,Matalj,Terasa Chardonnay,decanter,100,92,,False,2013,2017,,"awards.decanter.com, DWWA 2017, вино 531241",2026-08-28
 matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,decanter,100,90,,False,2013,2017,,"awards.decanter.com, DWWA 2017, вино 531242",2026-08-28
 bukovo-filigran-cabernet-sauvignon,Manastir Bukovo,Filigran Cabernet Sauvignon,decanter,100,90,,False,2013,2017,,"awards.decanter.com, DWWA 2017, вино 558475",2026-08-28
@@ -1290,12 +1289,12 @@ aleksandrovic-regent-reserve,Aleksandrović,Regent Reserve,decanter,100,88,,Fals
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,decanter,100,89,,False,2012,2017,,"awards.decanter.com, DWWA 2017, вино 531151",2026-08-28
 lastar-tamjanika,Vinarija Lastar,Tamjanika,decanter,100,88,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 537575",2026-08-28
 despotika-nebo-riesling-pinot-blanc,Despotika,Nebo Riesling-Pinot Blanc,decanter,100,87,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 538259",2026-08-28
-manastira-bukovo-merlot,Manastira Bukovo,Merlot,decanter,100,90,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 592373",2026-08-28
+bukovo-merlot,Manastir Bukovo,Merlot,decanter,100,90,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 592373",2026-08-28
 janko-smederevka,Podrum Janko,Smederevka,decanter,100,86,,False,2017,2018,,"awards.decanter.com, DWWA 2018, вино 537521",2026-08-28
 temet-tri-morave,Temet,Tri Morave,decanter,100,89,,False,2017,2019,,"awards.decanter.com, DWWA 2019, вино 571848",2026-08-28
-virtus-w-gewurztraminer,Virtus W,Gewürztraminer,decanter,100,86,,False,2017,2018,,"awards.decanter.com, DWWA 2018, вино 591834",2026-08-28
+virtus-gewurztraminer,Virtus,Gewürztraminer,decanter,100,86,,False,2017,2018,,"awards.decanter.com, DWWA 2018, вино 591834",2026-08-28
 erdevik-nostra,Erdevik,Nostra,decanter,100,90,,False,2017,2018,,"awards.decanter.com, DWWA 2018, вино 538066",2026-08-28
-virtus-w-pinot-grigio,Virtus W,Pinot Grigio,decanter,100,90,,False,2017,2018,,"awards.decanter.com, DWWA 2018, вино 591816",2026-08-28
+virtus-pinot-grigio,Virtus,Pinot Grigio,decanter,100,90,,False,2017,2018,,"awards.decanter.com, DWWA 2018, вино 591816",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Žuti Cvet Tamjanika,decanter,100,90,,False,2017,2018,,"awards.decanter.com, DWWA 2018, вино 590820",2026-08-28
 temet-ergo,Temet,Ergo,decanter,100,91,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 571866",2026-08-28
 temet-pinot-grigio,Temet,Pinot Grigio,decanter,100,86,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 538161",2026-08-28
@@ -1309,13 +1308,13 @@ janko-zavet-stari,Podrum Janko,Zavet Stari,decanter,100,90,,False,2015,2018,,"aw
 cokot-radovan-prokupac,Čokot,Radovan Prokupac,decanter,100,90,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 538818",2026-08-28
 grabak-modrovrana,Grabak,Modrovrana,decanter,100,86,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 538977",2026-08-28
 ivanovic-no-1-2,Ivanović,No 1/2,decanter,100,86,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 592435",2026-08-28
-virtus-w-pinot-noir,Virtus W,Pinot Noir,decanter,100,86,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 591850",2026-08-28
+virtus-pinot-noir,Virtus,Pinot Noir,decanter,100,86,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 591850",2026-08-28
 pik-oplenac-villa-muscat-ottonel,PIK Oplenac,Villa Muscat Ottonel,decanter,100,86,,False,2015,2018,,"awards.decanter.com, DWWA 2018, вино 535244",2026-08-28
 virtus-marselan,Virtus,Marselan,decanter,100,90,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 571879",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,100,95,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 591497",2026-08-28
 deuric-probus,Deurić,Probus,decanter,100,90,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 590903",2026-08-28
 despotika-trag-merlot,Despotika,TRAG Merlot,decanter,100,88,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 538269",2026-08-28
-virtus-w-prokupac,Virtus W,Prokupac,decanter,100,91,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 591874",2026-08-28
+virtus-prokupac,Virtus,Prokupac,decanter,100,91,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 591874",2026-08-28
 cokot-experiment-prokupac,Čokot,Experiment Prokupac,decanter,100,89,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 535016",2026-08-28
 janko-bifora,Podrum Janko,Bifora,decanter,100,88,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 537023",2026-08-28
 janko-crveni-zapis,Podrum Janko,Crveni Zapis,decanter,100,91,,False,2016,2018,,"awards.decanter.com, DWWA 2018, вино 537039",2026-08-28
@@ -1341,7 +1340,7 @@ zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,100,95,,False,2017,20
 zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,decanter,100,95,,False,2017,2019,,"awards.decanter.com, DWWA 2019, вино 598418",2026-08-28
 grabak-prokupac,Grabak,Prokupac,decanter,100,88,,False,2017,2019,,"awards.decanter.com, DWWA 2019, вино 596222",2026-08-28
 cokot-experiment-prokupac,Čokot,Experiment Prokupac,decanter,100,87,,False,2017,2019,,"awards.decanter.com, DWWA 2019, вино 571820",2026-08-28
-probus-vineyards-magis,Probus Vineyards,Magis,decanter,100,87,,False,2017,2019,,"awards.decanter.com, DWWA 2019, вино 599036",2026-08-28
+probus-magis,Probus Vineyards,Magis,decanter,100,87,,False,2017,2019,,"awards.decanter.com, DWWA 2019, вино 599036",2026-08-28
 pik-oplenac-monarh-s,PIK Oplenac,Monarh S,decanter,100,88,,False,2015,2019,,"awards.decanter.com, DWWA 2019, вино 571698",2026-08-28
 pusula-cabernet,Pusula,Cabernet,decanter,100,86,,False,2015,2019,,"awards.decanter.com, DWWA 2019, вино 596067",2026-08-28
 temet-ergo-belo,Temet,Ergo Belo,decanter,100,89,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 571870",2026-08-28
@@ -1354,7 +1353,7 @@ nikad-nije-kasno-signature,Nikad Nije Kasno,Signature,decanter,100,88,,False,201
 rubin-amante-carmen,Rubin,Amante Carmen,decanter,100,87,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 599076",2026-08-28
 temet-tri-morave-reserva,Temet,Tri Morave Reserva,decanter,100,95,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 572378",2026-08-28
 lastar-pinot-noir,Vinarija Lastar,Pinot Noir,decanter,100,87,,False,2016,2019,,"awards.decanter.com, DWWA 2019, вино 595676",2026-08-28
-molowinery-vista-hill-red-reserve,Molowinery,Vista Hill Red Reserve,decanter,100,94,,False,2010,2019,,"awards.decanter.com, DWWA 2019, вино 570382",2026-08-28
+molovin-vista-hill-red-reserve,Molovin,Vista Hill Red Reserve,decanter,100,94,,False,2010,2019,,"awards.decanter.com, DWWA 2019, вино 570382",2026-08-28
 trisic-dimasid,Винарија Тришић (Vinarija Trišić),Dimasid,decanter,100,94,,False,2013,2019,,"awards.decanter.com, DWWA 2019, вино 600113",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Zuti Cvet Tamjanika,decanter,100,89,,False,2018,2019,,"awards.decanter.com, DWWA 2019, вино 570692",2026-08-28
 bukovo-filigran-гаме,Manastir Bukovo,Filigran Гаме,decanter,100,88,,False,2015,2019,,"awards.decanter.com, DWWA 2019, вино 596546",2026-08-28
@@ -1376,7 +1375,7 @@ despotika-trag,Despotika,Trag,decanter,100,91,,False,2017,2020,,"awards.decanter
 veritas-momentum-cabernet-sauvignon,Veritas,Momentum Cabernet Sauvignon,decanter,100,95,,False,2017,2022,,"awards.decanter.com, DWWA 2022, вино 718241",2026-08-28
 vinum-frankovka,Vinum,Frankovka,decanter,100,90,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 583954",2026-08-28
 vinum-pinot-noir,Vinum,Pinot Noir,decanter,100,90,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 583969",2026-08-28
-djurdjic-cabernet-franc,Winery Djurdjic,Cabernet Franc,decanter,100,88,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 584567",2026-08-28
+durdic-cabernet-franc,Vinarija Đurđić,Cabernet Franc,decanter,100,88,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 584567",2026-08-28
 rubin-rubinov-prokupac,Rubin,Rubinov Prokupac,decanter,100,92,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 580939",2026-08-28
 grabak-vivak-prokupac,Grabak,Vivak Prokupac,decanter,100,95,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 584171",2026-08-28
 grabak-siva-vrana,Grabak,Siva Vrana,decanter,100,87,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 584172",2026-08-28
@@ -1409,10 +1408,10 @@ rubin-cabernet-sauvignon,Rubin,Cabernet Sauvignon,decanter,100,87,,False,2016,20
 zvonko-bogdan-pinot-grigio,Zvonko Bogdan,Pinot Grigio,decanter,100,87,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 584037",2026-08-28
 temet-tri-morave,Temet,Tri Morave,decanter,100,90,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 738237",2026-08-28
 virtus-w,Virtus,W,decanter,100,89,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 583930",2026-08-28
-vista-hills-plus-premium,Vista Hills Plus,Premium,decanter,100,86,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 583634",2026-08-28
+vista-hill-premium,Vista Hill,Premium,decanter,100,86,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 583634",2026-08-28
 erdevik-roza-nostra,Erdevik,Roza Nostra,decanter,100,88,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 580452",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,100,88,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 578709",2026-08-28
-dragic-carski-drum-sauvignon-blanc,Vinarija Dragić,Carski Drum Sauvignon Blanc,decanter,100,86,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 578821",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,100,88,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 578709",2026-08-28
+dragic-carski-drum-sauvignon-blanc,Драгић Винарија (Vina Dragic),Carski Drum Sauvignon Blanc,decanter,100,86,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 578821",2026-08-28
 virtus-sauvignon-blanc,Virtus,Sauvignon Blanc,decanter,100,86,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 583944",2026-08-28
 virtus-pinot-grigio,Virtus,Pinot Grigio,decanter,100,87,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 583945",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Zuti Cvet Tamjanika,decanter,100,87,,False,2019,2020,,"awards.decanter.com, DWWA 2020, вино 584229",2026-08-28
@@ -1444,9 +1443,9 @@ aven-merlot,Vinarija Aven,Merlot,decanter,100,87,,False,2018,2020,,"awards.decan
 aven-cabernet-sauvignon,Vinarija Aven,Cabernet Sauvignon,decanter,100,86,,False,2018,2020,,"awards.decanter.com, DWWA 2020, вино 583682",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,100,90,,False,2018,2020,,"awards.decanter.com, DWWA 2020, вино 584043",2026-08-28
 zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,decanter,100,89,,False,2018,2020,,"awards.decanter.com, DWWA 2020, вино 584044",2026-08-28
-vista-hill-plus-white-reserve,Vista Hill Plus,White Reserve,decanter,100,92,,False,2012,2020,,"awards.decanter.com, DWWA 2020, вино 583638",2026-08-28
+vista-hill-white-reserve,Vista Hill,White Reserve,decanter,100,92,,False,2012,2020,,"awards.decanter.com, DWWA 2020, вино 583638",2026-08-28
 temet-tri-morave-brut,Temet,Tri Morave Brut,decanter,100,89,,False,2017,2020,,"awards.decanter.com, DWWA 2020, вино 580969",2026-08-28
-probus-vineyards-traminac,Probus Vineyards,Traminac,decanter,100,88,,False,2018,2020,,"awards.decanter.com, DWWA 2020, вино 581209",2026-08-28
+probus-traminac,Probus Vineyards,Traminac,decanter,100,88,,False,2018,2020,,"awards.decanter.com, DWWA 2020, вино 581209",2026-08-28
 kovacevic-fresco-bianco-brut,Kovačević,Fresco Bianco Brut,decanter,100,88,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 692379",2026-08-28
 aleksic-zuti-cvet-tamjanika-dry,Aleksić,Žuti Cvet Tamjanika Dry,decanter,100,90,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 701752",2026-08-28
 aleksandrovic-trijumf-noir,Aleksandrović,Trijumf Noir,decanter,100,93,,False,2010,2021,,"awards.decanter.com, DWWA 2021, вино 699191",2026-08-28
@@ -1463,7 +1462,7 @@ zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,100,95,,False,2019,20
 zmajevac-chardonnay,Zmajevac,Chardonnay,decanter,100,87,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 698718",2026-08-28
 eden-chardonnay,Vinarija Eden,Chardonnay,decanter,100,88,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 698899",2026-08-28
 aleksandrovic-trijumf-gold,Aleksandrović,Trijumf Gold,decanter,100,90,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 699029",2026-08-28
-belina-belina,Belina,Belina,decanter,100,86,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 698096",2026-08-28
+matijasevic-belina,Matijašević,Belina,decanter,100,86,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 698096",2026-08-28
 zvonko-bogdan-chardonnay,Zvonko Bogdan,Chardonnay,decanter,100,91,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 701103",2026-08-28
 matijasevic-sovinoa,Matijašević,SoviNoa,decanter,100,95,,False,2019,2021,,"awards.decanter.com, DWWA 2021, вино 702661",2026-08-28
 deuric-severna-morava,Deurić,Severna Morava,decanter,100,90,,False,2018,2021,,"awards.decanter.com, DWWA 2021, вино 693888",2026-08-28
@@ -1521,7 +1520,7 @@ deuric-severna-morava,Deurić,Severna Morava,decanter,100,93,,False,2020,2022,,"
 bt-kings-crown,BT Winery,Kings Crown,decanter,100,88,,False,2020,2022,,"awards.decanter.com, DWWA 2022, вино 711544",2026-08-28
 bt-king-supreme-marselan,BT Winery,King Supreme Marselan,decanter,100,87,,False,2020,2022,,"awards.decanter.com, DWWA 2022, вино 709417",2026-08-28
 sokolov-zamak-marselan,Vinarija Sokolov Zamak,Marselan,decanter,100,90,,False,2020,2022,,"awards.decanter.com, DWWA 2022, вино 712066",2026-08-28
-nikolich-neuzinsky-vineyards-the-secret-code-of-our-terroir,Nikolich Neuzinsky Vineyards,The Secret Code of Our Terroir,decanter,100,88,,False,2020,2022,,"awards.decanter.com, DWWA 2022, вино 709221",2026-08-28
+nikolich-neuzinsky-the-secret-code-of-our-terroir,Николић Неyзински (Nikolićh Neuzinsky),The Secret Code of Our Terroir,decanter,100,88,,False,2020,2022,,"awards.decanter.com, DWWA 2022, вино 709221",2026-08-28
 temet-tri-morave-red,Temet,Tri Morave Red,decanter,100,89,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 713774",2026-08-28
 matijasevic-cukundeda-prokupac,Matijašević,Čukundeda Prokupac,decanter,100,93,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 715585",2026-08-28
 matijasevic-cukundeda-superiore,Matijašević,Čukundeda Superiore,decanter,100,91,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 715588",2026-08-28
@@ -1529,7 +1528,7 @@ aleksic-amanet-vranac,Aleksić,Amanet Vranac,decanter,100,95,,False,2019,2022,,"
 aleksandrovic-prokupac,Aleksandrović,Prokupac,decanter,100,92,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 713110",2026-08-28
 aven-balance,Vinarija Aven,Balance,decanter,100,88,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 711751",2026-08-28
 dumo-pinot-noir,Vinarija Dumo,Pinot Noir,decanter,100,89,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 720883",2026-08-28
-max-ex-doo-rebus-crveni,Max-Ex Doo,Rebus Crveni,decanter,100,88,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 705400",2026-08-28
+max-ex-rebus-crveni,Max-Ex Doo,Rebus Crveni,decanter,100,88,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 705400",2026-08-28
 reljic-rebus-reserve,Reljić Vinarija,Rebus Reserve,decanter,100,91,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 705696",2026-08-28
 petrovic-cabernet-sauvignon,Podrum Petrović,Cabernet Sauvignon,decanter,100,88,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 705926",2026-08-28
 deuric-aksiom-beli,Deurić,Aksiom Beli,decanter,100,90,,False,2019,2022,,"awards.decanter.com, DWWA 2022, вино 711712",2026-08-28
@@ -1582,7 +1581,7 @@ matalj-crna-tamjanika,Matalj,Crna Tamjanika,decanter,100,90,,False,2021,2022,,"a
 jovac-tamjanika,Vinarija Jovac,Tamjanika,decanter,100,87,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 737575",2026-08-28
 draskovic-horizont-chardonnay,Drašković,Horizont Chardonnay,decanter,100,89,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 728650",2026-08-28
 draskovic-burgundac-beli,Drašković,Burgundac Beli,decanter,100,87,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 728670",2026-08-28
-nikolich-neuzinsky-vineyards-santa-maria,Nikolich Neuzinsky Vineyards,Santa Maria,decanter,100,88,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 737745",2026-08-28
+nikolich-neuzinsky-santa-maria,Николић Неyзински (Nikolićh Neuzinsky),Santa Maria,decanter,100,88,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 737745",2026-08-28
 virtus-gewurztraminer,Virtus,Gewurztraminer,decanter,100,87,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 736170",2026-08-28
 virtus-prokupac,Virtus,Prokupac,decanter,100,87,,False,2018,2023,,"awards.decanter.com, DWWA 2023, вино 736199",2026-08-28
 bacina-dolina,Podrum Bačina,Dolina,decanter,100,87,,False,2018,2023,,"awards.decanter.com, DWWA 2023, вино 732158",2026-08-28
@@ -1609,17 +1608,17 @@ doja-prokupac,Doja,Prokupac,decanter,100,90,,False,2019,2023,,"awards.decanter.c
 doja-breg-prokupac,Doja,Breg Prokupac,decanter,100,92,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 738192",2026-08-28
 doja-breg-cabernet-sauvignon,Doja,Breg Cabernet Sauvignon,decanter,100,91,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 738193",2026-08-28
 doja-breg-merlot,Doja,Breg Merlot,decanter,100,93,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 738194",2026-08-28
-matalj-vainarija-bukovski-cuvee,Matalj Vainarija,Bukovski Cuvée,decanter,100,91,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 730710",2026-08-28
+matalj-bukovski-cuvee,Matalj,Bukovski Cuvée,decanter,100,91,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 730710",2026-08-28
 zaba-barrique-merlot,Vinarija Zaba,Barrique Merlot,decanter,100,88,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 731512",2026-08-28
 temet-ergo,Temet,Ergo,decanter,100,90,,False,2019,2026,,"awards.decanter.com, DWWA 2026, вино 778874",2026-08-28
 deuric-aksiom-beli,Deurić,Aksiom Beli,decanter,100,90,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 732061",2026-08-28
 tarpos-cabernet-sauvignon,Tarpoš,Cabernet Sauvignon,decanter,100,88,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 738923",2026-08-28
 tarpos-merlot,Tarpoš,Merlot,decanter,100,88,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 738937",2026-08-28
-trilogija-vinery-pecat-grand-reserve,Trilogija Vinery,Pečat Grand Reserve,decanter,100,89,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 737242",2026-08-28
+trilogija-pecat-grand-reserve,Трилогия Винария - Vinarija Trilogija,Pečat Grand Reserve,decanter,100,89,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 737242",2026-08-28
 erdevik-marlon-delon,Erdevik,Marlon Delon,decanter,100,90,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 734771",2026-08-28
-probus-vineyards-cclxxx-magis,Probus Vineyards CCLXXX,Magis,decanter,100,88,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 738157",2026-08-28
-probus-vineyards-cclxxx-belim,Probus Vineyards CCLXXX,Belim,decanter,100,87,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 738233",2026-08-28
-vina-dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,100,89,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 724396",2026-08-28
+probus-magis,Probus Vineyards,Magis,decanter,100,88,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 738157",2026-08-28
+probus-belim,Probus Vineyards,Belim,decanter,100,87,,False,2017,2023,,"awards.decanter.com, DWWA 2023, вино 738233",2026-08-28
+dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,100,89,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 724396",2026-08-28
 bt-mister-marselan,BT Winery,Mister Marselan,decanter,100,95,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 731026",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,100,91,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 731250",2026-08-28
 stupovi-merlot,Винарија Ступови (Vinarija Stupovi),Merlot,decanter,100,91,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 727916",2026-08-28
@@ -1636,7 +1635,7 @@ deuric-severna-morava,Deurić,Severna Morava,decanter,100,88,,False,2020,2023,,"
 lastar-triangl-chardonnay,Vinarija Lastar,Triangl Chardonnay,decanter,100,86,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 737761",2026-08-28
 lastar-triangl-sauvignon-viognier,Vinarija Lastar,Triangl Sauvignon-Viognier,decanter,100,89,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 737764",2026-08-28
 draskovic-beli-pinot,Drašković,Beli Pinot,decanter,100,90,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 728644",2026-08-28
-vina-dragic-aurora,Драгић Винарија (Vina Dragic),Aurora,decanter,100,88,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 724398",2026-08-28
+dragic-aurora,Драгић Винарија (Vina Dragic),Aurora,decanter,100,88,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 724398",2026-08-28
 aleksic-kontra,Aleksić,Kontra,decanter,100,86,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 739614",2026-08-28
 vincic-grand-fru,Vinčić,Grand Fru,decanter,100,87,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755439",2026-08-28
 durdevica-legat-otisak,Vinarija Đurđevića Legat,Otisak,decanter,100,86,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 738861",2026-08-28
@@ -1646,9 +1645,9 @@ cokot-radovan-100-prokupac,Čokot,Radovan 100% Prokupac,decanter,100,91,,False,2
 matijasevic-tri-doline,Matijašević,Tri Doline,decanter,100,95,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 738328",2026-08-28
 jovac-stella-noir,Vinarija Jovac,Stella Noir,decanter,100,95,,False,2020,2026,,"awards.decanter.com, DWWA 2026, вино 787957",2026-08-28
 matalj-kremen,Matalj,Kremen,decanter,100,87,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 730682",2026-08-28
-tri-medje-i-oblak-vagabundo-cabernet-sauvignon,Tri Medje I Oblak,Vagabundo Cabernet Sauvignon,decanter,100,86,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 738202",2026-08-28
+tri-mede-i-oblak-vagabundo-cabernet-sauvignon,Tri Medje I Oblak,Vagabundo Cabernet Sauvignon,decanter,100,86,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 738202",2026-08-28
 reljic-rebus-crveni,Reljić Vinarija,Rebus Crveni,decanter,100,90,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 723895",2026-08-28
-mrdjanin-family-edition-probus,Vinarija Mrdjanin,Family Edition Probus,decanter,100,89,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 732411",2026-08-28
+mrdanin-family-edition-probus,Vinarija Mrdjanin,Family Edition Probus,decanter,100,89,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 732411",2026-08-28
 gamanovic-cabernet-sauvignon,Vinarija Gamanović,Cabernet Sauvignon,decanter,100,87,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 727545",2026-08-28
 bikicki-uncensored,Bikicki,Uncensored,decanter,100,94,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 732509",2026-08-28
 bikicki-s-o,Bikicki,S/O,decanter,100,87,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 732516",2026-08-28
@@ -1658,7 +1657,7 @@ matalj-terasa-sauvignon-blanc,Matalj,Terasa Sauvignon Blanc,decanter,100,90,,Fal
 tarpos-chardonnay,Tarpoš,Chardonnay,decanter,100,89,,False,2022,2023,,"awards.decanter.com, DWWA 2023, вино 738942",2026-08-28
 tarpos-tamjanika,Tarpoš,Tamjanika,decanter,100,90,,False,2022,2023,,"awards.decanter.com, DWWA 2023, вино 738946",2026-08-28
 petrovic-grasac,Podrum Petrović,Grašac,decanter,100,90,,False,2022,2023,,"awards.decanter.com, DWWA 2023, вино 730433",2026-08-28
-tri-medje-i-oblak-bigfoot-chardonnay,Tri Medje I Oblak,Bigfoot Chardonnay,decanter,100,88,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 738198",2026-08-28
+tri-mede-i-oblak-bigfoot-chardonnay,Tri Medje I Oblak,Bigfoot Chardonnay,decanter,100,88,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 738198",2026-08-28
 verkat-barrique-malvazija,Verkat,Barrique Malvazija,decanter,100,91,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 738802",2026-08-28
 verkat-grasac-beli-40,Verkat,Grašac Beli 4.0,decanter,100,91,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 738851",2026-08-28
 pevac-gust-barrique-chardonnay,Podrum Pevac,Gušt Barrique Chardonnay,decanter,100,88,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 727088",2026-08-28
@@ -1671,13 +1670,13 @@ chateau-prince-velika-morava,Château Prince,Velika Morava,decanter,100,90,,Fals
 stari-hrast-sauvignon-blanc,Podrum Stari Hrast,Sauvignon Blanc,decanter,100,88,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 728004",2026-08-28
 aleksic-zuti-cvet-tamjanika-sec,Aleksić,Zuti Cvet Tamjanika Sec,decanter,100,86,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 739613",2026-08-28
 deuric-the-brut,Deurić,The Brut,decanter,100,88,,False,2019,2023,,"awards.decanter.com, DWWA 2023, вино 732063",2026-08-28
-vina-dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,100,86,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 724393",2026-08-28
+dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,100,86,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 724393",2026-08-28
 danguba-ponovo-nase-tamjanika,Vinarija Podrum Danguba,Ponovo Naše Tamjanika,decanter,100,86,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 730147",2026-08-28
 gamanovic-bela-tamjanika,Vinarija Gamanović,Bela Tamjanika,decanter,100,86,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 727546",2026-08-28
 art-et-vinum-meduza,Art Et Vinum,Meduza,decanter,100,90,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 734083",2026-08-28
-dragic-carski-drum-rajnski-rizling,Vinarija Dragić,Carski Drum Rajnski Rizling,decanter,100,87,,False,2020,2025,,"awards.decanter.com, DWWA 2025, вино 771662",2026-08-28
+dragic-carski-drum-rajnski-rizling,Драгић Винарија (Vina Dragic),Carski Drum Rajnski Rizling,decanter,100,87,,False,2020,2025,,"awards.decanter.com, DWWA 2025, вино 771662",2026-08-28
 doja-breg-prokupac,Doja,Breg Prokupac,decanter,100,95,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 752964",2026-08-28
-manastira-studenica-1186-prokupac,Vinarija Manastira Studenica,1186 Prokupac,decanter,100,87,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 756007",2026-08-28
+studenica-1186-prokupac,Манастир Студеница (Manastir Studenica),1186 Prokupac,decanter,100,87,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 756007",2026-08-28
 fragaria-votazi,Vinarija Fragaria,Votazi,decanter,100,87,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 757148",2026-08-28
 matalj-bukovski-prokupac,Matalj,Bukovski Prokupac,decanter,100,91,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 757453",2026-08-28
 jovac-merlot,Vinarija Jovac,Merlot,decanter,100,90,,False,2020,2026,,"awards.decanter.com, DWWA 2026, вино 790645",2026-08-28
@@ -1688,15 +1687,15 @@ todorovic-merlot,Vinarija Todorović,Merlot,decanter,100,89,,False,2020,2024,,"a
 virtus-prokupac,Virtus,Prokupac,decanter,100,91,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755464",2026-08-28
 virtus-marselan,Virtus,Marselan,decanter,100,88,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755469",2026-08-28
 virtus-credo,Virtus,Credo,decanter,100,89,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755474",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,100,90,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755814",2026-08-28
-dragic-carski-drum-cabernet-franc,Vinarija Dragić,Carski Drum Cabernet Franc,decanter,100,86,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755829",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,100,90,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755814",2026-08-28
+dragic-carski-drum-cabernet-franc,Драгић Винарија (Vina Dragic),Carski Drum Cabernet Franc,decanter,100,86,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755829",2026-08-28
 manufaktura-spasic-rebo,Manufaktura Spasić,Rebo,decanter,100,90,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 757987",2026-08-28
-atelje-vina-sapat-magnus,Šapat,Magnus,decanter,100,90,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 756967",2026-08-28
-atelje-vina-sapat-reserve-cabernet-sauvignon,Šapat,Reserve Cabernet Sauvignon,decanter,100,93,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 756984",2026-08-28
+atelje-sapat-magnus,Šapat,Magnus,decanter,100,90,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 756967",2026-08-28
+atelje-sapat-reserve-cabernet-sauvignon,Šapat,Reserve Cabernet Sauvignon,decanter,100,93,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 756984",2026-08-28
 manufaktura-spasic-krivac,Manufaktura Spasić,Krivac,decanter,100,86,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755026",2026-08-28
 deuric-pinot-noir,Deurić,Pinot Noir,decanter,100,88,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 752920",2026-08-28
 lastar-cabernet-franc,Vinarija Lastar,Cabernet Franc,decanter,100,91,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 746476",2026-08-28
-krstasica-doo-konekcija-merlot,Krstašica Doo,Konekcija Merlot,decanter,100,88,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 746132",2026-08-28
+krstasica-konekcija-merlot,Krstašica Doo,Konekcija Merlot,decanter,100,88,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 746132",2026-08-28
 unikat-cabernet-sauvignon,Vinarija Unikat,Cabernet Sauvignon,decanter,100,89,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 749546",2026-08-28
 aleksandrovic-prokupac,Aleksandrović,Prokupac,decanter,100,90,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 757533",2026-08-28
 despotika-trag,Despotika,Trag,decanter,100,86,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 759538",2026-08-28
@@ -1705,7 +1704,7 @@ zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvee No1,decanter,100,88,,False,2021,2024
 tarpos-cabernet-sauvignon,Tarpoš,Cabernet Sauvignon,decanter,100,86,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 755936",2026-08-28
 matijasevic-cukundeda-prokupac,Matijašević,Cukundeda Prokupac,decanter,100,91,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 756928",2026-08-28
 aven-cabernet-sauvignon,Vinarija Aven,Cabernet Sauvignon,decanter,100,87,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 749390",2026-08-28
-krstasica-konekcija-merlot,Krstašica,Konekcija Merlot,decanter,100,88,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 746134",2026-08-28
+krstasica-konekcija-merlot,Krstašica Doo,Konekcija Merlot,decanter,100,88,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 746134",2026-08-28
 pevac-prokupac,Podrum Pevac,Prokupac,decanter,100,87,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 748634",2026-08-28
 sokolov-zamak-marselan,Vinarija Sokolov Zamak,Marselan,decanter,100,89,,False,2021,2025,,"awards.decanter.com, DWWA 2025, вино 773169",2026-08-28
 trasko-fabulous-cabernet-franc,Traško Vinarija,Fabulous Cabernet Franc,decanter,100,90,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 747082",2026-08-28
@@ -1733,39 +1732,39 @@ tonkovic-fantazija-organic-kadarka,Tonković,Fantazija Organic Kadarka,decanter,
 bt-mister-marselan,BT Winery,Mister Marselan,decanter,100,88,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 765708",2026-08-28
 stankovic-cabernet-sauvignon,Vinarija Stanković,Cabernet Sauvignon,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750297",2026-08-28
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,100,87,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 774734",2026-08-28
-vina-dragic-nemirac,Драгић Винарија (Vina Dragic),Nemirac,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750285",2026-08-28
+dragic-nemirac,Драгић Винарија (Vina Dragic),Nemirac,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750285",2026-08-28
 fragaria-jagoda,Vinarija Fragaria,Jagoda,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 757521",2026-08-28
-manastira-studenica-tamjanika-bela-rec,Vinarija Manastira Studenica,Tamjanika Bela Reč,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756175",2026-08-28
-dragic-carski-drum-chardonnay,Vinarija Dragić,Carski Drum Chardonnay,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 755834",2026-08-28
+studenica-tamjanika-bela-rec,Манастир Студеница (Manastir Studenica),Tamjanika Bela Reč,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756175",2026-08-28
+dragic-carski-drum-chardonnay,Драгић Винарија (Vina Dragic),Carski Drum Chardonnay,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 755834",2026-08-28
 virtus-credo-beli,Virtus,Credo Beli,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 755456",2026-08-28
 stankovic-chardonnay,Vinarija Stanković,Chardonnay,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750293",2026-08-28
 matalj-terasa-chardonnay,Matalj,Terasa Chardonnay,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 757455",2026-08-28
 sokolov-zamak-tamjanika,Vinarija Sokolov Zamak,Tamjanika,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 758250",2026-08-28
-atelje-vina-sapat-chardonnay,Šapat,Chardonnay,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756719",2026-08-28
-atelje-vina-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,100,95,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756721",2026-08-28
+atelje-sapat-chardonnay,Šapat,Chardonnay,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756719",2026-08-28
+atelje-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,100,95,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756721",2026-08-28
 veritas-cukovic-bela-harmonija,Veritas Ćuković,Bela Harmonija,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 753458",2026-08-28
-djurdjic-grasac-beli,Winery Djurdjic,Grašac Beli,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 749711",2026-08-28
+durdic-grasac-beli,Vinarija Đurđić,Grašac Beli,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 749711",2026-08-28
 karic-adria-belo,Karić Vinarija,Adria Belo,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 745092",2026-08-28
 despotika-morava,Despotika,Morava,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 759525",2026-08-28
-atelje-vina-sapat-su-su-blaufrankisch,Šapat,šU-šU Blaufrankisch,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756998",2026-08-28
-vina-dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750283",2026-08-28
+atelje-sapat-su-su-blaufrankisch,Šapat,šU-šU Blaufrankisch,decanter,100,90,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756998",2026-08-28
+dragic-randes,Драгић Винарија (Vina Dragic),Randes,decanter,100,87,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750283",2026-08-28
 draskovic-frankovka-rezerva,Drašković,Frankovka Rezerva,decanter,100,90,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 751528",2026-08-28
 rubin-amante-matea-merlot,Rubin,Amante Matea Merlot,decanter,100,87,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 749707",2026-08-28
 grabak-modrovrana-cabernet-sauvignon,Grabak,Modrovrana Cabernet Sauvignon,decanter,100,88,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 747465",2026-08-28
 erdevik-marlon-delon-cabernet-sauvignon-merlot,Erdevik,Marlon Delon Cabernet Sauvignon-Merlot,decanter,100,95,,False,2017,2026,,"awards.decanter.com, DWWA 2026, вино 788543",2026-08-28
 aleksandrovic-vozd-cabernet-sauvignon,Aleksandrović,Vožd Cabernet Sauvignon,decanter,100,95,,False,2017,2024,,"awards.decanter.com, DWWA 2024, вино 757517",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,100,90,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771660",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,100,90,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771660",2026-08-28
 aleksic-zuti-cvet,Aleksić,Zuti Cvet,decanter,100,87,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 756937",2026-08-28
 aleksic-arno-sauvignon-blanc,Aleksić,Arno Sauvignon Blanc,decanter,100,87,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 756951",2026-08-28
 tarpos-sauvignon-blanc,Tarpoš,Sauvignon Blanc,decanter,100,87,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 755934",2026-08-28
 tarpos-tamjanika,Tarpoš,Tamjanika,decanter,100,90,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 755935",2026-08-28
 sokolov-zamak-chardonnay,Vinarija Sokolov Zamak,Chardonnay,decanter,100,87,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771933",2026-08-28
-atelje-vina-sapat-bianca-moscato-giallo,Šapat,Bianca Moscato Giallo,decanter,100,91,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 756381",2026-08-28
+atelje-sapat-bianca-moscato-giallo,Šapat,Bianca Moscato Giallo,decanter,100,91,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 756381",2026-08-28
 matalj-terasa-sauvignon-blanc,Matalj,Terasa Sauvignon Blanc,decanter,100,90,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 757459",2026-08-28
 pevac-gust,Podrum Pevac,Gušt,decanter,100,89,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 748669",2026-08-28
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,100,91,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 756193",2026-08-28
 doja-breg-merlot,Doja,Breg Merlot,decanter,100,92,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 752965",2026-08-28
-dzervin-1927-trifun-grand-cabernet-sauvignon,Podrum Džervin 1927,Trifun Grand Cabernet Sauvignon,decanter,100,87,,False,2019,2026,,"awards.decanter.com, DWWA 2026, вино 778833",2026-08-28
+dzervin-trifun-grand-cabernet-sauvignon,Dzervin,Trifun Grand Cabernet Sauvignon,decanter,100,87,,False,2019,2026,,"awards.decanter.com, DWWA 2026, вино 778833",2026-08-28
 janko-zlatno-runo-cabernet-sauvignon,Podrum Janko,Zlatno Runo Cabernet Sauvignon,decanter,100,87,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 757869",2026-08-28
 cokot-experiment-prokupac,Čokot,Experiment Prokupac,decanter,100,92,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 756253",2026-08-28
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,decanter,100,90,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 757518",2026-08-28
@@ -1777,18 +1776,18 @@ aven-cabernet-sauvignon,Vinarija Aven,Cabernet Sauvignon,decanter,100,87,,False,
 tonkovic-rapsodija-kadarka,Tonković,Rapsodija Kadarka,decanter,100,86,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 745066",2026-08-28
 deuric-aksiom-crveni,Deurić,Aksiom Crveni,decanter,100,93,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 752927",2026-08-28
 temet-beli-kamen-prokupac,Temet,Beli Kamen Prokupac,decanter,100,87,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 750347",2026-08-28
-atelje-vina-sapat-pi-crveno-premium,Šapat,Pi' Crveno Premium,decanter,100,87,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 756960",2026-08-28
+atelje-sapat-pi-crveno-premium,Šapat,Pi' Crveno Premium,decanter,100,87,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 756960",2026-08-28
 zvonko-bogdan-eclater-blanc-de-blancs-extra-brut,Zvonko Bogdan,Eclater Blanc De Blancs Extra Brut,decanter,100,95,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 756211",2026-08-28
 zvonko-bogdan-eclater-blanc-de-blancs-extra-brut,Zvonko Bogdan,Eclater Blanc De Blancs Extra Brut,decanter,100,92,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 756205",2026-08-28
 despotika-nemir,Despotika,Nemir,decanter,100,86,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 759531",2026-08-28
-salas-gnezdo-doo-becej-genzdo-muskat-krokan,Salaš Gnezdo Doo Bečej,Genzdo Muskat Krokan,decanter,100,86,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 753039",2026-08-28
-vina-dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750276",2026-08-28
+gnezdo-genzdo-muskat-krokan,Vinarija Gnezdo,Genzdo Muskat Krokan,decanter,100,86,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 753039",2026-08-28
+dragic-kibic,Драгић Винарија (Vina Dragic),Kibic,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 750276",2026-08-28
 dibonis-di-icewine,Dibonis Winery,Di Icewine,decanter,100,94,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 756424",2026-08-28
 karic-adria-belo,Karić Vinarija,Adria Belo,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 761764",2026-08-28
 stankovic-chardonnay,Vinarija Stanković,Chardonnay,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 768380",2026-08-28
 ivanovic-no-3-4,Ivanović,No 3/4,decanter,100,86,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 770341",2026-08-28
-krstasica-konekicja-chardonnay,Krstašica,Konekicja Chardonnay,decanter,100,86,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771778",2026-08-28
-krstasica-konekicja-sauvignon-blanc,Krstašica,Konekicja Sauvignon Blanc,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771809",2026-08-28
+krstasica-konekicja-chardonnay,Krstašica Doo,Konekicja Chardonnay,decanter,100,86,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771778",2026-08-28
+krstasica-konekicja-sauvignon-blanc,Krstašica Doo,Konekicja Sauvignon Blanc,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771809",2026-08-28
 frug-chardonnay,Vinarija Frug,Chardonnay,decanter,100,88,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 772363",2026-08-28
 chichateau-blake-sauvignon-blanc,Chichateau,Blake Sauvignon Blanc,decanter,100,88,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 791021",2026-08-28
 frug-signum-chardonnay,Vinarija Frug,Signum Chardonnay,decanter,100,89,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 789468",2026-08-28
@@ -1798,17 +1797,17 @@ deuric-la-rem-morava-amf,Deurić,La Rem Morava Amf.,decanter,100,91,,False,2023,
 deuric-la-rem-chardonnay,Deurić,La Rem Chardonnay,decanter,100,97,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 787711",2026-08-28
 deuric-severna-morava,Deurić,Severna Morava,decanter,100,90,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 768596",2026-08-28
 vincic-grand-fru,Vinčić,Grand Fru,decanter,100,90,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 773875",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790261",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790261",2026-08-28
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,100,95,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 774735",2026-08-28
-atelje-vina-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 772702",2026-08-28
-atelje-vina-sapat-chardonnay,Šapat,Chardonnay,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771854",2026-08-28
+atelje-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 772702",2026-08-28
+atelje-sapat-chardonnay,Šapat,Chardonnay,decanter,100,89,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771854",2026-08-28
 matalj-bagrina,Matalj,Bagrina,decanter,100,91,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 768171",2026-08-28
 virtus-morava,Virtus,Morava,decanter,100,95,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771116",2026-08-28
 tarpos-prokupac,Tarpoš,Prokupac,decanter,100,95,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771690",2026-08-28
 cokot-radovan-100-prokupac,Čokot,Radovan 100% Prokupac,decanter,100,90,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771671",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée no.1,decanter,100,91,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 774731",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,100,87,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790248",2026-08-28
-dragic-carski-drum-sauvignon-blanc,Vinarija Dragić,Carski Drum Sauvignon Blanc,decanter,100,86,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790256",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,100,87,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790248",2026-08-28
+dragic-carski-drum-sauvignon-blanc,Драгић Винарија (Vina Dragic),Carski Drum Sauvignon Blanc,decanter,100,86,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790256",2026-08-28
 breg-sila,Breg,Sila,decanter,100,87,,False,2024,2025,,"awards.decanter.com, DWWA 2025, вино 773198",2026-08-28
 breg-grasac,Breg,Grašac,decanter,100,88,,False,2024,2025,,"awards.decanter.com, DWWA 2025, вино 773219",2026-08-28
 deuric-gorska-tamjanika,Deurić,Gorska Tamjanika,decanter,100,90,,False,2024,2025,,"awards.decanter.com, DWWA 2025, вино 768585",2026-08-28
@@ -1853,13 +1852,13 @@ frug-signum-chardonnay,Vinarija Frug,Signum Chardonnay,decanter,100,90,,False,20
 bikicki-uncensored,Bikicki,Uncensored,decanter,100,91,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772489",2026-08-28
 bikicki-skins,Bikicki,Skins,decanter,100,88,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772491",2026-08-28
 bikicki-cu,Bikicki,Cu,decanter,100,87,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772495",2026-08-28
-dragic-beli-biser,Vinarija Dragić,Beli Biser,decanter,100,91,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 771664",2026-08-28
-atelje-vina-sapat-cuvee,Šapat,Cuvée,decanter,100,94,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772831",2026-08-28
-atelje-vina-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,100,89,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772833",2026-08-28
-atelje-vina-sapat-terol-teroldego,Šapat,Terol Teroldego,decanter,100,90,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772836",2026-08-28
+dragic-beli-biser,Драгић Винарија (Vina Dragic),Beli Biser,decanter,100,91,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 771664",2026-08-28
+atelje-sapat-cuvee,Šapat,Cuvée,decanter,100,94,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772831",2026-08-28
+atelje-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,100,89,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772833",2026-08-28
+atelje-sapat-terol-teroldego,Šapat,Terol Teroldego,decanter,100,90,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772836",2026-08-28
 matalj-kremen,Matalj,Kremen,decanter,100,88,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 761756",2026-08-28
 frug-signum-syrah,Vinarija Frug,Signum Syrah,decanter,100,91,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 789498",2026-08-28
-pr-anjino-vino-suton-merlot,Pr Anjino Vino,Suton Merlot,decanter,100,87,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 762133",2026-08-28
+anjino-suton-merlot,Pr Anjino Vino,Suton Merlot,decanter,100,87,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 762133",2026-08-28
 frug-cuvee,Vinarija Frug,Cuvée,decanter,100,92,,False,2022,2025,,"awards.decanter.com, DWWA 2025, вино 772835",2026-08-28
 deuric-aksiom,Deurić,Aksiom,decanter,100,93,,False,2021,2026,,"awards.decanter.com, DWWA 2026, вино 787724",2026-08-28
 chichateau-chardonnay,Chichateau,Chardonnay,decanter,100,88,,False,2021,2025,,"awards.decanter.com, DWWA 2025, вино 772804",2026-08-28
@@ -1871,7 +1870,7 @@ aleksandrovic-trijumf-rose-brut,Aleksandrović,Trijumf Rosé Brut,decanter,100,9
 rajic-prokupac,Vinarija Rajić,Prokupac,decanter,100,88,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790975",2026-08-28
 zvonko-bogdan-cuvee-no-1,Zvonko Bogdan,Cuvée No. 1,decanter,100,89,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 787966",2026-08-28
 gnezdo-kadarka,Vinarija Gnezdo,Kadarka,decanter,100,90,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 789006",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,100,86,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790272",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,100,86,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790272",2026-08-28
 chateau-prince-charm-chardonnay-morava,Château Prince,Charm Chardonnay-Morava,decanter,100,87,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 779199",2026-08-28
 virtus-credo,Virtus,Credo,decanter,100,89,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790252",2026-08-28
 gnezdo-krokan-muskat,Vinarija Gnezdo,Krokan Muskat,decanter,100,87,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 789002",2026-08-28
@@ -1883,16 +1882,16 @@ karic-adria,Karić Vinarija,Adria,decanter,100,90,,False,2024,2026,,"awards.deca
 milicevic-vladavina-riesling-grasac,Vinarija Milićević,Vladavina Riesling-Grašac,decanter,100,86,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 779149",2026-08-28
 rajic-tamjanika,Vinarija Rajić,Tamjanika,decanter,100,89,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790974",2026-08-28
 fleur-doranger-krokan-muskat,Vinarija Fleur D'Oranger,Krokan Muskat,decanter,100,87,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790590",2026-08-28
-atelje-vina-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,100,88,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790635",2026-08-28
+atelje-sapat-atila-chardonnay,Šapat,Atila Chardonnay,decanter,100,88,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790635",2026-08-28
 marko-doajen-chardonnay,Marko,Doajen Chardonnay,decanter,100,87,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 789695",2026-08-28
 virtus-pinot-grigio,Virtus,Pinot Grigio,decanter,100,93,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790262",2026-08-28
 rajic-triva-souvignier-gris,Vinarija Rajić,Triva Souvignier Gris,decanter,100,89,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790798",2026-08-28
 deuric-sauvignon-blanc,Deurić,Sauvignon Blanc,decanter,100,89,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 787734",2026-08-28
 matalj-bagrina,Matalj,Bagrina,decanter,100,86,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 787244",2026-08-28
-atelje-vina-sapat-chardonnay,Šapat,Chardonnay,decanter,100,88,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790451",2026-08-28
+atelje-sapat-chardonnay,Šapat,Chardonnay,decanter,100,88,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790451",2026-08-28
 gnezdo-belo,Vinarija Gnezdo,Belo,decanter,100,90,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 789003",2026-08-28
 verkat-grasac-beli,Verkat,Grašac Beli,decanter,100,88,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790650",2026-08-28
-chardonnay-omnibus-lector-chardonnay,Chardonnay,Omnibus Lector Chardonnay,decanter,100,91,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 788542",2026-08-28
+erdevik-omnibus-lector-chardonnay,Erdevik,Omnibus Lector Chardonnay,decanter,100,91,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 788542",2026-08-28
 la-gora-lupo,La Gora,Lupo,decanter,100,89,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790313",2026-08-28
 la-gora-bello,La Gora,Bello,decanter,100,88,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 790318",2026-08-28
 frug-signum-chardonnay,Vinarija Frug,Signum Chardonnay,decanter,100,90,,False,2024,2026,,"awards.decanter.com, DWWA 2026, вино 789486",2026-08-28
@@ -1917,7 +1916,7 @@ chichateau-fabula-lagum,Chichateau,Fabula Lagum,decanter,100,92,,False,2021,2026
 frug-pinot-noir,Vinarija Frug,Pinot Noir,decanter,100,91,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 789489",2026-08-28
 frug-signum-cuvee,Vinarija Frug,Signum Cuvée,decanter,100,87,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 789513",2026-08-28
 mister-marselan,Mister,Marselan,decanter,100,87,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 790777",2026-08-28
-atelje-vina-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,100,89,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 790442",2026-08-28
+atelje-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,100,89,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 790442",2026-08-28
 veritas-cukovic-monte-karlovci,Veritas Ćuković,Monte Karlovci,decanter,100,90,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 779080",2026-08-28
 trasko-fabulous-cabernet-sauvignon,Traško Vinarija,Fabulous Cabernet Sauvignon,decanter,100,88,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 785315",2026-08-28
 trasko-fabulous-cabernet-franc,Traško Vinarija,Fabulous Cabernet Franc,decanter,100,89,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 785310",2026-08-28
@@ -1929,17 +1928,17 @@ zvonko-bogdan-pinot-blanc,Zvonko Bogdan,Pinot Blanc,decanter,100,88,,False,2022,
 virtus-prokupac,Virtus,Prokupac,decanter,100,87,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 790249",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,decanter,100,91,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 787965",2026-08-28
 rajic-monika,Vinarija Rajić,Monika,decanter,100,87,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790726",2026-08-28
-atelje-vina-sapat-nera,Šapat,Nera,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790638",2026-08-28
-dragic-carski-drum-cabernet-franc,Vinarija Dragić,Carski Drum Cabernet Franc,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790286",2026-08-28
+atelje-sapat-nera,Šapat,Nera,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790638",2026-08-28
+dragic-carski-drum-cabernet-franc,Драгић Винарија (Vina Dragic),Carski Drum Cabernet Franc,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790286",2026-08-28
 lastar-sofijin-izbor-pinot-noir,Vinarija Lastar,Sofijin Izbor Pinot Noir,decanter,100,87,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 785454",2026-08-28
 stankovic-cabernet-sauvignon,Vinarija Stanković,Cabernet Sauvignon,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 785457",2026-08-28
 deuric-276-probus,Deurić,276 Probus,decanter,100,88,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 787728",2026-08-28
 veritas-cukovic-momentum-mali,Veritas Ćuković,Momentum Mali,decanter,100,90,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 778977",2026-08-28
 natural-grape-concept-prokupac,Natural Grape Concept,Prokupac,decanter,100,87,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 780355",2026-08-28
 matalj-kremen,Matalj,Kremen,decanter,100,87,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 787241",2026-08-28
-orlic-mmxxiii-shiraz,Vinarija Orlić,MMXXIII Shiraz,decanter,100,87,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 779090",2026-08-28
-atelje-vina-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,100,92,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790454",2026-08-28
-atelje-vina-sapat-cuvee,Šapat,Cuvée,decanter,100,89,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790641",2026-08-28
+orlic-family-mmxxiii-shiraz,Орлић Породична Винарија - Orlić Family Winery,MMXXIII Shiraz,decanter,100,87,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 779090",2026-08-28
+atelje-sapat-atila-cabernet-sauvignon,Šapat,Atila Cabernet Sauvignon,decanter,100,92,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790454",2026-08-28
+atelje-sapat-cuvee,Šapat,Cuvée,decanter,100,89,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 790641",2026-08-28
 imperator-constantius,Vinarija Imperator,Constantius,decanter,100,91,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 779059",2026-08-28
 frug-pinot-noir,Vinarija Frug,Pinot Noir,decanter,100,89,,False,2023,2026,,"awards.decanter.com, DWWA 2026, вино 789493",2026-08-28
 plavinac-smederevka,Plavinac,Smederevka,decanter,100,88,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 788473",2026-08-28
@@ -1947,14 +1946,14 @@ aleksic-morava,Aleksić,Morava,decanter,100,88,,False,2025,2026,,"awards.decante
 kovacevic-chardonnay,Kovačević,Chardonnay,decanter,100,90,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 790799",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Žuti Cvet Tamjanika,decanter,100,91,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 793610",2026-08-28
 pevac-tisina-malvazija,Podrum Pevac,Tišina Malvazija,decanter,100,92,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 788670",2026-08-28
-tri-medje-i-oblak-vagabundo-sauvignon-blanc,Tri Medje I Oblak,Vagabundo Sauvignon Blanc,decanter,100,86,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 788001",2026-08-28
+tri-mede-i-oblak-vagabundo-sauvignon-blanc,Tri Medje I Oblak,Vagabundo Sauvignon Blanc,decanter,100,86,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 788001",2026-08-28
 la-gora-lupo,La Gora,Lupo,decanter,100,92,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 790321",2026-08-28
 la-gora-bello,La Gora,Bello,decanter,100,95,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 790324",2026-08-28
 la-gora-chardonnay,La Gora,Chardonnay,decanter,100,88,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 790327",2026-08-28
 la-gora-sauvignon-blanc,La Gora,Sauvignon Blanc,decanter,100,89,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 790338",2026-08-28
 breg-grasac,Breg,Grašac,decanter,100,88,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 789245",2026-08-28
 frug-grasac,Vinarija Frug,Grašac,decanter,100,92,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 789433",2026-08-28
-dragic-mitra,Vinarija Dragić,Mitra,decanter,100,91,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 790291",2026-08-28
+dragic-mitra,Драгић Винарија (Vina Dragic),Mitra,decanter,100,91,,False,2025,2026,,"awards.decanter.com, DWWA 2026, вино 790291",2026-08-28
 matijasevic-belina,Matijašević,Belina,decanter,100,91,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 789174",2026-08-28
 imperator-val-rajnski-rizling,Vinarija Imperator,VAL Rajnski Rizling,decanter,100,88,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 779044",2026-08-28
 deuric-aksiom,Deurić,Aksiom,decanter,100,92,,False,2022,2026,,"awards.decanter.com, DWWA 2026, вино 787717",2026-08-28
@@ -1992,7 +1991,7 @@ aleksandrovic-trijumf-noir-brut,Aleksandrović,Trijumf Noir Brut,decanter,100,87
 spasic-tamjanika,Spasić,Tamjanika,falstaff,100,92,,False,2021,,,falstaff.com/en/wines/vinarija-spasic-2021-vinarija-spasic-tamjanika · Peter Moser 2022,2026-08-28
 cilic-onyx-blanc,Cilić,Onyx Blanc,falstaff,100,92,,False,2019,,,falstaff.com/en/wines/cilic-vinarija-2019-cilic-onyx-blanc · Peter Moser 2022,2026-08-28
 virtus-credo,Virtus,Credo,decanter,100,86,,False,2013,2016,,"awards.decanter.com, DWWA 2016, вино 547184",2026-08-28
-molowinery-crveni-inat,Molowinery,Crveni Inat,decanter,100,86,,False,2010,2016,,"awards.decanter.com, DWWA 2016, вино 547926",2026-08-28
+molovin-crveni-inat,Molovin,Crveni Inat,decanter,100,86,,False,2010,2016,,"awards.decanter.com, DWWA 2016, вино 547926",2026-08-28
 virtus-credo,Virtus,Credo,decanter,100,92,,False,2013,2017,,"awards.decanter.com, DWWA 2017, вино 526308",2026-08-28
 despotika-morava,Despotika,Morava,decanter,100,87,,False,2016,2017,,"awards.decanter.com, DWWA 2017, вино 526007",2026-08-28
 erdevik-omnibus-lector-chardonnay,Erdevik,Omnibus Lector Chardonnay,decanter,100,88,,False,2015,2017,,"awards.decanter.com, DWWA 2017, вино 533202",2026-08-28
@@ -2037,7 +2036,7 @@ temet-ergo,Temet,Ergo,decanter,100,88,,False,2019,2023,,"awards.decanter.com, DW
 aleksic-prokupac,Aleksić,Prokupac,decanter,100,87,,False,2021,2023,,"awards.decanter.com, DWWA 2023, вино 739617",2026-08-28
 vincic-grand-fru,Vinčić,Grand Fru,decanter,100,88,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 732247",2026-08-28
 jovac-stella-noir,Vinarija Jovac,Stella Noir,decanter,100,95,,False,2020,2023,,"awards.decanter.com, DWWA 2023, вино 737590",2026-08-28
-dragic-carski-drum-rajnski-rizling,Vinarija Dragić,Carski Drum Rajnski Rizling,decanter,100,87,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755837",2026-08-28
+dragic-carski-drum-rajnski-rizling,Драгић Винарија (Vina Dragic),Carski Drum Rajnski Rizling,decanter,100,87,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 755837",2026-08-28
 jovac-merlot,Vinarija Jovac,Merlot,decanter,100,86,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 754765",2026-08-28
 grabak-prokupac,Grabak,Prokupac,decanter,100,87,,False,2020,2024,,"awards.decanter.com, DWWA 2024, вино 747467",2026-08-28
 sokolov-zamak-marselan,Vinarija Sokolov Zamak,Marselan,decanter,100,88,,False,2021,2024,,"awards.decanter.com, DWWA 2024, вино 758249",2026-08-28
@@ -2049,17 +2048,17 @@ bt-mister-marselan,BT Winery,Mister Marselan,decanter,100,88,,False,2022,2024,,"
 zvonko-bogdan-merlot,Zvonko Bogdan,Merlot,decanter,100,88,,False,2022,2024,,"awards.decanter.com, DWWA 2024, вино 756195",2026-08-28
 temet-ergo,Temet,Ergo,decanter,100,91,,False,2018,2024,,"awards.decanter.com, DWWA 2024, вино 750354",2026-08-28
 erdevik-marlon-delon-cabernet-sauvignon-merlot,Erdevik,Marlon Delon Cabernet Sauvignon-Merlot,decanter,100,94,,False,2017,2024,,"awards.decanter.com, DWWA 2024, вино 756001",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,100,90,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 755831",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,100,90,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 755831",2026-08-28
 sokolov-zamak-chardonnay,Vinarija Sokolov Zamak,Chardonnay,decanter,100,88,,False,2023,2024,,"awards.decanter.com, DWWA 2024, вино 758248",2026-08-28
 erdevik-omnibus-lector-chardonnay,Erdevik,Omnibus Lector Chardonnay,decanter,100,94,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 756338",2026-08-28
-dzervin-1927-trifun-grand-cabernet-sauvignon,Podrum Džervin 1927,Trifun Grand Cabernet Sauvignon,decanter,100,88,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 748202",2026-08-28
+dzervin-trifun-grand-cabernet-sauvignon,Dzervin,Trifun Grand Cabernet Sauvignon,decanter,100,88,,False,2019,2024,,"awards.decanter.com, DWWA 2024, вино 748202",2026-08-28
 chichateau-blake-sauvignon-blanc,Chichateau,Blake Sauvignon Blanc,decanter,100,91,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 772806",2026-08-28
 frug-signum-chardonnay,Vinarija Frug,Signum Chardonnay,decanter,100,92,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 772824",2026-08-28
 deuric-la-rem-chardonnay,Deurić,La Rem Chardonnay,decanter,100,94,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 768555",2026-08-28
-dragic-crni-biser,Vinarija Dragić,Crni Biser,decanter,100,94,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771666",2026-08-28
-dragic-carski-drum-manzoni,Vinarija Dragić,Carski Drum Manzoni,decanter,100,87,,False,2024,2025,,"awards.decanter.com, DWWA 2025, вино 771661",2026-08-28
-dragic-carski-drum-sauvignon-blanc,Vinarija Dragić,Carski Drum Sauvignon Blanc,decanter,100,87,,False,2024,2025,,"awards.decanter.com, DWWA 2025, вино 771665",2026-08-28
-dzervin-1927-trifun-grand-cabernet-sauvignon,Podrum Džervin 1927,Trifun Grand Cabernet Sauvignon,decanter,100,91,,False,2019,2025,,"awards.decanter.com, DWWA 2025, вино 761930",2026-08-28
+dragic-crni-biser,Драгић Винарија (Vina Dragic),Crni Biser,decanter,100,94,,False,2023,2025,,"awards.decanter.com, DWWA 2025, вино 771666",2026-08-28
+dragic-carski-drum-manzoni,Драгић Винарија (Vina Dragic),Carski Drum Manzoni,decanter,100,87,,False,2024,2025,,"awards.decanter.com, DWWA 2025, вино 771661",2026-08-28
+dragic-carski-drum-sauvignon-blanc,Драгић Винарија (Vina Dragic),Carski Drum Sauvignon Blanc,decanter,100,87,,False,2024,2025,,"awards.decanter.com, DWWA 2025, вино 771665",2026-08-28
+dzervin-trifun-grand-cabernet-sauvignon,Dzervin,Trifun Grand Cabernet Sauvignon,decanter,100,91,,False,2019,2025,,"awards.decanter.com, DWWA 2025, вино 761930",2026-08-28
 doja-breg-prokupac,Doja,Breg Prokupac,decanter,100,88,,False,2021,2025,,"awards.decanter.com, DWWA 2025, вино 770590",2026-08-28
 jovac-merlot,Vinarija Jovac,Merlot,decanter,100,87,,False,2020,2025,,"awards.decanter.com, DWWA 2025, вино 773565",2026-08-28
 jovac-cabernet-sauvignon,Vinarija Jovac,Cabernet Sauvignon,decanter,100,89,,False,2020,2025,,"awards.decanter.com, DWWA 2025, вино 773573",2026-08-28
@@ -2076,12 +2075,12 @@ delena-1903-merlot,Vinarija DeLena,1903 Merlot,falstaff,100,92,,False,2017,,,"fa
 pik-oplenac-monarh-immortal-s,PIK Oplenac,Monarh Immortal S,falstaff,100,91,,False,2017,,,"falstaff, поиск по Сербии · красное, 13%",2026-08-28
 petra-pinot-grigio,Vinarija Petra,Pinot Grigio,falstaff,100,88,,False,2017,,,"falstaff, Суботица-Хоргош · белое",2026-08-28
 erdevik-grand-trianon,Erdevik,Grand Trianon,falstaff,100,93,,False,2016,,,"falstaff, поиск по Сербии · красное, 14,5%",2026-08-28
-vino-budimir-angel,Vino Budimir,Angel,falstaff,100,92,,False,2016,,,"falstaff, поиск по Сербии · 13,5%",2026-08-28
+budimir-angel,Budimir,Angel,falstaff,100,92,,False,2016,,,"falstaff, поиск по Сербии · 13,5%",2026-08-28
 zvonko-bogdan-cuvee-no-1,Zvonko Bogdan,Cuvée No. 1,falstaff,100,91,,False,2016,,,"falstaff, Суботица-Хоргош · красное",2026-08-28
 ivanovic-zanos,Ivanović,Zanos,falstaff,100,92,,False,2015,,,"falstaff, поиск по Сербии · белое, 12%",2026-08-28
-vino-budimir-prokupac-boje-lila,Vino Budimir,Prokupac boje lila,falstaff,100,92,,False,2012,,,"falstaff, поиск по Сербии · 13,5%",2026-08-28
+budimir-prokupac-boje-lila,Budimir,Prokupac boje lila,falstaff,100,92,,False,2012,,,"falstaff, поиск по Сербии · 13,5%",2026-08-28
 aleksandrovic-trijumf-noir-brut,Aleksandrović,Trijumf Noir Brut,falstaff,100,92,,False,2010,,,"falstaff, поиск по Сербии · красное, пино нуар, 12%",2026-08-28
-vino-budimir-svb-rosa,Vino Budimir,Svb Rosa,falstaff,100,94,,False,2009,,,"falstaff, поиск по Сербии · розовое, 13,5%",2026-08-28
+budimir-svb-rosa,Budimir,Svb Rosa,falstaff,100,94,,False,2009,,,"falstaff, поиск по Сербии · розовое, 13,5%",2026-08-28
 despotika-nemir-turbulence-rose,Despotika,Nemir (Turbulence) Rosé,falstaff,100,92,,False,,,,"falstaff, Шумадия-Велика Морава · розовое, 13%, без указания урожая",2026-08-28
 despotika-zmajeviti-prokupac-the-dragons-wine,Despotika,Zmajeviti Prokupac (The Dragons Wine),falstaff,100,91,,False,,,,"falstaff, Шумадия-Велика Морава · красное, без указания урожая",2026-08-28
 despotika-nemir,Despotika,Nemir,falstaff,100,89,,False,2024,,,"falstaff, поиск по Сербии · розовое, 13,55%",2026-08-28
@@ -2097,7 +2096,7 @@ doja-chardonnay-barik,Doja,Chardonnay Barik,falstaff,100,91,,False,2022,,,"falst
 doja-rose,Doja,Rosé,falstaff,100,91,,False,2022,,,"falstaff, поиск по Сербии · розовое, 13,5%",2026-08-28
 ivanovic-jara-pet-net,Ivanović,Jara Pet Net,falstaff,100,91,,False,2022,,,"falstaff, поиск по Сербии · белое",2026-08-28
 aleksandrovic-trijumf-rose-pinot-noir,Aleksandrović,Trijumf Rosé Pinot Noir,falstaff,100,91,,False,2022,,,"falstaff, Шумадия-Велика Морава · розовое, 13%",2026-08-28
-matijasevic-belina-inferno,Matijašević,Belina Inferno,falstaff,100,90,,False,2022,,,"falstaff, Шумадия-Велика Морава · белое",2026-08-28
+matijasevic-belina-inferno,Matijašević,Inferno,falstaff,100,90,,False,2022,,,"falstaff, Шумадия-Велика Морава · белое",2026-08-28
 doja-chardonnay-pinot-grigio,Doja,Chardonnay & Pinot Grigio,falstaff,100,90,,False,2022,,,"falstaff, поиск по Сербии · белое, 13%",2026-08-28
 bukovo-filigran-chardonnay,Manastir Bukovo,Filigran Chardonnay,falstaff,100,90,,False,2022,,,"falstaff, поиск по Сербии · белое",2026-08-28
 despotika-dodir-touch-tamjanika,Despotika,Dodir (Touch) Tamjanika,falstaff,100,89,,False,2022,,,"falstaff, Шумадия-Велика Морава · белое",2026-08-28

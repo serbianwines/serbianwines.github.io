@@ -95,18 +95,18 @@ Vivino район еле наскребает пятёрку.
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1186, с оценкой критиков — 583, **с обеими — 187**.
+Вин с оценкой Vivino — 1186, с оценкой критиков — 574, **с обеими — 190**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
-| Фрушка гора | 227 | 95 | 39 |
+| Фрушка гора | 227 | 100 | 40 |
 | Суботичско-Хоргошская пешчара | 76 | 27 | 17 |
 | Банат | 37 | 6 | 4 |
 | Шумадия | 93 | 81 | 25 |
-| Три Моравы и Жупа | 107 | 51 | 14 |
-| Неготинска Крайина | 20 | 33 | 8 |
+| Три Моравы и Жупа | 122 | 53 | 15 |
+| Неготинска Крайина | 20 | 34 | 8 |
 | Топлица | 20 | 16 | 6 |
-| Юго-восток | 31 | 25 | 8 |
+| Юго-восток | 31 | 27 | 8 |
 | Подунавье и Белградский район | 0 | 1 | 0 |
 | Косово и Метохия | 8 | 0 | 0 |
 
@@ -125,6 +125,7 @@ Vivino район еле наскребает пятёрку.
 | Šapat · Atila Chardonnay | 2022 | 95 | decanter |
 | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot | 2017 | 95 | decanter |
 | Veritas Ćuković · Momentum | 2017 | 95 | decanter |
+| Molovin · Vista Hill Red Reserve | 2010 | 94 | decanter |
 | Erdevik · Trianon | 2018 | 94 | decanter |
 | Bikicki · Uncensored | 2020 | 94 | decanter |
 | Erdevik · Stiflers Mom Shiraz | 2020 | 94 | decanter |
@@ -171,11 +172,13 @@ Vivino район еле наскребает пятёрку.
 | Deurić · La Rem Morava Amf. | 2023 | 91 | decanter |
 | Vinčić · Grand Fru | 2020 | 91 | decanter |
 | Bikicki · Uncensored | 2022 | 91 | decanter |
+| Erdevik · Omnibus Lector Chardonnay | 2024 | 91 | decanter |
 | Kovačević · Riesling | 2021 | 91 | decanter |
 | Erdevik · Ex Cathedra Sauvignon Blanc | 2023 | 91 | decanter |
 | Chichateau · Blake Sauvignon Blanc | 2023 | 91 | decanter |
 | Molovin · Inat Traminac | 2020 | 91 | Falstaff |
 | Kovačević · Aurelius Edicija S | 2019 | 90 | Falstaff |
+| Molovin · Plavi Princip | 2013 | 90 | decanter |
 | Deurić · Talas Crveni | 2015 | 90 | decanter |
 | Erdevik · Nostra | 2017 | 90 | decanter |
 | Deurić · Probus | 2016 | 90 | decanter |
@@ -226,9 +229,11 @@ Vivino район еле наскребает пятёрку.
 | Šapat · Atila Cabernet Sauvignon | 2022 | 89 | decanter |
 | Šapat · Cuvée | 2023 | 89 | decanter |
 | Erdevik · Grand Trianon | 2019 | 89 | decanter |
+| Molovin · Crveni Inat | 2010 | 88 | decanter |
 | Erdevik · Trianon Merlot-Cabernet Sauvignon-Syrah | 2015 | 88 | decanter |
 | Kovačević · R Edition Aurelius | 2012 | 88 | decanter |
 | Kiš · Kišova Misterija | 2011 | 88 | decanter |
+| Vinarija Đurđić · Cabernet Franc | 2017 | 88 | decanter |
 | Deurić · Princeps Probus | 2016 | 88 | decanter |
 | Erdevik · Roza Nostra | 2019 | 88 | decanter |
 | Kiš · Kišov Grašac Beli | 2019 | 88 | decanter |
@@ -246,6 +251,7 @@ Vivino район еле наскребает пятёрку.
 | Deurić · Pinot Noir | 2020 | 88 | decanter |
 | Šapat · Chardonnay | 2022 | 88 | decanter |
 | Veritas Ćuković · Bela Harmonija | 2022 | 88 | decanter |
+| Vinarija Đurđić · Grašac Beli | 2022 | 88 | decanter |
 | Chichateau · Blake Sauvignon Blanc | 2023 | 88 | decanter |
 | Erdevik · Trianon Pinot Blanc-Pinot Grigio-Sauvignon Blanc | 2023 | 88 | decanter |
 | Veritas Ćuković · Cuk Cuvée | 2021 | 88 | decanter |
@@ -282,6 +288,7 @@ Vivino район еле наскребает пятёрку.
 | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot | 2016 | 86 | decanter |
 | Molovin · Inat Frankovka | 2019 | 86 | decanter |
 | Molovin · Inat Limited Edition Rajnski Rizling | 2021 | 86 | decanter |
+| Molovin · Crveni Inat | 2010 | 86 | decanter |
 | Deurić · Princeps Probus | 2016 | 86 | decanter |
 
 **Награды**
@@ -304,6 +311,7 @@ Vivino район еле наскребает пятёрку.
 | 2026 | золото | zlato | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 2017 | 
 | 2026 | золото | zlato | Veritas Ćuković · Momentum 2017 | 
 | 2026 | платина | platina | Deurić · La Rem Chardonnay 2023 | 
+| 2026 | серебро | srebro | Erdevik · Omnibus Lector Chardonnay 2024 | 
 | 2026 | серебро | srebro | Chichateau · Chi Chardonnay 2024 | 
 | 2026 | серебро | srebro | Kovačević · Riesling 2021 | 
 | 2026 | серебро | srebro | Deurić · Aksiom 2022 | 
@@ -353,6 +361,7 @@ Vivino район еле наскребает пятёрку.
 | 2024 | бронза | bronza | Erdevik · Geronimo 2021 | 
 | 2024 | бронза | bronza | Šapat · Chardonnay 2022 | 
 | 2024 | бронза | bronza | Veritas Ćuković · Bela Harmonija 2022 | 
+| 2024 | бронза | bronza | Vinarija Đurđić · Grašac Beli 2022 | 
 | 2024 | бронза | bronza | Šapat · Pi' Crveno Premium 2019 | 
 | 2024 | винодельня года | 1 | Kovačević | 
 | 2024 | золото | zlato | Šapat · Atila Chardonnay 2022 | 
@@ -422,6 +431,7 @@ Vivino район еле наскребает пятёрку.
 | 2021 | серебро | srebro | Deurić · Severna Morava 2018 | 
 | 2021 | серебро | srebro | Erdevik · Stifler's Mom Shiraz 2017 | 
 | 2020 | бронза | bronza | Kiš · Kišova Misterija 2011 | 
+| 2020 | бронза | bronza | Vinarija Đurđić · Cabernet Franc 2017 | 
 | 2020 | бронза | bronza | Erdevik · Trianon Merlot-Cabernet Sauvignon-Syrah 2016 | 
 | 2020 | бронза | bronza | Deurić · Princeps Probus 2016 | 
 | 2020 | бронза | bronza | Erdevik · Grand Trianon 2016 | 
@@ -443,7 +453,9 @@ Vivino район еле наскребает пятёрку.
 | 2019 | лучшая малая винодельня | 1 | Bikicki | 
 | 2019 | лучшее игристое | 1 | Deurić · Princeps Brut Nature 2015 | 
 | 2019 | серебро | srebro | Deurić · Talas Crveni 2017 | 
+| 2019 | серебро | srebro | Molovin · Vista Hill Red Reserve 2010 | 
 | 2019 | серебро | srebro | Deurić · Princeps Brut Nature 2015 | 
+| 2018 | бронза | bronza | Molovin · Crveni Inat 2010 | 
 | 2018 | бронза | bronza | Erdevik · Trianon Merlot-Cabernet Sauvignon-Syrah 2015 | 
 | 2018 | бронза | bronza | Kovačević · R Edition Aurelius 2012 | 
 | 2018 | серебро | srebro | Erdevik · Nostra 2017 | 
@@ -455,6 +467,8 @@ Vivino район еле наскребает пятёрку.
 | 2017 | бронза | bronza | Deurić · Pinot Noir 2015 | 
 | 2017 | серебро | srebro | Deurić · Talas Crveni 2015 | 
 | 2016 | бронза | bronza | Kovačević · Aurelius 2012 | 
+| 2016 | бронза | bronza | Molovin · Crveni Inat 2010 | 
+| 2016 | серебро | srebro | Molovin · Plavi Princip 2013 | 
 | 2015 | бронза | bronza | Belo Brdo · Cabernet Franc 2012 | 
 | 2015 | бронза | bronza | Belo Brdo · Alma Mons 2012 | 
 | 2015 | бронза | bronza | Kovačević · Aurelius 2012 | 
@@ -629,6 +643,7 @@ Vivino район еле наскребает пятёрку.
 | 2016 | серебро | srebro | Zvonko Bogdan · Icon Campana Rubimus 2013 | 
 | 2015 | бронза | bronza | Zvonko Bogdan · Cuvée No.1 2012 | 
 | 2015 | бронза | bronza | Tonković · Kadarka Rapsodija 2012 | 
+| 2015 | серебро | srebro | Zvonko Bogdan · Sauvignon blanc 2014 | 
 
 ## Банат
 
@@ -743,7 +758,7 @@ Vivino район еле наскребает пятёрку.
 | Aleksandrović · Rodoslov Grand Reserve | 2019 | 90 | decanter |
 | Aleksandrović · Regent Reserve | 2020 | 90 | decanter |
 | Aleksandrović · Trijumf Rosé Brut | 2019 | 90 | decanter |
-| Matijašević · Belina Inferno | 2022 | 90 | Falstaff |
+| Matijašević · Inferno | 2022 | 90 | Falstaff |
 | Despotika · Beckapaj (Infintiy) Sauvignon Blanc | 2021 | 90 | Falstaff |
 | Despotika · Morava Inoks | 2021 | 90 | Falstaff |
 | Radovanović · Chardonnay Classique | 2020 | 90 | Falstaff |
@@ -789,6 +804,7 @@ Vivino район еле наскребает пятёрку.
 | Aleksandrović · Regent Reserve | 2012 | 86 | decanter |
 | Despotika · Trag | 2013 | 86 | decanter |
 | Despotika · Morava | 2016 | 86 | decanter |
+| Matijašević · Belina | 2019 | 86 | decanter |
 | Aleksandrović · Vožd | 2017 | 86 | decanter |
 | Aleksandrović · Trijumf Terroir | 2020 | 86 | decanter |
 | Tarpoš · Tamjanika | 2021 | 86 | decanter |
@@ -870,6 +886,7 @@ Vivino район еле наскребает пятёрку.
 | 2022 | серебро | srebro | Tarpoš · 1804 2015 | 
 | 2021 | бронза | bronza | Aleksandrović · Rodoslov Grand Reserve 2016 | 
 | 2021 | бронза | bronza | Matijašević · Rock & Rose 2019 | 
+| 2021 | бронза | bronza | Matijašević · Belina 2019 | 
 | 2021 | бронза | bronza | Aleksandrović · Trijumf Terroir 2018 | 
 | 2021 | бронза | bronza | Aleksandrović · Regent Reserve 2017 | 
 | 2021 | бронза | bronza | Aleksandrović · Vožd 2017 | 
@@ -919,9 +936,9 @@ Vivino район еле наскребает пятёрку.
 | Temet · Tri Morave Crveno Reserve | 2009 | 94 | Falstaff |
 | Ivanović · No 1/2 | 2019 | 94 | vino.rs |
 | Temet · Tri Morave Crveno Reserve | 2019 | 94 | Falstaff |
-| Budimir · Svb Rosa | 2009 | 94 | Falstaff |
 | Temet · Beli Kamen Merlot | 2019 | 94 | decanter |
 | Temet · Ergo | 2018 | 94 | decanter |
+| Budimir · Svb Rosa | 2009 | 94 | Falstaff |
 | Ivanović · No ½ | 2018 | 94 | Falstaff |
 | Ivanović · Prokupac | 2017 | 94 | Falstaff |
 | Čokot · Prokupac Radovan 100% | 2020 | 94 | Falstaff |
@@ -935,7 +952,9 @@ Vivino район еле наскребает пятёрку.
 | Vinarija Jovac · Cabernet Sauvignon | 2020 | 92 | decanter |
 | Spasić · Tamjanika | 2021 | 92 | Falstaff |
 | Cilić · Onyx Blanc | 2019 | 92 | Falstaff |
+| Budimir · Angel | 2016 | 92 | Falstaff |
 | Ivanović · Zanos | 2015 | 92 | Falstaff |
+| Budimir · Prokupac boje lila | 2012 | 92 | Falstaff |
 | Ivanović · Tamjanika | 2022 | 92 | Falstaff |
 | Ivanović · No 3/4 Tamjanika | 2021 | 92 | Falstaff |
 | Ivanović · Prokupac | 2021 | 92 | Falstaff |
@@ -1125,6 +1144,7 @@ Vivino район еле наскребает пятёрку.
 | Manastir Bukovo · Chardonnay Oaked | 2021 | 92 | Falstaff |
 | Matalj · Kremen | 2020 | 92 | Falstaff |
 | Matalj · Terasa Chardonnay | 2022 | 92 | Falstaff |
+| Matalj · Bukovski Cuvée | 2019 | 91 | decanter |
 | Matalj · Bukovski Prokupac | 2020 | 91 | decanter |
 | Matalj · Bagrina | 2023 | 91 | decanter |
 | Matalj · Bukovski Cuvée | 2022 | 91 | decanter |
@@ -1133,6 +1153,7 @@ Vivino район еле наскребает пятёрку.
 | Manastir Bukovo · Filigran Reserve Gamay | 2019 | 91 | Falstaff |
 | Matalj · Kremen Kamen Cabernet Sauvignon | 2013 | 90 | decanter |
 | Manastir Bukovo · Filigran Cabernet Sauvignon | 2013 | 90 | decanter |
+| Manastir Bukovo · Merlot | 2015 | 90 | decanter |
 | Matalj · Kremen | 2017 | 90 | decanter |
 | Matalj · Crna Tamjanika | 2021 | 90 | decanter |
 | Matalj · Terasa Sauvignon Blanc | 2022 | 90 | decanter |
@@ -1196,6 +1217,7 @@ Vivino район еле наскребает пятёрку.
 | 2023 | бронза | bronza | Matalj · Zamna 2020 | 
 | 2023 | бронза | bronza | Matalj · Kremen 2020 | 
 | 2023 | лучшее из местных сортов, красное | 1 | Matalj · Bukovski Cuvee 2019 | 
+| 2023 | серебро | srebro | Matalj · Bukovski Cuvée 2019 | 
 | 2023 | серебро | srebro | Matalj · Terasa Sauvignon Blanc 2022 | 
 | 2022 | бронза | bronza | Matalj · Terasa Chardonnay 2019 | 
 | 2022 | бронза | bronza | Matalj · Bukovski Cuvée 2018 | 
@@ -1216,6 +1238,7 @@ Vivino район еле наскребает пятёрку.
 | 2019 | бронза | bronza | Matalj · Kremen Cabernet Sauvignon 2016 | 
 | 2019 | бронза | bronza | Manastir Bukovo · Filigran Гаме 2015 | 
 | 2019 | бронза | bronza | Matalj · Kremen Kamen Cabernet Sauvignon 2015 | 
+| 2018 | серебро | srebro | Manastir Bukovo · Merlot 2015 | 
 | 2017 | бронза | bronza | Matalj · Kremen Cabernet Sauvignon 2015 | 
 | 2017 | серебро | srebro | Matalj · Terasa Chardonnay 2013 | 
 | 2017 | серебро | srebro | Matalj · Kremen Kamen Cabernet Sauvignon 2013 | 
@@ -1300,6 +1323,8 @@ Vivino район еле наскребает пятёрку.
 | Aleksić · Kardas Cabernet Sauvignon | 2021 | 92 | decanter |
 | Aleksić · Biser Extra Brut | 2016 | 91 | Falstaff |
 | Aleksić · Žuti Cvet Tamjanika | 2025 | 91 | decanter |
+| Dzervin · Trifun Grand Cabernet Sauvignon | 2019 | 91 | decanter |
+| Aleksić · Bonaca Limited | 2014 | 90 | decanter |
 | Aleksić · Arno Sauvignon Blanc | 2015 | 90 | decanter |
 | Aleksić · Kardaş Limited Cabernet Sauvignon | 2012 | 90 | decanter |
 | Aleksić · Žuti Cvet Tamjanika | 2017 | 90 | decanter |
@@ -1315,12 +1340,14 @@ Vivino район еле наскребает пятёрку.
 | Aleksić · Prokupac | 2021 | 88 | decanter |
 | Aleksić · Zuti Cvet Extra Brut | 2022 | 88 | decanter |
 | Aleksić · Morava | 2025 | 88 | decanter |
+| Dzervin · Trifun Grand Cabernet Sauvignon | 2019 | 88 | decanter |
 | Aleksić · Zuti Cvet Penusavo | 2015 | 87 | decanter |
 | Aleksić · Zuti Cvet Tamjanika | 2019 | 87 | decanter |
 | Aleksić · Temperament Merlot | 2015 | 87 | decanter |
 | Aleksić · Bonaca Chardonnay | 2021 | 87 | decanter |
 | Aleksić · Zuti Cvet | 2023 | 87 | decanter |
 | Aleksić · Arno Sauvignon Blanc | 2023 | 87 | decanter |
+| Dzervin · Trifun Grand Cabernet Sauvignon | 2019 | 87 | decanter |
 | Aleksić · Zuti Cvet Tamjanica | 2024 | 87 | decanter |
 | Aleksić · Prokupac | 2021 | 87 | decanter |
 | Aleksić · Kardaš | 2013 | 86 | decanter |
@@ -1337,14 +1364,17 @@ Vivino район еле наскребает пятёрку.
 | Год | Категория | Место | Кому |
 |---|---|---|---|
 | 2026 | бронза | bronza | Aleksić · Morava 2025 | 
+| 2026 | бронза | bronza | Dzervin · Trifun Grand Cabernet Sauvignon 2019 | 
 | 2026 | бронза | bronza | Aleksić · Zuti Cvet Tamjanika Extra Brut 2023 | 
 | 2026 | серебро | srebro | Aleksić · Žuti Cvet Tamjanika 2025 | 
 | 2025 | бронза | bronza | Aleksić · Zuti Cvet Tamjanica 2024 | 
 | 2025 | бронза | bronza | Aleksić · Zuti Cvet Extra Brut 2022 | 
+| 2025 | серебро | srebro | Dzervin · Trifun Grand Cabernet Sauvignon 2019 | 
 | 2025 | серебро | srebro | Aleksić · Kardas Cabernet Sauvignon 2021 | 
 | 2024 | бронза | bronza | Aleksić · Prokupac 2021 | 
 | 2024 | бронза | bronza | Aleksić · Zuti Cvet 2023 | 
 | 2024 | бронза | bronza | Aleksić · Arno Sauvignon Blanc 2023 | 
+| 2024 | бронза | bronza | Dzervin · Trifun Grand Cabernet Sauvignon 2019 | 
 | 2024 | серебро | srebro | Aleksić · Kardas Limited Cabernet Sauvignon 2021 | 
 | 2023 | бронза | bronza | Aleksić · Prokupac 2021 | 
 | 2023 | бронза | bronza | Aleksić · Kontra 2020 | 
@@ -1374,6 +1404,7 @@ Vivino район еле наскребает пятёрку.
 | 2017 | серебро | srebro | Aleksić · Kardaş Limited Cabernet Sauvignon 2012 | 
 | 2016 | бронза | bronza | Aleksić · Kardaš Limited 2011 | 
 | 2016 | бронза | bronza | Aleksić · Kardaš 2013 | 
+| 2016 | серебро | srebro | Aleksić · Bonaca Limited 2014 | 
 | 2015 | лучшая национальная винодельня | 1 | Aleksić | 
 | 2015 | серебро | srebro | Aleksić · Amanet 2011 | 
 
@@ -1402,12 +1433,10 @@ Vivino район еле наскребает пятёрку.
 - BT Winery · Mister Marselan 2021 — 95 [decanter]
 - Virtus · Morava 2023 — 95 [decanter]
 - La Gora · Bello 2025 — 95 [decanter]
-- Molowinery · Vista Hill Red Reserve 2010 — 94 [decanter]
 - Винарија Тришић (Vinarija Trišić) · Dimasid 2013 — 94 [decanter]
 - Stemina · Draga 2008 — 94 [decanter]
 - Dibonis Winery · Di Icewine 2020 — 94 [decanter]
-- Vinarija Dragić · Crni Biser 2023 — 94 [decanter]
-- Vino Budimir · Svb Rosa 2009 — 94 [Falstaff]
+- Драгић Винарија (Vina Dragic) · Crni Biser 2023 — 94 [decanter]
 - Virtus · Pinot Grigio 2024 — 93 [decanter]
 - Vinarija Frug · Signum Cabernet Sauvignon 2021 — 93 [decanter]
 - Dolina · Cuveé Barrique 2019 — 93 [decanter]
@@ -1415,7 +1444,7 @@ Vivino район еле наскребает пятёрку.
 - Veritas · Momentum Cabernet Sauvignon 2017 — 93 [decanter]
 - Vinarija Lastar · Triangl Pinot Noir 2017 — 92 [decanter]
 - Vinarija Frunza Aglaja · Dentelle 2016 — 92 [decanter]
-- Vista Hill Plus · White Reserve 2012 — 92 [decanter]
+- Vista Hill · White Reserve 2012 — 92 [decanter]
 - Virtus · Credo Beli 2019 — 92 [decanter]
 - Vinarija Sokolov Zamak · Moscato Giallo 2021 — 92 [decanter]
 - Vinarija Sokolov Zamak · Marselan 2019 — 92 [decanter]
@@ -1429,12 +1458,10 @@ Vivino район еле наскребает пятёрку.
 - Virtus · Credo 2013 — 92 [decanter]
 - Vinarija Frug · Signum Chardonnay 2023 — 92 [decanter]
 - Vinarija DeLena · 1903 Merlot 2017 — 92 [Falstaff]
-- Vino Budimir · Angel 2016 — 92 [Falstaff]
-- Vino Budimir · Prokupac boje lila 2012 — 92 [Falstaff]
 - Vinarija Jeremic · Kanon Merlot Cabernet Sauvignon 2020 — 92 [Falstaff]
 - Josic Winery · Zmajevac Tamjanika 2020 — 92 [Falstaff]
 - Josic Winery · Zmajevac Prokupac 2018 — 92 [Falstaff]
-- Virtus W · Prokupac 2016 — 91 [decanter]
+- Virtus · Prokupac 2016 — 91 [decanter]
 - Podrum Janko · Crveni Zapis 2016 — 91 [decanter]
 - Podrum Janko · Zavet Stari 2016 — 91 [decanter]
 - Virtus · Credo 2017 — 91 [decanter]
@@ -1443,7 +1470,6 @@ Vivino район еле наскребает пятёрку.
 - Podrum Stari Hrast · Selekcija Merlot 2017 — 91 [decanter]
 - Reljić Vinarija · Rebus Reserve 2019 — 91 [decanter]
 - Vinarija Lastar · Sofijin Izbor Pinot Noir 2019 — 91 [decanter]
-- Matalj Vainarija · Bukovski Cuvée 2019 — 91 [decanter]
 - Винарија Ступови (Vinarija Stupovi) · Merlot 2021 — 91 [decanter]
 - Vinarija Stanković · Cabernet Sauvignon 2021 — 91 [decanter]
 - Virtus · Prokupac 2020 — 91 [decanter]
@@ -1451,26 +1477,21 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Savic · Merlot 2021 — 91 [decanter]
 - Vinarija Komuna · Rara Avis 2020 — 91 [decanter]
 - Virtus · Marselan 2020 — 91 [decanter]
-- Vinarija Dragić · Beli Biser 2022 — 91 [decanter]
+- Драгић Винарија (Vina Dragic) · Beli Biser 2022 — 91 [decanter]
 - Vinarija Frug · Signum Syrah 2022 — 91 [decanter]
 - Vinarija Stanković · Chardonnay 2024 — 91 [decanter]
-- Chardonnay · Omnibus Lector Chardonnay 2024 — 91 [decanter]
 - Vinarija Frug · Pinot Noir 2022 — 91 [decanter]
 - Vinarija Imperator · Constantius 2023 — 91 [decanter]
-- Vinarija Dragić · Mitra 2025 — 91 [decanter]
+- Драгић Винарија (Vina Dragic) · Mitra 2025 — 91 [decanter]
 - Dolina · Barrique Xix Reserve 2019 — 91 [decanter]
 - Virtus · Credo 2017 — 91 [decanter]
-- Podrum Džervin 1927 · Trifun Grand Cabernet Sauvignon 2019 — 91 [decanter]
 - PIK Oplenac · Monarh Immortal S 2017 — 91 [Falstaff]
 - Vinarija Jeremic · Sonata Sauvignon Blanc 2021 — 91 [Falstaff]
 - Vinarija Fleur D'Oranger · Grof Muskat Krokan 2019 — 91 [Falstaff]
 - Virtus · Credo 2013 — 90 [decanter]
-- Molowinery · Plavi Princip 2013 — 90 [decanter]
-- Winery Aleksić Doo · Bonaca Limited 2014 — 90 [decanter]
 - Podrum Janko · Vrtlog 2015 — 90 [decanter]
 - Vinarija Dumo · Pinot Noir 2015 — 90 [decanter]
-- Manastira Bukovo · Merlot 2015 — 90 [decanter]
-- Virtus W · Pinot Grigio 2017 — 90 [decanter]
+- Virtus · Pinot Grigio 2017 — 90 [decanter]
 - Podrum Janko · Zavet Stari 2015 — 90 [decanter]
 - Virtus · Marselan 2016 — 90 [decanter]
 - Pusula · Traminac 2017 — 90 [decanter]
@@ -1491,7 +1512,7 @@ Vivino район еле наскребает пятёрку.
 - Château Prince · Velika Morava 2021 — 90 [decanter]
 - Art Et Vinum · Meduza 2021 — 90 [decanter]
 - Podrum Janko · Bifora 2020 — 90 [decanter]
-- Vinarija Dragić · Crni Biser 2020 — 90 [decanter]
+- Драгић Винарија (Vina Dragic) · Crni Biser 2020 — 90 [decanter]
 - Manufaktura Spasić · Rebo 2020 — 90 [decanter]
 - Traško Vinarija · Fabulous Cabernet Franc 2021 — 90 [decanter]
 - Vinarija Milićević · Vladavina Icone Merlot 2021 — 90 [decanter]
@@ -1499,8 +1520,8 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Stanković · Cabernet Sauvignon 2022 — 90 [decanter]
 - Драгић Винарија (Vina Dragic) · Nemirac 2022 — 90 [decanter]
 - Vinarija Sokolov Zamak · Tamjanika 2022 — 90 [decanter]
-- Vinarija Dragić · Carski Drum Manzoni 2023 — 90 [decanter]
-- Vinarija Dragić · Crni Biser 2023 — 90 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Manzoni 2023 — 90 [decanter]
+- Драгић Винарија (Vina Dragic) · Crni Biser 2023 — 90 [decanter]
 - Vinarija Frug · Sauvignon Blanc 2024 — 90 [decanter]
 - Gora · Grašac 2024 — 90 [decanter]
 - Николић Неyзински (Nikolićh Neuzinsky) · Monah Cabernet Franc-Merlot 2020 — 90 [decanter]
@@ -1510,12 +1531,12 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Gnezdo · Belo 2024 — 90 [decanter]
 - Vinarija Frug · Signum Chardonnay 2024 — 90 [decanter]
 - Virtus · Marselan 2022 — 90 [decanter]
-- Vinarija Dragić · Carski Drum Cabernet Franc 2023 — 90 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Cabernet Franc 2023 — 90 [decanter]
 - Vinarija Stanković · Cabernet Sauvignon 2023 — 90 [decanter]
 - Vinarija Zorča · Velika Dusa Merlot 2019 — 90 [decanter]
 - Винарија Тришић (Vinarija Trišić) · Trišino 2020 — 90 [decanter]
 - Zmajevac · Cuvée 2017 — 90 [decanter]
-- Vinarija Dragić · Carski Drum Manzoni 2023 — 90 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Manzoni 2023 — 90 [decanter]
 - Vinarija Frug · Signum Chardonnay 2022 — 90 [decanter]
 - Vinarija DeLena · 70/30 Sauvignon Blanc /Semillon 2020 — 90 [Falstaff]
 - ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery) · Aglaja Cabernet Sauvignon 2015 — 89 [decanter]
@@ -1527,7 +1548,7 @@ Vivino район еле наскребает пятёрку.
 - Virtus · Prokupac 2018 — 89 [decanter]
 - Vinarija Fragaria · Fragari Votazi 2019 — 89 [decanter]
 - Marselan · Marselan 2019 — 89 [decanter]
-- Trilogija Vinery · Pečat Grand Reserve 2017 — 89 [decanter]
+- Трилогия Винария - Vinarija Trilogija · Pečat Grand Reserve 2017 — 89 [decanter]
 - Драгић Винарија (Vina Dragic) · Randes 2021 — 89 [decanter]
 - Vinarija Lastar · Triangl Sauvignon-Viognier 2020 — 89 [decanter]
 - Vinarija Mrdjanin · Family Edition Probus 2020 — 89 [decanter]
@@ -1538,7 +1559,7 @@ Vivino район еле наскребает пятёрку.
 - Podrum Pevac · Gušt 2023 — 89 [decanter]
 - Karić Vinarija · Adria Belo 2023 — 89 [decanter]
 - Vinarija Stanković · Chardonnay 2023 — 89 [decanter]
-- Krstašica · Konekicja Sauvignon Blanc 2023 — 89 [decanter]
+- Krstašica Doo · Konekicja Sauvignon Blanc 2023 — 89 [decanter]
 - Vinarija Frug · Signum Chardonnay 2023 — 89 [decanter]
 - Breg · Tamjanika 2024 — 89 [decanter]
 - Vinarija Grumen · Morava 2024 — 89 [decanter]
@@ -1553,8 +1574,7 @@ Vivino район еле наскребает пятёрку.
 - PIK Oplenac · Constanta Muse Sauvignon Blanc 2021 — 89 [Falstaff]
 - PIK Oplenac · Constanta Muse Rose 2019 — 89 [Falstaff]
 - Podrum Janko · Misija Chardonnay 2013 — 88 [decanter]
-- Bacina Vino · Dolina XII  — 88 [decanter]
-- Molowinery · Crveni Inat 2010 — 88 [decanter]
+- Podrum Bačina · Dolina XII  — 88 [decanter]
 - Virtus · Gewürztraminer 2014 — 88 [decanter]
 - Vinarija Komuna · Chardonnay 2015 — 88 [decanter]
 - Virtus · Marselan 2015 — 88 [decanter]
@@ -1566,11 +1586,10 @@ Vivino район еле наскребает пятёрку.
 - PIK Oplenac · Monarh S 2015 — 88 [decanter]
 - Podrum Janko · Zapis Testament 2016 — 88 [decanter]
 - Nikad Nije Kasno · Signature 2016 — 88 [decanter]
-- Winery Djurdjic · Cabernet Franc 2017 — 88 [decanter]
 - Vinarija Dumo · Pinot Noir 2017 — 88 [decanter]
 - PIK Oplenac · Monarh Immortal S 2017 — 88 [decanter]
 - Vinarija DeLena · 1903 Merlot 2016 — 88 [decanter]
-- Vinarija Dragić · Carski Drum Manzoni 2019 — 88 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Manzoni 2019 — 88 [decanter]
 - Probus Vineyards · Traminac 2018 — 88 [decanter]
 - Vinarija Eden · Chardonnay 2019 — 88 [decanter]
 - Vinarija Aven · Balance 2018 — 88 [decanter]
@@ -1578,7 +1597,7 @@ Vivino район еле наскребает пятёрку.
 - Podrum Janko · Bifora 2017 — 88 [decanter]
 - Grabak · Prva Lasta Prokupac 2021 — 88 [decanter]
 - BT Winery · Kings Crown 2020 — 88 [decanter]
-- Nikolich Neuzinsky Vineyards · The Secret Code of Our Terroir 2020 — 88 [decanter]
+- Николић Неyзински (Nikolićh Neuzinsky) · The Secret Code of Our Terroir 2020 — 88 [decanter]
 - Vinarija Aven · Balance 2019 — 88 [decanter]
 - Max-Ex Doo · Rebus Crveni 2019 — 88 [decanter]
 - Podrum Petrović · Cabernet Sauvignon 2019 — 88 [decanter]
@@ -1586,11 +1605,11 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Komazec · Palava 2021 — 88 [decanter]
 - Virtus · Sauvignon Blanc 2021 — 88 [decanter]
 - Vinarija Lastar · Chardonnay 2018 — 88 [decanter]
-- Nikolich Neuzinsky Vineyards · Santa Maria 2021 — 88 [decanter]
+- Николић Неyзински (Nikolićh Neuzinsky) · Santa Maria 2021 — 88 [decanter]
 - Vinarija Eden · Genesis 2019 — 88 [decanter]
 - Reljić Vinarija · Rebus Crveni 2019 — 88 [decanter]
 - Vinarija Zaba · Barrique Merlot 2019 — 88 [decanter]
-- Probus Vineyards CCLXXX · Magis 2017 — 88 [decanter]
+- Probus Vineyards · Magis 2017 — 88 [decanter]
 - Château Prince · Chateau Shiraz 2021 — 88 [decanter]
 - Драгић Винарија (Vina Dragic) · Aurora 2020 — 88 [decanter]
 - Tri Medje I Oblak · Bigfoot Chardonnay 2021 — 88 [decanter]
@@ -1598,10 +1617,9 @@ Vivino район еле наскребает пятёрку.
 - Podrum Stari Hrast · Sauvignon Blanc 2021 — 88 [decanter]
 - Virtus · Marselan 2020 — 88 [decanter]
 - Krstašica Doo · Konekcija Merlot 2020 — 88 [decanter]
-- Krstašica · Konekcija Merlot 2021 — 88 [decanter]
+- Krstašica Doo · Konekcija Merlot 2021 — 88 [decanter]
 - BT Winery · Mister Marselan 2022 — 88 [decanter]
 - Virtus · Credo Beli 2022 — 88 [decanter]
-- Winery Djurdjic · Grašac Beli 2022 — 88 [decanter]
 - Karić Vinarija · Adria Belo 2022 — 88 [decanter]
 - Grabak · Modrovrana Cabernet Sauvignon 2018 — 88 [decanter]
 - Драгић Винарија (Vina Dragic) · Kibic 2022 — 88 [decanter]
@@ -1628,7 +1646,6 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Sokolov Zamak · Marselan 2021 — 88 [decanter]
 - BT Winery · Mister Marselan 2022 — 88 [decanter]
 - Vinarija Sokolov Zamak · Chardonnay 2023 — 88 [decanter]
-- Podrum Džervin 1927 · Trifun Grand Cabernet Sauvignon 2019 — 88 [decanter]
 - Podrum Janko · Misija 2016 — 87 [decanter]
 - Atos-Fructum · The 2015 — 87 [decanter]
 - Probus Vineyards · Magis 2017 — 87 [decanter]
@@ -1655,26 +1672,25 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Eden · Cabernet Franc 2019 — 87 [decanter]
 - Podrum Pevac · Zagrljaj 2019 — 87 [decanter]
 - Virtus · Prokupac 2019 — 87 [decanter]
-- Probus Vineyards CCLXXX · Belim 2017 — 87 [decanter]
+- Probus Vineyards · Belim 2017 — 87 [decanter]
 - Vinarija Gamanović · Cabernet Sauvignon 2020 — 87 [decanter]
 - Virtus · Pinot Grigio 2022 — 87 [decanter]
-- Vinarija Dragić · Carski Drum Rajnski Rizling 2020 — 87 [decanter]
-- Vinarija Manastira Studenica · 1186 Prokupac 2020 — 87 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Rajnski Rizling 2020 — 87 [decanter]
+- Манастир Студеница (Manastir Studenica) · 1186 Prokupac 2020 — 87 [decanter]
 - Vinarija Fragaria · Votazi 2020 — 87 [decanter]
 - Vinarija Bora · Frenk 2020 — 87 [decanter]
 - Vinarija Aven · Cabernet Sauvignon 2021 — 87 [decanter]
 - Podrum Pevac · Prokupac 2021 — 87 [decanter]
 - Tref Line · Pirg Sauvignon Blanc 2021 — 87 [decanter]
 - Vinarija Fragaria · Jagoda 2022 — 87 [decanter]
-- Vinarija Manastira Studenica · Tamjanika Bela Reč 2022 — 87 [decanter]
-- Vinarija Dragić · Carski Drum Chardonnay 2022 — 87 [decanter]
+- Манастир Студеница (Manastir Studenica) · Tamjanika Bela Reč 2022 — 87 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Chardonnay 2022 — 87 [decanter]
 - Vinarija Stanković · Chardonnay 2022 — 87 [decanter]
 - Драгић Винарија (Vina Dragic) · Randes 2022 — 87 [decanter]
 - Vinarija Sokolov Zamak · Chardonnay 2023 — 87 [decanter]
-- Podrum Džervin 1927 · Trifun Grand Cabernet Sauvignon 2019 — 87 [decanter]
 - Podrum Janko · Zlatno Runo Cabernet Sauvignon 2019 — 87 [decanter]
 - Vinarija Aven · Cabernet Sauvignon 2019 — 87 [decanter]
-- Vinarija Dragić · Carski Drum Manzoni 2024 — 87 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Manzoni 2024 — 87 [decanter]
 - Breg · Sila 2024 — 87 [decanter]
 - Vinarija Frug · Grašac 2024 — 87 [decanter]
 - Virtus · Prokupac 2020 — 87 [decanter]
@@ -1693,33 +1709,32 @@ Vivino район еле наскребает пятёрку.
 - Vinarija Rajić · Monika 2023 — 87 [decanter]
 - Vinarija Lastar · Sofijin Izbor Pinot Noir 2023 — 87 [decanter]
 - Natural Grape Concept · Prokupac 2023 — 87 [decanter]
-- Vinarija Orlić · MMXXIII Shiraz 2023 — 87 [decanter]
+- Орлић Породична Винарија - Orlić Family Winery · MMXXIII Shiraz 2023 — 87 [decanter]
 - The Sparkling Winery · The Blanc de Noirs 2023 — 87 [decanter]
 - Vinarija Imperator · Frušet Rosé Brut 2022 — 87 [decanter]
-- Vinarija Dragić · Carski Drum Rajnski Rizling 2020 — 87 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Rajnski Rizling 2020 — 87 [decanter]
 - Grabak · Prokupac 2020 — 87 [decanter]
-- Vinarija Dragić · Carski Drum Manzoni 2024 — 87 [decanter]
-- Vinarija Dragić · Carski Drum Sauvignon Blanc 2024 — 87 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Manzoni 2024 — 87 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Sauvignon Blanc 2024 — 87 [decanter]
 - Vinarija Frug · Signum Syrah 2022 — 87 [decanter]
 - Mcculloch Wines · Mcc Traminac 2013 — 86 [decanter]
 - Vinarija Lastar · Chardonnay 2015 — 86 [decanter]
 - Virtus · Credo Beli 2015 — 86 [decanter]
 - Podrum Janko · Smederevka 2017 — 86 [decanter]
-- Virtus W · Gewürztraminer 2017 — 86 [decanter]
+- Virtus · Gewürztraminer 2017 — 86 [decanter]
 - Vinarija Lastar · Chardonnay 2016 — 86 [decanter]
 - Podrum Janko · Vrtlog 2016 — 86 [decanter]
 - Grabak · Modrovrana 2015 — 86 [decanter]
-- Virtus W · Pinot Noir 2015 — 86 [decanter]
+- Virtus · Pinot Noir 2015 — 86 [decanter]
 - PIK Oplenac · Villa Muscat Ottonel 2015 — 86 [decanter]
 - Vinarija Komuna · Chardonnay 2017 — 86 [decanter]
 - Pusula · Cabernet 2015 — 86 [decanter]
 - ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery) · Aglaja Dantelle Cabernet Sauvignon 2016 — 86 [decanter]
 - Nikad Nije Kasno · Simfonija 2017 — 86 [decanter]
-- Vista Hills Plus · Premium 2019 — 86 [decanter]
-- Vinarija Dragić · Carski Drum Sauvignon Blanc 2019 — 86 [decanter]
+- Vista Hill · Premium 2019 — 86 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Sauvignon Blanc 2019 — 86 [decanter]
 - Virtus · Sauvignon Blanc 2019 — 86 [decanter]
 - Vinarija Aven · Cabernet Sauvignon 2018 — 86 [decanter]
-- Belina · Belina 2019 — 86 [decanter]
 - Rubinov · Prokupac 2018 — 86 [decanter]
 - BT Winery · King's Crown 2018 — 86 [decanter]
 - Prokupac · Prokupac 2018 — 86 [decanter]
@@ -1735,17 +1750,16 @@ Vivino район еле наскребает пятёрку.
 - Драгић Винарија (Vina Dragic) · Kibic 2021 — 86 [decanter]
 - Vinarija Podrum Danguba · Ponovo Naše Tamjanika 2021 — 86 [decanter]
 - Vinarija Gamanović · Bela Tamjanika 2021 — 86 [decanter]
-- Vinarija Dragić · Carski Drum Cabernet Franc 2020 — 86 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Cabernet Franc 2020 — 86 [decanter]
 - Manufaktura Spasić · Krivac 2020 — 86 [decanter]
 - Vinarija Lastar · Triangl Sauvignon-Viognier 2021 — 86 [decanter]
-- Salaš Gnezdo Doo Bečej · Genzdo Muskat Krokan 2022 — 86 [decanter]
-- Krstašica · Konekicja Chardonnay 2023 — 86 [decanter]
-- Vinarija Dragić · Carski Drum Sauvignon Blanc 2024 — 86 [decanter]
+- Vinarija Gnezdo · Genzdo Muskat Krokan 2022 — 86 [decanter]
+- Krstašica Doo · Konekicja Chardonnay 2023 — 86 [decanter]
+- Драгић Винарија (Vina Dragic) · Carski Drum Sauvignon Blanc 2024 — 86 [decanter]
 - Château Prince · Premium Shiraz 2021 — 86 [decanter]
-- Vinarija Dragić · Crni Biser 2024 — 86 [decanter]
+- Драгић Винарија (Vina Dragic) · Crni Biser 2024 — 86 [decanter]
 - Vinarija Milićević · Vladavina Riesling-Grašac 2024 — 86 [decanter]
 - Tri Medje I Oblak · Vagabundo Sauvignon Blanc 2025 — 86 [decanter]
 - Gardijan · Stigma Chardonnay 2023 — 86 [decanter]
 - Virtus · Credo 2013 — 86 [decanter]
-- Molowinery · Crveni Inat 2010 — 86 [decanter]
 - Virtus · Credo 2017 — 86 [decanter]

@@ -59,13 +59,23 @@ IMENA = [
 
 
 def chitat():
-    zapisi = []
-    put = os.path.join(RYADOM, "vivino-zapisi.jsonl")
-    for stroka in open(put, encoding="utf-8"):
-        if stroka.strip():
-            zapisi.append(json.loads(stroka))
-    karta = json.load(open(os.path.join(RYADOM, "raion-hozyaistv.json"),
-                           encoding="utf-8"))["hozyaistva"]
+    """Читаем сведённые таблицы, а не сырьё.
+
+    Раньше здесь лежал разбор ручных выписок. После сплошного сбора это
+    неверно: район и канонические имена хозяйств живут в `hozyaistva`,
+    а оценки — в `ocenki`. Сырьё остаётся входом для `sobrat-tablicy.py`,
+    а отчёты строятся по таблицам.
+    """
+    def tablica(imya):
+        return [json.loads(s) for s in
+                open(os.path.join(RYADOM, imya), encoding="utf-8") if s.strip()]
+
+    zapisi = [{"hozyaistvo": o["hozyaistvo"], "vino": o["vino"],
+               "ocenka": o["ball"], "chislo_ocenok": o["vyborka"]}
+              for o in tablica("ocenki.jsonl") if o["istochnik"] == "vivino"]
+    karta = {h["hozyaistvo"]: {"raion": h["raion_knigi"],
+                               "istochnik": h["raion_istochnik"]}
+             for h in tablica("hozyaistva.jsonl")}
     return zapisi, karta
 
 

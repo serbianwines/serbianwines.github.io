@@ -88,13 +88,22 @@ def main():
     # Одно измерение на источник, вино и урожай
     pary, povtory = set(), []
     for o in ocenki:
-        para = (o["klyuch_vina"], o["istochnik"], o["god"])
+        # Одно вино может брать медаль в разные годы конкурса — это
+        # разные события, а не повтор измерения.
+        para = (o["klyuch_vina"], o["istochnik"], o["god"], o.get("konkurs_god"))
         if para in pary:
             povtory.append(o)
         pary.add(para)
-    proverka("повтор измерения (источник + вино + урожай)", povtory,
+    proverka("повтор измерения (источник + вино + урожай + год конкурса)", povtory,
              lambda o: "%s · %s [%s %s]" % (o["hozyaistvo"], o["vino"],
                                             o["istochnik"], o["god"] or "все"))
+
+    vidano_hoz, dubli_hoz = set(), []
+    for h in hozyaistva:
+        if h["klyuch"] in vidano_hoz:
+            dubli_hoz.append(h)
+        vidano_hoz.add(h["klyuch"])
+    proverka("дубли ключей хозяйств", dubli_hoz, lambda h: h["hozyaistvo"])
 
     # Шкалы и диапазоны
     ne_v_shkale = []
@@ -125,8 +134,10 @@ def main():
     bez_raiona = [h for h in hozyaistva if not h["raion_knigi"]]
     bez_vyborki = [o for o in ocenki if o["istochnik"] == "vivino" and not o["vyborka"]]
     print("не поломка, но знать стоит:")
-    print("   хозяйств без района книги: %d — %s"
-          % (len(bez_raiona), ", ".join(h["hozyaistvo"] for h in bez_raiona) or "нет"))
+    primery = ", ".join(h["hozyaistvo"] for h in bez_raiona[:8])
+    print("   хозяйств без района книги: %d из %d%s"
+          % (len(bez_raiona), len(hozyaistva),
+             (" — например: " + primery) if primery else ""))
     print("   оценок Vivino без числа отзывов: %d из %d"
           % (len(bez_vyborki),
              sum(1 for o in ocenki if o["istochnik"] == "vivino")))

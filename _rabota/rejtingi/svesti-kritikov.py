@@ -88,14 +88,17 @@ def main():
     if dovody.otchet:
         dovody.markdown = True
 
-    zapisi = [json.loads(s) for s in
-              open(os.path.join(RYADOM, "kritiki-zapisi.jsonl"), encoding="utf-8")
-              if s.strip()]
-    nagrady = [json.loads(s) for s in
-               open(os.path.join(RYADOM, "nagrady-zapisi.jsonl"), encoding="utf-8")
-               if s.strip()]
-    karta = json.load(open(os.path.join(RYADOM, "raion-hozyaistv.json"),
-                           encoding="utf-8"))["hozyaistva"]
+    def tablica(imya):
+        return [json.loads(s) for s in
+                open(os.path.join(RYADOM, imya), encoding="utf-8") if s.strip()]
+
+    # Из таблиц, а не из сырья: там канонические имена хозяйств и район.
+    zapisi = [dict(o, ball=o["ball"], god=o["god"])
+              for o in tablica("ocenki.jsonl") if o["istochnik"] != "vivino"]
+    nagrady = tablica("nagrady.jsonl")
+    karta = {h["hozyaistvo"]: {"raion": h["raion_knigi"],
+                               "istochnik": h["raion_istochnik"]}
+             for h in tablica("hozyaistva.jsonl")}
 
     po_raionam = {kod: [] for kod, _ in IMENA}
     nagrady_raionov = {kod: [] for kod, _ in IMENA}

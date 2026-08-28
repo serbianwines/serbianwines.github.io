@@ -278,6 +278,43 @@ def _bazovyj_klyuch(imya):
     return "-".join(chasti) or k
 
 
+# ------------------------------------------------- кадастровые имена
+# В официальном тексте рејонизације кадастровые общины перечислены не
+# списком, а прозой: «Северни део: делови катастарских општина Речка,
+# Мокрање, …, Рајац. Јужни део: делови катастарских општина Браћевац, …».
+# При разборе по запятым такая фраза целиком попадает в одно имя, и место
+# теряется: из-за этого Рајац — то самое село роглевачко-рајачких пивниц —
+# в карте отсутствовал, а Vinarija Raj уезжала в Чачанско-краљевачки рејон.
+# Слипшихся строк 58 из 2162; здесь они разбираются обратно на имена.
+POYASNENIE = re.compile(
+    r"(?:^|\s)(?:severni|južni|istočni|zapadni|centralni|severoistočni"
+    r"|severozapadni|jugoistočni|jugozapadni|ljiški)\s+deo(?:\s*\([^)]*\))?\s*:\s*"
+    r"|(?:^|\s)(?:i\s+)?(?:kao\s+i\s+)?(?:cel\w+\s+)?(?:delovi?e?\s+)?"
+    r"katastarsk\w+\s+opštin\w*\s+"
+    r"|(?:^|\s)oaza\s+.*?\s+(?:obuhvata|nalazi\s+se\s+na)\s+", re.I)
+HVOST_MESTA = re.compile(r"\s*[–-]?\s*(van\s+)?(varošica|varoš|grad|selo)$", re.I)
+NAPRAVLENIE = re.compile(r"^(severni|južni|istočni|zapadni|centralni|severoistočni"
+                         r"|severozapadni|jugoistočni|jugozapadni|ljiški)\s+deo$", re.I)
+
+
+def imena_kadastra(stroka):
+    """Имена кадастровых общин из строки официального текста."""
+    kuski = re.split(r"\.\s+", stroka)
+    while True:                       # пояснения бывают вложены друг в друга
+        novye = [c for k in kuski for c in POYASNENIE.split(k)]
+        if novye == kuski:
+            break
+        kuski = novye
+    imena = []
+    for kus in kuski:
+        kus = (kus or "").strip().strip(".,:;")
+        kus = re.sub(r"\s*\([^)]*\)\s*$", "", kus).strip()
+        kus = HVOST_MESTA.sub("", kus).strip()
+        if kus and not NAPRAVLENIE.match(kus):
+            imena.append(kus)
+    return imena
+
+
 # ---------------------------------------------------------------- справочник
 def spravochnik():
     """Справочник и четыре карты мест, по убыванию достоверности.
@@ -293,7 +330,7 @@ def spravochnik():
     IMYA_REJONA.update({r["kod"]: r["rejon"] for r in d["rejony"]})
 
     karty = {"vinogorje": {}, "opstina": {}, "selo": {}, "okrug": {},
-             "spravochnik": {}}
+             "spravochnik": {}, "okrug_vse": {}}
     for r in d["rejony"]:
         for o in r["opstine"]:
             karty["opstina"].setdefault(klyuch_mesta(o), set()).add(
@@ -302,8 +339,9 @@ def spravochnik():
             karty["vinogorje"].setdefault(klyuch_mesta(v["vinogorje"]),
                                           set()).add((r["rejon"], v["vinogorje"]))
             for o in v["katastarske_opstine"]:
-                karty["selo"].setdefault(klyuch_mesta(o), set()).add(
-                    (r["rejon"], v["vinogorje"]))
+                for imya in imena_kadastra(o):
+                    karty["selo"].setdefault(klyuch_mesta(imya), set()).add(
+                        (r["rejon"], v["vinogorje"]))
     # Округ — самый крупный уровень. Он выводится не по выборке, а по
     # официальным спискам: община → округ, община → рејон, значит округ →
     # рејоны. Годится только тот округ, который целиком лежит в одном
@@ -319,6 +357,7 @@ def spravochnik():
                 if ok:
                     okrug_rejony.setdefault(ok, set()).add(r["rejon"])
         for ok, rejony in okrug_rejony.items():
+            karty["okrug_vse"][klyuch_mesta(ok + " okrug")] = set(rejony)
             if len(rejony) == 1:
                 karty["okrug"].setdefault(klyuch_mesta(ok + " okrug"),
                                           set()).add((next(iter(rejony)), None))
@@ -387,6 +426,33 @@ def pokazaniya():
                 "istochnik": "ivv", "syroe": v["mesto"],
                 "rejon": None, "vinogorje": None, "gorod": v["mesto"]})
 
+    # Винарски регистар Министарства пољопривреде: место — насеље, где
+    # производитель зарегистрирован. Оно точнее любого каталога, но это
+    # адрес юридического лица: у трёх десятков винарий он городской,
+    # столичный, и виноградника там нет. Такие в `svesti-registar.py`
+    # оставлены без места нарочно.
+    if os.path.exists(put("registar-hozyaistv.json")):
+        d = json.load(open(put("registar-hozyaistv.json"), encoding="utf-8"))
+        for k, v in d["hozyaistva"].items():
+            if not v.get("mesto"):
+                continue
+            p[k].append({
+                "istochnik": "registar", "syroe": v["mesto"],
+                "rejon": None, "vinogorje": None, "gorod": v["mesto"]})
+
+    # Страница хозяйства на Vivino отдаёт адрес: улица, город, индекс.
+    # В листинге его нет, поэтому берётся отдельно — `vzjat-adresa-vivino.py`.
+    for f in glob.glob(put("kesh-vivino-adresa/*.json")):
+        try:
+            v = json.load(open(f, encoding="utf-8"))
+        except (ValueError, OSError):
+            continue
+        if not v.get("gorod") or v.get("strana") not in (None, "rs"):
+            continue
+        p[klyuch_hozyaistva(v.get("imya_listinga") or v["imya"])].append({
+            "istochnik": "vivino-adres", "syroe": v["gorod"],
+            "rejon": None, "vinogorje": None, "gorod": v["gorod"]})
+
     if os.path.exists(put("vinarijesrbije-mesta.json")):
         d = json.load(open(put("vinarijesrbije-mesta.json"), encoding="utf-8"))
         po_slugu = {r["slug"]: r["imya"] for r in d["rejony"]}
@@ -442,10 +508,20 @@ def po_mestu(gde, karty):
         return None, None, ""
     kusky = kandidaty(gde)
 
+    # Названный округ не столько указывает рејон, сколько отсекает чужие.
+    # «Rajac, Borski okrug»: Рајац есть и в Јеличком виногорју под Чачком,
+    # но Борски округ — это Неготинска Крајина, и чачанский Рајац отпадает.
+    # Округ, которого нет в списках, ничего не отсекает.
+    okrug_rejony = set()
+    for kus in kusky:
+        okrug_rejony |= karty["okrug_vse"].get(klyuch_mesta(kus), set())
+
     def popadaniya(uroven):
         out = []
         for kus in kusky:
             for para in karty[uroven].get(klyuch_mesta(kus), ()):
+                if okrug_rejony and para[0] not in okrug_rejony:
+                    continue
                 out.append((para, kus))
         return out
 
@@ -486,31 +562,43 @@ def main():
 
         rejon = vinogorje = None
         istochnik = "ne_ustanovlen"
-        # Город: сперва из книги, иначе из справочника винарий. Он нужен
-        # не только ради рејона — по нему же находится и виногорје.
-        # Города, названные хоть кем-то. Их может быть несколько, и они
-        # могут спорить: у Urošević ivv.rs пишет Баноштор на Фрушкој
-        # гори, а vinarijesrbije — Књажевац, это разные концы страны.
-        # Такой спор место не решает — оно и есть предмет спора.
-        goroda = [gde_po_klyuchu.get(k, "")] + [x["gorod"] for x in pok
-                                                if x.get("gorod")]
-        goroda = [g for g in goroda if g]
-        razobrano = [(g,) + po_mestu(g, karty)[:2] for g in goroda]
-        razobrano = [(g, r, v) for g, r, v in razobrano if r]
-        raznye = {r for _, r, _ in razobrano}
+        # Города, названные хоть кем-то. Он нужен не только ради рејона —
+        # по нему же находится и виногорје. Источники разного веса, и вес
+        # тут не вкусовой: каталоги пишут, где хозяйство стоит, а регистр —
+        # где оно зарегистрировано, и это разные вещи. У Амбелоса ivv.rs
+        # даёт Велику Плану, а регистр — Пожаревац: контора в городе,
+        # виноградник за ним. Поэтому места разбираются по старшинству,
+        # и слабый источник не спорит с сильным, а молчит при нём.
+        VES = {"ivv": 1, "vinarijesrbije": 1, "registar": 2, "vivino-adres": 3}
+        po_vesu = collections.defaultdict(list)
+        if gde_po_klyuchu.get(k):
+            po_vesu[0].append(gde_po_klyuchu[k])          # город из книги
+        for x in pok:
+            if x.get("gorod"):
+                po_vesu[VES.get(x["istochnik"], 2)].append(x["gorod"])
 
         raznoglasie = ""
-        if len(raznye) > 1:
-            gde = gde_po_klyuchu.get(k, "")
-            m_rejon = m_vinogorje = None
-            raznoglasie = "города спорят: " + "; ".join(
-                "%s → %s" % (g, r) for g, r, _ in razobrano)
-            spor.append((k, {}, None, None))
-        else:
-            gde = razobrano[0][0] if razobrano else (
-                gde_po_klyuchu.get(k, "")
-                or next((x["gorod"] for x in pok if x.get("gorod")), ""))
-            m_rejon, m_vinogorje, _ = po_mestu(gde, karty)
+        gde, m_rejon, m_vinogorje = "", None, None
+        razobrano_vsego = []
+        for ves in (0, 1, 2):
+            razobrano = [(g,) + po_mestu(g, karty)[:2] for g in po_vesu.get(ves, [])]
+            razobrano = [(g, r, v) for g, r, v in razobrano if r]
+            razobrano_vsego += razobrano
+            raznye = {r for _, r, _ in razobrano}
+            if len(raznye) > 1:
+                # Спор внутри одного веса место не решает: у Urošević
+                # ivv.rs пишет Баноштор на Фрушкој гори, а vinarijesrbije —
+                # Књажевац, это разные концы страны.
+                raznoglasie = "города спорят: " + "; ".join(
+                    "%s → %s" % (g, r) for g, r, _ in razobrano)
+                spor.append((k, {}, None, None))
+                break
+            if raznye:
+                gde, m_rejon, m_vinogorje = razobrano[0]
+                break
+        if not gde:
+            gde = gde_po_klyuchu.get(k, "") or next(
+                (x["gorod"] for x in pok if x.get("gorod")), "")
         # Место — старше всего. Справочник винарий пишет Vino Budimir
         # в Сремски рејон, а адресом даёт Александровац, то есть Жупу:
         # ярлык у них ошибочный, адрес — нет. Поэтому если город найден
@@ -534,6 +622,18 @@ def main():
             raznoglasie = "; ".join(x for x in (raznoglasie,
                 "; ".join("%s ×%d" % (r, n) for r, n in rejony.most_common())) if x)
             spor.append((k, dict(rejony), m_rejon, rejon))
+
+        # Адрес со страницы Vivino — последним, уже после ярлыков.
+        # Его вписывает тот, кто занял страницу хозяйства, и это часто
+        # контора: у Fleur d'Oranger там Нови Сад, а Decanter относит вина
+        # к северу Баната. Ярлык конкурса тут вернее адреса.
+        if not rejon:
+            for g in po_vesu.get(3, []):
+                v_rejon, v_vinogorje, _ = po_mestu(g, karty)
+                if v_rejon:
+                    rejon, vinogorje = v_rejon, v_vinogorje
+                    istochnik, gde = "vivino-adres", g
+                    break
 
         # Виногорје — тем же порядком: место старше ярлыка источника.
         # У Radovanović адрес Крњево, то есть Крњевачко виногорје, а

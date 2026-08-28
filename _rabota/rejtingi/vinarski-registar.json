@@ -1,0 +1,5308 @@
+{
+ "chto_eto": "Винарски регистар Министарства пољопривреде: производители вина, внесённые в реестр. Округ — управни, не виноградарский; место — насеље.",
+ "istochnik": "https://minpolj.gov.rs/wp-content/uploads/2026/07/Pregled-proizvodjaca-vina-na-dan-21.07.2026.-godine.xlsx",
+ "stranica": "https://www.minpolj.gov.rs/vinarski-registar/",
+ "vsego": 530,
+ "zapisi": [
+  {
+   "reg_nomer": "78",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61341951",
+   "nazvanie": "Bratislav Rakićević preduzetnik, proizvodna radnja Vinska kuća Rakićević Velja Glava",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Velja Glava",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4119",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64689622",
+   "nazvanie": "Dejan Vujić PR, proizvodnja vina i rakije VINARIJA VUJIĆ, Velja Glava",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Velja Glava",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4063",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21172847",
+   "nazvanie": "Privredno društvo za trgovinu na veliko voćem i povrćem \"AGROZEBEC\" DOO Venčac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Venčac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4122",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60006881",
+   "nazvanie": "Milan Aleksić PR, proizvodnja vina i agro saveti “FITOMEDIK” Venčac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Venčac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "5719",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65554658",
+   "nazvanie": "MARIJANA DAVIDOVIĆ PR RADNJA ZA PROIZVODNJU VINA „VINARIJA TRI PLANINEˮ VENČAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Venčac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6784",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21818801",
+   "nazvanie": "VINARIJA VARINA DOO PROIZVODNJA VINA OD GROŽĐA VENČAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Venčac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "36",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "52411203",
+   "nazvanie": "Miloš Ćosić PR proizvodnja vina \"Vinarija Ćosić 97\" Vitkovo",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Vitkovo",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4107",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62445866",
+   "nazvanie": "Miladin Đorđević PR, PTR \"VINARIJA ĐORĐEVIĆ\", Vitkovo",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Vitkovo",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4123",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63792853",
+   "nazvanie": "Predrag Ćosić PR, radnja za proizvodnju vina \"PODRUM VINA TODOR\", Vitkovo",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Vitkovo",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4075",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64288326",
+   "nazvanie": "Katarina Nikolić PR proizvodnja i prodaja vina „Vinarija Nikaˮ Vitkovo",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Vitkovo",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4120",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63562360",
+   "nazvanie": "Anta Rašković PR, Radnja za proizvodnju vina \"PODRUM VINA RAŠKOVIĆ\", Vitkovo",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Vitkovo",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6394",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65369281",
+   "nazvanie": "MILOŠ SUDIMAC PR TRGOVINSKA RADNJA ENOCENTAR VITKOVO",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Vitkovo",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6628",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66196569",
+   "nazvanie": "JELENA ŽIVKOVIĆ DIMITRIJEVIĆ PR VINARIJA I IZRADA PROJEKATA NATURAL CONCEPT  ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Garevina",
+   "indeks": "37234"
+  },
+  {
+   "reg_nomer": "1146",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60741794",
+   "nazvanie": "SZR „Podrum Damjanovićˮ, Živojin Damjanović PR, Garevina",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Garevina",
+   "indeks": "37234"
+  },
+  {
+   "reg_nomer": "4091",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61169598",
+   "nazvanie": "Saša Gajić PR, Radnja za proizvodnju i prodaju vina i rakija \"MALI PODRUM GAJIĆ\", Gornja Zleginja",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornja Zleginja",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "4059",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63929816",
+   "nazvanie": "Milan Vidojević PR, proizvodnja vina i izrada mozaika \"MOZAIKMILAN\", Gornja Zleginja",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornja Zleginja",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "4204",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62638320",
+   "nazvanie": "Aleksandar Rajković preduzetnik, proizvodno trgovinska radnja \"PORODIČNI PODRUM RAJKOVIĆ\", Gornja Zleginja",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornja Zleginja",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "4092",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21128180",
+   "nazvanie": "\"VINARIJA MILOVANOVIĆ\" OD, Gornja Zleginja",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornja Zleginja",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "5878",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65399415",
+   "nazvanie": "Aleksandar Rajković PR radnja za proizvodnju vina \"Vinarija A. Rajković\", Gornja Zleginja",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornja Zleginja",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "6549",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21678627",
+   "nazvanie": "Privredno društvo za proizvodnju i promet vina i alkoholnih pića VLAdAVINA DOO Gornje Zleginje",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornja Zleginja",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "4117",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64057049",
+   "nazvanie": "Miodrag Miljković PR, proizvodnja vina, rakije i sirćeta “VINARSKA KUĆA MILJKOVIĆ”, Gornje Rataje",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornje Rataje",
+   "indeks": "37236"
+  },
+  {
+   "reg_nomer": "11",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21486264",
+   "nazvanie": "\"MD BRANDS\" DOO, Gornji Stupanj - Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Gornji Stupanj",
+   "indeks": "37234"
+  },
+  {
+   "reg_nomer": "9",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61045511",
+   "nazvanie": "SPTR „Podrum Botunjacˮ, Kosta Botunjac PR Donja Zleginja",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Donja Zleginja",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "4085",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62594080",
+   "nazvanie": "Dragan Radovanović preduzetnik, proizvodno zanatska radnja \"VINO PRODUKT ZDRAVAC\", Donji Vratari",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Donji Vratari",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4118",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63452319",
+   "nazvanie": "Marija Simić PR, proizvodnja i prerada vina VINARIJA SIMIĆ Drenča",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Drenča",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "5510",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65107384",
+   "nazvanie": "Vladimir Smiljković PR, proizvodnja vina od grožđa VINARIJA SMILJKOVIĆ 90, Drenča",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Drenča",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "5602",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65307405",
+   "nazvanie": "Slobodan Vujić PR VINARIJA BOUTIQUE VINARIJA FRAGARIA Drenča",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Drenča",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4093",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61326278",
+   "nazvanie": "Slađana Miletić PR, Proizvodna radnja \"PODRUM MILETIĆ\", Laćisled",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Laćisled",
+   "indeks": "37234"
+  },
+  {
+   "reg_nomer": "7306",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20863293",
+   "nazvanie": "Two Bricks DOO BEOGRAD OGRANAK VINARIJA SLATINA ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Lesenovci",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6668",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21672831",
+   "nazvanie": "\"VINARIJA LAŠIĆ\" DOO Ljubinci",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Ljubinci",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "7056",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67176472",
+   "nazvanie": "MARKO RAKIĆEVIĆ PR PROIZVODNJA VINA VINARIJA GERASIM LJUBINCI",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Ljubinci",
+   "indeks": "37235"
+  },
+  {
+   "reg_nomer": "7163",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67793447",
+   "nazvanie": "Boris Đorđević PR Vinski Podrum Duja Novaci - Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Novaci",
+   "indeks": "37234"
+  },
+  {
+   "reg_nomer": "8",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61318828",
+   "nazvanie": "MILUNKA RAJKOVIĆ PR VINARIJA RAJKOVIĆ WINE OFFICE NOVACI",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Novaci",
+   "indeks": "37234"
+  },
+  {
+   "reg_nomer": "6678",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66476600",
+   "nazvanie": "ZORICA RUTIĆ PR PROIZVODNJA VINA VINARIJA RUTIĆ PARČIN",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Parčin",
+   "indeks": "37239"
+  },
+  {
+   "reg_nomer": "5800",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65517663",
+   "nazvanie": "ACA ŽARKOVIĆ PR RADNJA ZA PROIZVODNJU VINA PODRUM ŽARKOVIĆ ALEKSANDROVAC-RAKLJA",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Raklja",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4114",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20567651",
+   "nazvanie": "\"ŽUPSKI PODRUM\" DOO, Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Ržanica",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6196",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65856301",
+   "nazvanie": "MILICA ARSOVIĆ PR PROIZVODNJA VINA VINARIJA MILICA STANJEVO",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Stanjevo",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4202",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62544996",
+   "nazvanie": "Radovan Đorđević PR, proizvodnja vina \"PODRUM ČOKOT\", Starci",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Starci",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6969",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67162935",
+   "nazvanie": "ALEKSANDAR JELENKOVIĆ PR RADNJA ZA PROIZVODNJU VINA VINARIJA JELENKOVIĆ STUBAL",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Stubal",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "35",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60814341",
+   "nazvanie": "SZR Vinarska kuća Spasić, Milan Spasić PR, Tržac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Tržac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "39",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60807124",
+   "nazvanie": "SZTR Vinska kuća Minića, Momčilo Minić PR Tržac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Tržac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4113",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64033484",
+   "nazvanie": "Vladislav Gajić PR proizvodnja vina \"Vinska Kuća Sava\" Tržac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Tržac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4057",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62627611",
+   "nazvanie": "Milena Živković preduzetnik, proizvodno trgovinska radnja \"VINARIJA ŽIVKOVIĆA\", Tržac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Tržac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4203",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60950784",
+   "nazvanie": "ATR \"GECI M\", MILAN MILIĆ PR, Šljivovo",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Šljivovo",
+   "indeks": "37239"
+  },
+  {
+   "reg_nomer": "4053",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60528195",
+   "nazvanie": "Podrum pića \"MILIĆ\", Dragiša Milić PR, Šljivovo",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Šljivovo",
+   "indeks": "37239"
+  },
+  {
+   "reg_nomer": "4132",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62233664",
+   "nazvanie": "Simo Milićević preduzetnik, proizvodno trgovinska radnja \"PODRUM GRB\", Aranđelovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Aranđelovac",
+   "indeks": "34300"
+  },
+  {
+   "reg_nomer": "6320",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21647934",
+   "nazvanie": "Tarpoš DOO Aranđelovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Aranđelovac",
+   "indeks": "34300"
+  },
+  {
+   "reg_nomer": "4221",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21721581",
+   "nazvanie": "\"VINARIJA KOPLJARI\" DOO Kopljare",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Kopljare",
+   "indeks": "34308"
+  },
+  {
+   "reg_nomer": "5279",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63638706",
+   "nazvanie": "Zoran Stevanović PR proizvodnja vina od grožđa \"Podrum Stari hrast\", Žirovnica",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Žirovnica",
+   "indeks": "34229"
+  },
+  {
+   "reg_nomer": "7040",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21919390",
+   "nazvanie": "Đorđević Estate Winery DOO",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lapovo (varošica)",
+   "indeks": "34222"
+  },
+  {
+   "reg_nomer": "4084",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63352187",
+   "nazvanie": "MOMČILO TRIŠIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA TRIŠIĆ VRANIĆ",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Vranić",
+   "indeks": "11427"
+  },
+  {
+   "reg_nomer": "5235",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20779438",
+   "nazvanie": "\"EMPORIO CONSULTING\" DOO, BEOGRAD (VOŽDOVAC)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Ripanj",
+   "indeks": "11232"
+  },
+  {
+   "reg_nomer": "6345",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66026744",
+   "nazvanie": "Milorad Ilić PR Proizvodnja vina \"Vinarija Kapija Šumadije\" Ripanj",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Ripanj",
+   "indeks": "11232"
+  },
+  {
+   "reg_nomer": "3987",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64104667",
+   "nazvanie": "Jasmina Tomašević PR „Vinarija Tomaševićˮ",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Ripanj",
+   "indeks": "11232"
+  },
+  {
+   "reg_nomer": "6566",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "5",
+   "nazvanie": "Kosta Vasiljević preduzetnik Proizvodnja vina \"VINARIJA VASILJEVIĆ\" Boleč",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Boleč",
+   "indeks": "11307"
+  },
+  {
+   "reg_nomer": "7285",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21277576",
+   "nazvanie": "ROYAL GROZD DOO BEOGRAD-GROCKA",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Grocka",
+   "indeks": "11306"
+  },
+  {
+   "reg_nomer": "4047",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21006785",
+   "nazvanie": "Plavinci DOO Beograd - Grocka",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zaklopača",
+   "indeks": "11352"
+  },
+  {
+   "reg_nomer": "6142",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65884321",
+   "nazvanie": "TATJANA DABOVIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM VINA DABOVIĆ BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Surčin",
+   "indeks": "11271"
+  },
+  {
+   "reg_nomer": "4219",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21726303",
+   "nazvanie": "VINARIJA I DESTILERIJA ANA NAGLIĆ D.O.O. Surčin",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Surčin",
+   "indeks": "11271"
+  },
+  {
+   "reg_nomer": "4080",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63773760",
+   "nazvanie": "VLADIMIR PETKOSKI PR PROIZVODNJA VINA VINARIJA PODRUM MILOJEVIĆ ZEOKE",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zeoke",
+   "indeks": "11565"
+  },
+  {
+   "reg_nomer": "1014",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63320277",
+   "nazvanie": "Dejan Čvorović PR proizvodnja vina vinarija CARPE DIEM Lazarevac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Lazarevac",
+   "indeks": "11550"
+  },
+  {
+   "reg_nomer": "4081",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20891459",
+   "nazvanie": "Privredno društvo za proizvodnju, promet i usluge \"SRŽ MILOVANOVIĆ\" doo, Lazarevac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Lazarevac",
+   "indeks": "11550"
+  },
+  {
+   "reg_nomer": "4175",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63804282",
+   "nazvanie": "DUŠAN DIMITRIJEVIĆ PR PROIZVODNJA VINA VINARIJA DIMITRIJEVIĆ LAZAREVAC",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Lazarevac",
+   "indeks": "11550"
+  },
+  {
+   "reg_nomer": "6335",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20746297",
+   "nazvanie": "FAMILY ĐUROVIĆ DOO LAZAREVAC",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Lazarevac",
+   "indeks": "11550"
+  },
+  {
+   "reg_nomer": "5206",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64351770",
+   "nazvanie": "Mladen Gajić PR proizvodnja i prodaja vina Podrum Gajić Lazarevac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Lazarevac",
+   "indeks": "11550"
+  },
+  {
+   "reg_nomer": "5075",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63499765",
+   "nazvanie": "Zoran Jovanović PR Vinarija Zorča Lazarevac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Petka",
+   "indeks": "11550"
+  },
+  {
+   "reg_nomer": "6178",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65937034",
+   "nazvanie": "Marko Aleksić pr Proizvodnja vina Vinarija KATARZA Koraćica",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Koraćica",
+   "indeks": "11415"
+  },
+  {
+   "reg_nomer": "3713",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7499507",
+   "nazvanie": "KOSMAJ-KOMERC DOO Mladenovac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Mladenovac (varoš)",
+   "indeks": "11400"
+  },
+  {
+   "reg_nomer": "4082",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62551283",
+   "nazvanie": "Nikola Vojinović PR, Proizvodnja alkoholnih pića trgovina i ugostiteljstvo \"PODRUM VOJINOVIĆ\", Pružatovac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Pružatovac",
+   "indeks": "11413"
+  },
+  {
+   "reg_nomer": "5802",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21531154",
+   "nazvanie": "Društvo za proizvodnju promet i usluge MINESTRA 2019 DOO OBRENOVAC",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Grabovac",
+   "indeks": "11508"
+  },
+  {
+   "reg_nomer": "6304",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66069206",
+   "nazvanie": "Tatjana Đorđević PR proizvodnja vina od grožđa Vinarija Kovančina Obrenovac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Mislođin",
+   "indeks": "11504"
+  },
+  {
+   "reg_nomer": "6441",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20062452",
+   "nazvanie": "Društvo za proizvodnju, trgovinu i usluge \"VIR SISTEM\" DOO Mali Požarevac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Mali Požarevac",
+   "indeks": "11235"
+  },
+  {
+   "reg_nomer": "5234",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7820518",
+   "nazvanie": "\"REVIN EXPORT-IMPORT\", PREDUZEĆE ZA PROIZVODNJU, PROMET ROBA I USLUGA DOO, BEOGRAD (ČUKARICA)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Umka",
+   "indeks": "11260"
+  },
+  {
+   "reg_nomer": "4179",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7597134",
+   "nazvanie": "PREDUZEĆE \"MI-MI\" DOO, Blace",
+   "okrug": "Toplički",
+   "okrug_nomer": "21",
+   "naselje": "Blace",
+   "indeks": "18420"
+  },
+  {
+   "reg_nomer": "382",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17168495",
+   "nazvanie": "„TODYˮ DOO Blace",
+   "okrug": "Toplički",
+   "okrug_nomer": "21",
+   "naselje": "Donja Jošanica",
+   "indeks": "18425"
+  },
+  {
+   "reg_nomer": "5758",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21509108",
+   "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU TIMACVM MINVS BOR",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Bor",
+   "indeks": "19210"
+  },
+  {
+   "reg_nomer": "4108",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "7661380",
+   "nazvanie": "DOO VOĆAR KOPAONIK BRUS",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Brus",
+   "indeks": "37220"
+  },
+  {
+   "reg_nomer": "4073",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62564563",
+   "nazvanie": "Slađan Crnoglavac PR, radnja za proizvodnju i promet vina i rakije \"VINARIJA BUDUĆNOST\", Strojinci",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Strojinci",
+   "indeks": "37223"
+  },
+  {
+   "reg_nomer": "7356",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20665688",
+   "nazvanie": "TAŠKE DOO BEOGRAD OGRANAK ERAK WINE",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Braničevo",
+   "indeks": "12222"
+  },
+  {
+   "reg_nomer": "6478",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65921251",
+   "nazvanie": "Volica Puzović PR proizvodnja vina od grožđa Vinarija Vitez Viteževo",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Viteževo",
+   "indeks": "12375"
+  },
+  {
+   "reg_nomer": "255",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20694254",
+   "nazvanie": "Vinarija Virtus DOO",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Viteževo",
+   "indeks": "12375"
+  },
+  {
+   "reg_nomer": "4177",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20533803",
+   "nazvanie": "\"MILPEKS\" DOO Žabari",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Žabari",
+   "indeks": "12374"
+  },
+  {
+   "reg_nomer": "6440",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "51943783",
+   "nazvanie": "SVILEN JOVONIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM JOVONIĆ OSANICA",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Žagubica",
+   "indeks": "12320"
+  },
+  {
+   "reg_nomer": "5298",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60780447",
+   "nazvanie": "Samostalna zanatska radnja \"NIKOLAS\" Ivan Marković PR Zvezdan",
+   "okrug": "Zaječarski",
+   "okrug_nomer": "15",
+   "naselje": "Zvezdan",
+   "indeks": "19227"
+  },
+  {
+   "reg_nomer": "5803",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65367807",
+   "nazvanie": "Ljiljana Ivanović Đukić PR \"Destilerija Veliko Brdo\"",
+   "okrug": "Zlatiborski",
+   "okrug_nomer": "16",
+   "naselje": "Ivanjica",
+   "indeks": "32250"
+  },
+  {
+   "reg_nomer": "7144",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67464893",
+   "nazvanie": "DRAGUTIN BORDIJAŠEVIĆ PR VINARIJA VELES VELIKA VRBICA",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Velika Vrbica",
+   "indeks": "19320"
+  },
+  {
+   "reg_nomer": "6667",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66445330",
+   "nazvanie": "Irena Belić PR \"Vinarija Istok\" Davidovac",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Davidovac",
+   "indeks": "19320"
+  },
+  {
+   "reg_nomer": "5668",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65267381",
+   "nazvanie": "Stanislav Jović PR Vinarija Jović Fantastika Rečica",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Kladovo",
+   "indeks": "19320"
+  },
+  {
+   "reg_nomer": "6008",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65682010",
+   "nazvanie": "MIODRAG ŠĆOJIĆ PR PROIZVODNJA VINA ŠĆOJIĆ-N&M KLADOVO",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Kladovo",
+   "indeks": "19320"
+  },
+  {
+   "reg_nomer": "5864",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "6079237",
+   "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU ZA PROIZVODNJU I TRGOVINU GAMAN KLADOVO",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Kladovo",
+   "indeks": "19320"
+  },
+  {
+   "reg_nomer": "620",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61547681",
+   "nazvanie": "Saša Jović PR, „Vinarija Jovićˮ",
+   "okrug": "Zaječarski",
+   "okrug_nomer": "15",
+   "naselje": "Knjaževac",
+   "indeks": "19350"
+  },
+  {
+   "reg_nomer": "4199",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20921145",
+   "nazvanie": "PODRUM DŽERVIN 1927 DOO KNJAŽEVAC",
+   "okrug": "Zaječarski",
+   "okrug_nomer": "15",
+   "naselje": "Knjaževac",
+   "indeks": "19350"
+  },
+  {
+   "reg_nomer": "6244",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65947307",
+   "nazvanie": "BOBAN MARINKOVIĆ PR PROIZVODNJA VINA IZ SVEŽEG VOĆA VINARIJA LAZ VALEVAC",
+   "okrug": "Zaječarski",
+   "okrug_nomer": "15",
+   "naselje": "Knjaževac",
+   "indeks": "19350"
+  },
+  {
+   "reg_nomer": "5618",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65300109",
+   "nazvanie": "Milan Urošević PR proizvodnja vina od grožđa Vinarski podrum Ravna",
+   "okrug": "Zaječarski",
+   "okrug_nomer": "15",
+   "naselje": "Ravna",
+   "indeks": "19345"
+  },
+  {
+   "reg_nomer": "5118",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64539558",
+   "nazvanie": "Boško Golubović PR proizvodnja i prodaja vina “Mives vina“ Vlakča",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Vlakča",
+   "indeks": "34323"
+  },
+  {
+   "reg_nomer": "56",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "52544297",
+   "nazvanie": "SAŠA NOVAKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA ART WINE GROŠNICA",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Grošnica",
+   "indeks": "34202"
+  },
+  {
+   "reg_nomer": "5276",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64670069",
+   "nazvanie": "Marija Dimitrijević preduzetnik proizvodnja vina od grožđa Vinarija \"Trival\" Drača",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Drača",
+   "indeks": "34204"
+  },
+  {
+   "reg_nomer": "286",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63524972",
+   "nazvanie": "Tanasije Katanić PR radnja za proizvodnju vina \"Vinarija Katanić\" Kamenica",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Kragujevac",
+   "indeks": "34000"
+  },
+  {
+   "reg_nomer": "6743",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64598015",
+   "nazvanie": "NOFE ILLE PR PROIZVODNJA GROŽĐA I PRAVLJENJE VINA VINOGRADI I VINARIJA ILLE-VIVI STRAGARI",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Stragari",
+   "indeks": "34323"
+  },
+  {
+   "reg_nomer": "7343",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "68251605",
+   "nazvanie": "MIRJANA NEDELJKOVIĆ PR Destilacija, prečišćavanje i mešanje pića PODRUM ČOLAKOVIĆ 2025 MILOČAJ",
+   "okrug": "Raški",
+   "okrug_nomer": "18",
+   "naselje": "Miločaj",
+   "indeks": "36204"
+  },
+  {
+   "reg_nomer": "60",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20430788",
+   "nazvanie": "„Podrum Stari daniˮ DOO Rakovac",
+   "okrug": "Pčinjski",
+   "okrug_nomer": "24",
+   "naselje": "Rakovac",
+   "indeks": "17520"
+  },
+  {
+   "reg_nomer": "4174",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20416327",
+   "nazvanie": "\"WINE NET\" DOO, Bujačić",
+   "okrug": "Kolubarski",
+   "okrug_nomer": "9",
+   "naselje": "Valjevo",
+   "indeks": "14000"
+  },
+  {
+   "reg_nomer": "7271",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67610768",
+   "nazvanie": "JOVAN SIMIĆ PREDUZETNIK PROIZVODNJA VINA VINARIJA SIMIĆ - GRADINA MRČIĆ",
+   "okrug": "Kolubarski",
+   "okrug_nomer": "9",
+   "naselje": "Valjevo",
+   "indeks": "14000"
+  },
+  {
+   "reg_nomer": "6552",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66177564",
+   "nazvanie": "Vladan Đurić PR proizvodnja vina od grožđa \"Vinarija Vidik\" Valjevo",
+   "okrug": "Kolubarski",
+   "okrug_nomer": "9",
+   "naselje": "Valjevo",
+   "indeks": "14000"
+  },
+  {
+   "reg_nomer": "4173",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64629433",
+   "nazvanie": "Branimir Ranković PR \"Vinarija Puce\"",
+   "okrug": "Kolubarski",
+   "okrug_nomer": "9",
+   "naselje": "Miličinica",
+   "indeks": "14252"
+  },
+  {
+   "reg_nomer": "4176",
+   "vid": "PRAVNO LICE - UDRUŽENJE",
+   "maticnyj_nomer": "28008481",
+   "nazvanie": "Udruženje vinogradara i vinara \"GRADINA\"",
+   "okrug": "Kolubarski",
+   "okrug_nomer": "9",
+   "naselje": "Mrčić",
+   "indeks": "14222"
+  },
+  {
+   "reg_nomer": "1155",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17531654",
+   "nazvanie": "Preduzeće za proizvodnju promet i usluge Bačina-vino DOO Bačina",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Bačina",
+   "indeks": "37265"
+  },
+  {
+   "reg_nomer": "4078",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "52348021",
+   "nazvanie": "Samostalna zanatska radnja MALI PODRUM, Miodrag Radovanović preduzetnik, Krnjevo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Krnjevo",
+   "indeks": "11319"
+  },
+  {
+   "reg_nomer": "6642",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66455700",
+   "nazvanie": "Rade Živanović PR Krnjevo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Krnjevo",
+   "indeks": "11319"
+  },
+  {
+   "reg_nomer": "5286",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20767456",
+   "nazvanie": "TEHNOMAŠINA A.I.G. DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU, VLASOTINCE",
+   "okrug": "Jablanički",
+   "okrug_nomer": "23",
+   "naselje": "Vlasotince",
+   "indeks": "16210"
+  },
+  {
+   "reg_nomer": "7267",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67964357",
+   "nazvanie": "Suzana Adamović PR Proizvodnja vina od grožđa Vinarija BRAĆA ADAMOVIĆ Vlasotince",
+   "okrug": "Jablanički",
+   "okrug_nomer": "23",
+   "naselje": "Vlasotince",
+   "indeks": "16210"
+  },
+  {
+   "reg_nomer": "4056",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20931817",
+   "nazvanie": "Vinarija Aleksić DOO, Vranje",
+   "okrug": "Pčinjski",
+   "okrug_nomer": "24",
+   "naselje": "Vranje",
+   "indeks": "17500"
+  },
+  {
+   "reg_nomer": "5773",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17115880",
+   "nazvanie": "NAVIP VINARSTVO DOO VRANJE",
+   "okrug": "Pčinjski",
+   "okrug_nomer": "24",
+   "naselje": "Vranje",
+   "indeks": "17500"
+  },
+  {
+   "reg_nomer": "5986",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21446785",
+   "nazvanie": "Uziwa d.o.o. Vrnjačka Banja",
+   "okrug": "Raški",
+   "okrug_nomer": "18",
+   "naselje": "Vraneši",
+   "indeks": "36215"
+  },
+  {
+   "reg_nomer": "4182",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64055259",
+   "nazvanie": "Miloš Jovanović PR VINARIJA GRABAK Vrnjačka Banja",
+   "okrug": "Raški",
+   "okrug_nomer": "18",
+   "naselje": "Vrnjačka Banja",
+   "indeks": "36210"
+  },
+  {
+   "reg_nomer": "4232",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67604989",
+   "nazvanie": "Dušan Dizdar pr Proizvodnja vina od grožđa VINARIJA PET HRASTOVA Vrnjačka Banja",
+   "okrug": "Raški",
+   "okrug_nomer": "18",
+   "naselje": "Vrnjačka Banja",
+   "indeks": "36210"
+  },
+  {
+   "reg_nomer": "4222",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66645991",
+   "nazvanie": "IGOR STANKOVIĆ PR PROIZVODNJA VINA VINARIJA STANKOVIĆ RABROVO",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Rabrovo",
+   "indeks": "12254"
+  },
+  {
+   "reg_nomer": "5384",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65097842",
+   "nazvanie": "Dušan Nikolić PR, Proizvodnja vina od grožđa ,,VINARIJA AQUILA\" Bogojevce",
+   "okrug": "Jablanički",
+   "okrug_nomer": "23",
+   "naselje": "Bogojevce",
+   "indeks": "16254"
+  },
+  {
+   "reg_nomer": "6997",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62903821",
+   "nazvanie": "MILOŠ MLADENOVIĆ PREDUZETNIK TRGOVINSKA RADNJA TRGOVINA HEVI BOGOJEVCE",
+   "okrug": "Jablanički",
+   "okrug_nomer": "23",
+   "naselje": "Bogojevce",
+   "indeks": "16254"
+  },
+  {
+   "reg_nomer": "6458",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21645737",
+   "nazvanie": ",,Hrusija\" DOO Leskovac",
+   "okrug": "Jablanički",
+   "okrug_nomer": "23",
+   "naselje": "Leskovac",
+   "indeks": "16000"
+  },
+  {
+   "reg_nomer": "6855",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66892000",
+   "nazvanie": "Bratoljub Cvetković pr Proizvodnja vina od grožđa VINARIJA CVETKOVIĆ Leskovac",
+   "okrug": "Jablanički",
+   "okrug_nomer": "23",
+   "naselje": "Leskovac",
+   "indeks": "16000"
+  },
+  {
+   "reg_nomer": "4208",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21033065",
+   "nazvanie": "Trgovinsko privredno društvo KVINS VAN d.o.o. Pečenjevce",
+   "okrug": "Jablanički",
+   "okrug_nomer": "23",
+   "naselje": "Pečenjevce",
+   "indeks": "16251"
+  },
+  {
+   "reg_nomer": "3997",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61409459",
+   "nazvanie": "SLAĐANA LUKIĆ PR PROIZVODNJA RAKIJE VINA USLUGE REZERVACIJE I SMEŠTAJA PODRUM LUKIĆ BABAJIĆ",
+   "okrug": "Kolubarski",
+   "okrug_nomer": "9",
+   "naselje": "Babajić",
+   "indeks": "14240"
+  },
+  {
+   "reg_nomer": "5815",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65703327",
+   "nazvanie": "Tanja Sarić PR proizvodnja vina vinarija FAMILIA Kula, Malo Crniće",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Kula",
+   "indeks": "12313"
+  },
+  {
+   "reg_nomer": "6983",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66074323",
+   "nazvanie": "SONJA PETROVIĆ PR VINARIJA VINO DANI MEROŠINA",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Merošina",
+   "indeks": "18252"
+  },
+  {
+   "reg_nomer": "4193",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63081230",
+   "nazvanie": "Predrag Janucić PR \"Vinarija Janucić\", Veljkovo",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Veljkovo",
+   "indeks": "19318"
+  },
+  {
+   "reg_nomer": "84",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61263853",
+   "nazvanie": "VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Karbulovo",
+   "indeks": "19306"
+  },
+  {
+   "reg_nomer": "407",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61052682",
+   "nazvanie": "„Podrum Dajićˮ, Saša Dajić PR, Mihajlovac",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Mihajlovac",
+   "indeks": "19322"
+  },
+  {
+   "reg_nomer": "21",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "55161348",
+   "nazvanie": "Radiša Mladenović preduzetnik Matalj Negotin",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "4158",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64649248",
+   "nazvanie": "Aleksandar Stanković PR, \"VINARIJA BOIERESCU\" Negotin",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "6342",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66100979",
+   "nazvanie": "Dobrivoje Ivanović PR proizvodnja vina od grožđa Vinarija TRAŠKO Negotin",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "7012",
+   "vid": "PRAVNO LICE - ZADRUGA",
+   "maticnyj_nomer": "21398659",
+   "nazvanie": "Zemljoradnička zadruga Čubra, Čubra,",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "6695",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66148718",
+   "nazvanie": "MARKO OBRADOVIĆ PR PROIZVODNJA VINA VINARIJA TENUTA EST NEGOTIN",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "6426",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65882108",
+   "nazvanie": "GORAN JANKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM JANKOVIĆ NEGOTIN (REČKA)",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "190",
+   "vid": "PRAVNO LICE - ŠKOLA",
+   "maticnyj_nomer": "7129181",
+   "nazvanie": "Poljoprivredna škola sa domom učenika „Rajko Bosnićˮ Bukovo-Negotin",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "724",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20935103",
+   "nazvanie": "Vinarija manastira Bukovo DOO Negotin",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Negotin",
+   "indeks": "19300"
+  },
+  {
+   "reg_nomer": "4194",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20822953",
+   "nazvanie": "\"Vinarija Raj\" DOO Rajac",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Rajac",
+   "indeks": "19314"
+  },
+  {
+   "reg_nomer": "4183",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63366269",
+   "nazvanie": "Maja Milivojević PR, proizvodnja vina i rakije \"Podrum Milivojević - 1972\", Rečka",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Rečka",
+   "indeks": "19313"
+  },
+  {
+   "reg_nomer": "7051",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66548015",
+   "nazvanie": "DEJAN MIKIĆ PR PROIZVODNJA VINA VINARIJA MIKIĆ-1972 REČKA",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Rečka",
+   "indeks": "19313"
+  },
+  {
+   "reg_nomer": "4184",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20386991",
+   "nazvanie": "ZEMLJORADNIČKA ZADRUGA KRAJINSKA VINARSKA ZADRUGA ROGLJEVO",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Rogljevo",
+   "indeks": "19318"
+  },
+  {
+   "reg_nomer": "1789",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20465689",
+   "nazvanie": "Francuska Vinarija Rogljevo DOO Rogljevo",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Rogljevo",
+   "indeks": "19318"
+  },
+  {
+   "reg_nomer": "5531",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65170787",
+   "nazvanie": "Mirjana Petković PR, proizvodnja vina \"VINSKI PODRUM MIRJANA 1861\" Rogljevo",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Rogljevo",
+   "indeks": "19318"
+  },
+  {
+   "reg_nomer": "5859",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65750465",
+   "nazvanie": "LUKA KOROLIJA PR PROIZVODNJA VINA OD GROŽĐA PODRUM VINA KOROLIJA TAMNIČ",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Tamnič",
+   "indeks": "19315"
+  },
+  {
+   "reg_nomer": "6398",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21666572",
+   "nazvanie": "VINARIJA TANA DOO TAMNIČ",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Tamnič",
+   "indeks": "19315"
+  },
+  {
+   "reg_nomer": "43",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20672773",
+   "nazvanie": "Društvo za proizvodnju, promet i usluge RADU GROUP DOO, Crnomasnica",
+   "okrug": "Borski",
+   "okrug_nomer": "14",
+   "naselje": "Crnomasnica",
+   "indeks": "19315"
+  },
+  {
+   "reg_nomer": "4189",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63525022",
+   "nazvanie": "Ivan Jovanović PR \"VINARIJA IZBA JOVANOVIĆ\", Vele Polje",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Vele Polje",
+   "indeks": "18202"
+  },
+  {
+   "reg_nomer": "5792",
+   "vid": "PRAVNO LICE - ZADRUGA",
+   "maticnyj_nomer": "21426580",
+   "nazvanie": "Poljoprivredna vinogradarska zadruga za proizvodnju vina od grožđa 100 Žena Niš-Vele Polje",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Vele Polje",
+   "indeks": "18202"
+  },
+  {
+   "reg_nomer": "5283",
+   "vid": "PRAVNO LICE - ZADRUGA",
+   "maticnyj_nomer": "20156112",
+   "nazvanie": "ZEMLJORADNIČKA ZADRUGA PODRUM MALČA, MALČA",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Malča",
+   "indeks": "18207"
+  },
+  {
+   "reg_nomer": "7391",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64349660",
+   "nazvanie": "ALEKSANDAR NAKIĆ PR RADNJA ZA IZRADU FOTOGRAFIJA U KOMERCIJALNE SVRHE IMAGE LOVING FACTORY NIŠ",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Niš",
+   "indeks": "18000"
+  },
+  {
+   "reg_nomer": "6550",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20206853",
+   "nazvanie": "PRIVREDNO DRUŠTVO CENTAR ZA VINOGRADARSTVO I VINARSTVO DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU NIŠ",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Niš",
+   "indeks": "18000"
+  },
+  {
+   "reg_nomer": "7282",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64951475",
+   "nazvanie": "VLADAN VOJINOVIĆ PR PROIZVODNJA VINA I PRERADA VOĆA LINDŽER FRUITS SIĆEVO",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Niška Banja",
+   "indeks": "18205"
+  },
+  {
+   "reg_nomer": "4229",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67169433",
+   "nazvanie": "Danka Cajić PR radnja za proizvodnju vina Podrum Kratina 2008 Sićevo",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Sićevo",
+   "indeks": "18311"
+  },
+  {
+   "reg_nomer": "6794",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66502040",
+   "nazvanie": "SLOBODAN CVETIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA STUPOVI NOVI PAZAR",
+   "okrug": "Raški",
+   "okrug_nomer": "18",
+   "naselje": "Boturovina",
+   "indeks": "36305"
+  },
+  {
+   "reg_nomer": "5282",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "6498663",
+   "nazvanie": "Trgovinsko društvo \"EUROTEST\" DOO Novi Pazar",
+   "okrug": "Raški",
+   "okrug_nomer": "18",
+   "naselje": "Novi Pazar",
+   "indeks": "36300"
+  },
+  {
+   "reg_nomer": "5512",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "6994334",
+   "nazvanie": "Preduzeće za proizvodnju i promet RALEVIĆ DOO, Paraćin",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Glavica",
+   "indeks": "35250"
+  },
+  {
+   "reg_nomer": "4124",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61190295",
+   "nazvanie": "Ljubiša Rajić PR, proizvodnja vina od svežeg grožđa “VINARIJA RAJIĆ”, Glavica",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Glavica",
+   "indeks": "35250"
+  },
+  {
+   "reg_nomer": "5409",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65113759",
+   "nazvanie": "Predrag Miladinović PR, proizvodnja alkoholnih pića \"PODRUM DREMINA\", Paraćin",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Drenovac",
+   "indeks": "35267"
+  },
+  {
+   "reg_nomer": "4136",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "20927763",
+   "nazvanie": "Artisani distillery since 1957 DOO Kruševac-Veliki Kupci",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Veliki Kupci",
+   "indeks": "37222"
+  },
+  {
+   "reg_nomer": "42",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7154429",
+   "nazvanie": "RUBIN AD, Kruševac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Kruševac",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "4088",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61272364",
+   "nazvanie": "Mladen Radosavljević preduzetnik, proizvodno uslužna radnja \"PODRUM RADOSAVLJEVIĆ\", Kruševac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Kruševac",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "5799",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "51005104",
+   "nazvanie": "FOTOGRAFSKA RADNJA FOTO STUDIO RAKONJAC SLOBODAN RAKONJAC PR, KRUŠEVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Kruševac",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "5816",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21548863",
+   "nazvanie": "VINARIJA MARKO DOO KRUŠEVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Kruševac",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "6993",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21482200",
+   "nazvanie": "MVV CAPULUS DOO Kruševac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Kruševac",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "6648",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21722898",
+   "nazvanie": "Vinarija Dalia doo Kruševac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Kruševac",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "5952",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61693297",
+   "nazvanie": "DRAGAN ANTIĆ PR TRGOVINA PROIZVODNJA RAKIJE I PRERADA MESA ŠMEK 037 KRUŠEVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Kruševac",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "6359",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66113299",
+   "nazvanie": "Milan Ratković PR proizvodnja vina \"Kana\" Kruševac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Tekija",
+   "indeks": "37000"
+  },
+  {
+   "reg_nomer": "5984",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65790963",
+   "nazvanie": "Aleksandar Todorović pr Vinarija Aleksandar Todorović Lipovac",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Ražanj",
+   "indeks": "37215"
+  },
+  {
+   "reg_nomer": "4131",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62343753",
+   "nazvanie": "Slobodan Pavlović preduzetnik, Proizvodno zanatska radnja \"PODRUM PAVLOVIĆ\", Trska",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Trska",
+   "indeks": "34210"
+  },
+  {
+   "reg_nomer": "65",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20415894",
+   "nazvanie": "PTP „Vinex grozdˮ DOO Belušić",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Belušić",
+   "indeks": "35263"
+  },
+  {
+   "reg_nomer": "5695",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21506079",
+   "nazvanie": "Vinarija Bora DOO Lepojević",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Lepojević",
+   "indeks": "35267"
+  },
+  {
+   "reg_nomer": "436",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60890153",
+   "nazvanie": "Marija Miletić-Simić PR SZR „Vinogradi i vinarija Miletićˮ Oparić",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Oparić",
+   "indeks": "35267"
+  },
+  {
+   "reg_nomer": "5988",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21599689",
+   "nazvanie": "Vinski podrum Agatija DOO Rabenovac",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Rabenovac",
+   "indeks": "35274"
+  },
+  {
+   "reg_nomer": "1882",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7348193",
+   "nazvanie": "Vinarija Levač DOO Rekovac",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Rekovac",
+   "indeks": "35260"
+  },
+  {
+   "reg_nomer": "261",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20899611",
+   "nazvanie": "Vinarija Lastar DOO Sekurič",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Sekurič",
+   "indeks": "35263"
+  },
+  {
+   "reg_nomer": "5248",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21358371",
+   "nazvanie": "VINARIJA ADORA DOO, Dobra Voda",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Dobra Voda",
+   "indeks": "35218"
+  },
+  {
+   "reg_nomer": "3745",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21096865",
+   "nazvanie": "Podrum Vinarija Vinis DOO Dobra Voda - Jagodina",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Dobra Voda",
+   "indeks": "35218"
+  },
+  {
+   "reg_nomer": "5622",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21386154",
+   "nazvanie": "Oko sokolovo Crkvenac Doo",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Svilajnac",
+   "indeks": "35210"
+  },
+  {
+   "reg_nomer": "26",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7656629",
+   "nazvanie": "„Statusˮ DOO Svrljig",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Svrljig",
+   "indeks": "18360"
+  },
+  {
+   "reg_nomer": "468",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62564474",
+   "nazvanie": "Đorđe Ilić PR, proizvodnja vina Podrum Ilić, Vodanj",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Vodanj",
+   "indeks": "11328"
+  },
+  {
+   "reg_nomer": "7117",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67450426",
+   "nazvanie": "Boban Novaković PR proizvodnja vina Vinarija Uča Vranovo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Vranovo",
+   "indeks": "11329"
+  },
+  {
+   "reg_nomer": "5791",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21370908",
+   "nazvanie": "VINARIJA MIŠIĆ DOO Vrbovac",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Vrbovac",
+   "indeks": "11312"
+  },
+  {
+   "reg_nomer": "6970",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66920224",
+   "nazvanie": "Ivan Gitarić PR Proizvodnja vina \"VINARIJA GITARIĆ\" Smederevo (Dobri Do)",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Dobri Do",
+   "indeks": "11312"
+  },
+  {
+   "reg_nomer": "317",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "52428157",
+   "nazvanie": "VINARIJA I DESTILERIJA DIONIS SRĐAN GITARIĆ PR DOBRI DO",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Dobri Do",
+   "indeks": "11312"
+  },
+  {
+   "reg_nomer": "6376",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66052419",
+   "nazvanie": "Milica Stojković PR, proizvodnja vina VINARIJA ŠVABIĆ SD Petrijevo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Petrijevo",
+   "indeks": "11328"
+  },
+  {
+   "reg_nomer": "148",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17610392",
+   "nazvanie": "EKO MINERAL DOO Smederevo - ogranak Vinarija Jeremić Smederevo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Smederevo",
+   "indeks": "11300"
+  },
+  {
+   "reg_nomer": "98",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17230212",
+   "nazvanie": "Spare parts international DOO Beograd - ogranak Vinarija Plavinac Smederevo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Smederevo",
+   "indeks": "11300"
+  },
+  {
+   "reg_nomer": "17",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "54852797",
+   "nazvanie": "Dragan Vasić PR radnja za proizvodnju grožđa i vina Janko Smederevo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Smederevo",
+   "indeks": "11300"
+  },
+  {
+   "reg_nomer": "208",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61430245",
+   "nazvanie": "Bojan Janković PR, proizvodnja vinskog i stonog grožđa „Mons aureus vinogradiˮ Smederevo",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Smederevo",
+   "indeks": "11300"
+  },
+  {
+   "reg_nomer": "6175",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66002535",
+   "nazvanie": "Stefan Jovanović PR Vinarija \"Hrabro srce\" Smederevo Udovice",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Udovice",
+   "indeks": "11332"
+  },
+  {
+   "reg_nomer": "146",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20692138",
+   "nazvanie": "Vinarija Despotika DOO, Smederevska Palanka",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Vlaški Do",
+   "indeks": "11423"
+  },
+  {
+   "reg_nomer": "6030",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65863723",
+   "nazvanie": "RANKO GAVRIĆ PR VINARIJA GAVRIĆ BRESTOVIK",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Ratari",
+   "indeks": "11411"
+  },
+  {
+   "reg_nomer": "4077",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61188215",
+   "nazvanie": "Zoran Madžić PR, samostalna zanatska radnja PODRUM MADŽIĆ Selevac",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Selevac",
+   "indeks": "11407"
+  },
+  {
+   "reg_nomer": "6411",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20929251",
+   "nazvanie": "IPEX GRАDNJA ДОО Смедеревска Паланка",
+   "okrug": "Podunavski",
+   "okrug_nomer": "10",
+   "naselje": "Smederevska Palanka",
+   "indeks": "11420"
+  },
+  {
+   "reg_nomer": "5294",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "51892917",
+   "nazvanie": "Ugostiteljska radnja \"Restoran Boni\" Ljubisavljević Ljiljana preduzetnik, Sokobanja",
+   "okrug": "Zaječarski",
+   "okrug_nomer": "15",
+   "naselje": "Sokobanja",
+   "indeks": "18320"
+  },
+  {
+   "reg_nomer": "6631",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66070743",
+   "nazvanie": "Nebojša Dimitrijević PR usluge u gajenju useva \"GROW LINE\" Božurnja",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Božurnja",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "31",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17559923",
+   "nazvanie": "Vinarija Aleksandrović DOO Vinča, Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Vinča",
+   "indeks": "34314"
+  },
+  {
+   "reg_nomer": "264",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63287636",
+   "nazvanie": "Nemanja Arsenijević preduzetnik proizvodnja vina „Vinarija Arsenijevićˮ Vinča",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Vinča",
+   "indeks": "34314"
+  },
+  {
+   "reg_nomer": "5863",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21453153",
+   "nazvanie": "Vinarija Plavi Perun doo Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Vinča",
+   "indeks": "34314"
+  },
+  {
+   "reg_nomer": "4233",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "68092248",
+   "nazvanie": "RADOSLAV JOKIĆ PR PROIZVODNJA VINA PODRUM VINA JOKIĆ VINČA",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Vinča",
+   "indeks": "34314"
+  },
+  {
+   "reg_nomer": "6402",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21689351",
+   "nazvanie": "Vinarija ABERDAR DOO Donja Šatornja",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Donja Šatornja",
+   "indeks": "34314"
+  },
+  {
+   "reg_nomer": "6774",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66680312",
+   "nazvanie": "Velimir Mihailović PR Proizvodnja vina \"VINARIJA MIHAILOVIĆ\" Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Krćevac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "5128",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21263206",
+   "nazvanie": "Vinarija Zmajevac DOO Topola - Lipovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lipovac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "5615",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21450308",
+   "nazvanie": "VINARIJA DRAGANIĆ DOO Topola-Lipovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lipovac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "6641",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66457435",
+   "nazvanie": "Nemanja Petrović PR Proizvodnja vina od grožđa i rakije Koreni 1934 Lipovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lipovac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "6570",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21712892",
+   "nazvanie": "CHATEAU PRINCE doo Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lipovac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "6890",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66918688",
+   "nazvanie": "Danko Petrović PR Proizvodnja vina od grožđa\"Vinarija Dika\" Lipovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lipovac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "3638",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20836016",
+   "nazvanie": "Vinarija Delena DOO Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lipovac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "5659",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21463531",
+   "nazvanie": "VINARIJA SAVIĆ DOO Topola-Lipovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Lipovac",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "5837",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21556327",
+   "nazvanie": "Vinarija 27 DOO Topola, Ovsište",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Ovsište",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "16",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7258658",
+   "nazvanie": "Zadužbina kralja Petra I Karađorđevića",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "5303",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21341983",
+   "nazvanie": "\"VINARIJA STARI OPLENAC\", DOO, Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "5351",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21360465",
+   "nazvanie": "VINARIJA VLADIMIR DOO Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "4067",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7123167",
+   "nazvanie": "PIK OPLENAC d.o.o., Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "6623",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66410129",
+   "nazvanie": "Goran Predojević PR Proizvodnja vina\"Vinarija Predojević\" Topola (Varošica)",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "6644",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66429784",
+   "nazvanie": "Vojislav Simić PR \"Podrum vina Simić\"",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "5786",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21203424",
+   "nazvanie": "Jelenac organic d.o.o. Jelenac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "6759",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66493792",
+   "nazvanie": "Predrag Ilić PR Proizvodnja vina od grožđa \"VINOILIĆ Vinarija\" Topola",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (Varošica)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "6610",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61016402",
+   "nazvanie": "Zoran Bubanja PR Proizvodnja vina \"Vinarija Štit\" Topola (selo)",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Topola (selo)",
+   "indeks": "34310"
+  },
+  {
+   "reg_nomer": "7317",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65488540",
+   "nazvanie": "Nikola Jezdimirović pr proizvodnja vina od grožđa Vinarija Božur Božurevac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Božurevac",
+   "indeks": "37246"
+  },
+  {
+   "reg_nomer": "15",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62273119",
+   "nazvanie": "DRAGAN MILOSAVLJEVIĆ PR, VINARIJA MILOSAVLJEVIĆ BUČJE",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Bučje",
+   "indeks": "37243"
+  },
+  {
+   "reg_nomer": "4102",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7154747",
+   "nazvanie": "\"VINO KALEM\" Akcionarsko društvo za poljoprivrednu proizvodnju i promet, Velika Drenova",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Velika Drenova",
+   "indeks": "37245"
+  },
+  {
+   "reg_nomer": "4205",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63742309",
+   "nazvanie": "Bojan Milanović PR, proizvodnja vina VINARIJA MAGAZA, Velika Drenova",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Velika Drenova",
+   "indeks": "37245"
+  },
+  {
+   "reg_nomer": "5948",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65836866",
+   "nazvanie": "Đorđe Bradić PR, proizvodnja vina \"VINARIJA BRADIĆ\" Mala Drenova",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Mala Drenova",
+   "indeks": "37246"
+  },
+  {
+   "reg_nomer": "6649",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66470008",
+   "nazvanie": "Darko Maksić PR VINARIJA MORAVSKI VAL Mala Sugubina",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Mala Sugubina",
+   "indeks": "37246"
+  },
+  {
+   "reg_nomer": "7275",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65791277",
+   "nazvanie": "ALEKSANDAR DAČIĆ PR PROIZVODNJA VINA OD GROŽĐA VIN-DES DAČIĆ MALA SUGUBINA",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Mala Sugubina",
+   "indeks": "37246"
+  },
+  {
+   "reg_nomer": "4212",
+   "vid": "PRAVNO LICE - ZADRUGA",
+   "maticnyj_nomer": "21378356",
+   "nazvanie": "Zemljoradnička zadruga \"Mala Sugubina 198\", Mala Sugubina",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Mala Sugubina",
+   "indeks": "37246"
+  },
+  {
+   "reg_nomer": "4110",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63094455",
+   "nazvanie": "Veljko Vilimonović preduzetnik, proizvodnja vina od grožđa “VINARIJA VILIMONOVIĆ”, Medveđa",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Medveđa",
+   "indeks": "37244"
+  },
+  {
+   "reg_nomer": "5826",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21554529",
+   "nazvanie": "Privredno društvo za proizvodnju i promet \"VINARIJA JEZDIMIROVIĆ\" DOO Riljac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Riljac",
+   "indeks": "37246"
+  },
+  {
+   "reg_nomer": "5551",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60169144",
+   "nazvanie": "ZANATSKO TRGOVINSKA RADNJA VINARIJA BOBAN MARKOVIĆ PR, STRAGARI",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Stragari",
+   "indeks": "37245"
+  },
+  {
+   "reg_nomer": "5575",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17269267",
+   "nazvanie": "JR TEMPO FOODS DOO PLANINICA",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Trstenik",
+   "indeks": "37240"
+  },
+  {
+   "reg_nomer": "7026",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67146212",
+   "nazvanie": "JELENA NEDELJKOVIĆ ŽIVANOVIĆ PR PROIZVODNJA VINA OD GROŽĐA MISIONAR STRAGARI",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Trstenik",
+   "indeks": "37240"
+  },
+  {
+   "reg_nomer": "5306",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7391480",
+   "nazvanie": "ZIPP DOO PARAĆIN OGRANAK VINARIJA JOVAC",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Jovac",
+   "indeks": "35222"
+  },
+  {
+   "reg_nomer": "5062",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61175326",
+   "nazvanie": "Milan Milojević PR \"PORODIČNA VINARIJA MILOJEVIĆ\", Ostrikovac",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Ostrikovac",
+   "indeks": "35250"
+  },
+  {
+   "reg_nomer": "6163",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21640263",
+   "nazvanie": "Vinarija Hrebeljanović DOO Ćuprija",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Ćuprija",
+   "indeks": "35230"
+  },
+  {
+   "reg_nomer": "5669",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65453037",
+   "nazvanie": "Milan Popović PR prizvodnja vina \"Kuća vina Popović\" Krvije",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Krvije",
+   "indeks": "12300"
+  },
+  {
+   "reg_nomer": "5278",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63599131",
+   "nazvanie": "Nemanja Milošević PR proizvodnja vina MILANOV PODRUM Lopušnik",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Lopušnik",
+   "indeks": "12300"
+  },
+  {
+   "reg_nomer": "6637",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20514108",
+   "nazvanie": "PRIVREDNO DRUŠTVO ZA INŽENJERING, TRGOVINU I USLUGE „FMS KVART“ DOO OREŠKOVICA",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Oreškovica",
+   "indeks": "12308"
+  },
+  {
+   "reg_nomer": "4178",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62420812",
+   "nazvanie": "STEFAN NEĆAK PREDUZETNIK, VINARIJA NEĆAK, PETROVAC",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Petrovac",
+   "indeks": "12300"
+  },
+  {
+   "reg_nomer": "4198",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64755005",
+   "nazvanie": "MARJAN SAVIĆ PREDUZETNIK PROIZVODNJA VINA VINARIJA SAVIĆ PIROT",
+   "okrug": "Pirotski",
+   "okrug_nomer": "22",
+   "naselje": "Pirot",
+   "indeks": "18300"
+  },
+  {
+   "reg_nomer": "6788",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20259752",
+   "nazvanie": "BORJANA DOO, PIROT",
+   "okrug": "Pirotski",
+   "okrug_nomer": "22",
+   "naselje": "Pirot",
+   "indeks": "18300"
+  },
+  {
+   "reg_nomer": "1751",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "56916601",
+   "nazvanie": "Samostalna radnja „Vinarija Živković”, Miroslav Živković Preduzetnik Kličevac",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Kličevac",
+   "indeks": "12209"
+  },
+  {
+   "reg_nomer": "1",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20423587",
+   "nazvanie": "„Toplički vinogradiˮ DOO Gojinovac",
+   "okrug": "Toplički",
+   "okrug_nomer": "21",
+   "naselje": "Gojinovac",
+   "indeks": "18424"
+  },
+  {
+   "reg_nomer": "4187",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64789210",
+   "nazvanie": "ZORICA KOSTIĆ PR PROIZVODNJA VINA PORODIČNA VINARIJA KOSTIĆ PROKUPLJE",
+   "okrug": "Toplički",
+   "okrug_nomer": "21",
+   "naselje": "Prokuplje",
+   "indeks": "18400"
+  },
+  {
+   "reg_nomer": "4180",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21144606",
+   "nazvanie": "VINOGRADI I VINARIJA VELIČKOVIĆ d.o.o. Beograd-Voždovac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Voždovac",
+   "indeks": "11010"
+  },
+  {
+   "reg_nomer": "5743",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7959109",
+   "nazvanie": "DRUŠTVO AĆIM DOO, PINOSAVA",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Voždovac",
+   "indeks": "11010"
+  },
+  {
+   "reg_nomer": "5257",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7890508",
+   "nazvanie": "\"BULLET\", DOO, Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Voždovac",
+   "indeks": "11010"
+  },
+  {
+   "reg_nomer": "5262",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21368130",
+   "nazvanie": "VINARIJA TODOROVIĆ DOO, BEOGRAD-VOŽDOVAC",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Voždovac",
+   "indeks": "11010"
+  },
+  {
+   "reg_nomer": "4079",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61412450",
+   "nazvanie": "Milan Sučević PR, radnja za proizvodnju rakije i vina \"SUČKO\", Beograd-Voždovac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Voždovac",
+   "indeks": "11010"
+  },
+  {
+   "reg_nomer": "7370",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20455292",
+   "nazvanie": "PROKUPAC DOO BEOGRAD, DRUŠTVO ZA PROIZVODNJU I PROMET ALKOHOLNIH I BEZALKOHOLNIH PIĆA, POLJOPRIVREDNIH PROIZVODA, PRUŽANJE UGOSTITELJSKIH I DRUGIH USLUGA",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Voždovac",
+   "indeks": "11010"
+  },
+  {
+   "reg_nomer": "1017",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "6936229",
+   "nazvanie": "„Bogunovićˮ DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zemun",
+   "indeks": "11080"
+  },
+  {
+   "reg_nomer": "4188",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63615358",
+   "nazvanie": "Maja Drenić PR proizvodnja vina - vinarija Čaša vina i priča Beograd (Zemun)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zemun",
+   "indeks": "11080"
+  },
+  {
+   "reg_nomer": "5291",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7460198",
+   "nazvanie": "\"Zenit trade\" doo Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zemun",
+   "indeks": "11080"
+  },
+  {
+   "reg_nomer": "5821",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17492527",
+   "nazvanie": "PREDUZEĆE ZA UVOZ IZVOZ I USLUGE \"TREF LINE\" DOO BEOGRAD (ZEMUN)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zemun",
+   "indeks": "11080"
+  },
+  {
+   "reg_nomer": "5427",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21408999",
+   "nazvanie": "„VINARIJA NOVAK\" DOO Beograd-Zemun",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zemun",
+   "indeks": "11080"
+  },
+  {
+   "reg_nomer": "7010",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21967572",
+   "nazvanie": "MOJA VINARIJA doo Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zemun",
+   "indeks": "11080"
+  },
+  {
+   "reg_nomer": "152",
+   "vid": "PRAVNO LICE - FAKULTET",
+   "maticnyj_nomer": "7029847",
+   "nazvanie": "Poljoprivredni fakultet u Beogradu, O.D. Radmilovac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zemun",
+   "indeks": "11080"
+  },
+  {
+   "reg_nomer": "24",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7949928",
+   "nazvanie": "ASTRA ITB DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "5287",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20542411",
+   "nazvanie": "\"Conart\" doo Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "5572",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21348554",
+   "nazvanie": "Vinarija Bela kula doo Beograd-Novi Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "5819",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65165198",
+   "nazvanie": "NIKOLA MRVALJEVIĆ pr proizvodnja vina vinarija MIRACULIX Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "4195",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17145738",
+   "nazvanie": "VINERA PREDUZEĆE ZA PROIZVODNJU TRGOVINU I USLUGE DOO BEOGRAD (NOVI BEOGRAD)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "5327",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21125938",
+   "nazvanie": "„MC HOLDING INTERNATIONALˮ DOO BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "5135",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21104876",
+   "nazvanie": "VINARIJA EDEN DOO",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "6586",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21652954",
+   "nazvanie": "WINE HOUSE KOSMAJ DOO",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "7337",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67982916",
+   "nazvanie": "Aleksandar Nedić pr Vinarija DALEKO OD MORA Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Novi Beograd",
+   "indeks": "11070"
+  },
+  {
+   "reg_nomer": "5385",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21187089",
+   "nazvanie": "BOOKBRIDGE IMPORT & EXPORT DOO Beograd-Palilula",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Palilula",
+   "indeks": "11060"
+  },
+  {
+   "reg_nomer": "4134",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62596732",
+   "nazvanie": "ALEKSANDAR STANKOVIĆ PR, SAMOSTALNA ZANATSKA TRGOVINSKA RADNJA PODRUM PEVAC BEOGRAD (PALILULA)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Palilula",
+   "indeks": "11060"
+  },
+  {
+   "reg_nomer": "4196",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63464562",
+   "nazvanie": "Vukašin Škrbić PR, radnja za proizvodnju i prodaju vina i rakije \"VINARIJA ŠKRBIĆ\", Beograd-Palilula",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Palilula",
+   "indeks": "11060"
+  },
+  {
+   "reg_nomer": "4230",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65294036",
+   "nazvanie": "DARKO JAKŠIĆ PR KONSALTING WINE RESEARCH BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Palilula",
+   "indeks": "11060"
+  },
+  {
+   "reg_nomer": "6647",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21267627",
+   "nazvanie": "ŠKRBIĆ GROUP DOO",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Palilula",
+   "indeks": "11060"
+  },
+  {
+   "reg_nomer": "7265",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61349235",
+   "nazvanie": "MILJKO MARKOVIĆ PR, AGENCIJA ZA UZGOJ I ISKORIŠĆAVANJE ŠUMA I ODGOVARAJUĆE USLUŽNE AKTIVNOSTI ROMB-M, BEOGRAD (RAKOVICA)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Rakovica",
+   "indeks": "11090"
+  },
+  {
+   "reg_nomer": "5233",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21358827",
+   "nazvanie": "\"VINOKRATIJA\", DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Savski Venac",
+   "indeks": "11040"
+  },
+  {
+   "reg_nomer": "5807",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65687046",
+   "nazvanie": "GORAN BLAGOJEVIĆ PR PROIZVODNJA VINA VINARIJA BLAGOJEVIĆ BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Savski Venac",
+   "indeks": "11040"
+  },
+  {
+   "reg_nomer": "6578",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20896744",
+   "nazvanie": "\"SECOTEK\" DOO Beograd-Savski Venac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Savski Venac",
+   "indeks": "11040"
+  },
+  {
+   "reg_nomer": "5776",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21387177",
+   "nazvanie": "Majstorska radionica 2018 DOO Beograd-Savski Venac",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Savski Venac",
+   "indeks": "11040"
+  },
+  {
+   "reg_nomer": "7436",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "6205976",
+   "nazvanie": "DAN COMPANY DOO PREDUZEĆE ZA TRGOVINU, BEOGRAD (SAVSKI VENAC)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Savski Venac",
+   "indeks": "11040"
+  },
+  {
+   "reg_nomer": "178",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20488476",
+   "nazvanie": "TRI ORAHA d.o.o. Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5277",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20717220",
+   "nazvanie": "Privredno društvo \"PRUNA\" DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5808",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20941979",
+   "nazvanie": "RAFIRMAN DOO Beograd-Stari Grad",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5888",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21053457",
+   "nazvanie": "Terra organica društvo sa ograničenom odgovornošću Beograd-Stari Grad",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5153",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17571605",
+   "nazvanie": "WINECO-PODRUM RADENKOVIĆ DOO BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "4209",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17567446",
+   "nazvanie": "\"ART & POPCORN\" DOO BEOGRAD OGRANAK \"PODRUM TOŠIĆI\" ZEMUN",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "144",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20704268",
+   "nazvanie": "„Patrijaršijska dobraˮ DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "7262",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21867527",
+   "nazvanie": "Društvo sa ograničenom odgovornošću ERS FRUIT TRADE Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Stari Grad",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5236",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64203037",
+   "nazvanie": "Nikola Karaklić preduzetnik, radnja za ugostiteljstvo i proizvodnju jakih alkoholnih pića \"Staro Užice\" Beograd (Savski venac)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Čukarica",
+   "indeks": "11030"
+  },
+  {
+   "reg_nomer": "5238",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64576259",
+   "nazvanie": "ĐORĐE JOTIĆ PR AGENCIJA ZA RAČUNARSKO PROGRAMIRANJE QUALITY PRO SOLUTIONS BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Čukarica",
+   "indeks": "11030"
+  },
+  {
+   "reg_nomer": "5917",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20517778",
+   "nazvanie": "HUP „MIHAJLOVACˮ DOO BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Čukarica",
+   "indeks": "11030"
+  },
+  {
+   "reg_nomer": "4112",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20114371",
+   "nazvanie": "STEMINA DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Čukarica",
+   "indeks": "11030"
+  },
+  {
+   "reg_nomer": "6772",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66731740",
+   "nazvanie": "Aleksandar Ljutovac PR Proizvodnja i promet vina i rakije KORENI Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Čukarica",
+   "indeks": "11030"
+  },
+  {
+   "reg_nomer": "1285",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20614978",
+   "nazvanie": "„VINARIJA MEĆAVAˮ DOO",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Niš - Pantelej",
+   "indeks": "18103"
+  },
+  {
+   "reg_nomer": "5460",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65131889",
+   "nazvanie": "Siniša Živković PR, Proizvodnja i prodaja vina od grožđa \"VINSKI PODRUM ŽIVKOVIĆ\", Niš",
+   "okrug": "Nišavski",
+   "okrug_nomer": "20",
+   "naselje": "Niš - Pantelej",
+   "indeks": "18103"
+  },
+  {
+   "reg_nomer": "285",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62596058",
+   "nazvanie": "Dragan Jovanović PR, zanatska radnja za proizvodnju vina i rakija „Galot“ Banatski Karlovac",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Banatski Karlovac",
+   "indeks": "26320"
+  },
+  {
+   "reg_nomer": "4058",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21025763",
+   "nazvanie": "„VINARIJA ĐORĐEˮ DOO, Banatski Karlovac",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Banatski Karlovac",
+   "indeks": "26320"
+  },
+  {
+   "reg_nomer": "5270",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64934732",
+   "nazvanie": "Milan Lalić PR, proizvodnja vina \"VINARIJA LALIĆ\", Novi Kozjak",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Novi Kozjak",
+   "indeks": "26353"
+  },
+  {
+   "reg_nomer": "7132",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "66630307",
+   "nazvanie": "Goran Ajduković PR AG-COMPANY",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Svilojevo",
+   "indeks": "25265"
+  },
+  {
+   "reg_nomer": "5777",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65517205",
+   "nazvanie": "Isidora Praška pr Proizvodnja vina od grožđa VINARIJA PRAŠKA PLUS Bačka Palanka",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Bačka Palanka",
+   "indeks": "21400"
+  },
+  {
+   "reg_nomer": "7124",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63108472",
+   "nazvanie": "STRAHINJA KNEŽEVIĆ PR TRGOVINSKO ZANATSKA RADNJA I MENJAČNICA SAMANTA PLUS BAČKA PALANKA",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Bačka Palanka",
+   "indeks": "21400"
+  },
+  {
+   "reg_nomer": "4153",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64357522",
+   "nazvanie": "Željka Dragičević PR, proizvodnja i promet vina \"VINARIJA TRI MEĐE I OBLAK\", Neštin",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Neštin",
+   "indeks": "21314"
+  },
+  {
+   "reg_nomer": "5266",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61489169",
+   "nazvanie": "Milica Stakić PR radnja za preradu grožđa i proizvodnju vina \"VINARIJA STAKIĆ\" Neštin",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Neštin",
+   "indeks": "21314"
+  },
+  {
+   "reg_nomer": "5269",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61317678",
+   "nazvanie": "Lajoš Brindza preduzetnik proizvodnja vina i destilovanih alkoholnih pića \"VINARIJA BRINDZA\" Bačka Topola",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Bačka Topola",
+   "indeks": "24300"
+  },
+  {
+   "reg_nomer": "1097",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20923407",
+   "nazvanie": "Vinarija Brindza DOO",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Krivaja",
+   "indeks": "24341"
+  },
+  {
+   "reg_nomer": "7398",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "22162250",
+   "nazvanie": "VINARIJA FENIX DOO BAČKI PETROVAC",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Bački Petrovac",
+   "indeks": "21470"
+  },
+  {
+   "reg_nomer": "1851",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20561564",
+   "nazvanie": "„VINARIUMˮ DOO Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "92",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21575178",
+   "nazvanie": "AKADEMIA MODELE DOO BANOŠTOR",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "161",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61533346",
+   "nazvanie": "Milenko Šijački PR, proizvodnja vina i trgovina Vinarija Šijački Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "4138",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63321176",
+   "nazvanie": "Jovan Radošević PR, proizvodnja grožđa i vina \"VINARIJA RADOŠEVIĆ\", Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "5093",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62444738",
+   "nazvanie": "Vasa Stojković preduzetnik, proizvodnja vina od grožđa PODRUM STOJKOVIĆ Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "5226",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64882163",
+   "nazvanie": "Rade Adamović preduzetnik, Proizvodnja vina od grožđa \"VINARIJA ADAMOVIĆ\", Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "4137",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62597976",
+   "nazvanie": "KATA UROŠEVIĆ PR VINARIJA VINOGRADI UROŠEVIĆ BANOŠTOR",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "4161",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61535438",
+   "nazvanie": "Jelena Lalović PR, Proizvodnja i promet vina PODRUM AČANSKI, Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "5953",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65845709",
+   "nazvanie": "Milica Rakić, PR proizvodnja vina \"Podrum Ćega\" Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "13",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20198133",
+   "nazvanie": "„Fruškogorski vinogradiˮ DOO Banoštor",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "7237",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67934725",
+   "nazvanie": "ALEKSANDRA STOJKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINTAS BANOŠTOR",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Banoštor",
+   "indeks": "21312"
+  },
+  {
+   "reg_nomer": "5778",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65644223",
+   "nazvanie": "Nataša Silađi PR Proizvodnja vina \"Sava na Dunavu\" Koruška",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Beočin",
+   "indeks": "21300"
+  },
+  {
+   "reg_nomer": "4160",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20513071",
+   "nazvanie": "WINE&CO DOO RAKOVAC",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Rakovac",
+   "indeks": "21299"
+  },
+  {
+   "reg_nomer": "5267",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64591592",
+   "nazvanie": "Milorad Jovičić PR \"VINARIJA DUMO\" Rakovac",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Rakovac",
+   "indeks": "21299"
+  },
+  {
+   "reg_nomer": "4215",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20553979",
+   "nazvanie": "IMPERATOR DOO",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Rakovac",
+   "indeks": "21299"
+  },
+  {
+   "reg_nomer": "5342",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64879766",
+   "nazvanie": "VINARIJA VERKAT DOO ČEREVIĆ",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Čerević",
+   "indeks": "21311"
+  },
+  {
+   "reg_nomer": "4139",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61155139",
+   "nazvanie": "Ranko Zeremski PR Proizvodnja vina i prirodnih rakija BELO BRDO Čerević",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Čerević",
+   "indeks": "21311"
+  },
+  {
+   "reg_nomer": "4061",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62572817",
+   "nazvanie": "Dobrinko Sočanski PR, Vinarija Sočanski, Veliko Središte",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Veliko Središte",
+   "indeks": "26334"
+  },
+  {
+   "reg_nomer": "700",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "22166069",
+   "nazvanie": "SWISS WINE DOO BEOGRAD (SAVSKI VENAC) OGRANAK VINOGRADARSTVO I INDUSTRIJA VINA VINARIJA DRAŠKOVIĆ",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Vršac",
+   "indeks": "26300"
+  },
+  {
+   "reg_nomer": "4089",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63369535",
+   "nazvanie": "Nikola Cuculj PR,\"VINARIJA VINIK\", Vršac",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Vršac",
+   "indeks": "26300"
+  },
+  {
+   "reg_nomer": "5676",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63692875",
+   "nazvanie": "Nenad Stankov preduzetnik proizvodnja vina TALISMAN Vršac",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Vršac",
+   "indeks": "26300"
+  },
+  {
+   "reg_nomer": "5801",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65585855",
+   "nazvanie": "LJILJANA ŠLJIVIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM VINA ALEKSANDAR MMMA VRŠAC",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Vršac",
+   "indeks": "26300"
+  },
+  {
+   "reg_nomer": "5624",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63475602",
+   "nazvanie": "Milan Marinković PR radnja za proizvodnju vina \"VINARIJA MARINKOVIĆ 1938\" Vršac",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Vršac",
+   "indeks": "26300"
+  },
+  {
+   "reg_nomer": "5080",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21216623",
+   "nazvanie": "„SOUL WINEˮ D.O.O.",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Vršac",
+   "indeks": "26300"
+  },
+  {
+   "reg_nomer": "6542",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20752955",
+   "nazvanie": "\"CELANOVA AGRO\" DOO Vršac",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Vršac",
+   "indeks": "26300"
+  },
+  {
+   "reg_nomer": "534",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "57243635",
+   "nazvanie": "„Porodični podrum vina SELECTAˮ Jocić Sonja PR, Gudurica",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Gudurica",
+   "indeks": "26335"
+  },
+  {
+   "reg_nomer": "4100",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20573058",
+   "nazvanie": "PORODIČNA VINARIJA ORLIĆ DOO GUDURICA",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Gudurica",
+   "indeks": "26335"
+  },
+  {
+   "reg_nomer": "4065",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61428640",
+   "nazvanie": "Josif Nedin PR, Vinarija porodični podrum Nedin, Gudurica",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Gudurica",
+   "indeks": "26335"
+  },
+  {
+   "reg_nomer": "4109",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63741906",
+   "nazvanie": "LJILJANA RNJAK PR PROIZVODNJA VINA „VINARIJA RNJAKˮ GUDURICA",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Gudurica",
+   "indeks": "26335"
+  },
+  {
+   "reg_nomer": "4101",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63400815",
+   "nazvanie": "Ivan Milanović PR, vinarija \"VINARIJA BAHUS\", Gudurica",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Gudurica",
+   "indeks": "26335"
+  },
+  {
+   "reg_nomer": "5790",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65562936",
+   "nazvanie": "Olivera Mišić pr Vinarija Mišić Gudurica",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Gudurica",
+   "indeks": "26335"
+  },
+  {
+   "reg_nomer": "5311",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64958356",
+   "nazvanie": "Marija Deđanski pr proizvodnja vina \"Vinarija Kula Vetrova\" Malo Središte",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Malo Središte",
+   "indeks": "26335"
+  },
+  {
+   "reg_nomer": "6017",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65806231",
+   "nazvanie": "NEDELJKO PUHAČA PR PROIZVODNJA VINA OD GROŽĐA VINARIJA PUHAČA ČURU",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Čurug",
+   "indeks": "21238"
+  },
+  {
+   "reg_nomer": "7433",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67999843",
+   "nazvanie": "DRAGANA MILIĆEV PREDUZETNIK PROIZVODNJA VINA OD GROŽĐA STARI PODRUM ČURUG",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Čurug",
+   "indeks": "21238"
+  },
+  {
+   "reg_nomer": "177",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17538373",
+   "nazvanie": "SOKO AGRAR DOO BEŠKA",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Beška",
+   "indeks": "22324"
+  },
+  {
+   "reg_nomer": "5812",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65669706",
+   "nazvanie": "TEA ŽIVKOVIĆ PREDUZETNIK PROIZVODNJA VINA OD GROŽĐA VINARIJA FRUŠKA GORA BEŠKA",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Beška",
+   "indeks": "22324"
+  },
+  {
+   "reg_nomer": "5919",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21581968",
+   "nazvanie": "\"BT WINERY\" D.O.O. BEŠKA",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Beška",
+   "indeks": "22324"
+  },
+  {
+   "reg_nomer": "7174",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67847075",
+   "nazvanie": "ALEKSANDAR BATALO PR PROIZVODNJA VINA Z&B Winery BEŠKA",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Beška",
+   "indeks": "22324"
+  },
+  {
+   "reg_nomer": "4143",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64729365",
+   "nazvanie": "Branislav Komazec preduzetnik Proizvodnja i prodaja vina i grožđa VINARIJA KOMAZEC Inđija",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Inđija",
+   "indeks": "22320"
+  },
+  {
+   "reg_nomer": "5524",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65186438",
+   "nazvanie": "DRAGANA INJAC PREDUZETNIK \"AVEN ID\"",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Inđija",
+   "indeks": "22320"
+  },
+  {
+   "reg_nomer": "5757",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65461439",
+   "nazvanie": "NIKOLINA MACURA PR PROIZVODNJA VINA MACURA PRODUKT STARI SLANKAMEN",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Inđija",
+   "indeks": "22320"
+  },
+  {
+   "reg_nomer": "6560",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66259765",
+   "nazvanie": "SAŠA LANG PR PROIZVODNJA VINA OD GROŽĐA LANGOV PODRUM INĐIJA",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Inđija",
+   "indeks": "22320"
+  },
+  {
+   "reg_nomer": "4097",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21256323",
+   "nazvanie": "\"Patkov vinograd\" DOO Krčedin",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Krčedin",
+   "indeks": "22325"
+  },
+  {
+   "reg_nomer": "6316",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21608394",
+   "nazvanie": "VINARIJA BREG DOO KRČEDIN",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Krčedin",
+   "indeks": "22325"
+  },
+  {
+   "reg_nomer": "823",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20654481",
+   "nazvanie": "„Barikˮ DOO Novi Slankamen",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Novi Slankamen",
+   "indeks": "22323"
+  },
+  {
+   "reg_nomer": "6392",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "21683213",
+   "nazvanie": "\"VINARIJA ORLIĆ\"DOO Novi Slankamen",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Novi Slankamen",
+   "indeks": "22323"
+  },
+  {
+   "reg_nomer": "4025",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20160314",
+   "nazvanie": "XTIM DOO Novi Slankamen",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Novi Slankamen",
+   "indeks": "22323"
+  },
+  {
+   "reg_nomer": "132",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20703172",
+   "nazvanie": "„Vinarija Acumincumˮ DOO Stari Slankamen",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Stari Slankamen",
+   "indeks": "22329"
+  },
+  {
+   "reg_nomer": "4225",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66739686",
+   "nazvanie": "KATARINA HADŽI POPOVIĆ PR PROIZVODNJA VINA VINARIJA HADŽI POPOVIĆ STARI SLANKAMEN",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Stari Slankamen",
+   "indeks": "22329"
+  },
+  {
+   "reg_nomer": "6655",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66450988",
+   "nazvanie": "ALEKSANDAR KIRALJ PR PROIZVODNJA VINA VINARIJA KIRALY VRDNIK",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Vrdnik",
+   "indeks": "22408"
+  },
+  {
+   "reg_nomer": "6742",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64732056",
+   "nazvanie": "Aleksandra Dimitrijević pr Proizvodnja vina i prodaja Vinarija Mira Vrdnik",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Vrdnik",
+   "indeks": "22408"
+  },
+  {
+   "reg_nomer": "7167",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67779916",
+   "nazvanie": "MIROSLAV SIDOR PREDUZETNIK VINARIJA VALDOV VRDNIK",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Vrdnik",
+   "indeks": "22408"
+  },
+  {
+   "reg_nomer": "957",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20688823",
+   "nazvanie": "\"VINARIJA SOVILJ\" DOO IRIG",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "1089",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8784892",
+   "nazvanie": "Vinarija Kovačević DOO Irig",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "4068",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63616532",
+   "nazvanie": "Nebojša Vlahović PR, Radnja za proizvodnju vina od grožđa \"Vinarija Komuna\", Rivica",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "5258",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21350079",
+   "nazvanie": "\"KRSTAŠICA\", DOO",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "4145",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21053104",
+   "nazvanie": "\"VINOGRAD HOPOVO\" DOO Irig",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "6629",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66422828",
+   "nazvanie": "Dušan Milosavljević PR proizvodnja vina KM VINARIJA 022 Irig",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "14",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8307407",
+   "nazvanie": "„AGRINAˮ DOO IRIG",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "6561",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21659665",
+   "nazvanie": "VINO PRO VINO DOO IRIG",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Irig",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "5798",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65441381",
+   "nazvanie": "NEMANJA TANASKOVIĆ PREDUZETNIK PROIZVODNJA VINA VINARIJA TANASKOVIĆ KRUŠEDOL PRNJAVOR",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Krušedol Prnjavor",
+   "indeks": "22328"
+  },
+  {
+   "reg_nomer": "7126",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20532360",
+   "nazvanie": "EUROSALON FABRIKA DOO BEOGRAD (PALILULA) OGRANAK EUROSALON WINERY",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Krušedol Selo",
+   "indeks": "22328"
+  },
+  {
+   "reg_nomer": "5897",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21274968",
+   "nazvanie": "THE sparkling winery d.o.o.",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Mala Remeta",
+   "indeks": "22409"
+  },
+  {
+   "reg_nomer": "90",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20176288",
+   "nazvanie": "„ATOS FRUCTUMˮ DOO Mala Remeta",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Mala Remeta",
+   "indeks": "22409"
+  },
+  {
+   "reg_nomer": "4074",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64626329",
+   "nazvanie": "Goran Tadić, PR Proizvodnja i prodaja vina \"Vinarija Tadić\" Neradin",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Neradin",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "4098",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63221244",
+   "nazvanie": "Sava Odrovački PR Vinarija Odrovački Rivica",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Rivica",
+   "indeks": "22406"
+  },
+  {
+   "reg_nomer": "4128",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21258962",
+   "nazvanie": "\"DUKAY-VIN\" DOO Kanjiža",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Kanjiža",
+   "indeks": "24420"
+  },
+  {
+   "reg_nomer": "6032",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65842637",
+   "nazvanie": "ERNE SAGMEISTER PR KANJIŽA",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Kanjiža",
+   "indeks": "24420"
+  },
+  {
+   "reg_nomer": "171",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62268662",
+   "nazvanie": "Akoš Balint PR, SZR za proizvodnju i prodaju vina i gajenje grožđa \"Podrum Balint Pinceszet\" Horgoš",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Horgoš",
+   "indeks": "24410"
+  },
+  {
+   "reg_nomer": "5251",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64656147",
+   "nazvanie": "Nikola Simović PR Proizvodnja vina od grožđa \"VINARIJA SALAŠ NAŠ\" Horgoš",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Horgoš",
+   "indeks": "24410"
+  },
+  {
+   "reg_nomer": "7152",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "22026909",
+   "nazvanie": "SEVERNI VINOGRADI DOO HORGOŠ",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Horgoš",
+   "indeks": "24410"
+  },
+  {
+   "reg_nomer": "6656",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21744336",
+   "nazvanie": "\"KEPUL VINA\" DOO IĐOŠ",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Iđoš",
+   "indeks": "23323"
+  },
+  {
+   "reg_nomer": "5795",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21508071",
+   "nazvanie": "VINARIJA RADLOVIĆ DOO MOKRIN",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Mokrin",
+   "indeks": "23305"
+  },
+  {
+   "reg_nomer": "6166",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65938782",
+   "nazvanie": "Jovica Rajić pr proizvodnja vina VINSKA KUĆA RAJIĆ Bavanište",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Bavanište",
+   "indeks": "26222"
+  },
+  {
+   "reg_nomer": "7183",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66590160",
+   "nazvanie": "DRAGANA LJUTICA PREDUZETNIK PROIZVODNJA VINA OD GROŽĐA VINARIJA LJUTICA LOVĆENAC",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Lovćenac",
+   "indeks": "24322"
+  },
+  {
+   "reg_nomer": "7329",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "68173108",
+   "nazvanie": "LASLO SILAĐI PR VINARIJA MOLIN WINERY NOVA CRNJA",
+   "okrug": "Srednjebanatski",
+   "okrug_nomer": "2",
+   "naselje": "Nova Crnja",
+   "indeks": "23218"
+  },
+  {
+   "reg_nomer": "4157",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64125397",
+   "nazvanie": "Sava Vojnović PR Vinarija Vojnović",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Begeč",
+   "indeks": "21411"
+  },
+  {
+   "reg_nomer": "4064",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20204095",
+   "nazvanie": "PODRUM \"DO KRAJA SVETA\" DOO, Kovilj",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Kovilj",
+   "indeks": "21243"
+  },
+  {
+   "reg_nomer": "4154",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62287012",
+   "nazvanie": "Jovan Antonijević PR, SZR \"PORODIČNA VINARIJA ANTONIJEVIĆ\", Ledinci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Ledinci",
+   "indeks": "21207"
+  },
+  {
+   "reg_nomer": "5336",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64991469",
+   "nazvanie": "Dragan Veselinović PR, proizvodnja vina od grožđa, destilacija, prečišćavanje i mešanje pića i delatnost restorana \"DIONIS VD\", Petrovaradin",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Petrovaradin",
+   "indeks": "21131"
+  },
+  {
+   "reg_nomer": "7331",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66583694",
+   "nazvanie": "JELENA BURMUDŽIJA PR GAJENJE GROŽĐA I TRGOVINA VINOM PETROVARADIN",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Petrovaradin",
+   "indeks": "21131"
+  },
+  {
+   "reg_nomer": "2066",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62548223",
+   "nazvanie": "Bojan Mandić PR, Proizvodnja vina od grožđa„Vinarija Verandaˮ Rumenka",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Rumenka",
+   "indeks": "21201"
+  },
+  {
+   "reg_nomer": "4231",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20612738",
+   "nazvanie": "VUND DOO ZA PROIZVODNJU TRGOVINU I USLUGE STEPANOVIĆEVO",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Stepanovićevo",
+   "indeks": "21212"
+  },
+  {
+   "reg_nomer": "6688",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66180905",
+   "nazvanie": "DRAGAN LONČAREVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA TRI TAČKE BANATSKI BRESTOVAC",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Banatski Brestovac",
+   "indeks": "26234"
+  },
+  {
+   "reg_nomer": "6587",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66327213",
+   "nazvanie": "Elena Stanimirović PR prerada grožđa i proizvodnja vina \"Porodična vinarija Stanimirović\" Jabuka",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Jabuka",
+   "indeks": "26201"
+  },
+  {
+   "reg_nomer": "4087",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63874159",
+   "nazvanie": "Miloš Đurić PR, Proizvodnja vina i rakije \"VINARIJA ĐURIĆ\", Pančevo",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Pančevo",
+   "indeks": "26000"
+  },
+  {
+   "reg_nomer": "6724",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21799777",
+   "nazvanie": "JELISAVETA DOO",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Pančevo",
+   "indeks": "26000"
+  },
+  {
+   "reg_nomer": "7263",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66349977",
+   "nazvanie": "SVETOZAR TOPIĆ PREDUZETNIK INŽENjERING PROJEKTOVANjE SAVETOVANjE U OBLASTI ELEKTROTEHNIKE I VINARIJA TOPIĆ PANČEVO",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Pančevo",
+   "indeks": "26000"
+  },
+  {
+   "reg_nomer": "6785",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66448762",
+   "nazvanie": "KOSTA MIRKOVIĆ PR PROIZVODNJA VINA VINARIJA MIRKOVIĆ PANČEVO",
+   "okrug": "Južnobanatski",
+   "okrug_nomer": "4",
+   "naselje": "Pančevo",
+   "indeks": "26000"
+  },
+  {
+   "reg_nomer": "4144",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64218212",
+   "nazvanie": "Dragan Petković PR, \"VINARIJA PETKOVIĆ-LATIN\", Pećinci",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Pećinci",
+   "indeks": "22410"
+  },
+  {
+   "reg_nomer": "5326",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65011964",
+   "nazvanie": "JELENA MUNIŽABA PR RADNJA ZA PROIZVODNJU GROŽĐA I VINA TURIZAM I UGOSTITELJSTVO RIĐICA",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Riđica",
+   "indeks": "25280"
+  },
+  {
+   "reg_nomer": "5343",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65041758",
+   "nazvanie": "Jasmina Šveljo PR, proizvodnja i prodaja vina od grožđa \"VINARIJA ŠVELJO\", Riđica",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Riđica",
+   "indeks": "25280"
+  },
+  {
+   "reg_nomer": "7175",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67802080",
+   "nazvanie": "Milica Badža PR Riđica",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Riđica",
+   "indeks": "25280"
+  },
+  {
+   "reg_nomer": "5620",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65334925",
+   "nazvanie": "Mladen Pavkov PR proizvodnja vina od grožđa \"Vinska kuća Pavkov\" Sombor",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "5255",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8314497",
+   "nazvanie": "Preduzeće za proizvodnju, promet i saobraćaj \"GRAND TRADE\" Sombor",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "4129",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62400277",
+   "nazvanie": "GABRIJELA TRIPKOVIĆ PR PROIZVODNJA VINA I UGOSTITELJSKA RADNJA VINARIJA VRT 2011 SOMBOR",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "4130",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "56394150",
+   "nazvanie": "VUK VUJKO PR PROIZVODNJA VINA OD GROŽĐA \"VUČJI PODRUM\" SOMBOR",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "49",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8799679",
+   "nazvanie": "„AE PROJEKT CENTARˮ DOO Sombor",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "7357",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "68144833",
+   "nazvanie": "GOJKO VLAŠKI PR VINARIJA VLAŠKI SOMBOR",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "4210",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65045931",
+   "nazvanie": "Darko Dozet PR, proizvodnja vina od grožđa \"Vinarija Dozet\" Sombor",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "5535",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65110458",
+   "nazvanie": "Sonja Jokić PR, proizvodnja vina od grožđa \"KUĆA VINA JOKIĆ\", Sombor",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Sombor",
+   "indeks": "25000"
+  },
+  {
+   "reg_nomer": "7359",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "68403936",
+   "nazvanie": "Aleksandar Knežević PR proizvodnja vina od grožđa Vinarija Knežević Stanišić",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Stanišić",
+   "indeks": "25284"
+  },
+  {
+   "reg_nomer": "4211",
+   "vid": "PRAVNO LICE - OSTALO",
+   "maticnyj_nomer": "20977493",
+   "nazvanie": "PROBUS VINEYARDS CCLXXX DOO VELIKI RADNICI",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Veliki Radinci",
+   "indeks": "22211"
+  },
+  {
+   "reg_nomer": "6833",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21258202",
+   "nazvanie": "\"BIKICKI VINARIJA\"d.o.o. VELIKI RADINCI",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Veliki Radinci",
+   "indeks": "22211"
+  },
+  {
+   "reg_nomer": "6409",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66139875",
+   "nazvanie": "Nikola Đorđević PR proizvodnja vina od grožđa \"DIVIN VINARIJA\" Divoš",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Divoš",
+   "indeks": "22232"
+  },
+  {
+   "reg_nomer": "6882",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21637505",
+   "nazvanie": "PREDUZEĆE ZA PROIZVODNJU TRGOVINU I USLUGE \"IMPERATOR KVINTIL\" DOO",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Ležimir",
+   "indeks": "22207"
+  },
+  {
+   "reg_nomer": "6598",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21711918",
+   "nazvanie": "\"M AGRO\" DOO SREMSKA MITROVICA",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Sremska Mitrovica",
+   "indeks": "22000"
+  },
+  {
+   "reg_nomer": "809",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20922346",
+   "nazvanie": "„CHICHATEAUˮ DOO Šišatovac",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Šišatovac",
+   "indeks": "22207"
+  },
+  {
+   "reg_nomer": "32",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8666903",
+   "nazvanie": "DOO VINUM Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "483",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20470313",
+   "nazvanie": "Vinarija Dulka DOO Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "12",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61465111",
+   "nazvanie": "Predrag Crnković, PR Vinarija Kiš Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "313",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61474897",
+   "nazvanie": "Aleksandar Mrđanin PR, SZR„Vinarija Mrđaninˮ Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "4125",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61530193",
+   "nazvanie": "Milan Petrović PR, SZR \"PODRUM PETROVIĆ\", Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "4149",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62399031",
+   "nazvanie": "BOJAN KOSOVIĆ PR PROIZVODNJA VINA \"PORODIČNA VINARIJA MK KOSOVIĆ\" SREMSKI KARLOVCI",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "5259",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63952940",
+   "nazvanie": "Jovan Pavlović preduzetnik Proizvodnja vina od grožđa \"Vinarija Kurjak\" Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "4072",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62950722",
+   "nazvanie": "Miodrag Bjelica PR, Proizvodnja i prodaja vina \"VINARIJA BJELICA\" Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "4052",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21009857",
+   "nazvanie": "\"VINARIJA 45. PARALELA \" DOO SREMSKI KARLOVCI",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "6996",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21836010",
+   "nazvanie": "KIŠ 1801 d.o.o. Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "6437",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8121052",
+   "nazvanie": "VINARIJA KNEŽEVIĆ DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU SREMSKI KARLOVCI",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "6909",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20242353",
+   "nazvanie": "TERRA GRANUM DOO SREMSKI KARLOVCI",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "5785",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21478032",
+   "nazvanie": "FRUG DOO Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "45",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20753129",
+   "nazvanie": "Vinarija Veritas Ćuković DOO Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "7166",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67810937",
+   "nazvanie": "Tatjana Milošević PR Proizvodnja vina Vinarija Milošević Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "5543",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65188317",
+   "nazvanie": "Đorđe Kolarović PR, proizvodnja vina, alkoholnih pića i prodaja umetničkih dela \"ART ET VINUM\" Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "4223",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66646378",
+   "nazvanie": "BRANISLAV APATOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA APATOVIĆ SREMSKI KARLOVCI",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "2067",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61642790",
+   "nazvanie": "Dražen Đurđić PR, Vinarija za proizvodnju i preradu grožđa i proizvodnju vina Đurđić, Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "7128",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21516651",
+   "nazvanie": "BV VINARIJA DOO SREMSKI KARLOVCI",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "1326",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61371320",
+   "nazvanie": "Borivoj Živanović PR SZR „Vinarija Živanovićˮ Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "1449",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61413472",
+   "nazvanie": "Predrag Bajilo PR, SZR Podrum Bajilo Sremski Karlovci",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremski Karlovci",
+   "indeks": "21205"
+  },
+  {
+   "reg_nomer": "4148",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62241250",
+   "nazvanie": "Dejan Milanović preduzetnik, Samostalna radnja za proizvodnju i trgovinu \"VINARIJA MILANOVIĆ\", Surduk",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Surduk",
+   "indeks": "22307"
+  },
+  {
+   "reg_nomer": "4226",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64251783",
+   "nazvanie": "Atila Klinocki, PR Radnja za proizvodnju vina \"Klinocki Wine\" Bajmok",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Bajmok",
+   "indeks": "24210"
+  },
+  {
+   "reg_nomer": "4234",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67739485",
+   "nazvanie": "Sara Davčik pr Proizvodnja vina od grožđa VINARIJA DAVČIK Tavankut",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Gornji Tavankut",
+   "indeks": "24214"
+  },
+  {
+   "reg_nomer": "7118",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67554418",
+   "nazvanie": "Katarina Skenderović pr Proizvodnja vina PODRUM SKENDEROVIĆ Ljutovo",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Ljutovo",
+   "indeks": "24215"
+  },
+  {
+   "reg_nomer": "3",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20048697",
+   "nazvanie": "Preduzeće za proizvodnju i trgovinu „MR Vinogradi“ DOO Palić",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Palić",
+   "indeks": "24413"
+  },
+  {
+   "reg_nomer": "4",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8175250",
+   "nazvanie": "Vinarija Zvonko Bogdan DOO Palić",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Palić",
+   "indeks": "24413"
+  },
+  {
+   "reg_nomer": "4159",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64300393",
+   "nazvanie": "Mikloš Hompot PR, proizvodnja vina od grožđa \"VINARIJA HOMPOT\", Palić",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Palić",
+   "indeks": "24413"
+  },
+  {
+   "reg_nomer": "3283",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20687282",
+   "nazvanie": "Vinarija Čoka Plus DOO Subotica",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Subotica",
+   "indeks": "24000"
+  },
+  {
+   "reg_nomer": "4170",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62725648",
+   "nazvanie": "JUDIT POLJAKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINSKI SALAŠ ČUVARDIĆ SUBOTIC",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Subotica",
+   "indeks": "24000"
+  },
+  {
+   "reg_nomer": "4171",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8545006",
+   "nazvanie": "MAX-EX DOO SUBOTICA",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Subotica",
+   "indeks": "24000"
+  },
+  {
+   "reg_nomer": "51",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8394270",
+   "nazvanie": "TANDEX DOO Subotica",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Subotica",
+   "indeks": "24000"
+  },
+  {
+   "reg_nomer": "91",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20556269",
+   "nazvanie": "„DIBONIS WINERY\" DOO SUBOTICA",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Subotica",
+   "indeks": "24000"
+  },
+  {
+   "reg_nomer": "2",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8804907",
+   "nazvanie": "Vinski Dvor OD Hajdukovo",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Hajdukovo",
+   "indeks": "24414"
+  },
+  {
+   "reg_nomer": "5215",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61380833",
+   "nazvanie": "Iren Maurer PR gajenje grožđa proizvodnja vina i trgovinska ugostiteljska radnja \"MAURER-BOR\" Hajdukovo",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Hajdukovo",
+   "indeks": "24414"
+  },
+  {
+   "reg_nomer": "4169",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "20233621",
+   "nazvanie": "PREDUZEĆE ZA PRUŽANJE TURISTIČKIH I UGOSTITELJSKIH USLUGA MAJKIN SALAŠ DOO HAJDUKOVO",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Hajdukovo",
+   "indeks": "24414"
+  },
+  {
+   "reg_nomer": "6992",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67332415",
+   "nazvanie": "BILJANA ŽDRNJA PR PROIZVODNJA VINA VINARIJA ŽDRNJA TEMERIN",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Temerin",
+   "indeks": "21235"
+  },
+  {
+   "reg_nomer": "29",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20252952",
+   "nazvanie": "VINDULO DOO Temerin",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Temerin",
+   "indeks": "21235"
+  },
+  {
+   "reg_nomer": "6574",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21695572",
+   "nazvanie": "VINARIJA TISKI CVET DOO ČOKA",
+   "okrug": "Severnobanatski",
+   "okrug_nomer": "3",
+   "naselje": "Čoka",
+   "indeks": "23320"
+  },
+  {
+   "reg_nomer": "6873",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21880582",
+   "nazvanie": "\"DVE KULE\" DOO BAČINCI",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Bačinci",
+   "indeks": "22225"
+  },
+  {
+   "reg_nomer": "4147",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "8119015",
+   "nazvanie": "PP ERDEVIK DOO Erdevik",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Erdevik",
+   "indeks": "22230"
+  },
+  {
+   "reg_nomer": "4146",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62278668",
+   "nazvanie": "Bojan Brestovački PR, \"VINARIJA BRESTOVAČKI\", Erdevik",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Erdevik",
+   "indeks": "22230"
+  },
+  {
+   "reg_nomer": "6286",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66068838",
+   "nazvanie": "IVAN TRIVANOVIĆ, PR PROIZVODNJA VINA OD GROŽĐA ERDEVIK",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Erdevik",
+   "indeks": "22230"
+  },
+  {
+   "reg_nomer": "2053",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20581557",
+   "nazvanie": "\"VINARIJA MOLOVIN\" DOO",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Šid",
+   "indeks": "22240"
+  },
+  {
+   "reg_nomer": "4167",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21096903",
+   "nazvanie": "\"PODRUM DANGUBA\" DOO",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Šid",
+   "indeks": "22240"
+  },
+  {
+   "reg_nomer": "4099",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63730149",
+   "nazvanie": "Dragan Krsmanović PR, \"VINARIJA KRSMANOVIĆ DMNS\", Šid",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Šid",
+   "indeks": "22240"
+  },
+  {
+   "reg_nomer": "5557",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21431273",
+   "nazvanie": "VINARIJA TRIVANOVIĆ d.o.o. Šid",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Šid",
+   "indeks": "22240"
+  },
+  {
+   "reg_nomer": "5833",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21341479",
+   "nazvanie": "\"VINARIJA VINČIĆ\" doo Šid",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Šid",
+   "indeks": "22240"
+  },
+  {
+   "reg_nomer": "5698",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21408735",
+   "nazvanie": "Privredno društvo \"VISTA HILLS PLUS\" DOO Šid",
+   "okrug": "Sremski",
+   "okrug_nomer": "7",
+   "naselje": "Šid",
+   "indeks": "22240"
+  },
+  {
+   "reg_nomer": "2332",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62341092",
+   "nazvanie": "Miroslav Valčić PR, proizvodnja grožđa i vina „Valčićˮ, Gvozdenović",
+   "okrug": "Kolubarski",
+   "okrug_nomer": "9",
+   "naselje": "Gvozdenović",
+   "indeks": "14210"
+  },
+  {
+   "reg_nomer": "6946",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65258803",
+   "nazvanie": "NENAD MILOŠEVIĆ PR RADNJA ZA PROIZVODNJU VINA I TRGOVINU VINARIJA S MILOŠEVIĆ RIĐAGE",
+   "okrug": "Moravički",
+   "okrug_nomer": "17",
+   "naselje": "Riđage",
+   "indeks": "32000"
+  },
+  {
+   "reg_nomer": "6274",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21656909",
+   "nazvanie": "Vinarija Tomić DOO",
+   "okrug": "Moravički",
+   "okrug_nomer": "17",
+   "naselje": "Rošci",
+   "indeks": "32242"
+  },
+  {
+   "reg_nomer": "6291",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66052320",
+   "nazvanie": "Stevan Karić PR Vinarija Karić",
+   "okrug": "Mačvanski",
+   "okrug_nomer": "8",
+   "naselje": "Varna",
+   "indeks": "15232"
+  },
+  {
+   "reg_nomer": "3712",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20623802",
+   "nazvanie": "„Vinica Manastira Visoki Dečaniˮ DOO, Velika Hoča",
+   "okrug": "Prizrenski",
+   "okrug_nomer": "27",
+   "naselje": "Velika Hoča",
+   "indeks": "38430"
+  },
+  {
+   "reg_nomer": "5318",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61620800",
+   "nazvanie": "Srđan Petrović PR, samostalna zanatska radnja \"VINICA\" Velika Hoča",
+   "okrug": "Prizrenski",
+   "okrug_nomer": "27",
+   "naselje": "Velika Hoča",
+   "indeks": "38430"
+  },
+  {
+   "reg_nomer": "4133",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64307118",
+   "nazvanie": "DRAGAN MIJAILOVIĆ PR VINARIJA TRILOGIJA BANJA",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Banja",
+   "indeks": "34304"
+  },
+  {
+   "reg_nomer": "5642",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21413968",
+   "nazvanie": "Vinarija Legat 1903 doo Banja - Aranđelovac",
+   "okrug": "Šumadijski",
+   "okrug_nomer": "12",
+   "naselje": "Banja",
+   "indeks": "34304"
+  },
+  {
+   "reg_nomer": "4168",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21188867",
+   "nazvanie": "DIMALIS DOO BAČKA TOPOLA-STARA MORAVICA",
+   "okrug": "Severnobački",
+   "okrug_nomer": "1",
+   "naselje": "Stara Moravica",
+   "indeks": "24340"
+  },
+  {
+   "reg_nomer": "5779",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21529303",
+   "nazvanie": "„Vinarija Fenekˮ DOO Beograd-Surčin",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Jakovo",
+   "indeks": "11276"
+  },
+  {
+   "reg_nomer": "40",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "60875405",
+   "nazvanie": "Ivan Ivanović PR proizvodnja vina od grožđa \"Vinarija Ivanović\", Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4103",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7176074",
+   "nazvanie": "AD VINO ŽUPA, Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "41",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20195100",
+   "nazvanie": "VINO BUDIMIR DOO ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4106",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "54706375",
+   "nazvanie": "Samostalna trgovinska zanatska radnja \"PODRUM PIĆA ĆIRIĆ\" Saša Ćirić PR, Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4111",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63207845",
+   "nazvanie": "Aleksandar Gajić PR, proizvodnja i prodaja alkoholnih pića “VINARIJA GAJIĆ”, Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "5243",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "6223869",
+   "nazvanie": "Društvo sa ograničenom odgovornošću za proizvodnju promet i usluge \"DIONIS PROMET\", Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "5245",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63486019",
+   "nazvanie": "Blagoje Ivljanin preduzetnik radnja za proizvodnju vina od grožđa \"RB BARIL\" Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4055",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21082295",
+   "nazvanie": "VINARIJA MANASTIRA STUDENICA, DOO Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4090",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "6055524",
+   "nazvanie": "DOO \"BOKI PROMET\" ,Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6053",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65890526",
+   "nazvanie": "BORIVOJE LAZAREVIĆ PREDUZETNIK PROIZVODNJA VINA PODRUM VINA LAZAREVIĆ ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "5841",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65631814",
+   "nazvanie": "NENAD ĐURĐEVIĆ PR VINARIJA VINA ĐURĐEVIĆ ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6460",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21386383",
+   "nazvanie": "VINARIJA SAVKOVIĆ doo VITKOVO",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6589",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65890321",
+   "nazvanie": "MILAN MILjKOVIĆ PR KROJAČKA RADNjA MSSM ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "4200",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "56171258",
+   "nazvanie": "VINSKA KUĆA \"MILINČIĆ\", DRAGAN MILINČIĆ PR, Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6854",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66927130",
+   "nazvanie": "IVICA CVETKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA GAZDINSTVO CVETKOVIĆ ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6856",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21878014",
+   "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU ZA PROIZVODNJU PROMET I USLUGE TRI BRATA BOGDANOVIĆ ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "7206",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "67962826",
+   "nazvanie": "Vladica Đolić PR proizvodnja vina od grožđa Vinarija Đolić Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "157",
+   "vid": "PRAVNO LICE - ŠKOLA",
+   "maticnyj_nomer": "7154178",
+   "nazvanie": "Srednja škola „Sveti Trifunˮ sa domom učenika",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "37",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "7416237",
+   "nazvanie": "„SABOSSˮ DOO Aleksandrovac",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "6796",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66562964",
+   "nazvanie": "KATARINA JOVANOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA BADA ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "7111",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "22011936",
+   "nazvanie": "PRIVREDNO DRUŠTVO PODRUM PIĆA VV DOO ALEKSANDROVAC",
+   "okrug": "Rasinski",
+   "okrug_nomer": "19",
+   "naselje": "Aleksandrovac",
+   "indeks": "37230"
+  },
+  {
+   "reg_nomer": "5064",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64117670",
+   "nazvanie": "Vladimir Popović, PR Radnja za proizvodnju voća, grožđa, vina i destilata \"Vinarija Popović\" Sremska Kamenica",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremska Kamenica",
+   "indeks": "21208"
+  },
+  {
+   "reg_nomer": "4142",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "62586770",
+   "nazvanie": "Sava Savić PR, SZR \"PODRUM ŠUKAC\", Sremska Kamenica",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Sremska Kamenica",
+   "indeks": "21208"
+  },
+  {
+   "reg_nomer": "4051",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20981741",
+   "nazvanie": "\"FAMILIJA MILISAVLJEVIĆ\" DOO KULA",
+   "okrug": "Zapadnobački",
+   "okrug_nomer": "5",
+   "naselje": "Kula",
+   "indeks": "25230"
+  },
+  {
+   "reg_nomer": "5428",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21379352",
+   "nazvanie": "VINARIJA VINARTOS DOO Bečej",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Bečej",
+   "indeks": "21220"
+  },
+  {
+   "reg_nomer": "4220",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21702765",
+   "nazvanie": "SALAŠ GNEZDO DOO BEČEJ",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Bečej",
+   "indeks": "21220"
+  },
+  {
+   "reg_nomer": "619",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17367781",
+   "nazvanie": "Temet DOO Lozovik",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Jagodina",
+   "indeks": "35000"
+  },
+  {
+   "reg_nomer": "4062",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17186353",
+   "nazvanie": "Vinarija Piano DOO Jagodina",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Jagodina",
+   "indeks": "35000"
+  },
+  {
+   "reg_nomer": "963",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20447079",
+   "nazvanie": "ENOCENTRIK DOO Jagodina",
+   "okrug": "Pomoravski",
+   "okrug_nomer": "13",
+   "naselje": "Jagodina",
+   "indeks": "35000"
+  },
+  {
+   "reg_nomer": "5817",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63719277",
+   "nazvanie": "ALEKSANDAR BOGDANOVIĆ PR PROIZVODNJA VINA POŽAREVAC",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Požarevac",
+   "indeks": "12000"
+  },
+  {
+   "reg_nomer": "5090",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21239917",
+   "nazvanie": "AMBELOS DOO Požarevac",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Požarevac",
+   "indeks": "12000"
+  },
+  {
+   "reg_nomer": "5879",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "61757376",
+   "nazvanie": "BOJAN ŽIVADINOVIĆ PR, UGOSTITELJSKA RADNJA IZVOR POŽAREVAC",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Požarevac",
+   "indeks": "12000"
+  },
+  {
+   "reg_nomer": "4216",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "65840111",
+   "nazvanie": "Biljana Vasić, PR Proizvodnja vina \"VINARIJA UNIKAT\", Požarevac",
+   "okrug": "Braničevski",
+   "okrug_nomer": "11",
+   "naselje": "Požarevac",
+   "indeks": "12000"
+  },
+  {
+   "reg_nomer": "6782",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17283502",
+   "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU AVI KRALJEVO",
+   "okrug": "Raški",
+   "okrug_nomer": "18",
+   "naselje": "Kraljevo",
+   "indeks": "36000"
+  },
+  {
+   "reg_nomer": "5239",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20935553",
+   "nazvanie": "\"PEBEKOM\" d.o.o., Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5295",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64899503",
+   "nazvanie": "Snežana Matić Perić PR proizvodnja vina od grožđa Paraf vinski atelje Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5820",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63180653",
+   "nazvanie": "MARKO MRVALJEVIĆ pr proizvodnja vina vinarija MRVALJEVIĆ BEOGRAD",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5983",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21140589",
+   "nazvanie": "Klementina 2015 DOO Beograd-Vračar",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "4083",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "17561316",
+   "nazvanie": "\"VINOVITA - PODRUM PANAJOTOVIĆ\" DOO, Beograd (Vračar)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "4086",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "55236739",
+   "nazvanie": "Vladislav Milić, preduzetnik, destilacija pića i trgovina \"PODRUM PIĆA-STARI PODRUM\", Beograd-Vračar",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "6554",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66261565",
+   "nazvanie": "Živojin Paunović PR proizvodnja i promet vina \"Vinarija Paun\" Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "5636",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21115991",
+   "nazvanie": "„Matijašević Vinogradiˮ DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Beograd - Vračar",
+   "indeks": "11000"
+  },
+  {
+   "reg_nomer": "546",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "51810236",
+   "nazvanie": "MILE DRAGIĆ PR PROIZVODNJA MILE DRAGIĆ ZRENJANIN",
+   "okrug": "Srednjebanatski",
+   "okrug_nomer": "2",
+   "naselje": "Zrenjanin",
+   "indeks": "23000"
+  },
+  {
+   "reg_nomer": "4127",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63363642",
+   "nazvanie": "Šandor Šomođi PR, Proizvodnja vina \"PODRUM SOMOGY\", Zrenjanin",
+   "okrug": "Srednjebanatski",
+   "okrug_nomer": "2",
+   "naselje": "Zrenjanin",
+   "indeks": "23000"
+  },
+  {
+   "reg_nomer": "6033",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20286270",
+   "nazvanie": "PREDUZEĆE ZA PROIZVODNJU, TRGOVINU I USLUGE GLOB TRADE COMPANY DOO BEOGRAD (GRAD)",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zvezdara - Beograd",
+   "indeks": "11050"
+  },
+  {
+   "reg_nomer": "6405",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21469335",
+   "nazvanie": "\"PETELJKA\" DOO BEOGRAD-ZVEZDARA",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zvezdara - Beograd",
+   "indeks": "11050"
+  },
+  {
+   "reg_nomer": "142",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20708069",
+   "nazvanie": "„Power inter montˮ DOO Beograd",
+   "okrug": "Beograd",
+   "okrug_nomer": "0",
+   "naselje": "Zvezdara - Beograd",
+   "indeks": "11050"
+  },
+  {
+   "reg_nomer": "2431",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20162295",
+   "nazvanie": "PD „KAŠTEL SCHULHOFF” DOO Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "4206",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20924691",
+   "nazvanie": "Mcc McCulloch wines DOO NOVI SAD",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "6380",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "66053482",
+   "nazvanie": "Tatjana Trivić PR, Proizvodnja vina Vinarija TRIVIĆ NARANČIĆ Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "5621",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21453005",
+   "nazvanie": "\"VINARIJA FLEUR D ORANGER\" DOO NOVI SAD",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "5629",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "64682245",
+   "nazvanie": "Zvinimir Dudan PR proizvodnja vina od grožđa \"VINARIJA DUDAN\" Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "4151",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "63160920",
+   "nazvanie": "Dragoslav Vučurević, PR proizvodnja vina od grožđa \"Vinarija Vučurević\" Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "6029",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21600385",
+   "nazvanie": "Vinogradi Nikolić Neuzinski doo Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "6567",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21645117",
+   "nazvanie": "ENOLOGIC MD DOO NOVI SAD",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "6869",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21548715",
+   "nazvanie": "\"STEP TO FRUIT\" DOO Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "5579",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "20500514",
+   "nazvanie": "„MOBILSISTEMI\" DOO Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "192",
+   "vid": "PRAVNO LICE - FAKULTET",
+   "maticnyj_nomer": "8608369",
+   "nazvanie": "Poljoprivredni fakultet, Univerzitet u Novom Sadu",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "5637",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21476790",
+   "nazvanie": "Vinarija Grumen DOO Novi Sad",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "5660",
+   "vid": "PREDUZETNIK",
+   "maticnyj_nomer": "65445255",
+   "nazvanie": "Vlatko Župančić PR proizvodnja vina \"VINARIJA ŽUPANČIĆ\" Petrovaradin",
+   "okrug": "Južnobački",
+   "okrug_nomer": "6",
+   "naselje": "Novi Sad",
+   "indeks": "21000"
+  },
+  {
+   "reg_nomer": "6769",
+   "vid": "PRAVNO LICE - PRIVREDNO DRUŠTVO",
+   "maticnyj_nomer": "21051187",
+   "nazvanie": "DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU NOSTER FRUCTUS LEPOSAVIĆ",
+   "okrug": "Kosovskomitrovački",
+   "okrug_nomer": "28",
+   "naselje": "Kutnje",
+   "indeks": "38218"
+  }
+ ]
+}

@@ -76,8 +76,8 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 | 1 | Aleksandrović · Вожд (Vožd) Cabernet Sauvignon | 4.5 | 237 | 4.39 |
 | 2 | Aleksandrović · Rodoslov Grand Reserve | 4.4 | 1721 | 4.38 |
 | 3 | Radovanović · Rèserve Cabernet Sauvignon | 4.3 | 2043 | 4.29 |
-| 4 | Matijašević · Sovinoa Fumé Blanc | 4.3 | 213 | 4.21 |
-| 5 | Draganić · Profil Palava | 4.3 | 173 | 4.20 |
+| 4 | Despotika · Додир Мускат Отонел - Тамјаника (Dodir Muscat Ottonel - Тamjanika) | 4.3 | 517 | 4.26 |
+| 5 | Matijašević · Sovinoa Fumé Blanc | 4.3 | 213 | 4.21 |
 
 ## Три Моравы и Жупа
 
@@ -161,8 +161,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Virtus · Prokupac 733 — 4.3 (36)
 - Virtus · Cuvée Virtus Credo — 4.3 (349)
 - Vinarija Jeremic · Kanon Superior Merlot - Cabernet Sauvignon — 4.3 (118)
-- Деспотика (Despotika) · Додир Мускат Отонел - Тамјаника (Dodir Muscat Ottonel - Тamjanika) — 4.3 (517)
-- Деспотика (Despotika) · Krunski Dokaz Grand Reserve — 4.3 (43)
 - Podrum Janko · Zavet Stari Red Blend — 4.3 (302)
 - Podrum Janko · Бифора (Bifora) — 4.3 (122)
 - Atelje Vina Šapat · Atila Chardonnay — 4.3 (48)
@@ -242,7 +240,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Брояница (Brojanica) · Изабелла Красное Полусладкое (Isabella Red Semi-Sweet) — 4.1 (342)
 - Брояница (Brojanica) · Кагор (Kagor) — 4.1 (45)
 - Vinarija Lastar · Triangl Sauvignon - Viognier — 4.1 (114)
-- Деспотика (Despotika) · Морава Оранж — 4.1 (84)
 - Milijan Jelić · Millennium — 4.1 (188)
 - Milijan Jelić · Millennium Barrique — 4.1 (178)
 - Podrum Janko · Zapis Crveni Merlot — 4.1 (446)
@@ -285,8 +282,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Manufaktura Spasić · Krivac — 4.1 (32)
 - Manufaktura Spasić · Rebo — 4.1 (34)
 - ВИНАРИЈА СТОЈАНОВИЋ (Vinarija Stojanović) · Пехарник (Peharnik) — 4.1 (61)
-- Винарија Вујић (Vinarija Vujic) · Гмитар Прокупац (Prokupac) — 4.1 (54)
-- Винарија Вујић (Vinarija Vujic) · Тамјаника (Tamjanika) — 4.1 (34)
 - Vert · Sauvignon Blanc — 4.1 (51)
 - Vinarija Burma Fruška Gora · Sila — 4.1 (40)
 - Adora · Merlot - Cabernet — 4.1 (25)
@@ -298,8 +293,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Митровиђ Винарија · Монограм (Monogram) — 4.1 (25)
 - Intuicija · Tamjanika - Morava — 4.1 (32)
 - Vinarija Timacvm Minvs · Cabernet Sauvignon — 4.1 (25)
-- Деспотика (Despotika) · Немир Каберне Совињон - Прокупац Розе (Nemir Cabernet Sauvignon - Prokupac Rosé) — 4.0 (152)
-- Деспотика (Despotika) · Од Сорте Морава (From The Morava Variety) — 4.0 (432)
 - Virtus · Marselan — 4.0 (650)
 - Atelje Vina Šapat · Pi'Crveno — 4.0 (172)
 - Atelje Vina Šapat · Reserve Cabernet Sauvignon — 4.0 (59)
@@ -312,8 +305,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Vinarija Lastar · Triangl Pinot Noir — 4.0 (121)
 - Vinarija Lastar · Triagl Chardonnay — 4.0 (101)
 - Vinarija Lastar · Sofijin Izbor Pinot Noir — 4.0 (42)
-- Деспотика (Despotika) · Доказ Каберне Совињон (Dokaz Cabernet Sauvignon) — 4.0 (610)
-- Деспотика (Despotika) · Знамен Рајнски Ризлинг (Znamen Rhine Riesling) — 4.0 (48)
 - Podrum Janko · Zavet Red Blend — 4.0 (137)
 - PIK Oplenac · Monarh S — 4.0 (115)
 - Vinarska Kuća Spasić · Тамњаника Лекција (Tamanika Lesson) — 4.0 (243)
@@ -410,9 +401,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Vinarija Lastar · Merlot - Cabernet Franc — 3.9 (249)
 - Vinarija Lastar · Riesling — 3.9 (83)
 - Vinarija Lastar · Brut — 3.9 (35)
-- Деспотика (Despotika) · Змајевити Прокупац (The Dragon Prokupac) — 3.9 (333)
-- Деспотика (Despotika) · Траг Мерло (Trag Merlot) — 3.9 (170)
-- Деспотика (Despotika) · Бескрај Совињон Бели (Beskraj Sauvignon Blanc) — 3.9 (114)
 - Milijan Jelić · Mammoth Pinot Noir — 3.9 (277)
 - Podrum Janko · Zavet — 3.9 (314)
 - Podrum Janko · Bas Prokupac (Баш Прокупац) — 3.9 (198)
@@ -508,8 +496,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Vinarija Lastar · Chardonnay — 3.8 (332)
 - Vinarija Lastar · Cru 6 — 3.8 (98)
 - Vinarija Lastar · Rose — 3.8 (50)
-- Деспотика (Despotika) · Небо Рајнски Ризлинг - Пино Бели (Nebo Rhine Riesling - Pinot Blanc) — 3.8 (134)
-- Деспотика (Despotika) · Сведок Пино Црни (Svedok Pinot Noir) — 3.8 (49)
 - Milijan Jelić · Slovenski San Kameničanka — 3.8 (59)
 - Podrum Janko · Misija Chardonnay — 3.8 (131)
 - Podrum Janko · Sauvignon Blanc — 3.8 (90)
@@ -561,7 +547,6 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Damjanovic · Gar Barrique Cabernet Sauvignon - Merlot — 3.8 (72)
 - Vinarija Savic · Prokupac — 3.8 (42)
 - Chicha · Reserva Merlot — 3.8 (37)
-- Винарија Вујић (Vinarija Vujic) · Nature Rose — 3.8 (48)
 - Три Планине (Vinarija Tri Planine) · Боjа Зоре (Dawn Color) — 3.8 (28)
 - Podrum Tošići · Ponoc Cabernet Sauvignon — 3.8 (49)
 - Podrum Tošići · Nesanica Tamjanika — 3.8 (37)

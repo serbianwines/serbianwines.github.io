@@ -129,15 +129,48 @@ def main():
     proverka("выборка меньше одного", otricatelnaya,
              lambda o: "%s · %s" % (o["hozyaistvo"], o["vino"]))
 
+    # Рејон и виногорје — только из справочника, и виногорје обязано
+    # принадлежать своему рејону. Опечатка в имени рејона иначе тихо
+    # заводит двадцать третий рејон, которого в Сербии нет.
+    put_spr = os.path.join(RYADOM, "rejony-vinogorja.json")
+    if os.path.exists(put_spr):
+        spr = json.load(open(put_spr, encoding="utf-8"))["rejony"]
+        imena_rejonov = {r["rejon"] for r in spr}
+        region_rejona = {r["rejon"]: r["region"] for r in spr}
+        vinogorja_rejona = {r["rejon"]: {v["vinogorje"] for v in r["vinogorja"]}
+                            for r in spr}
+        proverka("рејон не из справочника",
+                 [h for h in hozyaistva
+                  if h.get("rejon") and h["rejon"] not in imena_rejonov],
+                 lambda h: "%s → %s" % (h["hozyaistvo"], h["rejon"]))
+        proverka("виногорје не из своего рејона",
+                 [h for h in hozyaistva
+                  if h.get("vinogorje") and h.get("rejon")
+                  and h["vinogorje"] not in vinogorja_rejona.get(h["rejon"], set())],
+                 lambda h: "%s → %s / %s" % (h["hozyaistvo"], h["rejon"],
+                                             h["vinogorje"]))
+        proverka("виногорје без рејона",
+                 [h for h in hozyaistva if h.get("vinogorje") and not h.get("rejon")],
+                 lambda h: "%s → %s" % (h["hozyaistvo"], h["vinogorje"]))
+        proverka("регион не тот, что у рејона",
+                 [h for h in hozyaistva
+                  if h.get("rejon") and h.get("region")
+                  and region_rejona.get(h["rejon"]) != h["region"]],
+                 lambda h: "%s → %s / %s" % (h["hozyaistvo"], h["rejon"], h["region"]))
+
     # Полнота, о которой надо знать, но это не поломка
     print()
     bez_raiona = [h for h in hozyaistva if not h["raion_knigi"]]
+    bez_rejona = [h for h in hozyaistva if not h.get("rejon")]
     bez_vyborki = [o for o in ocenki if o["istochnik"] == "vivino" and not o["vyborka"]]
     print("не поломка, но знать стоит:")
     primery = ", ".join(h["hozyaistvo"] for h in bez_raiona[:8])
     print("   хозяйств без района книги: %d из %d%s"
           % (len(bez_raiona), len(hozyaistva),
              (" — например: " + primery) if primery else ""))
+    print("   хозяйств с настоящим рејоном: %d из %d, с виногорјем: %d"
+          % (len(hozyaistva) - len(bez_rejona), len(hozyaistva),
+             sum(1 for h in hozyaistva if h.get("vinogorje"))))
     print("   оценок Vivino без числа отзывов: %d из %d"
           % (len(bez_vyborki),
              sum(1 for o in ocenki if o["istochnik"] == "vivino")))

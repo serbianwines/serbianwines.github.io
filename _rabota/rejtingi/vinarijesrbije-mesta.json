@@ -1,0 +1,1333 @@
+{
+ "istochnik": "vinarijesrbije.rs/api/data.php",
+ "rejony": [
+  {
+   "slug": "backi-rejon",
+   "imya": "Bački rejon",
+   "region": "Vojvodina"
+  },
+  {
+   "slug": "banatski-rejon",
+   "imya": "Banatski rejon",
+   "region": "Vojvodina"
+  },
+  {
+   "slug": "beogradski-rejon",
+   "imya": "Beogradski rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "cacansko-kraljevacki-rejon",
+   "imya": "Čačansko-Kraljevački rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "juznobanatski-rejon",
+   "imya": "Južnobanatski rejon",
+   "region": "Vojvodina"
+  },
+  {
+   "slug": "juznometohijski-rejon",
+   "imya": "Južnometohijski rejon",
+   "region": "Kosovo i Metohija"
+  },
+  {
+   "slug": "knjazevacki-rejon",
+   "imya": "Knjaževački rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "leskovacki-rejon",
+   "imya": "Leskovački rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "mlavski-rejon",
+   "imya": "Mlavski rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "nisavski-rejon",
+   "imya": "Nišavski rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "niski-rejon",
+   "imya": "Niški rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "pocersko-valjevski-rejon",
+   "imya": "Pocersko-Valjevski rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "potiski-rejon",
+   "imya": "Potiski rejon",
+   "region": "Vojvodina"
+  },
+  {
+   "slug": "negotinska-krajina",
+   "imya": "Rejon Negotinska Krajina",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "sumadija",
+   "imya": "Rejon Šumadija",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "rejon-telecka",
+   "imya": "Rejon Telečka",
+   "region": "Vojvodina"
+  },
+  {
+   "slug": "rejon-tri-morave",
+   "imya": "Rejon Tri Morave",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "severnometohijski-rejon",
+   "imya": "Severnometohijski rejon",
+   "region": "Kosovo i Metohija"
+  },
+  {
+   "slug": "sremski-rejon",
+   "imya": "Sremski rejon",
+   "region": "Vojvodina"
+  },
+  {
+   "slug": "suboticki-rejon",
+   "imya": "Subotički rejon",
+   "region": "Vojvodina"
+  },
+  {
+   "slug": "toplicki-rejon",
+   "imya": "Toplički rejon",
+   "region": "Centralna i Istočna Srbija"
+  },
+  {
+   "slug": "vranjski-rejon",
+   "imya": "Vranjski rejon",
+   "region": "Centralna i Istočna Srbija"
+  }
+ ],
+ "goroda": [
+  {
+   "gorod": "Aleksandrovac",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Aleksandrovac",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Aleksinac",
+   "rejon_slug": "nisavski-rejon"
+  },
+  {
+   "gorod": "Apatin",
+   "rejon_slug": "rejon-telecka"
+  },
+  {
+   "gorod": "Aranđelovac",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Bačka Palanka",
+   "rejon_slug": "backi-rejon"
+  },
+  {
+   "gorod": "Bački Monoštor",
+   "rejon_slug": "backi-rejon"
+  },
+  {
+   "gorod": "Bački Vinogradi",
+   "rejon_slug": "suboticki-rejon"
+  },
+  {
+   "gorod": "Banatski Karlovac",
+   "rejon_slug": "banatski-rejon"
+  },
+  {
+   "gorod": "Banoštor",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Barajevo",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Batočina",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Beočin",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Beograd",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Blace",
+   "rejon_slug": "toplicki-rejon"
+  },
+  {
+   "gorod": "Bogojevce",
+   "rejon_slug": "leskovacki-rejon"
+  },
+  {
+   "gorod": "Boljevac",
+   "rejon_slug": "negotinska-krajina"
+  },
+  {
+   "gorod": "Bor",
+   "rejon_slug": "negotinska-krajina"
+  },
+  {
+   "gorod": "Čačak",
+   "rejon_slug": "cacansko-kraljevacki-rejon"
+  },
+  {
+   "gorod": "Čerević",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Čoka",
+   "rejon_slug": "suboticki-rejon"
+  },
+  {
+   "gorod": "Ćuprija",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Doljevac",
+   "rejon_slug": "nisavski-rejon"
+  },
+  {
+   "gorod": "Donja Lokošnica",
+   "rejon_slug": "leskovacki-rejon"
+  },
+  {
+   "gorod": "Drenča",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Erdevik",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Fruška Gora",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Gnjilane",
+   "rejon_slug": "vranjski-rejon"
+  },
+  {
+   "gorod": "Gojinovac",
+   "rejon_slug": "toplicki-rejon"
+  },
+  {
+   "gorod": "Grocka",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Gudurica",
+   "rejon_slug": "juznobanatski-rejon"
+  },
+  {
+   "gorod": "Gudurica",
+   "rejon_slug": "banatski-rejon"
+  },
+  {
+   "gorod": "Horgoš",
+   "rejon_slug": "suboticki-rejon"
+  },
+  {
+   "gorod": "Irig",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Ivanjica",
+   "rejon_slug": "cacansko-kraljevacki-rejon"
+  },
+  {
+   "gorod": "Jagodina",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Janda",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Kikinda",
+   "rejon_slug": "potiski-rejon"
+  },
+  {
+   "gorod": "Kladovo",
+   "rejon_slug": "negotinska-krajina"
+  },
+  {
+   "gorod": "Klina",
+   "rejon_slug": "severnometohijski-rejon"
+  },
+  {
+   "gorod": "Knić",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Knjaževac",
+   "rejon_slug": "knjazevacki-rejon"
+  },
+  {
+   "gorod": "Koceljeva",
+   "rejon_slug": "pocersko-valjevski-rejon"
+  },
+  {
+   "gorod": "Kovin",
+   "rejon_slug": "juznobanatski-rejon"
+  },
+  {
+   "gorod": "Kragujevac",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Krnjevo",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Kruševac",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Kučevo",
+   "rejon_slug": "mlavski-rejon"
+  },
+  {
+   "gorod": "Kuršumlija",
+   "rejon_slug": "toplicki-rejon"
+  },
+  {
+   "gorod": "Lapovo",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Lazarevac",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Leskovac",
+   "rejon_slug": "leskovacki-rejon"
+  },
+  {
+   "gorod": "Lipovac",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Loznica",
+   "rejon_slug": "pocersko-valjevski-rejon"
+  },
+  {
+   "gorod": "Mala Remeta",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Melenci",
+   "rejon_slug": "potiski-rejon"
+  },
+  {
+   "gorod": "Merošina",
+   "rejon_slug": "nisavski-rejon"
+  },
+  {
+   "gorod": "Miličinica",
+   "rejon_slug": "pocersko-valjevski-rejon"
+  },
+  {
+   "gorod": "Mladenovac",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Negotin",
+   "rejon_slug": "negotinska-krajina"
+  },
+  {
+   "gorod": "Neštin",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Niš",
+   "rejon_slug": "nisavski-rejon"
+  },
+  {
+   "gorod": "Novi Sad",
+   "rejon_slug": "backi-rejon"
+  },
+  {
+   "gorod": "Obrenovac",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Orašac",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Palić",
+   "rejon_slug": "suboticki-rejon"
+  },
+  {
+   "gorod": "Pančevo",
+   "rejon_slug": "banatski-rejon"
+  },
+  {
+   "gorod": "Pančevo",
+   "rejon_slug": "juznobanatski-rejon"
+  },
+  {
+   "gorod": "Paraćin",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Petrovac na Mlavi",
+   "rejon_slug": "mlavski-rejon"
+  },
+  {
+   "gorod": "Prokuplje",
+   "rejon_slug": "toplicki-rejon"
+  },
+  {
+   "gorod": "Rača",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Ranilović",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Riđica",
+   "rejon_slug": "suboticki-rejon"
+  },
+  {
+   "gorod": "Rivica",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Rogljevo",
+   "rejon_slug": "negotinska-krajina"
+  },
+  {
+   "gorod": "Ruma",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Šabac",
+   "rejon_slug": "pocersko-valjevski-rejon"
+  },
+  {
+   "gorod": "Šid",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Slankamenački Vinogradi",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Smederevo",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Sokobanja",
+   "rejon_slug": "knjazevacki-rejon"
+  },
+  {
+   "gorod": "Sombor",
+   "rejon_slug": "rejon-telecka"
+  },
+  {
+   "gorod": "Sopot",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Sremska Mitrovica",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Sremski Karlovci",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Stari Slankamen",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Subotica",
+   "rejon_slug": "suboticki-rejon"
+  },
+  {
+   "gorod": "Surduk",
+   "rejon_slug": "sremski-rejon"
+  },
+  {
+   "gorod": "Suva Reka",
+   "rejon_slug": "juznometohijski-rejon"
+  },
+  {
+   "gorod": "Temerin",
+   "rejon_slug": "potiski-rejon"
+  },
+  {
+   "gorod": "Topola",
+   "rejon_slug": "sumadija"
+  },
+  {
+   "gorod": "Trstenik",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Ub",
+   "rejon_slug": "pocersko-valjevski-rejon"
+  },
+  {
+   "gorod": "Valjevo",
+   "rejon_slug": "pocersko-valjevski-rejon"
+  },
+  {
+   "gorod": "Varvarin",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Vele Polje",
+   "rejon_slug": "niski-rejon"
+  },
+  {
+   "gorod": "Velika Hoča",
+   "rejon_slug": "juznometohijski-rejon"
+  },
+  {
+   "gorod": "Viteževo",
+   "rejon_slug": "mlavski-rejon"
+  },
+  {
+   "gorod": "Vitkovo",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Vladimirci",
+   "rejon_slug": "pocersko-valjevski-rejon"
+  },
+  {
+   "gorod": "Vranić",
+   "rejon_slug": "beogradski-rejon"
+  },
+  {
+   "gorod": "Vranje",
+   "rejon_slug": "vranjski-rejon"
+  },
+  {
+   "gorod": "Vrnjačka Banja",
+   "rejon_slug": "rejon-tri-morave"
+  },
+  {
+   "gorod": "Vršac",
+   "rejon_slug": "juznobanatski-rejon"
+  },
+  {
+   "gorod": "Vuković",
+   "rejon_slug": "mlavski-rejon"
+  },
+  {
+   "gorod": "Žagubica",
+   "rejon_slug": "mlavski-rejon"
+  },
+  {
+   "gorod": "Zaječar",
+   "rejon_slug": "negotinska-krajina"
+  },
+  {
+   "gorod": "Zrenjanin",
+   "rejon_slug": "potiski-rejon"
+  },
+  {
+   "gorod": "Župa",
+   "rejon_slug": "rejon-tri-morave"
+  }
+ ],
+ "vinarii": [
+  {
+   "imya": "Vinarija 100 Žena",
+   "rejon_slug": "niski-rejon",
+   "gorod": "Vele Polje",
+   "adres": "Skopljanska 34, 18202 Niš - Crveni krst"
+  },
+  {
+   "imya": "Vinarija Aleksandrović",
+   "rejon_slug": "sumadija",
+   "gorod": "Topola",
+   "adres": "Vinča bb, Topola 34310"
+  },
+  {
+   "imya": "Vinarija Jeremić",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Smederevo",
+   "adres": "8. marta 1, Smederevo 230193"
+  },
+  {
+   "imya": "Vinarija La Gora",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Irig",
+   "adres": "Vinogradarska 27, Irig 22406"
+  },
+  {
+   "imya": "Vinarija Tarpoš",
+   "rejon_slug": "sumadija",
+   "gorod": "Aranđelovac",
+   "adres": "Orašački put bb, 34300 Aranđelovac, Srbija."
+  },
+  {
+   "imya": "Mačkov podrum",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Irig",
+   "adres": "Stevana Puzića 67 (Zanatski centar bb), 22406 Irig, Srbija"
+  },
+  {
+   "imya": "Vinarija Doja",
+   "rejon_slug": "toplicki-rejon",
+   "gorod": "Blace",
+   "adres": "Donje Svarče 18420"
+  },
+  {
+   "imya": "Vinarija Plavinci",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Grocka",
+   "adres": "Zavojce 3, prilaz 151, Zaklopača 11352"
+  },
+  {
+   "imya": "Vinarija Virtus",
+   "rejon_slug": "mlavski-rejon",
+   "gorod": "Viteževo",
+   "adres": "Viteževo bb, 12375 Viteževo"
+  },
+  {
+   "imya": "Bikički vinarija",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Banoštor",
+   "adres": "Vinogradarska 17, 22211 Veliki Radinci, Srbija"
+  },
+  {
+   "imya": "Dečanska vinica",
+   "rejon_slug": "juznometohijski-rejon",
+   "gorod": "Velika Hoča",
+   "adres": "Kompleks Crkve Svetog Stefana bb, 21070 Velika Hoča, Srbija"
+  },
+  {
+   "imya": "Francuska Vinarija",
+   "rejon_slug": "negotinska-krajina",
+   "gorod": "Rogljevo",
+   "adres": "Rumena Milošević 14, 19318 Rogljevo"
+  },
+  {
+   "imya": "GalerijaVina Čačak",
+   "rejon_slug": "cacansko-kraljevacki-rejon",
+   "gorod": "Čačak",
+   "adres": ""
+  },
+  {
+   "imya": "Hočanska vina - Ljubiša Đuričić",
+   "rejon_slug": "juznometohijski-rejon",
+   "gorod": "Velika Hoča",
+   "adres": "Velika Hoča, 21070"
+  },
+  {
+   "imya": "Kraljeva vinarija",
+   "rejon_slug": "sumadija",
+   "gorod": "Topola",
+   "adres": "Kraljice Marije 4, 34310 Topola - Oplenac"
+  },
+  {
+   "imya": "Porodica Ćosić",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "Vitkovo",
+   "adres": null
+  },
+  {
+   "imya": "Rajački podrumi",
+   "rejon_slug": "negotinska-krajina",
+   "gorod": "Negotin",
+   "adres": "Rajac bb, Rajac 19314"
+  },
+  {
+   "imya": "Stari Dani - Porodica Janjić",
+   "rejon_slug": "leskovacki-rejon",
+   "gorod": "Leskovac",
+   "adres": ""
+  },
+  {
+   "imya": "Udruženje Riđički vinogradi",
+   "rejon_slug": "suboticki-rejon",
+   "gorod": "Riđica",
+   "adres": "Svetog Save 52, Riđica"
+  },
+  {
+   "imya": "Udruženje Taraški vinogradi",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija 45. Paralela",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Doka bb, 21205 Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Acumincum",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Stari Slankamen",
+   "adres": "Dositeja Obradovića 3, 22329 Stari Slankamen"
+  },
+  {
+   "imya": "Vinarija Adžić",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "Temerin",
+   "adres": "Boška Buhe 8, 21235 Temerin"
+  },
+  {
+   "imya": "Vinarija Akademia Modele",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Banoštor",
+   "adres": "Vojvode Mišića 20, 21313 Banoštor"
+  },
+  {
+   "imya": "Vinarija Aleks",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Petrovaradinska 5, Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Aleksandar",
+   "rejon_slug": "juznobanatski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Aleksić",
+   "rejon_slug": "vranjski-rejon",
+   "gorod": "Vranje",
+   "adres": "Industrijski blok 9/1, 17500 Vranje"
+  },
+  {
+   "imya": "Vinarija Andjelić",
+   "rejon_slug": "nisavski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Apatović",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Aquila",
+   "rejon_slug": "leskovacki-rejon",
+   "gorod": "Leskovac",
+   "adres": "Vlade Đokića 7, Leskovac 16254"
+  },
+  {
+   "imya": "Vinarija Aranđelović",
+   "rejon_slug": "toplicki-rejon",
+   "gorod": "Prokuplje",
+   "adres": "Radoja Domanovića 18, 18400 Prokuplje"
+  },
+  {
+   "imya": "Vinarija Art et vinum",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Patrijarha Rajačića 3, Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Bajilo",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Patrijarha Rajačića 9, 21205 Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Barna Mihalj",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Belo Brdo",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Čerević",
+   "adres": "Omladinska 68"
+  },
+  {
+   "imya": "Vinarija Benišek Veselinović",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Ivana Mažuranića 5, Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Breg",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Janda",
+   "adres": ""
+  },
+  {
+   "imya": "Vinarija Budimir",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Aleksandrovac",
+   "adres": "Borjanska 23, 37230 Aleksandrovac"
+  },
+  {
+   "imya": "Vinarija Čačija",
+   "rejon_slug": "cacansko-kraljevacki-rejon",
+   "gorod": "Čačak",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Carpe Diem",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Lazarevac",
+   "adres": "Kralja Petra Prvog 18, 11550 Lazarevac"
+  },
+  {
+   "imya": "Vinarija Čoka - Vinoprodukt Čoka",
+   "rejon_slug": "suboticki-rejon",
+   "gorod": "Čoka",
+   "adres": "Vinogradska bb, 23320 Čoka"
+  },
+  {
+   "imya": "Vinarija Cvetković",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "Župa",
+   "adres": ""
+  },
+  {
+   "imya": "Vinarija Danguba",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Šid",
+   "adres": "Đure Kiša bb"
+  },
+  {
+   "imya": "Vinarija Dika",
+   "rejon_slug": "sumadija",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Došen",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Karlovačkih đaka 10, Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Draganić",
+   "rejon_slug": "sumadija",
+   "gorod": "Lipovac",
+   "adres": "Solunskih ratnika 89D"
+  },
+  {
+   "imya": "Vinarija Dragić",
+   "rejon_slug": "suboticki-rejon",
+   "gorod": "Riđica",
+   "adres": "Carski drum bb, 25280 Riđica"
+  },
+  {
+   "imya": "Vinarija Dragić vina",
+   "rejon_slug": "banatski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Drašković",
+   "rejon_slug": "juznobanatski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Eden",
+   "rejon_slug": "sumadija",
+   "gorod": "Ranilović",
+   "adres": "Turije bb, 34302 Ranilović"
+  },
+  {
+   "imya": "Vinarija Erdevik",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Erdevik",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Fragaria",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "Drenča",
+   "adres": "Lupoglavska 11, Drenča, 37230 Aleksandrovac"
+  },
+  {
+   "imya": "Vinarija Galot",
+   "rejon_slug": "banatski-rejon",
+   "gorod": "Banatski Karlovac",
+   "adres": "Vojvode Mišića 127, 26320 Banatski Karlovac"
+  },
+  {
+   "imya": "Vinarija Gaston Wine",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Neštin",
+   "adres": "Dunavska 10"
+  },
+  {
+   "imya": "Vinarija Gerasim",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "Župa",
+   "adres": ""
+  },
+  {
+   "imya": "Vinarija Ištvan Petro",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Ivanović",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "Aleksandrovac",
+   "adres": "10. avgusta 18, 37230 Aleksandrovac"
+  },
+  {
+   "imya": "Vinarija Janko",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Smederevo",
+   "adres": "Rudnička 2, 11300 Smederevo, Srbija"
+  },
+  {
+   "imya": "Vinarija Jelić",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Jovanov",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "Melenci",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Jović",
+   "rejon_slug": "knjazevacki-rejon",
+   "gorod": "Knjaževac",
+   "adres": "Spasoja Milkića 32, Knjaževac"
+  },
+  {
+   "imya": "Vinarija Kabač",
+   "rejon_slug": "backi-rejon",
+   "gorod": "Temerin",
+   "adres": "Narodnog fronta 14, 21235 Temerin"
+  },
+  {
+   "imya": "Vinarija Kiš",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Karlovačkog mira 46, 21205 Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Komuna",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Rivica",
+   "adres": "Atar sela Rivica"
+  },
+  {
+   "imya": "Vinarija Kosović",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Karlovačkog mira 42, Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Kostić",
+   "rejon_slug": "toplicki-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Kovačević",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Fruška Gora",
+   "adres": "Vojvode Putnika 78"
+  },
+  {
+   "imya": "Vinarija Kula vetrova",
+   "rejon_slug": "juznobanatski-rejon",
+   "gorod": "Vršac",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Kurjak",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Žarka Zrenjanina 17, Sremski Karlovci"
+  },
+  {
+   "imya": "Vinarija Lukić",
+   "rejon_slug": "juznometohijski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Matalj",
+   "rejon_slug": "negotinska-krajina",
+   "gorod": "Negotin",
+   "adres": "Sv. Vasilija Ostroškog 158 (Kladovski put bb), 19300 Negotin, Srbija"
+  },
+  {
+   "imya": "Vinarija Matijašević vinogradi",
+   "rejon_slug": "sumadija",
+   "gorod": "Orašac",
+   "adres": "Baljkovica bb, 34308 Orašac"
+  },
+  {
+   "imya": "Vinarija Mihajlović",
+   "rejon_slug": "knjazevacki-rejon",
+   "gorod": "Knjaževac",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Milanović",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Surduk",
+   "adres": "Drvarska 13"
+  },
+  {
+   "imya": "Vinarija Milićević",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Sopot",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Milijan Jelić",
+   "rejon_slug": "pocersko-valjevski-rejon",
+   "gorod": "Valjevo",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Milisavljević",
+   "rejon_slug": "rejon-telecka",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Milojević",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Lazarevac",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Minić",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Mitrović",
+   "rejon_slug": "leskovacki-rejon",
+   "gorod": "Leskovac",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Nedin",
+   "rejon_slug": "banatski-rejon",
+   "gorod": "Gudurica",
+   "adres": "Gortanova 22, 26300 Gudurica"
+  },
+  {
+   "imya": "Vinarija Pet Hrastova",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "Vrnjačka Banja",
+   "adres": ""
+  },
+  {
+   "imya": "Vinarija PETRA",
+   "rejon_slug": "suboticki-rejon",
+   "gorod": "Palić",
+   "adres": "Novosadski put 222, 24413 Palić"
+  },
+  {
+   "imya": "Vinarija Petrović",
+   "rejon_slug": "sumadija",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Prima",
+   "rejon_slug": "leskovacki-rejon",
+   "gorod": "Donja Lokošnica",
+   "adres": "Donja Lokošnica, 16252 Leskovac"
+  },
+  {
+   "imya": "Vinarija Pruna",
+   "rejon_slug": "mlavski-rejon",
+   "gorod": "Vuković",
+   "adres": "Selo Vuković bb, 12258 Klenje"
+  },
+  {
+   "imya": "Vinarija Puhača",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Pusula",
+   "rejon_slug": "pocersko-valjevski-rejon",
+   "gorod": "Miličinica",
+   "adres": "Miličinica, 14201 Valjevo"
+  },
+  {
+   "imya": "Vinarija Radovan",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Radovanović",
+   "rejon_slug": "sumadija",
+   "gorod": "Krnjevo",
+   "adres": "Dositejeva 10"
+  },
+  {
+   "imya": "Vinarija Raj",
+   "rejon_slug": "negotinska-krajina",
+   "gorod": "Negotin",
+   "adres": "Rajac bb, 19314 Rajac (Negotin), Srbija"
+  },
+  {
+   "imya": "Vinarija Ralević",
+   "rejon_slug": "nisavski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Rnjak",
+   "rejon_slug": "juznobanatski-rejon",
+   "gorod": "Gudurica",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Šijački",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Banoštor",
+   "adres": "Svetozara Markovića 3"
+  },
+  {
+   "imya": "Vinarija Sočanski",
+   "rejon_slug": "banatski-rejon",
+   "gorod": "",
+   "adres": ""
+  },
+  {
+   "imya": "Vinarija Stari dani",
+   "rejon_slug": "vranjski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Stojanović",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Slankamenački Vinogradi",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Stupovi",
+   "rejon_slug": "cacansko-kraljevacki-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Šveljo",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Talisman",
+   "rejon_slug": "juznobanatski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Todorović",
+   "rejon_slug": "mlavski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Tonković",
+   "rejon_slug": "suboticki-rejon",
+   "gorod": "Bački Vinogradi",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Toplički vinogradi",
+   "rejon_slug": "toplicki-rejon",
+   "gorod": "Gojinovac",
+   "adres": "Gojinovac bb, 18424 Gojinovac"
+  },
+  {
+   "imya": "Vinarija Trišić",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Vranić",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Trivanović",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Šid",
+   "adres": "Branka Erića bb"
+  },
+  {
+   "imya": "Vinarija Urošević",
+   "rejon_slug": "knjazevacki-rejon",
+   "gorod": "Knjaževac",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Veritas",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Veritas-Ćuković",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Vinarium",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Beočin",
+   "adres": "Crkvena 29"
+  },
+  {
+   "imya": "Vinarija Vinat",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Erdevik",
+   "adres": "Cara Dušana 15"
+  },
+  {
+   "imya": "Vinarija Vinčić",
+   "rejon_slug": "sumadija",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Vindulo",
+   "rejon_slug": "backi-rejon",
+   "gorod": "",
+   "adres": "Salaš 84, Bečejski put"
+  },
+  {
+   "imya": "Vinarija Vinik",
+   "rejon_slug": "juznobanatski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Vinium",
+   "rejon_slug": "sremski-rejon",
+   "gorod": "Sremski Karlovci",
+   "adres": "Karlovačkog mira 26a"
+  },
+  {
+   "imya": "Vinarija Vrt",
+   "rejon_slug": "suboticki-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Vujić",
+   "rejon_slug": "rejon-tri-morave",
+   "gorod": "Aleksandrovac",
+   "adres": ""
+  },
+  {
+   "imya": "Vinarija Zdravkovići",
+   "rejon_slug": "vranjski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Ždrnja",
+   "rejon_slug": "backi-rejon",
+   "gorod": "Temerin",
+   "adres": "Jugoslovenske armije 163"
+  },
+  {
+   "imya": "Vinarija Žir",
+   "rejon_slug": "sumadija",
+   "gorod": "Krnjevo",
+   "adres": ""
+  },
+  {
+   "imya": "Vinarija Živa Milivojev",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Živica Kojčić",
+   "rejon_slug": "potiski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Živković",
+   "rejon_slug": "mlavski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Zorča",
+   "rejon_slug": "beogradski-rejon",
+   "gorod": "Lazarevac",
+   "adres": null
+  },
+  {
+   "imya": "Vinarija Zvonko Bogdan",
+   "rejon_slug": "suboticki-rejon",
+   "gorod": "Palić",
+   "adres": "Kanjiški put 45, 24413 Palić"
+  },
+  {
+   "imya": "Vinica Antić",
+   "rejon_slug": "juznometohijski-rejon",
+   "gorod": "",
+   "adres": null
+  },
+  {
+   "imya": "Vinica Brkić",
+   "rejon_slug": "juznometohijski-rejon",
+   "gorod": "Velika Hoča",
+   "adres": null
+  },
+  {
+   "imya": "Vinica Manitašević",
+   "rejon_slug": "juznometohijski-rejon",
+   "gorod": "Velika Hoča",
+   "adres": null
+  },
+  {
+   "imya": "Vinica Večević",
+   "rejon_slug": "juznometohijski-rejon",
+   "gorod": "Velika Hoča",
+   "adres": null
+  },
+  {
+   "imya": "Vučji podrum",
+   "rejon_slug": "backi-rejon",
+   "gorod": "Bački Monoštor",
+   "adres": "Hajduk Veljka 2G"
+  }
+ ]
+}

@@ -161,9 +161,30 @@ SLUZHEBNYE = ("vinarija", "vinarija-", "podrum", "podrumi", "vinogradi",
               "vinarija-vinarija", "estate", "manastir", "monastery")
 
 
+def bez_skobok(imya):
+    """«Винарија Тришић (Vinarija Trišić)» — это «Vinarija Trišić».
+
+    Часть сербских хозяйств Vivino держит кириллицей, дописывая латинскую
+    расшифровку в скобках, а Decanter и Falstaff знают только латинское
+    имя. Без этого одно хозяйство стоит в таблице дважды, и рејон
+    достаётся только латинской записи.
+
+    Скобки берутся, только если внутри латиница: у «Aglaya (Аглая)»
+    и «Vinarija Novak (Новак)» в скобках, наоборот, кириллица, и там
+    основное имя как раз перед скобками.
+    """
+    sovpalo = re.search(r"^(.+?)\s*\(([^()]+)\)\s*$", imya)
+    if not sovpalo:
+        return imya
+    v_skobkah = sovpalo.group(2)
+    if any("\u0400" <= z <= "\u04ff" for z in v_skobkah):
+        return sovpalo.group(1)
+    return v_skobkah
+
+
 def klyuch_hozyaistva(imya):
     """Ключ хозяйства: без служебных слов, регистра и диакритики."""
-    k = klyuch(imya)
+    k = klyuch(bez_skobok(imya))
     chasti = [c for c in k.split("-") if c and c not in SLUZHEBNYE]
     return "-".join(chasti) or k
 
@@ -325,6 +346,11 @@ def main():
         for z in spisok:
             z["hozyaistvo"] = imya_hozyaistva(z["hozyaistvo"])
 
+    nastoyashchee_mesto = {}
+    if os.path.exists(put("rejony-hozyaistv.json")):
+        nastoyashchee_mesto = json.load(
+            open(put("rejony-hozyaistv.json"), encoding="utf-8"))["hozyaistva"]
+
     hozyaistva = []
     for imya in sorted(imena):
         svedeniya = dict(karta_po_klyuchu.get(klyuch_hozyaistva(imya), {}))
@@ -347,12 +373,22 @@ def main():
             if sovpalo:
                 slug = sovpalo.group(1)
                 break
+        # Настоящее место — рејон и виногорје по действующей рејонизацији.
+        # Считает `sobrat-rejony.py`; здесь только подставляется. Глава
+        # книги (`raion_knigi`) остаётся рядом отдельной величиной: она
+        # не обязана совпадать с рејоном, и автор её ещё может менять.
+        mesto = nastoyashchee_mesto.get(klyuch_hozyaistva(imya), {})
         hozyaistva.append({
             "hozyaistvo": imya,
             "klyuch": klyuch_hozyaistva(imya),
+            "region": mesto.get("region"),
+            "rejon": mesto.get("rejon"),
+            "vinogorje": mesto.get("vinogorje"),
+            "rejon_istochnik": mesto.get("istochnik", "ne_ustanovlen"),
+            "rejon_raznoglasie": mesto.get("raznoglasie", ""),
             "raion_knigi": svedeniya.get("raion"),
             "raion_istochnik": svedeniya.get("istochnik", "ne_ustanovlen"),
-            "gde": svedeniya.get("gde", ""),
+            "gde": svedeniya.get("gde", "") or mesto.get("gde", ""),
             "v_knige": v_knige_hoz(imya),
             "vivino_slug": slug,
             "falstaff_zvezd": zvezdy.get(klyuch_hozyaistva(imya), {}).get("zvezd"),

@@ -31,21 +31,21 @@
 <!-- правьте vivino-zapisi.jsonl и перегенерируйте.          -->
 
 Порог 25 отзывов · вес недоверия 50 · потолок 2 вина на хозяйство.
-Средняя, к которой идёт сдвиг, — **3.90** по 113 винам, прошедшим порог.
+Средняя, к которой идёт сдвиг, — **3.91** по 115 винам, прошедшим порог.
 
 ## Фрушка гора
 
 | # | Вино | Vivino | Отзывов | После сдвига |
 |---|---|---|---|---|
 | 1 | Erdevik · Grand Trianon | 4.3 | 340 | 4.25 |
-| 2 | Deurić · Chardonnay | 4.1 | 533 | 4.08 |
-| 3 | Dukay-Sagmeister · Kanias Pinot Noir | 4.1 | 258 | 4.07 |
-| 4 | Kiš · Kišov Bermet Slatko | 4.1 | 102 | 4.04 |
-| 5 | Dukay-Sagmeister · Furmint | 4.3 | 25 | 4.03 |
+| 2 | Erdevik · Omnibus Lector Chardonnay | 4.3 | 283 | 4.24 |
+| 3 | Kovačević · Edicija S Aurelius | 4.2 | 144 | 4.12 |
+| 4 | Deurić · Chardonnay | 4.1 | 533 | 4.08 |
+| 5 | Dukay-Sagmeister · Kanias Pinot Noir | 4.1 | 258 | 4.07 |
 
 Ждут уточнения (оценка есть, числа отзывов нет), по убыванию оценки:
 
-Veritas Ćuković · Momentum Cabernet Sauvignon 4.4, Erdevik · Omnibus Lector Chardonnay 4.3, Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 4.3, Erdevik · Stifler's Mom Shiraz 4.3, Kovačević · Edicija S Aurelius 4.2, Kovačević · Edicija R Chardonnay 4.2, Erdevik · Trianon 4.1, Kovačević · Edicija R Sauvignon 4.1, Kovačević · Edicija S Sauvignon 4.1, Bikicki · Victor 4.1, Bikicki · Sfera Noir 4.1, Đurđić · Probus 4.1, Molovin · Inat Traminac 4.1, Šapat · Àkcent Réserve 4.1 — и ещё 73.
+Veritas Ćuković · Momentum Cabernet Sauvignon 4.4, Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 4.3, Erdevik · Stifler's Mom Shiraz 4.3, Kovačević · Edicija R Chardonnay 4.2, Erdevik · Trianon 4.1, Kovačević · Edicija R Sauvignon 4.1, Kovačević · Edicija S Sauvignon 4.1, Bikicki · Victor 4.1, Bikicki · Sfera Noir 4.1, Đurđić · Probus 4.1, Molovin · Inat Traminac 4.1, Šapat · Àkcent Réserve 4.1, Vinčić · Grand Fru 4.0, Bikicki · Makana 4.0 — и ещё 71.
 
 ## Суботичско-Хоргошская пешчара
 
@@ -93,7 +93,7 @@ Radovanović · Réserve Special Cabernet Sauvignon 4.4, Radovanović · Grand R
 | # | Вино | Vivino | Отзывов | После сдвига |
 |---|---|---|---|---|
 | 1 | Temet · Three Morave Rezerva | 4.4 | 25 | 4.07 |
-| 2 | Temet · Three Bele | 4.1 | 43 | 3.99 |
+| 2 | Temet · Three Bele | 4.1 | 43 | 4.00 |
 | 3 | Ivanović · Prokupac | 3.9 | 294 | 3.90 |
 
 В списке 3 вина из пяти: у остальных района число отзывов не установлено.
@@ -106,7 +106,7 @@ Ivanović · No 1/2 4.3, Jovac · Single Vineyard Stella Noir 4.3, Jovac · Sing
 
 | # | Вино | Vivino | Отзывов | После сдвига |
 |---|---|---|---|---|
-| 1 | Matalj · Kremen Kamen Cabernet Sauvignon | 4.5 | 120 | 4.32 |
+| 1 | Matalj · Kremen Kamen Cabernet Sauvignon | 4.5 | 120 | 4.33 |
 
 В списке 1 вина из пяти: у остальных района число отзывов не установлено.
 
@@ -118,8 +118,8 @@ Matalj · Zemna Reserva 4.2, Matalj · Kremen Cabernet-Merlot 4.1, Matalj · Za�
 
 | # | Вино | Vivino | Отзывов | После сдвига |
 |---|---|---|---|---|
-| 1 | Toplički vinogradi · Gvozdeni Puk Rujno | 4.3 | 42 | 4.08 |
-| 2 | Doja · Breg Prokupac | 4.1 | 99 | 4.03 |
+| 1 | Toplički vinogradi · Gvozdeni Puk Rujno | 4.3 | 42 | 4.09 |
+| 2 | Doja · Breg Prokupac | 4.1 | 99 | 4.04 |
 | 3 | Toplički vinogradi · Epigenia Cabernet Sauvignon | 3.8 | 34 | 3.86 |
 | 4 | Doja · Rosé | 3.5 | 180 | 3.59 |
 
@@ -150,7 +150,7 @@ Aleksić · Žuti Cvet 4.1, Aleksić · Limited Bonaca Chardonnay 4.1, Jović ·
 
 | # | Вино | Vivino | Отзывов | После сдвига |
 |---|---|---|---|---|
-| 1 | Lakićević · Cuvée No.5 Merula | 4.2 | 178 | 4.13 |
+| 1 | Lakićević · Cuvée No.5 Merula | 4.2 | 178 | 4.14 |
 | 2 | Lakićević · Upupa Tamjanika | 4.2 | 133 | 4.12 |
 
 В списке 2 вина из пяти: у остальных района число отзывов не установлено.

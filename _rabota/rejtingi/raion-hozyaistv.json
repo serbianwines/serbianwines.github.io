@@ -1,70 +1,276 @@
 {
   "kak_chitat": "Хозяйство → район книги. Для хозяйств из книги район берётся из самой книги (istochnik: kniga). Для остальных — по известному расположению винодельни (istochnik: raspolozhenie). Где расположение не установлено, стоит null: такие в региональные пятёрки не идут и перечисляются отдельно.",
   "hozyaistva": {
-    "Deurić": {"raion": "fruska", "istochnik": "kniga"},
-    "Vinčić": {"raion": "fruska", "istochnik": "kniga"},
-    "Erdevik": {"raion": "fruska", "istochnik": "kniga"},
-    "Kovačević": {"raion": "fruska", "istochnik": "kniga"},
-    "Mačkov podrum": {"raion": "fruska", "istochnik": "kniga"},
-    "Kiš": {"raion": "fruska", "istochnik": "kniga"},
-    "Vinum": {"raion": "fruska", "istochnik": "kniga"},
-    "Veritas Ćuković": {"raion": "fruska", "istochnik": "kniga"},
-    "Šapat": {"raion": "fruska", "istochnik": "kniga"},
-    "Dukay-Sagmeister": {"raion": "fruska", "istochnik": "kniga"},
-    "Bikicki": {"raion": "fruska", "istochnik": "kniga"},
-    "Verkat": {"raion": "fruska", "istochnik": "kniga"},
-    "Đurđić": {"raion": "fruska", "istochnik": "kniga"},
-    "Burma": {"raion": "fruska", "istochnik": "kniga"},
-    "Živanović": {"raion": "fruska", "istochnik": "raspolozhenie", "gde": "Сремски Карловци"},
-    "Molovin": {"raion": "fruska", "istochnik": "raspolozhenie", "gde": "Моловин, Срем"},
-    "Trivanović": {"raion": "fruska", "istochnik": "raspolozhenie", "gde": "Срем, по данным Vivino"},
-    "Šijački": {"raion": "fruska", "istochnik": "raspolozhenie", "gde": "Баноштор, Фрушка гора"},
-    "Acumincum": {"raion": "fruska", "istochnik": "raspolozhenie", "gde": "Сремски Карловци"},
-    "Navip": {"raion": null, "istochnik": "raspolozhenie", "gde": "Земун; фрушкогорские этикетки, но хозяйство не районное"},
-
-    "Petra": {"raion": "subotica", "istochnik": "kniga"},
-    "Zvonko Bogdan": {"raion": "subotica", "istochnik": "kniga"},
-    "Maurer": {"raion": "subotica", "istochnik": "kniga"},
-    "Tonković": {"raion": "subotica", "istochnik": "kniga"},
-
-    "Drašković": {"raion": "banat", "istochnik": "kniga"},
-    "Vršački vinogradi": {"raion": "banat", "istochnik": "kniga"},
-    "Čoka": {"raion": "banat", "istochnik": "raspolozhenie", "gde": "Чока, северный Банат"},
-
-    "Aleksandrović": {"raion": "sumadija", "istochnik": "kniga"},
-    "Radovanović": {"raion": "sumadija", "istochnik": "kniga"},
-    "Matijašević": {"raion": "sumadija", "istochnik": "kniga"},
-    "Tarpoš": {"raion": "sumadija", "istochnik": "kniga"},
-    "Despotika": {"raion": "sumadija", "istochnik": "kniga"},
-    "Arsenijević": {"raion": "sumadija", "istochnik": "kniga"},
-
-    "Temet": {"raion": "morave", "istochnik": "kniga"},
-    "Ivanović": {"raion": "morave", "istochnik": "kniga"},
-    "Jovac": {"raion": "morave", "istochnik": "kniga"},
-    "Rubin": {"raion": "morave", "istochnik": "raspolozhenie", "gde": "Крушевац, Расина"},
-    "Zupa": {"raion": "morave", "istochnik": "raspolozhenie", "gde": "Александровац, Жупа"},
-    "Zupa Aleksandrovac": {"raion": "morave", "istochnik": "raspolozhenie", "gde": "Александровац, Жупа"},
-
-    "Matalj": {"raion": "negotin", "istochnik": "kniga"},
-    "Raj": {"raion": "negotin", "istochnik": "kniga"},
-
-    "Toplički vinogradi": {"raion": "toplica", "istochnik": "kniga"},
-    "Doja": {"raion": "toplica", "istochnik": "kniga"},
-
-    "Aleksić": {"raion": "jugoistok", "istochnik": "kniga"},
-    "Džervin": {"raion": "jugoistok", "istochnik": "kniga"},
-    "Jović": {"raion": "jugoistok", "istochnik": "kniga"},
-    "Podrum Malča": {"raion": "jugoistok", "istochnik": "raspolozhenie", "gde": "Малча под Нишем"},
-
-    "Plavinac": {"raion": "podunavlje", "istochnik": "kniga"},
-    "Vinogradi Grocka": {"raion": "podunavlje", "istochnik": "raspolozhenie", "gde": "Гроцка под Белградом"},
-
-    "Lakićević": {"raion": "metohija", "istochnik": "kniga"},
-
-    "Virtus": {"raion": null, "istochnik": "ne_ustanovlen", "gde": "Vivino относит к «Šumadija-Velika Morava»; по вину Mlavac похоже на Браничево, по другим данным Ритопек под Белградом — нужно уточнить"},
-    "Vinis": {"raion": null, "istochnik": "ne_ustanovlen", "gde": "Vivino относит к «Šumadija-Velika Morava»"},
-    "Grabak": {"raion": null, "istochnik": "ne_ustanovlen"},
-    "Milinčić": {"raion": null, "istochnik": "ne_ustanovlen"},
-    "Milijan Jelić": {"raion": null, "istochnik": "raspolozhenie", "gde": "Валево, Поцерско-Ваљевски район — в книге такой главы нет"}
+    "Deurić": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Vinčić": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Erdevik": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Kovačević": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Mačkov podrum": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Kiš": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Vinum": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Veritas Ćuković": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Šapat": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Dukay-Sagmeister": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Bikicki": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Verkat": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Đurđić": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Burma": {
+      "raion": "fruska",
+      "istochnik": "kniga"
+    },
+    "Živanović": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Сремски Карловци"
+    },
+    "Molovin": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Моловин, Срем"
+    },
+    "Trivanović": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Срем, по данным Vivino"
+    },
+    "Šijački": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Баноштор, Фрушка гора"
+    },
+    "Acumincum": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Сремски Карловци"
+    },
+    "Navip": {
+      "raion": null,
+      "istochnik": "raspolozhenie",
+      "gde": "Земун; фрушкогорские этикетки, но хозяйство не районное"
+    },
+    "Petra": {
+      "raion": "subotica",
+      "istochnik": "kniga"
+    },
+    "Zvonko Bogdan": {
+      "raion": "subotica",
+      "istochnik": "kniga"
+    },
+    "Maurer": {
+      "raion": "subotica",
+      "istochnik": "kniga"
+    },
+    "Tonković": {
+      "raion": "subotica",
+      "istochnik": "kniga"
+    },
+    "Drašković": {
+      "raion": "banat",
+      "istochnik": "kniga"
+    },
+    "Vršački vinogradi": {
+      "raion": "banat",
+      "istochnik": "kniga"
+    },
+    "Čoka": {
+      "raion": "banat",
+      "istochnik": "raspolozhenie",
+      "gde": "Чока, северный Банат"
+    },
+    "Aleksandrović": {
+      "raion": "sumadija",
+      "istochnik": "kniga"
+    },
+    "Radovanović": {
+      "raion": "sumadija",
+      "istochnik": "kniga"
+    },
+    "Matijašević": {
+      "raion": "sumadija",
+      "istochnik": "kniga"
+    },
+    "Tarpoš": {
+      "raion": "sumadija",
+      "istochnik": "kniga"
+    },
+    "Despotika": {
+      "raion": "sumadija",
+      "istochnik": "kniga"
+    },
+    "Arsenijević": {
+      "raion": "sumadija",
+      "istochnik": "kniga"
+    },
+    "Temet": {
+      "raion": "morave",
+      "istochnik": "kniga"
+    },
+    "Ivanović": {
+      "raion": "morave",
+      "istochnik": "kniga"
+    },
+    "Jovac": {
+      "raion": "morave",
+      "istochnik": "kniga"
+    },
+    "Rubin": {
+      "raion": "morave",
+      "istochnik": "raspolozhenie",
+      "gde": "Крушевац, Расина"
+    },
+    "Zupa": {
+      "raion": "morave",
+      "istochnik": "raspolozhenie",
+      "gde": "Александровац, Жупа"
+    },
+    "Zupa Aleksandrovac": {
+      "raion": "morave",
+      "istochnik": "raspolozhenie",
+      "gde": "Александровац, Жупа"
+    },
+    "Matalj": {
+      "raion": "negotin",
+      "istochnik": "kniga"
+    },
+    "Raj": {
+      "raion": "negotin",
+      "istochnik": "kniga"
+    },
+    "Toplički vinogradi": {
+      "raion": "toplica",
+      "istochnik": "kniga"
+    },
+    "Doja": {
+      "raion": "toplica",
+      "istochnik": "kniga"
+    },
+    "Aleksić": {
+      "raion": "jugoistok",
+      "istochnik": "kniga"
+    },
+    "Džervin": {
+      "raion": "jugoistok",
+      "istochnik": "kniga"
+    },
+    "Jović": {
+      "raion": "jugoistok",
+      "istochnik": "kniga"
+    },
+    "Podrum Malča": {
+      "raion": "jugoistok",
+      "istochnik": "raspolozhenie",
+      "gde": "Малча под Нишем"
+    },
+    "Plavinac": {
+      "raion": "podunavlje",
+      "istochnik": "kniga"
+    },
+    "Vinogradi Grocka": {
+      "raion": "podunavlje",
+      "istochnik": "raspolozhenie",
+      "gde": "Гроцка под Белградом"
+    },
+    "Lakićević": {
+      "raion": "metohija",
+      "istochnik": "kniga"
+    },
+    "Virtus": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen",
+      "gde": "Vivino относит к «Šumadija-Velika Morava»; по вину Mlavac похоже на Браничево, по другим данным Ритопек под Белградом — нужно уточнить"
+    },
+    "Vinis": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen",
+      "gde": "Vivino относит к «Šumadija-Velika Morava»"
+    },
+    "Grabak": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Milinčić": {
+      "raion": null,
+      "istochnik": "ne_ustanovlen"
+    },
+    "Milijan Jelić": {
+      "raion": null,
+      "istochnik": "raspolozhenie",
+      "gde": "Валево, Поцерско-Ваљевски район — в книге такой главы нет"
+    },
+    "Chichateau": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Лежимир, Фрушка гора"
+    },
+    "Bjelica": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Фрушка гора"
+    },
+    "Bojan Baša": {
+      "raion": "fruska",
+      "istochnik": "raspolozhenie",
+      "gde": "Срем"
+    },
+    "Cilić": {
+      "raion": "morave",
+      "istochnik": "kniga"
+    },
+    "Čokot": {
+      "raion": "morave",
+      "istochnik": "kniga",
+      "gde": "в книге как Radovan, бывш. Čokot"
+    },
+    "Budimir": {
+      "raion": "morave",
+      "istochnik": "kniga"
+    },
+    "Manastir Bukovo": {
+      "raion": "negotin",
+      "istochnik": "kniga"
+    },
+    "Francuska vinarija": {
+      "raion": "negotin",
+      "istochnik": "kniga"
+    }
   }
 }

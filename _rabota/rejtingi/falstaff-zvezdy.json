@@ -1,0 +1,15 @@
+{
+  "chto_eto": "Звёзды Falstaff у хозяйств: собственная оценка гида, отдельная от баллов за конкретные вина. Falstaff ранжирует сорок сербских хозяйств. Собрано выборочно из выдачи — полный список не вычитан.",
+  "istochnik": "falstaff.com/en/listings/the-best-wineries-in-serbia",
+  "hozyaistva": [
+    {"hozyaistvo": "Matalj", "zvezd": 4, "gde": "Неготин"},
+    {"hozyaistvo": "Maurer", "zvezd": 4, "gde": "Хайдуково"},
+    {"hozyaistvo": "Chichateau", "zvezd": 4, "gde": "Лежимир", "v_knige": false},
+    {"hozyaistvo": "Doja", "zvezd": 4, "gde": "Доње Сварче"},
+    {"hozyaistvo": "Temet", "zvezd": 4, "gde": "Ягодина"},
+    {"hozyaistvo": "Vinčić", "zvezd": 4, "gde": "Шид"},
+    {"hozyaistvo": "Deurić", "zvezd": 3, "gde": "Мала Ремета"},
+    {"hozyaistvo": "Bojan Baša", "zvezd": 3, "gde": "Срем", "v_knige": false},
+    {"hozyaistvo": "Cilić", "zvezd": 3, "gde": "Лозовик"}
+  ]
+}

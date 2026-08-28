@@ -1,0 +1,1916 @@
+{
+ "chto_eto": "Живая проверка: существуют ли на Vivino хозяйства, у которых рејон не установлен.",
+ "kogda": "2026-08-28",
+ "vsego": 204,
+ "http_200": 204,
+ "imya_sovpalo": 204,
+ "hozyaistva": [
+  {
+   "klyuch": "aglaya",
+   "vivino_id": "244511",
+   "slug": "aglaya-aglaia",
+   "imya": "Aglaya (Аглая)",
+   "http": 200,
+   "zagolovok": "Aglaya (Аглая) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "agrina",
+   "vivino_id": "47244",
+   "slug": "agrina",
+   "imya": "Agrina",
+   "http": 200,
+   "zagolovok": "Agrina Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "alaska-barka",
+   "vivino_id": "210342",
+   "slug": "alaska-barka",
+   "imya": "Alaska Barka",
+   "http": 200,
+   "zagolovok": "Alaska Barka Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "amstadt",
+   "vivino_id": "313911",
+   "slug": "amstadt-winery",
+   "imya": "Amstadt Winery",
+   "http": 200,
+   "zagolovok": "Amstadt Winery Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "antonijevic-family",
+   "vivino_id": "311211",
+   "slug": "antonijevic-family-winery",
+   "imya": "Antonijević Family Winery",
+   "http": 200,
+   "zagolovok": "Antonijević Family Winery Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "arhangel",
+   "vivino_id": "279970",
+   "slug": "arhangel",
+   "imya": "Arhangel",
+   "http": 200,
+   "zagolovok": "Arhangel Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "bahus",
+   "vivino_id": "246194",
+   "slug": "bahus",
+   "imya": "Bahus",
+   "http": 200,
+   "zagolovok": "Bahus Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "basha",
+   "vivino_id": "293561",
+   "slug": "basha-vino",
+   "imya": "Basha Vino",
+   "http": 200,
+   "zagolovok": "Basha Vino Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "belgrade",
+   "vivino_id": "125832",
+   "slug": "belgrade",
+   "imya": "Belgrade",
+   "http": 200,
+   "zagolovok": "Belgrade Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "boemi",
+   "vivino_id": "313762",
+   "slug": "boemi",
+   "imya": "Boemi",
+   "http": 200,
+   "zagolovok": "Boemi Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "bogdanovic",
+   "vivino_id": "293373",
+   "slug": "bogdanovic",
+   "imya": "Bogdanovic",
+   "http": 200,
+   "zagolovok": "Bogdanovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "bojan-basa",
+   "vivino_id": "275451",
+   "slug": "bojan-basa",
+   "imya": "Bojan Basa",
+   "http": 200,
+   "zagolovok": "Bojan Basa Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "chicha",
+   "vivino_id": "291062",
+   "slug": "chicha",
+   "imya": "Chicha",
+   "http": 200,
+   "zagolovok": "Chicha Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "conte-vallonne",
+   "vivino_id": "231152",
+   "slug": "conte-vallonne",
+   "imya": "Conte Vallonne",
+   "http": 200,
+   "zagolovok": "Conte Vallonne Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "crmnicko",
+   "vivino_id": "244514",
+   "slug": "crmnicko-vino",
+   "imya": "Crmničko Vino",
+   "http": 200,
+   "zagolovok": "Crmničko Vino Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "cubra",
+   "vivino_id": "225576",
+   "slug": "cubra",
+   "imya": "Cubra",
+   "http": 200,
+   "zagolovok": "Cubra Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "damjanovic",
+   "vivino_id": "60074",
+   "slug": "rs-damjanovic",
+   "imya": "Damjanovic",
+   "http": 200,
+   "zagolovok": "Damjanovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dealul-tirolului",
+   "vivino_id": "308815",
+   "slug": "dealul-tirolului",
+   "imya": "Dealul Tirolului",
+   "http": 200,
+   "zagolovok": "Dealul Tirolului Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dokovic",
+   "vivino_id": "316516",
+   "slug": "djokovic",
+   "imya": "Djokovic",
+   "http": 200,
+   "zagolovok": "Djokovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dolina",
+   "vivino_id": "65788",
+   "slug": "dolina-sumadija",
+   "imya": "Dolina",
+   "http": 200,
+   "zagolovok": "Dolina Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dukay-sagmeister",
+   "vivino_id": "235707",
+   "slug": "dukay-sagmeister",
+   "imya": "Dukay-Sagmeister",
+   "http": 200,
+   "zagolovok": "Dukay-Sagmeister Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "enellion",
+   "vivino_id": "301345",
+   "slug": "enellion",
+   "imya": "Enellion",
+   "http": 200,
+   "zagolovok": "Enellion Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "enigma",
+   "vivino_id": "271463",
+   "slug": "enigma-serbia",
+   "imya": "Enigma",
+   "http": 200,
+   "zagolovok": "Enigma Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "ilic-nijemcevic",
+   "vivino_id": "225545",
+   "slug": "ilic-nijemcevic",
+   "imya": "Ilic Nijemcevic",
+   "http": 200,
+   "zagolovok": "Ilic Nijemcevic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "intuicija",
+   "vivino_id": "318623",
+   "slug": "intuicija",
+   "imya": "Intuicija",
+   "http": 200,
+   "zagolovok": "Intuicija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "jagodinska",
+   "vivino_id": "23560",
+   "slug": "jagodinska",
+   "imya": "Jagodinska",
+   "http": 200,
+   "zagolovok": "Jagodinska Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "janek-wineyard",
+   "vivino_id": "274636",
+   "slug": "janek-wineyard",
+   "imya": "Janek Wineyard",
+   "http": 200,
+   "zagolovok": "Janek Wineyard Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "jevremovic",
+   "vivino_id": "274580",
+   "slug": "jevremovic",
+   "imya": "Jevremović",
+   "http": 200,
+   "zagolovok": "Jevremović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "k-ing",
+   "vivino_id": "241132",
+   "slug": "k-ing",
+   "imya": "K-ing",
+   "http": 200,
+   "zagolovok": "K-ing Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "kalem",
+   "vivino_id": "82686",
+   "slug": "kalem",
+   "imya": "Kalem",
+   "http": 200,
+   "zagolovok": "Kalem Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "kepul",
+   "vivino_id": "312862",
+   "slug": "kepul",
+   "imya": "Kepul",
+   "http": 200,
+   "zagolovok": "Kepul Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "koreni",
+   "vivino_id": "319017",
+   "slug": "koreni",
+   "imya": "Koreni",
+   "http": 200,
+   "zagolovok": "Koreni Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "krug",
+   "vivino_id": "321440",
+   "slug": "krug-vinarija",
+   "imya": "Krug Vinarija",
+   "http": 200,
+   "zagolovok": "Krug Vinarija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "kutinska",
+   "vivino_id": "137194",
+   "slug": "kutinska-vinarija",
+   "imya": "Kutinska Vinarija",
+   "http": 200,
+   "zagolovok": "Kutinska Vinarija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "kuca-popovic",
+   "vivino_id": "289614",
+   "slug": "kuca-vina-popovic",
+   "imya": "Kuća Vina Popović",
+   "http": 200,
+   "zagolovok": "Kuća Vina Popović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "lagum",
+   "vivino_id": "127976",
+   "slug": "lagum",
+   "imya": "Lagum",
+   "http": 200,
+   "zagolovok": "Lagum Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "langov",
+   "vivino_id": "296973",
+   "slug": "langov-podrum",
+   "imya": "Langov Podrum",
+   "http": 200,
+   "zagolovok": "Langov Podrum Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "legat",
+   "vivino_id": "312709",
+   "slug": "legat",
+   "imya": "Legat",
+   "http": 200,
+   "zagolovok": "Legat Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "m-dubrana-n-scheidt",
+   "vivino_id": "204993",
+   "slug": "m-dubrana-n-scheidt",
+   "imya": "M. Dubrana - N. Scheidt",
+   "http": 200,
+   "zagolovok": "M. Dubrana - N. Scheidt Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mv",
+   "vivino_id": "292013",
+   "slug": "mv-vinarija",
+   "imya": "MV Vinarija",
+   "http": 200,
+   "zagolovok": "MV Vinarija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "majetic",
+   "vivino_id": "280437",
+   "slug": "majetic-serbia",
+   "imya": "Majetić",
+   "http": 200,
+   "zagolovok": "Majetić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mali-stamenkovic",
+   "vivino_id": "243798",
+   "slug": "mali-podrum-stamenkovic",
+   "imya": "Mali Podrum Stamenković",
+   "http": 200,
+   "zagolovok": "Mali Podrum Stamenković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mali-sareni",
+   "vivino_id": "309709",
+   "slug": "mali-sareni-podrum",
+   "imya": "Mali Šareni Podrum",
+   "http": 200,
+   "zagolovok": "Mali Šareni Podrum Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "marinkovic",
+   "vivino_id": "199593",
+   "slug": "marinkovic",
+   "imya": "Marinković",
+   "http": 200,
+   "zagolovok": "Marinković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mihajlovacko",
+   "vivino_id": "107749",
+   "slug": "mihajlovacko",
+   "imya": "Mihajlovacko",
+   "http": 200,
+   "zagolovok": "Mihajlovacko Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mikic",
+   "vivino_id": "154527",
+   "slug": "vinarija-mikic",
+   "imya": "Vinarija Mikic",
+   "http": 200,
+   "zagolovok": "Vinarija Mikic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "miletic",
+   "vivino_id": "128058",
+   "slug": "miletic",
+   "imya": "Miletic",
+   "http": 200,
+   "zagolovok": "Miletic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "milic",
+   "vivino_id": "275868",
+   "slug": "milic",
+   "imya": "Milić",
+   "http": 200,
+   "zagolovok": "Milić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "moderato",
+   "vivino_id": "134776",
+   "slug": "moderato",
+   "imya": "Moderato",
+   "http": 200,
+   "zagolovok": "Moderato Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "molin",
+   "vivino_id": "313910",
+   "slug": "molin-winery",
+   "imya": "Molin Winery",
+   "http": 200,
+   "zagolovok": "Molin Winery Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "visoki-decani",
+   "vivino_id": "97871",
+   "slug": "monastery-visoki-decani-manastirsko-dechansko",
+   "imya": "Monastery Visoki Decani  (Манастирско Дечанско)",
+   "http": 200,
+   "zagolovok": "Monastery Visoki Decani (Манастирско Дечанско) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "moravski-val",
+   "vivino_id": "314995",
+   "slug": "moravski-val",
+   "imya": "Moravski Val",
+   "http": 200,
+   "zagolovok": "Moravski Val Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "natural-grape-concept",
+   "vivino_id": "323353",
+   "slug": "natural-grape-concept",
+   "imya": "Natural Grape Concept",
+   "http": 200,
+   "zagolovok": "Natural Grape Concept Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "navip",
+   "vivino_id": "20925",
+   "slug": "navip",
+   "imya": "Navip",
+   "http": 200,
+   "zagolovok": "Navip Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "nelt",
+   "vivino_id": "246950",
+   "slug": "nelt",
+   "imya": "Nelt",
+   "http": 200,
+   "zagolovok": "Nelt Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "nikad-nije-kasno",
+   "vivino_id": "261223",
+   "slug": "nikad-nije-kasno",
+   "imya": "Nikad Nije Kasno",
+   "http": 200,
+   "zagolovok": "Nikad Nije Kasno Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "nikodijevic",
+   "vivino_id": "290680",
+   "slug": "nikodijevic",
+   "imya": "Nikodijević",
+   "http": 200,
+   "zagolovok": "Nikodijević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "nikolas",
+   "vivino_id": "159843",
+   "slug": "nikolas",
+   "imya": "Nikolas",
+   "http": 200,
+   "zagolovok": "Nikolas Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "odpf-radmilovac",
+   "vivino_id": "278587",
+   "slug": "odpf-radmilovac",
+   "imya": "ODPF-Radmilovac",
+   "http": 200,
+   "zagolovok": "ODPF-Radmilovac Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "orvin",
+   "vivino_id": "147708",
+   "slug": "orvin",
+   "imya": "Orvin",
+   "http": 200,
+   "zagolovok": "Orvin Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "pannonian",
+   "vivino_id": "140358",
+   "slug": "pannonian",
+   "imya": "Pannonian",
+   "http": 200,
+   "zagolovok": "Pannonian Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "perla",
+   "vivino_id": "299534",
+   "slug": "perla-vojvodina",
+   "imya": "Perla",
+   "http": 200,
+   "zagolovok": "Perla Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "perun",
+   "vivino_id": "314874",
+   "slug": "perun-wine",
+   "imya": "Perun Wine",
+   "http": 200,
+   "zagolovok": "Perun Wine Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "petica",
+   "vivino_id": "248007",
+   "slug": "petica",
+   "imya": "Petica",
+   "http": 200,
+   "zagolovok": "Petica Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "pimnica-peric",
+   "vivino_id": "155411",
+   "slug": "pimnica-peric",
+   "imya": "Pimnica Perić",
+   "http": 200,
+   "zagolovok": "Pimnica Perić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "plavi-perun",
+   "vivino_id": "312422",
+   "slug": "plavi-perun",
+   "imya": "Plavi Perun",
+   "http": 200,
+   "zagolovok": "Plavi Perun Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "plavinac",
+   "vivino_id": "278034",
+   "slug": "vinarija-plavinac",
+   "imya": "Vinarija Plavinac",
+   "http": 200,
+   "zagolovok": "Vinarija Plavinac Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dremina",
+   "vivino_id": "276389",
+   "slug": "podrum-dremina",
+   "imya": "Podrum Dremina",
+   "http": 200,
+   "zagolovok": "Podrum Dremina Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "gvozdanovic",
+   "vivino_id": "260133",
+   "slug": "podrum-gvozdanovic",
+   "imya": "Podrum Gvozdanović",
+   "http": 200,
+   "zagolovok": "Podrum Gvozdanović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "jovanovic",
+   "vivino_id": "286018",
+   "slug": "podrum-jovanovic",
+   "imya": "Podrum Jovanovic",
+   "http": 200,
+   "zagolovok": "Podrum Jovanovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "kricka",
+   "vivino_id": "311293",
+   "slug": "podrum-kricka",
+   "imya": "Podrum Krička",
+   "http": 200,
+   "zagolovok": "Podrum Krička Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "ljubisavljevic",
+   "vivino_id": "250729",
+   "slug": "podrum-ljubisavljevic",
+   "imya": "Podrum Ljubisavljević",
+   "http": 200,
+   "zagolovok": "Podrum Ljubisavljević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "milosevic",
+   "vivino_id": "277504",
+   "slug": "podrum-milosevic",
+   "imya": "Podrum Milošević",
+   "http": 200,
+   "zagolovok": "Podrum Milošević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "palic",
+   "vivino_id": "153030",
+   "slug": "podrum-palic",
+   "imya": "Podrum Palić",
+   "http": 200,
+   "zagolovok": "Podrum Palić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "panajotovic",
+   "vivino_id": "173654",
+   "slug": "podrum-panajotovic",
+   "imya": "Podrum Panajotovic",
+   "http": 200,
+   "zagolovok": "Podrum Panajotovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "petrovic",
+   "vivino_id": "206016",
+   "slug": "podrum-petrovic",
+   "imya": "Podrum Petrović",
+   "http": 200,
+   "zagolovok": "Podrum Petrović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "pica-maric",
+   "vivino_id": "279928",
+   "slug": "podrum-pica-maric",
+   "imya": "Podrum Pića Maric",
+   "http": 200,
+   "zagolovok": "Podrum Pića Maric Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "stricevic",
+   "vivino_id": "275262",
+   "slug": "podrum-stricevic",
+   "imya": "Podrum Stričević",
+   "http": 200,
+   "zagolovok": "Podrum Stričević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "tosic",
+   "vivino_id": "223713",
+   "slug": "petijevic",
+   "imya": "Podrum Tosic",
+   "http": 200,
+   "zagolovok": "Podrum Tosic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "zagorac",
+   "vivino_id": "246701",
+   "slug": "podrum-zagorac",
+   "imya": "Podrum Zagorac",
+   "http": 200,
+   "zagolovok": "Podrum Zagorac Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dordevic",
+   "vivino_id": "205515",
+   "slug": "podrum-dordevic",
+   "imya": "Podrum Đorđević",
+   "http": 200,
+   "zagolovok": "Podrum Đorđević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "sukac",
+   "vivino_id": "285865",
+   "slug": "podrum-sukac",
+   "imya": "Podrum Šukac",
+   "http": 200,
+   "zagolovok": "Podrum Šukac Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "anjino",
+   "vivino_id": "323640",
+   "slug": "anjino-vino",
+   "imya": "Anjino Vino",
+   "http": 200,
+   "zagolovok": "Anjino Vino Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "puce",
+   "vivino_id": "256631",
+   "slug": "puce",
+   "imya": "Puce",
+   "http": 200,
+   "zagolovok": "Puce Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "radenkovic",
+   "vivino_id": "105097",
+   "slug": "radenkovi",
+   "imya": "Radenković",
+   "http": 200,
+   "zagolovok": "Radenković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "radosavljevic",
+   "vivino_id": "222621",
+   "slug": "radosavljevic",
+   "imya": "Radosavljevic",
+   "http": 200,
+   "zagolovok": "Radosavljevic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "radu-group",
+   "vivino_id": "281807",
+   "slug": "radu-group-vinarija",
+   "imya": "Radu Group Vinarija",
+   "http": 200,
+   "zagolovok": "Radu Group Vinarija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "rajacke-pimnice-vukasinovi",
+   "vivino_id": "100894",
+   "slug": "rajacke-pimnice-vinarija-vukainovi",
+   "imya": "Rajacke Pimnice Vinarija Vukašinovi",
+   "http": 200,
+   "zagolovok": "Rajacke Pimnice Vinarija Vukašinovi Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "rajacke-pimnice-prvulovic",
+   "vivino_id": "291922",
+   "slug": "rajacke-pimnice-podrum-prvulovic",
+   "imya": "Rajačke Pimnice Podrum Prvulović",
+   "http": 200,
+   "zagolovok": "Rajačke Pimnice Podrum Prvulović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "robert-rudinski",
+   "vivino_id": "268365",
+   "slug": "robert-rudinski",
+   "imya": "Robert Rudinski",
+   "http": 200,
+   "zagolovok": "Robert Rudinski Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "rujevica",
+   "vivino_id": "227472",
+   "slug": "rujevica",
+   "imya": "Rujevica",
+   "http": 200,
+   "zagolovok": "Rujevica Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "saboss",
+   "vivino_id": "254420",
+   "slug": "saboss",
+   "imya": "Saboss",
+   "http": 200,
+   "zagolovok": "Saboss Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "sava-minic",
+   "vivino_id": "247193",
+   "slug": "sava-minic",
+   "imya": "Sava Minić",
+   "http": 200,
+   "zagolovok": "Sava Minić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "savkovic",
+   "vivino_id": "278967",
+   "slug": "savkovic",
+   "imya": "Savković",
+   "http": 200,
+   "zagolovok": "Savković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "serbika",
+   "vivino_id": "314942",
+   "slug": "serbika-wine",
+   "imya": "Serbika Wine",
+   "http": 200,
+   "zagolovok": "Serbika Wine Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "soul",
+   "vivino_id": "242091",
+   "slug": "soul-wine",
+   "imya": "Soul Wine",
+   "http": 200,
+   "zagolovok": "Soul Wine Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "srodne-duse",
+   "vivino_id": "271130",
+   "slug": "srodne-duse",
+   "imya": "Srodne Duše",
+   "http": 200,
+   "zagolovok": "Srodne Duše Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "stari-dani",
+   "vivino_id": "239619",
+   "slug": "stari-dani",
+   "imya": "Stari Dani",
+   "http": 200,
+   "zagolovok": "Stari Dani Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "stari-oplenac",
+   "vivino_id": "273752",
+   "slug": "stari-oplenac",
+   "imya": "Stari Oplenac",
+   "http": 200,
+   "zagolovok": "Stari Oplenac Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "status",
+   "vivino_id": "64776",
+   "slug": "status-serbia",
+   "imya": "Status",
+   "http": 200,
+   "zagolovok": "Status Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "suncani-breg",
+   "vivino_id": "323092",
+   "slug": "suncani-breg",
+   "imya": "Sunčani Breg",
+   "http": 200,
+   "zagolovok": "Sunčani Breg Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "terra-balkanika",
+   "vivino_id": "260735",
+   "slug": "terra-balkanika",
+   "imya": "Terra Balkanika",
+   "http": 200,
+   "zagolovok": "Terra Balkanika Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "tica",
+   "vivino_id": "234621",
+   "slug": "tica-winery",
+   "imya": "Tica Winery",
+   "http": 200,
+   "zagolovok": "Tica Winery Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "tri-oraha",
+   "vivino_id": "246766",
+   "slug": "tri-oraha",
+   "imya": "Tri Oraha",
+   "http": 200,
+   "zagolovok": "Tri Oraha Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "tri-puske",
+   "vivino_id": "275280",
+   "slug": "tri-puske",
+   "imya": "Tri Puške",
+   "http": 200,
+   "zagolovok": "Tri Puške Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "ukusi-moga-kraja",
+   "vivino_id": "51911",
+   "slug": "ukusi-moga-kraja",
+   "imya": "Ukusi Moga Kraja",
+   "http": 200,
+   "zagolovok": "Ukusi Moga Kraja Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "uns-petra",
+   "vivino_id": "296777",
+   "slug": "uns-petra",
+   "imya": "Uns Petra",
+   "http": 200,
+   "zagolovok": "Uns Petra Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "uziwa",
+   "vivino_id": "322403",
+   "slug": "uziwa-winery",
+   "imya": "Uziwa Winery",
+   "http": 200,
+   "zagolovok": "Uziwa Winery Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "verus",
+   "vivino_id": "316074",
+   "slug": "verus-wine-of-serbia",
+   "imya": "Verus",
+   "http": 200,
+   "zagolovok": "Verus Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "victory",
+   "vivino_id": "233640",
+   "slug": "victory",
+   "imya": "Victory",
+   "http": 200,
+   "zagolovok": "Victory Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vilimonovic",
+   "vivino_id": "247425",
+   "slug": "vilimonovic",
+   "imya": "Vilimonovic",
+   "http": 200,
+   "zagolovok": "Vilimonovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "jelenkovic",
+   "vivino_id": "293209",
+   "slug": "vina-jelenkovic",
+   "imya": "Vina Jelenković",
+   "http": 200,
+   "zagolovok": "Vina Jelenković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mives",
+   "vivino_id": "260002",
+   "slug": "vina-mives",
+   "imya": "Vina Mives",
+   "http": 200,
+   "zagolovok": "Vina Mives Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "pesic",
+   "vivino_id": "275901",
+   "slug": "vina-pesic",
+   "imya": "Vina Pešić",
+   "http": 200,
+   "zagolovok": "Vina Pešić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "a-rajkovic",
+   "vivino_id": "322759",
+   "slug": "vinarija-a-rajkovic",
+   "imya": "Vinarija A. Rajković",
+   "http": 200,
+   "zagolovok": "Vinarija A. Rajković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "agatija",
+   "vivino_id": "248805",
+   "slug": "vinarija-agatija",
+   "imya": "Vinarija Agatija",
+   "http": 200,
+   "zagolovok": "Vinarija Agatija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "apatovic",
+   "vivino_id": "312644",
+   "slug": "vinarija-apatovic",
+   "imya": "Vinarija Apatović",
+   "http": 200,
+   "zagolovok": "Vinarija Apatović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "bada",
+   "vivino_id": "319361",
+   "slug": "vinarija-bada",
+   "imya": "Vinarija Bada",
+   "http": 200,
+   "zagolovok": "Vinarija Bada Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "bela-kula",
+   "vivino_id": "291014",
+   "slug": "vinarija-bela-kula",
+   "imya": "Vinarija Bela Kula",
+   "http": 200,
+   "zagolovok": "Vinarija Bela Kula Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "blagojevic",
+   "vivino_id": "294383",
+   "slug": "vinarija-blagojevic",
+   "imya": "Vinarija Blagojević",
+   "http": 200,
+   "zagolovok": "Vinarija Blagojević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "bogunovic",
+   "vivino_id": "33741",
+   "slug": "vinarija-bogunovic",
+   "imya": "Vinarija Bogunovic",
+   "http": 200,
+   "zagolovok": "Vinarija Bogunovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "boierescu",
+   "vivino_id": "270725",
+   "slug": "vinarija-boierescu",
+   "imya": "Vinarija Boierescu",
+   "http": 200,
+   "zagolovok": "Vinarija Boierescu Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "bononia",
+   "vivino_id": "179905",
+   "slug": "vinarija-bononia",
+   "imya": "Vinarija Bononia",
+   "http": 200,
+   "zagolovok": "Vinarija Bononia Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "brindza",
+   "vivino_id": "176601",
+   "slug": "vinarija-brindza",
+   "imya": "Vinarija Brindza",
+   "http": 200,
+   "zagolovok": "Vinarija Brindza Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "burcel-todorov",
+   "vivino_id": "138938",
+   "slug": "vinarija-burcel-todorov",
+   "imya": "Vinarija Burcel Todorov",
+   "http": 200,
+   "zagolovok": "Vinarija Burcel Todorov Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dajic",
+   "vivino_id": "214849",
+   "slug": "vinarija-dajic",
+   "imya": "Vinarija Dajic",
+   "http": 200,
+   "zagolovok": "Vinarija Dajic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "gnezdo",
+   "vivino_id": "318414",
+   "slug": "vinarija-gnezdo",
+   "imya": "Vinarija Gnezdo",
+   "http": 200,
+   "zagolovok": "Vinarija Gnezdo Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "gvozdan",
+   "vivino_id": "264165",
+   "slug": "vinarija-gvozdan",
+   "imya": "Vinarija Gvožđan",
+   "http": 200,
+   "zagolovok": "Vinarija Gvožđan Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "krajina-rajac",
+   "vivino_id": "224227",
+   "slug": "vinarija-krajina-rajac",
+   "imya": "Vinarija Krajina Rajac",
+   "http": 200,
+   "zagolovok": "Vinarija Krajina Rajac Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "lalic",
+   "vivino_id": "301928",
+   "slug": "vinarija-lalic",
+   "imya": "Vinarija Lalić",
+   "http": 200,
+   "zagolovok": "Vinarija Lalić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "levac",
+   "vivino_id": "255567",
+   "slug": "vinarija-levac",
+   "imya": "Vinarija Levač",
+   "http": 200,
+   "zagolovok": "Vinarija Levač Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mihailovic",
+   "vivino_id": "321005",
+   "slug": "vinarija-mihailovic",
+   "imya": "Vinarija Mihailović",
+   "http": 200,
+   "zagolovok": "Vinarija Mihailović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "milovanovic",
+   "vivino_id": "158260",
+   "slug": "vinarija-milovanovic",
+   "imya": "Vinarija Milovanovic",
+   "http": 200,
+   "zagolovok": "Vinarija Milovanovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "misic",
+   "vivino_id": "279807",
+   "slug": "vinarija-misic",
+   "imya": "Vinarija Mišić",
+   "http": 200,
+   "zagolovok": "Vinarija Mišić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "necak",
+   "vivino_id": "155247",
+   "slug": "vinarija-necak",
+   "imya": "Vinarija Necak",
+   "http": 200,
+   "zagolovok": "Vinarija Necak Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "okrug",
+   "vivino_id": "255911",
+   "slug": "vinarija-okrug",
+   "imya": "Vinarija Okrug",
+   "http": 200,
+   "zagolovok": "Vinarija Okrug Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "pirg",
+   "vivino_id": "311931",
+   "slug": "vinarija-pirg",
+   "imya": "Vinarija PIRG",
+   "http": 200,
+   "zagolovok": "Vinarija PIRG Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "piano",
+   "vivino_id": "49512",
+   "slug": "pt-piano",
+   "imya": "Vinarija Piano",
+   "http": 200,
+   "zagolovok": "Vinarija Piano Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "praska",
+   "vivino_id": "201322",
+   "slug": "vinarija-praska",
+   "imya": "Vinarija Praška",
+   "http": 200,
+   "zagolovok": "Vinarija Praška Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "radlovic",
+   "vivino_id": "295042",
+   "slug": "vinarija-radlovic",
+   "imya": "Vinarija Radlović",
+   "http": 200,
+   "zagolovok": "Vinarija Radlović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "radoslav-tripkovic",
+   "vivino_id": "258943",
+   "slug": "vinarija-radoslav-tripkovic",
+   "imya": "Vinarija Radoslav Tripković",
+   "http": 200,
+   "zagolovok": "Vinarija Radoslav Tripković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "rudez",
+   "vivino_id": "293459",
+   "slug": "vinarija-rudez",
+   "imya": "Vinarija Rudež",
+   "http": 200,
+   "zagolovok": "Vinarija Rudež Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "s-milosevic",
+   "vivino_id": "259043",
+   "slug": "vinarija-s-milosevic",
+   "imya": "Vinarija S. Milošević",
+   "http": 200,
+   "zagolovok": "Vinarija S. Milošević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "sinjac",
+   "vivino_id": "306524",
+   "slug": "vinarija-sinjac",
+   "imya": "Vinarija Sinjac",
+   "http": 200,
+   "zagolovok": "Vinarija Sinjac Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "stankovic",
+   "vivino_id": "314580",
+   "slug": "stankovic",
+   "imya": "Stanković",
+   "http": 200,
+   "zagolovok": "Stanković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "tana",
+   "vivino_id": "320882",
+   "slug": "vinarija-tana",
+   "imya": "Vinarija Tana",
+   "http": 200,
+   "zagolovok": "Vinarija Tana Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "timacvm-minvs",
+   "vivino_id": "283051",
+   "slug": "vinarija-timacvm-minvs",
+   "imya": "Vinarija Timacvm Minvs",
+   "http": 200,
+   "zagolovok": "Vinarija Timacvm Minvs Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "unikat",
+   "vivino_id": "308627",
+   "slug": "vinarija-unikat",
+   "imya": "Vinarija Unikat",
+   "http": 200,
+   "zagolovok": "Vinarija Unikat Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vilotijevic",
+   "vivino_id": "323643",
+   "slug": "vinarija-vilotijevic",
+   "imya": "Vinarija Vilotijević",
+   "http": 200,
+   "zagolovok": "Vinarija Vilotijević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "grade",
+   "vivino_id": "188900",
+   "slug": "vinarija-vino-grade",
+   "imya": "Vinarija Vino Grade",
+   "http": 200,
+   "zagolovok": "Vinarija Vino Grade Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinoilic",
+   "vivino_id": "316585",
+   "slug": "vinarija-vinoilic",
+   "imya": "Vinarija VinoIlić",
+   "http": 200,
+   "zagolovok": "Vinarija VinoIlić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vladimir",
+   "vivino_id": "272991",
+   "slug": "vinarija-vladimir",
+   "imya": "Vinarija Vladimir",
+   "http": 200,
+   "zagolovok": "Vinarija Vladimir Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vojnovic",
+   "vivino_id": "295064",
+   "slug": "vinarija-vojnovic",
+   "imya": "Vinarija Vojnović",
+   "http": 200,
+   "zagolovok": "Vinarija Vojnović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vrbica",
+   "vivino_id": "120376",
+   "slug": "vinarija-vrbica",
+   "imya": "Vinarija Vrbica",
+   "http": 200,
+   "zagolovok": "Vinarija Vrbica Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vulovic",
+   "vivino_id": "256998",
+   "slug": "vinarija-vulovic",
+   "imya": "Vinarija Vulovic",
+   "http": 200,
+   "zagolovok": "Vinarija Vulovic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "colakovic",
+   "vivino_id": "312998",
+   "slug": "vinarija-colakovic",
+   "imya": "Vinarija Čolaković",
+   "http": 200,
+   "zagolovok": "Vinarija Čolaković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "dorde",
+   "vivino_id": "234107",
+   "slug": "vinarija-dorde",
+   "imya": "Vinarija Đorđe",
+   "http": 200,
+   "zagolovok": "Vinarija Đorđe Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinarska-kuca-miljkovic",
+   "vivino_id": "275780",
+   "slug": "vinarska-kuca-miljkovic",
+   "imya": "Vinarska Kuća Miljković",
+   "http": 200,
+   "zagolovok": "Vinarska Kuća Miljković Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinarska-kuca-spasic",
+   "vivino_id": "154673",
+   "slug": "vinarska-kuca-spasic",
+   "imya": "Vinarska Kuća Spasić",
+   "http": 200,
+   "zagolovok": "Vinarska Kuća Spasić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinex-grozd",
+   "vivino_id": "69944",
+   "slug": "vinex-grozd",
+   "imya": "Vinex Grozd",
+   "http": 200,
+   "zagolovok": "Vinex Grozd Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinograd-hopovo",
+   "vivino_id": "245880",
+   "slug": "hopovo",
+   "imya": "Vinograd Hopovo",
+   "http": 200,
+   "zagolovok": "Vinograd Hopovo Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "nikolic",
+   "vivino_id": "108124",
+   "slug": "vinogradi-nikolic",
+   "imya": "Vinogradi Nikolic",
+   "http": 200,
+   "zagolovok": "Vinogradi Nikolic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinokratija",
+   "vivino_id": "268089",
+   "slug": "vinokratija",
+   "imya": "Vinokratija",
+   "http": 200,
+   "zagolovok": "Vinokratija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinska-kuca-dordevic",
+   "vivino_id": "308388",
+   "slug": "vinska-kuca-djordjevic",
+   "imya": "Vinska Kuća Djordjevic",
+   "http": 200,
+   "zagolovok": "Vinska Kuća Djordjevic Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinska-kuca-milic-geci-m",
+   "vivino_id": "300869",
+   "slug": "vinska-kuca-milic-geci-m",
+   "imya": "Vinska Kuća Milić - Geci M",
+   "http": 200,
+   "zagolovok": "Vinska Kuća Milić - Geci M Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinska-kuca-rajic",
+   "vivino_id": "318905",
+   "slug": "vinska-kuca-rajic",
+   "imya": "Vinska Kuća Rajić",
+   "http": 200,
+   "zagolovok": "Vinska Kuća Rajić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinska-kuca-rakicevic",
+   "vivino_id": "280011",
+   "slug": "vinska-kuca-rakicevic",
+   "imya": "Vinska Kuća Rakićević",
+   "http": 200,
+   "zagolovok": "Vinska Kuća Rakićević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinski-mirjana",
+   "vivino_id": "267250",
+   "slug": "vinski-podrum-mirjana",
+   "imya": "Vinski Podrum Mirjana",
+   "http": 200,
+   "zagolovok": "Vinski Podrum Mirjana Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vinum-lodi",
+   "vivino_id": "258337",
+   "slug": "vinum-lodi",
+   "imya": "Vinum Lódi",
+   "http": 200,
+   "zagolovok": "Vinum Lódi Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vladavina",
+   "vivino_id": "303903",
+   "slug": "vladavina",
+   "imya": "Vladavina",
+   "http": 200,
+   "zagolovok": "Vladavina Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vrsacki",
+   "vivino_id": "50037",
+   "slug": "vrsacki-vinogradi",
+   "imya": "Vršački Vinogradi",
+   "http": 200,
+   "zagolovok": "Vršački Vinogradi Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vukman",
+   "vivino_id": "281307",
+   "slug": "vukman",
+   "imya": "Vukman",
+   "http": 200,
+   "zagolovok": "Vukman Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "vucurevic",
+   "vivino_id": "287209",
+   "slug": "vucurevic",
+   "imya": "Vučurević",
+   "http": 200,
+   "zagolovok": "Vučurević Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "weingut-jovic",
+   "vivino_id": "301058",
+   "slug": "weingut-jovic",
+   "imya": "Weingut Jović",
+   "http": 200,
+   "zagolovok": "Weingut Jović Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "wineco",
+   "vivino_id": "157931",
+   "slug": "wineco",
+   "imya": "WinEco",
+   "http": 200,
+   "zagolovok": "WinEco Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "world-of",
+   "vivino_id": "188901",
+   "slug": "world-of-wine",
+   "imya": "World Of Wine",
+   "http": 200,
+   "zagolovok": "World Of Wine Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "zlatar",
+   "vivino_id": "317930",
+   "slug": "zlatar",
+   "imya": "Zlatar",
+   "http": 200,
+   "zagolovok": "Zlatar Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "zvezda",
+   "vivino_id": "70783",
+   "slug": "zvezda",
+   "imya": "Zvezda",
+   "http": 200,
+   "zagolovok": "Zvezda Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "ciric",
+   "vivino_id": "224865",
+   "slug": "ciric",
+   "imya": "Ćirić",
+   "http": 200,
+   "zagolovok": "Ćirić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "sumadija",
+   "vivino_id": "157944",
+   "slug": "umadija",
+   "imya": "Šumadija",
+   "http": 200,
+   "zagolovok": "Šumadija Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "zivac",
+   "vivino_id": "20851",
+   "slug": "zivac",
+   "imya": "Živač",
+   "http": 200,
+   "zagolovok": "Živač Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "brojanica",
+   "vivino_id": "267762",
+   "slug": "broianitsa-brojanica",
+   "imya": "Брояница (Brojanica)",
+   "http": 200,
+   "zagolovok": "Брояница (Brojanica) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "zivkovica-trzac",
+   "vivino_id": "259200",
+   "slug": "vinarija-zhivkovitsha-vinarija-zivkovica-trzac",
+   "imya": "Винарија Живковића (Vinarija Živkovića-Tržac)",
+   "http": 200,
+   "zagolovok": "Винарија Живковића (Vinarija Živkovića-Tržac) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "винари-а-короли-а",
+   "vivino_id": "300428",
+   "slug": "vinarija-korolija",
+   "imya": "Винарија Королија",
+   "http": 200,
+   "zagolovok": "Винарија Королија Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "винари-а-манастира-студеница",
+   "vivino_id": "302770",
+   "slug": "vinarija-manastira-studenitsa",
+   "imya": "Винарија Манастира Студеница",
+   "http": 200,
+   "zagolovok": "Винарија Манастира Студеница Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "винари-а-мици",
+   "vivino_id": "310835",
+   "slug": "vinarija-mitsitsh",
+   "imya": "Винарија Мицић",
+   "http": 200,
+   "zagolovok": "Винарија Мицић Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "дика-винари-а",
+   "vivino_id": "308536",
+   "slug": "dika-vinarija",
+   "imya": "Дика Винарија",
+   "http": 200,
+   "zagolovok": "Дика Винарија Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "izba-jovanovic",
+   "vivino_id": "246313",
+   "slug": "izba-jovanovitsh-izba-jovanovic",
+   "imya": "Изба Јовановић (Izba Jovanovic)",
+   "http": 200,
+   "zagolovok": "Изба Јовановић (Izba Jovanovic) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "royal",
+   "vivino_id": "90990",
+   "slug": "kraljveska-vinarija-royal-winery",
+   "imya": "Краљвеска Винарија (Royal Winery)",
+   "http": 200,
+   "zagolovok": "Краљвеска Винарија (Royal Winery) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "magaza",
+   "vivino_id": "242695",
+   "slug": "magaza-magaza",
+   "imya": "Магаза (Magaza)",
+   "http": 200,
+   "zagolovok": "Магаза (Magaza) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "mali-gajic",
+   "vivino_id": "305735",
+   "slug": "mali-podrum-gajitsh-mali-podrum-gajic",
+   "imya": "Мали Подрум Гајић - Mali Podrum Gajić",
+   "http": 200,
+   "zagolovok": "Мали Подрум Гајић - Mali Podrum Gajić Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "of-licha",
+   "vivino_id": "291493",
+   "slug": "manastir-zhicha-monastery-of-licha",
+   "imya": "Манастир Жича (Monastery of Licha)",
+   "http": 200,
+   "zagolovok": "Манастир Жича (Monastery of Licha) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "milica",
+   "vivino_id": "323234",
+   "slug": "militsa-milica",
+   "imya": "Милица (Milica)",
+   "http": 200,
+   "zagolovok": "Милица (Milica) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "nikolich-neuzinsky",
+   "vivino_id": "308604",
+   "slug": "nikolitsh-neyzinski-nikolich-neuzinsky",
+   "imya": "Николић Неyзински (Nikolićh Neuzinsky)",
+   "http": 200,
+   "zagolovok": "Николић Неyзински (Nikolićh Neuzinsky) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "orlic-family",
+   "vivino_id": "313248",
+   "slug": "orlitsh-porodichna-vinarija-orlic-family-winery",
+   "imya": "Орлић Породична Винарија - Orlić Family Winery",
+   "http": 200,
+   "zagolovok": "Орлић Породична Винарија - Orlić Family Winery Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "patriarchate",
+   "vivino_id": "267644",
+   "slug": "patrijarshija-patriarchate",
+   "imya": "Патријаршија (Patriarchate)",
+   "http": 200,
+   "zagolovok": "Патријаршија (Patriarchate) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "подрум-берлин",
+   "vivino_id": "308091",
+   "slug": "podrum-berlin",
+   "imya": "Подрум Берлин",
+   "http": 200,
+   "zagolovok": "Подрум Берлин Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "подрум-вина-лазареви",
+   "vivino_id": "317052",
+   "slug": "podrum-vina-lazarevitsh",
+   "imya": "Подрум Вина Лазаревић",
+   "http": 200,
+   "zagolovok": "Подрум Вина Лазаревић Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "подрум-мило-еви",
+   "vivino_id": "305711",
+   "slug": "podrum-milojevitsh",
+   "imya": "Подрум Милојевић",
+   "http": 200,
+   "zagolovok": "Подрум Милојевић Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "подрум-певац",
+   "vivino_id": "277383",
+   "slug": "podrum-pevats",
+   "imya": "Подрум Певац",
+   "http": 200,
+   "zagolovok": "Подрум Певац Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "raskovic",
+   "vivino_id": "251695",
+   "slug": "podrum-vina-rashkovitsh-raskovic-winery",
+   "imya": "Подрум вина Рашковић - (Rašković Winery)",
+   "http": 200,
+   "zagolovok": "Подрум вина Рашковић - (Rašković Winery) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "fenek",
+   "vivino_id": "316878",
+   "slug": "fenek-fenek-monastery",
+   "imya": "Фенек (Fenek Monastery)",
+   "http": 200,
+   "zagolovok": "Фенек (Fenek Monastery) Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "фенечко-вино",
+   "vivino_id": "293013",
+   "slug": "fenechko-vino",
+   "imya": "Фенечко Вино",
+   "http": 200,
+   "zagolovok": "Фенечко Вино Winery",
+   "imya_sovpalo": true
+  },
+  {
+   "klyuch": "casa-i-prica",
+   "vivino_id": "269387",
+   "slug": "chasha-vina-i-pricha-casa-vina-i-prica",
+   "imya": "Чаша Вина и Прича (Čaša Vina i Priča)",
+   "http": 200,
+   "zagolovok": "Чаша Вина и Прича (Čaša Vina i Priča) Winery",
+   "imya_sovpalo": true
+  }
+ ],
+ "kak_sverjalos": "Имя из наших данных ищется в заголовке страницы Vivino; кириллица переводится в латиницу, диакритика и регистр снимаются.",
+ "bez_kartochki_vivino": {
+  "chto_eto": "Хозяйства без рејона, которых нет среди 433 винарий в листинге Vivino. Каждое прослежено до записи с номером; четыре открыты живьём.",
+  "hozyaistva": [
+   {
+    "imya": "Lakićević",
+    "otkuda": "Vivino, но не в листинге Сербии: у вин есть номера 8890518, 8920751, 11593426",
+    "proverka": "https://www.vivino.com/wineries/vinarija-lakicevic — HTTP 200, «Vinarija Lakićević Winery»"
+   },
+   {
+    "imya": "Vinarija Val d'Ov",
+    "otkuda": "Vivino, вино 13984418",
+    "proverka": "https://www.vivino.com/w/13984418 — HTTP 200, «Vinarija Val d'Ov Crvendać»"
+   },
+   {
+    "imya": "Walc & Grozd",
+    "otkuda": "Vivino, вино 9794815",
+    "proverka": "https://www.vivino.com/w/9794815 — HTTP 200, «Walc & Grozd Vranac»"
+   },
+   {
+    "imya": "Vinarija Fleur D'Oranger",
+    "otkuda": "Vivino, вина 11386572 и 9638642; плюс Decanter DWWA 2024 и 2026",
+    "proverka": "https://www.vivino.com/w/11386572 — HTTP 200, «Fleur d'Oranger Chardonnay». API Decanter сейчас отдаёт запись 790590 «Vinarija Fleur D'Oranger · Krokan Muskat 2024»"
+   },
+   {
+    "imya": "Gardijan",
+    "otkuda": "Decanter DWWA 2026, вино 786344, «Stigma Chardonnay» 2023",
+    "proverka": "API Decanter сейчас отдаёт эту запись с тем же производителем"
+   },
+   {
+    "imya": "Vinarija Mira",
+    "otkuda": "Decanter DWWA 2025, вино 769318, «La Baba Morava»",
+    "proverka": "запись в кэше DWWA 2025"
+   },
+   {
+    "imya": "Rubinov",
+    "otkuda": "Decanter DWWA 2021, вино 697216, «Prokupac»",
+    "proverka": "запись в кэше DWWA 2021"
+   },
+   {
+    "imya": "Josic Winery",
+    "otkuda": "Falstaff, печатный список: «Zmajevac Prokupac» и «Zmajevac Tamjanika», по 92 балла",
+    "proverka": "страницы 20 и 11 печати; Zmajevac — марка Josić"
+   },
+   {
+    "imya": "Marselan",
+    "otkuda": "Decanter DWWA 2023, вино 736227 — ошибка ввода: в поле производителя название сорта",
+    "proverka": "не хозяйство; привязать не к кому"
+   },
+   {
+    "imya": "Prokupac",
+    "otkuda": "Decanter DWWA 2021, вино 699180 — та же ошибка ввода",
+    "proverka": "не хозяйство; привязать не к кому"
+   }
+  ]
+ },
+ "inostrannye_vina": {
+  "chto_eto": "В сборе Vivino 13 вин с несербской страной. Ни одно хозяйство не иностранное целиком — это отдельные позиции, которые Vivino отнёс к другой стране.",
+  "sluchai": [
+   "Imperator Vino — 2 из 27 (Косово)",
+   "Vinski Dvor — 2 из 15 (США, Хорватия)",
+   "Vinska Kuća Milić - Geci M — 2 из 3 (Италия)",
+   "Ralević — 1 из 13 (Чехия)",
+   "Podrum Milošević — 1 из 3 (Чехия)",
+   "Radu Group Vinarija — 1 из 6 (Македония)",
+   "Dealul Tirolului — 1 из 4 (Румыния)",
+   "Milić — 1 из 4 (Италия)",
+   "M. Dubrana - N. Scheidt — 1 из 3 (Франция)",
+   "Чаша Вина и Прича — 1 из 3 (Болгария)"
+  ]
+ }
+}

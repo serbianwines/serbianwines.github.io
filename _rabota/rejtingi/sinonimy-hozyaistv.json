@@ -1,6 +1,6 @@
 {
  "chto_eto": "Имена, под которыми одно и то же хозяйство встречается у разных источников. Список ведётся руками и только с доказательством: догадки по похожести имён сюда не идут — они уже дали ложные пары (Jovanović и Jovanov, Madžić и Adžić, Stojković и Stojanović — разные хозяйства).",
- "kak_chitat": "Ключ — имя, которое остаётся; значение — список имён, которые к нему сводятся, и чем это доказано. Написания, различающиеся только регистром, диакритикой, служебными словами («винарија», «подрум», «д.о.о.», «вино») или парой dj/đ, сюда не входят: их сводит сам ключ.",
+ "kak_chitat": "Ключ — имя, которое остаётся; значение — список имён, которые к нему сводятся, и чем это доказано. Написания, различающиеся только регистром, диакритикой, служебными словами («винарија», «подрум», «д.о.о.», «вино») или парой dj/đ, сюда не входят: их сводит сам ключ. Поле «marki» перечисляет варианты, которые именем хозяйства не являются: это марка или сорт, попавшие у источника в поле производителя. Хозяйство они называют, но из имени вина их снимать нельзя — «Belina Oranž» без «Belina» становится чужим вином.",
  "hozyaistva": {
   "Atelje Vina Šapat": {
    "varianty": [
@@ -33,13 +33,21 @@
    "varianty": [
     "Chardonnay"
    ],
-   "dokazatelstvo": "Та же ошибка у Decanter, DWWA 2026: производитель «Chardonnay», вино «Omnibus Lector Chardonnay». Линейка Omnibus Lector — Erdevik, она проходит через конкурс с 2015 года."
+   "dokazatelstvo": "Та же ошибка у Decanter, DWWA 2026: производитель «Chardonnay», вино «Omnibus Lector Chardonnay». Линейка Omnibus Lector — Erdevik, она проходит через конкурс с 2015 года.",
+   "marki": [
+    "Chardonnay"
+   ],
+   "marki_pochemu": "Сорт в поле производителя, а не имя дома."
   },
   "Fruškogorski": {
    "varianty": [
     "Tri SuncA"
    ],
-   "dokazatelstvo": "То же: Gilbert & Gaillard записал в хозяйство марку. «Три сунца» — линейка Фрушкогорског: у него «Tri Sunca Grašac» и «Tri Sunca Traminac Kasna Berba». Отдельного производителя с таким именем нет ни в Винарском регистру, ни у Vivino."
+   "dokazatelstvo": "То же: Gilbert & Gaillard записал в хозяйство марку. «Три сунца» — линейка Фрушкогорског: у него «Tri Sunca Grašac» и «Tri Sunca Traminac Kasna Berba». Отдельного производителя с таким именем нет ни в Винарском регистру, ни у Vivino.",
+   "marki": [
+    "Tri SuncA"
+   ],
+   "marki_pochemu": "Линейка хозяйства, а не его имя."
   },
   "Jelenac": {
    "varianty": [
@@ -54,13 +62,18 @@
     "Verus – Kis",
     "Verus"
    ],
-   "dokazatelstvo": "Опечатка «Vinarjia» — это Винарија Киш. «Verus» — её линейка, и балканский конкурс пишет производителя прямо парой: «Verus Kis» и «Verus – Kis». У нашей записи «Verus» единственное вино — «Biser Bermet Beli», а у Киша стоят «Biser Beli», «Biser Crni» и «Кишов бермет»."
+   "dokazatelstvo": "Опечатка «Vinarjia» — это Винарија Киш. «Verus» — её линейка, и балканский конкурс пишет производителя прямо парой: «Verus Kis» и «Verus – Kis». У нашей записи «Verus» единственное вино — «Biser Bermet Beli», а у Киша стоят «Biser Beli», «Biser Crni» и «Кишов бермет».",
+   "marki": [
+    "Verus"
+   ],
+   "marki_pochemu": "Линейка хозяйства. «Verus Kis» и «Verus – Kis» — имена дома, а голое «Verus» — нет."
   },
   "Manastir Bukovo": {
    "varianty": [
-    "Manastira Bukovo"
+    "Manastira Bukovo",
+    "Винарија Манастира Буково"
    ],
-   "dokazatelstvo": "Родительный падеж того же имени: «винарија манастира Буково». У обеих записей вина одной линейки Filigran, DWWA 2018 и 2020–2021."
+   "dokazatelstvo": "Родительный падеж того же имени: «винарија манастира Буково». У обеих записей вина одной линейки Filigran, DWWA 2018 и 2020–2021. Третье написание — кириллицей, «Винарија Манастира Буково»: та же линейка Filigran (гаме, мерло, шардоне, каберне совињон, резерва, розе) стоит под обоими именами. В Винарском регистру дом один — запись № 724, «Vinarija manastira Bukovo DOO Negotin», Борски округ."
   },
   "Matalj": {
    "varianty": [
@@ -72,7 +85,11 @@
    "varianty": [
     "Belina"
    ],
-   "dokazatelstvo": "Ошибка ввода у Decanter: в DWWA 2021 в поле производителя стоит название сорта. То же вино «Belina» урожаев 2020, 2021 и 2022 подано в DWWA 2022, 2023 и 2026 уже за Matijašević Vinogradi, и других производителей вина с таким именем на конкурсе нет."
+   "dokazatelstvo": "Ошибка ввода у Decanter: в DWWA 2021 в поле производителя стоит название сорта. То же вино «Belina» урожаев 2020, 2021 и 2022 подано в DWWA 2022, 2023 и 2026 уже за Matijašević Vinogradi, и других производителей вина с таким именем на конкурсе нет.",
+   "marki": [
+    "Belina"
+   ],
+   "marki_pochemu": "Сорт в поле производителя; «Белина» — ещё и имя вина."
   },
   "Molovin": {
    "varianty": [
@@ -103,9 +120,10 @@
   },
   "Probus Vineyards": {
    "varianty": [
-    "Carski Vinograd- M.A. Probus d.o.o"
+    "Carski Vinograd- M.A. Probus d.o.o",
+    "Probus Vineyards CCLXXX"
    ],
-   "dokazatelstvo": "Berliner и Asia Wine Trophy награждают за «Carski Vinograd — M.A. Probus d.o.o» вина «Magis» и «Traminac»; «Magis» стоит в линейке Probus Vineyards. В регистре это «PROBUS VINEYARDS CCLXXX DOO VELIKI RADNICI»."
+   "dokazatelstvo": "Berliner и Asia Wine Trophy награждают за «Carski Vinograd — M.A. Probus d.o.o» вина «Magis» и «Traminac»; «Magis» стоит в линейке Probus Vineyards. В регистре это «PROBUS VINEYARDS CCLXXX DOO VELIKI RADNICI». Полное имя из регистра встречается и само по себе: у «Probus Vineyards CCLXXX» и «Probus Vineyards» общие вина «Magis» и «Belim»."
   },
   "Radovan": {
    "varianty": [
@@ -118,7 +136,11 @@
     "Rubin Ad Krusevac",
     "Amante"
    ],
-   "dokazatelstvo": "Юридическая форма и город в имени: регистр даёт «RUBIN AD, Kruševac». Так его пишут IWC («RUBIN AD KRUSEVAC», медали 2013–2015) и Concours Mondial («Rubin AD Krusevac», Гран-золото 2013 за Terra Lazarica). Другого Рубина в сербском виноделии нет. Gilbert & Gaillard ставит в поле хозяйства марку: под именем «Amante» у него «Carmen» 2019 (88) и «Aurora» 2019 (90) — оба вина стоят в линейке Рубина, «Amante Carmen» и «Amante Aurora»."
+   "dokazatelstvo": "Юридическая форма и город в имени: регистр даёт «RUBIN AD, Kruševac». Так его пишут IWC («RUBIN AD KRUSEVAC», медали 2013–2015) и Concours Mondial («Rubin AD Krusevac», Гран-золото 2013 за Terra Lazarica). Другого Рубина в сербском виноделии нет. Gilbert & Gaillard ставит в поле хозяйства марку: под именем «Amante» у него «Carmen» 2019 (88) и «Aurora» 2019 (90) — оба вина стоят в линейке Рубина, «Amante Carmen» и «Amante Aurora».",
+   "marki": [
+    "Amante"
+   ],
+   "marki_pochemu": "Линейка хозяйства, а не его имя."
   },
   "Veritas Ćuković": {
    "varianty": [
@@ -176,12 +198,6 @@
    ],
    "dokazatelstvo": "Полное юридическое имя из регистра: «EKO MINERAL DOO Smederevo — ogranak Vinarija Jeremić Smederevo». Berliner Wine Trophy пишет его целиком."
   },
-  "Vinarija Radoslav Tripković": {
-   "varianty": [
-    "Vinarija Radoslav Tripcovic"
-   ],
-   "dokazatelstvo": "То же имя без диакритики."
-  },
   "Vinarija Todorović": {
    "varianty": [
     "Maison Alexandre & Solene"
@@ -190,9 +206,11 @@
   },
   "Vinarija VRT": {
    "varianty": [
-    "Vinarija VRT Riđica"
+    "Vinarija VRT Riđica",
+    "Vinarija Radoslav Tripcovic",
+    "Vinarija Radoslav Tripković"
    ],
-   "dokazatelstvo": "Риђица — место хозяйства, а не часть имени: балканский конкурс пишет его и «VRT vinarija», и «Vinarija VRT Riđica». В Винарском регистру это «GABRIJELA TRIPKOVIĆ PR … VRT», Риђица под Сомбором."
+   "dokazatelstvo": "Риђица — место хозяйства, а не часть имени: балканский конкурс пишет его и «VRT vinarija», и «Vinarija VRT Riđica». В Винарском регистру это «GABRIJELA TRIPKOVIĆ PR … VRT», Риђица под Сомбором. «Vinarija Radoslav Tripković» — тот же дом: у него вина названы прямо маркой VRT — «VRT Pesak Sivi», «Vrt Pesak Žuti», — и вся линейка Песак (бели, плави, сиви) стоит под обоими именами. В Винарском регистру Трипковић один: запись № 4129, «GABRIJELA TRIPKOVIĆ PR … VINARIJA VRT 2011 SOMBOR», Западнобачки округ."
   },
   "Vinarija Šijački": {
    "varianty": [
@@ -272,7 +290,8 @@
   "Gora / La Gora": "Не сведены: доказательства нет. Совпадение с регистром ложное — слово «gora» попало из «VINARIJA FRUŠKA GORA BEŠKA». Линейки разные: у Gora грашац и белый купаж, у La Gora — Aria, Bello, Lupo.",
   "Damalis / Dimalis": "Не сведены. У балканского конкурса 2026 года есть «Damalis» с совиньоном, а у нас «Dimalis» из Старе Моравице. Имена различаются одной буквой, и «Damalis» не встречается ни в Винарском регистру, ни у Vivino, — но у Dimalis в сборе только каберне, франковка и рајнски ризлинг. Похожести имён для сведения мало.",
   "Rakicevic / Vinska Kuća Rakićević": "Не сведены. Ракићевића в регистре два: «Bratislav Rakićević … Velja Glava» и «MARKO RAKIĆEVIĆ PR … VINARIJA GERASIM, Ljubinci». По одной фамилии выбрать нельзя.",
-  "Vinogradi i vinarija Miletić / Miletic": "Не сведены. Милетића в регистре тоже два: «PODRUM MILETIĆ, Laćisled» и «Vinogradi i vinarija Miletić, Oparić»."
+  "Vinogradi i vinarija Miletić / Miletic": "Не сведены. Милетића в регистре тоже два: «PODRUM MILETIĆ, Laćisled» и «Vinogradi i vinarija Miletić, Oparić».",
+  "Vinarija Milojević / Подрум Милојевић": "Не сведены, хотя имя одно: линейки не пересекаются. У «Vinarija Milojević» это Giletou — Beli Front, Crni Front, Chardonnay; у «Подрум Милојевић» — Видик, Лана, Мцма, и у каждого вина свой номер Vivino. Рејон у первого Београдски, а единственный Милојевић в регистру — запись № 5062, «Milan Milojević PR „PORODIČNA VINARIJA MILOJEVIĆ“, Ostrikovac», Поморавски округ. Совпадение фамилии доказательством не считается."
  },
  "ne_privyazano": {
   "Marselan": "Ошибка ввода у Decanter, DWWA 2023: в поле производителя стоит название сорта, вино тоже «Marselan». Марселан в Сербии делают десятки хозяйств — привязать не к кому.",

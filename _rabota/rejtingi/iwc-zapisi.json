@@ -3,8 +3,10 @@
  "istochnik": "internationalwinechallenge.com/canopy/search_results",
  "strana_v_spravochnike": "170",
  "gody": [
+  2008,
   2009,
   2010,
+  2011,
   2012,
   2013,
   2014,
@@ -15,9 +17,13 @@
   2019,
   2020,
   2021,
-  2022
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
  ],
- "vsego": 63,
+ "vsego": 66,
  "bez_medali": 0,
  "zapisi": [
   {
@@ -52,6 +58,39 @@
    "sort": "Chardonnay",
    "oblast_iwc": "Sumadijsko Velikomoravski",
    "stranica": "internationalwinechallenge.com, IWC 2010, вино 27221"
+  },
+  {
+   "god": 2011,
+   "nomer": "29778",
+   "hozyaistvo": "Winery Aleksandrovic",
+   "vino": "Harizma",
+   "urozhaj": 2008,
+   "medal": "Bronze",
+   "sort": "Chardonnay",
+   "oblast_iwc": "",
+   "stranica": "internationalwinechallenge.com, IWC 2011, вино 29778"
+  },
+  {
+   "god": 2011,
+   "nomer": "29776",
+   "hozyaistvo": "Winery Aleksandrovic",
+   "vino": "Regent",
+   "urozhaj": 2007,
+   "medal": "Commended",
+   "sort": "Cabernet Sauvignon, Merlot",
+   "oblast_iwc": "",
+   "stranica": "internationalwinechallenge.com, IWC 2011, вино 29776"
+  },
+  {
+   "god": 2011,
+   "nomer": "29781",
+   "hozyaistvo": "Winery Aleksandrovic",
+   "vino": "Trijumf Barrique",
+   "urozhaj": 2007,
+   "medal": "Commended",
+   "sort": "Sauvignon Blanc",
+   "oblast_iwc": "",
+   "stranica": "internationalwinechallenge.com, IWC 2011, вино 29781"
   },
   {
    "god": 2012,

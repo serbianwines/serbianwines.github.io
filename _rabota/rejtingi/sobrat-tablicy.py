@@ -185,6 +185,22 @@ def _sinonimy():
             for imya, z in d.items() for v in z["varianty"]}
 
 
+def _marki():
+    """Варианты, которые именем хозяйства не являются.
+
+    «Belina» у Матијашевића, «Amante» у Рубина, «Tri Sunca» у
+    Фрушкогорског — марка или сорт, попавшие у источника в поле
+    производителя. Хозяйство они называют верно, поэтому в списке
+    синонимов стоят; но снимать их с начала имени вина нельзя:
+    «Belina Oranž» без «Belina» становится другим вином.
+    """
+    put_f = os.path.join(RYADOM, "sinonimy-hozyaistv.json")
+    if not os.path.exists(put_f):
+        return set()
+    d = json.load(open(put_f, encoding="utf-8"))["hozyaistva"]
+    return {_bazovyj_klyuch(m) for z in d.values() for m in z.get("marki", ())}
+
+
 def bez_skobok(imya):
     """«Винарија Тришић (Vinarija Trišić)» — это «Vinarija Trišić».
 
@@ -213,6 +229,80 @@ def bez_skobok(imya):
     return imya
 
 
+# Сербская кириллица и латиница переводятся одна в другую однозначно,
+# поэтому сводить их можно без догадок. Двубуквенные идут первыми: иначе
+# «њ» распадётся на «n» и «j» по одному, а «џ» — на «d» и «z».
+KIRILLICA = [("Њ", "Nj"), ("Љ", "Lj"), ("Џ", "Dž"), ("њ", "nj"), ("љ", "lj"),
+             ("џ", "dž"), ("а", "a"), ("б", "b"), ("в", "v"), ("г", "g"),
+             ("д", "d"), ("ђ", "đ"), ("е", "e"), ("ж", "ž"), ("з", "z"),
+             ("и", "i"), ("ј", "j"), ("к", "k"), ("л", "l"), ("м", "m"),
+             ("н", "n"), ("о", "o"), ("п", "p"), ("р", "r"), ("с", "s"),
+             ("т", "t"), ("ћ", "ć"), ("у", "u"), ("ф", "f"), ("х", "h"),
+             ("ц", "c"), ("ч", "č"), ("ш", "š"), ("й", "j"), ("щ", "š"),
+             ("ы", "i"), ("э", "e"), ("ю", "ju"), ("я", "ja"), ("ъ", ""),
+             ("ь", "")]
+
+
+def latinicej(s):
+    for a, b in KIRILLICA:
+        s = s.replace(a, b).replace(a.upper(), b.upper() if len(b) == 1
+                                    else b.capitalize())
+    return s
+
+
+def est_kirillica(s):
+    return any("\u0400" <= z <= "\u04ff" for z in s or "")
+
+
+def odno_imya_dvumya_alfavitami(vino):
+    """«Три Мораве (Tri Morave)» → «Tri Morave»: то же имя, другой алфавит.
+
+    Vivino держит часть сербских вин кириллицей, дописывая латиницу
+    в скобках, а конкурсы знают только латинское имя. Без сведения одно
+    вино стоит двумя строками: оценка покупателей на одной, медаль
+    на другой, и ни на одной нет обеих.
+
+    Скобки снимаются, только если в них ровно перевод головы буква
+    в букву. Этого мало для «Морава Глина (Morava Clay)» — там перевод
+    смысла, а не письма, — и это нарочно: «Тома Здравковиђ Бело (Toma
+    Zdravković Red)» и «... (Toma Zdravković White)» иначе слиплись бы
+    в одно вино, а это две разные позиции каталога.
+    """
+    itog = (vino or "").strip()
+    for sovpalo in list(re.finditer(r"\(([^()]+)\)", itog)):
+        vnutri = sovpalo.group(1)
+        mesto = itog.find(sovpalo.group(0))
+        if est_kirillica(vnutri):
+            # Обратный случай: имя латиницей, в скобках оно же кириллицей —
+            # «Filigran Merlot (Филигран Мерлот)». Скобки просто снимаются.
+            slova = itog[:mesto].rstrip().split()
+            for skolko in range(1, min(len(slova), 8) + 1):
+                hvost = " ".join(slova[-skolko:])
+                if est_kirillica(hvost) or klyuch(hvost) != klyuch(latinicej(vnutri)):
+                    continue
+                itog = re.sub(r"\s+", " ", (itog[:mesto]
+                              + itog[mesto + len(sovpalo.group(0)):])).strip()
+                break
+            continue
+        if mesto < 0:
+            continue
+        slova = itog[:mesto].rstrip().split()
+        for skolko in range(1, min(len(slova), 8) + 1):
+            hvost = " ".join(slova[-skolko:])
+            if not est_kirillica(hvost) or klyuch(latinicej(hvost)) != klyuch(vnutri):
+                continue
+            zamena = (" ".join(slova[:-skolko]) + " " + vnutri
+                      + itog[mesto + len(sovpalo.group(0)):])
+            zamena = re.sub(r"\s+", " ", zamena).strip()
+            # Если кириллица осталась, скобки покрыли только часть имени:
+            # «Гмитар Прокупац (Prokupac)» превратилось бы в «Гмитар
+            # Prokupac» — смесь двух алфавитов вместо одного имени.
+            if not est_kirillica(zamena):
+                itog = zamena
+            break
+    return itog or vino
+
+
 def _bazovyj_klyuch(imya):
     k = klyuch(bez_skobok(imya))
     chasti = [c for c in k.split("-") if c and c not in SLUZHEBNYE]
@@ -222,12 +312,27 @@ def _bazovyj_klyuch(imya):
 SINONIMY = {}
 # Имена, объявленные в файле синонимов главными: они и показываются.
 KANON_IMYA = set()
+# Варианты, которые именем хозяйства не являются, — см. _marki().
+MARKI = set()
 
 
 def klyuch_hozyaistva(imya):
     """Ключ хозяйства: без служебных слов, регистра и диакритики."""
     k = _bazovyj_klyuch(imya)
     return SINONIMY.get(k, k)
+
+
+def snimaetsya(nachalo, hoz):
+    """Снимать ли это начало имени вина как повтор имени хозяйства.
+
+    Снимается, если начало называет то же хозяйство, — но не тогда,
+    когда это марка или сорт, попавшие у источника в поле производителя:
+    «Belina», «Amante», «Verus», «Tri Sunca». Хозяйство они называют
+    верно, а из имени вина их убирать нельзя.
+    """
+    if _bazovyj_klyuch(nachalo) in MARKI:
+        return False
+    return klyuch_hozyaistva(nachalo) == hoz
 
 
 def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
@@ -244,11 +349,19 @@ def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
     Vivino, что это одно вино, и потерять одну из двух выборок отзывов.
     """
     hoz = klyuch_hozyaistva(hozyaistvo)
-    chasti = klyuch(vino).split("-")
+    # Ключ строится по латинице: кириллическое имя вина и латинское —
+    # одно вино, а не два. Перевод письма однозначен, догадок здесь нет.
+    chasti = klyuch(latinicej(odno_imya_dvumya_alfavitami(vino))).split("-")
     if snimat_povtor:
         for skolko in range(len(chasti) - 1, 0, -1):
             nachalo = [c for c in chasti[:skolko] if c not in SLUZHEBNYE]
-            if "-".join(nachalo) == hoz:
+            # Через klyuch_hozyaistva, а не напрямую: в начале имени вина
+            # стоит то написание хозяйства, какое дал источник, и оно
+            # бывает синонимом — «Verus Chardonnay» у Киша, «Vimmid
+            # Cabernet Sauvignon» у Фрунзе. Показываемое имя их снимало
+            # (imya_vina сводит синонимы), а ключ — нет, и одно вино
+            # расходилось на две строки с одинаковым именем.
+            if snimaetsya("-".join(nachalo), hoz):
                 chasti = chasti[skolko:]
                 break
     return hoz + "-" + "-".join(chasti)
@@ -262,12 +375,16 @@ def imya_vina(hozyaistvo, vino, snimat_povtor=True):
     No 1». В сырых записях имя остаётся ровно таким, как его печатает
     источник, — таблицы производные, сырьё правится только руками.
     """
+    # «Три Мораве (Tri Morave)» показывается как «Tri Morave»: на этикетке
+    # стоит латиница, и справочник зовёт вино так же. Сводится только
+    # ровное повторение имени другим алфавитом — см. odno_imya_dvumya_alfavitami.
+    vino = odno_imya_dvumya_alfavitami(vino)
     if not snimat_povtor:
         return vino
     slova = vino.split()
     hoz = klyuch_hozyaistva(hozyaistvo)
     for skolko in range(len(slova) - 1, 0, -1):
-        if klyuch_hozyaistva(" ".join(slova[:skolko])) == hoz:
+        if snimaetsya(" ".join(slova[:skolko]), hoz):
             return " ".join(slova[skolko:])
     return vino
 
@@ -460,7 +577,12 @@ def main():
             vidano[k] = {
                 "klyuch": k,
                 "hozyaistvo": z["hozyaistvo"],
-                "vino": z["vino"],
+                # Повтор имени хозяйства у записей Vivino не снимается —
+                # см. klyuch_vina, — но кириллическое написание с латинской
+                # расшифровкой в скобках приводится к латинице: на этикетке
+                # стоит она.
+                "vino": imya_vina(z["hozyaistvo"], z["vino"],
+                                  snimat_povtor=False),
                 "vivino_id": vivino_id,
                 "vivino_adres": adres if vivino_id else "",
                 # «Мало оценок» — тоже сведение: Vivino прячет оценку, пока
@@ -516,7 +638,7 @@ def main():
             "klyuch_vina": klyuch_vina(z["hozyaistvo"], z["vino"],
                                        snimat_povtor=False),
             "hozyaistvo": z["hozyaistvo"],
-            "vino": z["vino"],
+            "vino": imya_vina(z["hozyaistvo"], z["vino"], snimat_povtor=False),
             "istochnik": "vivino",
             "shkala": 5,
             "ball": z["ocenka"],
@@ -582,6 +704,7 @@ def main():
 
 
 SINONIMY.update(_sinonimy())
+MARKI.update(_marki())
 KANON_IMYA.update(
     json.load(open(os.path.join(RYADOM, "sinonimy-hozyaistv.json"),
                    encoding="utf-8"))["hozyaistva"]

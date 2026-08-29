@@ -45,7 +45,9 @@ KESH = os.path.join(RYADOM, "kesh-vivino")
 ITOG = os.path.join(RYADOM, "vivino-syrye.json")
 
 LISTING = "https://www.vivino.com/en/wineries/countries/republic-of-serbia?page=%d"
-VINA_HOZYAISTVA = "https://www.vivino.com/api/wineries/%s/wines?per_page=100"
+PREDEL_VIN = 100
+VINA_HOZYAISTVA = ("https://www.vivino.com/api/wineries/%s/wines"
+                   "?per_page=" + str(PREDEL_VIN))
 
 ZAGOLOVKI = {
     "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -142,6 +144,13 @@ def vina_hozyaistva(hozyaistvo):
     except urllib.error.HTTPError as e:
         sys.stderr.write("  %s: HTTP %s\n" % (hozyaistvo["imya"], e.code))
         return []
+    # Ответ не говорит, сколько вин у хозяйства всего, поэтому обрезку
+    # видно только по тому, что их ровно столько, сколько просили. Пока
+    # такого не было — самое большое хозяйство отдаёт 75 из ста, — но
+    # молча упереться в предел этот сбор не должен.
+    if len(otvet.get("wines") or []) >= PREDEL_VIN:
+        sys.stderr.write("  %s: вин ровно %d — вероятно, выдача обрезана\n"
+                         % (hozyaistvo["imya"], PREDEL_VIN))
     out = []
     for v in otvet.get("wines") or []:
         st = v.get("statistics") or {}

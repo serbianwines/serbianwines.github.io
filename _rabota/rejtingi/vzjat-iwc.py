@@ -21,8 +21,11 @@ KESH = put("kesh-iwc")
 SPISOK = ("https://www.internationalwinechallenge.com/canopy/search_results"
           "?wpcat=WineTab.S&Challenge_Year=%s_993276&Country=170&page=%d")
 STRANA_SRBIJA = "170"          # номер Сербии в справочнике IWC
-GODY = (2009, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020,
-        2021, 2022)
+# Годы перечислялись поимённо, и 2011-й в списке пропущен — а у него
+# три сербские медали. Поэтому здесь сплошной ряд: пустой год отвечает
+# «Displaying 0 results», и это видно, а не молчит. Сербских вин у IWC
+# нет до 2009 года и после 2022-го — проверено запросом.
+GODY = range(2008, 2027)
 BRAUZER = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 

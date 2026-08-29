@@ -1032,12 +1032,14 @@
    "rejon": "Rejon Negotinska Krajina",
    "vinogorje": null,
    "gorod": "",
-   "istochnik": "decanter",
+   "istochnik": "decanter+vivino",
    "raznoglasie": "",
    "gde": "",
    "pokazaniya": [
     "decanter: Negotinska Krajina",
-    "falstaff: поиск по Сербии"
+    "falstaff: поиск по Сербии",
+    "vivino: Central Serbia",
+    "vivino: Negotinska Krajina"
    ]
   },
   "burcel-todorov": {
@@ -4752,16 +4754,14 @@
   },
   "probus-cclxxx": {
    "hozyaistvo": "Probus Vineyards CCLXXX",
-   "region": "Vojvodina",
-   "rejon": "Sremski rejon",
-   "vinogorje": "Fruškogorsko vinogorje",
+   "region": null,
+   "rejon": null,
+   "vinogorje": null,
    "gorod": "",
-   "istochnik": "decanter",
+   "istochnik": "ne_ustanovlen",
    "raznoglasie": "",
    "gde": "",
-   "pokazaniya": [
-    "decanter: Srem · Fruška Gora"
-   ]
+   "pokazaniya": []
   },
   "prokupac": {
    "hozyaistvo": "Prokupac",
@@ -4895,17 +4895,14 @@
   },
   "radoslav-tripkovic": {
    "hozyaistvo": "Vinarija Radoslav Tripković",
-   "region": "Vojvodina",
+   "region": null,
    "rejon": null,
    "vinogorje": null,
-   "gorod": "Sombor",
+   "gorod": "",
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "рејон один из: Rejon Bačka; Rejon Telečka; Subotički rejon",
-   "gde": "Sombor",
-   "pokazaniya": [
-    "vivino-adres: Sombor",
-    "vivino: Central Serbia"
-   ]
+   "raznoglasie": "",
+   "gde": "",
+   "pokazaniya": []
   },
   "radovan": {
    "hozyaistvo": "Radovan",
@@ -5029,17 +5026,6 @@
     "decanter: Banat · South Banat",
     "vivino: Central Serbia"
    ]
-  },
-  "rajkovic": {
-   "hozyaistvo": "Rajkovic",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
   },
   "rajkovic-office": {
    "hozyaistvo": "Rajković wine office",
@@ -7117,7 +7103,9 @@
    "gde": "Sombor, Zapadnobački okrug",
    "pokazaniya": [
     "registar: Sombor, Zapadnobački okrug",
-    "vinarijesrbije: Subotički rejon"
+    "vinarijesrbije: Subotički rejon",
+    "vivino-adres: Sombor",
+    "vivino: Central Serbia"
    ]
   },
   "vucji": {
@@ -7595,9 +7583,7 @@
    "raznoglasie": "",
    "gde": "Negotin, Borski okrug",
    "pokazaniya": [
-    "registar: Negotin, Borski okrug",
-    "vivino: Central Serbia",
-    "vivino: Negotinska Krajina"
+    "registar: Negotin, Borski okrug"
    ]
   },
   "винари-а-манастира-студеница": {

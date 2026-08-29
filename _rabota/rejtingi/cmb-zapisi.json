@@ -1,8 +1,26 @@
 {
  "chto_eto": "Сербские вина, отмеченные на Concours Mondial de Bruxelles. Конкурс ставит медали, а не баллы — это награды, не оценки.",
  "istochnik": "results.concoursmondial.com",
- "vsego": 6,
+ "vsego": 8,
  "zapisi": [
+  {
+   "god": 2011,
+   "nomer": "41106",
+   "hozyaistvo": "Podrum Radovanovic Doo",
+   "vino": "Chardonnay Selekcija",
+   "urozhaj": 2009,
+   "medal": "Silver",
+   "stranica": "results.concoursmondial.com/en/results/2011/41106-chardonnay-selekcija-2009"
+  },
+  {
+   "god": 2011,
+   "nomer": "41109",
+   "hozyaistvo": "Podrum Radovanovic Doo",
+   "vino": "Radovanovic Cabernet Sauvignon Reserve",
+   "urozhaj": 2008,
+   "medal": "Silver",
+   "stranica": "results.concoursmondial.com/en/results/2011/41109-radovanovic-cabernet-sauvignon-reserve-2008"
+  },
   {
    "god": 2013,
    "nomer": "62845",

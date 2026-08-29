@@ -19,7 +19,10 @@ put = lambda *ch: os.path.join(ZDES, *ch)
 KESH = put("kesh-cmb")
 SPISOK = ("https://results.concoursmondial.com/en/results/%d"
           "?search%%5Bcountry%%5D=Serbia&page=%d")
-GODY = range(2012, 2027)
+# У конкурса результаты выложены с 2010 года. Сбор начинался с 2012-го,
+# и две сербские медали 2011 года — оба серебра Подрума Радовановић —
+# в него не попадали. За 2010-й сербских вин нет.
+GODY = range(2010, 2027)
 BRAUZER = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 SSYLKA = re.compile(r'href="(?:https://results\.concoursmondial\.com)?'
@@ -82,11 +85,32 @@ def razobrat(stranica, god):
     return zapisi
 
 
+def god_celikom(god):
+    """Все страницы года, а не только первая.
+
+    Адрес принимает номер страницы, и сбор его подставлял — но всегда
+    единицу. Сербских вин у конкурса мало, и до второй страницы дело
+    пока не доходило; но код при этом делал вид, что листает, а год
+    с длинной выдачей обрезался бы молча.
+    """
+    najdeno, vidano = [], set()
+    for nomer in range(1, 21):
+        imya = "cmb-%d%s.html" % (god, "" if nomer == 1 else "-%d" % nomer)
+        stranica = vzjat(SPISOK % (god, nomer), imya)
+        svezhee = [z for z in razobrat(stranica, god)
+                   if z["nomer"] not in vidano]
+        if not svezhee:
+            return najdeno
+        vidano.update(z["nomer"] for z in svezhee)
+        najdeno += svezhee
+    print("  CMB %d: страниц больше двадцати — проверить вручную" % god)
+    return najdeno
+
+
 def main():
     vse = []
     for god in GODY:
-        stranica = vzjat(SPISOK % (god, 1), "cmb-%d.html" % god)
-        najdeno = razobrat(stranica, god)
+        najdeno = god_celikom(god)
         if najdeno:
             print("  CMB %d: %d" % (god, len(najdeno)))
         vse += najdeno

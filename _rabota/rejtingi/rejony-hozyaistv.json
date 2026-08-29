@@ -123,16 +123,17 @@
    ]
   },
   "ae-projekt-centar": {
-   "hozyaistvo": "ae-projekt-centar",
+   "hozyaistvo": "AE projekt centar",
    "region": "Vojvodina",
    "rejon": "Subotički rejon",
    "vinogorje": "Riđičko vinogorje",
-   "gorod": "",
+   "gorod": "Sombor",
    "istochnik": "decanter",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Sombor, Zapadnobački okrug",
    "pokazaniya": [
-    "decanter: Subotica-Horgoš · Riđičko-Vinogorje"
+    "decanter: Subotica-Horgoš · Riđičko-Vinogorje",
+    "registar: Sombor, Zapadnobački okrug"
    ]
   },
   "agatija": {
@@ -149,7 +150,7 @@
    ]
   },
   "aglaja": {
-   "hozyaistvo": "aglaja",
+   "hozyaistvo": "Aglaja",
    "region": "Centralna Srbija",
    "rejon": "Rejon Negotinska Krajina",
    "vinogorje": null,
@@ -268,7 +269,12 @@
    "gde": "Vinča, Topola - Oplenac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
+    "decanter: Nišava-South Morava",
+    "decanter: Oplenac",
+    "decanter: Å Umadijsko-Velikomoravski",
     "decanter: Šumadija-Great Morava · Oplenac",
+    "decanter: Šumadijsko Velikomoravski",
+    "decanter: Šumadijsko-Velikomoravski",
     "falstaff: falstaff/tastings/tasting-serbien",
     "falstaff: Шумадия-Велика Морава",
     "falstaff: поиск по Сербии",
@@ -288,7 +294,7 @@
    "vinogorje": "Vrtogoško vinogorje",
    "gorod": "Vranje",
    "istochnik": "mesto",
-   "raznoglasie": "по месту Vranjski rejon, у источников Vranjski rejon ×41; Niški rejon ×1",
+   "raznoglasie": "по месту Vranjski rejon, у источников Vranjski rejon ×46; Niški rejon ×1",
    "gde": "Vranje, Pčinjski okrug",
    "pokazaniya": [
     "decanter: ",
@@ -742,6 +748,7 @@
    "raznoglasie": "",
    "gde": "Фрушка гора",
    "pokazaniya": [
+    "decanter: Srem",
     "decanter: Srem · Fruška Gora",
     "falstaff: список красных",
     "registar: Sremski Karlovci, Južnobački okrug",
@@ -875,7 +882,7 @@
    ]
   },
   "braca-rajkovic": {
-   "hozyaistvo": "Braća Rajković",
+   "hozyaistvo": "Vinarija Braća Rajković",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Župsko vinogorje",
@@ -884,6 +891,9 @@
    "raznoglasie": "",
    "gde": "Gornje Zleginje, Aleksandrovac, Rasinski okrug",
    "pokazaniya": [
+    "decanter: ",
+    "decanter: Tri Morave",
+    "decanter: West Morava · Kruševac",
     "ivv: Gornje Zleginje, Aleksandrovac, Rasinski okrug",
     "vivino: Central Serbia",
     "vivino: West Morava"
@@ -1618,11 +1628,12 @@
    "vinogorje": "Riđičko vinogorje",
    "gorod": "Riđica",
    "istochnik": "mesto",
-   "raznoglasie": "по месту Subotički rejon, у источников Subotički rejon ×20; Banatski rejon ×7",
+   "raznoglasie": "по месту Subotički rejon, у источников Subotički rejon ×21; Banatski rejon ×7",
    "gde": "Riđica, Zapadno-bački okrug",
    "pokazaniya": [
     "decanter: ",
     "decanter: Banat · North Banat",
+    "decanter: Subotica-Horgoš",
     "decanter: Subotica-Horgoš · Riđičko-Vinogorje",
     "decanter: Vojvodina · Subotica",
     "ivv: Riđica, Zapadno-bački okrug",
@@ -2004,7 +2015,6 @@
     "decanter: Negotinska Krajina",
     "ivv: Negotin, Borski okrug",
     "ivv: Vidrovac, Negotin, Borski okrug",
-    "registar: Karbulovo, Borski okrug",
     "vivino-adres: Serbia",
     "vivino: Central Serbia",
     "vivino: Negotinska Krajina"
@@ -2429,6 +2439,7 @@
    "gde": "Smederevo, Podunavski okrug",
    "pokazaniya": [
     "decanter: Centralna Srbija",
+    "decanter: Šumadija-Great Morava",
     "decanter: Šumadija-Great Morava · Belgrade",
     "ivv: Smederevo, Podunavski okrug",
     "registar: Smederevo, Podunavski okrug",
@@ -2508,7 +2519,7 @@
    ]
   },
   "jeremic": {
-   "hozyaistvo": "Vinarija Jeremic",
+   "hozyaistvo": "Vinarija Jeremić",
    "region": "Centralna Srbija",
    "rejon": "Beogradski rejon",
    "vinogorje": "Smederevsko vinogorje",
@@ -2841,7 +2852,6 @@
     "decanter: Vojvodina",
     "falstaff: falstaff.com/en/wines/vinarija-kovacevic-2019-kovacevic-aurelius-edicija-s",
     "ivv: Irig, Sremski okrug",
-    "registar: Irig, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Fruška Gora",
     "vivino-adres: 22406 Irig, Srbija",
     "vivino: Central Serbia",
@@ -2849,7 +2859,7 @@
    ]
   },
   "kovacevic-d-o-o": {
-   "hozyaistvo": "kovacevic-d-o-o",
+   "hozyaistvo": "Vinarija Kovačević D,O,O,",
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
@@ -2930,7 +2940,7 @@
    ]
   },
   "kuca-jokic": {
-   "hozyaistvo": "kuca-jokic",
+   "hozyaistvo": "Kuća Vina Jokić",
    "region": null,
    "rejon": null,
    "vinogorje": null,
@@ -3364,6 +3374,7 @@
     "decanter: ",
     "decanter: Centralna Srbija",
     "decanter: Negotinska Krajina",
+    "decanter: Timok · Krajina",
     "falstaff: поиск по Сербии",
     "falstaff: список красных",
     "ivv: Negotinska Krajina, Borski okrug",
@@ -3439,19 +3450,31 @@
     "registar: Subotica, Severnobački okrug"
    ]
   },
+  "mcc": {
+   "hozyaistvo": "McC",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "",
+   "istochnik": "decanter",
+   "raznoglasie": "",
+   "gde": "",
+   "pokazaniya": [
+    "decanter: Srem"
+   ]
+  },
   "mcculloch": {
    "hozyaistvo": "Mcculloch Wines",
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "gorod": "Novi Sad",
-   "istochnik": "mesto",
+   "gorod": "",
+   "istochnik": "decanter+vivino",
    "raznoglasie": "",
-   "gde": "Novi Sad, Južnobački okrug",
+   "gde": "",
    "pokazaniya": [
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
-    "registar: Novi Sad, Južnobački okrug",
     "vivino: Srem",
     "vivino: Vojvodina"
    ]
@@ -3620,6 +3643,7 @@
    "raznoglasie": "",
    "gde": "Valjevo, Južno-bački okrug",
    "pokazaniya": [
+    "decanter: Šumadijsko Velikomoravski",
     "ivv: Valjevo, Južno-bački okrug",
     "vinarijesrbije: Pocersko-Valjevski rejon, Valjevo",
     "vivino-adres: Valjevo",
@@ -4668,12 +4692,23 @@
    "raznoglasie": "",
    "gde": "Veliki Radinci, Sremski okrug",
    "pokazaniya": [
-    "decanter: Srem",
     "decanter: Srem · Fruška Gora",
     "ivv: Veliki Radinci, Sremski okrug",
-    "registar: Veliki Radinci, Sremski okrug",
     "vivino-adres: Srbija",
     "vivino: Central Serbia"
+   ]
+  },
+  "probus-cclxxx": {
+   "hozyaistvo": "Probus Vineyards CCLXXX",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "",
+   "istochnik": "decanter",
+   "raznoglasie": "",
+   "gde": "",
+   "pokazaniya": [
+    "decanter: Srem"
    ]
   },
   "prokupac": {
@@ -4850,7 +4885,10 @@
    "raznoglasie": "",
    "gde": "Krnjevo, Podunavski okrug",
    "pokazaniya": [
+    "decanter: Sumadijsko Velikomoravski",
+    "decanter: Šumadija-Great Morava",
     "decanter: Šumadija-Great Morava · Oplenac",
+    "decanter: Šumadijsko-Velikomoravski",
     "falstaff: поиск по Сербии",
     "ivv: Krnjevo, Podunavski okrug",
     "vinarijesrbije: Rejon Šumadija, Krnjevo",
@@ -5920,16 +5958,17 @@
    ]
   },
   "tody": {
-   "hozyaistvo": "tody",
+   "hozyaistvo": "Tody",
    "region": "Centralna Srbija",
    "rejon": "Toplički rejon",
    "vinogorje": null,
    "gorod": "",
-   "istochnik": "decanter",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Donja Jošanica, Toplički okrug",
    "pokazaniya": [
-    "decanter: Nišava-South Morava · Toplica"
+    "decanter: Nišava-South Morava · Toplica",
+    "registar: Donja Jošanica, Toplički okrug"
    ]
   },
   "tomic-rosci": {
@@ -6651,7 +6690,7 @@
    ]
   },
   "vinis": {
-   "hozyaistvo": "Vinarija Vinis",
+   "hozyaistvo": "Vinis",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Paraćinsko vinogorje",
@@ -7133,6 +7172,22 @@
    "pokazaniya": [
     "vivino: Central Serbia",
     "vivino: Wine of Serbia"
+   ]
+  },
+  "wow": {
+   "hozyaistvo": "WOW Winery",
+   "region": "Vojvodina",
+   "rejon": "Subotički rejon",
+   "vinogorje": null,
+   "gorod": "",
+   "istochnik": "decanter",
+   "raznoglasie": "",
+   "gde": "",
+   "pokazaniya": [
+    "decanter: ",
+    "decanter: Subotica-HorgoÅ¡",
+    "decanter: Subotica-Horgoš",
+    "decanter: Timok"
    ]
   },
   "yotta": {

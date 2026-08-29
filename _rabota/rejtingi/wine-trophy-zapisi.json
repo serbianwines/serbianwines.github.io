@@ -1,0 +1,239 @@
+{
+ "chto_eto": "Сербские вина Berliner, Asia и Portugal Wine Trophy. Конкурсы ставят медали, балла не публикуют.",
+ "istochnik": "https://results.wine-trophy.com/en?sf=cultivation_country:Serbia",
+ "obeshchano": 21,
+ "vsego": 21,
+ "zapisi": [
+  {
+   "god": 2026,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Vinarija Todorovic",
+   "vino": "Todorovic Chardonnay",
+   "urozhaj": 2025,
+   "sorta": "Chardonnay",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-26/todorovic_chardonnay_2025"
+  },
+  {
+   "god": 2026,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Vinarija Todorovic",
+   "vino": "Todorovic Shiraz",
+   "urozhaj": 2022,
+   "sorta": "Shiraz",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-w-26/todorovic_shiraz_2022"
+  },
+  {
+   "god": 2026,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "silver",
+   "hozyaistvo": "Vinarija Todorovic",
+   "vino": "Todorovic Opus",
+   "urozhaj": 2021,
+   "sorta": "Vranac",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-w-26/todorovic_opus_2021"
+  },
+  {
+   "god": 2026,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Vinarija Todorovic",
+   "vino": "Tod Grasac",
+   "urozhaj": null,
+   "sorta": "Graševina",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-26/tod_grasac_2025_1"
+  },
+  {
+   "god": 2025,
+   "konkurs": "Asia Wine Trophy",
+   "medal": "gold",
+   "hozyaistvo": "VINARIJA TODOROVIC",
+   "vino": "CHARDONNAY ORGANIK 2024",
+   "urozhaj": 2024,
+   "sorta": "Chardonnay",
+   "mesto": "Timok, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/awt-25/chardonnay_organik_2024_2024"
+  },
+  {
+   "god": 2025,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "VINARIJA TODOROVIC",
+   "vino": "ROSE 2024",
+   "urozhaj": 2024,
+   "sorta": "Pinot Noir",
+   "mesto": "Timok, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-w-25/rose_2024_2024"
+  },
+  {
+   "god": 2025,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "VINARIJA TODOROVIC",
+   "vino": "SHIRAZ 2022",
+   "urozhaj": 2022,
+   "sorta": "Shiraz",
+   "mesto": "Timok, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-w-25/shiraz_2022_2022"
+  },
+  {
+   "god": 2025,
+   "konkurs": "Asia Wine Trophy",
+   "medal": "gold",
+   "hozyaistvo": "VINARIJA TODOROVIC",
+   "vino": "MERLOT 2021",
+   "urozhaj": 2021,
+   "sorta": "Merlot",
+   "mesto": "Timok, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/awt-25/merlot_2021_2021"
+  },
+  {
+   "god": 2025,
+   "konkurs": "Asia Wine Trophy",
+   "medal": "silver",
+   "hozyaistvo": "VINARIJA TODOROVIC",
+   "vino": "OPUS 2021",
+   "urozhaj": 2021,
+   "sorta": "Vranac, Cabernet Sauvignon",
+   "mesto": "Timok, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/awt-25/opus_2021_2021"
+  },
+  {
+   "god": 2024,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Maison Alexandre & Solene",
+   "vino": "OPUS 2020",
+   "urozhaj": 2020,
+   "sorta": "Vranac, Cabernet Sauvignon",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-24/opus_2020_2020"
+  },
+  {
+   "god": 2024,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Maison Alexandre & Solene",
+   "vino": "CABERNET SAUVIGNON 2020",
+   "urozhaj": 2020,
+   "sorta": "Cabernet Sauvignon",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-24/cabernet_sauvignon_2020_2020"
+  },
+  {
+   "god": 2024,
+   "konkurs": "Asia Wine Trophy",
+   "medal": "silver",
+   "hozyaistvo": "Maison Alexandre & Solene",
+   "vino": "MERLOT 2020",
+   "urozhaj": 2020,
+   "sorta": "Merlot",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/awt-24/merlot_2020_2020"
+  },
+  {
+   "god": 2024,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Plavinci",
+   "vino": "Ćilibar",
+   "urozhaj": 2021,
+   "sorta": "Pannonia",
+   "mesto": "Belgrade Viticultural Region, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-w-24/cilibar_2021"
+  },
+  {
+   "god": 2024,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Plavinci",
+   "vino": "Selena",
+   "urozhaj": 2022,
+   "sorta": "Tamyanka",
+   "mesto": "Belgrade Viticultural Region, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-w-24/selena_2022"
+  },
+  {
+   "god": 2023,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Eko Mineral Doo P.J. Vinarija Jeremic",
+   "vino": "Merlot Terroire",
+   "urozhaj": 2021,
+   "sorta": "Merlot",
+   "mesto": "Sumdijsko-Velikomoravski Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-w-23/merlot_terroire_2021"
+  },
+  {
+   "god": 2023,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Vinarija Todorovic",
+   "vino": "Todorovic Cabernet Sauivgnon",
+   "urozhaj": 2019,
+   "sorta": "Cabernet Sauvignon",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-23/todorovic_cabernet_sauivgnon_2019"
+  },
+  {
+   "god": 2023,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Vinarija Todorovic",
+   "vino": "Todorovic Merlot",
+   "urozhaj": 2019,
+   "sorta": "Merlot",
+   "mesto": "Timocki Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-23/todorovic_merlot_2019"
+  },
+  {
+   "god": 2022,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Podrum Stari hrast",
+   "vino": "Sauvignon blanc",
+   "urozhaj": null,
+   "sorta": "Sauvignon Blanc",
+   "mesto": "Sumdijsko-Velikomoravski Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-22/sauvignon_blanc_2021_1"
+  },
+  {
+   "god": 2020,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Eko Mineral Doo P.J. Vinarija Jeremic",
+   "vino": "Merlot Terroire",
+   "urozhaj": 2017,
+   "sorta": "Merlot",
+   "mesto": "Sumdijsko-Velikomoravski Rajon, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-f-20/merlot_terroire_2017"
+  },
+  {
+   "god": 2019,
+   "konkurs": "Asia Wine Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Carski Vinograd- M.A. Probus d.o.o",
+   "vino": "Magis",
+   "urozhaj": 2017,
+   "sorta": "Merlot, Cabernet Sauvignon",
+   "mesto": "Fruška gora, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/awt-19/magis_2017"
+  },
+  {
+   "god": 2019,
+   "konkurs": "Berliner Wein Trophy",
+   "medal": "gold",
+   "hozyaistvo": "Carski Vinograd- M.A. Probus d.o.o",
+   "vino": "Traminac",
+   "urozhaj": null,
+   "sorta": "Gewürztraminer",
+   "mesto": "Fruška gora, Serbia",
+   "stranica": "results.wine-trophy.com/en/wine/bwt-s-19/traminac_2018_1"
+  }
+ ]
+}

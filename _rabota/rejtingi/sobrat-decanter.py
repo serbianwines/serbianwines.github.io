@@ -56,6 +56,10 @@ MEDALI = {
     5: ("zlato", "золото"),
     6: ("srebro", "серебро"),
     7: ("bronza", "бронза"),
+    # Восьмая ступень — «Commended», балл 83–85. Она была у DWWA
+    # с 2008 по 2020 год, потом её отменили. В таблице её не было,
+    # и 178 сербских записей выбрасывались молча.
+    8: ("commended", "отмечено"),
 }
 
 
@@ -101,7 +105,9 @@ def main():
     razbor = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     razbor.add_argument("--gody", type=int, nargs="+",
-                        default=list(range(2015, 2027)))
+                        default=list(range(2008, 2027)))
+    # Сербия у DWWA есть с 2008 года: до него конкурс её вин
+    # не судил вовсе — API за 2004–2007 отдаёт пустой список.
     dovody = razbor.parse_args()
 
     nagrady, ocenki, po_godam = [], [], {}

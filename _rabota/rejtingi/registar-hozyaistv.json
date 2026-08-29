@@ -16,6 +16,19 @@
    "mesto": "Sremski Karlovci, Južnobački okrug",
    "zamechanie": ""
   },
+  "ae-projekt-centar": {
+   "hozyaistvo": "AE projekt centar",
+   "sovpalo": [
+    {
+     "reg_nomer": "49",
+     "nazvanie": "„AE PROJEKT CENTARˮ DOO Sombor",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "mesto": "Sombor, Zapadnobački okrug",
+   "zamechanie": ""
+  },
   "adora": {
    "hozyaistvo": "Adora",
    "sovpalo": [
@@ -28,6 +41,19 @@
    ],
    "mesto": "Dobra Voda, Pomoravski okrug",
    "zamechanie": ""
+  },
+  "aglaja": {
+   "hozyaistvo": "Aglaja",
+   "sovpalo": [
+    {
+     "reg_nomer": "84",
+     "nazvanie": "VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO",
+     "naselje": "Karbulovo",
+     "okrug": "Borski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "на запись регистра № 84 притязают несколько хозяйств: Aglaja, Vinarija Frunza Aglaja"
   },
   "agrina": {
    "hozyaistvo": "Agrina",
@@ -823,8 +849,8 @@
      "okrug": "Sremski"
     }
    ],
-   "mesto": "Irig, Sremski okrug",
-   "zamechanie": ""
+   "mesto": "",
+   "zamechanie": "на запись регистра № 1089 притязают несколько хозяйств: Kovačević, Vinarija Kovačević D,O,O,"
   },
   "krstasica": {
    "hozyaistvo": "Krstašica Doo",
@@ -838,6 +864,25 @@
    ],
    "mesto": "Irig, Sremski okrug",
    "zamechanie": ""
+  },
+  "kuca-jokic": {
+   "hozyaistvo": "Kuća Vina Jokić",
+   "sovpalo": [
+    {
+     "reg_nomer": "4233",
+     "nazvanie": "RADOSLAV JOKIĆ PR PROIZVODNJA VINA PODRUM VINA JOKIĆ VINČA",
+     "naselje": "Vinča",
+     "okrug": "Šumadijski"
+    },
+    {
+     "reg_nomer": "5535",
+     "nazvanie": "Sonja Jokić PR, proizvodnja vina od grožđa \"KUĆA VINA JOKIĆ\", Sombor",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "записей регистра несколько, и места разные"
   },
   "kuca-popovic": {
    "hozyaistvo": "Kuća Vina Popović",
@@ -1024,6 +1069,19 @@
    "mesto": "Subotica, Severnobački okrug",
    "zamechanie": ""
   },
+  "mcc": {
+   "hozyaistvo": "McC",
+   "sovpalo": [
+    {
+     "reg_nomer": "4206",
+     "nazvanie": "Mcc McCulloch wines DOO NOVI SAD",
+     "naselje": "Novi Sad",
+     "okrug": "Južnobački"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "на запись регистра № 4206 притязают несколько хозяйств: McC, Mcculloch Wines"
+  },
   "mcculloch": {
    "hozyaistvo": "Mcculloch Wines",
    "sovpalo": [
@@ -1034,8 +1092,8 @@
      "okrug": "Južnobački"
     }
    ],
-   "mesto": "Novi Sad, Južnobački okrug",
-   "zamechanie": ""
+   "mesto": "",
+   "zamechanie": "на запись регистра № 4206 притязают несколько хозяйств: McC, Mcculloch Wines"
   },
   "mikic": {
    "hozyaistvo": "Mikić",
@@ -1648,8 +1706,21 @@
      "okrug": "Sremski"
     }
    ],
-   "mesto": "Veliki Radinci, Sremski okrug",
-   "zamechanie": ""
+   "mesto": "",
+   "zamechanie": "на запись регистра № 4211 притязают несколько хозяйств: Probus Vineyards, Probus Vineyards CCLXXX"
+  },
+  "probus-cclxxx": {
+   "hozyaistvo": "Probus Vineyards CCLXXX",
+   "sovpalo": [
+    {
+     "reg_nomer": "4211",
+     "nazvanie": "PROBUS VINEYARDS CCLXXX DOO VELIKI RADNICI",
+     "naselje": "Veliki Radinci",
+     "okrug": "Sremski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "на запись регистра № 4211 притязают несколько хозяйств: Probus Vineyards, Probus Vineyards CCLXXX"
   },
   "prokupac": {
    "hozyaistvo": "Prokupac",
@@ -1986,6 +2057,19 @@
     }
    ],
    "mesto": "Mala Remeta, Sremski okrug",
+   "zamechanie": ""
+  },
+  "tody": {
+   "hozyaistvo": "Tody",
+   "sovpalo": [
+    {
+     "reg_nomer": "382",
+     "nazvanie": "„TODYˮ DOO Blace",
+     "naselje": "Donja Jošanica",
+     "okrug": "Toplički"
+    }
+   ],
+   "mesto": "Donja Jošanica, Toplički okrug",
    "zamechanie": ""
   },
   "trasko": {
@@ -2618,8 +2702,8 @@
      "okrug": "Borski"
     }
    ],
-   "mesto": "Karbulovo, Borski okrug",
-   "zamechanie": ""
+   "mesto": "",
+   "zamechanie": "на запись регистра № 84 притязают несколько хозяйств: Aglaja, Vinarija Frunza Aglaja"
   },
   "gnezdo": {
    "hozyaistvo": "Vinarija Gnezdo",
@@ -2680,7 +2764,7 @@
    "zamechanie": ""
   },
   "jeremic": {
-   "hozyaistvo": "Vinarija Jeremic",
+   "hozyaistvo": "Vinarija Jeremić",
    "sovpalo": [
     {
      "reg_nomer": "148",
@@ -2717,6 +2801,19 @@
    ],
    "mesto": "Inđija, Sremski okrug",
    "zamechanie": ""
+  },
+  "kovacevic-d-o-o": {
+   "hozyaistvo": "Vinarija Kovačević D,O,O,",
+   "sovpalo": [
+    {
+     "reg_nomer": "1089",
+     "nazvanie": "Vinarija Kovačević DOO Irig",
+     "naselje": "Irig",
+     "okrug": "Sremski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "на запись регистра № 1089 притязают несколько хозяйств: Kovačević, Vinarija Kovačević D,O,O,"
   },
   "kurjak": {
    "hozyaistvo": "Vinarija Kurjak",
@@ -3309,19 +3406,6 @@
    "mesto": "",
    "zamechanie": "отклонено руками: То же: «AGROZEBEC DOO Venčac» — это Агрозебец из жупског Венчца. Decanter относит вина Vinarija Venčac к Шумадији, а Венчац — ещё и гора под Аранђеловцем."
   },
-  "vinis": {
-   "hozyaistvo": "Vinarija Vinis",
-   "sovpalo": [
-    {
-     "reg_nomer": "3745",
-     "nazvanie": "Podrum Vinarija Vinis DOO Dobra Voda - Jagodina",
-     "naselje": "Dobra Voda",
-     "okrug": "Pomoravski"
-    }
-   ],
-   "mesto": "Dobra Voda, Pomoravski okrug",
-   "zamechanie": ""
-  },
   "vinoilic": {
    "hozyaistvo": "Vinarija VinoIlić",
    "sovpalo": [
@@ -3607,6 +3691,19 @@
     }
    ],
    "mesto": "Vršac, Južnobanatski okrug",
+   "zamechanie": ""
+  },
+  "vinis": {
+   "hozyaistvo": "Vinis",
+   "sovpalo": [
+    {
+     "reg_nomer": "3745",
+     "nazvanie": "Podrum Vinarija Vinis DOO Dobra Voda - Jagodina",
+     "naselje": "Dobra Voda",
+     "okrug": "Pomoravski"
+    }
+   ],
+   "mesto": "Dobra Voda, Pomoravski okrug",
    "zamechanie": ""
   },
   "vinograd-hopovo": {

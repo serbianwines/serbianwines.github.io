@@ -36,6 +36,7 @@ SHKALY = {
     "decanter": (100, 50, 100),
     "gilbert-gaillard": (100, 50, 100),
     "biwc": (100, 50, 100),
+    "awc-vienna": (100, 50, 100),
 }
 
 

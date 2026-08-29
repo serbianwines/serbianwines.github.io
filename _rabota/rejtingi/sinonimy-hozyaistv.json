@@ -81,6 +81,12 @@
    "dokazatelstvo": "«Molowinery» — то же имя с английским окончанием. В DWWA 2015–2018 под ним поданы вина линейки Inat, а вся линейка Inat — Molovin.",
    "ogovorka": "В DWWA 2019 под тем же именем поданы два вина Vista Hill — «Vista Hill Selection» и «Vista Hill Red Reserve». Vista Hill с 2020 года подаётся отдельно; похоже, это вторая марка того же предприятия. Две награды 2019 года из-за этого стоят за Molovin."
   },
+  "Plavinac": {
+   "varianty": [
+    "Winery Plavinac, part of Spare Parts International DOO"
+   ],
+   "dokazatelstvo": "AWC Vienna пишет полное юридическое имя: «Winery Plavinac, part of Spare Parts International DOO». В регистре это «Spare parts international DOO Beograd — ogranak Vinarija Plavinac», Смедерево; по нему хозяйству и поставлен Београдски рејон."
+  },
   "Plavinci": {
    "varianty": [
     "Organska Vinarija Plavinci"
@@ -97,9 +103,9 @@
   },
   "Probus Vineyards": {
    "varianty": [
-    "Probus Vineyards CCLXXX"
+    "Carski Vinograd- M.A. Probus d.o.o"
    ],
-   "dokazatelstvo": "CCLXXX — римское 280, часть названия серии, а не отдельное хозяйство."
+   "dokazatelstvo": "Berliner и Asia Wine Trophy награждают за «Carski Vinograd — M.A. Probus d.o.o» вина «Magis» и «Traminac»; «Magis» стоит в линейке Probus Vineyards. В регистре это «PROBUS VINEYARDS CCLXXX DOO VELIKI RADNICI»."
   },
   "Radovan": {
    "varianty": [
@@ -158,11 +164,23 @@
    ],
    "dokazatelstvo": "Регистр: «Vinarija Grumen DOO Novi Sad»."
   },
+  "Vinarija Jeremić": {
+   "varianty": [
+    "Eko Mineral Doo P.J. Vinarija Jeremic"
+   ],
+   "dokazatelstvo": "Полное юридическое имя из регистра: «EKO MINERAL DOO Smederevo — ogranak Vinarija Jeremić Smederevo». Berliner Wine Trophy пишет его целиком."
+  },
   "Vinarija Radoslav Tripković": {
    "varianty": [
     "Vinarija Radoslav Tripcovic"
    ],
    "dokazatelstvo": "То же имя без диакритики."
+  },
+  "Vinarija Todorović": {
+   "varianty": [
+    "Maison Alexandre & Solene"
+   ],
+   "dokazatelstvo": "Вывозная марка того же дома. Wine Trophy 2024 награждает за «Maison Alexandre & Solene» вина OPUS, CABERNET SAUVIGNON и MERLOT урожая 2020 с происхождением «Timocki Rajon», а годом позже — те же Opus, Cabernet Sauvignon и Merlot за «Vinarija Todorovic» оттуда же. Производителя с таким именем нет ни в Винарском регистру, ни у Vivino."
   },
   "Vinarija VRT": {
    "varianty": [

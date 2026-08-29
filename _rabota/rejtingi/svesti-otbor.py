@@ -202,9 +202,20 @@ def pokazat(d):
     print("\n## Отсеяно вопреки медали\n")
     s_medalyu = [z for z in vina if z["klyuch"] not in proshli
                  and d["nagrady_vina"][z["klyuch"]]]
-    print("Вин с медалью, которые правило не пропускает, — %d. Это медали "
-          "ниже золота либо золото щедрых конкурсов, и покупатели их не "
-          "поддержали.\n" % len(s_medalyu))
+    zolotye = [z for z in s_medalyu
+               if any(x["mesto"] == "zlato" for x in d["nagrady_vina"][z["klyuch"]])]
+    po_ist = collections.Counter(
+        x["istochnik"] for z in zolotye for x in d["nagrady_vina"][z["klyuch"]]
+        if x["mesto"] == "zlato")
+    print("Вин с медалью, которые правило не пропускает, — %d из %d. Это "
+          "медали ниже золота либо золото щедрых конкурсов, и оценка Vivino "
+          "у них не дотянула до %.1f. Золото среди отсеянных есть — у %d вин, "
+          "и оно вот чьё: %s. Золота Decanter среди них нет: оно открывает "
+          "дверь само.\n"
+          % (len(s_medalyu), len(s_medalyu) + sum(1 for z in vina
+             if z["klyuch"] in proshli and d["nagrady_vina"][z["klyuch"]]),
+             POROG_VIVINO, len(zolotye),
+             ", ".join("%s — %d" % (k, v) for k, v in po_ist.most_common())))
     print("| Хозяйство | Вино | Vivino | Награды |")
     print("|---|---|---|---|")
     for z in sorted(s_medalyu, key=lambda z: -(vivino.get(z["klyuch"]) or 0))[:40]:
@@ -215,6 +226,45 @@ def pokazat(d):
                            for k, v in med.most_common()[:3])))
     if len(s_medalyu) > 40:
         print("\nПоказаны сорок из %d — остальные так же." % len(s_medalyu))
+
+    print("\n## Что меняет порог: 4,0 против 4,1\n")
+    # Три верхние двери от порога не зависят: их считаем один раз.
+    verhnie = {k for k, p in proshli.items() if p != "Vivino 4,0+"}
+    # Вина «громких немых» сюда не входят: они не проходят ни при 4,0,
+    # ни при 4,1, и от выбора порога их судьба не зависит.
+    pogranichnye = [z for z in vina if z["klyuch"] not in verhnie
+                    and 4.0 <= vivino.get(z["klyuch"], 0) < 4.1
+                    and z["hozyaistvo"] not in d["nemye"]]
+    print("Три верхние двери — три источника, балл критика, строгая награда — "
+          "от порога не зависят вовсе: по ним проходит %d вин, и они остаются "
+          "при любом решении. Спор идёт только о четвёртой двери.\n"
+          % len(verhnie))
+    print("| Порог | Всего проходит | Хозяйств |")
+    print("|---|---|---|")
+    for porog in (4.0, 4.1):
+        g = verhnie | {z["klyuch"] for z in vina
+                       if vivino.get(z["klyuch"], 0) >= porog
+                       and z["hozyaistvo"] not in d["nemye"]}
+        print("| %.1f | %d | %d |" % (porog, len(g),
+              len({z["hozyaistvo"] for z in vina if z["klyuch"] in g})))
+    print("\nМежду ними стоят %d вин с оценкой ровно 4,0 — их и решает выбор. "
+          "Ни у одного из них нет ни балла критика от 90, ни строгой награды, "
+          "ни трёх источников: за них говорят только покупатели.\n"
+          % len(pogranichnye))
+    hoz_pogr = collections.Counter(z["hozyaistvo"] for z in pogranichnye)
+    poteryayut = [h for h, _ in hoz_pogr.items()
+                  if not any(z["hozyaistvo"] == h and z["klyuch"] in verhnie
+                             for z in vina)
+                  and not any(z["hozyaistvo"] == h and z["klyuch"] not in verhnie
+                              and vivino.get(z["klyuch"], 0) >= 4.1 for z in vina)]
+    print("Хозяйств, которые при пороге 4,1 выпадают из книги целиком, — %d.\n"
+          % len(poteryayut))
+    if poteryayut:
+        print("| Хозяйство | Рејон | Вин на 4,0 |")
+        print("|---|---|---|")
+        for h in sorted(poteryayut):
+            print("| %s | %s | %d |" % (h, (hozyaistva.get(h) or {}).get("rejon") or "—",
+                                        hoz_pogr[h]))
 
     print("\n## Хозяйства, которые правило вычёркивает целиком\n")
     est_chto_skazat = {z["hozyaistvo"] for z in vina

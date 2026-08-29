@@ -44,14 +44,25 @@ def otkryt_vhod():
     return sys.stdin
 
 
+def klyuch(z):
+    """Чем одна оценка отличается от другой.
+
+    Цвет в ключе не для красоты: одно и то же имя вина у хозяйства
+    бывает и красным, и розовым, и белым игристым, и на одном конкурсе
+    все три получают разный балл. Без цвета из трёх оценок оставалась
+    одна — у DWWA так пропадало девять баллов.
+    """
+    return (z["istochnik"], z["hozyaistvo"], z["vino"], z["god"],
+            z.get("konkurs_god"), z.get("cvet") or "")
+
+
 def main():
     bylo = {}
     if os.path.exists(FAJL):
         for stroka in open(FAJL, encoding="utf-8"):
             if stroka.strip():
                 z = json.loads(stroka)
-                bylo[(z["istochnik"], z["hozyaistvo"], z["vino"], z["god"],
-                      z.get("konkurs_god"))] = z
+                bylo[klyuch(z)] = z
 
     for stroka in otkryt_vhod():
         stroka = stroka.strip()
@@ -68,9 +79,9 @@ def main():
             "konkurs_god": None,
             "ball": int(ch[4]) if ch[4] and ch[4] != "-" else None,
             "stranica": ch[5] if len(ch) > 5 else "",
+            "cvet": ch[6] if len(ch) > 6 else "",
         }
-        bylo[(z["istochnik"], z["hozyaistvo"], z["vino"], z["god"],
-              z.get("konkurs_god"))] = z
+        bylo[klyuch(z)] = z
 
     with open(FAJL, "w", encoding="utf-8") as f:
         for z in bylo.values():

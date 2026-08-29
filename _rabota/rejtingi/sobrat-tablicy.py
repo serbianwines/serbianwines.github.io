@@ -524,6 +524,7 @@ def main():
             "vyborka_nizhnyaya_granica": nizhnyaya_granica(ogovorka),
             "god": None,
             "konkurs_god": None,
+            "cvet": "",
             "ogovorka": ogovorka,
             "stranica": adres,
             "sobrano": SOBRANO,
@@ -542,6 +543,11 @@ def main():
             "vyborka_nizhnyaya_granica": False,
             "god": int(z["god"]) if z.get("god") else None,
             "konkurs_god": z.get("konkurs_god"),
+            # Цвет отличает одно измерение от другого: «Tri Morave»
+            # у Темета — и красное, и розовое, и белое игристое, и на
+            # одном конкурсе они получают разные баллы. Имя вина у них
+            # общее, поэтому без цвета это выглядит повтором.
+            "cvet": z.get("cvet") or "",
             "ogovorka": "",
             "stranica": z.get("stranica", ""),
             "sobrano": SOBRANO,
@@ -558,6 +564,7 @@ def main():
         "kategoriya": z["kategoriya"],
         "mesto": z["mesto"],
         "urozhaj": z["urozhaj"],
+        "cvet": z.get("cvet") or "",
         "stranica": z["stranica"],
         "sobrano": SOBRANO,
     } for z in nagrady_syrye]

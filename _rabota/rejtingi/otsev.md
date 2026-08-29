@@ -101,8 +101,8 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 | Josic Winery | 92 | — | — | — | 0 | 2020 |
 | Vinarija Stanković | 91 | 6 | — | — | 0 | 2026 |
 | Vinarija Tri Tachke | 91 | 2 | — | — | 0 | 2025 |
-| Vinarija Ilić-Nijemčević | 90 | 17 | 3.7 | 4 | 180 | 2026 |
-| MV Vinarija | 90 | 4 | 4.2 | 2 | 103 | 2025 |
+| Vinarija Ilić-Nijemčević | 90 | 18 | 3.7 | 4 | 180 | 2026 |
+| MV Vinarija | 90 | 5 | 4.2 | 2 | 103 | 2025 |
 | Podrum Petrović | 90 | 4 | 3.7 | 1 | 63 | 2023 |
 | AURUS Winery & Distillery | 90 | 3 | — | — | 0 | 2026 |
 | Николић Неyзински (Nikolićh Neuzinsky) | 90 | 3 | — | — | 0 | 2025 |

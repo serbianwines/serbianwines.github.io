@@ -55,12 +55,14 @@
 |---|---|
 | `klyuch_vina` | ссылка на `vina.klyuch` |
 | `hozyaistvo`, `vino` | повторены здесь же, чтобы таблицу можно было читать без соединения |
-| `istochnik` | `vivino`, `falstaff`, `wine-searcher`, `vino.rs`, `tastings` |
+| `istochnik` | `vivino`, `falstaff`, `wine-searcher`, `vino.rs`, `tastings`, `decanter`, `biwc`, `awc-vienna`, `gilbert-gaillard` |
 | `shkala` | `5` у Vivino, `100` у критиков |
 | `ball` | сама оценка |
 | `vyborka` | число отзывов. Только у Vivino; у критиков всегда `null` |
 | `vyborka_nizhnyaya_granica` | `true`, если число взято из профиля вкуса или из отдельного урожая: настоящее не меньше указанного |
 | `god` | урожай. `null` у Vivino — там оценка по всем урожаям сразу |
+| `konkurs_god` | год конкурса, если балл поставлен на конкурсе. Одно вино судят и в 2022-м, и в 2025-м — это разные измерения |
+| `cvet` | цвет вина, как назвал его источник. Не украшение: под одним именем у хозяйства выходит и красное, и розовое, и белое игристое, и балл у них разный |
 | `ogovorka` | примечание, если при сборе была оговорка |
 | `stranica` | откуда взято |
 | `sobrano` | дата съёма. Оценки Vivino живые и меняются; без даты через год числа будут врать |
@@ -76,11 +78,12 @@
 |---|---|
 | `klyuch_vina` | ссылка на `vina.klyuch`. Пусто, если награда досталась хозяйству целиком, а не вину |
 | `hozyaistvo`, `vino` | кому досталось. `vino` пусто у наград хозяйству |
-| `istochnik` | `vino.rs`, `decanter`, `awc-vienna` |
+| `istochnik` | `vino.rs`, `decanter`, `biwc`, `iwc`, `cmb`, `awc-vienna`, `wine-trophy` |
 | `god` | год присуждения — не урожай |
-| `kategoriya` | в какой категории. У vino.rs их 31–33, у Decanter это разряд медали |
-| `mesto` | `1`…`5` — место в категории; `platina`, `zlato`, `srebro`, `bronza`, `best-in-show` — конкурсная медаль |
+| `kategoriya` | в какой категории. У vino.rs их 31–33, у Decanter это разряд медали, у трофеев — имя трофея: «Grand Trophy», «Best of Show Serbia» |
+| `mesto` | `1`…`5` — место в категории; `platina`, `dvojno-zlato`, `zlato`, `srebro`, `bronza`, `commended`, `approval`, `best-in-show` — конкурсная медаль; `trofej` — трофей, он стоит выше медали и берётся вместе с ней |
 | `urozhaj` | год урожая вина |
+| `cvet` | цвет вина, как назвал его источник. Одно имя вина у хозяйства бывает трёх цветов, и медаль у каждого своя |
 | `stranica` | откуда взято |
 | `sobrano` | дата съёма |
 

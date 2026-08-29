@@ -328,27 +328,27 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 
 | Регион | Рејон | Хозяйств | Оценок Vivino | Оценок критиков | Наград |
 |---|---|---|---|---|---|
-| Vojvodina | Rejon Bačka | 6 | 0 | 5 | 7 |
+| Vojvodina | Rejon Bačka | 6 | 0 | 5 | 9 |
 | Vojvodina | Banatski rejon | 1 | 0 | 0 | 0 |
-| Centralna Srbija | Beogradski rejon | 15 | 35 | 47 | 78 |
+| Centralna Srbija | Beogradski rejon | 15 | 35 | 47 | 83 |
 | Centralna Srbija | Čačansko–kraljevački rejon | 3 | 1 | 3 | 3 |
-| Vojvodina | Južnobanatski rejon | 14 | 23 | 26 | 49 |
+| Vojvodina | Južnobanatski rejon | 14 | 23 | 26 | 50 |
 | Centralna Srbija | Knjaževački rejon | 4 | 22 | 26 | 56 |
 | Centralna Srbija | Leskovački rejon | 4 | 3 | 0 | 0 |
-| Centralna Srbija | Mlavski rejon | 4 | 14 | 60 | 60 |
+| Centralna Srbija | Mlavski rejon | 4 | 14 | 60 | 65 |
 | Centralna Srbija | Nišavski rejon | 1 | 2 | 3 | 3 |
 | Centralna Srbija | Niški rejon | 6 | 14 | 9 | 13 |
-| Centralna Srbija | Pocersko Valjevski Rejon | 7 | 24 | 9 | 18 |
-| Vojvodina | Potiski rejon | 3 | 19 | 24 | 30 |
-| Centralna Srbija | Rejon Negotinska Krajina | 23 | 56 | 102 | 126 |
+| Centralna Srbija | Pocersko Valjevski Rejon | 7 | 24 | 9 | 20 |
+| Vojvodina | Potiski rejon | 3 | 19 | 24 | 31 |
+| Centralna Srbija | Rejon Negotinska Krajina | 23 | 56 | 102 | 137 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
-| Centralna Srbija | Rejon Tri Morave | 70 | 222 | 213 | 318 |
-| Vojvodina | Sremski rejon | 87 | 317 | 436 | 657 |
-| Vojvodina | Subotički rejon | 17 | 91 | 132 | 175 |
-| Centralna Srbija | Šumadijski rejon | 32 | 164 | 263 | 381 |
+| Centralna Srbija | Rejon Tri Morave | 70 | 222 | 222 | 338 |
+| Vojvodina | Sremski rejon | 87 | 317 | 436 | 703 |
+| Vojvodina | Subotički rejon | 17 | 91 | 132 | 182 |
+| Centralna Srbija | Šumadijski rejon | 32 | 164 | 263 | 399 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 52 | 80 |
-| Centralna Srbija | Vranjski rejon | 3 | 24 | 45 | 63 |
-| — | **рејон не установлен** | 152 | 125 | 88 | 136 |
+| Centralna Srbija | Vranjski rejon | 3 | 24 | 45 | 73 |
+| — | **рејон не установлен** | 152 | 125 | 88 | 138 |
 
 **Рејоны, из которых не собралось ни одного хозяйства:** Južnometohijski rejon, Severnometohijski rejon.
 
@@ -799,7 +799,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Vinarija Sokolov Zamak | Fruškogorsko vinogorje | Beška | mesto | — |
 | Vinarija Tanasković | Fruškogorsko vinogorje | Krušedol Prnjavor | mesto | — |
 | Vinarija Šijački | Fruškogorsko vinogorje | Баноштор | mesto | Фрушка гора |
-| Vinarium | Fruškogorsko vinogorje | Banoštor | mesto | — |
+| Vinarium winery | Fruškogorsko vinogorje | Banoštor | mesto | — |
 | Vinograd Hopovo | Fruškogorsko vinogorje | Irig | mesto | — |
 | Vinum | Fruškogorsko vinogorje | Sremski Karlovci | mesto | Фрушка гора |
 | Vinčić | Fruškogorsko vinogorje | Šid | mesto | Фрушка гора |

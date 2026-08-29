@@ -4,7 +4,7 @@
 
 Строки вида
 
-    Источник | год | категория | место | Хозяйство | Вино | урожай | адрес
+    Источник | год | категория | место | Хозяйство | Вино | урожай | адрес | цвет
 
 Награда — не балл. «Лучшее белое из местных сортов 2025 года» и «92 балла
 Falstaff» устроены по-разному: у первого нет шкалы, зато есть категория и
@@ -35,6 +35,18 @@ for _potok in (sys.stdout, sys.stderr, sys.stdin):
 FAJL = os.path.join(os.path.dirname(os.path.abspath(__file__)), "nagrady-zapisi.jsonl")
 
 
+def klyuch(z):
+    """Чем одна награда отличается от другой.
+
+    Урожай и цвет в ключе обязательны. Без них хозяйство с одним и тем же
+    именем вина держит на конкурсе одну награду вместо нескольких: Темет
+    берёт на DWWA три бронзы за «Tri Morave» — красное, розовое и белое
+    игристое, — а в файл попадала одна. Так молча пропадало сорок наград.
+    """
+    return (z["istochnik"], z["god"], z["kategoriya"], z["hozyaistvo"],
+            z["vino"], z.get("urozhaj"), z.get("cvet") or "")
+
+
 def otkryt_vhod():
     """Строки со входа: из файла, если он назван, иначе из stdin.
 
@@ -54,8 +66,7 @@ def main():
         for stroka in open(FAJL, encoding="utf-8"):
             if stroka.strip():
                 z = json.loads(stroka)
-                bylo[(z["istochnik"], z["god"], z["kategoriya"],
-                      z["hozyaistvo"], z["vino"])] = z
+                bylo[klyuch(z)] = z
 
     for stroka in otkryt_vhod():
         stroka = stroka.strip()
@@ -73,9 +84,9 @@ def main():
             "vino": ch[5],
             "urozhaj": int(ch[6]) if len(ch) > 6 and ch[6] else None,
             "stranica": ch[7] if len(ch) > 7 else "",
+            "cvet": ch[8] if len(ch) > 8 else "",
         }
-        bylo[(z["istochnik"], z["god"], z["kategoriya"],
-              z["hozyaistvo"], z["vino"])] = z
+        bylo[klyuch(z)] = z
 
     with open(FAJL, "w", encoding="utf-8") as f:
         for z in bylo.values():

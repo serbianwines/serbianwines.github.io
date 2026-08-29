@@ -49,7 +49,7 @@ Damalis,damalis,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,0
 Damjanovic,damjanovic,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Garevina,mesto,,,ne_ustanovlen,"Garevina, Rasinski okrug",False,,,9
 Dealul Tirolului,dealul-tirolului,Vojvodina,,,,ne_ustanovlen,рејон один из: Banatski rejon; Južnobanatski rejon,,ne_ustanovlen,,False,,,4
 Despotika,despotika,Centralna Srbija,Šumadijski rejon,Krnjevačko vinogorje,Vlaški Do,mesto,"по месту Šumadijski rejon, у источников Šumadijski rejon ×17; Beogradski rejon ×4",sumadija,kniga,"Vlaški Do, Smederevska Palanka, Podunavski okrug",True,despotika-despotika,,23
-Deurić,deuric,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Mala Remeta,mesto,"по месту Sremski rejon, у источников Sremski rejon ×87; Subotički rejon ×1",fruska,kniga,"Mala Remeta, Sremski okrug",True,,3,36
+Deurić,deuric,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Mala Remeta,mesto,,fruska,kniga,"Mala Remeta, Sremski okrug",True,,3,36
 Dibonis Winery,dibonis,Vojvodina,Subotički rejon,Palićko vinogorje,Subotica,mesto,,,ne_ustanovlen,"Subotica, Severnobački okrug",False,,,20
 Dimalis,dimalis,Vojvodina,Rejon Telečka,Centralnotelečko vinogorje,Stara Moravica,mesto,"по месту Rejon Telečka, у источников Rejon Bačka ×3",,ne_ustanovlen,"Stara Moravica, Severnobački okrug",False,,,3
 Djokovic,dokovic,Centralna Srbija,,,,ne_ustanovlen,рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon,,ne_ustanovlen,,False,,,2
@@ -373,7 +373,7 @@ Vinarija Šijački,sijacki,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Ба�
 Vinarija Šveljo,sveljo,Vojvodina,Subotički rejon,Riđičko vinogorje,Riđica,mesto,"по месту Subotički rejon, у источников Sremski rejon ×1",,ne_ustanovlen,"Riđica, Zapadnobački okrug",False,,,3
 Vinarija Ždrnja,zdrnja,Vojvodina,Rejon Bačka,,Temerin,mesto,,,ne_ustanovlen,Temerin,False,,,0
 Vinarija Žir,zir,Centralna Srbija,Šumadijski rejon,Krnjevačko vinogorje,Krnjevo,mesto,,,ne_ustanovlen,Krnjevo,False,,,1
-Vinarium,vinarium,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,,ne_ustanovlen,"Banoštor, Južno-bački okrug",False,,,9
+Vinarium winery,vinarium,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,,ne_ustanovlen,"Banoštor, Južno-bački okrug",False,,,9
 Vinarska Kuća Miljković,vinarska-kuca-miljkovic,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,4
 Vinartos Vinarija,vinartos,Vojvodina,Potiski rejon,Srednjepotisko vinogorje,Bečej,mesto,,,ne_ustanovlen,"Bečej, Južnobački okrug",False,,,3
 Vindulo d.o.o.,vindulo,Vojvodina,Rejon Bačka,,Temerin,mesto,,,ne_ustanovlen,"Temerin, Južno-bački okrug",False,,,6

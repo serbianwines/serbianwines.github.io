@@ -129,6 +129,7 @@ def main():
             urozhaj = int(urozhaj) if str(urozhaj).isdigit() else None
             adres = "awards.decanter.com, DWWA %d, вино %s" % (god, z.get("id"))
 
+            cvet = (z.get("color") or "").strip().lower()
             nagrady.append({
                 "istochnik": "decanter",
                 "god": god,
@@ -137,6 +138,11 @@ def main():
                 "hozyaistvo": hozyaistvo,
                 "vino": vino,
                 "urozhaj": urozhaj,
+                # Цвет — не украшение записи, а часть её имени. У Темета
+                # «Tri Morave» выходит красным, розовым и белым игристым
+                # сразу, и на одном конкурсе все три берут бронзу: без
+                # цвета это одна запись вместо трёх.
+                "cvet": cvet,
                 "stranica": adres,
             })
             ball = z.get("score")
@@ -148,16 +154,22 @@ def main():
                     "god": str(urozhaj) if urozhaj else None,
                     "konkurs_god": god,
                     "ball": int(ball),
+                    "cvet": cvet,
                     "stranica": adres,
                 })
 
     if not nagrady:
         sys.exit("ничего не получено")
 
+    # В ключе слияния обязаны стоять урожай и цвет. Без них одно и то же
+    # хозяйство с одним и тем же именем вина держит на конкурсе одну
+    # запись вместо нескольких: у DWWA так пропадало сорок наград и
+    # девять баллов — разные урожаи и разные цвета одного названия.
     dopisat("nagrady-zapisi.jsonl", nagrady,
-            ["istochnik", "god", "kategoriya", "hozyaistvo", "vino"])
+            ["istochnik", "god", "kategoriya", "hozyaistvo", "vino",
+             "urozhaj", "cvet"])
     dopisat("kritiki-zapisi.jsonl", ocenki,
-            ["istochnik", "hozyaistvo", "vino", "god", "konkurs_god"])
+            ["istochnik", "hozyaistvo", "vino", "god", "konkurs_god", "cvet"])
 
     print("\nпо годам: %s" % ", ".join(
         "%d — %d" % (g, n) for g, n in sorted(po_godam.items())))

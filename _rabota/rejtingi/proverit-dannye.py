@@ -92,8 +92,11 @@ def main():
     pary, povtory = set(), []
     for o in ocenki:
         # Одно вино может брать медаль в разные годы конкурса — это
-        # разные события, а не повтор измерения.
-        para = (o["klyuch_vina"], o["istochnik"], o["god"], o.get("konkurs_god"))
+        # разные события, а не повтор измерения. Цвет здесь по той же
+        # причине: под одним именем у хозяйства выходит и красное, и
+        # розовое, и белое игристое, и судят их порознь.
+        para = (o["klyuch_vina"], o["istochnik"], o["god"],
+                o.get("konkurs_god"), o.get("cvet") or "")
         if para in pary:
             povtory.append(o)
         pary.add(para)

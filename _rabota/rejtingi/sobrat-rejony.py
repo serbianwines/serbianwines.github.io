@@ -109,8 +109,95 @@ DECANTER_PARA = {
     ("Pocerina", None): ("Pocersko Valjevski Rejon", None),
     ("Centralna Srbija", "Tri Morave"): ("Rejon Tri Morave", None),
     ("Centralna Srbija", None): (None, None),
+    ("Tri Morave", None): ("Rejon Tri Morave", None),
+    ("Oplenac", None): ("Šumadijski rejon", "Oplenačko vinogorje"),
+    # Тимок — это Књажевачки рејон и Неготинска Крајина сразу, Ниш —
+    # четыре рејона, Банат — два. Одним регионом рејон не назван, и
+    # ставить его наугад нельзя: пусто здесь стоит нарочно.
+    ("Timok", None): (None, None),
+    ("Nišava-South Morava", None): (None, None),
+    ("Banat", None): (None, None),
     (None, None): (None, None),
 }
+
+# Одно и то же место DWWA пишет и по-английски, и по-сербски, и
+# в испорченной кодировке: «Šumadija-Great Morava», «Šumadijsko-
+# Velikomoravski», «Å Umadijsko-Velikomoravski». Разные написания —
+# не разные места, но таблица выше про это не знает и молча отвечала
+# «не знаю» на каждое второе.
+DECANTER_IMENA = {
+    "sumadijsko-velikomoravski": "Šumadija-Great Morava",
+    "sumadijsko velikomoravski": "Šumadija-Great Morava",
+    "sumadija-great morava": "Šumadija-Great Morava",
+    "subotica-horgos": "Subotica-Horgoš",
+    "negotinska krajina": "Negotinska Krajina",
+}
+
+
+# IWC и Wine Trophy тоже называют область хозяйства — теми же именами
+# старой рејонизације, что и DWWA, только со своими опечатками. Оба
+# источника были собраны и не читались вовсе: место у них лежало в
+# записи и никуда не шло.
+OBLAST_KONKURSA = {
+    "negotinska krajina": ("Rejon Negotinska Krajina", None),
+    "subotica": ("Subotički rejon", None),
+    "subotica-horgos": ("Subotički rejon", None),
+    "belgrade viticultural region": ("Beogradski rejon", None),
+    "fruska gora": ("Sremski rejon", "Fruškogorsko vinogorje"),
+    "srem": ("Sremski rejon", None),
+    "pocerina": ("Pocersko Valjevski Rejon", None),
+    # Тимок — это Књажевачки рејон и Неготинска Крајина сразу, Шумадијско-
+    # великоморавски — четыре рејона, Западна Морава и Нишава — по
+    # нескольку. Одним именем рејон здесь не назван: пусто стоит нарочно.
+    "timok": (None, None),
+    "timocki rajon": (None, None),
+    "sumadijsko velikomoravski": (None, None),
+    "sumdijsko-velikomoravski rajon": (None, None),
+    "sumadija-great morava": (None, None),
+    "west morava": (None, None),
+    "nisava-south morava": (None, None),
+    "banat": (None, None),
+    "vojvodina": (None, None),
+    "centralna srbija": (None, None),
+}
+
+
+def oblast_konkursa(syroe):
+    """Рејон по имени области, как его пишут конкурсы. Или ничего."""
+    s = chinit_kodirovku(bez_pustogo(syroe))
+    if not s:
+        return None, None, ""
+    s = re.sub(r",\s*serbia\s*$", "", s.strip(), flags=re.I)
+    prosto = "".join(z for z in unicodedata.normalize("NFD", s.lower())
+                     if unicodedata.category(z) != "Mn")
+    prosto = re.sub(r"\s+", " ", prosto).strip()
+    rejon, vinogorje = OBLAST_KONKURSA.get(prosto, (None, None))
+    return rejon, vinogorje, s
+
+
+def chinit_kodirovku(s):
+    """Вернуть строку, дважды закодированную в UTF-8, к читаемому виду.
+
+    «Subotica-HorgoÅ¡» — это «Subotica-Horgoš», прочитанное как latin-1.
+    """
+    if not s or not re.search(r"[ÂÃÅ]", s):
+        return s
+    try:
+        return s.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return s
+
+
+def imya_decantera(s):
+    """Написание места у DWWA — к тому, которое знает таблица пар."""
+    s = chinit_kodirovku(bez_pustogo(s))
+    if not s:
+        return None
+    prosto = re.sub(r"\s+", " ", s).strip()
+    bez_znakov = "".join(
+        z for z in unicodedata.normalize("NFD", prosto.lower())
+        if unicodedata.category(z) != "Mn")
+    return DECANTER_IMENA.get(bez_znakov, prosto)
 
 # Имя старой рејонизације рејона не даёт, но регион даёт, а иногда и
 # короткий список, в котором рејон точно есть. Это не «не знаем ничего»:
@@ -385,12 +472,27 @@ def pokazaniya():
         for w in (d if isinstance(d, list) else d.get("data", [])):
             if not isinstance(w, dict) or not w.get("producer"):
                 continue
-            para = (bez_pustogo(w.get("region")), bez_pustogo(w.get("subRegion")))
+            para = (imya_decantera(w.get("region")),
+                    imya_decantera(w.get("subRegion")))
             if para not in DECANTER_PARA:
                 para = (para[0], None)
             rejon, vinogorje = DECANTER_PARA.get(para, (None, None))
             p[klyuch_hozyaistva(w["producer"])].append({
                 "istochnik": "decanter", "syroe": " · ".join(x for x in para if x),
+                "rejon": rejon, "vinogorje": vinogorje})
+
+    # IWC называет область у каждой медали, Wine Trophy — тоже, своими
+    # словами: «Timocki Rajon, Serbia», «Fruška gora, Serbia».
+    for fajl, pole, imya in (("iwc-zapisi.json", "oblast_iwc", "iwc"),
+                             ("wine-trophy-zapisi.json", "mesto", "wine-trophy")):
+        if not os.path.exists(put(fajl)):
+            continue
+        for z in json.load(open(put(fajl), encoding="utf-8"))["zapisi"]:
+            rejon, vinogorje, syroe = oblast_konkursa(z.get(pole))
+            if not syroe:
+                continue
+            p[klyuch_hozyaistva(z["hozyaistvo"])].append({
+                "istochnik": imya, "syroe": syroe,
                 "rejon": rejon, "vinogorje": vinogorje})
 
     if os.path.exists(put("vivino-syrye.json")):

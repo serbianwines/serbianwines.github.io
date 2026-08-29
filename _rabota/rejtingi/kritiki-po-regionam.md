@@ -13,7 +13,7 @@
 
 **Оценки** — балл по стобалльной шкале, 1554 записи.
 
-**Награды** — место в категории или медаль, 2385 записей. У них нет шкалы,
+**Награды** — место в категории или медаль, 2390 записей. У них нет шкалы,
 зато есть год и категория. Переводить «лучшее белое из местных сортов
 2025 года» в число нельзя, поэтому и таблицы разные.
 
@@ -136,7 +136,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 **Юго-восток держится на одном хозяйстве.** Тридцать восемь оценок в районе,
 и все до одной — Aleksić. У Džervin и Jović нет ни балла, ни награды.
 
-**Глава книги известна у 61 хозяйства из 460**, а настоящий рејон —
+**Глава книги известна у 61 хозяйства из 457**, а настоящий рејон —
 у 297. Остальных Vivino сваливает в «Central Serbia» и «Wine of Serbia»,
 и Винарски регистар не узнаёт по имени. Разбор — в `po-rejonima.md`.
 
@@ -150,11 +150,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1180, с оценкой критиков — 890, **с обеими — 248**.
+Вин с оценкой Vivino — 1180, с оценкой критиков — 888, **с обеими — 250**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
-| Фрушка гора | 228 | 166 | 58 |
+| Фрушка гора | 228 | 167 | 59 |
 | Суботичско-Хоргошская пешчара | 76 | 27 | 17 |
 | Банат | 37 | 11 | 4 |
 | Шумадия | 93 | 97 | 28 |
@@ -437,6 +437,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Šapat · Šu-Šu | 2024 | 85 | biwc |
 | Kiš · Misterija polusuva | 2025 | 85 | biwc |
 | Šapat · Bianca | 2025 | 85 | biwc |
+| Kovačević · Sauvignon | 2012 | 84 | decanter |
 | Deurić · Gewürztraminer | 2015 | 84 | decanter |
 | Deurić · Avangarda | 2015 | 84 | decanter |
 | Deurić · Merlot | 2015 | 84 | decanter |
@@ -908,6 +909,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2016 | золото | zlato | Bjelica · Saga 2015 2015 | 
 | 2016 | золото | zlato | Bjelica · Babaroga penušava 2014 2014 | 
 | 2016 | отмечено | commended | Molovin · Inat 2012 | 
+| 2016 | отмечено | commended | Kovačević · Sauvignon 2012 | 
 | 2016 | отмечено | commended | Kiš · Misterija 2011 | 
 | 2016 | серебро | srebro | Belo Brdo · Chardonnay 2015 | 
 | 2016 | серебро | srebro | Belo Brdo · Chardonnay Black Label 2015 | 
@@ -2859,7 +2861,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Mikić · Chardonnay 2025 — 89 [awc-vienna]
 - Podrum Dremina · Blanc Coupage 2024 — 89 [awc-vienna]
 - AURUS Winery & Distillery · Merlot 2022 — 89 [awc-vienna]
-- Vinarija Frunza Aglaja · Aglaja Cabernet Sauvignon 2015 — 89 [decanter]
+- Vinarija Frunza Aglaja · Cabernet Sauvignon 2015 — 89 [decanter]
 - Virtus · W 2019 — 89 [decanter]
 - Stemina winery · Panta Rei Chardonnay 2018 — 89 [decanter]
 - BT Winery · President Gold Vranac 2018 — 89 [decanter]
@@ -2947,7 +2949,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Probus Vineyards · Traminac 2018 — 88 [decanter]
 - Vinarija Eden · Chardonnay 2019 — 88 [decanter]
 - Vinarija Aven · Balance 2018 — 88 [decanter]
-- Vinarija Frunza Aglaja · Aglaja Sauvignon-Semillon 2020 — 88 [decanter]
+- Vinarija Frunza Aglaja · Sauvignon-Semillon 2020 — 88 [decanter]
 - Podrum Janko · Bifora 2017 — 88 [decanter]
 - Grabak · Prva Lasta Prokupac 2021 — 88 [decanter]
 - BT Winery · Kings Crown 2020 — 88 [decanter]
@@ -3113,7 +3115,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarija Radlović doo · Cirkuz Rose 2025 — 87 [biwc]
 - Anatea Vinarija · Anatea 2025 — 86 [awc-vienna]
 - Virtus · Credo 2013 — 86 [decanter]
-- Mcculloch Wines · Mcc Traminac 2013 — 86 [decanter]
+- Mcculloch Wines · Traminac 2013 — 86 [decanter]
 - Vinarija Lastar · Chardonnay 2015 — 86 [decanter]
 - Virtus · Credo Beli 2015 — 86 [decanter]
 - Podrum Janko · Smederevka 2017 — 86 [decanter]
@@ -3125,7 +3127,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - PIK OPLENAC · Villa Muscat Ottonel 2015 — 86 [decanter]
 - Komuna Vinarija · Chardonnay 2017 — 86 [decanter]
 - Pusula Winery · Cabernet 2015 — 86 [decanter]
-- Vinarija Frunza Aglaja · Aglaja Dantelle Cabernet Sauvignon 2016 — 86 [decanter]
+- Vinarija Frunza Aglaja · Dantelle Cabernet Sauvignon 2016 — 86 [decanter]
 - Virtus · Credo 2017 — 86 [decanter]
 - Nikad Nije Kasno · Simfonija 2017 — 86 [decanter]
 - Vista Hill · Premium 2019 — 86 [decanter]
@@ -3186,9 +3188,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarija Lastar · Triangl Chardonnay 2015 — 85 [decanter]
 - Virtus · Sauvignon Blanc 2017 — 85 [decanter]
 - PIK OPLENAC · Monarh Cuvée 2014 — 85 [decanter]
-- Aglaja · Cabernet Sauvignon 2016 — 85 [decanter]
+- Vinarija Frunza Aglaja · Cabernet Sauvignon 2016 — 85 [decanter]
 - Fruškogorski · Quet Pinot Noir 2016 — 85 [decanter]
-- Vinarija Frunza Aglaja · Aglaja Cabernet Sauvignon 2017 — 85 [decanter]
+- Vinarija Frunza Aglaja · Cabernet Sauvignon 2017 — 85 [decanter]
 - PIK OPLENAC · Monarh Immortal Cuvée 2014 — 85 [decanter]
 - Virtus · Pinot Noir 2015 — 85 [decanter]
 - Podrum Janko · Misija 2016 — 85 [decanter]
@@ -3228,7 +3230,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarija Ilić-Nijemčević · Frankovka 2021 — 85 [biwc]
 - Podrum Pevac · Tišina, Malvazija 2025 — 85 [biwc]
 - Vinarija Milićević · Morava 2025 — 85 [biwc]
-- Vinarija Kovačević D,O,O, · Kovačević Sauvignon 2012 — 84 [decanter]
 - Vinis · Crveno 2012 — 84 [decanter]
 - Podrum Stari Hrast · Sauvignon Blanc 2017 — 84 [decanter]
 - Vinarija Lastar · Chardonnay 2017 — 84 [decanter]

@@ -68,6 +68,12 @@
    ],
    "marki_pochemu": "Линейка хозяйства. «Verus Kis» и «Verus – Kis» — имена дома, а голое «Verus» — нет."
   },
+  "Kovačević": {
+   "varianty": [
+    "Vinarija Kovačević D,O,O,"
+   ],
+   "dokazatelstvo": "То же имя, где точки правовой формы набраны запятыми: «Vinarija Kovačević D,O,O,». Единственное вино этой записи — «Kovačević Sauvignon», то есть марка Ковачевића. В Винарском регистру Ковачевић из Ирига один, запись № 1089, и на неё притязали обе записи сразу."
+  },
   "Manastir Bukovo": {
    "varianty": [
     "Manastira Bukovo",
@@ -90,6 +96,12 @@
     "Belina"
    ],
    "marki_pochemu": "Сорт в поле производителя; «Белина» — ещё и имя вина."
+  },
+  "Mcculloch Wines": {
+   "varianty": [
+    "McC"
+   ],
+   "dokazatelstvo": "«McC» — сокращение того же имени: единственное вино этой записи, «Coupage», стоит и у Mcculloch Wines, а своё вино он подписывает «Mcc Traminac». Обе записи притязали на одну запись регистра № 4206, Нови Сад."
   },
   "Molovin": {
    "varianty": [
@@ -175,9 +187,10 @@
   "Vinarija Frunza Aglaja": {
    "varianty": [
     "Aglaya (Аглая)",
-    "ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery)"
+    "ΒИММИД ΒИΗΑΡИЈΑ (Vimmid Winery)",
+    "Aglaja"
    ],
-   "dokazatelstvo": "В Винарском регистру Аглаја одна на всю Сербию: запись № 84, «VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO», Карбулово Неготинске општине. Decanter звал это хозяйство год за годом по-разному, но всегда в Неготинској Крајини: «Vinarija Vimmid» (DWWA 2017), «Aglaja» (2018), «Vimmid» (2019), «Vinarija Frunza Aglaja» (2020, 2021). Линейка сквозная: «Dentelle»/«Dantelle» и «Aglaja Sauvignon-Semillon» встречаются под всеми тремя именами, а все вина Vimmid на Vivino подписаны «Аглаја»."
+   "dokazatelstvo": "В Винарском регистру Аглаја одна на всю Сербию: запись № 84, «VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO», Карбулово Неготинске општине. Decanter звал это хозяйство год за годом по-разному, но всегда в Неготинској Крајини: «Vinarija Vimmid» (DWWA 2017), «Aglaja» (2018), «Vimmid» (2019), «Vinarija Frunza Aglaja» (2020, 2021). Линейка сквозная: «Dentelle»/«Dantelle» и «Aglaja Sauvignon-Semillon» встречаются под всеми тремя именами, а все вина Vimmid на Vivino подписаны «Аглаја». Голое «Aglaja» — то же самое, лишь без «y»: у этой записи одно вино, «Cabernet Sauvignon», и оно же стоит у Frunza Aglaja, рядом с «Aglaja Cabernet Sauvignon». Обе притязали на запись регистра № 84."
   },
   "Vinarija Gnezdo": {
    "varianty": [

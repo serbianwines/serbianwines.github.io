@@ -149,19 +149,6 @@
     "registar: Rabenovac, Pomoravski okrug"
    ]
   },
-  "aglaja": {
-   "hozyaistvo": "Aglaja",
-   "region": "Centralna Srbija",
-   "rejon": "Rejon Negotinska Krajina",
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "decanter",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "decanter: Negotinska Krajina"
-   ]
-  },
   "agrina": {
    "hozyaistvo": "Agrina",
    "region": "Vojvodina",
@@ -2051,6 +2038,7 @@
     "decanter: Negotinska Krajina",
     "ivv: Negotin, Borski okrug",
     "ivv: Vidrovac, Negotin, Borski okrug",
+    "registar: Karbulovo, Borski okrug",
     "vivino-adres: Serbia",
     "vivino: Central Serbia",
     "vivino: Negotinska Krajina"
@@ -2517,14 +2505,16 @@
   },
   "jelena-munizaba-radnja-za-proizvodnju-grozda-i-turizam-i-ugostiteljstvo": {
    "hozyaistvo": "Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo.",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Subotički rejon",
+   "vinogorje": "Riđičko vinogorje",
+   "gorod": "Riđica",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
+   "gde": "Riđica, Zapadnobački okrug",
+   "pokazaniya": [
+    "registar: Riđica, Zapadnobački okrug"
+   ]
   },
   "jelenac": {
    "hozyaistvo": "Jelenac organic",
@@ -2900,23 +2890,11 @@
     "decanter: Vojvodina",
     "falstaff: falstaff.com/en/wines/vinarija-kovacevic-2019-kovacevic-aurelius-edicija-s",
     "ivv: Irig, Sremski okrug",
+    "registar: Irig, Sremski okrug",
     "vinarijesrbije: Sremski rejon, Fruška Gora",
     "vivino-adres: 22406 Irig, Srbija",
     "vivino: Central Serbia",
     "vivino: Srem"
-   ]
-  },
-  "kovacevic-d-o-o": {
-   "hozyaistvo": "Vinarija Kovačević D,O,O,",
-   "region": "Vojvodina",
-   "rejon": "Sremski rejon",
-   "vinogorje": "Fruškogorsko vinogorje",
-   "gorod": "",
-   "istochnik": "decanter",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "decanter: Srem · Fruška Gora"
    ]
   },
   "krajina-rajac": {
@@ -3501,31 +3479,19 @@
     "registar: Subotica, Severnobački okrug"
    ]
   },
-  "mcc": {
-   "hozyaistvo": "McC",
-   "region": "Vojvodina",
-   "rejon": "Sremski rejon",
-   "vinogorje": "Fruškogorsko vinogorje",
-   "gorod": "",
-   "istochnik": "decanter",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "decanter: Srem"
-   ]
-  },
   "mcculloch": {
    "hozyaistvo": "Mcculloch Wines",
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "gorod": "",
-   "istochnik": "decanter+vivino",
+   "gorod": "Novi Sad",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Novi Sad, Južnobački okrug",
    "pokazaniya": [
     "decanter: Srem",
     "decanter: Srem · Fruška Gora",
+    "registar: Novi Sad, Južnobački okrug",
     "vivino: Srem",
     "vivino: Vojvodina"
    ]
@@ -4747,21 +4713,11 @@
    "pokazaniya": [
     "decanter: Srem · Fruška Gora",
     "ivv: Veliki Radinci, Sremski okrug",
+    "registar: Veliki Radinci, Sremski okrug",
     "vivino-adres: Srbija",
     "vivino: Central Serbia",
     "wine-trophy: Fruška gora"
    ]
-  },
-  "probus-cclxxx": {
-   "hozyaistvo": "Probus Vineyards CCLXXX",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
   },
   "prokupac": {
    "hozyaistvo": "Prokupac",
@@ -4892,17 +4848,6 @@
     "registar: Banoštor, Južnobački okrug",
     "vivino: Central Serbia"
    ]
-  },
-  "radoslav-tripkovic": {
-   "hozyaistvo": "Vinarija Radoslav Tripković",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
   },
   "radovan": {
    "hozyaistvo": "Radovan",
@@ -6980,14 +6925,15 @@
   },
   "visoki-decani": {
    "hozyaistvo": "Monastery Visoki Decani  (Манастирско Дечанско)",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Kosovo i Metohija",
+   "rejon": "Južnometohijski rejon",
+   "vinogorje": "Orahovačko vinogorje",
+   "gorod": "Velika Hoča",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Velika Hoča, Prizrenski okrug",
    "pokazaniya": [
+    "registar: Velika Hoča, Prizrenski okrug",
     "vivino: Wine of Serbia"
    ]
   },
@@ -7337,6 +7283,7 @@
    "raznoglasie": "",
    "gde": "Temerin",
    "pokazaniya": [
+    "registar: Temerin, Južnobački okrug",
     "vinarijesrbije: Bački rejon, Temerin"
    ]
   },
@@ -7571,19 +7518,6 @@
    "pokazaniya": [
     "registar: Tamnič, Borski okrug",
     "vivino: Vojvodina"
-   ]
-  },
-  "винари-а-манастира-буково": {
-   "hozyaistvo": "Винарија Манастира Буково",
-   "region": "Centralna Srbija",
-   "rejon": "Rejon Negotinska Krajina",
-   "vinogorje": "Negotinsko vinogorje",
-   "gorod": "Negotin",
-   "istochnik": "mesto",
-   "raznoglasie": "",
-   "gde": "Negotin, Borski okrug",
-   "pokazaniya": [
-    "registar: Negotin, Borski okrug"
    ]
   },
   "винари-а-манастира-студеница": {

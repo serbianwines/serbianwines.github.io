@@ -333,6 +333,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Centralna Srbija | Beogradski rejon | 15 | 35 | 47 | 83 |
 | Centralna Srbija | Čačansko–kraljevački rejon | 3 | 1 | 3 | 3 |
 | Vojvodina | Južnobanatski rejon | 14 | 23 | 26 | 50 |
+| Kosovo i Metohija | Južnometohijski rejon | 1 | 2 | 0 | 0 |
 | Centralna Srbija | Knjaževački rejon | 4 | 22 | 26 | 56 |
 | Centralna Srbija | Leskovački rejon | 4 | 3 | 0 | 0 |
 | Centralna Srbija | Mlavski rejon | 4 | 14 | 60 | 65 |
@@ -340,17 +341,17 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Centralna Srbija | Niški rejon | 6 | 14 | 9 | 13 |
 | Centralna Srbija | Pocersko Valjevski Rejon | 7 | 24 | 9 | 20 |
 | Vojvodina | Potiski rejon | 3 | 19 | 24 | 31 |
-| Centralna Srbija | Rejon Negotinska Krajina | 22 | 56 | 102 | 137 |
+| Centralna Srbija | Rejon Negotinska Krajina | 21 | 56 | 102 | 137 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
 | Centralna Srbija | Rejon Tri Morave | 70 | 222 | 222 | 338 |
-| Vojvodina | Sremski rejon | 86 | 317 | 436 | 703 |
-| Vojvodina | Subotički rejon | 17 | 94 | 132 | 183 |
+| Vojvodina | Sremski rejon | 84 | 317 | 436 | 703 |
+| Vojvodina | Subotički rejon | 18 | 94 | 133 | 184 |
 | Centralna Srbija | Šumadijski rejon | 32 | 164 | 263 | 404 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 52 | 80 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 45 | 73 |
-| — | **рејон не установлен** | 151 | 122 | 88 | 137 |
+| — | **рејон не установлен** | 149 | 120 | 87 | 136 |
 
-**Рејоны, из которых не собралось ни одного хозяйства:** Južnometohijski rejon, Severnometohijski rejon.
+**Рејоны, из которых не собралось ни одного хозяйства:** Severnometohijski rejon.
 
 
 ## Главы книги и рејоны
@@ -375,6 +376,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 - **Rejon Bačka** (Vojvodina) — 117 Wine, Fekete, Sila, Vinarija Baza, Vinarija Ždrnja, Vindulo d.o.o.
 - **Banatski rejon** (Vojvodina) — Kepul
 - **Čačansko–kraljevački rejon** (Centralna Srbija) — Vinarija Tomić - Rošci, Vinarija Čolaković, Винарија Ступови (Vinarija Stupovi)
+- **Južnometohijski rejon** (Kosovo i Metohija) — Monastery Visoki Decani  (Манастирско Дечанско)
 - **Leskovački rejon** (Centralna Srbija) — Prima, Vinarija Aquila, Козарак, Митровиђ Винарија
 - **Mlavski rejon** (Centralna Srbija) — Pruna, Vinarija Necak, Vinarija Unikat, Virtus
 - **Nišavski rejon** (Centralna Srbija) — Vinarija Savic
@@ -404,6 +406,11 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Južnobanatski rejon | Belocrkvansko vinogorje | — |
 | Južnobanatski rejon | Vinogorje Deliblatske peščare | 1 |
 | Južnobanatski rejon | *виногорје не установлено* | 4 |
+| Južnometohijski rejon | Đakovačko vinogorje | — |
+| Južnometohijski rejon | Orahovačko vinogorje | 1 |
+| Južnometohijski rejon | Prizrensko vinogorje | — |
+| Južnometohijski rejon | Suvorečko vinogorje | — |
+| Južnometohijski rejon | Mališevsko vinogorje | — |
 | Knjaževački rejon | Borsko vinogorje | — |
 | Knjaževački rejon | Boljevačko vinogorje | — |
 | Knjaževački rejon | Zaječarsko vinogorje | 1 |
@@ -441,7 +448,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Negotinska Krajina | Mihajlovačko vinogorje | 1 |
 | Rejon Negotinska Krajina | Negotinsko vinogorje | 6 |
 | Rejon Negotinska Krajina | Rogljevačko-rajačko vinogorje | 6 |
-| Rejon Negotinska Krajina | *виногорје не установлено* | 9 |
+| Rejon Negotinska Krajina | *виногорје не установлено* | 8 |
 | Rejon Telečka | Zapadnotelečko vinogorje | 2 |
 | Rejon Telečka | Centralnotelečko vinogorje | 1 |
 | Rejon Telečka | Istočnotelečko vinogorje | — |
@@ -455,8 +462,8 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Tri Morave | Župsko vinogorje | 34 |
 | Rejon Tri Morave | Ražanjsko vinogorje | — |
 | Rejon Tri Morave | *виногорје не установлено* | 10 |
-| Sremski rejon | Fruškogorsko vinogorje | 86 |
-| Subotički rejon | Riđičko vinogorje | 4 |
+| Sremski rejon | Fruškogorsko vinogorje | 84 |
+| Subotički rejon | Riđičko vinogorje | 5 |
 | Subotički rejon | Palićko vinogorje | 6 |
 | Subotički rejon | Horgoško vinogorje | 1 |
 | Subotički rejon | *виногорје не установлено* | 6 |
@@ -542,6 +549,12 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Vinik | Vršačko vinogorje | Vršac | mesto | — |
 | Орлић Породична Винарија - Orlić Family Winery | Vršačko vinogorje | Vršac | vivino-adres | — |
 
+### Južnometohijski rejon — Kosovo i Metohija
+
+| Хозяйство | Виногорје | Город | Откуда рејон | В книге |
+|---|---|---|---|---|
+| Monastery Visoki Decani  (Манастирско Дечанско) | Orahovačko vinogorje | Velika Hoča | mesto | — |
+
 ### Knjaževački rejon — Centralna Srbija
 
 | Хозяйство | Виногорје | Город | Откуда рејон | В книге |
@@ -610,7 +623,6 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 
 | Хозяйство | Виногорје | Город | Откуда рејон | В книге |
 |---|---|---|---|---|
-| Aglaja | — | — | decanter | — |
 | Cubra | Negotinsko vinogorje | Negotin | mesto | — |
 | Dalia | — | — | vivino | — |
 | Francuska Vinarija - Estelle et Cyrille Bongiraud | Rogljevačko-rajačko vinogorje | Rogljevo | mesto | — |
@@ -752,8 +764,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Langov Podrum | Fruškogorsko vinogorje | Inđija | mesto | — |
 | Manufaktura Spasić | Fruškogorsko vinogorje | — | decanter | — |
 | Mačkov podrum | Fruškogorsko vinogorje | Irig | mesto | Фрушка гора |
-| McC | Fruškogorsko vinogorje | — | decanter | — |
-| Mcculloch Wines | Fruškogorsko vinogorje | — | decanter+vivino | — |
+| Mcculloch Wines | Fruškogorsko vinogorje | Novi Sad | mesto | — |
 | Milanović | Fruškogorsko vinogorje | Surduk | mesto | — |
 | Mister | Fruškogorsko vinogorje | — | decanter | — |
 | Molovin | Fruškogorsko vinogorje | Моловин | mesto | Фрушка гора |
@@ -787,7 +798,6 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Vinarija Imperator | Fruškogorsko vinogorje | Rakovac | decanter+vivino | — |
 | Vinarija KM | Fruškogorsko vinogorje | Novi Sad | mesto | — |
 | Vinarija Komazec | Fruškogorsko vinogorje | Inđija | mesto | — |
-| Vinarija Kovačević D,O,O, | Fruškogorsko vinogorje | — | decanter | — |
 | Vinarija Kurjak | Fruškogorsko vinogorje | Sremski Karlovci | mesto | — |
 | Vinarija MK Kosović | Fruškogorsko vinogorje | Sremski Karlovci | mesto | — |
 | Vinarija Mira | Fruškogorsko vinogorje | Vrdnik | mesto | — |
@@ -813,6 +823,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 |---|---|---|---|---|
 | AE projekt centar | Riđičko vinogorje | Sombor | decanter | — |
 | Dibonis Winery | Palićko vinogorje | Subotica | mesto | — |
+| Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo. | Riđičko vinogorje | Riđica | mesto | — |
 | Maurer | — | — | vivino | Суботичко-Хоргошская пешчара |
 | Max-Ex Doo | Palićko vinogorje | Subotica | mesto | — |
 | Podrum Palić | Palićko vinogorje | Palić | mesto | — |

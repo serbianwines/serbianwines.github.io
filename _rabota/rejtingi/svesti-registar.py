@@ -60,6 +60,28 @@ OTKLONENO = {
              "Шумадији, а Венчац — ещё и гора под Аранђеловцем.",
 }
 
+# Совпадения, подтверждённые руками. Разбор ищет имя хозяйства целиком
+# в имени записи регистра, а регистр пишет юридическое имя — и наше имя
+# в нём иногда не помещается: «Monastery Visoki Dečani» против «Vinica
+# Manastira Visoki Dečani», «Dukay-Sagmeister» против двух отдельных
+# записей. Такие случаи разбираются глазами, по одному, с доказательством.
+PODTVERZHDENO = {
+    "Monastery Visoki Decani  (Манастирско Дечанско)": (
+        ["3712"],
+        "Запись № 3712 — «Vinica Manastira Visoki Dečaniˮ DOO», Велика "
+        "Хоча, Призренски округ. Это винарија самог манастира Високи "
+        "Дечани; другого производителя с этим именем в регистру нет. "
+        "Разбор не свёл их сам: в имени регистра стоит «Manastira», "
+        "а у нас английское «Monastery»."),
+    "Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, "
+    "turizam i ugostiteljstvo.": (
+        ["5326"],
+        "Запись № 5326 — «JELENA MUNIŽABA PR RADNJA ZA PROIZVODNJU "
+        "GROŽĐA I VINA…», Риђица, Западнобачки округ: то же имя и та же "
+        "правовая форма. У нас оно пришло от AWC Vienna без диакритики, "
+        "«Munizaba» вместо «Munižaba», и разбор его не узнал."),
+}
+
 KIRILLICA = [("Њ", "Nj"), ("Љ", "Lj"), ("Џ", "Dž"), ("њ", "nj"), ("љ", "lj"),
              ("џ", "dž"), ("а", "a"), ("б", "b"), ("в", "v"), ("г", "g"),
              ("д", "d"), ("ђ", "đ"), ("е", "e"), ("ж", "ž"), ("з", "z"),
@@ -130,9 +152,17 @@ def main():
         if not trebovaniya:
             schet["имя из одних служебных слов"] += 1
             continue
-        nashlos = [z for z in zapisi
-                   if any(all(w in z["slova"] for w in nuzhno)
-                          for nuzhno in trebovaniya)]
+        podtverzhdeno = PODTVERZHDENO.get(h["hozyaistvo"])
+        if podtverzhdeno:
+            nomera = set(podtverzhdeno[0])
+            nashlos = [z for z in zapisi if z["reg_nomer"] in nomera]
+            if len(nashlos) != len(nomera):
+                sys.exit("подтверждённой руками записи нет в регистре: %s"
+                         % h["hozyaistvo"])
+        else:
+            nashlos = [z for z in zapisi
+                       if any(all(w in z["slova"] for w in nuzhno)
+                              for nuzhno in trebovaniya)]
         if not nashlos:
             schet["в регистре не нашлось"] += 1
             continue
@@ -143,7 +173,12 @@ def main():
                          "naselje": z["naselje"], "okrug": z["okrug"]}
                         for z in nashlos],
         }
-        if h["hozyaistvo"] in OTKLONENO:
+        if podtverzhdeno:
+            zapis["mesto"] = "%s, %s okrug" % (nashlos[0]["naselje"],
+                                               nashlos[0]["okrug"])
+            zapis["zamechanie"] = "подтверждено руками: " + podtverzhdeno[1]
+            schet["подтверждено руками"] += 1
+        elif h["hozyaistvo"] in OTKLONENO:
             zapis["mesto"] = ""
             zapis["zamechanie"] = "отклонено руками: " + OTKLONENO[h["hozyaistvo"]]
             schet["отклонено руками"] += 1

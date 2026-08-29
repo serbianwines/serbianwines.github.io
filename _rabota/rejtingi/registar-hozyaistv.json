@@ -42,19 +42,6 @@
    "mesto": "Dobra Voda, Pomoravski okrug",
    "zamechanie": ""
   },
-  "aglaja": {
-   "hozyaistvo": "Aglaja",
-   "sovpalo": [
-    {
-     "reg_nomer": "84",
-     "nazvanie": "VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO",
-     "naselje": "Karbulovo",
-     "okrug": "Borski"
-    }
-   ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 84 притязают несколько хозяйств: Aglaja, Vinarija Frunza Aglaja"
-  },
   "agrina": {
    "hozyaistvo": "Agrina",
    "sovpalo": [
@@ -704,6 +691,19 @@
    "mesto": "",
    "zamechanie": "записей регистра несколько, и места разные"
   },
+  "jelena-munizaba-radnja-za-proizvodnju-grozda-i-turizam-i-ugostiteljstvo": {
+   "hozyaistvo": "Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo.",
+   "sovpalo": [
+    {
+     "reg_nomer": "5326",
+     "nazvanie": "JELENA MUNIŽABA PR RADNJA ZA PROIZVODNJU GROŽĐA I VINA TURIZAM I UGOSTITELJSTVO RIĐICA",
+     "naselje": "Riđica",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "mesto": "Riđica, Zapadnobački okrug",
+   "zamechanie": "подтверждено руками: Запись № 5326 — «JELENA MUNIŽABA PR RADNJA ZA PROIZVODNJU GROŽĐA I VINA…», Риђица, Западнобачки округ: то же имя и та же правовая форма. У нас оно пришло от AWC Vienna без диакритики, «Munizaba» вместо «Munižaba», и разбор его не узнал."
+  },
   "jelenac": {
    "hozyaistvo": "Jelenac organic",
    "sovpalo": [
@@ -849,8 +849,8 @@
      "okrug": "Sremski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 1089 притязают несколько хозяйств: Kovačević, Vinarija Kovačević D,O,O,"
+   "mesto": "Irig, Sremski okrug",
+   "zamechanie": ""
   },
   "krstasica": {
    "hozyaistvo": "Krstašica Doo",
@@ -1069,19 +1069,6 @@
    "mesto": "Subotica, Severnobački okrug",
    "zamechanie": ""
   },
-  "mcc": {
-   "hozyaistvo": "McC",
-   "sovpalo": [
-    {
-     "reg_nomer": "4206",
-     "nazvanie": "Mcc McCulloch wines DOO NOVI SAD",
-     "naselje": "Novi Sad",
-     "okrug": "Južnobački"
-    }
-   ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 4206 притязают несколько хозяйств: McC, Mcculloch Wines"
-  },
   "mcculloch": {
    "hozyaistvo": "Mcculloch Wines",
    "sovpalo": [
@@ -1092,8 +1079,8 @@
      "okrug": "Južnobački"
     }
    ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 4206 притязают несколько хозяйств: McC, Mcculloch Wines"
+   "mesto": "Novi Sad, Južnobački okrug",
+   "zamechanie": ""
   },
   "mikic": {
    "hozyaistvo": "Mikić",
@@ -1228,6 +1215,19 @@
    ],
    "mesto": "Šid, Sremski okrug",
    "zamechanie": ""
+  },
+  "visoki-decani": {
+   "hozyaistvo": "Monastery Visoki Decani  (Манастирско Дечанско)",
+   "sovpalo": [
+    {
+     "reg_nomer": "3712",
+     "nazvanie": "„Vinica Manastira Visoki Dečaniˮ DOO, Velika Hoča",
+     "naselje": "Velika Hoča",
+     "okrug": "Prizrenski"
+    }
+   ],
+   "mesto": "Velika Hoča, Prizrenski okrug",
+   "zamechanie": "подтверждено руками: Запись № 3712 — «Vinica Manastira Visoki Dečaniˮ DOO», Велика Хоча, Призренски округ. Это винарија самог манастира Високи Дечани; другого производителя с этим именем в регистру нет. Разбор не свёл их сам: в имени регистра стоит «Manastira», а у нас английское «Monastery»."
   },
   "moravski-val": {
    "hozyaistvo": "Moravski Val",
@@ -1706,21 +1706,8 @@
      "okrug": "Sremski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 4211 притязают несколько хозяйств: Probus Vineyards, Probus Vineyards CCLXXX"
-  },
-  "probus-cclxxx": {
-   "hozyaistvo": "Probus Vineyards CCLXXX",
-   "sovpalo": [
-    {
-     "reg_nomer": "4211",
-     "nazvanie": "PROBUS VINEYARDS CCLXXX DOO VELIKI RADNICI",
-     "naselje": "Veliki Radinci",
-     "okrug": "Sremski"
-    }
-   ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 4211 притязают несколько хозяйств: Probus Vineyards, Probus Vineyards CCLXXX"
+   "mesto": "Veliki Radinci, Sremski okrug",
+   "zamechanie": ""
   },
   "prokupac": {
    "hozyaistvo": "Prokupac",
@@ -2702,8 +2689,8 @@
      "okrug": "Borski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 84 притязают несколько хозяйств: Aglaja, Vinarija Frunza Aglaja"
+   "mesto": "Karbulovo, Borski okrug",
+   "zamechanie": ""
   },
   "gnezdo": {
    "hozyaistvo": "Vinarija Gnezdo",
@@ -2801,19 +2788,6 @@
    ],
    "mesto": "Inđija, Sremski okrug",
    "zamechanie": ""
-  },
-  "kovacevic-d-o-o": {
-   "hozyaistvo": "Vinarija Kovačević D,O,O,",
-   "sovpalo": [
-    {
-     "reg_nomer": "1089",
-     "nazvanie": "Vinarija Kovačević DOO Irig",
-     "naselje": "Irig",
-     "okrug": "Sremski"
-    }
-   ],
-   "mesto": "",
-   "zamechanie": "на запись регистра № 1089 притязают несколько хозяйств: Kovačević, Vinarija Kovačević D,O,O,"
   },
   "kurjak": {
    "hozyaistvo": "Vinarija Kurjak",
@@ -3609,8 +3583,21 @@
    "mesto": "Riđica, Zapadnobački okrug",
    "zamechanie": ""
   },
+  "zdrnja": {
+   "hozyaistvo": "Vinarija Ždrnja",
+   "sovpalo": [
+    {
+     "reg_nomer": "6992",
+     "nazvanie": "BILJANA ŽDRNJA PR PROIZVODNJA VINA VINARIJA ŽDRNJA TEMERIN",
+     "naselje": "Temerin",
+     "okrug": "Južnobački"
+    }
+   ],
+   "mesto": "Temerin, Južnobački okrug",
+   "zamechanie": ""
+  },
   "vinarium": {
-   "hozyaistvo": "Vinarium",
+   "hozyaistvo": "Vinarium winery",
    "sovpalo": [
     {
      "reg_nomer": "1851",
@@ -4239,19 +4226,6 @@
     }
    ],
    "mesto": "Tamnič, Borski okrug",
-   "zamechanie": ""
-  },
-  "винари-а-манастира-буково": {
-   "hozyaistvo": "Винарија Манастира Буково",
-   "sovpalo": [
-    {
-     "reg_nomer": "724",
-     "nazvanie": "Vinarija manastira Bukovo DOO Negotin",
-     "naselje": "Negotin",
-     "okrug": "Borski"
-    }
-   ],
-   "mesto": "Negotin, Borski okrug",
    "zamechanie": ""
   },
   "винари-а-манастира-студеница": {

@@ -16,7 +16,6 @@ adora-merlot-cabernet,Adora,Merlot - Cabernet,7648679,https://www.vivino.com/w/7
 adora-rose,Adora,Rosé,8028846,https://www.vivino.com/w/8028846,malo_ocenok,False,False
 adora-shiraz-grenache,Adora,Shiraz - Grenache,11108820,https://www.vivino.com/w/11108820,malo_ocenok,False,False
 adora-edition,Adora,Édition,9793254,https://www.vivino.com/w/9793254,malo_ocenok,False,False
-aglaja-cabernet-sauvignon,Aglaja,Cabernet Sauvignon,,,net_na_vivino,False,True
 agrina-portuguiser,Agrina,Portuguiser,1556005,https://www.vivino.com/w/1556005,ocenka_est,False,False
 alaska-barka-rose,Alaska Barka,Rosé,3953438,https://www.vivino.com/w/3953438,malo_ocenok,False,False
 alchemy-merlot,Alchemy Winery,Merlot,12113050,https://www.vivino.com/w/12113050,malo_ocenok,False,False
@@ -994,7 +993,7 @@ kovacevic-rosetto-2015-vinarija-kovacevic,Kovačević,Rosetto 2015 Vinarija Kova
 kovacevic-s-edition-aurelius,Kovačević,S Edition Aurelius,,,net_na_vivino,True,True
 kovacevic-s-edition-chardonnay,Kovačević,S Edition Chardonnay,,,net_na_vivino,False,True
 kovacevic-s-edition-sauvignon,Kovačević,S Edition Sauvignon,,,net_na_vivino,False,True
-kovacevic-sauvignon,Kovačević,Sauvignon,4016235,https://www.vivino.com/w/4016235,ocenka_est,False,False
+kovacevic-sauvignon,Kovačević,Sauvignon,4016235,https://www.vivino.com/w/4016235,ocenka_est,False,True
 kovacevic-sauvignon-s-edicija,Kovačević,Sauvignon S Edicija,,,net_na_vivino,False,False
 kovacevic-simfonija-bermet-beli,Kovačević,Simfonija Bermet Beli,9170651,https://www.vivino.com/w/9170651,malo_ocenok,False,False
 krstasica-chardonnay,Krstašica Doo,Chardonnay,12327739,https://www.vivino.com/w/12327739,malo_ocenok,False,False
@@ -1269,16 +1268,14 @@ mackov-mirisavi-traminac,Mačkov podrum,Mirisavi Traminac,2684755,https://www.vi
 mackov-pinot-noir,Mačkov podrum,Pinot Noir,2428681,https://www.vivino.com/w/2428681,ocenka_est,False,False
 mackov-portugizer,Mačkov podrum,Portugizer,3088176,https://www.vivino.com/w/3088176,ocenka_est,False,False
 mackov-sauvignon-blanc,Mačkov podrum,Sauvignon Blanc,4451480,https://www.vivino.com/w/4451480,ocenka_est,False,True
-mcc-coupage,McC,Coupage,,,net_na_vivino,False,False
 mcculloch-cabernet-sauvignon-cabernet-franc,Mcculloch Wines,Cabernet Sauvignon - Cabernet Franc,9673108,https://www.vivino.com/w/9673108,malo_ocenok,False,False
 mcculloch-coupage,Mcculloch Wines,Coupage,6539186,https://www.vivino.com/w/6539186,ocenka_est,False,False
-mcculloch-mcc-traminac,Mcculloch Wines,Mcc Traminac,,,net_na_vivino,False,True
 mcculloch-merlot-malbec,Mcculloch Wines,Merlot - Malbec,2598832,https://www.vivino.com/w/2598832,ocenka_est,False,False
 mcculloch-pinot-noir,Mcculloch Wines,Pinot Noir,2120595,https://www.vivino.com/w/2120595,ocenka_est,False,False
 mcculloch-rajnski-riesling,Mcculloch Wines,Rajnski Riesling,4572360,https://www.vivino.com/w/4572360,ocenka_est,False,False
 mcculloch-sauvignon-blanc,Mcculloch Wines,Sauvignon Blanc,9481592,https://www.vivino.com/w/9481592,malo_ocenok,False,False
 mcculloch-seka,Mcculloch Wines,Seka,12996984,https://www.vivino.com/w/12996984,malo_ocenok,False,False
-mcculloch-traminac,Mcculloch Wines,Traminac,5127162,https://www.vivino.com/w/5127162,ocenka_est,False,False
+mcculloch-traminac,Mcculloch Wines,Traminac,5127162,https://www.vivino.com/w/5127162,ocenka_est,False,True
 mihajlovacko-codrum-vina-dajit-gamay-kvalitetno-suvo-crveno,Mihajlovacko,Codrum Vina Dajit Gamay Kvalitetno Suvo Crveno,1973210,https://www.vivino.com/w/1973210,malo_ocenok,False,False
 mikic-bagrina,Mikić,Bagrina,12618440,https://www.vivino.com/w/12618440,malo_ocenok,False,True
 mikic-chardonnay,Mikić,Chardonnay,7950952,https://www.vivino.com/w/7950952,malo_ocenok,False,True
@@ -2519,11 +2516,10 @@ frug-signum-syrah,Vinarija Frug,Signum Syrah,,,net_na_vivino,False,True
 frug-syrah-signum,Vinarija Frug,Syrah Signum,12921850,https://www.vivino.com/w/12921850,ocenka_est,False,False
 frunza-aglaja-aglaja-bagrina,Vinarija Frunza Aglaja,Aglaja Bagrina,13903789,https://www.vivino.com/w/13903789,malo_ocenok,False,False
 frunza-aglaja-aglaja-bagrina-aglada-bagrina,Vinarija Frunza Aglaja,Aglaja Bagrina (Аглада Багрина ),13904986,https://www.vivino.com/w/13904986,malo_ocenok,False,False
-frunza-aglaja-aglaja-cabernet-sauvignon,Vinarija Frunza Aglaja,Aglaja Cabernet Sauvignon,,,net_na_vivino,False,True
-frunza-aglaja-aglaja-dantelle-cabernet-sauvignon,Vinarija Frunza Aglaja,Aglaja Dantelle Cabernet Sauvignon,,,net_na_vivino,False,True
-frunza-aglaja-aglaja-sauvignon-semillon,Vinarija Frunza Aglaja,Aglaja Sauvignon-Semillon,,,net_na_vivino,False,True
 frunza-aglaja-cabernet-sauvignon,Vinarija Frunza Aglaja,Cabernet Sauvignon,6310319,https://www.vivino.com/w/6310319,ocenka_est,False,True
+frunza-aglaja-dantelle-cabernet-sauvignon,Vinarija Frunza Aglaja,Dantelle Cabernet Sauvignon,,,net_na_vivino,False,True
 frunza-aglaja-dentelle,Vinarija Frunza Aglaja,Dentelle,,,net_na_vivino,False,True
+frunza-aglaja-sauvignon-semillon,Vinarija Frunza Aglaja,Sauvignon-Semillon,,,net_na_vivino,False,True
 frunza-aglaja-l-j-cabernet-sauvignon,Vinarija Frunza Aglaja,ΑΓЛΑЈΑ Cabernet Sauvignon,5909950,https://www.vivino.com/w/5909950,ocenka_est,False,False
 frunza-aglaja-l-j-roze,Vinarija Frunza Aglaja,ΑΓЛΑЈΑ РОЗЕ,6398588,https://www.vivino.com/w/6398588,malo_ocenok,False,False
 frunza-aglaja-aglaja-dentelle-cabernet-sauvignon,Vinarija Frunza Aglaja,Аглаjа Dentelle Cabernet Sauvignon,6435347,https://www.vivino.com/w/6435347,ocenka_est,False,False
@@ -2655,7 +2651,6 @@ komazec-palava,Vinarija Komazec,Palava,6896905,https://www.vivino.com/w/6896905,
 komazec-petra,Vinarija Komazec,Petra,12994494,https://www.vivino.com/w/12994494,malo_ocenok,False,False
 komazec-rose,Vinarija Komazec,Rose,7097887,https://www.vivino.com/w/7097887,malo_ocenok,False,True
 komazec-sila,Vinarija Komazec,Sila,13054489,https://www.vivino.com/w/13054489,malo_ocenok,False,False
-kovacevic-d-o-o-kovacevic-sauvignon,"Vinarija Kovačević D,O,O,",Kovačević Sauvignon,,,net_na_vivino,False,True
 krajina-rajac-crna-tamjanika,Vinarija Krajina Rajac,Crna Tamjanika,7256981,https://www.vivino.com/w/7256981,malo_ocenok,False,False
 krajina-rajac-kaberne-sovinjon,Vinarija Krajina Rajac,Kaberne Sovinjon,11186821,https://www.vivino.com/w/11186821,malo_ocenok,False,False
 krajina-rajac-rajski-dar,Vinarija Krajina Rajac,Rajski Dar,11726011,https://www.vivino.com/w/11726011,malo_ocenok,False,False

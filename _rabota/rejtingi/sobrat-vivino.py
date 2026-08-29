@@ -164,6 +164,11 @@ def vina_hozyaistva(hozyaistvo):
             "vino": v.get("name") or "",
             "ocenka": st.get("ratings_average"),
             "chislo_ocenok": st.get("ratings_count"),
+            # Сколько человек сфотографировали этикетку. Это не качество,
+            # а охват: сколько людей вообще брали бутылку в руки. Величина
+            # своя и полезная — у самых ходовых сербских вин она в двести
+            # раз больше медианы, и с баллом почти не связана.
+            "etiketok": st.get("labels_count"),
             "urozhaev": st.get("vintages_count"),
             "vid": VIDY.get(v.get("type_id"), ""),
             "region_vivino": region.get("name") or "",

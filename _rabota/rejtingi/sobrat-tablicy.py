@@ -96,6 +96,7 @@ def vivino_iz_api():
             "vino": z["vino"],
             "ocenka": z.get("ocenka"),
             "chislo_ocenok": z.get("chislo_ocenok"),
+            "etiketok": z.get("etiketok"),
             "stranica": ("w/%s" % z["id_vina"]) if z.get("id_vina") else "",
             "id_vina": z.get("id_vina"),
             "iz_api": True,
@@ -640,9 +641,13 @@ def main():
                 "vivino_status": ("ocenka_est"
                                   if chislo_ili_nichego(z.get("ocenka"))
                                   else "malo_ocenok"),
+                # Охват: сколько человек сфотографировали этикетку.
+                "etiketok": chislo_ili_nichego(z.get("etiketok")),
                 "v_knige": v_knige_vino(z["vino"]),
                 "est_u_kritikov": False,
             }
+        elif not vidano[k].get("etiketok") and z.get("etiketok"):
+            vidano[k]["etiketok"] = chislo_ili_nichego(z.get("etiketok"))
         elif vivino_id and not vidano[k]["vivino_id"]:
             vidano[k]["vivino_id"] = vivino_id
             vidano[k]["vivino_adres"] = adres
@@ -658,6 +663,7 @@ def main():
                 "vivino_id": None,
                 "vivino_adres": "",
                 "vivino_status": "net_na_vivino",
+                "etiketok": None,
                 "v_knige": v_knige_vino(z["vino"]),
                 "est_u_kritikov": False,
             }
@@ -671,6 +677,7 @@ def main():
                 "vivino_id": None,
                 "vivino_adres": "",
                 "vivino_status": "net_na_vivino",
+                "etiketok": None,
                 "v_knige": v_knige_vino(z["vino"]),
                 "est_u_kritikov": True,
             }

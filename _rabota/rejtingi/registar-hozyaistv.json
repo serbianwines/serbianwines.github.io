@@ -429,6 +429,49 @@
    "mesto": "Stara Moravica, Severnobački okrug",
    "zamechanie": ""
   },
+  "dordevic": {
+   "hozyaistvo": "Djordjevic Estate Winery",
+   "sovpalo": [
+    {
+     "reg_nomer": "4107",
+     "nazvanie": "Miladin Đorđević PR, PTR \"VINARIJA ĐORĐEVIĆ\", Vitkovo",
+     "naselje": "Vitkovo",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "7163",
+     "nazvanie": "Boris Đorđević PR Vinski Podrum Duja Novaci - Aleksandrovac",
+     "naselje": "Novaci",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "4202",
+     "nazvanie": "Radovan Đorđević PR, proizvodnja vina \"PODRUM ČOKOT\", Starci",
+     "naselje": "Starci",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "7040",
+     "nazvanie": "Đorđević Estate Winery DOO",
+     "naselje": "Lapovo (varošica)",
+     "okrug": "Šumadijski"
+    },
+    {
+     "reg_nomer": "6304",
+     "nazvanie": "Tatjana Đorđević PR proizvodnja vina od grožđa Vinarija Kovančina Obrenovac",
+     "naselje": "Mislođin",
+     "okrug": "Beograd"
+    },
+    {
+     "reg_nomer": "6409",
+     "nazvanie": "Nikola Đorđević PR proizvodnja vina od grožđa \"DIVIN VINARIJA\" Divoš",
+     "naselje": "Divoš",
+     "okrug": "Sremski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "записей регистра несколько, и места разные"
+  },
   "do-kraja-sveta": {
    "hozyaistvo": "Do Kraja Sveta",
    "sovpalo": [
@@ -635,6 +678,19 @@
    "mesto": "",
    "zamechanie": "записей регистра несколько, и места разные"
   },
+  "jelenac": {
+   "hozyaistvo": "Jelenac organic",
+   "sovpalo": [
+    {
+     "reg_nomer": "5786",
+     "nazvanie": "Jelenac organic d.o.o. Jelenac",
+     "naselje": "Topola (Varošica)",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "mesto": "Topola (Varošica), Šumadijski okrug",
+   "zamechanie": ""
+  },
   "jovic": {
    "hozyaistvo": "Jović",
    "sovpalo": [
@@ -723,6 +779,19 @@
     }
    ],
    "mesto": "Sremski Karlovci, Južnobački okrug",
+   "zamechanie": ""
+  },
+  "komuna": {
+   "hozyaistvo": "Komuna Vinarija",
+   "sovpalo": [
+    {
+     "reg_nomer": "4068",
+     "nazvanie": "Nebojša Vlahović PR, Radnja za proizvodnju vina od grožđa \"Vinarija Komuna\", Rivica",
+     "naselje": "Irig",
+     "okrug": "Sremski"
+    }
+   ],
+   "mesto": "Irig, Sremski okrug",
    "zamechanie": ""
   },
   "koreni": {
@@ -1142,7 +1211,7 @@
    "zamechanie": ""
   },
   "pik-oplenac": {
-   "hozyaistvo": "PIK Oplenac",
+   "hozyaistvo": "PIK OPLENAC",
    "sovpalo": [
     {
      "reg_nomer": "4067",
@@ -1543,49 +1612,6 @@
    "mesto": "",
    "zamechanie": "адрес столичный (Beograd - Stari Grad) — это контора, не виноградник"
   },
-  "dordevic": {
-   "hozyaistvo": "Podrum Đorđević",
-   "sovpalo": [
-    {
-     "reg_nomer": "4107",
-     "nazvanie": "Miladin Đorđević PR, PTR \"VINARIJA ĐORĐEVIĆ\", Vitkovo",
-     "naselje": "Vitkovo",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "7163",
-     "nazvanie": "Boris Đorđević PR Vinski Podrum Duja Novaci - Aleksandrovac",
-     "naselje": "Novaci",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "4202",
-     "nazvanie": "Radovan Đorđević PR, proizvodnja vina \"PODRUM ČOKOT\", Starci",
-     "naselje": "Starci",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "7040",
-     "nazvanie": "Đorđević Estate Winery DOO",
-     "naselje": "Lapovo (varošica)",
-     "okrug": "Šumadijski"
-    },
-    {
-     "reg_nomer": "6304",
-     "nazvanie": "Tatjana Đorđević PR proizvodnja vina od grožđa Vinarija Kovančina Obrenovac",
-     "naselje": "Mislođin",
-     "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "6409",
-     "nazvanie": "Nikola Đorđević PR proizvodnja vina od grožđa \"DIVIN VINARIJA\" Divoš",
-     "naselje": "Divoš",
-     "okrug": "Sremski"
-    }
-   ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
-  },
   "sukac": {
    "hozyaistvo": "Podrum Šukac",
    "sovpalo": [
@@ -1735,6 +1761,51 @@
    "mesto": "Crnomasnica, Borski okrug",
    "zamechanie": ""
   },
+  "raj": {
+   "hozyaistvo": "Raj",
+   "sovpalo": [
+    {
+     "reg_nomer": "4194",
+     "nazvanie": "\"Vinarija Raj\" DOO Rajac",
+     "naselje": "Rajac",
+     "okrug": "Borski"
+    }
+   ],
+   "mesto": "Rajac, Borski okrug",
+   "zamechanie": ""
+  },
+  "rajkovic-office": {
+   "hozyaistvo": "Rajković wine office",
+   "sovpalo": [
+    {
+     "reg_nomer": "8",
+     "nazvanie": "MILUNKA RAJKOVIĆ PR VINARIJA RAJKOVIĆ WINE OFFICE NOVACI",
+     "naselje": "Novaci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "mesto": "Novaci, Rasinski okrug",
+   "zamechanie": ""
+  },
+  "rakicevic": {
+   "hozyaistvo": "Rakicevic",
+   "sovpalo": [
+    {
+     "reg_nomer": "78",
+     "nazvanie": "Bratislav Rakićević preduzetnik, proizvodna radnja Vinska kuća Rakićević Velja Glava",
+     "naselje": "Velja Glava",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "7056",
+     "nazvanie": "MARKO RAKIĆEVIĆ PR PROIZVODNJA VINA VINARIJA GERASIM LJUBINCI",
+     "naselje": "Ljubinci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "записей регистра несколько, и места разные"
+  },
   "ralevic": {
    "hozyaistvo": "Ralević",
    "sovpalo": [
@@ -1746,19 +1817,6 @@
     }
    ],
    "mesto": "Glavica, Pomoravski okrug",
-   "zamechanie": ""
-  },
-  "rnjak": {
-   "hozyaistvo": "Rnjak",
-   "sovpalo": [
-    {
-     "reg_nomer": "4109",
-     "nazvanie": "LJILJANA RNJAK PR PROIZVODNJA VINA „VINARIJA RNJAKˮ GUDURICA",
-     "naselje": "Gudurica",
-     "okrug": "Južnobanatski"
-    }
-   ],
-   "mesto": "Gudurica, Južnobanatski okrug",
    "zamechanie": ""
   },
   "rubin": {
@@ -1866,7 +1924,7 @@
    "zamechanie": ""
   },
   "stemina": {
-   "hozyaistvo": "Stemina",
+   "hozyaistvo": "Stemina winery",
    "sovpalo": [
     {
      "reg_nomer": "4112",
@@ -1928,19 +1986,6 @@
     }
    ],
    "mesto": "Mala Remeta, Sremski okrug",
-   "zamechanie": ""
-  },
-  "toplicki": {
-   "hozyaistvo": "Toplički Vinogradi",
-   "sovpalo": [
-    {
-     "reg_nomer": "1",
-     "nazvanie": "„Toplički vinogradiˮ DOO Gojinovac",
-     "naselje": "Gojinovac",
-     "okrug": "Toplički"
-    }
-   ],
-   "mesto": "Gojinovac, Toplički okrug",
    "zamechanie": ""
   },
   "trasko": {
@@ -2025,6 +2070,19 @@
     }
    ],
    "mesto": "Vraneši, Raški okrug",
+   "zamechanie": ""
+  },
+  "rnjak": {
+   "hozyaistvo": "VINARIJA RNJAK",
+   "sovpalo": [
+    {
+     "reg_nomer": "4109",
+     "nazvanie": "LJILJANA RNJAK PR PROIZVODNJA VINA „VINARIJA RNJAKˮ GUDURICA",
+     "naselje": "Gudurica",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "mesto": "Gudurica, Južnobanatski okrug",
    "zamechanie": ""
   },
   "varina": {
@@ -2472,6 +2530,19 @@
    "mesto": "Lipovac, Šumadijski okrug",
    "zamechanie": ""
   },
+  "durdic": {
+   "hozyaistvo": "Vinarija Djurdjic",
+   "sovpalo": [
+    {
+     "reg_nomer": "2067",
+     "nazvanie": "Dražen Đurđić PR, Vinarija za proizvodnju i preradu grožđa i proizvodnju vina Đurđić, Sremski Karlovci",
+     "naselje": "Sremski Karlovci",
+     "okrug": "Južnobački"
+    }
+   ],
+   "mesto": "Sremski Karlovci, Južnobački okrug",
+   "zamechanie": ""
+  },
   "dumo": {
    "hozyaistvo": "Vinarija Dumo",
    "sovpalo": [
@@ -2645,19 +2716,6 @@
     }
    ],
    "mesto": "Inđija, Sremski okrug",
-   "zamechanie": ""
-  },
-  "komuna": {
-   "hozyaistvo": "Vinarija Komuna",
-   "sovpalo": [
-    {
-     "reg_nomer": "4068",
-     "nazvanie": "Nebojša Vlahović PR, Radnja za proizvodnju vina od grožđa \"Vinarija Komuna\", Rivica",
-     "naselje": "Irig",
-     "okrug": "Sremski"
-    }
-   ],
-   "mesto": "Irig, Sremski okrug",
    "zamechanie": ""
   },
   "kurjak": {
@@ -2926,7 +2984,7 @@
    "zamechanie": ""
   },
   "radlovic": {
-   "hozyaistvo": "Vinarija Radlović",
+   "hozyaistvo": "Vinarija Radlović doo",
    "sovpalo": [
     {
      "reg_nomer": "5795",
@@ -2936,19 +2994,6 @@
     }
    ],
    "mesto": "Mokrin, Severnobanatski okrug",
-   "zamechanie": ""
-  },
-  "raj": {
-   "hozyaistvo": "Vinarija Raj",
-   "sovpalo": [
-    {
-     "reg_nomer": "4194",
-     "nazvanie": "\"Vinarija Raj\" DOO Rajac",
-     "naselje": "Rajac",
-     "okrug": "Borski"
-    }
-   ],
-   "mesto": "Rajac, Borski okrug",
    "zamechanie": ""
   },
   "rajic": {
@@ -3044,6 +3089,19 @@
     }
    ],
    "mesto": "Gudurica, Južnobanatski okrug",
+   "zamechanie": ""
+  },
+  "slatina": {
+   "hozyaistvo": "Vinarija Slatina",
+   "sovpalo": [
+    {
+     "reg_nomer": "7306",
+     "nazvanie": "Two Bricks DOO BEOGRAD OGRANAK VINARIJA SLATINA ALEKSANDROVAC",
+     "naselje": "Lesenovci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "mesto": "Lesenovci, Rasinski okrug",
    "zamechanie": ""
   },
   "smiljkovic-90": {
@@ -3168,6 +3226,19 @@
    "mesto": "Rošci, Moravički okrug",
    "zamechanie": ""
   },
+  "toplicki": {
+   "hozyaistvo": "Vinarija Toplički Vinogradi",
+   "sovpalo": [
+    {
+     "reg_nomer": "1",
+     "nazvanie": "„Toplički vinogradiˮ DOO Gojinovac",
+     "naselje": "Gojinovac",
+     "okrug": "Toplički"
+    }
+   ],
+   "mesto": "Gojinovac, Toplički okrug",
+   "zamechanie": ""
+  },
   "unikat": {
    "hozyaistvo": "Vinarija Unikat",
    "sovpalo": [
@@ -3179,6 +3250,19 @@
     }
    ],
    "mesto": "Požarevac, Braničevski okrug",
+   "zamechanie": ""
+  },
+  "vrt": {
+   "hozyaistvo": "Vinarija VRT",
+   "sovpalo": [
+    {
+     "reg_nomer": "4129",
+     "nazvanie": "GABRIJELA TRIPKOVIĆ PR PROIZVODNJA VINA I UGOSTITELJSKA RADNJA VINARIJA VRT 2011 SOMBOR",
+     "naselje": "Sombor",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "mesto": "Sombor, Zapadnobački okrug",
    "zamechanie": ""
   },
   "val-dov": {
@@ -3379,7 +3463,7 @@
    "zamechanie": ""
   },
   "dorde": {
-   "hozyaistvo": "Vinarija Đorđe",
+   "hozyaistvo": "Vinarija ĐORĐE",
    "sovpalo": [
     {
      "reg_nomer": "468",
@@ -3415,19 +3499,6 @@
    "mesto": "",
    "zamechanie": "записей регистра несколько, и места разные"
   },
-  "durdic": {
-   "hozyaistvo": "Vinarija Đurđić",
-   "sovpalo": [
-    {
-     "reg_nomer": "2067",
-     "nazvanie": "Dražen Đurđić PR, Vinarija za proizvodnju i preradu grožđa i proizvodnju vina Đurđić, Sremski Karlovci",
-     "naselje": "Sremski Karlovci",
-     "okrug": "Južnobački"
-    }
-   ],
-   "mesto": "Sremski Karlovci, Južnobački okrug",
-   "zamechanie": ""
-  },
   "sijacki": {
    "hozyaistvo": "Vinarija Šijački",
    "sovpalo": [
@@ -3439,6 +3510,19 @@
     }
    ],
    "mesto": "Banoštor, Južnobački okrug",
+   "zamechanie": ""
+  },
+  "sveljo": {
+   "hozyaistvo": "Vinarija Šveljo",
+   "sovpalo": [
+    {
+     "reg_nomer": "5343",
+     "nazvanie": "Jasmina Šveljo PR, proizvodnja i prodaja vina od grožđa \"VINARIJA ŠVELJO\", Riđica",
+     "naselje": "Riđica",
+     "okrug": "Zapadnobački"
+    }
+   ],
+   "mesto": "Riđica, Zapadnobački okrug",
    "zamechanie": ""
   },
   "vinarium": {
@@ -3487,7 +3571,7 @@
    "zamechanie": ""
   },
   "vindulo": {
-   "hozyaistvo": "Vindulo",
+   "hozyaistvo": "Vindulo d.o.o.",
    "sovpalo": [
     {
      "reg_nomer": "29",
@@ -3575,6 +3659,25 @@
    ],
    "mesto": "",
    "zamechanie": "адрес столичный (Beograd - Voždovac) — это контора, не виноградник"
+  },
+  "i-miletic": {
+   "hozyaistvo": "Vinogradi i vinarija Miletić",
+   "sovpalo": [
+    {
+     "reg_nomer": "4093",
+     "nazvanie": "Slađana Miletić PR, Proizvodna radnja \"PODRUM MILETIĆ\", Laćisled",
+     "naselje": "Laćisled",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "436",
+     "nazvanie": "Marija Miletić-Simić PR SZR „Vinogradi i vinarija Miletićˮ Oparić",
+     "naselje": "Oparić",
+     "okrug": "Pomoravski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "записей регистра несколько, и места разные"
   },
   "vinokratija": {
    "hozyaistvo": "Vinokratija",
@@ -3925,19 +4028,6 @@
     }
    ],
    "mesto": "Aleksandrovac, Rasinski okrug",
-   "zamechanie": ""
-  },
-  "sveljo": {
-   "hozyaistvo": "Šveljo",
-   "sovpalo": [
-    {
-     "reg_nomer": "5343",
-     "nazvanie": "Jasmina Šveljo PR, proizvodnja i prodaja vina od grožđa \"VINARIJA ŠVELJO\", Riđica",
-     "naselje": "Riđica",
-     "okrug": "Zapadnobački"
-    }
-   ],
-   "mesto": "Riđica, Zapadnobački okrug",
    "zamechanie": ""
   },
   "zarkovic": {

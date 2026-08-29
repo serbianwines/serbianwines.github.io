@@ -559,8 +559,14 @@ def po_mestu(gde, karty):
     for uroven in UROVNI:
         nashlos = popadaniya(uroven)
         rejony = {p[0] for p, _ in nashlos}
-        if len(rejony) != 1:
-            continue
+        if not rejony:
+            continue                      # на этом уровне место не названо
+        if len(rejony) > 1:
+            # Уровень ответил, но двумя ответами сразу: община Сомбор
+            # лежит и в Телечком, и в Суботичком, и в Рејону Бачка.
+            # Спускаться ниже тут нельзя — нижний уровень слабее, и его
+            # единственный ответ будет не решением, а догадкой.
+            return None, None, ""
         rejon = rejony.pop()
         # Рејон найден. Виногорје ищется отдельно и уже внутри него:
         # уровень общины виногорја не знает вовсе, а село знает — так
@@ -571,6 +577,25 @@ def po_mestu(gde, karty):
                 vinogorja.pop() if len(vinogorja) == 1 else None,
                 nashlos[0][1])
     return None, None, ""
+
+
+def rejony_mesta(gde, karty):
+    """Рејоны, между которыми место не решает.
+
+    Рејонизација делит иные общины между рејонима: Кањижа лежит и в
+    Потиском, и в Суботичком, Зрењанин — в Банатском и Потиском, Сомбор
+    сразу в трёх. Ставить один из них наугад нельзя, но и молчать не
+    стоит: короткий список — это знание.
+    """
+    if not gde:
+        return []
+    kusky = kandidaty(gde)
+    for uroven in UROVNI:
+        rejony = {para[0] for kus in kusky
+                  for para in karty[uroven].get(klyuch_mesta(kus), ())}
+        if rejony:
+            return sorted(rejony)
+    return []
 
 
 def main():
@@ -702,8 +727,18 @@ def main():
             if len(regiony) == 1:
                 region = regiony.pop()
             kand = sorted({r for x in pok for r in (x.get("kandidaty") or [])})
+            # Место названо, но само по себе рејона не решает — община
+            # поделена между рејонима. Тогда кандидаты берутся от него.
+            if not kand:
+                kand = [r for r in rejony_mesta(gde, karty)]
+                if len(kand) < 2:
+                    kand = []
             if kand and not raznoglasie:
                 raznoglasie = "рејон один из: " + "; ".join(kand)
+                if not region:
+                    regiony = {po_rejonu.get(r, {}).get("region") for r in kand}
+                    if len(regiony) == 1:
+                        region = regiony.pop()
 
         itog[k] = {
             "hozyaistvo": imya_po_klyuchu.get(k, k),

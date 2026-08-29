@@ -105,17 +105,17 @@ Boemi, — и на них приходится больше четырёхсот
 
 | Рејон | Прошло вин | Хозяйств |
 |---|---|---|
-| Sremski rejon | 211 | 45 |
-| Šumadijski rejon | 146 | 20 |
+| Sremski rejon | 212 | 46 |
+| Šumadijski rejon | 148 | 21 |
 | Rejon Tri Morave | 134 | 33 |
-| рејон не установлен | 74 | 31 |
+| рејон не установлен | 68 | 27 |
 | Subotički rejon | 56 | 8 |
 | Rejon Negotinska Krajina | 48 | 11 |
 | Beogradski rejon | 24 | 7 |
 | Vranjski rejon | 17 | 2 |
 | Toplički rejon | 16 | 3 |
-| Mlavski rejon | 13 | 3 |
-| Južnobanatski rejon | 11 | 3 |
+| Mlavski rejon | 15 | 4 |
+| Južnobanatski rejon | 12 | 4 |
 | Knjaževački rejon | 8 | 3 |
 | Pocersko Valjevski Rejon | 8 | 4 |
 | Niški rejon | 7 | 3 |
@@ -284,7 +284,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Bajilo | Sremski rejon | 1 |
 | Chicha | — | 2 |
 | Dalia | Rejon Negotinska Krajina | 3 |
-| Djordjevic Estate Winery | — | 2 |
+| Djordjevic Estate Winery | Šumadijski rejon | 2 |
 | Francuska Vinarija - Estelle et Cyrille Bongiraud | Rejon Negotinska Krajina | 2 |
 | Podrum Madžić | Šumadijski rejon | 2 |
 | Podrum Panajotovic | — | 1 |
@@ -300,7 +300,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Coka | Potiski rejon | 2 |
 | Vinarija Grumen | Sremski rejon | 1 |
 | Vinarija Todorović | Knjaževački rejon | 3 |
-| Vinska Kuća Rajić | — | 1 |
+| Vinska Kuća Rajić | Južnobanatski rejon | 1 |
 | Vršački Vinogradi | — | 2 |
 | Амбелос Винарија (Ambelos Winery) | Šumadijski rejon | 1 |
 | Винарија Живковића (Vinarija Živkovića-Tržac) | Rejon Tri Morave | 1 |
@@ -382,7 +382,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Panjković | Beogradski rejon | 3.9 | 0 |
 | Vinarija Piano | Rejon Tri Morave | 3.7 | 0 |
 | Vinarija Podrum Danguba | Sremski rejon | — | 9 |
-| Vinarija Rajić | Južnobanatski rejon | — | 4 |
+| Vinarija Rajić | Rejon Tri Morave | — | 4 |
 | Vinarija Salaš Naš | Subotički rejon | 3.6 | 0 |
 | Vinarija Selecta | Južnobanatski rejon | 3.2 | 0 |
 | Vinarija Slatina | Rejon Tri Morave | — | 2 |
@@ -394,7 +394,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Vojnović | — | 3.9 | 0 |
 | Vinarija Vrbica | Šumadijski rejon | 3.8 | 0 |
 | Vinarija Zaba | Subotički rejon | — | 1 |
-| Vinarija ĐORĐE | — | 3.7 | 4 |
+| Vinarija ĐORĐE | Južnobanatski rejon | 3.7 | 4 |
 | Vinarija Šveljo | Subotički rejon | — | 2 |
 | Vinarija Ždrnja | Rejon Bačka | — | 1 |
 | Vindulo d.o.o. | Rejon Bačka | — | 5 |
@@ -402,7 +402,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinograd Hopovo | Sremski rejon | — | 4 |
 | Vinogradi Nikolic | — | 3.8 | 0 |
 | Vinogradi Veličković Vinarija | Šumadijski rejon | 3.6 | 3 |
-| Vinogradi i vinarija Miletić | — | — | 1 |
+| Vinogradi i vinarija Miletić | Rejon Tri Morave | — | 1 |
 | Vinokratija | — | 3.5 | 0 |
 | Vinski Dvor | Subotički rejon | 3.6 | 0 |
 | WOW Winery | Subotički rejon | — | 8 |

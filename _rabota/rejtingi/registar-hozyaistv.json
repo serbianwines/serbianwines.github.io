@@ -65,8 +65,8 @@
      "okrug": "Nišavski"
     }
    ],
-   "mesto": "Ražanj, Nišavski okrug",
-   "zamechanie": ""
+   "mesto": "",
+   "zamechanie": "на запись регистра № 5984 притязают несколько хозяйств: Aleksandar Todorović, Vinarija Aleksandar"
   },
   "aleksandrovic": {
    "hozyaistvo": "Aleksandrović",
@@ -153,22 +153,10 @@
      "nazvanie": "SAŠA NOVAKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINARIJA ART WINE GROŠNICA",
      "naselje": "Grošnica",
      "okrug": "Šumadijski"
-    },
-    {
-     "reg_nomer": "4209",
-     "nazvanie": "\"ART & POPCORN\" DOO BEOGRAD OGRANAK \"PODRUM TOŠIĆI\" ZEMUN",
-     "naselje": "Beograd - Stari Grad",
-     "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "5543",
-     "nazvanie": "Đorđe Kolarović PR, proizvodnja vina, alkoholnih pića i prodaja umetničkih dela \"ART ET VINUM\" Sremski Karlovci",
-     "naselje": "Sremski Karlovci",
-     "okrug": "Južnobački"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Grošnica, Šumadijski okrug",
+   "zamechanie": ""
   },
   "atos-fructum": {
    "hozyaistvo": "Atos-Fructum",
@@ -446,44 +434,14 @@
    "hozyaistvo": "Djordjevic Estate Winery",
    "sovpalo": [
     {
-     "reg_nomer": "4107",
-     "nazvanie": "Miladin Đorđević PR, PTR \"VINARIJA ĐORĐEVIĆ\", Vitkovo",
-     "naselje": "Vitkovo",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "7163",
-     "nazvanie": "Boris Đorđević PR Vinski Podrum Duja Novaci - Aleksandrovac",
-     "naselje": "Novaci",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "4202",
-     "nazvanie": "Radovan Đorđević PR, proizvodnja vina \"PODRUM ČOKOT\", Starci",
-     "naselje": "Starci",
-     "okrug": "Rasinski"
-    },
-    {
      "reg_nomer": "7040",
      "nazvanie": "Đorđević Estate Winery DOO",
      "naselje": "Lapovo (varošica)",
      "okrug": "Šumadijski"
-    },
-    {
-     "reg_nomer": "6304",
-     "nazvanie": "Tatjana Đorđević PR proizvodnja vina od grožđa Vinarija Kovančina Obrenovac",
-     "naselje": "Mislođin",
-     "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "6409",
-     "nazvanie": "Nikola Đorđević PR proizvodnja vina od grožđa \"DIVIN VINARIJA\" Divoš",
-     "naselje": "Divoš",
-     "okrug": "Sremski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Lapovo (varošica), Šumadijski okrug",
+   "zamechanie": ""
   },
   "do-kraja-sveta": {
    "hozyaistvo": "Do Kraja Sveta",
@@ -869,20 +827,14 @@
    "hozyaistvo": "Kuća Vina Jokić",
    "sovpalo": [
     {
-     "reg_nomer": "4233",
-     "nazvanie": "RADOSLAV JOKIĆ PR PROIZVODNJA VINA PODRUM VINA JOKIĆ VINČA",
-     "naselje": "Vinča",
-     "okrug": "Šumadijski"
-    },
-    {
      "reg_nomer": "5535",
      "nazvanie": "Sonja Jokić PR, proizvodnja vina od grožđa \"KUĆA VINA JOKIĆ\", Sombor",
      "naselje": "Sombor",
      "okrug": "Zapadnobački"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Sombor, Zapadnobački okrug",
+   "zamechanie": ""
   },
   "kuca-popovic": {
    "hozyaistvo": "Kuća Vina Popović",
@@ -892,22 +844,10 @@
      "nazvanie": "Milan Popović PR prizvodnja vina \"Kuća vina Popović\" Krvije",
      "naselje": "Krvije",
      "okrug": "Braničevski"
-    },
-    {
-     "reg_nomer": "4225",
-     "nazvanie": "KATARINA HADŽI POPOVIĆ PR PROIZVODNJA VINA VINARIJA HADŽI POPOVIĆ STARI SLANKAMEN",
-     "naselje": "Stari Slankamen",
-     "okrug": "Sremski"
-    },
-    {
-     "reg_nomer": "5064",
-     "nazvanie": "Vladimir Popović, PR Radnja za proizvodnju voća, grožđa, vina i destilata \"Vinarija Popović\" Sremska Kamenica",
-     "naselje": "Sremska Kamenica",
-     "okrug": "Južnobački"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Krvije, Braničevski okrug",
+   "zamechanie": ""
   },
   "la-gora": {
    "hozyaistvo": "La Gora",
@@ -1573,38 +1513,14 @@
    "hozyaistvo": "Podrum Petrović",
    "sovpalo": [
     {
-     "reg_nomer": "6983",
-     "nazvanie": "SONJA PETROVIĆ PR VINARIJA VINO DANI MEROŠINA",
-     "naselje": "Merošina",
-     "okrug": "Nišavski"
-    },
-    {
-     "reg_nomer": "6641",
-     "nazvanie": "Nemanja Petrović PR Proizvodnja vina od grožđa i rakije Koreni 1934 Lipovac",
-     "naselje": "Lipovac",
-     "okrug": "Šumadijski"
-    },
-    {
-     "reg_nomer": "6890",
-     "nazvanie": "Danko Petrović PR Proizvodnja vina od grožđa\"Vinarija Dika\" Lipovac",
-     "naselje": "Lipovac",
-     "okrug": "Šumadijski"
-    },
-    {
      "reg_nomer": "4125",
      "nazvanie": "Milan Petrović PR, SZR \"PODRUM PETROVIĆ\", Sremski Karlovci",
      "naselje": "Sremski Karlovci",
      "okrug": "Južnobački"
-    },
-    {
-     "reg_nomer": "5318",
-     "nazvanie": "Srđan Petrović PR, samostalna zanatska radnja \"VINICA\" Velika Hoča",
-     "naselje": "Velika Hoča",
-     "okrug": "Prizrenski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Sremski Karlovci, Južnobački okrug",
+   "zamechanie": ""
   },
   "pevac": {
    "hozyaistvo": "Podrum Pevac",
@@ -1636,26 +1552,14 @@
    "hozyaistvo": "Podrum Stojković",
    "sovpalo": [
     {
-     "reg_nomer": "6376",
-     "nazvanie": "Milica Stojković PR, proizvodnja vina VINARIJA ŠVABIĆ SD Petrijevo",
-     "naselje": "Petrijevo",
-     "okrug": "Podunavski"
-    },
-    {
      "reg_nomer": "5093",
      "nazvanie": "Vasa Stojković preduzetnik, proizvodnja vina od grožđa PODRUM STOJKOVIĆ Banoštor",
      "naselje": "Banoštor",
      "okrug": "Južnobački"
-    },
-    {
-     "reg_nomer": "7237",
-     "nazvanie": "ALEKSANDRA STOJKOVIĆ PR PROIZVODNJA VINA OD GROŽĐA VINTAS BANOŠTOR",
-     "naselje": "Banoštor",
-     "okrug": "Južnobački"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Banoštor, Južnobački okrug",
+   "zamechanie": ""
   },
   "tosici": {
    "hozyaistvo": "Podrum Tošići",
@@ -2251,26 +2155,14 @@
    "hozyaistvo": "Vinarija A. Rajković",
    "sovpalo": [
     {
-     "reg_nomer": "4204",
-     "nazvanie": "Aleksandar Rajković preduzetnik, proizvodno trgovinska radnja \"PORODIČNI PODRUM RAJKOVIĆ\", Gornja Zleginja",
-     "naselje": "Gornja Zleginja",
-     "okrug": "Rasinski"
-    },
-    {
      "reg_nomer": "5878",
      "nazvanie": "Aleksandar Rajković PR radnja za proizvodnju vina \"Vinarija A. Rajković\", Gornja Zleginja",
      "naselje": "Gornja Zleginja",
      "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "8",
-     "nazvanie": "MILUNKA RAJKOVIĆ PR VINARIJA RAJKOVIĆ WINE OFFICE NOVACI",
-     "naselje": "Novaci",
-     "okrug": "Rasinski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Gornja Zleginja, Rasinski okrug",
+   "zamechanie": ""
   },
   "acumincum": {
    "hozyaistvo": "Vinarija Acumincum",
@@ -2302,110 +2194,14 @@
    "hozyaistvo": "Vinarija Aleksandar",
    "sovpalo": [
     {
-     "reg_nomer": "4204",
-     "nazvanie": "Aleksandar Rajković preduzetnik, proizvodno trgovinska radnja \"PORODIČNI PODRUM RAJKOVIĆ\", Gornja Zleginja",
-     "naselje": "Gornja Zleginja",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "5878",
-     "nazvanie": "Aleksandar Rajković PR radnja za proizvodnju vina \"Vinarija A. Rajković\", Gornja Zleginja",
-     "naselje": "Gornja Zleginja",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "6969",
-     "nazvanie": "ALEKSANDAR JELENKOVIĆ PR RADNJA ZA PROIZVODNJU VINA VINARIJA JELENKOVIĆ STUBAL",
-     "naselje": "Stubal",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "4158",
-     "nazvanie": "Aleksandar Stanković PR, \"VINARIJA BOIERESCU\" Negotin",
-     "naselje": "Negotin",
-     "okrug": "Borski"
-    },
-    {
-     "reg_nomer": "7391",
-     "nazvanie": "ALEKSANDAR NAKIĆ PR RADNJA ZA IZRADU FOTOGRAFIJA U KOMERCIJALNE SVRHE IMAGE LOVING FACTORY NIŠ",
-     "naselje": "Niš",
-     "okrug": "Nišavski"
-    },
-    {
      "reg_nomer": "5984",
      "nazvanie": "Aleksandar Todorović pr Vinarija Aleksandar Todorović Lipovac",
      "naselje": "Ražanj",
      "okrug": "Nišavski"
-    },
-    {
-     "reg_nomer": "7275",
-     "nazvanie": "ALEKSANDAR DAČIĆ PR PROIZVODNJA VINA OD GROŽĐA VIN-DES DAČIĆ MALA SUGUBINA",
-     "naselje": "Mala Sugubina",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "7337",
-     "nazvanie": "Aleksandar Nedić pr Vinarija DALEKO OD MORA Beograd",
-     "naselje": "Novi Beograd",
-     "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "4134",
-     "nazvanie": "ALEKSANDAR STANKOVIĆ PR, SAMOSTALNA ZANATSKA TRGOVINSKA RADNJA PODRUM PEVAC BEOGRAD (PALILULA)",
-     "naselje": "Beograd - Palilula",
-     "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "6772",
-     "nazvanie": "Aleksandar Ljutovac PR Proizvodnja i promet vina i rakije KORENI Beograd",
-     "naselje": "Beograd - Čukarica",
-     "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "5801",
-     "nazvanie": "LJILJANA ŠLJIVIĆ PR PROIZVODNJA VINA OD GROŽĐA PODRUM VINA ALEKSANDAR MMMA VRŠAC",
-     "naselje": "Vršac",
-     "okrug": "Južnobanatski"
-    },
-    {
-     "reg_nomer": "7174",
-     "nazvanie": "ALEKSANDAR BATALO PR PROIZVODNJA VINA Z&B Winery BEŠKA",
-     "naselje": "Beška",
-     "okrug": "Sremski"
-    },
-    {
-     "reg_nomer": "6655",
-     "nazvanie": "ALEKSANDAR KIRALJ PR PROIZVODNJA VINA VINARIJA KIRALY VRDNIK",
-     "naselje": "Vrdnik",
-     "okrug": "Sremski"
-    },
-    {
-     "reg_nomer": "7359",
-     "nazvanie": "Aleksandar Knežević PR proizvodnja vina od grožđa Vinarija Knežević Stanišić",
-     "naselje": "Stanišić",
-     "okrug": "Zapadnobački"
-    },
-    {
-     "reg_nomer": "313",
-     "nazvanie": "Aleksandar Mrđanin PR, SZR„Vinarija Mrđaninˮ Sremski Karlovci",
-     "naselje": "Sremski Karlovci",
-     "okrug": "Južnobački"
-    },
-    {
-     "reg_nomer": "4111",
-     "nazvanie": "Aleksandar Gajić PR, proizvodnja i prodaja alkoholnih pića “VINARIJA GAJIĆ”, Aleksandrovac",
-     "naselje": "Aleksandrovac",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "5817",
-     "nazvanie": "ALEKSANDAR BOGDANOVIĆ PR PROIZVODNJA VINA POŽAREVAC",
-     "naselje": "Požarevac",
-     "okrug": "Braničevski"
     }
    ],
    "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "zamechanie": "на запись регистра № 5984 притязают несколько хозяйств: Aleksandar Todorović, Vinarija Aleksandar"
   },
   "apatovic": {
    "hozyaistvo": "Vinarija Apatović",
@@ -2564,16 +2360,10 @@
      "nazvanie": "Vinarija Čoka Plus DOO Subotica",
      "naselje": "Subotica",
      "okrug": "Severnobački"
-    },
-    {
-     "reg_nomer": "6574",
-     "nazvanie": "VINARIJA TISKI CVET DOO ČOKA",
-     "naselje": "Čoka",
-     "okrug": "Severnobanatski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Subotica, Severnobački okrug",
+   "zamechanie": ""
   },
   "dajic": {
    "hozyaistvo": "Vinarija Dajic",
@@ -2884,20 +2674,14 @@
    "hozyaistvo": "Vinarija Milojević",
    "sovpalo": [
     {
-     "reg_nomer": "4080",
-     "nazvanie": "VLADIMIR PETKOSKI PR PROIZVODNJA VINA VINARIJA PODRUM MILOJEVIĆ ZEOKE",
-     "naselje": "Zeoke",
-     "okrug": "Beograd"
-    },
-    {
      "reg_nomer": "5062",
      "nazvanie": "Milan Milojević PR \"PORODIČNA VINARIJA MILOJEVIĆ\", Ostrikovac",
      "naselje": "Ostrikovac",
      "okrug": "Pomoravski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Ostrikovac, Pomoravski okrug",
+   "zamechanie": ""
   },
   "milovanovic": {
    "hozyaistvo": "Vinarija Milovanovic",
@@ -2907,16 +2691,10 @@
      "nazvanie": "\"VINARIJA MILOVANOVIĆ\" OD, Gornja Zleginja",
      "naselje": "Gornja Zleginja",
      "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "4081",
-     "nazvanie": "Privredno društvo za proizvodnju, promet i usluge \"SRŽ MILOVANOVIĆ\" doo, Lazarevac",
-     "naselje": "Lazarevac",
-     "okrug": "Beograd"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Gornja Zleginja, Rasinski okrug",
+   "zamechanie": ""
   },
   "mira": {
    "hozyaistvo": "Vinarija Mira",
@@ -3075,32 +2853,14 @@
      "nazvanie": "Ljubiša Rajić PR, proizvodnja vina od svežeg grožđa “VINARIJA RAJIĆ”, Glavica",
      "naselje": "Glavica",
      "okrug": "Pomoravski"
-    },
-    {
-     "reg_nomer": "6166",
-     "nazvanie": "Jovica Rajić pr proizvodnja vina VINSKA KUĆA RAJIĆ Bavanište",
-     "naselje": "Bavanište",
-     "okrug": "Južnobanatski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Glavica, Pomoravski okrug",
+   "zamechanie": ""
   },
   "s-milosevic": {
    "hozyaistvo": "Vinarija S. Milošević",
    "sovpalo": [
-    {
-     "reg_nomer": "5278",
-     "nazvanie": "Nemanja Milošević PR proizvodnja vina MILANOV PODRUM Lopušnik",
-     "naselje": "Lopušnik",
-     "okrug": "Braničevski"
-    },
-    {
-     "reg_nomer": "7166",
-     "nazvanie": "Tatjana Milošević PR Proizvodnja vina Vinarija Milošević Sremski Karlovci",
-     "naselje": "Sremski Karlovci",
-     "okrug": "Južnobački"
-    },
     {
      "reg_nomer": "6946",
      "nazvanie": "NENAD MILOŠEVIĆ PR RADNJA ZA PROIZVODNJU VINA I TRGOVINU VINARIJA S MILOŠEVIĆ RIĐAGE",
@@ -3108,8 +2868,8 @@
      "okrug": "Moravički"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Riđage, Moravički okrug",
+   "zamechanie": ""
   },
   "salas-nas": {
    "hozyaistvo": "Vinarija Salaš Naš",
@@ -3209,22 +2969,10 @@
      "nazvanie": "IGOR STANKOVIĆ PR PROIZVODNJA VINA VINARIJA STANKOVIĆ RABROVO",
      "naselje": "Rabrovo",
      "okrug": "Braničevski"
-    },
-    {
-     "reg_nomer": "4158",
-     "nazvanie": "Aleksandar Stanković PR, \"VINARIJA BOIERESCU\" Negotin",
-     "naselje": "Negotin",
-     "okrug": "Borski"
-    },
-    {
-     "reg_nomer": "4134",
-     "nazvanie": "ALEKSANDAR STANKOVIĆ PR, SAMOSTALNA ZANATSKA TRGOVINSKA RADNJA PODRUM PEVAC BEOGRAD (PALILULA)",
-     "naselje": "Beograd - Palilula",
-     "okrug": "Beograd"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Rabrovo, Braničevski okrug",
+   "zamechanie": ""
   },
   "tana": {
    "hozyaistvo": "Vinarija Tana",
@@ -3269,12 +3017,6 @@
    "hozyaistvo": "Vinarija Todorović",
    "sovpalo": [
     {
-     "reg_nomer": "5984",
-     "nazvanie": "Aleksandar Todorović pr Vinarija Aleksandar Todorović Lipovac",
-     "naselje": "Ražanj",
-     "okrug": "Nišavski"
-    },
-    {
      "reg_nomer": "5262",
      "nazvanie": "VINARIJA TODOROVIĆ DOO, BEOGRAD-VOŽDOVAC",
      "naselje": "Beograd - Voždovac",
@@ -3282,7 +3024,7 @@
     }
    ],
    "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "zamechanie": "адрес столичный (Beograd - Voždovac) — это контора, не виноградник"
   },
   "tomic-rosci": {
    "hozyaistvo": "Vinarija Tomić - Rošci",
@@ -3397,38 +3139,14 @@
    "hozyaistvo": "Vinarija Vladimir",
    "sovpalo": [
     {
-     "reg_nomer": "5510",
-     "nazvanie": "Vladimir Smiljković PR, proizvodnja vina od grožđa VINARIJA SMILJKOVIĆ 90, Drenča",
-     "naselje": "Drenča",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "4080",
-     "nazvanie": "VLADIMIR PETKOSKI PR PROIZVODNJA VINA VINARIJA PODRUM MILOJEVIĆ ZEOKE",
-     "naselje": "Zeoke",
-     "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "84",
-     "nazvanie": "VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO",
-     "naselje": "Karbulovo",
-     "okrug": "Borski"
-    },
-    {
      "reg_nomer": "5351",
      "nazvanie": "VINARIJA VLADIMIR DOO Topola",
      "naselje": "Topola (Varošica)",
      "okrug": "Šumadijski"
-    },
-    {
-     "reg_nomer": "5064",
-     "nazvanie": "Vladimir Popović, PR Radnja za proizvodnju voća, grožđa, vina i destilata \"Vinarija Popović\" Sremska Kamenica",
-     "naselje": "Sremska Kamenica",
-     "okrug": "Južnobački"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Topola (Varošica), Šumadijski okrug",
+   "zamechanie": ""
   },
   "vojinovic": {
    "hozyaistvo": "Vinarija Vojinović",
@@ -3496,12 +3214,6 @@
      "nazvanie": "Miloš Ćosić PR proizvodnja vina \"Vinarija Ćosić 97\" Vitkovo",
      "naselje": "Vitkovo",
      "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "4123",
-     "nazvanie": "Predrag Ćosić PR, radnja za proizvodnju vina \"PODRUM VINA TODOR\", Vitkovo",
-     "naselje": "Vitkovo",
-     "okrug": "Rasinski"
     }
    ],
    "mesto": "Vitkovo, Rasinski okrug",
@@ -3524,38 +3236,14 @@
    "hozyaistvo": "Vinarija ĐORĐE",
    "sovpalo": [
     {
-     "reg_nomer": "468",
-     "nazvanie": "Đorđe Ilić PR, proizvodnja vina Podrum Ilić, Vodanj",
-     "naselje": "Vodanj",
-     "okrug": "Podunavski"
-    },
-    {
-     "reg_nomer": "5948",
-     "nazvanie": "Đorđe Bradić PR, proizvodnja vina \"VINARIJA BRADIĆ\" Mala Drenova",
-     "naselje": "Mala Drenova",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "5238",
-     "nazvanie": "ĐORĐE JOTIĆ PR AGENCIJA ZA RAČUNARSKO PROGRAMIRANJE QUALITY PRO SOLUTIONS BEOGRAD",
-     "naselje": "Beograd - Čukarica",
-     "okrug": "Beograd"
-    },
-    {
      "reg_nomer": "4058",
      "nazvanie": "„VINARIJA ĐORĐEˮ DOO, Banatski Karlovac",
      "naselje": "Banatski Karlovac",
      "okrug": "Južnobanatski"
-    },
-    {
-     "reg_nomer": "5543",
-     "nazvanie": "Đorđe Kolarović PR, proizvodnja vina, alkoholnih pića i prodaja umetničkih dela \"ART ET VINUM\" Sremski Karlovci",
-     "naselje": "Sremski Karlovci",
-     "okrug": "Južnobački"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Banatski Karlovac, Južnobanatski okrug",
+   "zamechanie": ""
   },
   "sijacki": {
    "hozyaistvo": "Vinarija Šijački",
@@ -3617,16 +3305,10 @@
      "nazvanie": "Miodrag Miljković PR, proizvodnja vina, rakije i sirćeta “VINARSKA KUĆA MILJKOVIĆ”, Gornje Rataje",
      "naselje": "Gornje Rataje",
      "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "6589",
-     "nazvanie": "MILAN MILjKOVIĆ PR KROJAČKA RADNjA MSSM ALEKSANDROVAC",
-     "naselje": "Aleksandrovac",
-     "okrug": "Rasinski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Gornje Rataje, Rasinski okrug",
+   "zamechanie": ""
   },
   "vinartos": {
    "hozyaistvo": "Vinartos Vinarija",
@@ -3710,18 +3392,6 @@
    "hozyaistvo": "Vinogradi Nikolic",
    "sovpalo": [
     {
-     "reg_nomer": "4075",
-     "nazvanie": "Katarina Nikolić PR proizvodnja i prodaja vina „Vinarija Nikaˮ Vitkovo",
-     "naselje": "Vitkovo",
-     "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "5384",
-     "nazvanie": "Dušan Nikolić PR, Proizvodnja vina od grožđa ,,VINARIJA AQUILA\" Bogojevce",
-     "naselje": "Bogojevce",
-     "okrug": "Jablanički"
-    },
-    {
      "reg_nomer": "6029",
      "nazvanie": "Vinogradi Nikolić Neuzinski doo Novi Sad",
      "naselje": "Novi Sad",
@@ -3729,7 +3399,7 @@
     }
    ],
    "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "zamechanie": "отклонено руками: Единственная запись — «Vinogradi Nikolić Neuzinski doo Novi Sad», и Нови Сад в ней адрес общества: «Неузински» в самом имени указывает на Неузину, а это Банат. По новосадскому адресу хозяйство попадало в Сремски рејон — через Дунав от собственного виноградника."
   },
   "velickovic": {
    "hozyaistvo": "Vinogradi Veličković Vinarija",
@@ -3748,20 +3418,14 @@
    "hozyaistvo": "Vinogradi i vinarija Miletić",
    "sovpalo": [
     {
-     "reg_nomer": "4093",
-     "nazvanie": "Slađana Miletić PR, Proizvodna radnja \"PODRUM MILETIĆ\", Laćisled",
-     "naselje": "Laćisled",
-     "okrug": "Rasinski"
-    },
-    {
      "reg_nomer": "436",
      "nazvanie": "Marija Miletić-Simić PR SZR „Vinogradi i vinarija Miletićˮ Oparić",
      "naselje": "Oparić",
      "okrug": "Pomoravski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Oparić, Pomoravski okrug",
+   "zamechanie": ""
   },
   "vinokratija": {
    "hozyaistvo": "Vinokratija",
@@ -3874,20 +3538,14 @@
    "hozyaistvo": "Vinska Kuća Rajić",
    "sovpalo": [
     {
-     "reg_nomer": "4124",
-     "nazvanie": "Ljubiša Rajić PR, proizvodnja vina od svežeg grožđa “VINARIJA RAJIĆ”, Glavica",
-     "naselje": "Glavica",
-     "okrug": "Pomoravski"
-    },
-    {
      "reg_nomer": "6166",
      "nazvanie": "Jovica Rajić pr proizvodnja vina VINSKA KUĆA RAJIĆ Bavanište",
      "naselje": "Bavanište",
      "okrug": "Južnobanatski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Bavanište, Južnobanatski okrug",
+   "zamechanie": ""
   },
   "vinska-kuca-rakicevic": {
    "hozyaistvo": "Vinska Kuća Rakićević",
@@ -3897,16 +3555,10 @@
      "nazvanie": "Bratislav Rakićević preduzetnik, proizvodna radnja Vinska kuća Rakićević Velja Glava",
      "naselje": "Velja Glava",
      "okrug": "Rasinski"
-    },
-    {
-     "reg_nomer": "7056",
-     "nazvanie": "MARKO RAKIĆEVIĆ PR PROIZVODNJA VINA VINARIJA GERASIM LJUBINCI",
-     "naselje": "Ljubinci",
-     "okrug": "Rasinski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Velja Glava, Rasinski okrug",
+   "zamechanie": ""
   },
   "vinski-dvor": {
    "hozyaistvo": "Vinski Dvor",
@@ -3925,20 +3577,14 @@
    "hozyaistvo": "Vinski Podrum Mirjana",
    "sovpalo": [
     {
-     "reg_nomer": "7343",
-     "nazvanie": "MIRJANA NEDELJKOVIĆ PR Destilacija, prečišćavanje i mešanje pića PODRUM ČOLAKOVIĆ 2025 MILOČAJ",
-     "naselje": "Miločaj",
-     "okrug": "Raški"
-    },
-    {
      "reg_nomer": "5531",
      "nazvanie": "Mirjana Petković PR, proizvodnja vina \"VINSKI PODRUM MIRJANA 1861\" Rogljevo",
      "naselje": "Rogljevo",
      "okrug": "Borski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Rogljevo, Borski okrug",
+   "zamechanie": ""
   },
   "vinum": {
    "hozyaistvo": "Vinum",
@@ -4454,16 +4100,10 @@
      "nazvanie": "VLADIMIR PETKOSKI PR PROIZVODNJA VINA VINARIJA PODRUM MILOJEVIĆ ZEOKE",
      "naselje": "Zeoke",
      "okrug": "Beograd"
-    },
-    {
-     "reg_nomer": "5062",
-     "nazvanie": "Milan Milojević PR \"PORODIČNA VINARIJA MILOJEVIĆ\", Ostrikovac",
-     "naselje": "Ostrikovac",
-     "okrug": "Pomoravski"
     }
    ],
-   "mesto": "",
-   "zamechanie": "записей регистра несколько, и места разные"
+   "mesto": "Zeoke, Beograd okrug",
+   "zamechanie": ""
   },
   "raskovic": {
    "hozyaistvo": "Подрум вина Рашковић - (Rašković Winery)",

@@ -58,6 +58,11 @@ OTKLONENO = {
     "Vinarija Venčac": "То же: «AGROZEBEC DOO Venčac» — это Агрозебец из "
              "жупског Венчца. Decanter относит вина Vinarija Venčac к "
              "Шумадији, а Венчац — ещё и гора под Аранђеловцем.",
+    "Vinogradi Nikolic": "Единственная запись — «Vinogradi Nikolić "
+             "Neuzinski doo Novi Sad», и Нови Сад в ней адрес общества: "
+             "«Неузински» в самом имени указывает на Неузину, а это "
+             "Банат. По новосадскому адресу хозяйство попадало в Сремски "
+             "рејон — через Дунав от собственного виноградника.",
 }
 
 # Совпадения, подтверждённые руками. Разбор ищет имя хозяйства целиком
@@ -166,6 +171,19 @@ def main():
         if not nashlos:
             schet["в регистре не нашлось"] += 1
             continue
+        # Если среди найденных записей ровно одна называет хозяйство
+        # целиком, спора нет: остальные совпали по фамилии. «Vinska Kuća
+        # Rajić» — это запись «Jovica Rajić pr proizvodnja vina VINSKA
+        # KUĆA RAJIĆ» из Бавништа, а не однофамилец из Главице.
+        if not podtverzhdeno and len(nashlos) > 1:
+            # Целиком — значит подряд, со служебными словами: «vinska
+            # kuca rajic», а не одно только «rajic», по которому совпадает
+            # и однофамилец.
+            celikom = " ".join(slova(h["hozyaistvo"]))
+            tochnye = [z for z in nashlos
+                       if len(celikom) > 3 and celikom in " ".join(slova(z["nazvanie"]))]
+            if len(tochnye) == 1:
+                nashlos = tochnye
         mesta = {z["naselje"] for z in nashlos}
         zapis = {
             "hozyaistvo": h["hozyaistvo"],

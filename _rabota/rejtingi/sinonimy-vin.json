@@ -1,0 +1,623 @@
+{
+ "chto_eto": "Имена, под которыми одно и то же вино встречается у разных источников. Список ведётся руками: каждая пара просмотрена глазами перед тем, как попасть сюда. Ключ — написание с Vivino: у него есть номер позиции каталога, и это имя стоит на бутылке.",
+ "kak_chitat": "Внутри хозяйства: имя, которое остаётся, и список имён, которые к нему сводятся. Сюда идут только доказуемые расхождения трёх разрядов: то же имя другим письмом или на другом языке («Sovinjon» и «Sauvignon», «Vagabundo Red» и «Vagabundo Crveno»); те же слова, переставленные местами («Bukovska Bagrina» и «Bagrina Bukovska»); опечатка в одну букву («Berment» вместо «Bermet»). Разница в целом слове сюда не входит: «Trijumf» и «Trijumf Selection» — разные вина, и таких пар в данных две сотни. Обычно за главное берётся написание с Vivino — это имя с бутылки. Но если у Vivino как раз опечатка, главным остаётся верное написание: «Kišov Rosé», а не «Kison Rose»; «Triangl», а не «Triagl»; «голубица», а не «галубица».",
+ "vin": 98,
+ "vina": {
+  "Aleksandrović": {
+   "Trijumf Barrique": {
+    "varianty": [
+     "Trijumf Barik"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "Trijumf Rosé Brut": {
+    "varianty": [
+     "Trijumf Brut Rosé"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Aleksić": {
+   "Limited Bonaca Chardonnay": {
+    "varianty": [
+     "Bonaca Limited Chardonnay"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Limited Kardaš Cabernet Sauvignon": {
+    "varianty": [
+     "Kardaş Limited Cabernet Sauvignon"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Arsenijević": {
+   "Sauvignon": {
+    "varianty": [
+     "Sovinjon"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "BT Winery": {
+   "King Supreme Limited Edition Marselan": {
+    "varianty": [
+     "Limited Edition King Supreme Marselan"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "President Vranac Gold": {
+    "varianty": [
+     "President Gold Vranac"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Bjelica": {
+   "Babaroga Penušavac": {
+    "varianty": [
+     "Babaroga penušava"
+    ],
+    "pochemu": "опечатка в одну букву"
+   }
+  },
+  "Budimir": {
+   "Lila Prokupac Boje": {
+    "varianty": [
+     "Prokupac boje lila"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Chichateau": {
+   "Chi Chardonnay": {
+    "varianty": [
+     "Chardonnay Chi"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Château Prince": {
+   "Shiraz Premium": {
+    "varianty": [
+     "Premium Shiraz"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Despotika": {
+   "Dokaz Cabernet Sauvignon": {
+    "varianty": [
+     "Dokaz Kaberne Sovinjon",
+     "Доказ Каберне Совињон (Dokaz Cabernet Sauvignon)"
+    ],
+    "pochemu": "то же имя, у Vivino написанное сразу двумя алфавитами"
+   },
+   "Trag Merlot": {
+    "varianty": [
+     "TRAG Merlot",
+     "Траг Мерло (Trag Merlot)"
+    ],
+    "pochemu": "то же имя, у Vivino написанное сразу двумя алфавитами"
+   }
+  },
+  "Deurić": {
+   "Classic Chardonnay": {
+    "varianty": [
+     "Chardonnay Classic"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Gewürztraminer": {
+    "varianty": [
+     "Gewurtztraminer",
+     "Gewurztaminer"
+    ],
+    "pochemu": "опечатка в одну букву"
+   },
+   "Probus 276": {
+    "varianty": [
+     "276 Probus"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Talas Beli": {
+    "varianty": [
+     "Beli Talas"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Talas Crveni": {
+    "varianty": [
+     "Crveni Talas"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Urban Rosé": {
+    "varianty": [
+     "Urban Roze"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Doja": {
+   "Breg Cabernet Sauvignon": {
+    "varianty": [
+     "Cabernet Sauvignon Breg"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Breg Merlot": {
+    "varianty": [
+     "Merlot Breg"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Breg Prokupac": {
+    "varianty": [
+     "Prokupac Breg"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Cabernet Sauvignon - Merlot": {
+    "varianty": [
+     "Merlot-Cabernet Sauvignon"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Chardonnay Barrique": {
+    "varianty": [
+     "Chardonnay Barik"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "Tamjanika": {
+    "varianty": [
+     "Tamjanica"
+    ],
+    "pochemu": "опечатка в одну букву"
+   }
+  },
+  "Drašković": {
+   "Classic Chardonnay": {
+    "varianty": [
+     "Chardonnay classic"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Dukay-Sagmeister": {
+   "Kew Furmint": {
+    "varianty": [
+     "Furmint Kew"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Kew Kadarka": {
+    "varianty": [
+     "Kadarka Kew"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Erdevik": {
+   "Ex Cathedra Sauvignon Blanc": {
+    "varianty": [
+     "Sauvignon Blanc Ex Cathedra"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Grabak": {
+   "Bela golubica": {
+    "varianty": [
+     "Bela Galubica"
+    ],
+    "pochemu": "опечатка в одну букву"
+   }
+  },
+  "Kiš": {
+   "Kišov Bermet Belo": {
+    "varianty": [
+     "Kisov Berment beli",
+     "Kisov Bermet beli",
+     "Kišov Bermet White"
+    ],
+    "pochemu": "опечатка в одну букву; то же имя другим письмом или на другом языке"
+   },
+   "Kišov Rosé": {
+    "varianty": [
+     "Kison Rose"
+    ],
+    "pochemu": "опечатка в одну букву"
+   },
+   "Misterija Kišova": {
+    "varianty": [
+     "Kišova Misterija"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Kovačević": {
+   "Edicija S Sauvignon": {
+    "varianty": [
+     "Sauvignon S Edicija"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Rizling": {
+    "varianty": [
+     "Riesling"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Matalj": {
+   "Bagrina Bukovska": {
+    "varianty": [
+     "Bagrina Buksovska",
+     "Bukovska Bagrina"
+    ],
+    "pochemu": "опечатка в одну букву; те же слова, переставленные местами"
+   },
+   "Crna Tamjanika": {
+    "varianty": [
+     "Black Tamjanika"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "Cuvée Bukovski": {
+    "varianty": [
+     "Bukovski Cuvee"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Terasa Sauvignon Blanc": {
+    "varianty": [
+     "Terassa Sauvignon Blanc"
+    ],
+    "pochemu": "опечатка в одну букву"
+   }
+  },
+  "Matijašević": {
+   "Sovinoa Fumé Blanc": {
+    "varianty": [
+     "SoviNoa Fume’blanc"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "Tri Doline Merlot": {
+    "varianty": [
+     "Merlot Tri Doline"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Čukundeda Prokupac": {
+    "varianty": [
+     "Prokupac Cukundeda"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "PIK OPLENAC": {
+   "Tron Red": {
+    "varianty": [
+     "Red Tron"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Tron Rosé": {
+    "varianty": [
+     "Rose Tron"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Podrum Janko": {
+   "Misija Barrique Chardonnay": {
+    "varianty": [
+     "Misija Barik Chardonnay"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Podrum Stari Hrast": {
+   "Chardonnay": {
+    "varianty": [
+     "Chardonay"
+    ],
+    "pochemu": "опечатка в одну букву"
+   }
+  },
+  "Radovan": {
+   "Experiment Prokupac": {
+    "varianty": [
+     "Prokupac Experiment"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Experiment Tamjanika": {
+    "varianty": [
+     "Tamjanika Experiment"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Radovanović": {
+   "Cabernet Sauvignon Classique": {
+    "varianty": [
+     "Classique Cabernet Sauvignon"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Chardonnay Selekcija": {
+    "varianty": [
+     "Selekcija Chardonnay"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Rèserve Cabernet Sauvignon": {
+    "varianty": [
+     "Cabernet Sauvignon Reserve"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Reljić Vinarija": {
+   "Rebus Crveno": {
+    "varianty": [
+     "Rebus Crveni"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Temet": {
+   "Ergo Red": {
+    "varianty": [
+     "Ergo Crveno"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "Ergo White": {
+    "varianty": [
+     "Ergo Beli",
+     "Ergo Belo"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "Tri Morave Rosé": {
+    "varianty": [
+     "Tri Morave Rosé (Три Mораве)"
+    ],
+    "pochemu": "то же имя, у Vivino написанное сразу двумя алфавитами"
+   }
+  },
+  "Tonković": {
+   "Fantazija Kadarka": {
+    "varianty": [
+     "Kadarka Fantazija"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Rapsodija Kadarka": {
+    "varianty": [
+     "Kadarka Rapsodija"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Traško Vinarija": {
+   "Bagrina Edición Limitada": {
+    "varianty": [
+     "Edición Limitada Bagrina"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Tri Medje I Oblak": {
+   "Vagabundo Belo": {
+    "varianty": [
+     "Vagabundo – white"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "Vagabundo Crveno": {
+    "varianty": [
+     "Vagabundo Red"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Trivanović": {
+   "Reserve Cabernet Sauvignon": {
+    "varianty": [
+     "Cabernet Sauvignon Reserve"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Reserve Shiraz": {
+    "varianty": [
+     "Shiraz reserve"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Verkat": {
+   "Roze": {
+    "varianty": [
+     "Rose"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Vinarija Braća Rajković": {
+   "Prince Rskavac": {
+    "varianty": [
+     "Princ Rskavac"
+    ],
+    "pochemu": "опечатка в одну букву"
+   }
+  },
+  "Vinarija Coka": {
+   "Muštuluk Crveni": {
+    "varianty": [
+     "MUŠTULUK CRVENO",
+     "Mustuluk - Crveni Crveno Suvo Vino"
+    ],
+    "pochemu": "то же имя, у Vivino написанное сразу двумя алфавитами"
+   },
+   "Zdrebac Stono Suvo Crveno": {
+    "varianty": [
+     "Ždrebac Crveno"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Vinarija Djurdjic": {
+   "Crni Vitez Bermet": {
+    "varianty": [
+     "Bermet Crni Vitez",
+     "Crni Vitel Bermet"
+    ],
+    "pochemu": "опечатка в одну букву; те же слова, переставленные местами"
+   },
+   "Simonida Mlada": {
+    "varianty": [
+     "Mlada Simonida"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Vinarija Frug": {
+   "Chardonnay Signum": {
+    "varianty": [
+     "Signum Chardonnay"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Syrah Signum": {
+    "varianty": [
+     "Signum Syrah"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Vinarija Lastar": {
+   "Sofijin Izbor Pinot Noir": {
+    "varianty": [
+     "Pinot Noir Sofijin Izbor"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Triangl Chardonnay": {
+    "varianty": [
+     "Chardonnay Triangl",
+     "Triagl Chardonnay"
+    ],
+    "pochemu": "опечатка в одну букву; то же имя, у Vivino написанное сразу двумя алфавитами"
+   },
+   "Triangl Pinot Noir": {
+    "varianty": [
+     "Pinot Noir Triangl"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Triangl Sauvignon - Viognier": {
+    "varianty": [
+     "Sauvignon Viognier Triangl"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Vinarija ĐORĐE": {
+   "Freska Bela": {
+    "varianty": [
+     "Фреска Бела (Freska White)"
+    ],
+    "pochemu": "то же имя, у Vivino написанное сразу двумя алфавитами"
+   }
+  },
+  "Vinis": {
+   "Crveno Vino": {
+    "varianty": [
+     "Crveno"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Virtus": {
+   "Prokupac 733": {
+    "varianty": [
+     "733 Prokupac"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Vista Hill": {
+   "Premium Rosé": {
+    "varianty": [
+     "Rose Premium"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Reserve White": {
+    "varianty": [
+     "White Reserve"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   },
+   "Selection Red": {
+    "varianty": [
+     "Red Selection"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  },
+  "Vujić": {
+   "Gmitar Prokupac": {
+    "varianty": [
+     "Prokupac Gmitar",
+     "Гмитар Прокупац (Prokupac)"
+    ],
+    "pochemu": "то же имя, у Vivino написанное сразу двумя алфавитами"
+   }
+  },
+  "Zvonko Bogdan": {
+   "Cuvée No.1": {
+    "varianty": [
+     "Cuvée No. 1"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Šapat": {
+   "Atila Chardonnay": {
+    "varianty": [
+     "Atila Chardonay"
+    ],
+    "pochemu": "опечатка в одну букву"
+   },
+   "Pi'Crveno Premium": {
+    "varianty": [
+     "Pi' Crveno Premium"
+    ],
+    "pochemu": "то же имя другим письмом или на другом языке"
+   }
+  },
+  "Манастир Студеница (Manastir Studenica)": {
+   "Bela Reč Tamjanika": {
+    "varianty": [
+     "Tamjanika Bela Reč",
+     "Бели Рец Тамјаника (Bela Reč Tamjanika)"
+    ],
+    "pochemu": "то же имя, у Vivino написанное сразу двумя алфавитами"
+   },
+   "Prokupac 1186": {
+    "varianty": [
+     "1186 Prokupac"
+    ],
+    "pochemu": "те же слова, переставленные местами"
+   }
+  }
+ }
+}

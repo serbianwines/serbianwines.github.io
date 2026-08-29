@@ -185,6 +185,27 @@ def _sinonimy():
             for imya, z in d.items() for v in z["varianty"]}
 
 
+def _sinonimy_vin():
+    """Написания одного вина → то, которое остаётся. Ключ по хозяйству.
+
+    Список ведётся руками, в `sinonimy-vin.json`, и каждая пара
+    просмотрена глазами. Догадкой по похожести имён его наполнять
+    нельзя: «Trijumf» и «Trijumf Selection» отличаются одним словом
+    и при этом разные вина, а таких пар в данных две сотни.
+    """
+    put_f = os.path.join(RYADOM, "sinonimy-vin.json")
+    if not os.path.exists(put_f):
+        return {}
+    d = json.load(open(put_f, encoding="utf-8"))["vina"]
+    svod = {}
+    for hozyaistvo, vina in d.items():
+        hoz = klyuch_hozyaistva(hozyaistvo)
+        for imya, z in vina.items():
+            for v in z["varianty"]:
+                svod[(hoz, klyuch(latinicej(v)).replace("-", " "))] = imya
+    return svod
+
+
 def _marki():
     """Варианты, которые именем хозяйства не являются.
 
@@ -314,12 +335,34 @@ SINONIMY = {}
 KANON_IMYA = set()
 # Варианты, которые именем хозяйства не являются, — см. _marki().
 MARKI = set()
+# Написания одного вина, сведённые руками, — см. _sinonimy_vin().
+SINONIMY_VIN = {}
 
 
 def klyuch_hozyaistva(imya):
     """Ключ хозяйства: без служебных слов, регистра и диакритики."""
     k = _bazovyj_klyuch(imya)
     return SINONIMY.get(k, k)
+
+
+# Год урожая в диапазоне живых урожаев. Раньше 1950-го — уже не урожай,
+# а часть имени: «1804 Početak», «1903 Мир», «Kadarka 1880», «Bakator 1909».
+GOD_UROZHAYA = re.compile(r"(?<!\d)(19[5-9]\d|20[0-2]\d)(?!\d)")
+
+
+def bez_goda_urozhaya(vino):
+    """Убрать год урожая, попавший внутрь имени вина.
+
+    Урожай — своё поле, и в имени ему делать нечего: «Arno 2015» и «Arno»
+    у Алексића одно вино, «MERLOT 2020», «MERLOT 2021» и «Merlot»
+    у Тодоровића — тоже. Источники печатают год в имени неровно, и без
+    этого одно вино расходится на строку за каждый урожай.
+
+    Число, которое годом быть не может, остаётся на месте: «Cuvée 21»,
+    «Grašac 26a», «33 Premium», «Prokupac 1186», «Kadarka 1880».
+    """
+    ostalos = re.sub(r"\s+", " ", GOD_UROZHAYA.sub(" ", vino or "")).strip(" ,.-–—")
+    return ostalos or vino
 
 
 def snimaetsya(nachalo, hoz):
@@ -351,7 +394,8 @@ def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
     hoz = klyuch_hozyaistva(hozyaistvo)
     # Ключ строится по латинице: кириллическое имя вина и латинское —
     # одно вино, а не два. Перевод письма однозначен, догадок здесь нет.
-    chasti = klyuch(latinicej(odno_imya_dvumya_alfavitami(vino))).split("-")
+    vino = bez_goda_urozhaya(odno_imya_dvumya_alfavitami(vino))
+    chasti = klyuch(latinicej(vino)).split("-")
     if snimat_povtor:
         for skolko in range(len(chasti) - 1, 0, -1):
             nachalo = [c for c in chasti[:skolko] if c not in SLUZHEBNYE]
@@ -364,6 +408,11 @@ def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
             if snimaetsya("-".join(nachalo), hoz):
                 chasti = chasti[skolko:]
                 break
+    # Свод написаний — последним: в списке они записаны без имени
+    # хозяйства впереди, и до его снятия поиск не находил ничего.
+    svedeno = SINONIMY_VIN.get((hoz, " ".join(chasti).replace("-", " ")))
+    if svedeno:
+        chasti = klyuch(latinicej(svedeno)).split("-")
     return hoz + "-" + "-".join(chasti)
 
 
@@ -378,15 +427,16 @@ def imya_vina(hozyaistvo, vino, snimat_povtor=True):
     # «Три Мораве (Tri Morave)» показывается как «Tri Morave»: на этикетке
     # стоит латиница, и справочник зовёт вино так же. Сводится только
     # ровное повторение имени другим алфавитом — см. odno_imya_dvumya_alfavitami.
-    vino = odno_imya_dvumya_alfavitami(vino)
-    if not snimat_povtor:
-        return vino
-    slova = vino.split()
+    vino = bez_goda_urozhaya(odno_imya_dvumya_alfavitami(vino))
     hoz = klyuch_hozyaistva(hozyaistvo)
-    for skolko in range(len(slova) - 1, 0, -1):
-        if snimaetsya(" ".join(slova[:skolko]), hoz):
-            return " ".join(slova[skolko:])
-    return vino
+    if snimat_povtor:
+        slova = vino.split()
+        for skolko in range(len(slova) - 1, 0, -1):
+            if snimaetsya(" ".join(slova[:skolko]), hoz):
+                vino = " ".join(slova[skolko:])
+                break
+    return SINONIMY_VIN.get((hoz, klyuch(latinicej(vino)).replace("-", " ")),
+                            vino)
 
 
 def klyuch(*chasti):
@@ -675,6 +725,26 @@ def main():
             "sobrano": SOBRANO,
         })
 
+    # Одно и то же измерение дважды. Такое выходит, когда источник
+    # напечатал вино двумя написаниями — BIWC 2025 дал «Atila Chardonay»
+    # и «Atila Chardonnay» с одним и тем же баллом, — а свод написаний
+    # сделал из них одно вино. Балл при этом не меняется, и вторая
+    # строка ничего не добавляет. Если бы баллы разошлись, обе строки
+    # остались бы: это уже расхождение источника, и его видно в проверке.
+    vidano_izmerenie, bez_povtorov, snyato = set(), [], 0
+    for z in ocenki:
+        k = (z["klyuch_vina"], z["istochnik"], z["god"], z.get("konkurs_god"),
+             z.get("cvet") or "", z["ball"])
+        if k in vidano_izmerenie:
+            snyato += 1
+            continue
+        vidano_izmerenie.add(k)
+        bez_povtorov.append(z)
+    if snyato:
+        print("оценок-повторов снято: %d (то же вино, источник, урожай и балл)"
+              % snyato)
+    ocenki = bez_povtorov
+
     # ---------------- награды ----------------
     nagrady = [{
         "klyuch_vina": (klyuch_vina(z["hozyaistvo"], z["vino"])
@@ -705,6 +775,7 @@ def main():
 
 SINONIMY.update(_sinonimy())
 MARKI.update(_marki())
+SINONIMY_VIN.update(_sinonimy_vin())
 KANON_IMYA.update(
     json.load(open(os.path.join(RYADOM, "sinonimy-hozyaistv.json"),
                    encoding="utf-8"))["hozyaistva"]

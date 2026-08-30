@@ -1,7 +1,11 @@
 import json
+import subprocess
+import sys
 import tempfile
 import unittest
 from pathlib import Path
+
+import _rabota.audit.meta_audit as meta_audit
 
 from _rabota.audit.meta_audit import (
     build_source_profiles,
@@ -1371,6 +1375,115 @@ class CandidateTests(unittest.TestCase):
         early = next(item for item in scan["claim_risks"] if item["claim_ids"] == ["C0001"])
         self.assertNotIn("late_source_recheck", early["risk_reasons"])
         self.assertNotIn("late_source_matches", early)
+
+
+class ReviewValidationTests(unittest.TestCase):
+    def _candidate(self, **overrides):
+        candidate = {
+            "meta_id": "M0001",
+            "candidate_key": "risk:C0001:disputed_status",
+            "kind": "риск решения",
+            "claim_ids": ["C0001"],
+            "risk_reasons": ["disputed_status"],
+            "source_profile": {"C0001": {"tiers": []}},
+            "original_statuses": [
+                {"claim_id": "C0001", "status": "расходится", "consensus": "конфликт"}
+            ],
+        }
+        candidate.update(overrides)
+        return candidate
+
+    def _review(self, **overrides):
+        record = {
+            "meta_id": "M0001",
+            "candidate_key": "risk:C0001:disputed_status",
+            "kind": "риск решения",
+            "claim_ids": ["C0001"],
+            "canonical_question": "Какой статус подтверждён для этого утверждения?",
+            "risk_reasons": ["disputed_status"],
+            "scope": "Утверждение C0001 без изменения временного или территориального охвата.",
+            "source_lines": ["E000001"],
+            "source_weight": "Независимая профильная линия имеет достаточный вес.",
+            "resolution": "согласован",
+            "resolution_notes": "Сопоставление источников не выявило противоречия.",
+            "changes": [],
+            "remaining_gap": "",
+        }
+        record.update(overrides)
+        return record
+
+    def test_write_candidates_assigns_contiguous_stable_identifiers(self):
+        scan = {
+            "duplicates": [{"kind": "смысловой повтор", "match": "exact", "claim_ids": ["C0001", "C0002"], "shared_keys": ["prokupac", "synonym"], "risk_reasons": []}],
+            "claim_risks": [{"kind": "риск решения", "claim_ids": ["C0001"], "risk_reasons": ["disputed_status"], "source_profile": {"tiers": ["wikipedia"]}, "original_statuses": []}],
+            "source_profiles": {"C0001": {"tiers": []}, "C0002": {"tiers": []}},
+            "decisions_by_id": {},
+        }
+        self.assertTrue(hasattr(meta_audit, "write_candidates"))
+        self.assertTrue(hasattr(meta_audit, "load_candidates"))
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "candidates.jsonl"
+            meta_audit.write_candidates(scan, path)
+            candidates = meta_audit.load_candidates(path)
+
+        self.assertEqual([item["meta_id"] for item in candidates], ["M0001", "M0002"])
+        self.assertEqual(len({item["candidate_key"] for item in candidates}), 2)
+        self.assertEqual(candidates[0]["claim_ids"], ["C0001", "C0002"])
+
+    def test_load_candidates_rejects_duplicate_meta_id_and_candidate_key(self):
+        self.assertTrue(hasattr(meta_audit, "load_candidates"))
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "candidates.jsonl"
+            path.write_text(
+                "\n".join(json.dumps(record, ensure_ascii=False) for record in (self._candidate(), self._candidate(claim_ids=["C0002"], original_statuses=[]))) + "\n",
+                encoding="utf-8",
+            )
+            with self.assertRaisesRegex(ValueError, "duplicate meta_id M0001"):
+                meta_audit.load_candidates(path)
+            path.write_text(
+                "\n".join(json.dumps(record, ensure_ascii=False) for record in (self._candidate(), self._candidate(meta_id="M0002", claim_ids=["C0002"], original_statuses=[]))) + "\n",
+                encoding="utf-8",
+            )
+            with self.assertRaisesRegex(ValueError, "duplicate candidate_key risk:C0001:disputed_status"):
+                meta_audit.load_candidates(path)
+
+    def test_validate_review_rejects_missing_current_claim(self):
+        self.assertTrue(hasattr(meta_audit, "validate_review"))
+        errors = meta_audit.validate_review([self._candidate()], {"C0001"}, [self._review(claim_ids=["C9999"])], False)
+        self.assertIn("unknown claim C9999", errors)
+
+    def test_validate_review_rejects_invalid_resolution_and_empty_prose(self):
+        self.assertTrue(hasattr(meta_audit, "validate_review"))
+        errors = meta_audit.validate_review([self._candidate()], {"C0001"}, [self._review(resolution="неизвестно", canonical_question=" ", resolution_notes="")], False)
+        self.assertIn("invalid resolution неизвестно", errors)
+        self.assertIn("empty canonical_question", errors)
+        self.assertIn("empty resolution_notes", errors)
+
+    def test_require_complete_reports_unreviewed_candidate(self):
+        candidates = [{"candidate_key": "risk:C0001"}]
+        self.assertTrue(hasattr(meta_audit, "validate_review"))
+        self.assertIn("unreviewed candidate risk:C0001", meta_audit.validate_review(candidates, {"C0001"}, [], True))
+
+    def test_cli_scans_and_accepts_missing_optional_review_file(self):
+        script = POLICY_PATH.parents[1] / "meta_audit.py"
+        with tempfile.TemporaryDirectory() as directory:
+            base = Path(directory) / "audit"
+            base.mkdir()
+            (base / "claims.jsonl").write_text(json.dumps({"claim_id": "C0001", "entity_keys": ["prokupac", "synonym"], "category": "синоним", "statement": "Каменичарка — синоним Прокупца.", "book_quote": "Каменичарка."}, ensure_ascii=False) + "\n", encoding="utf-8")
+            (base / "decisions.jsonl").write_text(json.dumps({"claim_id": "C0001", "status": "подтверждено частично", "consensus": "средний"}, ensure_ascii=False) + "\n", encoding="utf-8")
+            (base / "sources.jsonl").write_text("", encoding="utf-8")
+            candidates = base / "candidates.jsonl"
+            baseline = base / "baseline.json"
+            scan = subprocess.run([sys.executable, str(script), "scan", str(base), "--policy", str(POLICY_PATH), "--candidates", str(candidates), "--baseline", str(baseline)], capture_output=True, text=True)
+            self.assertEqual(scan.returncode, 0, scan.stderr)
+            self.assertTrue(candidates.exists())
+            self.assertTrue(baseline.exists())
+            validate = subprocess.run([sys.executable, str(script), "validate-review", str(base), "--policy", str(POLICY_PATH), "--candidates", str(candidates), "--review", str(base / "review.jsonl")], capture_output=True, text=True)
+            require_complete = subprocess.run([sys.executable, str(script), "validate-review", str(base), "--policy", str(POLICY_PATH), "--candidates", str(candidates), "--review", str(base / "review.jsonl"), "--require-complete"], capture_output=True, text=True)
+
+        self.assertEqual(validate.returncode, 0, validate.stderr)
+        self.assertEqual(require_complete.returncode, 1, require_complete.stderr)
+        self.assertIn("unreviewed candidate", require_complete.stderr)
 
 
 if __name__ == "__main__":

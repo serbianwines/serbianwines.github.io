@@ -1,0 +1,207 @@
+{
+  "by_claim_band": {
+    "C0001-C0250": {
+      "candidates": 243,
+      "risk_reasons": {
+        "categorical_or_superlative": 27,
+        "disputed_status": 65,
+        "duplicate_decision_variance": 12,
+        "high_consensus_without_strong_source": 116,
+        "high_risk_fact_type": 68,
+        "late_source_recheck": 35,
+        "non_high_consensus": 87,
+        "unknown_source_classification": 13,
+        "wikipedia_absence": 1,
+        "wikipedia_disagreement": 4
+      }
+    },
+    "C0251-C0500": {
+      "candidates": 227,
+      "risk_reasons": {
+        "categorical_or_superlative": 41,
+        "disputed_status": 63,
+        "duplicate_decision_variance": 5,
+        "high_consensus_without_strong_source": 113,
+        "high_risk_fact_type": 95,
+        "late_source_recheck": 28,
+        "non_high_consensus": 73,
+        "unknown_source_classification": 27,
+        "wikipedia_disagreement": 1
+      }
+    },
+    "C0501-C0750": {
+      "candidates": 235,
+      "risk_reasons": {
+        "categorical_or_superlative": 22,
+        "disputed_status": 80,
+        "duplicate_decision_variance": 11,
+        "high_consensus_without_strong_source": 80,
+        "high_risk_fact_type": 80,
+        "late_source_recheck": 42,
+        "non_high_consensus": 119,
+        "unknown_source_classification": 34
+      }
+    },
+    "C0751-C1000": {
+      "candidates": 230,
+      "risk_reasons": {
+        "categorical_or_superlative": 26,
+        "disputed_status": 102,
+        "duplicate_decision_variance": 13,
+        "high_consensus_without_strong_source": 63,
+        "high_risk_fact_type": 75,
+        "late_source_recheck": 31,
+        "non_high_consensus": 125,
+        "unknown_source_classification": 55,
+        "wikipedia_disagreement": 1
+      }
+    },
+    "C1001-C1250": {
+      "candidates": 235,
+      "risk_reasons": {
+        "categorical_or_superlative": 30,
+        "disputed_status": 79,
+        "duplicate_decision_variance": 11,
+        "high_consensus_without_strong_source": 107,
+        "high_risk_fact_type": 70,
+        "late_source_recheck": 34,
+        "non_high_consensus": 91,
+        "unknown_source_classification": 35,
+        "wikipedia_absence": 1,
+        "wikipedia_disagreement": 1
+      }
+    },
+    "C1251-C1500": {
+      "candidates": 233,
+      "risk_reasons": {
+        "categorical_or_superlative": 26,
+        "disputed_status": 107,
+        "duplicate_decision_variance": 5,
+        "high_consensus_without_strong_source": 67,
+        "high_risk_fact_type": 95,
+        "late_source_recheck": 27,
+        "non_high_consensus": 129,
+        "unknown_source_classification": 51,
+        "wikipedia_absence": 1
+      }
+    },
+    "C1501-C1750": {
+      "candidates": 210,
+      "risk_reasons": {
+        "categorical_or_superlative": 39,
+        "disputed_status": 94,
+        "duplicate_decision_variance": 2,
+        "high_consensus_without_strong_source": 68,
+        "high_risk_fact_type": 71,
+        "late_source_recheck": 28,
+        "non_high_consensus": 97,
+        "unknown_source_classification": 38
+      }
+    },
+    "C1751-C2000": {
+      "candidates": 192,
+      "risk_reasons": {
+        "categorical_or_superlative": 25,
+        "disputed_status": 53,
+        "duplicate_decision_variance": 3,
+        "high_consensus_without_strong_source": 52,
+        "high_risk_fact_type": 94,
+        "late_source_recheck": 24,
+        "non_high_consensus": 87,
+        "unknown_source_classification": 52,
+        "wikipedia_disagreement": 4
+      }
+    },
+    "C2001-C2250": {
+      "candidates": 224,
+      "risk_reasons": {
+        "categorical_or_superlative": 47,
+        "disputed_status": 80,
+        "duplicate_decision_variance": 1,
+        "high_consensus_without_strong_source": 69,
+        "high_risk_fact_type": 162,
+        "late_source_recheck": 14,
+        "non_high_consensus": 62,
+        "unknown_source_classification": 83,
+        "wikipedia_disagreement": 1
+      }
+    },
+    "C2251-C2500": {
+      "candidates": 232,
+      "risk_reasons": {
+        "categorical_or_superlative": 61,
+        "disputed_status": 91,
+        "duplicate_decision_variance": 1,
+        "high_consensus_without_strong_source": 61,
+        "high_risk_fact_type": 162,
+        "late_source_recheck": 5,
+        "non_high_consensus": 66,
+        "unknown_source_classification": 91,
+        "wikipedia_disagreement": 1
+      }
+    },
+    "C2501-C2750": {
+      "candidates": 227,
+      "risk_reasons": {
+        "categorical_or_superlative": 60,
+        "disputed_status": 113,
+        "high_consensus_without_strong_source": 58,
+        "high_risk_fact_type": 146,
+        "non_high_consensus": 57,
+        "unknown_source_classification": 82,
+        "wikipedia_disagreement": 2
+      }
+    }
+  },
+  "candidates": 2488,
+  "claims": 2744,
+  "consensus": {
+    "высокий": 1751,
+    "конфликт": 52,
+    "низкий": 197,
+    "отсутствует": 95,
+    "средний": 649
+  },
+  "decisions": 2744,
+  "risk_reason": {
+    "categorical_or_superlative": 404,
+    "disputed_status": 927,
+    "duplicate_decision_variance": 64,
+    "high_consensus_without_strong_source": 854,
+    "high_risk_fact_type": 1118,
+    "late_source_recheck": 268,
+    "non_high_consensus": 993,
+    "unknown_source_classification": 561,
+    "wikipedia_absence": 3,
+    "wikipedia_disagreement": 15
+  },
+  "source_tier": {
+    "authoritative": 1205,
+    "limited": 1426,
+    "specialist": 1461,
+    "weak": 803,
+    "wikipedia": 2744
+  },
+  "sources": 3551,
+  "status": {
+    "в Википедиях отсутствует": 3,
+    "между Википедиями нет согласия": 6,
+    "непроверяемо по выбранному корпусу": 217,
+    "подтверждено частично": 465,
+    "расходится": 236,
+    "совпадает": 797,
+    "совпадает с уточнением": 1020
+  },
+  "totals": {
+    "categorical_or_superlative": 404,
+    "disputed_status": 927,
+    "duplicate_decision_variance": 64,
+    "high_consensus_without_strong_source": 854,
+    "high_risk_fact_type": 1118,
+    "late_source_recheck": 268,
+    "non_high_consensus": 993,
+    "unknown_source_classification": 561,
+    "wikipedia_absence": 3,
+    "wikipedia_disagreement": 15
+  }
+}

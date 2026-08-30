@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import argparse
 import hashlib
 import itertools
 import json
@@ -118,6 +119,36 @@ RISK_REASON_ORDER = (
     "categorical_or_superlative",
     "late_source_recheck",
     "unknown_source_classification",
+)
+ALLOWED_RESOLUTIONS = {
+    "согласован",
+    "исправлен",
+    "различается по охвату",
+    "остаётся неразрешённым",
+}
+CANDIDATE_FIELDS = (
+    "meta_id",
+    "candidate_key",
+    "kind",
+    "claim_ids",
+    "risk_reasons",
+    "source_profile",
+    "original_statuses",
+)
+REVIEW_FIELDS = (
+    "meta_id",
+    "candidate_key",
+    "kind",
+    "claim_ids",
+    "canonical_question",
+    "risk_reasons",
+    "scope",
+    "source_lines",
+    "source_weight",
+    "resolution",
+    "resolution_notes",
+    "changes",
+    "remaining_gap",
 )
 DISPUTED_STATUSES = {
     "подтверждено частично",
@@ -1361,4 +1392,318 @@ def scan_audit(base_dir: Path, policy_path: Path) -> dict:
         "duplicates": duplicates,
         "claim_risks": claim_risks,
         "source_profiles": profiles,
+        "decisions_by_id": decisions_by_id,
+        "source_records": sources,
     }
+
+
+def _candidate_key(candidate: dict) -> str:
+    claim_ids = ",".join(
+        sorted((str(claim_id) for claim_id in candidate.get("claim_ids", [])), key=_claim_sort_key)
+    )
+    if candidate.get("kind") == "смысловой повтор":
+        scope = ",".join(sorted(str(key) for key in candidate.get("shared_keys", [])))
+        return f"repeat:{claim_ids}:{candidate.get('match', 'unknown')}:{scope}"
+    reasons = ",".join(str(reason) for reason in candidate.get("risk_reasons", []))
+    return f"risk:{claim_ids}:{reasons}"
+
+
+def _candidate_sort_key(candidate: dict) -> tuple[tuple[int, str], int, str]:
+    claim_ids = candidate.get("claim_ids", [])
+    first_claim = min((_claim_sort_key(claim_id) for claim_id in claim_ids), default=(10**12, ""))
+    return (
+        first_claim,
+        0 if candidate.get("kind") == "смысловой повтор" else 1,
+        _candidate_key(candidate),
+    )
+
+
+def _candidate_source_profile(candidate: dict, scan: dict) -> dict:
+    if candidate.get("source_profile"):
+        return candidate["source_profile"]
+    profiles = scan.get("source_profiles", {})
+    return {
+        str(claim_id): profiles.get(str(claim_id), _empty_source_profile())
+        for claim_id in candidate.get("claim_ids", [])
+    }
+
+
+def _candidate_original_statuses(candidate: dict, scan: dict) -> list[dict]:
+    if "original_statuses" in candidate:
+        return candidate["original_statuses"]
+    decisions = scan.get("decisions_by_id", {})
+    return [
+        {
+            "claim_id": str(claim_id),
+            "status": decisions.get(str(claim_id), {}).get("status"),
+            "consensus": decisions.get(str(claim_id), {}).get("consensus"),
+        }
+        for claim_id in candidate.get("claim_ids", [])
+    ]
+
+
+def _frozen_candidates(scan: dict) -> list[dict]:
+    raw_candidates = [*scan.get("duplicates", []), *scan.get("claim_risks", [])]
+    candidates: list[dict] = []
+    for raw in sorted(raw_candidates, key=_candidate_sort_key):
+        candidates.append(
+            {
+                "candidate_key": _candidate_key(raw),
+                "kind": raw.get("kind"),
+                "claim_ids": sorted(
+                    (str(claim_id) for claim_id in raw.get("claim_ids", [])),
+                    key=_claim_sort_key,
+                ),
+                "risk_reasons": list(raw.get("risk_reasons", [])),
+                "source_profile": _candidate_source_profile(raw, scan),
+                "original_statuses": _candidate_original_statuses(raw, scan),
+            }
+        )
+    for index, candidate in enumerate(candidates, start=1):
+        candidate["meta_id"] = f"M{index:04d}"
+    return candidates
+
+
+def _candidate_validation_errors(candidates: list[dict], strict: bool) -> list[str]:
+    errors: list[str] = []
+    seen_meta_ids: set[str] = set()
+    seen_keys: set[str] = set()
+    for index, candidate in enumerate(candidates, start=1):
+        if not isinstance(candidate, dict):
+            errors.append(f"candidate {index}: expected a JSON object")
+            continue
+        if strict:
+            for field in CANDIDATE_FIELDS:
+                if field not in candidate:
+                    errors.append(f"candidate {index}: missing {field}")
+        meta_id = candidate.get("meta_id")
+        if meta_id:
+            if not isinstance(meta_id, str) or not re.fullmatch(r"M\d{4,}", meta_id):
+                errors.append(f"invalid meta_id {meta_id}")
+            elif meta_id in seen_meta_ids:
+                errors.append(f"duplicate meta_id {meta_id}")
+            seen_meta_ids.add(meta_id)
+        elif strict:
+            errors.append(f"candidate {index}: empty meta_id")
+        key = candidate.get("candidate_key")
+        if not isinstance(key, str) or not key.strip():
+            errors.append(f"candidate {index}: empty candidate_key")
+        elif key in seen_keys:
+            errors.append(f"duplicate candidate_key {key}")
+        else:
+            seen_keys.add(key)
+        if strict:
+            claim_ids = candidate.get("claim_ids")
+            if not isinstance(claim_ids, list) or not claim_ids:
+                errors.append(f"candidate {key or index}: missing claim_ids")
+            elif any(not isinstance(claim_id, str) or not claim_id for claim_id in claim_ids):
+                errors.append(f"candidate {key or index}: invalid claim_ids")
+            for field in ("kind",):
+                if not isinstance(candidate.get(field), str) or not candidate[field].strip():
+                    errors.append(f"candidate {key or index}: empty {field}")
+            for field in ("risk_reasons", "original_statuses"):
+                if not isinstance(candidate.get(field), list):
+                    errors.append(f"candidate {key or index}: invalid {field}")
+            if not isinstance(candidate.get("source_profile"), dict):
+                errors.append(f"candidate {key or index}: invalid source_profile")
+    if strict:
+        expected_ids = [f"M{index:04d}" for index in range(1, len(candidates) + 1)]
+        actual_ids = [candidate.get("meta_id") for candidate in candidates if isinstance(candidate, dict)]
+        if actual_ids != expected_ids:
+            errors.append("candidate meta_id values must be contiguous from M0001")
+    return errors
+
+
+def write_candidates(scan: dict, path: Path) -> None:
+    candidates = _frozen_candidates(scan)
+    errors = _candidate_validation_errors(candidates, strict=True)
+    if errors:
+        raise ValueError("; ".join(errors))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        "".join(
+            json.dumps(candidate, ensure_ascii=False, sort_keys=True) + "\n"
+            for candidate in candidates
+        ),
+        encoding="utf-8",
+    )
+
+
+def load_candidates(path: Path) -> list[dict]:
+    candidates = load_jsonl(path)
+    errors = _candidate_validation_errors(candidates, strict=True)
+    if errors:
+        raise ValueError("; ".join(errors))
+    return candidates
+
+
+def validate_review(
+    candidates: list[dict],
+    claim_ids: set[str],
+    records: list[dict],
+    require_complete: bool,
+) -> list[str]:
+    errors = _candidate_validation_errors(candidates, strict=False)
+    candidates_by_key = {
+        candidate.get("candidate_key"): candidate
+        for candidate in candidates
+        if isinstance(candidate, dict) and isinstance(candidate.get("candidate_key"), str)
+    }
+    for candidate in candidates:
+        if isinstance(candidate, dict):
+            for claim_id in candidate.get("claim_ids", []):
+                if str(claim_id) not in claim_ids:
+                    errors.append(f"unknown claim {claim_id}")
+
+    reviewed_keys: set[str] = set()
+    prose_fields = ("canonical_question", "scope", "source_weight", "resolution_notes")
+    for index, record in enumerate(records, start=1):
+        if not isinstance(record, dict):
+            errors.append(f"review {index}: expected a JSON object")
+            continue
+        for field in REVIEW_FIELDS:
+            if field not in record:
+                errors.append(f"review {index}: missing {field}")
+        key = record.get("candidate_key")
+        candidate = candidates_by_key.get(key)
+        if not isinstance(key, str) or not key:
+            errors.append("empty candidate_key")
+        elif key in reviewed_keys:
+            errors.append(f"duplicate review candidate_key {key}")
+        else:
+            reviewed_keys.add(key)
+        if key and candidate is None:
+            errors.append(f"unknown candidate {key}")
+        for field in prose_fields:
+            if not isinstance(record.get(field), str) or not record[field].strip():
+                errors.append(f"empty {field}")
+        if not isinstance(record.get("source_lines"), list):
+            errors.append("invalid source_lines")
+        if not isinstance(record.get("changes"), list):
+            errors.append("invalid changes")
+        resolution = record.get("resolution")
+        if resolution not in ALLOWED_RESOLUTIONS:
+            errors.append(f"invalid resolution {resolution}")
+        if resolution == "остаётся неразрешённым" and (
+            not isinstance(record.get("remaining_gap"), str)
+            or not record["remaining_gap"].strip()
+        ):
+            errors.append("empty remaining_gap")
+        for claim_id in record.get("claim_ids", []):
+            if str(claim_id) not in claim_ids:
+                errors.append(f"unknown claim {claim_id}")
+        if candidate is not None:
+            for field in ("meta_id", "kind", "claim_ids", "risk_reasons"):
+                if record.get(field) != candidate.get(field):
+                    errors.append(f"candidate {key}: {field} does not match frozen candidate")
+    if require_complete:
+        for candidate in candidates:
+            if not isinstance(candidate, dict):
+                continue
+            key = candidate.get("candidate_key")
+            if isinstance(key, str) and key and key not in reviewed_keys:
+                errors.append(f"unreviewed candidate {key}")
+    return errors
+
+
+def _claim_band(claim_id: str) -> str:
+    claim_number = _claim_number(claim_id)
+    band_start = ((claim_number - 1) // 250) * 250 + 1
+    return f"C{band_start:04d}-C{band_start + 249:04d}"
+
+
+def build_baseline(scan: dict, candidates: list[dict]) -> dict:
+    status_counts: dict[str, int] = defaultdict(int)
+    consensus_counts: dict[str, int] = defaultdict(int)
+    source_tier_counts: dict[str, int] = defaultdict(int)
+    risk_reason_counts: dict[str, int] = defaultdict(int)
+    bands: dict[str, dict] = {}
+    for decision in scan.get("decisions_by_id", {}).values():
+        status_counts[str(decision.get("status"))] += 1
+        consensus_counts[str(decision.get("consensus"))] += 1
+    for profile in scan.get("source_profiles", {}).values():
+        for tier in profile.get("tiers", []):
+            source_tier_counts[str(tier)] += 1
+    for candidate in candidates:
+        claim_ids = candidate.get("claim_ids", [])
+        if not claim_ids:
+            continue
+        band = _claim_band(min((str(claim_id) for claim_id in claim_ids), key=_claim_sort_key))
+        band_counts = bands.setdefault(
+            band,
+            {"candidates": 0, "risk_reasons": defaultdict(int)},
+        )
+        band_counts["candidates"] += 1
+        for reason in candidate.get("risk_reasons", []):
+            risk_reason_counts[str(reason)] += 1
+            band_counts["risk_reasons"][str(reason)] += 1
+    return {
+        "claims": scan.get("claims", 0),
+        "decisions": scan.get("decisions", 0),
+        "sources": scan.get("sources", 0),
+        "candidates": len(candidates),
+        "by_claim_band": {
+            band: {
+                "candidates": values["candidates"],
+                "risk_reasons": dict(sorted(values["risk_reasons"].items())),
+            }
+            for band, values in sorted(bands.items())
+        },
+        "status": dict(sorted(status_counts.items())),
+        "consensus": dict(sorted(consensus_counts.items())),
+        "source_tier": dict(sorted(source_tier_counts.items())),
+        "risk_reason": dict(sorted(risk_reason_counts.items())),
+        "totals": dict(sorted(risk_reason_counts.items())),
+    }
+
+
+def _write_baseline(scan: dict, candidates: list[dict], path: Path) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        json.dumps(build_baseline(scan, candidates), ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description="Cross-audit candidate scanner and review validator")
+    subparsers = parser.add_subparsers(dest="command", required=True)
+    scan_parser = subparsers.add_parser("scan")
+    scan_parser.add_argument("base_dir", type=Path)
+    scan_parser.add_argument("--policy", required=True, type=Path)
+    scan_parser.add_argument("--candidates", required=True, type=Path)
+    scan_parser.add_argument("--baseline", required=True, type=Path)
+    review_parser = subparsers.add_parser("validate-review")
+    review_parser.add_argument("base_dir", type=Path)
+    review_parser.add_argument("--policy", required=True, type=Path)
+    review_parser.add_argument("--candidates", required=True, type=Path)
+    review_parser.add_argument("--review", required=True, type=Path)
+    review_parser.add_argument("--require-complete", action="store_true")
+    args = parser.parse_args(argv)
+    try:
+        if args.command == "scan":
+            scan = scan_audit(args.base_dir, args.policy)
+            write_candidates(scan, args.candidates)
+            candidates = load_candidates(args.candidates)
+            _write_baseline(scan, candidates, args.baseline)
+            print(f"wrote {len(candidates)} candidates")
+            return 0
+        load_source_policy(args.policy)
+        candidates = load_candidates(args.candidates)
+        claim_ids = {
+            str(claim.get("claim_id")) for claim in load_jsonl(args.base_dir / "claims.jsonl")
+        }
+        records = load_jsonl(args.review) if args.review.exists() else []
+        errors = validate_review(candidates, claim_ids, records, args.require_complete)
+    except (OSError, ValueError) as error:
+        print(str(error), file=__import__("sys").stderr)
+        return 2
+    if errors:
+        print("\n".join(errors), file=__import__("sys").stderr)
+        return 1
+    print("review validation passed")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

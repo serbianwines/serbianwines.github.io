@@ -1477,27 +1477,35 @@ def _candidate_validation_errors(candidates: list[dict], strict: bool) -> list[s
                 if field not in candidate:
                     errors.append(f"candidate {index}: missing {field}")
         meta_id = candidate.get("meta_id")
-        if meta_id:
-            if not isinstance(meta_id, str) or not re.fullmatch(r"M\d{4,}", meta_id):
+        if "meta_id" in candidate:
+            if not isinstance(meta_id, str):
+                errors.append(f"invalid meta_id {meta_id}")
+            elif not re.fullmatch(r"M\d{4,}", meta_id):
                 errors.append(f"invalid meta_id {meta_id}")
             elif meta_id in seen_meta_ids:
                 errors.append(f"duplicate meta_id {meta_id}")
-            seen_meta_ids.add(meta_id)
+            else:
+                seen_meta_ids.add(meta_id)
         elif strict:
             errors.append(f"candidate {index}: empty meta_id")
         key = candidate.get("candidate_key")
-        if not isinstance(key, str) or not key.strip():
+        if not isinstance(key, str):
+            errors.append("invalid candidate_key")
+        elif not key.strip():
             errors.append(f"candidate {index}: empty candidate_key")
         elif key in seen_keys:
             errors.append(f"duplicate candidate_key {key}")
         else:
             seen_keys.add(key)
-        if strict:
-            claim_ids = candidate.get("claim_ids")
-            if not isinstance(claim_ids, list) or not claim_ids:
+        claim_ids = candidate.get("claim_ids")
+        if strict or "claim_ids" in candidate:
+            if not isinstance(claim_ids, list):
+                errors.append("invalid claim_ids")
+            elif strict and not claim_ids:
                 errors.append(f"candidate {key or index}: missing claim_ids")
             elif any(not isinstance(claim_id, str) or not claim_id for claim_id in claim_ids):
                 errors.append(f"candidate {key or index}: invalid claim_ids")
+        if strict:
             for field in ("kind",):
                 if not isinstance(candidate.get(field), str) or not candidate[field].strip():
                     errors.append(f"candidate {key or index}: empty {field}")
@@ -1550,8 +1558,8 @@ def validate_review(
         if isinstance(candidate, dict) and isinstance(candidate.get("candidate_key"), str)
     }
     for candidate in candidates:
-        if isinstance(candidate, dict):
-            for claim_id in candidate.get("claim_ids", []):
+        if isinstance(candidate, dict) and isinstance(candidate.get("claim_ids"), list):
+            for claim_id in candidate["claim_ids"]:
                 if str(claim_id) not in claim_ids:
                     errors.append(f"unknown claim {claim_id}")
 
@@ -1565,8 +1573,10 @@ def validate_review(
             if field not in record:
                 errors.append(f"review {index}: missing {field}")
         key = record.get("candidate_key")
-        candidate = candidates_by_key.get(key)
-        if not isinstance(key, str) or not key:
+        candidate = candidates_by_key.get(key) if isinstance(key, str) else None
+        if not isinstance(key, str):
+            errors.append("invalid candidate_key")
+        elif not key:
             errors.append("empty candidate_key")
         elif key in reviewed_keys:
             errors.append(f"duplicate review candidate_key {key}")
@@ -1582,16 +1592,20 @@ def validate_review(
         if not isinstance(record.get("changes"), list):
             errors.append("invalid changes")
         resolution = record.get("resolution")
-        if resolution not in ALLOWED_RESOLUTIONS:
+        if not isinstance(resolution, str) or resolution not in ALLOWED_RESOLUTIONS:
             errors.append(f"invalid resolution {resolution}")
         if resolution == "остаётся неразрешённым" and (
             not isinstance(record.get("remaining_gap"), str)
             or not record["remaining_gap"].strip()
         ):
             errors.append("empty remaining_gap")
-        for claim_id in record.get("claim_ids", []):
-            if str(claim_id) not in claim_ids:
-                errors.append(f"unknown claim {claim_id}")
+        record_claim_ids = record.get("claim_ids")
+        if not isinstance(record_claim_ids, list):
+            errors.append("invalid claim_ids")
+        else:
+            for claim_id in record_claim_ids:
+                if str(claim_id) not in claim_ids:
+                    errors.append(f"unknown claim {claim_id}")
         if candidate is not None:
             for field in ("meta_id", "kind", "claim_ids", "risk_reasons"):
                 if record.get(field) != candidate.get(field):
@@ -1618,25 +1632,40 @@ def build_baseline(scan: dict, candidates: list[dict]) -> dict:
     source_tier_counts: dict[str, int] = defaultdict(int)
     risk_reason_counts: dict[str, int] = defaultdict(int)
     bands: dict[str, dict] = {}
-    for decision in scan.get("decisions_by_id", {}).values():
+
+    def band_counts(band: str) -> dict:
+        return bands.setdefault(
+            band,
+            {
+                "candidates": 0,
+                "status": defaultdict(int),
+                "consensus": defaultdict(int),
+                "source_tier": defaultdict(int),
+                "risk_reasons": defaultdict(int),
+            },
+        )
+
+    for claim_id, decision in scan.get("decisions_by_id", {}).items():
+        counts = band_counts(_claim_band(str(claim_id)))
         status_counts[str(decision.get("status"))] += 1
         consensus_counts[str(decision.get("consensus"))] += 1
-    for profile in scan.get("source_profiles", {}).values():
+        counts["status"][str(decision.get("status"))] += 1
+        counts["consensus"][str(decision.get("consensus"))] += 1
+    for claim_id, profile in scan.get("source_profiles", {}).items():
+        counts = band_counts(_claim_band(str(claim_id)))
         for tier in profile.get("tiers", []):
             source_tier_counts[str(tier)] += 1
+            counts["source_tier"][str(tier)] += 1
     for candidate in candidates:
         claim_ids = candidate.get("claim_ids", [])
         if not claim_ids:
             continue
         band = _claim_band(min((str(claim_id) for claim_id in claim_ids), key=_claim_sort_key))
-        band_counts = bands.setdefault(
-            band,
-            {"candidates": 0, "risk_reasons": defaultdict(int)},
-        )
-        band_counts["candidates"] += 1
+        counts = band_counts(band)
+        counts["candidates"] += 1
         for reason in candidate.get("risk_reasons", []):
             risk_reason_counts[str(reason)] += 1
-            band_counts["risk_reasons"][str(reason)] += 1
+            counts["risk_reasons"][str(reason)] += 1
     return {
         "claims": scan.get("claims", 0),
         "decisions": scan.get("decisions", 0),
@@ -1645,6 +1674,9 @@ def build_baseline(scan: dict, candidates: list[dict]) -> dict:
         "by_claim_band": {
             band: {
                 "candidates": values["candidates"],
+                "status": dict(sorted(values["status"].items())),
+                "consensus": dict(sorted(values["consensus"].items())),
+                "source_tier": dict(sorted(values["source_tier"].items())),
                 "risk_reasons": dict(sorted(values["risk_reasons"].items())),
             }
             for band, values in sorted(bands.items())

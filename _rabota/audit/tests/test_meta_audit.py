@@ -1378,6 +1378,12 @@ class CandidateTests(unittest.TestCase):
 
 
 class ReviewValidationTests(unittest.TestCase):
+    def _validation_errors_without_exception(self, callback):
+        try:
+            return callback()
+        except (TypeError, KeyError) as error:
+            return [f"unexpected exception: {type(error).__name__}: {error}"]
+
     def _candidate(self, **overrides):
         candidate = {
             "meta_id": "M0001",
@@ -1459,6 +1465,45 @@ class ReviewValidationTests(unittest.TestCase):
         self.assertIn("empty canonical_question", errors)
         self.assertIn("empty resolution_notes", errors)
 
+    def test_validate_review_reports_wrong_json_types_without_exceptions(self):
+        malformed_candidate_errors = self._validation_errors_without_exception(
+            lambda: meta_audit.validate_review(
+                [
+                    self._candidate(
+                        meta_id=[],
+                        candidate_key={"not": "a string"},
+                        claim_ids=None,
+                    )
+                ],
+                {"C0001"},
+                [],
+                False,
+            )
+        )
+        malformed_review_errors = self._validation_errors_without_exception(
+            lambda: meta_audit.validate_review(
+                [self._candidate()],
+                {"C0001"},
+                [
+                    self._review(
+                        candidate_key=["not-a-string"],
+                        resolution={"not": "a string"},
+                        claim_ids=None,
+                    )
+                ],
+                False,
+            )
+        )
+
+        self.assertNotIn("unexpected exception", "\n".join(malformed_candidate_errors))
+        self.assertNotIn("unexpected exception", "\n".join(malformed_review_errors))
+        self.assertIn("invalid meta_id []", malformed_candidate_errors)
+        self.assertIn("invalid candidate_key", malformed_candidate_errors)
+        self.assertIn("invalid claim_ids", malformed_candidate_errors)
+        self.assertIn("invalid candidate_key", malformed_review_errors)
+        self.assertIn("invalid resolution", "\n".join(malformed_review_errors))
+        self.assertIn("invalid claim_ids", malformed_review_errors)
+
     def test_require_complete_reports_unreviewed_candidate(self):
         candidates = [{"candidate_key": "risk:C0001"}]
         self.assertTrue(hasattr(meta_audit, "validate_review"))
@@ -1484,6 +1529,64 @@ class ReviewValidationTests(unittest.TestCase):
         self.assertEqual(validate.returncode, 0, validate.stderr)
         self.assertEqual(require_complete.returncode, 1, require_complete.stderr)
         self.assertIn("unreviewed candidate", require_complete.stderr)
+
+
+class BaselineTests(unittest.TestCase):
+    def test_each_claim_band_includes_reconcilable_methodology_counts(self):
+        scan = {
+            "claims": 500,
+            "decisions": 2,
+            "sources": 3,
+            "decisions_by_id": {
+                "C0001": {"status": "совпадает", "consensus": "высокий"},
+                "C0251": {"status": "расходится", "consensus": "конфликт"},
+            },
+            "source_profiles": {
+                "C0001": {"tiers": ["authoritative", "wikipedia"]},
+                "C0251": {"tiers": ["specialist"]},
+            },
+        }
+        candidates = [
+            {"candidate_key": "risk:C0001", "claim_ids": ["C0001"], "risk_reasons": ["disputed_status"]},
+            {"candidate_key": "risk:C0251", "claim_ids": ["C0251"], "risk_reasons": ["high_risk_fact_type"]},
+        ]
+
+        baseline = meta_audit.build_baseline(scan, candidates)
+
+        self.assertEqual(set(baseline["by_claim_band"]), {"C0001-C0250", "C0251-C0500"})
+        for counts in baseline["by_claim_band"].values():
+            self.assertIn("status", counts)
+            self.assertIn("consensus", counts)
+            self.assertIn("source_tier", counts)
+            self.assertIn("risk_reasons", counts)
+        self.assertEqual(
+            baseline["status"],
+            {
+                key: sum(band["status"].get(key, 0) for band in baseline["by_claim_band"].values())
+                for key in baseline["status"]
+            },
+        )
+        self.assertEqual(
+            baseline["consensus"],
+            {
+                key: sum(band["consensus"].get(key, 0) for band in baseline["by_claim_band"].values())
+                for key in baseline["consensus"]
+            },
+        )
+        self.assertEqual(
+            baseline["source_tier"],
+            {
+                key: sum(band["source_tier"].get(key, 0) for band in baseline["by_claim_band"].values())
+                for key in baseline["source_tier"]
+            },
+        )
+        self.assertEqual(
+            baseline["risk_reason"],
+            {
+                key: sum(band["risk_reasons"].get(key, 0) for band in baseline["by_claim_band"].values())
+                for key in baseline["risk_reason"]
+            },
+        )
 
 
 if __name__ == "__main__":

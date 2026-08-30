@@ -2,6 +2,13 @@
   "by_claim_band": {
     "C0001-C0250": {
       "candidates": 243,
+      "consensus": {
+        "высокий": 163,
+        "конфликт": 10,
+        "низкий": 16,
+        "отсутствует": 15,
+        "средний": 46
+      },
       "risk_reasons": {
         "categorical_or_superlative": 27,
         "disputed_status": 65,
@@ -13,10 +20,32 @@
         "unknown_source_classification": 13,
         "wikipedia_absence": 1,
         "wikipedia_disagreement": 4
+      },
+      "source_tier": {
+        "authoritative": 108,
+        "limited": 69,
+        "specialist": 125,
+        "weak": 24,
+        "wikipedia": 250
+      },
+      "status": {
+        "в Википедиях отсутствует": 1,
+        "непроверяемо по выбранному корпусу": 19,
+        "подтверждено частично": 24,
+        "расходится": 21,
+        "совпадает": 122,
+        "совпадает с уточнением": 63
       }
     },
     "C0251-C0500": {
       "candidates": 227,
+      "consensus": {
+        "высокий": 177,
+        "конфликт": 7,
+        "низкий": 6,
+        "отсутствует": 5,
+        "средний": 55
+      },
       "risk_reasons": {
         "categorical_or_superlative": 41,
         "disputed_status": 63,
@@ -27,10 +56,32 @@
         "non_high_consensus": 73,
         "unknown_source_classification": 27,
         "wikipedia_disagreement": 1
+      },
+      "source_tier": {
+        "authoritative": 53,
+        "limited": 187,
+        "specialist": 129,
+        "weak": 48,
+        "wikipedia": 250
+      },
+      "status": {
+        "между Википедиями нет согласия": 1,
+        "непроверяемо по выбранному корпусу": 9,
+        "подтверждено частично": 28,
+        "расходится": 25,
+        "совпадает": 104,
+        "совпадает с уточнением": 83
       }
     },
     "C0501-C0750": {
       "candidates": 235,
+      "consensus": {
+        "высокий": 131,
+        "конфликт": 5,
+        "низкий": 30,
+        "отсутствует": 8,
+        "средний": 76
+      },
       "risk_reasons": {
         "categorical_or_superlative": 22,
         "disputed_status": 80,
@@ -40,10 +91,30 @@
         "late_source_recheck": 42,
         "non_high_consensus": 119,
         "unknown_source_classification": 34
+      },
+      "source_tier": {
+        "authoritative": 80,
+        "limited": 156,
+        "specialist": 134,
+        "weak": 67,
+        "wikipedia": 250
+      },
+      "status": {
+        "непроверяемо по выбранному корпусу": 30,
+        "подтверждено частично": 26,
+        "расходится": 24,
+        "совпадает": 86,
+        "совпадает с уточнением": 84
       }
     },
     "C0751-C1000": {
       "candidates": 230,
+      "consensus": {
+        "высокий": 125,
+        "конфликт": 8,
+        "низкий": 39,
+        "средний": 78
+      },
       "risk_reasons": {
         "categorical_or_superlative": 26,
         "disputed_status": 102,
@@ -54,10 +125,30 @@
         "non_high_consensus": 125,
         "unknown_source_classification": 55,
         "wikipedia_disagreement": 1
+      },
+      "source_tier": {
+        "authoritative": 69,
+        "limited": 175,
+        "specialist": 202,
+        "weak": 97,
+        "wikipedia": 250
+      },
+      "status": {
+        "непроверяемо по выбранному корпусу": 37,
+        "подтверждено частично": 51,
+        "расходится": 14,
+        "совпадает": 72,
+        "совпадает с уточнением": 76
       }
     },
     "C1001-C1250": {
       "candidates": 235,
+      "consensus": {
+        "высокий": 159,
+        "низкий": 22,
+        "отсутствует": 15,
+        "средний": 54
+      },
       "risk_reasons": {
         "categorical_or_superlative": 30,
         "disputed_status": 79,
@@ -69,10 +160,32 @@
         "unknown_source_classification": 35,
         "wikipedia_absence": 1,
         "wikipedia_disagreement": 1
+      },
+      "source_tier": {
+        "authoritative": 45,
+        "limited": 135,
+        "specialist": 101,
+        "weak": 53,
+        "wikipedia": 250
+      },
+      "status": {
+        "в Википедиях отсутствует": 1,
+        "непроверяемо по выбранному корпусу": 19,
+        "подтверждено частично": 44,
+        "расходится": 15,
+        "совпадает": 78,
+        "совпадает с уточнением": 93
       }
     },
     "C1251-C1500": {
       "candidates": 233,
+      "consensus": {
+        "высокий": 121,
+        "конфликт": 2,
+        "низкий": 34,
+        "отсутствует": 16,
+        "средний": 77
+      },
       "risk_reasons": {
         "categorical_or_superlative": 26,
         "disputed_status": 107,
@@ -83,10 +196,32 @@
         "non_high_consensus": 129,
         "unknown_source_classification": 51,
         "wikipedia_absence": 1
+      },
+      "source_tier": {
+        "authoritative": 43,
+        "limited": 94,
+        "specialist": 130,
+        "weak": 72,
+        "wikipedia": 250
+      },
+      "status": {
+        "в Википедиях отсутствует": 1,
+        "непроверяемо по выбранному корпусу": 30,
+        "подтверждено частично": 53,
+        "расходится": 23,
+        "совпадает": 69,
+        "совпадает с уточнением": 74
       }
     },
     "C1501-C1750": {
       "candidates": 210,
+      "consensus": {
+        "высокий": 153,
+        "конфликт": 3,
+        "низкий": 17,
+        "отсутствует": 8,
+        "средний": 69
+      },
       "risk_reasons": {
         "categorical_or_superlative": 39,
         "disputed_status": 94,
@@ -96,10 +231,31 @@
         "late_source_recheck": 28,
         "non_high_consensus": 97,
         "unknown_source_classification": 38
+      },
+      "source_tier": {
+        "authoritative": 151,
+        "limited": 192,
+        "specialist": 190,
+        "weak": 55,
+        "wikipedia": 250
+      },
+      "status": {
+        "непроверяемо по выбранному корпусу": 19,
+        "подтверждено частично": 48,
+        "расходится": 27,
+        "совпадает": 56,
+        "совпадает с уточнением": 100
       }
     },
     "C1751-C2000": {
       "candidates": 192,
+      "consensus": {
+        "высокий": 163,
+        "конфликт": 6,
+        "низкий": 19,
+        "отсутствует": 2,
+        "средний": 60
+      },
       "risk_reasons": {
         "categorical_or_superlative": 25,
         "disputed_status": 53,
@@ -110,10 +266,32 @@
         "non_high_consensus": 87,
         "unknown_source_classification": 52,
         "wikipedia_disagreement": 4
+      },
+      "source_tier": {
+        "authoritative": 138,
+        "limited": 214,
+        "specialist": 174,
+        "weak": 84,
+        "wikipedia": 250
+      },
+      "status": {
+        "между Википедиями нет согласия": 3,
+        "непроверяемо по выбранному корпусу": 7,
+        "подтверждено частично": 32,
+        "расходится": 11,
+        "совпадает": 89,
+        "совпадает с уточнением": 108
       }
     },
     "C2001-C2250": {
       "candidates": 224,
+      "consensus": {
+        "высокий": 188,
+        "конфликт": 7,
+        "низкий": 2,
+        "отсутствует": 12,
+        "средний": 41
+      },
       "risk_reasons": {
         "categorical_or_superlative": 47,
         "disputed_status": 80,
@@ -124,10 +302,31 @@
         "non_high_consensus": 62,
         "unknown_source_classification": 83,
         "wikipedia_disagreement": 1
+      },
+      "source_tier": {
+        "authoritative": 177,
+        "limited": 86,
+        "specialist": 115,
+        "weak": 104,
+        "wikipedia": 250
+      },
+      "status": {
+        "непроверяемо по выбранному корпусу": 14,
+        "подтверждено частично": 42,
+        "расходится": 24,
+        "совпадает": 44,
+        "совпадает с уточнением": 126
       }
     },
     "C2251-C2500": {
       "candidates": 232,
+      "consensus": {
+        "высокий": 184,
+        "конфликт": 2,
+        "низкий": 1,
+        "отсутствует": 10,
+        "средний": 53
+      },
       "risk_reasons": {
         "categorical_or_superlative": 61,
         "disputed_status": 91,
@@ -138,10 +337,32 @@
         "non_high_consensus": 66,
         "unknown_source_classification": 91,
         "wikipedia_disagreement": 1
+      },
+      "source_tier": {
+        "authoritative": 177,
+        "limited": 78,
+        "specialist": 80,
+        "weak": 104,
+        "wikipedia": 250
+      },
+      "status": {
+        "между Википедиями нет согласия": 1,
+        "непроверяемо по выбранному корпусу": 17,
+        "подтверждено частично": 53,
+        "расходится": 20,
+        "совпадает": 60,
+        "совпадает с уточнением": 99
       }
     },
     "C2501-C2750": {
       "candidates": 227,
+      "consensus": {
+        "высокий": 187,
+        "конфликт": 2,
+        "низкий": 11,
+        "отсутствует": 4,
+        "средний": 40
+      },
       "risk_reasons": {
         "categorical_or_superlative": 60,
         "disputed_status": 113,
@@ -150,6 +371,21 @@
         "non_high_consensus": 57,
         "unknown_source_classification": 82,
         "wikipedia_disagreement": 2
+      },
+      "source_tier": {
+        "authoritative": 164,
+        "limited": 40,
+        "specialist": 81,
+        "weak": 95,
+        "wikipedia": 244
+      },
+      "status": {
+        "между Википедиями нет согласия": 1,
+        "непроверяемо по выбранному корпусу": 16,
+        "подтверждено частично": 64,
+        "расходится": 32,
+        "совпадает": 17,
+        "совпадает с уточнением": 114
       }
     }
   },

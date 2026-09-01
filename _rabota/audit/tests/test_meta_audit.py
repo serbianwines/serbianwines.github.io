@@ -66,6 +66,21 @@ class SourcePolicyTests(unittest.TestCase):
         self.assertEqual(result["tier"], "specialist")
         self.assertEqual(result["competence"], "role_unspecified")
 
+    def test_official_austrian_wine_body_is_authoritative(self):
+        source = {
+            "resource": "official_austrian_wine_body",
+            "relation": "primary_current_protection_origin_and_sweet_style_evidence",
+            "provenance": "Official Austrian Wine Marketing Board regional and legal-category guide",
+            "url": "https://www.austrianwine.com/our-wine/winegrowing-regions/burgenland/leithaberg-incl-rust",
+            "title": "Austrian Wine — Leithaberg including Ruster Ausbruch DAC",
+            "summary": "Ruster Ausbruch DAC is a protected Rust-origin wine.",
+        }
+
+        result = classify_source(source, load_source_policy(POLICY_PATH))
+
+        self.assertEqual(result["tier"], "authoritative")
+        self.assertFalse(result["needs_policy_review"])
+
     def test_producer_first_claim_is_interested_only(self):
         source = {
             "resource": "official_producer",
@@ -1457,6 +1472,60 @@ class ReviewValidationTests(unittest.TestCase):
         self.assertTrue(hasattr(meta_audit, "validate_review"))
         errors = meta_audit.validate_review([self._candidate()], {"C0001"}, [self._review(claim_ids=["C9999"])], False)
         self.assertIn("unknown claim C9999", errors)
+
+    def test_validate_review_rejects_supporting_and_checked_only_sources_without_reverse_claim_links(self):
+        review = self._review(
+            source_lines=[
+                {
+                    "claim_id": "C0001",
+                    "source_ids": ["E000001"],
+                    "checked_only_source_ids": ["E000002", "E000003"],
+                }
+            ]
+        )
+
+        errors = meta_audit.validate_review(
+            [self._candidate()],
+            {"C0001"},
+            [review],
+            False,
+            {"E000001": {"C9999"}, "E000002": {"C9999"}},
+        )
+
+        self.assertIn("review M0001 source E000001 missing reverse claim C0001", errors)
+        self.assertIn("review M0001 source E000002 missing reverse claim C0001", errors)
+        self.assertIn("review M0001 source E000003 is unknown", errors)
+
+    def test_validate_review_accepts_combined_source_line_when_every_reverse_link_exists(self):
+        candidate = self._candidate(
+            claim_ids=["C0001", "C0002"],
+            candidate_key="repeat:C0001,C0002:exact:test",
+            kind="смысловой повтор",
+            risk_reasons=["duplicate_decision_variance"],
+        )
+        review = self._review(
+            meta_id="M0001",
+            candidate_key="repeat:C0001,C0002:exact:test",
+            kind="смысловой повтор",
+            claim_ids=["C0001", "C0002"],
+            risk_reasons=["duplicate_decision_variance"],
+            source_lines=[
+                {
+                    "claim_ids": ["C0001", "C0002"],
+                    "source_ids": ["E000001", "E000002"],
+                }
+            ],
+        )
+
+        errors = meta_audit.validate_review(
+            [candidate],
+            {"C0001", "C0002"},
+            [review],
+            False,
+            {"E000001": {"C0001", "C0002"}, "E000002": {"C0001", "C0002"}},
+        )
+
+        self.assertEqual(errors, [])
 
     def test_validate_review_rejects_invalid_resolution_and_empty_prose(self):
         self.assertTrue(hasattr(meta_audit, "validate_review"))

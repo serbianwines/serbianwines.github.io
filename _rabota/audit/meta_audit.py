@@ -1550,6 +1550,7 @@ def validate_review(
     claim_ids: set[str],
     records: list[dict],
     require_complete: bool,
+    source_claim_ids: dict[str, set[str]] | None = None,
 ) -> list[str]:
     errors = _candidate_validation_errors(candidates, strict=False)
     candidates_by_key = {
@@ -1589,6 +1590,32 @@ def validate_review(
                 errors.append(f"empty {field}")
         if not isinstance(record.get("source_lines"), list):
             errors.append("invalid source_lines")
+        elif source_claim_ids is not None:
+            review_id = record.get("meta_id", index)
+            for source_line in record["source_lines"]:
+                if not isinstance(source_line, dict):
+                    continue
+                if isinstance(source_line.get("claim_id"), str):
+                    line_claim_ids = [source_line["claim_id"]]
+                elif isinstance(source_line.get("claim_ids"), list):
+                    line_claim_ids = [str(claim_id) for claim_id in source_line["claim_ids"]]
+                else:
+                    continue
+                for field in ("source_ids", "checked_only_source_ids"):
+                    source_ids = source_line.get(field, [])
+                    if not isinstance(source_ids, list):
+                        continue
+                    for source_id in source_ids:
+                        source_id = str(source_id)
+                        reverse_claim_ids = source_claim_ids.get(source_id)
+                        if reverse_claim_ids is None:
+                            errors.append(f"review {review_id} source {source_id} is unknown")
+                            continue
+                        for line_claim_id in line_claim_ids:
+                            if line_claim_id not in reverse_claim_ids:
+                                errors.append(
+                                    f"review {review_id} source {source_id} missing reverse claim {line_claim_id}"
+                                )
         if not isinstance(record.get("changes"), list):
             errors.append("invalid changes")
         resolution = record.get("resolution")
@@ -1725,8 +1752,21 @@ def main(argv: list[str] | None = None) -> int:
         claim_ids = {
             str(claim.get("claim_id")) for claim in load_jsonl(args.base_dir / "claims.jsonl")
         }
+        source_claim_ids = {
+            str(source.get("source_id")): {
+                str(claim_id) for claim_id in source.get("claim_ids", [])
+            }
+            for source in load_jsonl(args.base_dir / "sources.jsonl")
+            if isinstance(source.get("source_id"), str)
+        }
         records = load_jsonl(args.review) if args.review.exists() else []
-        errors = validate_review(candidates, claim_ids, records, args.require_complete)
+        errors = validate_review(
+            candidates,
+            claim_ids,
+            records,
+            args.require_complete,
+            source_claim_ids,
+        )
     except (OSError, ValueError) as error:
         print(str(error), file=__import__("sys").stderr)
         return 2

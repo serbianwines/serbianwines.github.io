@@ -81,6 +81,22 @@ class SourcePolicyTests(unittest.TestCase):
         self.assertEqual(result["tier"], "authoritative")
         self.assertFalse(result["needs_policy_review"])
 
+    def test_official_austrian_wine_body_archive_requires_policy_review(self):
+        source = {
+            "resource": "official_austrian_wine_body_archive",
+            "relation": "primary_current_protection_origin_and_sweet_style_evidence",
+            "provenance": "Archived Austrian Wine Marketing Board snapshot",
+            "url": "https://archive.example/austrian-wine",
+            "title": "Archived Austrian Wine regional guide",
+            "summary": "Archive copy of regional material.",
+        }
+
+        result = classify_source(source, load_source_policy(POLICY_PATH))
+
+        self.assertEqual(result["tier"], "weak")
+        self.assertEqual(result["independence"], "unknown")
+        self.assertTrue(result["needs_policy_review"])
+
     def test_producer_first_claim_is_interested_only(self):
         source = {
             "resource": "official_producer",
@@ -127,6 +143,20 @@ class SourcePolicyTests(unittest.TestCase):
         self.assertEqual(result["tier"], "weak")
         self.assertEqual(result["independence"], "unknown")
         self.assertTrue(result["needs_policy_review"])
+
+    def test_load_source_policy_rejects_invalid_exact_tier_override(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "source_policy.json"
+            policy = json.loads(POLICY_PATH.read_text(encoding="utf-8"))
+            policy["exact_tier_overrides"] = {
+                "official_austrian_wine_body": "Authoritative"
+            }
+            path.write_text(json.dumps(policy), encoding="utf-8")
+
+            with self.assertRaisesRegex(
+                ValueError, "exact_tier_overrides\\['official_austrian_wine_body'\\]"
+            ):
+                load_source_policy(path)
 
     def test_classifies_common_audit_resource_roles(self):
         expected_tiers = {

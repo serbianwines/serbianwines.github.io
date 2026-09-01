@@ -314,6 +314,27 @@ def load_source_policy(path: Path) -> dict:
         policy = json.load(handle)
     if not isinstance(policy, dict):
         raise ValueError(f"{path}: expected a JSON object")
+    tier_order = policy.get("tier_order")
+    if not isinstance(tier_order, list) or not all(
+        isinstance(tier, str) for tier in tier_order
+    ):
+        raise ValueError(f"{path}: tier_order must be a list of strings")
+    exact_tier_overrides = policy.get("exact_tier_overrides", {})
+    if not isinstance(exact_tier_overrides, dict):
+        raise ValueError(f"{path}: exact_tier_overrides must be an object")
+    normalized_overrides: dict[str, str] = {}
+    for resource_name, tier in exact_tier_overrides.items():
+        normalized_resource = _normalize_token(resource_name)
+        if not normalized_resource:
+            raise ValueError(
+                f"{path}: exact_tier_overrides contains an empty resource name"
+            )
+        if not isinstance(tier, str) or tier not in tier_order:
+            raise ValueError(
+                f"{path}: exact_tier_overrides[{resource_name!r}] has unknown tier {tier!r}"
+            )
+        normalized_overrides[normalized_resource] = tier
+    policy["exact_tier_overrides"] = normalized_overrides
     return policy
 
 
@@ -350,6 +371,17 @@ def classify_source(source: dict, policy: dict) -> dict:
             "tier": "wikipedia",
             "independence": "encyclopedic_secondary",
             "competence": "within_encyclopedic_scope",
+            "needs_policy_review": False,
+        }
+
+    exact_tier = policy.get("exact_tier_overrides", {}).get(resource)
+    if exact_tier is not None:
+        return {
+            "tier": exact_tier,
+            "independence": _independence_for(resource, policy),
+            "competence": policy.get("relation_rules", {}).get(
+                relation, "role_unspecified"
+            ),
             "needs_policy_review": False,
         }
 

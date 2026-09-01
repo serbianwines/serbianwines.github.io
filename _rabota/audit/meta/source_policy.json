@@ -6,6 +6,9 @@
     "weak",
     "wikipedia"
   ],
+  "exact_tier_overrides": {
+    "official_austrian_wine_body": "authoritative"
+  },
   "authoritative_tokens": [
     "peer_reviewed",
     "systematic_review",
@@ -60,7 +63,6 @@
     "official_viticulture_monograph",
     "official_agriculture_report",
     "official_appellation_consortium",
-    "official_austrian_wine_body",
     "serbian_ministry",
     "government",
     "official_inventory",

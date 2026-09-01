@@ -85,10 +85,10 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 
 | Ступень | Всего | Из них без рејона | Из них в книге |
 |---|---|---|---|
-| оценка критика или медаль | 196 | 24 | 63 |
-| только Vivino, выборка набрана | 87 | 32 | 9 |
-| вина есть, оценок нет | 169 | 77 | 10 |
-| **всего** | **452** | **133** | **82** |
+| оценка критика или медаль | 205 | 26 | 64 |
+| только Vivino, выборка набрана | 85 | 31 | 8 |
+| вина есть, оценок нет | 166 | 77 | 10 |
+| **всего** | **456** | **134** | **82** |
 
 ## Сказать есть что, а где стоит — неизвестно
 
@@ -97,28 +97,30 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 | Хозяйство | Лучший балл критика | Медалей | Лучшая Vivino | Вин с выборкой | Отзывов | Последний год |
 |---|---|---|---|---|---|---|
 | Dolina | 93 | 3 | 3.9 | 3 | 422 | 2026 |
-| Vinarija Radlović doo | 92 | 10 | 4.2 | 1 | 28 | 2026 |
+| Vinarija Radlović doo | 92 | 12 | 4.2 | 1 | 28 | 2026 |
 | Josic Winery | 92 | — | — | — | 0 | 2020 |
 | Vinarija Tri Tachke | 91 | 2 | — | — | 0 | 2025 |
-| Vinarija Ilić-Nijemčević | 90 | 18 | 3.7 | 4 | 180 | 2026 |
+| Vinarija Ilić-Nijemčević | 90 | 31 | 3.7 | 4 | 180 | 2026 |
+| Nikad Nije Kasno | 90 | 10 | 4.3 | 3 | 511 | 2020 |
 | MV Vinarija | 90 | 5 | 4.2 | 2 | 103 | 2025 |
-| AURUS Winery & Distillery | 90 | 3 | — | — | 0 | 2026 |
+| AURUS Winery & Distillery | 90 | 5 | — | — | 0 | 2026 |
 | Николић Неyзински (Nikolićh Neuzinsky) | 90 | 3 | — | — | 0 | 2025 |
 | PR Anjino Vino | 90 | 2 | — | — | 0 | 2026 |
 | Podrum Zlatanović | 90 | 1 | — | — | 0 | 2026 |
 | Lakićević | 89 | 25 | 4.2 | 8 | 774 | 2025 |
 | Vinarija Blagojević | 89 | 10 | — | — | 0 | 2026 |
+| HUP MIHAJLOVAC | 89 | 4 | — | — | 0 | 2023 |
 | Poljoprivredno Gazdinstvo Anja Džipković | 89 | 4 | — | — | 0 | 2024 |
+| Anatea Vinarija | 89 | 2 | — | — | 0 | 2026 |
 | Vinarija Tasa | 89 | 2 | — | — | 0 | 2026 |
 | Vinarija Teodos | 89 | 2 | — | — | 0 | 2023 |
-| Nikad Nije Kasno | 88 | 6 | 4.3 | 3 | 511 | 2020 |
 | Lutak winery | 87 | 5 | — | — | 0 | 2024 |
 | Natural Grape Concept | 87 | 2 | — | — | 0 | 2026 |
-| Anatea Vinarija | 86 | 1 | — | — | 0 | 2026 |
 | Gardijan | 86 | 1 | — | — | 0 | 2026 |
 | Rubinov | 86 | 1 | — | — | 0 | 2021 |
 | Damalis | 85 | 1 | — | — | 0 | 2026 |
 | Kuća Vina Jokić | 85 | 1 | — | — | 0 | 2020 |
+| Winery ŠKRBIĆ | 85 | 1 | — | — | 0 | 2018 |
 | Dukay-Sagmeister | — | 3 | 4.3 | 18 | 1723 | 2025 |
 | Tri Oraha | — | — | 4.5 | 8 | 909 | — |
 | Petica | — | — | 4.4 | 2 | 163 | — |
@@ -127,7 +129,6 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 | Bojan Basa | — | — | 4.2 | 2 | 206 | — |
 | Miletic | — | — | 4.2 | 4 | 155 | — |
 | Брояница (Brojanica) | — | — | 4.1 | 7 | 6170 | — |
-| Vinarija PIRG | — | — | 4.1 | 3 | 224 | — |
 | Plavi Perun | — | — | 4.1 | 2 | 100 | — |
 | Intuicija | — | — | 4.1 | 1 | 32 | — |
 | Vršački Vinogradi | — | — | 4 | 6 | 503 | — |
@@ -171,7 +172,7 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 
 ## Ни одной оценки и ни одной награды
 
-169 хозяйств. Вина у них в сборе есть, но Vivino не показывает оценку — отзывов слишком мало, — и ни на один конкурс они не выходили. Справочнику рейтингов сказать о них нечего: не потому, что вино плохое, а потому, что его никто не оценил.
+166 хозяйств. Вина у них в сборе есть, но Vivino не показывает оценку — отзывов слишком мало, — и ни на один конкурс они не выходили. Справочнику рейтингов сказать о них нечего: не потому, что вино плохое, а потому, что его никто не оценил.
 
 | Хозяйство | Вин в сборе | В Винарском регистру | Рејон |
 |---|---|---|---|
@@ -199,7 +200,6 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 | Pimnica Perić | 5 | не нашлось | — |
 | Podrum Jovanovic | 5 | да | — |
 | Soul Wine | 5 | да | Južnobanatski rejon |
-| Vinarija KM | 5 | не нашлось | Sremski rejon |
 | Vinarija Pantić | 5 | не нашлось | Beogradski rejon |
 | Vinarija Sinjac | 5 | не нашлось | — |
 | Weingut Jović | 5 | да | — |
@@ -264,7 +264,6 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 | Mali Podrum Stamenković | 2 | не нашлось | — |
 | Nera | 2 | не нашлось | Sremski rejon |
 | Pannonian | 2 | не нашлось | — |
-| Pet Hrastova | 2 | да | Rejon Tri Morave |
 | Petković Latin | 2 | да | Sremski rejon |
 | Podrum Stojković | 2 | да | Sremski rejon |
 | Savković | 2 | да | Rejon Tri Morave |
@@ -315,7 +314,6 @@ Weingut Jović, Аранђеловић 1920 и три раjачких подру
 | Vinarija Gvožđan | 1 | не нашлось | — |
 | Vinarija Mihailović | 1 | да | Šumadijski rejon |
 | Vinarija Necak | 1 | да | Mlavski rejon |
-| Vinarija Praška | 1 | да | Sremski rejon |
 | Vinarija Rudež | 1 | не нашлось | — |
 | Vinarija Tana | 1 | да | Rejon Negotinska Krajina |
 | Vinarija Tanasković | 1 | да | Sremski rejon |

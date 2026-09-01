@@ -27,6 +27,10 @@ BRAUZER = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 SSYLKA = re.compile(r'href="(?:https://results\.concoursmondial\.com)?'
                     r'(/en/results/(\d{4})/(\d+)-[a-z0-9\-]*)"')
+# Список стран в форме поиска у каждого года свой: в нём стоят только те,
+# у кого в этом году есть медали. Это независимая проверка пустого года —
+# без неё «ноль» не отличить от молчаливой поломки фильтра.
+STRANY = re.compile(r'name="search\[country\]".*?</select>', re.S)
 
 
 def vzjat(adres, imya):
@@ -107,10 +111,27 @@ def god_celikom(god):
     return najdeno
 
 
+def serbiya_v_spiske(god):
+    """Стоит ли Сербия в списке стран этого года."""
+    stranica = vzjat(SPISOK % (god, 1), "cmb-%d.html" % god)
+    kusok = STRANY.search(stranica)
+    if not kusok:
+        return None
+    return "Serbia" in re.findall(r'value="([^"]*)"', kusok.group(0))
+
+
 def main():
-    vse = []
+    vse, raznoglasiya = [], []
     for god in GODY:
         najdeno = god_celikom(god)
+        obeshchano = serbiya_v_spiske(god)
+        if obeshchano is not None and bool(najdeno) != obeshchano:
+            raznoglasiya.append({
+                "god": god, "sobrano": len(najdeno),
+                "serbiya_v_spiske_stran": obeshchano})
+            print("  CMB %d: список стран и выдача расходятся — "
+                  "Сербия в списке: %s, собрано: %d"
+                  % (god, obeshchano, len(najdeno)))
         if najdeno:
             print("  CMB %d: %d" % (god, len(najdeno)))
         vse += najdeno
@@ -118,6 +139,10 @@ def main():
         "chto_eto": "Сербские вина, отмеченные на Concours Mondial de Bruxelles. "
                     "Конкурс ставит медали, а не баллы — это награды, не оценки.",
         "istochnik": "results.concoursmondial.com",
+        "kak_proveryalos": "Пустой год сверен со списком стран в форме поиска: "
+                           "там стоят только страны с медалями этого года. "
+                           "Сербия стоит ровно в те пять лет, где есть записи.",
+        "raznoglasiya": raznoglasiya,
         "vsego": len(vse),
         "zapisi": vse,
     }, open(put("cmb-zapisi.json"), "w", encoding="utf-8"),

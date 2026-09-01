@@ -82,10 +82,11 @@ def ocenka(istochnik, hozyaistvo, vino, urozhaj, konkurs_god, ball,
 
 
 def sobrat():
-    nagrady, ocenki, neopoznano = [], [], []
+    nagrady, ocenki, neopoznano, svoi = [], [], [], set()
 
     d = chitat("biwc-zapisi.json")
     if d:
+        svoi.add("biwc")
         for z in d["zapisi"]:
             adres = "%s, BIWC %d" % (z["stranica"], z["god"])
             if z.get("medal"):
@@ -112,6 +113,7 @@ def sobrat():
 
     d = chitat("iwc-zapisi.json")
     if d:
+        svoi.add("iwc")
         for z in d["zapisi"]:
             m = medal(z.get("medal"))
             if not m:
@@ -123,6 +125,7 @@ def sobrat():
 
     d = chitat("cmb-zapisi.json")
     if d:
+        svoi.add("cmb")
         for z in d["zapisi"]:
             m = medal(z.get("medal"))
             if not m:
@@ -134,6 +137,7 @@ def sobrat():
 
     d = chitat("awc-zapisi.json")
     if d:
+        svoi.add("awc-vienna")
         for z in d["zapisi"]:
             m = medal(z.get("medal"))
             if m:
@@ -146,9 +150,16 @@ def sobrat():
                 ocenki.append(ocenka("awc-vienna", z["hozyaistvo"], z["vino"],
                                      z.get("urozhaj"), z["god"], z["ball"],
                                      z["stranica"]))
+            # Трофей — своя запись, как у балканского конкурса. Поле
+            # `trofej` до сих пор не читалось, и все трофеи AWC пропадали.
+            if z.get("trofej"):
+                nagrady.append(nagrada("awc-vienna", z["god"], "Trophy",
+                                       "trofej", z["hozyaistvo"], z["vino"],
+                                       z.get("urozhaj"), z["stranica"]))
 
     d = chitat("wine-trophy-zapisi.json")
     if d:
+        svoi.add("wine-trophy")
         for z in d["zapisi"]:
             m = medal(z.get("medal"))
             if not m:
@@ -162,6 +173,7 @@ def sobrat():
 
     d = chitat("gilbert-gaillard-zapisi.json")
     if d:
+        svoi.add("gilbert-gaillard")
         for z in d["zapisi"]:
             if z.get("ball"):
                 # У гида имя вина бывает пустым: «Tri SuncA 2015» — всё,
@@ -174,11 +186,22 @@ def sobrat():
                                "ball": int(z["ball"]), "cvet": "",
                                "stranica": z["stranica"]})
 
-    return nagrady, ocenki, neopoznano
+    return nagrady, ocenki, neopoznano, svoi
 
 
-def slit(imya, novye, klyuch):
-    """Дописать записи в общий файл, сводя по ключу. Чужого не трогает."""
+def slit(imya, novye, klyuch, svoi_istochniki=()):
+    """Свести записи в общий файл по ключу. Чужого не трогает.
+
+    Записи своих источников не только дописываются, но и снимаются, если
+    сборщик их больше не даёт. Без этого исправление в сборщике оставляло
+    старую строку рядом с новой: AWC писал одно вино то «Komsinice», то
+    «Komšinice», и после починки ключа в файле лежали обе, с разным баллом.
+
+    Снимается только то, что этот же скрипт и положил: `svoi_istochniki` —
+    имена источников, чьи сборщики сейчас прочитаны. Записи, сделанные
+    руками или другими скриптами (Falstaff, Wine-Searcher, vino.rs),
+    не трогаются никогда.
+    """
     dorozhka = put(imya)
     bylo, poryadok = {}, []
     if os.path.exists(dorozhka):
@@ -189,6 +212,13 @@ def slit(imya, novye, klyuch):
                 if k not in bylo:
                     poryadok.append(k)
                 bylo[k] = z
+    svezhie = {klyuch(z) for z in novye}
+    snyato = [k for k in poryadok
+              if bylo[k].get("istochnik") in svoi_istochniki
+              and k not in svezhie]
+    for k in snyato:
+        del bylo[k]
+    poryadok = [k for k in poryadok if k in bylo]
     dobavleno = 0
     for z in novye:
         k = klyuch(z)
@@ -199,11 +229,12 @@ def slit(imya, novye, klyuch):
     with open(dorozhka, "w", encoding="utf-8") as f:
         for k in poryadok:
             f.write(json.dumps(bylo[k], ensure_ascii=False) + "\n")
-    print("%s: всего %d, добавлено %d" % (imya, len(bylo), dobavleno))
+    print("%s: всего %d, добавлено %d, снято устаревших %d"
+          % (imya, len(bylo), dobavleno, len(snyato)))
 
 
 def main():
-    nagrady, ocenki, neopoznano = sobrat()
+    nagrady, ocenki, neopoznano, svoi = sobrat()
     print("из сборщиков: наград %d, оценок %d" % (len(nagrady), len(ocenki)))
     if neopoznano:
         print("\nмедали, которых нет в таблице, — записи потеряны:")
@@ -211,10 +242,12 @@ def main():
             print("   %s: %r" % (istochnik, imya))
     slit("nagrady-zapisi.jsonl", nagrady,
          lambda z: (z["istochnik"], z["god"], z["kategoriya"], z["hozyaistvo"],
-                    z["vino"], z.get("urozhaj"), z.get("cvet") or ""))
+                    z["vino"], z.get("urozhaj"), z.get("cvet") or ""),
+         svoi)
     slit("kritiki-zapisi.jsonl", ocenki,
          lambda z: (z["istochnik"], z["hozyaistvo"], z["vino"], z["god"],
-                    z.get("konkurs_god"), z.get("cvet") or ""))
+                    z.get("konkurs_god"), z.get("cvet") or ""),
+         svoi)
 
 
 if __name__ == "__main__":

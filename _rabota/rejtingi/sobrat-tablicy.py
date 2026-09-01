@@ -223,6 +223,28 @@ def _marki():
     return {_bazovyj_klyuch(m) for z in d.values() for m in z.get("marki", ())}
 
 
+def _marki_v_imeni():
+    """Марки, которые у самого хозяйства стоят в начале имени вина.
+
+    Обратный случай к _marki(). Там марка попала в поле производителя и
+    её нельзя снимать с имени вина; здесь она попала туда же, но из имени
+    вина при этом выпала. Gilbert & Gaillard пишет производителем
+    «Amante», а вином — «Carmen», тогда как в каталоге Рубина это
+    «Amante Carmen»; без возврата марки оценка садится на строку,
+    которой у хозяйства нет.
+
+    Возвращается не всякая марка, а только названная в
+    «marki_v_imeni_vina»: у Киша «Verus Merlot» и «Verus Grašac Beli»
+    так и зовутся, а «Biser Bermet Beli» — нет.
+    """
+    put_f = os.path.join(RYADOM, "sinonimy-hozyaistv.json")
+    if not os.path.exists(put_f):
+        return {}
+    d = json.load(open(put_f, encoding="utf-8"))["hozyaistva"]
+    return {_bazovyj_klyuch(m): m
+            for z in d.values() for m in z.get("marki_v_imeni_vina", ())}
+
+
 def bez_skobok(imya):
     """«Винарија Тришић (Vinarija Trišić)» — это «Vinarija Trišić».
 
@@ -336,6 +358,8 @@ SINONIMY = {}
 KANON_IMYA = set()
 # Варианты, которые именем хозяйства не являются, — см. _marki().
 MARKI = set()
+# Из них те, что стоят в начале имени вина, — см. _marki_v_imeni().
+MARKI_V_IMENI = {}
 # Написания одного вина, сведённые руками, — см. _sinonimy_vin().
 SINONIMY_VIN = {}
 
@@ -377,6 +401,23 @@ def snimaetsya(nachalo, hoz):
     if _bazovyj_klyuch(nachalo) in MARKI:
         return False
     return klyuch_hozyaistva(nachalo) == hoz
+
+
+def s_markoj(hozyaistvo, vino):
+    """Вернуть марку в имя вина, если источник поставил её в поле хозяйства.
+
+    Срабатывает только когда производителем записана марка из
+    «marki_v_imeni_vina» и имя вина с неё не начинается: «Amante» плюс
+    «Carmen» — это «Amante Carmen», а «Amante» плюс «Amante Carmen»
+    остаётся собой.
+    """
+    marka = MARKI_V_IMENI.get(_bazovyj_klyuch(hozyaistvo))
+    if not marka or not (vino or "").strip():
+        return vino
+    nachalo = klyuch(latinicej(marka)).split("-")
+    if klyuch(latinicej(vino)).split("-")[:len(nachalo)] == nachalo:
+        return vino
+    return marka + " " + vino
 
 
 def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
@@ -562,6 +603,11 @@ def main():
 
     for spisok in (vivino, kritiki, nagrady_syrye):
         for z in spisok:
+            # Марку, попавшую у источника в поле производителя, вернуть
+            # в имя вина надо здесь: строкой ниже производитель станет
+            # каноническим именем дома, и марка исчезнет бесследно.
+            if z.get("vino") is not None:
+                z["vino"] = s_markoj(z["hozyaistvo"], z["vino"])
             z["hozyaistvo"] = imya_hozyaistva(z["hozyaistvo"])
 
     nastoyashchee_mesto = {}
@@ -782,6 +828,7 @@ def main():
 
 SINONIMY.update(_sinonimy())
 MARKI.update(_marki())
+MARKI_V_IMENI.update(_marki_v_imeni())
 SINONIMY_VIN.update(_sinonimy_vin())
 KANON_IMYA.update(
     json.load(open(os.path.join(RYADOM, "sinonimy-hozyaistv.json"),

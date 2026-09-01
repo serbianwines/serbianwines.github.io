@@ -581,7 +581,7 @@
    ]
   },
   "bacina": {
-   "hozyaistvo": "Podrum Bačina",
+   "hozyaistvo": "Bacina vino d.o.o.",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Temnićko vinogorje",
@@ -1484,7 +1484,7 @@
    ]
   },
   "dibonis": {
-   "hozyaistvo": "Dibonis Winery",
+   "hozyaistvo": "DiBonis Winery",
    "region": "Vojvodina",
    "rejon": "Subotički rejon",
    "vinogorje": "Palićko vinogorje",
@@ -2316,6 +2316,30 @@
     "ivv: Rogaca, Beogradski okrug"
    ]
   },
+  "hrusija-leskovac": {
+   "hozyaistvo": "Hrusija d.o.o. Leskovac",
+   "region": "Centralna Srbija",
+   "rejon": "Leskovački rejon",
+   "vinogorje": "Vinaračko vinogorje",
+   "gorod": "Leskovac",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Leskovac, Jablanički okrug",
+   "pokazaniya": [
+    "registar: Leskovac, Jablanički okrug"
+   ]
+  },
+  "hup-mihajlovac": {
+   "hozyaistvo": "HUP MIHAJLOVAC",
+   "region": null,
+   "rejon": null,
+   "vinogorje": null,
+   "gorod": "",
+   "istochnik": "ne_ustanovlen",
+   "raznoglasie": "",
+   "gde": "",
+   "pokazaniya": []
+  },
   "i-miletic": {
    "hozyaistvo": "Vinogradi i vinarija Miletić",
    "region": "Centralna Srbija",
@@ -2822,7 +2846,7 @@
    ]
   },
   "komuna": {
-   "hozyaistvo": "Komuna Vinarija",
+   "hozyaistvo": "Vinarija Komuna PR",
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
@@ -2849,6 +2873,19 @@
    "gde": "",
    "pokazaniya": [
     "vivino: Wine of Serbia"
+   ]
+  },
+  "koreni-1934": {
+   "hozyaistvo": "Koreni 1934",
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje",
+   "gorod": "Lipovac",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Lipovac, Šumadijski okrug",
+   "pokazaniya": [
+    "registar: Lipovac, Šumadijski okrug"
    ]
   },
   "kosovic": {
@@ -3719,7 +3756,7 @@
    ]
   },
   "milosavljevic": {
-   "hozyaistvo": "milosavljevic",
+   "hozyaistvo": "Winery Milosavljevic",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": null,
@@ -4412,7 +4449,7 @@
    ]
   },
   "pet-hrastova": {
-   "hozyaistvo": "Pet Hrastova",
+   "hozyaistvo": "Vinarija Pet Hrastova",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": null,
@@ -4565,13 +4602,14 @@
   "pirg": {
    "hozyaistvo": "Vinarija PIRG",
    "region": "Centralna Srbija",
-   "rejon": null,
-   "vinogorje": null,
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje",
    "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
+   "istochnik": "decanter",
+   "raznoglasie": "",
    "gde": "",
    "pokazaniya": [
+    "decanter: Šumadija-Great Morava · Oplenac",
     "vivino: Šumadija-Great Morava"
    ]
   },
@@ -5369,6 +5407,17 @@
     "vivino: Wine of Serbia"
    ]
   },
+  "skrbic": {
+   "hozyaistvo": "Winery ŠKRBIĆ",
+   "region": null,
+   "rejon": null,
+   "vinogorje": null,
+   "gorod": "",
+   "istochnik": "ne_ustanovlen",
+   "raznoglasie": "",
+   "gde": "",
+   "pokazaniya": []
+  },
   "slatina": {
    "hozyaistvo": "Vinarija Slatina",
    "region": "Centralna Srbija",
@@ -5484,7 +5533,7 @@
    ]
   },
   "stankovic": {
-   "hozyaistvo": "Vinarija Stanković",
+   "hozyaistvo": "VINARIJA STANKOVIĆ",
    "region": "Centralna Srbija",
    "rejon": "Mlavski rejon",
    "vinogorje": "Braničevsko vinogorje",
@@ -6070,19 +6119,6 @@
     "decanter: Negotinska Krajina",
     "registar: Negotin, Borski okrug",
     "vivino: Negotinska Krajina"
-   ]
-  },
-  "tref-line": {
-   "hozyaistvo": "Tref Line",
-   "region": "Centralna Srbija",
-   "rejon": "Šumadijski rejon",
-   "vinogorje": "Oplenačko vinogorje",
-   "gorod": "",
-   "istochnik": "decanter",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "decanter: Šumadija-Great Morava · Oplenac"
    ]
   },
   "tri-mede-i-oblak": {

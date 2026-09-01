@@ -1,6 +1,6 @@
 {
  "chto_eto": "Имена, под которыми одно и то же хозяйство встречается у разных источников. Список ведётся руками и только с доказательством: догадки по похожести имён сюда не идут — они уже дали ложные пары (Jovanović и Jovanov, Madžić и Adžić, Stojković и Stojanović — разные хозяйства).",
- "kak_chitat": "Ключ — имя, которое остаётся; значение — список имён, которые к нему сводятся, и чем это доказано. Написания, различающиеся только регистром, диакритикой, служебными словами («винарија», «подрум», «д.о.о.», «вино») или парой dj/đ, сюда не входят: их сводит сам ключ. Поле «marki» перечисляет варианты, которые именем хозяйства не являются: это марка или сорт, попавшие у источника в поле производителя. Хозяйство они называют, но из имени вина их снимать нельзя — «Belina Oranž» без «Belina» становится чужим вином.",
+ "kak_chitat": "Ключ — имя, которое остаётся; значение — список имён, которые к нему сводятся, и чем это доказано. Написания, различающиеся только регистром, диакритикой, служебными словами («винарија», «подрум», «д.о.о.», «вино») или парой dj/đ, сюда не входят: их сводит сам ключ. Поле «marki» перечисляет варианты, которые именем хозяйства не являются: это марка или сорт, попавшие у источника в поле производителя. Хозяйство они называют, но из имени вина их снимать нельзя — «Belina Oranž» без «Belina» становится чужим вином. Поле «marki_v_imeni_vina» перечисляет те из марок, что в каталоге хозяйства стоят в начале имени вина: если источник поставил такую марку в поле производителя, из имени вина она у него выпала, и её надо вернуть. Не всякая марка сюда идёт: у Киша «Verus Merlot» и «Verus Grašac Beli» так и зовутся, а «Biser Bermet Beli» — нет.",
  "hozyaistva": {
   "Atelje Vina Šapat": {
    "varianty": [
@@ -25,9 +25,10 @@
   },
   "Dzervin": {
    "varianty": [
-    "Podrum Džervin 1927"
+    "Podrum Džervin 1927",
+    "Podrum Dzervin 1927 Ltd. Knjazevac"
    ],
-   "dokazatelstvo": "То же имя с годом основания."
+   "dokazatelstvo": "То же имя с годом основания. Год основания, правовая форма и город при имени: «Podrum Dzervin 1927 Ltd. Knjazevac»."
   },
   "Erdevik": {
    "varianty": [
@@ -43,11 +44,20 @@
    "varianty": [
     "Tri SuncA"
    ],
-   "dokazatelstvo": "То же: Gilbert & Gaillard записал в хозяйство марку. «Три сунца» — линейка Фрушкогорског: у него «Tri Sunca Grašac» и «Tri Sunca Traminac Kasna Berba». Отдельного производителя с таким именем нет ни в Винарском регистру, ни у Vivino.",
+   "dokazatelstvo": "То же: Gilbert & Gaillard записал в хозяйство марку. «Три сунца» — линейка Фрушкогорског: у него «Tri Sunca Grašac» и «Tri Sunca Traminac Kasna Berba». Отдельного производителя с таким именем нет ни в Винарском регистру, ни у Vivino. Марка стоит в начале имён линейки — «Tri Sunca Grašac», «Tri Sunca Traminac Kasna Berba», — поэтому в имя вина она возвращается.",
    "marki": [
     "Tri SuncA"
    ],
-   "marki_pochemu": "Линейка хозяйства, а не его имя."
+   "marki_pochemu": "Линейка хозяйства, а не его имя.",
+   "marki_v_imeni_vina": [
+    "Tri SuncA"
+   ]
+  },
+  "Ivanović": {
+   "varianty": [
+    "SZR VINARIJA IVANOVIC"
+   ],
+   "dokazatelstvo": "«SZR» — правовая форма (самостална занатска радња). Линейка та же: у AWC под этим именем «Ivanovic N° 1/2», «Ivanovic N° 3/4», «Ivanovic Prokupac», «Ivanovic Tamjanika» — это «No 1/2», «No 3/4», «Prokupac» и «Tamjanika» Подрума Ивановић."
   },
   "Jelenac": {
    "varianty": [
@@ -103,6 +113,12 @@
    ],
    "dokazatelstvo": "«McC» — сокращение того же имени: единственное вино этой записи, «Coupage», стоит и у Mcculloch Wines, а своё вино он подписывает «Mcc Traminac». Обе записи притязали на одну запись регистра № 4206, Нови Сад."
   },
+  "Milanov Podrum": {
+   "varianty": [
+    "Milanov Podum"
+   ],
+   "dokazatelstvo": "Опечатка у AWC: «Podum» вместо «Podrum»."
+  },
   "Molovin": {
    "varianty": [
     "Molowinery"
@@ -126,9 +142,10 @@
    "varianty": [
     "Подрум Певац",
     "Destilerija Pevac",
-    "Independent Craft Trade Podrum Pevac"
+    "Independent Craft Trade Podrum Pevac",
+    "Independet craft trade Podrum Pevac"
    ],
-   "dokazatelstvo": "Одно хозяйство в двух алфавитах. У Decanter «Podrum Pevac» — Gušt, Gušt Barrique Chardonnay, Prokupac, Tišina Malvazija, Zagrljaj; у Vivino «Подрум Певац» — Гушт Шардоне, Гушт Шардоне Барик, Прокупац, Тишина Малвазийа, Загрљај. Линейка совпадает вином в вино. Слаг Vivino podrum-pevats, сайт podrumpevac.rs. Concours Mondial зовёт то же хозяйство «Destilerija Pevac» и награждает у него «Zagrljaj» 2019 (золото 2023) и «Gušt Šardone Barik» 2021 (серебро) — оба вина стоят в его линейке. Балканский конкурс добавляет к имени правовую форму: «Independent Craft Trade Podrum Pevac» — это самостоятельная занатска радња, а не другое хозяйство."
+   "dokazatelstvo": "Одно хозяйство в двух алфавитах. У Decanter «Podrum Pevac» — Gušt, Gušt Barrique Chardonnay, Prokupac, Tišina Malvazija, Zagrljaj; у Vivino «Подрум Певац» — Гушт Шардоне, Гушт Шардоне Барик, Прокупац, Тишина Малвазийа, Загрљај. Линейка совпадает вином в вино. Слаг Vivino podrum-pevats, сайт podrumpevac.rs. Concours Mondial зовёт то же хозяйство «Destilerija Pevac» и награждает у него «Zagrljaj» 2019 (золото 2023) и «Gušt Šardone Barik» 2021 (серебро) — оба вина стоят в его линейке. Балканский конкурс добавляет к имени правовую форму: «Independent Craft Trade Podrum Pevac» — это самостоятельная занатска радња, а не другое хозяйство. Род занятий перед именем: «Independet craft trade Podrum Pevac»."
   },
   "Probus Vineyards": {
    "varianty": [
@@ -137,22 +154,37 @@
    ],
    "dokazatelstvo": "Berliner и Asia Wine Trophy награждают за «Carski Vinograd — M.A. Probus d.o.o» вина «Magis» и «Traminac»; «Magis» стоит в линейке Probus Vineyards. В регистре это «PROBUS VINEYARDS CCLXXX DOO VELIKI RADNICI». Полное имя из регистра встречается и само по себе: у «Probus Vineyards CCLXXX» и «Probus Vineyards» общие вина «Magis» и «Belim»."
   },
+  "Pusula Winery": {
+   "varianty": [
+    "PUSULA WINERY (ASTRA ITB doo)"
+   ],
+   "dokazatelstvo": "Правовая форма в скобках: «PUSULA WINERY (ASTRA ITB doo)»."
+  },
   "Radovan": {
    "varianty": [
     "Čokot"
    ],
    "dokazatelstvo": "Регистр, запись № 4202: «Radovan Đorđević PR, proizvodnja vina „PODRUM ČOKOT“, Starci». Книга называет хозяйство Radovan и сама помечает: «бывш. Čokot». Вина «Radovan Prokupac», «Prokupac Radovan 100%» — под именем Čokot."
   },
+  "Ralević": {
+   "varianty": [
+    "Ralevic doo / Winery Ralevic"
+   ],
+   "dokazatelstvo": "Имя дважды, с правовой формой и по-английски: «Ralevic doo / Winery Ralevic»."
+  },
   "Rubin": {
    "varianty": [
     "Rubin Ad Krusevac",
     "Amante"
    ],
-   "dokazatelstvo": "Юридическая форма и город в имени: регистр даёт «RUBIN AD, Kruševac». Так его пишут IWC («RUBIN AD KRUSEVAC», медали 2013–2015) и Concours Mondial («Rubin AD Krusevac», Гран-золото 2013 за Terra Lazarica). Другого Рубина в сербском виноделии нет. Gilbert & Gaillard ставит в поле хозяйства марку: под именем «Amante» у него «Carmen» 2019 (88) и «Aurora» 2019 (90) — оба вина стоят в линейке Рубина, «Amante Carmen» и «Amante Aurora».",
+   "dokazatelstvo": "Юридическая форма и город в имени: регистр даёт «RUBIN AD, Kruševac». Так его пишут IWC («RUBIN AD KRUSEVAC», медали 2013–2015) и Concours Mondial («Rubin AD Krusevac», Гран-золото 2013 за Terra Lazarica). Другого Рубина в сербском виноделии нет. Gilbert & Gaillard ставит в поле хозяйства марку: под именем «Amante» у него «Carmen» 2019 (88) и «Aurora» 2019 (90) — оба вина стоят в линейке Рубина, «Amante Carmen» и «Amante Aurora». Марка стоит в начале имён самой линейки — «Amante Carmen», «Amante Aurora», «Amante Matea», «Amante Rina Chardonnay» у Vivino, — и адрес страницы гида это подтверждает: gilbertgaillard.com/en/resultats/amante-carmen-272003. Поэтому в имя вина она возвращается.",
    "marki": [
     "Amante"
    ],
-   "marki_pochemu": "Линейка хозяйства, а не его имя."
+   "marki_pochemu": "Линейка хозяйства, а не его имя.",
+   "marki_v_imeni_vina": [
+    "Amante"
+   ]
   },
   "Veritas Ćuković": {
    "varianty": [
@@ -162,9 +194,11 @@
   },
   "Vinarija 100 Žena": {
    "varianty": [
-    "Vinarija 100žena"
+    "Vinarija 100žena",
+    "100 Women Winery-100 žena Vinarija",
+    "100 women winery"
    ],
-   "dokazatelstvo": "То же имя без пробела."
+   "dokazatelstvo": "То же имя без пробела. AWC пишет имя дома сразу на двух языках: «100 Women Winery-100 žena Vinarija». Это то же «Винарија 100 жена»."
   },
   "Vinarija Aven": {
    "varianty": [
@@ -184,6 +218,12 @@
    ],
    "dokazatelstvo": "Общая марка: у нас за Vinarija Coka числятся «Grof Lederer», «Grof Lederer Chardonnay», «Grof Lederer Sauvignon Blanc» и «Grof Lederer Rosé», а балканский конкурс награждает «Grof Lederer MERLOT» и «Grof Lederer CABERNET SAUVIGNON» за «VINARIJA ČOKA PLUS». Граф Ледерер — историческая марка Чоке."
   },
+  "Vinarija Fragaria": {
+   "varianty": [
+    "Boutique Vinarija Fragaria"
+   ],
+   "dokazatelstvo": "«Boutique» — приписка к имени, а не другое хозяйство."
+  },
   "Vinarija Frunza Aglaja": {
    "varianty": [
     "Aglaya (Аглая)",
@@ -191,6 +231,12 @@
     "Aglaja"
    ],
    "dokazatelstvo": "В Винарском регистру Аглаја одна на всю Сербию: запись № 84, «VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO», Карбулово Неготинске општине. Decanter звал это хозяйство год за годом по-разному, но всегда в Неготинској Крајини: «Vinarija Vimmid» (DWWA 2017), «Aglaja» (2018), «Vimmid» (2019), «Vinarija Frunza Aglaja» (2020, 2021). Линейка сквозная: «Dentelle»/«Dantelle» и «Aglaja Sauvignon-Semillon» встречаются под всеми тремя именами, а все вина Vimmid на Vivino подписаны «Аглаја». Голое «Aglaja» — то же самое, лишь без «y»: у этой записи одно вино, «Cabernet Sauvignon», и оно же стоит у Frunza Aglaja, рядом с «Aglaja Cabernet Sauvignon». Обе притязали на запись регистра № 84."
+  },
+  "Vinarija Gamanović": {
+   "varianty": [
+    "D.O.O.\"Gaman\" , Winery Gamanovic"
+   ],
+   "dokazatelstvo": "Правовая форма и фирменное имя перед именем дома: «D.O.O. Gaman, Winery Gamanovic»."
   },
   "Vinarija Gnezdo": {
    "varianty": [
@@ -211,6 +257,25 @@
    ],
    "dokazatelstvo": "Полное юридическое имя из регистра: «EKO MINERAL DOO Smederevo — ogranak Vinarija Jeremić Smederevo». Berliner Wine Trophy пишет его целиком."
   },
+  "Vinarija Milićević": {
+   "varianty": [
+    "Vir Sistem doo / Vinarija Milicevic"
+   ],
+   "dokazatelstvo": "Фирма и винарија через косую черту: «Vir Sistem doo / Vinarija Milicevic»."
+  },
+  "Vinarija PIRG": {
+   "varianty": [
+    "Vinarija Pirg Donja Šatornja ogranak Tref line d.o.o. Beograd",
+    "Tref Line"
+   ],
+   "dokazatelstvo": "Полное имя у AWC говорит само: «Vinarija Pirg Donja Šatornja ogranak Tref line d.o.o. Beograd» — Пирг из Доње Шаторње есть огранак фирмы Tref line. В регистре Tref line стоит как «PREDUZEĆE ZA UVOZ IZVOZ I USLUGE „TREF LINE“ DOO BEOGRAD (ZEMUN)» — торговая фирма, вино делает Пирг. Единственное вино, записанное на Tref line, — «Pirg Sauvignon Blanc»."
+  },
+  "Vinarija Radlović doo": {
+   "varianty": [
+    "Vinarija Radlovic DOO Mokrin"
+   ],
+   "dokazatelstvo": "Село при имени: «Vinarija Radlovic DOO Mokrin»."
+  },
   "Vinarija Todorović": {
    "varianty": [
     "Maison Alexandre & Solene"
@@ -221,9 +286,10 @@
    "varianty": [
     "Vinarija VRT Riđica",
     "Vinarija Radoslav Tripcovic",
-    "Vinarija Radoslav Tripković"
+    "Vinarija Radoslav Tripković",
+    "VRT vinarija  2011"
    ],
-   "dokazatelstvo": "Риђица — место хозяйства, а не часть имени: балканский конкурс пишет его и «VRT vinarija», и «Vinarija VRT Riđica». В Винарском регистру это «GABRIJELA TRIPKOVIĆ PR … VRT», Риђица под Сомбором. «Vinarija Radoslav Tripković» — тот же дом: у него вина названы прямо маркой VRT — «VRT Pesak Sivi», «Vrt Pesak Žuti», — и вся линейка Песак (бели, плави, сиви) стоит под обоими именами. В Винарском регистру Трипковић один: запись № 4129, «GABRIJELA TRIPKOVIĆ PR … VINARIJA VRT 2011 SOMBOR», Западнобачки округ."
+   "dokazatelstvo": "Риђица — место хозяйства, а не часть имени: балканский конкурс пишет его и «VRT vinarija», и «Vinarija VRT Riđica». В Винарском регистру это «GABRIJELA TRIPKOVIĆ PR … VRT», Риђица под Сомбором. «Vinarija Radoslav Tripković» — тот же дом: у него вина названы прямо маркой VRT — «VRT Pesak Sivi», «Vrt Pesak Žuti», — и вся линейка Песак (бели, плави, сиви) стоит под обоими именами. В Винарском регистру Трипковић один: запись № 4129, «GABRIJELA TRIPKOVIĆ PR … VINARIJA VRT 2011 SOMBOR», Западнобачки округ. Год в имени регистра: «GABRIJELA TRIPKOVIĆ PR … VINARIJA VRT 2011». Вина те же: «VRT dark riđo wine» и «VRT pesak plavi» — это «Dark», «RIĐO» и «Pesak Plavi»."
   },
   "Vinarija Šijački": {
    "varianty": [
@@ -294,18 +360,19 @@
   }
  },
  "ne_odno_i_to_zhe": {
-  "Plavinac / Plavinci": "Разные хозяйства, а не написания. У Vivino это две страницы с непересекающимися линейками: у Plavinci семь вин (Indigo Regent, Ćilibar, Selena Tamjanika, пет-наты), у Vinarija Plavinac — двадцать шесть классических. Plavinci стоит в Заклопачи под Гроцкой.",
-  "Vinarija Mihailović / Vinarija Mihajlović": "Разные. У нашего Mihailović единственное вино «Луг (Lug)» с районом Vivino «Šumadija-Great Morava», а Mihajlović из справочника vinarijesrbije стоит в Књажевцу, это Зајечарски округ.",
-  "Mihajlovacko": "Не хозяйство, а обломок разбора у Vivino: за именем стоит одна запись «Codrum Vina Dajit Gamay Kvalitetno Suvo Crveno» без района — это текст с этикетки, а не имя дома.",
+  "Damalis / Dimalis": "Не сведены. У балканского конкурса 2026 года есть «Damalis» с совиньоном, а у нас «Dimalis» из Старе Моравице. Имена различаются одной буквой, и «Damalis» не встречается ни в Винарском регистру, ни у Vivino, — но у Dimalis в сборе только каберне, франковка и рајнски ризлинг. Похожести имён для сведения мало.",
+  "Gora / La Gora": "Не сведены: доказательства нет. Совпадение с регистром ложное — слово «gora» попало из «VINARIJA FRUŠKA GORA BEŠKA». Линейки разные: у Gora грашац и белый купаж, у La Gora — Aria, Bello, Lupo.",
+  "Koreni / Koreni 1934": "Разные хозяйства. В Винарском регистру их два: «Nemanja Petrović PR … Koreni 1934 Lipovac» и «Aleksandar Ljutovac PR … KORENI Beograd». Вина тоже разные: у нашего «Koreni» — «Орнамент Кнежа Cuvée» с номером Vivino, у «Koreni 1934» — «Vinary Koreni 1934 Merlot» у AWC.",
   "Manufaktura Spasić / Vinarska Kuća Spasić": "Разные. Спасић в регистре один — жупский, из Тржца. Manufaktura Spasić делает сремску зеленику, ребо и кривац, а Decanter относит её вина к Срему; в регистре под этим именем её нет. Совпадение по фамилии — не доказательство.",
+  "Mihajlovacko": "Не хозяйство, а обломок разбора у Vivino: за именем стоит одна запись «Codrum Vina Dajit Gamay Kvalitetno Suvo Crveno» без района — это текст с этикетки, а не имя дома.",
   "Moravski Val / Vinarija Val d'Ov": "Разные. Совпало слово «Val» внутри записи регистра «VINARIJA MORAVSKI VAL Mala Sugubina». Линейки не пересекаются: у Moravski Val вранац, у Val d'Ov «Crvendać».",
   "Perun Wine / Plavi Perun": "Не сведены: доказательства нет. В регистре Перун один — «Vinarija Plavi Perun doo Topola», Винча. У Perun Wine вранац и рислинг, у Plavi Perun шардоне и пино нуар; адреса на страницах Vivino не заполнены.",
-  "Gora / La Gora": "Не сведены: доказательства нет. Совпадение с регистром ложное — слово «gora» попало из «VINARIJA FRUŠKA GORA BEŠKA». Линейки разные: у Gora грашац и белый купаж, у La Gora — Aria, Bello, Lupo.",
-  "Damalis / Dimalis": "Не сведены. У балканского конкурса 2026 года есть «Damalis» с совиньоном, а у нас «Dimalis» из Старе Моравице. Имена различаются одной буквой, и «Damalis» не встречается ни в Винарском регистру, ни у Vivino, — но у Dimalis в сборе только каберне, франковка и рајнски ризлинг. Похожести имён для сведения мало.",
+  "Plavinac / Plavinci": "Разные хозяйства, а не написания. У Vivino это две страницы с непересекающимися линейками: у Plavinci семь вин (Indigo Regent, Ćilibar, Selena Tamjanika, пет-наты), у Vinarija Plavinac — двадцать шесть классических. Plavinci стоит в Заклопачи под Гроцкой.",
   "Rakicevic / Vinska Kuća Rakićević": "Не сведены. Ракићевића в регистре два: «Bratislav Rakićević … Velja Glava» и «MARKO RAKIĆEVIĆ PR … VINARIJA GERASIM, Ljubinci». По одной фамилии выбрать нельзя.",
-  "Vinogradi i vinarija Miletić / Miletic": "Не сведены. Милетића в регистре тоже два: «PODRUM MILETIĆ, Laćisled» и «Vinogradi i vinarija Miletić, Oparić».",
+  "Vinarija Mihailović / Vinarija Mihajlović": "Разные. У нашего Mihailović единственное вино «Луг (Lug)» с районом Vivino «Šumadija-Great Morava», а Mihajlović из справочника vinarijesrbije стоит в Књажевцу, это Зајечарски округ.",
   "Vinarija Milojević / Подрум Милојевић": "Не сведены, хотя имя одно: линейки не пересекаются. У «Vinarija Milojević» это Giletou — Beli Front, Crni Front, Chardonnay; у «Подрум Милојевић» — Видик, Лана, Мцма, и у каждого вина свой номер Vivino. Рејон у первого Београдски, а единственный Милојевић в регистру — запись № 5062, «Milan Milojević PR „PORODIČNA VINARIJA MILOJEVIĆ“, Ostrikovac», Поморавски округ. Совпадение фамилии доказательством не считается.",
-  "Vinogradi Nikolic / Николић Неузински": "Не сведены: доказательства нет. В Винарском регистру Николић один — запись № 6029, «Vinogradi Nikolić Neuzinski doo Novi Sad», — и она подходит обоим именам. Но линейки не пересекаются ни одним вином: у первого «Прокупац», «Прзница», «Црвено», у второго «Монах», «Santa Maria», «Тамјаника». Совпадение фамилии доказательством не считается."
+  "Vinogradi Nikolic / Николић Неузински": "Не сведены: доказательства нет. В Винарском регистру Николић один — запись № 6029, «Vinogradi Nikolić Neuzinski doo Novi Sad», — и она подходит обоим именам. Но линейки не пересекаются ни одним вином: у первого «Прокупац», «Прзница», «Црвено», у второго «Монах», «Santa Maria», «Тамјаника». Совпадение фамилии доказательством не считается.",
+  "Vinogradi i vinarija Miletić / Miletic": "Не сведены. Милетића в регистре тоже два: «PODRUM MILETIĆ, Laćisled» и «Vinogradi i vinarija Miletić, Oparić»."
  },
  "ne_privyazano": {
   "Marselan": "Ошибка ввода у Decanter, DWWA 2023: в поле производителя стоит название сорта, вино тоже «Marselan». Марселан в Сербии делают десятки хозяйств — привязать не к кому.",

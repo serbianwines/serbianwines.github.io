@@ -184,6 +184,19 @@
    "mesto": "Banoštor, Južnobački okrug",
    "zamechanie": ""
   },
+  "bacina": {
+   "hozyaistvo": "Bacina vino d.o.o.",
+   "sovpalo": [
+    {
+     "reg_nomer": "1155",
+     "nazvanie": "Preduzeće za proizvodnju promet i usluge Bačina-vino DOO Bačina",
+     "naselje": "Bačina",
+     "okrug": "Rasinski"
+    }
+   ],
+   "mesto": "Bačina, Rasinski okrug",
+   "zamechanie": ""
+  },
   "bahus": {
    "hozyaistvo": "Bahus",
    "sovpalo": [
@@ -405,7 +418,7 @@
    "zamechanie": ""
   },
   "dibonis": {
-   "hozyaistvo": "Dibonis Winery",
+   "hozyaistvo": "DiBonis Winery",
    "sovpalo": [
     {
      "reg_nomer": "91",
@@ -611,6 +624,19 @@
    "mesto": "Vrnjačka Banja, Raški okrug",
    "zamechanie": ""
   },
+  "hup-mihajlovac": {
+   "hozyaistvo": "HUP MIHAJLOVAC",
+   "sovpalo": [
+    {
+     "reg_nomer": "5917",
+     "nazvanie": "HUP „MIHAJLOVACˮ DOO BEOGRAD",
+     "naselje": "Beograd - Čukarica",
+     "okrug": "Beograd"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "адрес столичный (Beograd - Čukarica) — это контора, не виноградник"
+  },
   "hadzi-popovic": {
    "hozyaistvo": "Hadži Popović",
    "sovpalo": [
@@ -622,6 +648,19 @@
     }
    ],
    "mesto": "Stari Slankamen, Sremski okrug",
+   "zamechanie": ""
+  },
+  "hrusija-leskovac": {
+   "hozyaistvo": "Hrusija d.o.o. Leskovac",
+   "sovpalo": [
+    {
+     "reg_nomer": "6458",
+     "nazvanie": ",,Hrusija\" DOO Leskovac",
+     "naselje": "Leskovac",
+     "okrug": "Jablanički"
+    }
+   ],
+   "mesto": "Leskovac, Jablanički okrug",
    "zamechanie": ""
   },
   "ivanovic": {
@@ -765,19 +804,6 @@
    "mesto": "Sremski Karlovci, Južnobački okrug",
    "zamechanie": ""
   },
-  "komuna": {
-   "hozyaistvo": "Komuna Vinarija",
-   "sovpalo": [
-    {
-     "reg_nomer": "4068",
-     "nazvanie": "Nebojša Vlahović PR, Radnja za proizvodnju vina od grožđa \"Vinarija Komuna\", Rivica",
-     "naselje": "Irig",
-     "okrug": "Sremski"
-    }
-   ],
-   "mesto": "Irig, Sremski okrug",
-   "zamechanie": ""
-  },
   "koreni": {
    "hozyaistvo": "Koreni",
    "sovpalo": [
@@ -796,6 +822,19 @@
    ],
    "mesto": "",
    "zamechanie": "записей регистра несколько, и места разные"
+  },
+  "koreni-1934": {
+   "hozyaistvo": "Koreni 1934",
+   "sovpalo": [
+    {
+     "reg_nomer": "6641",
+     "nazvanie": "Nemanja Petrović PR Proizvodnja vina od grožđa i rakije Koreni 1934 Lipovac",
+     "naselje": "Lipovac",
+     "okrug": "Šumadijski"
+    }
+   ],
+   "mesto": "Lipovac, Šumadijski okrug",
+   "zamechanie": ""
   },
   "kovacevic": {
    "hozyaistvo": "Kovačević",
@@ -1247,19 +1286,6 @@
    "mesto": "",
    "zamechanie": "на запись регистра № 5863 притязают несколько хозяйств: Perun Wine, Plavi Perun"
   },
-  "pet-hrastova": {
-   "hozyaistvo": "Pet Hrastova",
-   "sovpalo": [
-    {
-     "reg_nomer": "4232",
-     "nazvanie": "Dušan Dizdar pr Proizvodnja vina od grožđa VINARIJA PET HRASTOVA Vrnjačka Banja",
-     "naselje": "Vrnjačka Banja",
-     "okrug": "Raški"
-    }
-   ],
-   "mesto": "Vrnjačka Banja, Raški okrug",
-   "zamechanie": ""
-  },
   "petkovic-latin": {
    "hozyaistvo": "Petković Latin",
    "sovpalo": [
@@ -1310,19 +1336,6 @@
     }
    ],
    "mesto": "Zaklopača, Beograd okrug",
-   "zamechanie": ""
-  },
-  "bacina": {
-   "hozyaistvo": "Podrum Bačina",
-   "sovpalo": [
-    {
-     "reg_nomer": "1155",
-     "nazvanie": "Preduzeće za proizvodnju promet i usluge Bačina-vino DOO Bačina",
-     "naselje": "Bačina",
-     "okrug": "Rasinski"
-    }
-   ],
-   "mesto": "Bačina, Rasinski okrug",
    "zamechanie": ""
   },
   "dremina": {
@@ -1976,19 +1989,6 @@
    "mesto": "Negotin, Borski okrug",
    "zamechanie": ""
   },
-  "tref-line": {
-   "hozyaistvo": "Tref Line",
-   "sovpalo": [
-    {
-     "reg_nomer": "5821",
-     "nazvanie": "PREDUZEĆE ZA UVOZ IZVOZ I USLUGE \"TREF LINE\" DOO BEOGRAD (ZEMUN)",
-     "naselje": "Zemun",
-     "okrug": "Beograd"
-    }
-   ],
-   "mesto": "",
-   "zamechanie": "адрес столичный (Zemun) — это контора, не виноградник"
-  },
   "tri-mede-i-oblak": {
    "hozyaistvo": "Tri Medje I Oblak",
    "sovpalo": [
@@ -2058,6 +2058,19 @@
     }
    ],
    "mesto": "Gudurica, Južnobanatski okrug",
+   "zamechanie": ""
+  },
+  "stankovic": {
+   "hozyaistvo": "VINARIJA STANKOVIĆ",
+   "sovpalo": [
+    {
+     "reg_nomer": "4222",
+     "nazvanie": "IGOR STANKOVIĆ PR PROIZVODNJA VINA VINARIJA STANKOVIĆ RABROVO",
+     "naselje": "Rabrovo",
+     "okrug": "Braničevski"
+    }
+   ],
+   "mesto": "Rabrovo, Braničevski okrug",
    "zamechanie": ""
   },
   "varina": {
@@ -2579,6 +2592,19 @@
    "mesto": "Inđija, Sremski okrug",
    "zamechanie": ""
   },
+  "komuna": {
+   "hozyaistvo": "Vinarija Komuna PR",
+   "sovpalo": [
+    {
+     "reg_nomer": "4068",
+     "nazvanie": "Nebojša Vlahović PR, Radnja za proizvodnju vina od grožđa \"Vinarija Komuna\", Rivica",
+     "naselje": "Irig",
+     "okrug": "Sremski"
+    }
+   ],
+   "mesto": "Irig, Sremski okrug",
+   "zamechanie": ""
+  },
   "kurjak": {
    "hozyaistvo": "Vinarija Kurjak",
    "sovpalo": [
@@ -2780,6 +2806,19 @@
    "mesto": "",
    "zamechanie": "адрес столичный (Zemun) — это контора, не виноградник"
   },
+  "pet-hrastova": {
+   "hozyaistvo": "Vinarija Pet Hrastova",
+   "sovpalo": [
+    {
+     "reg_nomer": "4232",
+     "nazvanie": "Dušan Dizdar pr Proizvodnja vina od grožđa VINARIJA PET HRASTOVA Vrnjačka Banja",
+     "naselje": "Vrnjačka Banja",
+     "okrug": "Raški"
+    }
+   ],
+   "mesto": "Vrnjačka Banja, Raški okrug",
+   "zamechanie": ""
+  },
   "petra": {
    "hozyaistvo": "Vinarija Petra",
    "sovpalo": [
@@ -2959,19 +2998,6 @@
     }
    ],
    "mesto": "Veliko Središte, Južnobanatski okrug",
-   "zamechanie": ""
-  },
-  "stankovic": {
-   "hozyaistvo": "Vinarija Stanković",
-   "sovpalo": [
-    {
-     "reg_nomer": "4222",
-     "nazvanie": "IGOR STANKOVIĆ PR PROIZVODNJA VINA VINARIJA STANKOVIĆ RABROVO",
-     "naselje": "Rabrovo",
-     "okrug": "Braničevski"
-    }
-   ],
-   "mesto": "Rabrovo, Braničevski okrug",
    "zamechanie": ""
   },
   "tana": {
@@ -3707,6 +3733,44 @@
    ],
    "mesto": "",
    "zamechanie": "адрес столичный (Beograd - Stari Grad) — это контора, не виноградник"
+  },
+  "milosavljevic": {
+   "hozyaistvo": "Winery Milosavljevic",
+   "sovpalo": [
+    {
+     "reg_nomer": "15",
+     "nazvanie": "DRAGAN MILOSAVLJEVIĆ PR, VINARIJA MILOSAVLJEVIĆ BUČJE",
+     "naselje": "Bučje",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "6629",
+     "nazvanie": "Dušan Milosavljević PR proizvodnja vina KM VINARIJA 022 Irig",
+     "naselje": "Irig",
+     "okrug": "Sremski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "записей регистра несколько, и места разные"
+  },
+  "skrbic": {
+   "hozyaistvo": "Winery ŠKRBIĆ",
+   "sovpalo": [
+    {
+     "reg_nomer": "4196",
+     "nazvanie": "Vukašin Škrbić PR, radnja za proizvodnju i prodaju vina i rakije \"VINARIJA ŠKRBIĆ\", Beograd-Palilula",
+     "naselje": "Beograd - Palilula",
+     "okrug": "Beograd"
+    },
+    {
+     "reg_nomer": "6647",
+     "nazvanie": "ŠKRBIĆ GROUP DOO",
+     "naselje": "Beograd - Palilula",
+     "okrug": "Beograd"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "адрес столичный (Beograd - Palilula) — это контора, не виноградник"
   },
   "zmajevac": {
    "hozyaistvo": "Zmajevac",

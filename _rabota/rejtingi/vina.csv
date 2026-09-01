@@ -328,6 +328,28 @@ botunjac-pino-svetih-ratnika-reserve-pinot-noir,Botunjac,Pino Svetih Ratnika Res
 botunjac-rasplet-reserve-riesling,Botunjac,Rasplet Reserve Riesling,6107952,https://www.vivino.com/w/6107952,malo_ocenok,1,False,False
 botunjac-rasplet-riesling-italico,Botunjac,Rasplet Riesling Italico,2266658,https://www.vivino.com/w/2266658,ocenka_est,85,False,False
 botunjac-sveti-gral-prokupac,Botunjac,Sveti Gral Prokupac,5081197,https://www.vivino.com/w/5081197,ocenka_est,653,False,False
+braca-rajkovic-33,Braća Rajković,33,,,net_na_vivino,,False,False
+braca-rajkovic-33-bela,Braća Rajković,33 Bela,9720246,https://www.vivino.com/w/9720246,ocenka_est,64,False,False
+braca-rajkovic-33-premium,Braća Rajković,33 Premium,,,net_na_vivino,,False,False
+braca-rajkovic-33-red,Braća Rajković,33 Red,1948223,https://www.vivino.com/w/1948223,ocenka_est,877,False,False
+braca-rajkovic-33-premium-wine-red,Braća Rajković,33 premium wine red,,,net_na_vivino,,False,True
+braca-rajkovic-cabernet-rajkovic,Braća Rajković,Cabernet Rajkovic,,,net_na_vivino,,False,True
+braca-rajkovic-dina-barrique,Braća Rajković,Dina Barrique,8283998,https://www.vivino.com/w/8283998,malo_ocenok,1,True,False
+braca-rajkovic-opium,Braća Rajković,Opium,8283994,https://www.vivino.com/w/8283994,malo_ocenok,,False,False
+braca-rajkovic-pinot-rose,Braća Rajković,Pinot Rose,,,net_na_vivino,,False,False
+braca-rajkovic-prince,Braća Rajković,Prince,,,net_na_vivino,,False,False
+braca-rajkovic-prince-rskavac,Braća Rajković,Prince Rskavac,2315649,https://www.vivino.com/w/2315649,ocenka_est,506,False,True
+braca-rajkovic-sofia-carmenere,Braća Rajković,Sofia Carmenere,,,net_na_vivino,,False,False
+braca-rajkovic-sofia-cuvee,Braća Rajković,Sofia Cuvée,1844965,https://www.vivino.com/w/1844965,ocenka_est,609,False,False
+braca-rajkovic-sofia-rose,Braća Rajković,Sofia Rosé,6631524,https://www.vivino.com/w/6631524,ocenka_est,205,False,False
+braca-rajkovic-sofia-semillon,Braća Rajković,Sofia Semillon,,,net_na_vivino,,False,False
+braca-rajkovic-sofia-tamjanika,Braća Rajković,Sofia Tamjanika,1448902,https://www.vivino.com/w/1448902,ocenka_est,1251,False,True
+braca-rajkovic-sofia-traminer-late-harvest,Braća Rajković,Sofia Traminer Late Harvest,,,net_na_vivino,,False,False
+braca-rajkovic-sofia-viognier-barrique,Braća Rajković,Sofia Viognier Barrique,,,net_na_vivino,,False,False
+braca-rajkovic-sofija-tamnjanika-noble-rot-late-harvest,Braća Rajković,Sofija Tamnjanika Noble Rot Late Harvest,,,net_na_vivino,,False,False
+braca-rajkovic-tamjanika-kasna-berba,Braća Rajković,Tamjanika Kasna Berba,9952066,https://www.vivino.com/w/9952066,malo_ocenok,13,False,False
+braca-rajkovic-zupanaja,Braća Rajković,ŽupanAja,,,net_na_vivino,,False,False
+braca-rajkovic-prokup-c-roze-prokupac-rose,Braća Rajković,ПРОКУПΛЦ РОЗЕ (Prokupac Rosé),7304807,https://www.vivino.com/w/7304807,malo_ocenok,1,False,False
 breg-grasac,Breg,Grašac,,,net_na_vivino,,False,True
 breg-rose,Breg,Rosé,13984376,https://www.vivino.com/w/13984376,malo_ocenok,1,False,False
 breg-sila,Breg,Sila,13644102,https://www.vivino.com/w/13644102,malo_ocenok,39,False,True
@@ -706,6 +728,16 @@ dzervin-schlossberg,Dzervin,Schlossberg,,,net_na_vivino,,False,True
 dzervin-schlossberg-merlot,Dzervin,Schlossberg Merlot,7149168,https://www.vivino.com/w/7149168,ocenka_est,450,False,False
 dzervin-trifun,Dzervin,Trifun,,,net_na_vivino,,False,True
 dzervin-trifun-grand-cabernet-sauvignon,Dzervin,Trifun Grand Cabernet Sauvignon,,,net_na_vivino,,False,True
+eden-cabernet-franc,Eden,Cabernet Franc,12465966,https://www.vivino.com/w/12465966,malo_ocenok,15,False,True
+eden-chardonnay,Eden,Chardonnay,8615110,https://www.vivino.com/w/8615110,ocenka_est,279,False,True
+eden-genesis,Eden,Genesis,9172474,https://www.vivino.com/w/9172474,ocenka_est,656,False,True
+eden-iii,Eden,III,9283779,https://www.vivino.com/w/9283779,malo_ocenok,43,False,False
+eden-merlot,Eden,Merlot,11889296,https://www.vivino.com/w/11889296,malo_ocenok,17,False,False
+eden-rose,Eden,Rosé,8615111,https://www.vivino.com/w/8615111,malo_ocenok,6,False,False
+eden-sauvignon-blanc,Eden,Sauvignon Blanc,8615109,https://www.vivino.com/w/8615109,ocenka_est,376,False,False
+eden-semillon,Eden,Semillon,10601579,https://www.vivino.com/w/10601579,ocenka_est,80,False,False
+eden-velvet,Eden,Velvet,10209010,https://www.vivino.com/w/10209010,ocenka_est,857,False,True
+eden-vivid-sauvignon-blanc,Eden,Vivid Sauvignon Blanc,10662669,https://www.vivino.com/w/10662669,ocenka_est,237,False,False
 enellion-cuvee-talija,Enellion,Cuvée Talija,10295724,https://www.vivino.com/w/10295724,malo_ocenok,2,False,False
 enigma-red,Enigma,Red,7547111,https://www.vivino.com/w/7547111,ocenka_est,833,False,False
 enigma-rose,Enigma,Rosé,7581819,https://www.vivino.com/w/7581819,ocenka_est,249,False,False
@@ -736,6 +768,20 @@ erdevik-trianon-blanc,Erdevik,Trianon Blanc,12037717,https://www.vivino.com/w/12
 erdevik-trianon-merlot-cabernet-sauvignon-syrah,Erdevik,Trianon Merlot-Cabernet Sauvignon-Syrah,,,net_na_vivino,,True,True
 erdevik-trianon-pinot-blanc-pinot-grigio-sauvignon-blanc,Erdevik,Trianon Pinot Blanc-Pinot Grigio-Sauvignon Blanc,,,net_na_vivino,,True,True
 fekete-canina,Fekete,Canina,10720327,https://www.vivino.com/w/10720327,malo_ocenok,23,False,False
+fragaria-fragari-votazi,Fragaria,Fragari Votazi,,,net_na_vivino,,False,True
+fragaria-fragolina,Fragaria,Fragolina,10552260,https://www.vivino.com/w/10552260,malo_ocenok,16,False,False
+fragaria-jagoda,Fragaria,Jagoda,8900207,https://www.vivino.com/w/8900207,ocenka_est,462,False,True
+fragaria-prokupac,Fragaria,Prokupac,13950809,https://www.vivino.com/w/13950809,malo_ocenok,1,False,False
+fragaria-red,Fragaria,Red,8820606,https://www.vivino.com/w/8820606,ocenka_est,128,False,True
+fragaria-red-votazi,Fragaria,Red Votazi,,,net_na_vivino,,False,True
+fragaria-rose-fragolina,Fragaria,Rose Fragolina,,,net_na_vivino,,False,True
+fragaria-sauvignon-blanc,Fragaria,Sauvignon Blanc,8900218,https://www.vivino.com/w/8900218,ocenka_est,144,False,False
+fragaria-selekcija,Fragaria,Selekcija,,,net_na_vivino,,False,True
+fragaria-tajna-veza,Fragaria,Tajna Veza,12199046,https://www.vivino.com/w/12199046,malo_ocenok,34,True,False
+fragaria-tamjanika,Fragaria,Tamjanika,8900221,https://www.vivino.com/w/8900221,ocenka_est,181,False,False
+fragaria-votazi,Fragaria,Votaži,10227154,https://www.vivino.com/w/10227154,ocenka_est,256,False,True
+fragaria-white-jagoda,Fragaria,WHITE Jagoda,,,net_na_vivino,,False,True
+fragaria-white-sauvignon-blanc,Fragaria,White Sauvignon Blanc,,,net_na_vivino,,False,True
 francuska-estelle-et-cyrille-bongiraud-brut,Francuska Vinarija - Estelle et Cyrille Bongiraud,Brut,5799793,https://www.vivino.com/w/5799793,ocenka_est,186,False,False
 francuska-estelle-et-cyrille-bongiraud-brut-c,Francuska Vinarija - Estelle et Cyrille Bongiraud,Brut C,13028713,https://www.vivino.com/w/13028713,malo_ocenok,27,True,False
 francuska-estelle-et-cyrille-bongiraud-brut-macere,Francuska Vinarija - Estelle et Cyrille Bongiraud,Brut Macéré,11197013,https://www.vivino.com/w/11197013,ocenka_est,93,False,False
@@ -826,6 +872,34 @@ ivanovic-cf,Ivanović,ЦФ,,,net_na_vivino,,False,True
 jagodinska-mala-nocna-muzika-crveno,Jagodinska,Mala Nocna Muzika Crveno,7739112,https://www.vivino.com/w/7739112,malo_ocenok,21,False,False
 jagodinska-ruzica,Jagodinska,Ružica,1452763,https://www.vivino.com/w/1452763,malo_ocenok,14,False,False
 janek-wineyard-crveno-cuvee,Janek Wineyard,Crveno Cuvée,7704604,https://www.vivino.com/w/7704604,malo_ocenok,2,False,False
+janko-adut-traminac,Janko,Adut Traminac,4852605,https://www.vivino.com/w/4852605,malo_ocenok,59,False,False
+janko-bas-prokupac,Janko,Bas Prokupac,6127181,https://www.vivino.com/w/6127181,ocenka_est,597,False,True
+janko-bifora,Janko,Bifora,7131368,https://www.vivino.com/w/7131368,ocenka_est,203,False,True
+janko-elena,Janko,Elena,,,net_na_vivino,,False,False
+janko-jelena-rose,Janko,Jelena Rosé,2189117,https://www.vivino.com/w/2189117,ocenka_est,111,False,False
+janko-mesecina-penusavo-belo,Janko,Mesečina Penušavo Belo,9700050,https://www.vivino.com/w/9700050,ocenka_est,69,False,False
+janko-misija,Janko,Misija,,,net_na_vivino,,False,True
+janko-misija-barrique-chardonnay,Janko,Misija Barrique Chardonnay,2425053,https://www.vivino.com/w/2425053,ocenka_est,57,False,False
+janko-misija-chardonnay,Janko,Misija Chardonnay,2936401,https://www.vivino.com/w/2936401,ocenka_est,644,False,True
+janko-sauvignon-blanc,Janko,Sauvignon Blanc,2622685,https://www.vivino.com/w/2622685,ocenka_est,260,False,False
+janko-smederevka,Janko,Smederevka,2185386,https://www.vivino.com/w/2185386,ocenka_est,547,False,True
+janko-stari-zavet,Janko,Stari Zavet,,,net_na_vivino,,False,True
+janko-stari-zavet-cabernet-sauvignon-merlot-cabernet-franc,Janko,"Stari Zavet Cabernet Sauvignon, Merlot & Cabernet Franc",,,net_na_vivino,,False,True
+janko-vrtlog,Janko,Vrtlog,,,net_na_vivino,,False,True
+janko-vrtlog-sauvignon-blanc,Janko,Vrtlog Sauvignon Blanc,2485952,https://www.vivino.com/w/2485952,ocenka_est,209,False,False
+janko-zapis-crveni,Janko,Zapis Crveni,,,net_na_vivino,,False,True
+janko-zapis-crveni-merlot,Janko,Zapis Crveni Merlot,2288829,https://www.vivino.com/w/2288829,ocenka_est,1414,False,False
+janko-zapis-rajnski-rizling,Janko,Zapis Rajnski Rizling,2427599,https://www.vivino.com/w/2427599,ocenka_est,77,False,False
+janko-zapis-red-podrum-janko,Janko,Zapis Red Podrum Janko,1967611,https://www.vivino.com/w/1967611,malo_ocenok,6,False,False
+janko-zapis-testament,Janko,Zapis Testament,,,net_na_vivino,,False,True
+janko-zavet,Janko,Zavet,3030255,https://www.vivino.com/w/3030255,ocenka_est,1661,False,True
+janko-zavet-barrique,Janko,Zavet Barrique,2048373,https://www.vivino.com/w/2048373,malo_ocenok,57,False,False
+janko-zavet-red-blend,Janko,Zavet Red Blend,2303171,https://www.vivino.com/w/2303171,ocenka_est,853,False,False
+janko-zavet-reserve,Janko,Zavet Reserve,1524636,https://www.vivino.com/w/1524636,malo_ocenok,12,False,False
+janko-zavet-stari-cuvee,Janko,Zavet Stari Cuvée,,,net_na_vivino,,False,True
+janko-zavet-stari-red-blend,Janko,Zavet Stari Red Blend,2521041,https://www.vivino.com/w/2521041,ocenka_est,875,False,False
+janko-zlatno-runo-cabernet-sauvignon,Janko,Zlatno Runo Cabernet Sauvignon,9157413,https://www.vivino.com/w/9157413,ocenka_est,173,False,True
+janko-zapis-testament-crveni-zapis-testament,Janko,Запис Тестамент (Crveni Zapis Testament),7508950,https://www.vivino.com/w/7508950,ocenka_est,181,False,False
 janovi-cabernet-merlot,Janovi Vinogradi,Cabernet - Merlot,10194798,https://www.vivino.com/w/10194798,malo_ocenok,18,False,False
 jelena-munizaba-radnja-za-proizvodnju-grozda-i-turizam-i-ugostiteljstvo-cabernet-franc,"Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo.",Cabernet Franc,,,net_na_vivino,,False,True
 jelenac-zov,Jelenac organic,Zov,,,net_na_vivino,,False,False
@@ -933,6 +1007,10 @@ kis-verus-merlot,Kiš,Verus Merlot,12515561,https://www.vivino.com/w/12515561,ma
 kis-verus-mister-ja,Kiš,Verus Mister & Ja,,,net_na_vivino,,False,True
 koreni-ornament-kpaza-cuvee-ornamen-blend,Koreni,Орнамент Кпажа Cuvée (Ornamen Blend),13317296,https://www.vivino.com/w/13317296,malo_ocenok,28,False,False
 koreni-1934-vinary-koreni-1934-merlot,Koreni 1934,Vinary Koreni 1934 Merlot,,,net_na_vivino,,False,True
+kostic-cuvee,Kostić,Cuvée,8924009,https://www.vivino.com/w/8924009,ocenka_est,145,False,False
+kostic-prokupac,Kostić,Prokupac,,,net_na_vivino,,False,False
+kostic-prokupac-barrique,Kostić,Prokupac Barrique,7727115,https://www.vivino.com/w/7727115,ocenka_est,626,False,False
+kostic-tamjanika-oranz-orange,Kostić,Tamjanika Оранж (Orange),13857999,https://www.vivino.com/w/13857999,malo_ocenok,3,False,False
 kovacevic-amber-cuvee,Kovačević,Amber Cuvée,12696523,https://www.vivino.com/w/12696523,malo_ocenok,40,False,False
 kovacevic-aurelius,Kovačević,Aurelius,1222956,https://www.vivino.com/w/1222956,ocenka_est,25240,True,True
 kovacevic-aurelius-barrique,Kovačević,Aurelius Barrique,1399821,https://www.vivino.com/w/1399821,ocenka_est,197,True,False
@@ -1041,6 +1119,29 @@ lakicevic-upupa-tamjanika,Lakićević,Upupa Tamjanika,,,ocenka_est,,True,False
 langov-chardonnay,Langov Podrum,Chardonnay,9868846,https://www.vivino.com/w/9868846,malo_ocenok,3,False,False
 langov-lang-chardonnay,Langov Podrum,Lang Chardonnay,,,net_na_vivino,,False,True
 langov-lang-grasac-beli,Langov Podrum,Lang Grašac beli,,,net_na_vivino,,False,True
+lastar-brut,Lastar,Brut,8305051,https://www.vivino.com/w/8305051,ocenka_est,147,False,False
+lastar-cabernet-franc,Lastar,Cabernet Franc,13626783,https://www.vivino.com/w/13626783,malo_ocenok,12,False,True
+lastar-chardonnay,Lastar,Chardonnay,4858063,https://www.vivino.com/w/4858063,ocenka_est,2361,False,True
+lastar-chardonnay-lastar,Lastar,Chardonnay Lastar,,,net_na_vivino,,False,True
+lastar-chardonnay-lastar-triangle,Lastar,Chardonnay Lastar Triangle,,,net_na_vivino,,False,False
+lastar-cru-6,Lastar,Cru 6,11362910,https://www.vivino.com/w/11362910,ocenka_est,1670,False,False
+lastar-cru-6-lastar,Lastar,Cru 6 Lastar,,,net_na_vivino,,False,True
+lastar-merlot-cabernet-franc,Lastar,Merlot - Cabernet Franc,7747673,https://www.vivino.com/w/7747673,ocenka_est,1754,False,True
+lastar-merlot-cabernet-franc-lastar,Lastar,Merlot Cabernet Franc Lastar,,,net_na_vivino,,False,False
+lastar-pinot-noir,Lastar,Pinot Noir,5460893,https://www.vivino.com/w/5460893,ocenka_est,3361,False,True
+lastar-pinot-noir-lastar,Lastar,Pinot Noir Lastar,,,net_na_vivino,,False,True
+lastar-pinot-nour-triangl,Lastar,Pinot Nour Triangl,,,net_na_vivino,,False,False
+lastar-riesling,Lastar,Riesling,4653515,https://www.vivino.com/w/4653515,ocenka_est,471,False,False
+lastar-riesling-lastar,Lastar,Riesling Lastar,,,net_na_vivino,,False,True
+lastar-rose,Lastar,Rose,6228410,https://www.vivino.com/w/6228410,ocenka_est,319,False,True
+lastar-rose-lastar,Lastar,Rose Lastar,,,net_na_vivino,,False,True
+lastar-sofijin-izbor-pinot-noir,Lastar,Sofijin Izbor Pinot Noir,12131953,https://www.vivino.com/w/12131953,ocenka_est,126,False,True
+lastar-sofijin-izbor,Lastar,Sofijin izbor,,,net_na_vivino,,False,True
+lastar-tamjanika,Lastar,Tamjanika,5544448,https://www.vivino.com/w/5544448,ocenka_est,3726,False,True
+lastar-tamjanika-lastar,Lastar,Tamjanika Lastar,,,net_na_vivino,,False,True
+lastar-triangl-chardonnay,Lastar,Triangl Chardonnay,5876688,https://www.vivino.com/w/5876688,ocenka_est,406,False,True
+lastar-triangl-pinot-noir,Lastar,Triangl Pinot Noir,8138896,https://www.vivino.com/w/8138896,ocenka_est,539,False,True
+lastar-triangl-sauvignon-viognier,Lastar,Triangl Sauvignon - Viognier,7488889,https://www.vivino.com/w/7488889,ocenka_est,656,False,True
 legat-chardonnay,Legat,Chardonnay,11377519,https://www.vivino.com/w/11377519,ocenka_est,252,False,False
 legat-muscat-petit-grain,Legat,Muscat Petit Grain,10959036,https://www.vivino.com/w/10959036,ocenka_est,226,False,False
 legat-pinot-noir,Legat,Pinot Noir,12150063,https://www.vivino.com/w/12150063,ocenka_est,474,False,False
@@ -1142,26 +1243,26 @@ matalj-zamna,Matalj,Zamna,,,net_na_vivino,,False,True
 matalj-zamna-cabernet-sauvignon,Matalj,Zamna Cabernet Sauvignon,,,net_na_vivino,,False,True
 matalj-zacinak-bukovski,Matalj,Začinak Bukovski,7282084,https://www.vivino.com/w/7282084,ocenka_est,454,False,False
 matalj-zemna-reserva,Matalj,Zemna Reserva,12146741,https://www.vivino.com/w/12146741,ocenka_est,242,False,True
-matijasevic-7-hrastova-cuvee,Matijašević,7 Hrastova Cuvée,,,net_na_vivino,,False,True
-matijasevic-7-hrastova-cuvee-belo,Matijašević,7 hrastova cuvee belo,,,net_na_vivino,,False,True
-matijasevic-belina,Matijašević,Belina,8607422,https://www.vivino.com/w/8607422,ocenka_est,241,True,True
-matijasevic-belina-inferno,Matijašević,Belina Inferno,13379336,https://www.vivino.com/w/13379336,malo_ocenok,5,True,True
-matijasevic-belina-oranz,Matijašević,Belina Oranz,,,net_na_vivino,,True,True
-matijasevic-cukundeda,Matijašević,Cukundeda,,,net_na_vivino,,True,True
-matijasevic-prokupac-cukundeda-superiore,Matijašević,Prokupac Cukundeda Superiore,,,net_na_vivino,,True,True
-matijasevic-rock-rose,Matijašević,Rock & Rose,8444916,https://www.vivino.com/w/8444916,ocenka_est,256,False,True
-matijasevic-rose-rose,Matijašević,Rosé & Rose,8543897,https://www.vivino.com/w/8543897,ocenka_est,546,False,False
-matijasevic-sedam-hrastova-cuvee-belo,Matijašević,Sedam Hrastova Cuvée Belo,10137013,https://www.vivino.com/w/10137013,ocenka_est,1483,False,False
-matijasevic-sedam-hrastova-cuvee-crveno,Matijašević,Sedam Hrastova Cuvée Crveno,8450607,https://www.vivino.com/w/8450607,ocenka_est,2455,False,False
-matijasevic-sovi-noa-fume-blanc,Matijašević,Sovi Noa Fumé Blanc,,,net_na_vivino,,False,True
-matijasevic-sovi-noa-sauvignon-blanc,Matijašević,Sovi Noa Sauvignon Blanc,,,net_na_vivino,,False,True
-matijasevic-sovinoa,Matijašević,SoviNoa,,,net_na_vivino,,False,True
-matijasevic-sovinoa-fume-blanc,Matijašević,Sovinoa Fumé Blanc,10341407,https://www.vivino.com/w/10341407,ocenka_est,569,True,True
-matijasevic-sovinoa-sauvignon-blanc,Matijašević,Sovinoa Sauvignon Blanc,8254768,https://www.vivino.com/w/8254768,ocenka_est,2091,False,True
-matijasevic-tri-doline,Matijašević,Tri Doline,,,net_na_vivino,,False,True
-matijasevic-tri-doline-merlot,Matijašević,Tri Doline Merlot,10165491,https://www.vivino.com/w/10165491,ocenka_est,625,False,True
-matijasevic-cukundeda-prokupac,Matijašević,Čukundeda Prokupac,9375920,https://www.vivino.com/w/9375920,ocenka_est,1567,True,True
-matijasevic-cukundeda-superiore,Matijašević,Čukundeda Superiore,,,net_na_vivino,,True,True
+matijasevic-7-hrastova-cuvee,Matijašević Vinogradi,7 Hrastova Cuvée,,,net_na_vivino,,False,True
+matijasevic-7-hrastova-cuvee-belo,Matijašević Vinogradi,7 hrastova cuvee belo,,,net_na_vivino,,False,True
+matijasevic-belina,Matijašević Vinogradi,Belina,8607422,https://www.vivino.com/w/8607422,ocenka_est,241,True,True
+matijasevic-belina-inferno,Matijašević Vinogradi,Belina Inferno,13379336,https://www.vivino.com/w/13379336,malo_ocenok,5,True,True
+matijasevic-belina-oranz,Matijašević Vinogradi,Belina Oranz,,,net_na_vivino,,True,True
+matijasevic-cukundeda,Matijašević Vinogradi,Cukundeda,,,net_na_vivino,,True,True
+matijasevic-prokupac-cukundeda-superiore,Matijašević Vinogradi,Prokupac Cukundeda Superiore,,,net_na_vivino,,True,True
+matijasevic-rock-rose,Matijašević Vinogradi,Rock & Rose,8444916,https://www.vivino.com/w/8444916,ocenka_est,256,False,True
+matijasevic-rose-rose,Matijašević Vinogradi,Rosé & Rose,8543897,https://www.vivino.com/w/8543897,ocenka_est,546,False,False
+matijasevic-sedam-hrastova-cuvee-belo,Matijašević Vinogradi,Sedam Hrastova Cuvée Belo,10137013,https://www.vivino.com/w/10137013,ocenka_est,1483,False,False
+matijasevic-sedam-hrastova-cuvee-crveno,Matijašević Vinogradi,Sedam Hrastova Cuvée Crveno,8450607,https://www.vivino.com/w/8450607,ocenka_est,2455,False,False
+matijasevic-sovi-noa-fume-blanc,Matijašević Vinogradi,Sovi Noa Fumé Blanc,,,net_na_vivino,,False,True
+matijasevic-sovi-noa-sauvignon-blanc,Matijašević Vinogradi,Sovi Noa Sauvignon Blanc,,,net_na_vivino,,False,True
+matijasevic-sovinoa,Matijašević Vinogradi,SoviNoa,,,net_na_vivino,,False,True
+matijasevic-sovinoa-fume-blanc,Matijašević Vinogradi,Sovinoa Fumé Blanc,10341407,https://www.vivino.com/w/10341407,ocenka_est,569,True,True
+matijasevic-sovinoa-sauvignon-blanc,Matijašević Vinogradi,Sovinoa Sauvignon Blanc,8254768,https://www.vivino.com/w/8254768,ocenka_est,2091,False,True
+matijasevic-tri-doline,Matijašević Vinogradi,Tri Doline,,,net_na_vivino,,False,True
+matijasevic-tri-doline-merlot,Matijašević Vinogradi,Tri Doline Merlot,10165491,https://www.vivino.com/w/10165491,ocenka_est,625,False,True
+matijasevic-cukundeda-prokupac,Matijašević Vinogradi,Čukundeda Prokupac,9375920,https://www.vivino.com/w/9375920,ocenka_est,1567,True,True
+matijasevic-cukundeda-superiore,Matijašević Vinogradi,Čukundeda Superiore,,,net_na_vivino,,True,True
 maurer-3-dana-godin,Maurer,3 Dana Godin,7256684,https://www.vivino.com/w/7256684,malo_ocenok,1,False,False
 maurer-bakator,Maurer,Bakator,1985090,https://www.vivino.com/w/1985090,ocenka_est,123,False,False
 maurer-bakator-1909,Maurer,Bakator 1909,2306746,https://www.vivino.com/w/2306746,malo_ocenok,11,False,False
@@ -1530,34 +1631,6 @@ dremina-deda-dorde-tamjanika,Podrum Dremina,Deda Dorde Tamjanika,11349609,https:
 dremina-prokupac,Podrum Dremina,Prokupac,13884958,https://www.vivino.com/w/13884958,malo_ocenok,9,False,True
 dremina-tamjanika,Podrum Dremina,Tamjanika,13970491,https://www.vivino.com/w/13970491,malo_ocenok,1,False,True
 gvozdanovic-zg-krokan,Podrum Gvozdanović,ZG Krokan,1583279,https://www.vivino.com/w/1583279,malo_ocenok,2,False,False
-janko-adut-traminac,Podrum Janko,Adut Traminac,4852605,https://www.vivino.com/w/4852605,malo_ocenok,59,False,False
-janko-bas-prokupac,Podrum Janko,Bas Prokupac,6127181,https://www.vivino.com/w/6127181,ocenka_est,597,False,True
-janko-bifora,Podrum Janko,Bifora,7131368,https://www.vivino.com/w/7131368,ocenka_est,203,False,True
-janko-elena,Podrum Janko,Elena,,,net_na_vivino,,False,False
-janko-jelena-rose,Podrum Janko,Jelena Rosé,2189117,https://www.vivino.com/w/2189117,ocenka_est,111,False,False
-janko-mesecina-penusavo-belo,Podrum Janko,Mesečina Penušavo Belo,9700050,https://www.vivino.com/w/9700050,ocenka_est,69,False,False
-janko-misija,Podrum Janko,Misija,,,net_na_vivino,,False,True
-janko-misija-barrique-chardonnay,Podrum Janko,Misija Barrique Chardonnay,2425053,https://www.vivino.com/w/2425053,ocenka_est,57,False,False
-janko-misija-chardonnay,Podrum Janko,Misija Chardonnay,2936401,https://www.vivino.com/w/2936401,ocenka_est,644,False,True
-janko-sauvignon-blanc,Podrum Janko,Sauvignon Blanc,2622685,https://www.vivino.com/w/2622685,ocenka_est,260,False,False
-janko-smederevka,Podrum Janko,Smederevka,2185386,https://www.vivino.com/w/2185386,ocenka_est,547,False,True
-janko-stari-zavet,Podrum Janko,Stari Zavet,,,net_na_vivino,,False,True
-janko-stari-zavet-cabernet-sauvignon-merlot-cabernet-franc,Podrum Janko,"Stari Zavet Cabernet Sauvignon, Merlot & Cabernet Franc",,,net_na_vivino,,False,True
-janko-vrtlog,Podrum Janko,Vrtlog,,,net_na_vivino,,False,True
-janko-vrtlog-sauvignon-blanc,Podrum Janko,Vrtlog Sauvignon Blanc,2485952,https://www.vivino.com/w/2485952,ocenka_est,209,False,False
-janko-zapis-crveni,Podrum Janko,Zapis Crveni,,,net_na_vivino,,False,True
-janko-zapis-crveni-merlot,Podrum Janko,Zapis Crveni Merlot,2288829,https://www.vivino.com/w/2288829,ocenka_est,1414,False,False
-janko-zapis-rajnski-rizling,Podrum Janko,Zapis Rajnski Rizling,2427599,https://www.vivino.com/w/2427599,ocenka_est,77,False,False
-janko-zapis-red-podrum-janko,Podrum Janko,Zapis Red Podrum Janko,1967611,https://www.vivino.com/w/1967611,malo_ocenok,6,False,False
-janko-zapis-testament,Podrum Janko,Zapis Testament,,,net_na_vivino,,False,True
-janko-zavet,Podrum Janko,Zavet,3030255,https://www.vivino.com/w/3030255,ocenka_est,1661,False,True
-janko-zavet-barrique,Podrum Janko,Zavet Barrique,2048373,https://www.vivino.com/w/2048373,malo_ocenok,57,False,False
-janko-zavet-red-blend,Podrum Janko,Zavet Red Blend,2303171,https://www.vivino.com/w/2303171,ocenka_est,853,False,False
-janko-zavet-reserve,Podrum Janko,Zavet Reserve,1524636,https://www.vivino.com/w/1524636,malo_ocenok,12,False,False
-janko-zavet-stari-cuvee,Podrum Janko,Zavet Stari Cuvée,,,net_na_vivino,,False,True
-janko-zavet-stari-red-blend,Podrum Janko,Zavet Stari Red Blend,2521041,https://www.vivino.com/w/2521041,ocenka_est,875,False,False
-janko-zlatno-runo-cabernet-sauvignon,Podrum Janko,Zlatno Runo Cabernet Sauvignon,9157413,https://www.vivino.com/w/9157413,ocenka_est,173,False,True
-janko-zapis-testament-crveni-zapis-testament,Podrum Janko,Запис Тестамент (Crveni Zapis Testament),7508950,https://www.vivino.com/w/7508950,ocenka_est,181,False,False
 jovanovic-bela-tamjanika,Podrum Jovanovic,Bela Tamjanika,8830626,https://www.vivino.com/w/8830626,malo_ocenok,14,False,False
 jovanovic-belo,Podrum Jovanovic,Belo,11915441,https://www.vivino.com/w/11915441,malo_ocenok,6,False,False
 jovanovic-cabernet-vranac,Podrum Jovanovic,Cabernet - Vranac,12027677,https://www.vivino.com/w/12027677,malo_ocenok,,False,False
@@ -1864,6 +1937,14 @@ reljic-rebus-suvo-rose,Reljić Vinarija,Rebus Suvo Rosé,10685523,https://www.vi
 rittium-neoplanta,Rittium,Neoplanta,1277006,https://www.vivino.com/w/1277006,malo_ocenok,5,False,False
 rittium-probus-suvo-stono-crveno-vino,Rittium,Probus Suvo Stono Crveno Vino,1880086,https://www.vivino.com/w/1880086,malo_ocenok,43,False,False
 rittium-rizling-italijanski,Rittium,Rizling Italijanski,9230806,https://www.vivino.com/w/9230806,malo_ocenok,1,False,False
+rnjak-crveni-puz,Rnjak,CRVENI PUŽ,,,net_na_vivino,,False,True
+rnjak-cuvee-de-rgnac,Rnjak,CUVEE DE RGNAC,,,net_na_vivino,,False,True
+rnjak-cabernet-sauvignon,Rnjak,Cabernet Sauvignon,6578089,https://www.vivino.com/w/6578089,ocenka_est,142,False,False
+rnjak-chardonnay,Rnjak,Chardonnay,7621413,https://www.vivino.com/w/7621413,ocenka_est,161,False,True
+rnjak-merlot,Rnjak,Merlot,,,net_na_vivino,,False,True
+rnjak-merlot-limited-edition,Rnjak,Merlot Limited Edition,5799980,https://www.vivino.com/w/5799980,ocenka_est,119,False,False
+rnjak-pinot-noir,Rnjak,Pinot Noir,7620792,https://www.vivino.com/w/7620792,ocenka_est,354,False,True
+rnjak-sauvignon-blanc,Rnjak,Sauvignon Blanc,7782676,https://www.vivino.com/w/7782676,ocenka_est,258,False,True
 robert-rudinski-cabernet-sauvignon,Robert Rudinski,Cabernet Sauvignon,13165872,https://www.vivino.com/w/13165872,malo_ocenok,15,False,False
 robert-rudinski-rizling,Robert Rudinski,Rizling,7412879,https://www.vivino.com/w/7412879,ocenka_est,160,False,False
 rogan-cabernet-sauvignon,Rogan,Cabernet Sauvignon,2673832,https://www.vivino.com/w/2673832,malo_ocenok,80,False,False
@@ -2161,14 +2242,6 @@ ukusi-moga-kraja-prokupac,Ukusi Moga Kraja,Prokupac,7160719,https://www.vivino.c
 ukusi-moga-kraja-tamjanika,Ukusi Moga Kraja,Tamjanika,4878155,https://www.vivino.com/w/4878155,ocenka_est,355,False,False
 uns-petra-sortno,Uns Petra,Sortno,9850349,https://www.vivino.com/w/9850349,malo_ocenok,7,False,False
 uziwa-traminac,Uziwa Winery,Traminac,13836758,https://www.vivino.com/w/13836758,malo_ocenok,1,False,False
-rnjak-crveni-puz,VINARIJA RNJAK,CRVENI PUŽ,,,net_na_vivino,,False,True
-rnjak-cuvee-de-rgnac,VINARIJA RNJAK,CUVEE DE RGNAC,,,net_na_vivino,,False,True
-rnjak-cabernet-sauvignon,VINARIJA RNJAK,Cabernet Sauvignon,6578089,https://www.vivino.com/w/6578089,ocenka_est,142,False,False
-rnjak-chardonnay,VINARIJA RNJAK,Chardonnay,7621413,https://www.vivino.com/w/7621413,ocenka_est,161,False,True
-rnjak-merlot,VINARIJA RNJAK,Merlot,,,net_na_vivino,,False,True
-rnjak-merlot-limited-edition,VINARIJA RNJAK,Merlot Limited Edition,5799980,https://www.vivino.com/w/5799980,ocenka_est,119,False,False
-rnjak-pinot-noir,VINARIJA RNJAK,Pinot Noir,7620792,https://www.vivino.com/w/7620792,ocenka_est,354,False,True
-rnjak-sauvignon-blanc,VINARIJA RNJAK,Sauvignon Blanc,7782676,https://www.vivino.com/w/7782676,ocenka_est,258,False,True
 stankovic-cabernet-sauvignon,VINARIJA STANKOVIĆ,Cabernet Sauvignon,12450955,https://www.vivino.com/w/12450955,malo_ocenok,30,False,True
 stankovic-chardonnay,VINARIJA STANKOVIĆ,Chardonnay,,,net_na_vivino,,False,True
 varina-fratame-rose,Varina,Fratame Rosé,13222123,https://www.vivino.com/w/13222123,malo_ocenok,2,False,False
@@ -2229,6 +2302,19 @@ vilimonovic-reserva-cabernet-sauvignon,Vilimonovic,Reserva Cabernet Sauvignon,12
 vilimonovic-rose,Vilimonovic,Rosé,9601739,https://www.vivino.com/w/9601739,malo_ocenok,34,False,False
 vilimonovic-tamjanika,Vilimonovic,Tamjanika,6422621,https://www.vivino.com/w/6422621,ocenka_est,438,False,False
 vilimonovic-zupljanka,Vilimonovic,Župljanka,10184785,https://www.vivino.com/w/10184785,malo_ocenok,2,False,False
+frunza-aglaja-aglaja-bagrina,Vimmid,Aglaja Bagrina,13903789,https://www.vivino.com/w/13903789,malo_ocenok,1,False,False
+frunza-aglaja-aglaja-bagrina-aglada-bagrina,Vimmid,Aglaja Bagrina (Аглада Багрина ),13904986,https://www.vivino.com/w/13904986,malo_ocenok,,False,False
+frunza-aglaja-cabernet-sauvignon,Vimmid,Cabernet Sauvignon,6310319,https://www.vivino.com/w/6310319,ocenka_est,146,False,True
+frunza-aglaja-dantelle-cabernet-sauvignon,Vimmid,Dantelle Cabernet Sauvignon,,,net_na_vivino,,False,True
+frunza-aglaja-dentelle,Vimmid,Dentelle,,,net_na_vivino,,False,True
+frunza-aglaja-sauvignon-semillon,Vimmid,Sauvignon-Semillon,,,net_na_vivino,,False,True
+frunza-aglaja-l-j-cabernet-sauvignon,Vimmid,ΑΓЛΑЈΑ Cabernet Sauvignon,5909950,https://www.vivino.com/w/5909950,ocenka_est,320,False,False
+frunza-aglaja-l-j-roze,Vimmid,ΑΓЛΑЈΑ РОЗЕ,6398588,https://www.vivino.com/w/6398588,malo_ocenok,3,False,False
+frunza-aglaja-aglaja-dentelle-cabernet-sauvignon,Vimmid,Аглаjа Dentelle Cabernet Sauvignon,6435347,https://www.vivino.com/w/6435347,ocenka_est,224,False,False
+frunza-aglaja-aglaja-chardonnay-aglaja,Vimmid,Аглаја Chardonnay (Aglaja),9283294,https://www.vivino.com/w/9283294,ocenka_est,41,False,False
+frunza-aglaja-aglaja-sauvignon-blanc-semillon-aglaja,Vimmid,Аглаја Sauvignon Blanc - Semillon (Aglaja),10037274,https://www.vivino.com/w/10037274,ocenka_est,199,False,False
+frunza-aglaja-prokupac-aglaja-prokupac,Vimmid,Прокупац (Aglaja Prokupac),12152122,https://www.vivino.com/w/12152122,malo_ocenok,78,False,False
+frunza-aglaja-roze-rose,Vimmid,Розе (Rose),13269100,https://www.vivino.com/w/13269100,malo_ocenok,15,False,False
 jelenkovic-tama,Vina Jelenković,Тама,9555059,https://www.vivino.com/w/9555059,malo_ocenok,3,False,False
 mives-vesnik-rose,Vina Mives,Vesnik Rosé,10554626,https://www.vivino.com/w/10554626,malo_ocenok,1,False,False
 mives-vihor-chardonnay,Vina Mives,Vihor Chardonnay,11190460,https://www.vivino.com/w/11190460,malo_ocenok,1,False,False
@@ -2320,28 +2406,6 @@ bononia-bermet,Vinarija Bononia,Bermet,7203208,https://www.vivino.com/w/7203208,
 bononia-chardonnay,Vinarija Bononia,Chardonnay,7506779,https://www.vivino.com/w/7506779,malo_ocenok,2,False,False
 bononia-rizling,Vinarija Bononia,Rizling,10711874,https://www.vivino.com/w/10711874,malo_ocenok,,False,False
 bora-frenk,Vinarija Bora,Frenk,12403588,https://www.vivino.com/w/12403588,malo_ocenok,30,False,True
-braca-rajkovic-33,Vinarija Braća Rajković,33,,,net_na_vivino,,False,False
-braca-rajkovic-33-bela,Vinarija Braća Rajković,33 Bela,9720246,https://www.vivino.com/w/9720246,ocenka_est,64,False,False
-braca-rajkovic-33-premium,Vinarija Braća Rajković,33 Premium,,,net_na_vivino,,False,False
-braca-rajkovic-33-red,Vinarija Braća Rajković,33 Red,1948223,https://www.vivino.com/w/1948223,ocenka_est,877,False,False
-braca-rajkovic-33-premium-wine-red,Vinarija Braća Rajković,33 premium wine red,,,net_na_vivino,,False,True
-braca-rajkovic-cabernet-rajkovic,Vinarija Braća Rajković,Cabernet Rajkovic,,,net_na_vivino,,False,True
-braca-rajkovic-dina-barrique,Vinarija Braća Rajković,Dina Barrique,8283998,https://www.vivino.com/w/8283998,malo_ocenok,1,True,False
-braca-rajkovic-opium,Vinarija Braća Rajković,Opium,8283994,https://www.vivino.com/w/8283994,malo_ocenok,,False,False
-braca-rajkovic-pinot-rose,Vinarija Braća Rajković,Pinot Rose,,,net_na_vivino,,False,False
-braca-rajkovic-prince,Vinarija Braća Rajković,Prince,,,net_na_vivino,,False,False
-braca-rajkovic-prince-rskavac,Vinarija Braća Rajković,Prince Rskavac,2315649,https://www.vivino.com/w/2315649,ocenka_est,506,False,True
-braca-rajkovic-sofia-carmenere,Vinarija Braća Rajković,Sofia Carmenere,,,net_na_vivino,,False,False
-braca-rajkovic-sofia-cuvee,Vinarija Braća Rajković,Sofia Cuvée,1844965,https://www.vivino.com/w/1844965,ocenka_est,609,False,False
-braca-rajkovic-sofia-rose,Vinarija Braća Rajković,Sofia Rosé,6631524,https://www.vivino.com/w/6631524,ocenka_est,205,False,False
-braca-rajkovic-sofia-semillon,Vinarija Braća Rajković,Sofia Semillon,,,net_na_vivino,,False,False
-braca-rajkovic-sofia-tamjanika,Vinarija Braća Rajković,Sofia Tamjanika,1448902,https://www.vivino.com/w/1448902,ocenka_est,1251,False,True
-braca-rajkovic-sofia-traminer-late-harvest,Vinarija Braća Rajković,Sofia Traminer Late Harvest,,,net_na_vivino,,False,False
-braca-rajkovic-sofia-viognier-barrique,Vinarija Braća Rajković,Sofia Viognier Barrique,,,net_na_vivino,,False,False
-braca-rajkovic-sofija-tamnjanika-noble-rot-late-harvest,Vinarija Braća Rajković,Sofija Tamnjanika Noble Rot Late Harvest,,,net_na_vivino,,False,False
-braca-rajkovic-tamjanika-kasna-berba,Vinarija Braća Rajković,Tamjanika Kasna Berba,9952066,https://www.vivino.com/w/9952066,malo_ocenok,13,False,False
-braca-rajkovic-zupanaja,Vinarija Braća Rajković,ŽupanAja,,,net_na_vivino,,False,False
-braca-rajkovic-prokup-c-roze-prokupac-rose,Vinarija Braća Rajković,ПРОКУПΛЦ РОЗЕ (Prokupac Rosé),7304807,https://www.vivino.com/w/7304807,malo_ocenok,1,False,False
 brestovacki-bermet-crveno,Vinarija Brestovački,Bermet Crveno,10390567,https://www.vivino.com/w/10390567,malo_ocenok,3,False,False
 brestovacki-chardonnay,Vinarija Brestovački,Chardonnay,13519181,https://www.vivino.com/w/13519181,malo_ocenok,,False,False
 brestovacki-dionis-sauvignon-blanc,Vinarija Brestovački,Dionis Sauvignon Blanc,2281420,https://www.vivino.com/w/2281420,malo_ocenok,3,False,False
@@ -2452,16 +2516,6 @@ dumo-mmxxi,Vinarija Dumo,MMXXI,,,net_na_vivino,,False,True
 dumo-pinot-noir,Vinarija Dumo,Pinot Noir,5845700,https://www.vivino.com/w/5845700,ocenka_est,552,False,True
 dumo-pinot-noir-blanc-de-noir,Vinarija Dumo,Pinot Noir Blanc de Noir,,,net_na_vivino,,False,True
 dumo-pinot-noir-rose,Vinarija Dumo,Pinot Noir Rosé,13870048,https://www.vivino.com/w/13870048,malo_ocenok,2,False,False
-eden-cabernet-franc,Vinarija Eden,Cabernet Franc,12465966,https://www.vivino.com/w/12465966,malo_ocenok,15,False,True
-eden-chardonnay,Vinarija Eden,Chardonnay,8615110,https://www.vivino.com/w/8615110,ocenka_est,279,False,True
-eden-genesis,Vinarija Eden,Genesis,9172474,https://www.vivino.com/w/9172474,ocenka_est,656,False,True
-eden-iii,Vinarija Eden,III,9283779,https://www.vivino.com/w/9283779,malo_ocenok,43,False,False
-eden-merlot,Vinarija Eden,Merlot,11889296,https://www.vivino.com/w/11889296,malo_ocenok,17,False,False
-eden-rose,Vinarija Eden,Rosé,8615111,https://www.vivino.com/w/8615111,malo_ocenok,6,False,False
-eden-sauvignon-blanc,Vinarija Eden,Sauvignon Blanc,8615109,https://www.vivino.com/w/8615109,ocenka_est,376,False,False
-eden-semillon,Vinarija Eden,Semillon,10601579,https://www.vivino.com/w/10601579,ocenka_est,80,False,False
-eden-velvet,Vinarija Eden,Velvet,10209010,https://www.vivino.com/w/10209010,ocenka_est,857,False,True
-eden-vivid-sauvignon-blanc,Vinarija Eden,Vivid Sauvignon Blanc,10662669,https://www.vivino.com/w/10662669,ocenka_est,237,False,False
 fleur-doranger-chardonnay,Vinarija Fleur D'Oranger,Chardonnay,11386572,https://www.vivino.com/w/11386572,malo_ocenok,28,False,False
 fleur-doranger-grof-muskat-krokan,Vinarija Fleur D'Oranger,Grof Muskat Krokan,,,net_na_vivino,,False,True
 fleur-doranger-krokan-muskat,Vinarija Fleur D'Oranger,Krokan Muskat,,,net_na_vivino,,False,True
@@ -2469,20 +2523,6 @@ fleur-doranger-grof,Vinarija Fleur D'Oranger,Гроф,9638642,https://www.vivino
 fleur-doranger-rajnski-rizling,Vinarija Fleur D'Oranger,Рајнски Ризлинг,9637712,https://www.vivino.com/w/9637712,malo_ocenok,106,False,False
 fleur-doranger-roze,Vinarija Fleur D'Oranger,Розе,10370031,https://www.vivino.com/w/10370031,malo_ocenok,5,False,False
 fleur-doranger-frankovka,Vinarija Fleur D'Oranger,Франковка,9466306,https://www.vivino.com/w/9466306,malo_ocenok,39,False,False
-fragaria-fragari-votazi,Vinarija Fragaria,Fragari Votazi,,,net_na_vivino,,False,True
-fragaria-fragolina,Vinarija Fragaria,Fragolina,10552260,https://www.vivino.com/w/10552260,malo_ocenok,16,False,False
-fragaria-jagoda,Vinarija Fragaria,Jagoda,8900207,https://www.vivino.com/w/8900207,ocenka_est,462,False,True
-fragaria-prokupac,Vinarija Fragaria,Prokupac,13950809,https://www.vivino.com/w/13950809,malo_ocenok,1,False,False
-fragaria-red,Vinarija Fragaria,Red,8820606,https://www.vivino.com/w/8820606,ocenka_est,128,False,True
-fragaria-red-votazi,Vinarija Fragaria,Red Votazi,,,net_na_vivino,,False,True
-fragaria-rose-fragolina,Vinarija Fragaria,Rose Fragolina,,,net_na_vivino,,False,True
-fragaria-sauvignon-blanc,Vinarija Fragaria,Sauvignon Blanc,8900218,https://www.vivino.com/w/8900218,ocenka_est,144,False,False
-fragaria-selekcija,Vinarija Fragaria,Selekcija,,,net_na_vivino,,False,True
-fragaria-tajna-veza,Vinarija Fragaria,Tajna Veza,12199046,https://www.vivino.com/w/12199046,malo_ocenok,34,True,False
-fragaria-tamjanika,Vinarija Fragaria,Tamjanika,8900221,https://www.vivino.com/w/8900221,ocenka_est,181,False,False
-fragaria-votazi,Vinarija Fragaria,Votaži,10227154,https://www.vivino.com/w/10227154,ocenka_est,256,False,True
-fragaria-white-jagoda,Vinarija Fragaria,WHITE Jagoda,,,net_na_vivino,,False,True
-fragaria-white-sauvignon-blanc,Vinarija Fragaria,White Sauvignon Blanc,,,net_na_vivino,,False,True
 frug-cabernet-sauvignon-signum,Vinarija Frug,Cabernet Sauvignon Signum,13961354,https://www.vivino.com/w/13961354,malo_ocenok,4,False,True
 frug-chardonnay,Vinarija Frug,Chardonnay,12998287,https://www.vivino.com/w/12998287,malo_ocenok,85,False,True
 frug-chardonnay-signum,Vinarija Frug,Chardonnay Signum,12994333,https://www.vivino.com/w/12994333,ocenka_est,316,False,True
@@ -2493,19 +2533,6 @@ frug-rose,Vinarija Frug,Rosé,13214743,https://www.vivino.com/w/13214743,malo_oc
 frug-sauvignon-blanc,Vinarija Frug,Sauvignon Blanc,12998288,https://www.vivino.com/w/12998288,ocenka_est,183,False,True
 frug-signum-cuvee,Vinarija Frug,Signum Cuvée,,,net_na_vivino,,False,True
 frug-syrah-signum,Vinarija Frug,Syrah Signum,12921850,https://www.vivino.com/w/12921850,ocenka_est,160,False,True
-frunza-aglaja-aglaja-bagrina,Vinarija Frunza Aglaja,Aglaja Bagrina,13903789,https://www.vivino.com/w/13903789,malo_ocenok,1,False,False
-frunza-aglaja-aglaja-bagrina-aglada-bagrina,Vinarija Frunza Aglaja,Aglaja Bagrina (Аглада Багрина ),13904986,https://www.vivino.com/w/13904986,malo_ocenok,,False,False
-frunza-aglaja-cabernet-sauvignon,Vinarija Frunza Aglaja,Cabernet Sauvignon,6310319,https://www.vivino.com/w/6310319,ocenka_est,146,False,True
-frunza-aglaja-dantelle-cabernet-sauvignon,Vinarija Frunza Aglaja,Dantelle Cabernet Sauvignon,,,net_na_vivino,,False,True
-frunza-aglaja-dentelle,Vinarija Frunza Aglaja,Dentelle,,,net_na_vivino,,False,True
-frunza-aglaja-sauvignon-semillon,Vinarija Frunza Aglaja,Sauvignon-Semillon,,,net_na_vivino,,False,True
-frunza-aglaja-l-j-cabernet-sauvignon,Vinarija Frunza Aglaja,ΑΓЛΑЈΑ Cabernet Sauvignon,5909950,https://www.vivino.com/w/5909950,ocenka_est,320,False,False
-frunza-aglaja-l-j-roze,Vinarija Frunza Aglaja,ΑΓЛΑЈΑ РОЗЕ,6398588,https://www.vivino.com/w/6398588,malo_ocenok,3,False,False
-frunza-aglaja-aglaja-dentelle-cabernet-sauvignon,Vinarija Frunza Aglaja,Аглаjа Dentelle Cabernet Sauvignon,6435347,https://www.vivino.com/w/6435347,ocenka_est,224,False,False
-frunza-aglaja-aglaja-chardonnay-aglaja,Vinarija Frunza Aglaja,Аглаја Chardonnay (Aglaja),9283294,https://www.vivino.com/w/9283294,ocenka_est,41,False,False
-frunza-aglaja-aglaja-sauvignon-blanc-semillon-aglaja,Vinarija Frunza Aglaja,Аглаја Sauvignon Blanc - Semillon (Aglaja),10037274,https://www.vivino.com/w/10037274,ocenka_est,199,False,False
-frunza-aglaja-prokupac-aglaja-prokupac,Vinarija Frunza Aglaja,Прокупац (Aglaja Prokupac),12152122,https://www.vivino.com/w/12152122,malo_ocenok,78,False,False
-frunza-aglaja-roze-rose,Vinarija Frunza Aglaja,Розе (Rose),13269100,https://www.vivino.com/w/13269100,malo_ocenok,15,False,False
 gamanovic-cabernet-sauvignon,Vinarija Gamanović,Cabernet Sauvignon,10621470,https://www.vivino.com/w/10621470,ocenka_est,61,False,True
 gamanovic-cabernet-sauvignon-merlot,Vinarija Gamanović,Cabernet Sauvignon - Merlot,12991189,https://www.vivino.com/w/12991189,malo_ocenok,5,False,False
 gamanovic-dry-rose,Vinarija Gamanović,Dry Rosé,11570301,https://www.vivino.com/w/11570301,malo_ocenok,18,False,False
@@ -2659,29 +2686,6 @@ kurjak-vranac,Vinarija Kurjak,Vranac,13450745,https://www.vivino.com/w/13450745,
 lalic-merlot,Vinarija Lalić,Merlot,10386509,https://www.vivino.com/w/10386509,malo_ocenok,10,False,False
 lalic-rose,Vinarija Lalić,Rosé,10386507,https://www.vivino.com/w/10386507,malo_ocenok,2,False,False
 lalic-traminac,Vinarija Lalić,Traminac,10364209,https://www.vivino.com/w/10364209,malo_ocenok,7,False,False
-lastar-brut,Vinarija Lastar,Brut,8305051,https://www.vivino.com/w/8305051,ocenka_est,147,False,False
-lastar-cabernet-franc,Vinarija Lastar,Cabernet Franc,13626783,https://www.vivino.com/w/13626783,malo_ocenok,12,False,True
-lastar-chardonnay,Vinarija Lastar,Chardonnay,4858063,https://www.vivino.com/w/4858063,ocenka_est,2361,False,True
-lastar-chardonnay-lastar,Vinarija Lastar,Chardonnay Lastar,,,net_na_vivino,,False,True
-lastar-chardonnay-lastar-triangle,Vinarija Lastar,Chardonnay Lastar Triangle,,,net_na_vivino,,False,False
-lastar-cru-6,Vinarija Lastar,Cru 6,11362910,https://www.vivino.com/w/11362910,ocenka_est,1670,False,False
-lastar-cru-6-lastar,Vinarija Lastar,Cru 6 Lastar,,,net_na_vivino,,False,True
-lastar-merlot-cabernet-franc,Vinarija Lastar,Merlot - Cabernet Franc,7747673,https://www.vivino.com/w/7747673,ocenka_est,1754,False,True
-lastar-merlot-cabernet-franc-lastar,Vinarija Lastar,Merlot Cabernet Franc Lastar,,,net_na_vivino,,False,False
-lastar-pinot-noir,Vinarija Lastar,Pinot Noir,5460893,https://www.vivino.com/w/5460893,ocenka_est,3361,False,True
-lastar-pinot-noir-lastar,Vinarija Lastar,Pinot Noir Lastar,,,net_na_vivino,,False,True
-lastar-pinot-nour-triangl,Vinarija Lastar,Pinot Nour Triangl,,,net_na_vivino,,False,False
-lastar-riesling,Vinarija Lastar,Riesling,4653515,https://www.vivino.com/w/4653515,ocenka_est,471,False,False
-lastar-riesling-lastar,Vinarija Lastar,Riesling Lastar,,,net_na_vivino,,False,True
-lastar-rose,Vinarija Lastar,Rose,6228410,https://www.vivino.com/w/6228410,ocenka_est,319,False,True
-lastar-rose-lastar,Vinarija Lastar,Rose Lastar,,,net_na_vivino,,False,True
-lastar-sofijin-izbor-pinot-noir,Vinarija Lastar,Sofijin Izbor Pinot Noir,12131953,https://www.vivino.com/w/12131953,ocenka_est,126,False,True
-lastar-sofijin-izbor,Vinarija Lastar,Sofijin izbor,,,net_na_vivino,,False,True
-lastar-tamjanika,Vinarija Lastar,Tamjanika,5544448,https://www.vivino.com/w/5544448,ocenka_est,3726,False,True
-lastar-tamjanika-lastar,Vinarija Lastar,Tamjanika Lastar,,,net_na_vivino,,False,True
-lastar-triangl-chardonnay,Vinarija Lastar,Triangl Chardonnay,5876688,https://www.vivino.com/w/5876688,ocenka_est,406,False,True
-lastar-triangl-pinot-noir,Vinarija Lastar,Triangl Pinot Noir,8138896,https://www.vivino.com/w/8138896,ocenka_est,539,False,True
-lastar-triangl-sauvignon-viognier,Vinarija Lastar,Triangl Sauvignon - Viognier,7488889,https://www.vivino.com/w/7488889,ocenka_est,656,False,True
 levac-diva-cabernet-sauvignon,Vinarija Levač,Diva Cabernet Sauvignon,9236833,https://www.vivino.com/w/9236833,malo_ocenok,13,False,False
 levac-diva-chardonnay,Vinarija Levač,Diva Chardonnay,13109149,https://www.vivino.com/w/13109149,malo_ocenok,,False,False
 levac-diva-merlot,Vinarija Levač,Diva Merlot,13109154,https://www.vivino.com/w/13109154,malo_ocenok,,False,False
@@ -3533,10 +3537,6 @@ izba-jovanovic-zetva,Изба Јовановић (Izba Jovanovic),Žetva,9110354
 козарак-risling-riesling,Козарак,Рислинг (Riesling),10133866,https://www.vivino.com/w/10133866,ocenka_est,368,False,False
 козарак-sovinon-sauvignon,Козарак,Совиньон (Sauvignon),11260320,https://www.vivino.com/w/11260320,malo_ocenok,213,False,False
 козарак-tamnjanika-temjanika,Козарак,Тамњаника (Temjanika),11755780,https://www.vivino.com/w/11755780,malo_ocenok,33,False,False
-kostic-cuvee,Костић (Kostić),Cuvée,8924009,https://www.vivino.com/w/8924009,ocenka_est,145,False,False
-kostic-prokupac,Костић (Kostić),Prokupac,,,net_na_vivino,,False,False
-kostic-prokupac-barrique,Костић (Kostić),Prokupac Barrique,7727115,https://www.vivino.com/w/7727115,ocenka_est,626,False,False
-kostic-tamjanika-oranz-orange,Костић (Kostić),Tamjanika Оранж (Orange),13857999,https://www.vivino.com/w/13857999,malo_ocenok,3,False,False
 royal-cabernet-sauvignon,Краљвеска Винарија (Royal Winery),Cabernet Sauvignon,1861824,https://www.vivino.com/w/1861824,ocenka_est,1113,False,False
 royal-chardonnay,Краљвеска Винарија (Royal Winery),Chardonnay,7210003,https://www.vivino.com/w/7210003,malo_ocenok,69,False,False
 royal-pinot-blanc,Краљвеска Винарија (Royal Winery),Pinot Blanc,10589598,https://www.vivino.com/w/10589598,ocenka_est,126,False,False

@@ -547,6 +547,24 @@ def main():
 
     celi = json.load(open(put("celi-spisok.json"), encoding="utf-8"))
 
+    # Глава книги берётся из самой книги: разбор `celi-spisok.json` знает,
+    # в каком разделе стоит каждое хозяйство. Карта `raion-hozyaistv.json`
+    # писалась раньше и вручную, и девятнадцати хозяйств книги в ней нет —
+    # у них глава оставалась пустой. Теперь карта только дополняет книгу:
+    # в ней есть записи о хозяйствах, которых книга не называет, и
+    # пояснения `gde`. Приложение «Кто на вершине» — не глава о районе,
+    # оттуда главу не берём.
+    NE_GLAVA = {"vinarije"}
+    for razdel in celi["regiony"]:
+        if razdel["kod"] in NE_GLAVA:
+            continue
+        for h in razdel["hozyaistva"]:
+            imya = h["hozyaistvo"].replace("◈", "").strip()
+            bylo = karta.setdefault(imya, {})
+            if not bylo.get("raion"):
+                bylo["raion"] = razdel["kod"]
+                bylo["istochnik"] = "kniga"
+
     # Что названо в книге: хозяйства и отдельные бутылки.
     hoz_v_knige, vina_v_knige = set(), set()
     for razdel in celi["regiony"]:

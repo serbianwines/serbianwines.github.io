@@ -346,7 +346,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Centralna Srbija | Rejon Tri Morave | 77 | 222 | 299 | 417 |
 | Vojvodina | Sremski rejon | 85 | 318 | 662 | 931 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 199 |
-| Centralna Srbija | Šumadijski rejon | 34 | 172 | 337 | 478 |
+| Centralna Srbija | Šumadijski rejon | 34 | 172 | 335 | 478 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 95 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 56 | 83 |
 | — | **рејон не установлен** | 136 | 109 | 96 | 140 |

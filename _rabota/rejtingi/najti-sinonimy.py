@@ -10,6 +10,7 @@
 
   переставлены слова   «Bukovska Bagrina» и «Bagrina Bukovska»
   опечатка в букву     «Berment» вместо «Bermet»
+  слова слиплись       «Pino As» и «Pinoas», «Sovi Noa» и «Sovinoa»
   слово из словаря     «Sovinjon» и «Sauvignon», «Crveno» и «Red»
 
 Словарь слов не задан заранее, а вычитан из уже сведённых пар: если
@@ -81,8 +82,16 @@ def svedennye():
     put_f = put("sinonimy-vin.json")
     if not os.path.exists(put_f):
         return set(), collections.Counter()
-    d = json.load(open(put_f, encoding="utf-8"))["vina"]
+    vse = json.load(open(put_f, encoding="utf-8"))
+    d = vse["vina"]
     pary, slovar = set(), collections.Counter()
+    # Пары, просмотренные и намеренно не сведённые, — чтобы не всплывали
+    # заново при каждом запуске. Ключ там записан как «Хозяйство: одно / другое».
+    for stroka in vse.get("ne_svedeno", ()):
+        _, _, imena = stroka.partition(":")
+        odno, _, drugoe = imena.partition("/")
+        if odno.strip() and drugoe.strip():
+            pary.add(frozenset((tuple(slova(odno)), tuple(slova(drugoe)))))
     for hozyaistvo, vina in d.items():
         for glavnoe, z in vina.items():
             for variant in z["varianty"]:
@@ -123,6 +132,11 @@ def razryad(a, b, slovar):
     """
     if sorted(a) == sorted(b) and a != b:
         return "переставлены слова", False
+    # Те же буквы, иначе поделённые на слова. Разряд отдельный: разница
+    # тут не в буквах, а в пробеле, и прежний поиск её не видел вовсе —
+    # «Pino As» и «Pinoas» у Радовановића стояли двумя винами.
+    if "".join(a) == "".join(b):
+        return "слова слиплись", False
     if celoe_slovo_lishnee(a, b):
         return "", False
     if len(a) == len(b):

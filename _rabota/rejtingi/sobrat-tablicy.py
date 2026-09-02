@@ -448,8 +448,23 @@ def klyuch_vina(hozyaistvo, vino, snimat_povtor=True):
             # Cabernet Sauvignon» у Фрунзе. Показываемое имя их снимало
             # (imya_vina сводит синонимы), а ключ — нет, и одно вино
             # расходилось на две строки с одинаковым именем.
-            if snimaetsya("-".join(nachalo), hoz):
+            if (snimaetsya("-".join(nachalo), hoz)
+                    and [c for c in chasti[skolko:] if c not in SLUZHEBNYE]):
                 chasti = chasti[skolko:]
+                break
+        # То же с конца: источники пишут имя дома и после имени вина —
+        # «Chardonnay Kovacevic», «Tamjanika Budimir», «Rosé Radovanovic»,
+        # «Sauvignon Blanc Ilić-Nijemčević». Снималось только начало,
+        # и такое вино стояло отдельной строкой от своего же короткого
+        # имени. Двадцать девять вин сошлись обратно.
+        for skolko in range(len(chasti) - 1, 0, -1):
+            konec = [c for c in chasti[-skolko:] if c not in SLUZHEBNYE]
+            # Снимать всё, кроме служебного слова, нельзя: у «Podrum Stari
+            # hrast» именем вина служит имя дома, и от него осталось бы
+            # одно «Podrum».
+            if (snimaetsya("-".join(konec), hoz)
+                    and [c for c in chasti[:-skolko] if c not in SLUZHEBNYE]):
+                chasti = chasti[:-skolko]
                 break
     # Свод написаний — последним: в списке они записаны без имени
     # хозяйства впереди, и до его снятия поиск не находил ничего.
@@ -475,8 +490,17 @@ def imya_vina(hozyaistvo, vino, snimat_povtor=True):
     if snimat_povtor:
         slova = vino.split()
         for skolko in range(len(slova) - 1, 0, -1):
-            if snimaetsya(" ".join(slova[:skolko]), hoz):
+            if (snimaetsya(" ".join(slova[:skolko]), hoz)
+                    and [c for c in slova[skolko:]
+                         if klyuch(c) not in SLUZHEBNYE]):
                 vino = " ".join(slova[skolko:])
+                break
+        slova = vino.split()
+        for skolko in range(len(slova) - 1, 0, -1):
+            if (snimaetsya(" ".join(slova[-skolko:]), hoz)
+                    and [c for c in slova[:-skolko]
+                         if klyuch(c) not in SLUZHEBNYE]):
+                vino = " ".join(slova[:-skolko])
                 break
     return SINONIMY_VIN.get((hoz, klyuch(latinicej(vino)).replace("-", " ")),
                             vino)

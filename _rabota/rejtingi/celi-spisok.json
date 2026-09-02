@@ -1,5 +1,5 @@
 {
-  "istochnik": "index.html",
+  "istochnik": "../../index.html",
   "regiony": [
     {
       "kod": "fruska",
@@ -130,7 +130,6 @@
         "Cuvée No.1",
         "1880",
         "Crazy Lud",
-        "Gaggan",
         "Karom"
       ]
     },
@@ -421,7 +420,6 @@
         }
       ],
       "vina_v_tekste": [
-        "Aureus Mons",
         "Belina"
       ]
     },
@@ -439,8 +437,7 @@
         "Parus",
         "Merula",
         "Oriolus",
-        "Upupa",
-        "UN1244"
+        "Upupa"
       ]
     },
     {

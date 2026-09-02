@@ -224,6 +224,20 @@ def _marki():
     return {_bazovyj_klyuch(m) for z in d.values() for m in z.get("marki", ())}
 
 
+def _vne_serbii():
+    """Хозяйства, чей виноградник за пределами Сербии.
+
+    Источники пишут страну по производителю, а не по винограднику: AWC
+    отнёс к Сербии AURUS, который разливает в Београду виноград из Тиквеша.
+    Для справочника о терруаре это чужое вино, и знать о нём надо.
+    """
+    put_f = os.path.join(RYADOM, "sinonimy-hozyaistv.json")
+    if not os.path.exists(put_f):
+        return set()
+    d = json.load(open(put_f, encoding="utf-8")).get("vinograd_vne_serbii", {})
+    return {_bazovyj_klyuch(k) for k in d if k != "chto_eto"}
+
+
 def _varianty_po_istochniku():
     """Варианты, которые действуют только у названного источника.
 
@@ -383,6 +397,8 @@ MARKI = set()
 MARKI_V_IMENI = {}
 # Варианты, действующие только у одного источника, — см. _varianty_po_istochniku().
 PO_ISTOCHNIKU = {}
+# Хозяйства с виноградником за пределами Сербии — см. _vne_serbii().
+VNE_SERBII = set()
 # Написания одного вина, сведённые руками, — см. _sinonimy_vin().
 SINONIMY_VIN = {}
 
@@ -864,6 +880,9 @@ def main():
             "raion_knigi": svedeniya.get("raion"),
             "raion_istochnik": svedeniya.get("istochnik", "ne_ustanovlen"),
             "gde": svedeniya.get("gde", "") or mesto.get("gde", ""),
+            # Виноградник в Сербии? У пары хозяйств он за границей, а страну
+            # источники пишут по производителю — см. `vinograd_vne_serbii`.
+            "vinograd_v_serbii": klyuch_hozyaistva(imya) not in VNE_SERBII,
             "v_knige": v_knige_hoz(imya),
             "vivino_slug": slug,
             "falstaff_zvezd": zvezdy.get(klyuch_hozyaistva(imya), {}).get("zvezd"),
@@ -1039,6 +1058,7 @@ SINONIMY.update(_sinonimy())
 MARKI.update(_marki())
 MARKI_V_IMENI.update(_marki_v_imeni())
 PO_ISTOCHNIKU.update(_varianty_po_istochniku())
+VNE_SERBII.update(_vne_serbii())
 SINONIMY_VIN.update(_sinonimy_vin())
 KANON_IMYA.update(
     json.load(open(os.path.join(RYADOM, "sinonimy-hozyaistv.json"),

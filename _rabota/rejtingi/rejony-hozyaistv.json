@@ -4252,13 +4252,13 @@
   },
   "nikad-nije-kasno": {
    "hozyaistvo": "Nikad Nije Kasno",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "gorod": "Александровац",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Belgrade",
+   "gde": "Александровац, Жупа",
    "pokazaniya": [
     "decanter: Centralna Srbija",
     "vivino-adres: Belgrade",
@@ -4787,17 +4787,6 @@
     "vivino: Central Serbia",
     "wine-trophy: Belgrade Viticultural Region"
    ]
-  },
-  "poljoprivredno-anja-dzipkovic": {
-   "hozyaistvo": "Poljoprivredno Gazdinstvo Anja Džipković",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
   },
   "porodica-cosic": {
    "hozyaistvo": "porodica-cosic",

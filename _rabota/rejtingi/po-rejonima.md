@@ -343,13 +343,13 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Vojvodina | Potiski rejon | 2 | 19 | 9 | 15 |
 | Centralna Srbija | Rejon Negotinska Krajina | 22 | 56 | 119 | 154 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
-| Centralna Srbija | Rejon Tri Morave | 78 | 227 | 339 | 468 |
+| Centralna Srbija | Rejon Tri Morave | 79 | 230 | 345 | 478 |
 | Vojvodina | Sremski rejon | 89 | 342 | 679 | 965 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 199 |
 | Centralna Srbija | Šumadijski rejon | 33 | 167 | 291 | 423 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 95 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 56 | 83 |
-| — | **рејон не установлен** | 131 | 79 | 79 | 106 |
+| — | **рејон не установлен** | 129 | 76 | 73 | 96 |
 
 **Рејоны, из которых не собралось ни одного хозяйства:** Severnometohijski rejon.
 
@@ -460,7 +460,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Tri Morave | Temnićko vinogorje | 1 |
 | Rejon Tri Morave | Trsteničko vinogorje | 5 |
 | Rejon Tri Morave | Kruševačko vinogorje | 5 |
-| Rejon Tri Morave | Župsko vinogorje | 37 |
+| Rejon Tri Morave | Župsko vinogorje | 38 |
 | Rejon Tri Morave | Ražanjsko vinogorje | — |
 | Rejon Tri Morave | *виногорје не установлено* | 12 |
 | Sremski rejon | Fruškogorsko vinogorje | 89 |
@@ -684,6 +684,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Milan Nikolić | Jagodinsko vinogorje | — | decanter | — |
 | Milanov Podrum | Župsko vinogorje | Aleksandrovac | mesto | — |
 | Milić | Župsko vinogorje | Aleksandrovac | vivino-adres | — |
+| Nikad Nije Kasno | Župsko vinogorje | Александровац | mesto | — |
 | Podrum Dremina | Paraćinsko vinogorje | Drenovac | mesto | — |
 | Podrum Pevac | Jagodinsko vinogorje | Kragujevac | konkurs | — |
 | Podrum Tošići | Župsko vinogorje | Aleksandrovac | mesto | — |

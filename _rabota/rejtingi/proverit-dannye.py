@@ -183,6 +183,16 @@ def main():
     bez_rejona = [h for h in hozyaistva if not h.get("rejon")]
     bez_vyborki = [o for o in ocenki if o["istochnik"] == "vivino" and not o["vyborka"]]
     print("не поломка, но знать стоит:")
+    chuzhie = [h for h in hozyaistva if not h.get("vinograd_v_serbii", True)]
+    if chuzhie:
+        k_chuzhim = {h["hozyaistvo"] for h in chuzhie}
+        ih_vina = [v for v in vina if v["hozyaistvo"] in k_chuzhim]
+        prohodyat = {o["klyuch_vina"] for o in ocenki
+                     if o["shkala"] == 100 and o["ball"] >= 90}
+        print("   виноградник за пределами Сербии: %s — %d вин, из них "
+              "с баллом 90 и выше %d"
+              % (", ".join(sorted(k_chuzhim)), len(ih_vina),
+                 sum(1 for v in ih_vina if v["klyuch"] in prohodyat)))
     primery = ", ".join(h["hozyaistvo"] for h in bez_raiona[:8])
     print("   хозяйств без района книги: %d из %d%s"
           % (len(bez_raiona), len(hozyaistva),

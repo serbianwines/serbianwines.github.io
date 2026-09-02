@@ -1446,10 +1446,10 @@ nelt-doba-chardonnay,Nelt,Dôba Chardonnay,7600095,https://www.vivino.com/w/7600
 nelt-doba-morava,Nelt,Dôba Morava,9621540,https://www.vivino.com/w/9621540,malo_ocenok,20,False,False,,,
 nera-lesa-sila-grasac-malvazija,Nera,Lesa Sila - Grašac - Malvazija,13273317,https://www.vivino.com/w/13273317,malo_ocenok,18,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 nera-panorama,Nera,Panorama,13379246,https://www.vivino.com/w/13379246,malo_ocenok,16,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
-nikad-nije-kasno-blanc-de-noir,Nikad Nije Kasno,Blanc de Noir,12994502,https://www.vivino.com/w/12994502,malo_ocenok,3,False,False,,,
-nikad-nije-kasno-melodija,Nikad Nije Kasno,Melodija,8405000,https://www.vivino.com/w/8405000,ocenka_est,495,False,True,,,
-nikad-nije-kasno-signature,Nikad Nije Kasno,Signature,7101152,https://www.vivino.com/w/7101152,ocenka_est,1433,False,True,,,
-nikad-nije-kasno-simfonija,Nikad Nije Kasno,Simfonija,8395050,https://www.vivino.com/w/8395050,ocenka_est,856,False,True,,,
+nikad-nije-kasno-blanc-de-noir,Nikad Nije Kasno,Blanc de Noir,12994502,https://www.vivino.com/w/12994502,malo_ocenok,3,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
+nikad-nije-kasno-melodija,Nikad Nije Kasno,Melodija,8405000,https://www.vivino.com/w/8405000,ocenka_est,495,False,True,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
+nikad-nije-kasno-signature,Nikad Nije Kasno,Signature,7101152,https://www.vivino.com/w/7101152,ocenka_est,1433,False,True,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
+nikad-nije-kasno-simfonija,Nikad Nije Kasno,Simfonija,8395050,https://www.vivino.com/w/8395050,ocenka_est,856,False,True,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 nikodijevic-barrique-merlot,Nikodijević,Barrique Merlot,10047589,https://www.vivino.com/w/10047589,malo_ocenok,2,False,False,,,
 nikodijevic-pinot-grigio,Nikodijević,Pinot Grigio,9325686,https://www.vivino.com/w/9325686,malo_ocenok,21,False,False,,,
 nikodijevic-pinot-nero,Nikodijević,Pinot Nero,10037250,https://www.vivino.com/w/10037250,malo_ocenok,81,False,False,,,
@@ -1499,8 +1499,11 @@ pik-oplenac-villa-rose,PIK OPLENAC,Villa Rosé,6640151,https://www.vivino.com/w/
 pik-oplenac-villa-sauvignon-blanc,PIK OPLENAC,Villa Sauvignon Blanc,4362374,https://www.vivino.com/w/4362374,ocenka_est,99,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
 pik-oplenac-villa-traminac,PIK OPLENAC,Villa Traminac,6264474,https://www.vivino.com/w/6264474,malo_ocenok,98,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
 anjino-anjino-vino,PR Anjino Vino,Anjino Vino,,,net_na_vivino,,False,True,,,
+anjino-siesta,PR Anjino Vino,Siesta,,,net_na_vivino,,False,True,,,
 anjino-siesta-merlot-rose,PR Anjino Vino,Siesta Merlot Rosé,13984395,https://www.vivino.com/w/13984395,malo_ocenok,1,False,False,,,
+anjino-suton,PR Anjino Vino,Suton,,,net_na_vivino,,False,True,,,
 anjino-suton-merlot,PR Anjino Vino,Suton Merlot,,,net_na_vivino,,False,True,,,
+anjino-zora,PR Anjino Vino,Zora,,,net_na_vivino,,False,True,,,
 anjino-zora-chardonnay,PR Anjino Vino,Zora Chardonnay,13984403,https://www.vivino.com/w/13984403,malo_ocenok,1,False,False,,,
 pannonian-riesling,Pannonian,Riesling,2227042,https://www.vivino.com/w/2227042,malo_ocenok,4,False,False,,,
 pannonian-semi-sweet-red,Pannonian,Semi Sweet Red,1195354,https://www.vivino.com/w/1195354,malo_ocenok,28,False,False,,,
@@ -1716,9 +1719,6 @@ sukac-italijanski-rizling,Podrum Šukac,Italijanski Rizling,13380744,https://www
 sukac-merlot,Podrum Šukac,Merlot,8812439,https://www.vivino.com/w/8812439,ocenka_est,98,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 sukac-rose,Podrum Šukac,Rosé,11270822,https://www.vivino.com/w/11270822,malo_ocenok,8,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 sukac-sauvignon-blanc,Podrum Šukac,Sauvignon Blanc,9354895,https://www.vivino.com/w/9354895,malo_ocenok,22,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
-poljoprivredno-anja-dzipkovic-siesta,Poljoprivredno Gazdinstvo Anja Džipković,Siesta,,,net_na_vivino,,False,True,,,
-poljoprivredno-anja-dzipkovic-suton,Poljoprivredno Gazdinstvo Anja Džipković,Suton,,,net_na_vivino,,False,True,,,
-poljoprivredno-anja-dzipkovic-zora,Poljoprivredno Gazdinstvo Anja Džipković,Zora,,,net_na_vivino,,False,True,,,
 porodicna-stanimirovic-bermet-desertno,Porodična Vinarija Stanimirović,Bermet Desertno,7617320,https://www.vivino.com/w/7617320,malo_ocenok,23,False,False,Južnobanatski rejon,,hozyaistvo
 porodicna-stanimirovic-cabernet-sauvignon-barrique,Porodična Vinarija Stanimirović,Cabernet Sauvignon Barrique,13418010,https://www.vivino.com/w/13418010,malo_ocenok,,False,False,Južnobanatski rejon,,hozyaistvo
 porodicna-stanimirovic-merlot-barrique,Porodična Vinarija Stanimirović,Merlot Barrique,9735778,https://www.vivino.com/w/9735778,malo_ocenok,54,False,False,Južnobanatski rejon,,hozyaistvo

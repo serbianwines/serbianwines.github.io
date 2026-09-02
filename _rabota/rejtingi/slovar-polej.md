@@ -28,6 +28,7 @@
 | `raion_knigi` | код главы книги: `fruska`, `subotica`, `banat`, `sumadija`, `morave`, `negotin`, `toplica`, `jugoistok`, `podunavlje`, `metohija`. `null` — район не установлен |
 | `raion_istochnik` | откуда район: `kniga` — так решила книга; `raspolozhenie` — по расположению винодельни; `ne_ustanovlen` |
 | `gde` | пояснение к расположению, если оно спорное |
+| `vinograd_v_serbii` | лежит ли виноградник в Сербии. `false` — у хозяйства он за границей, а страну источники пишут по производителю; список и доказательства в `sinonimy-hozyaistv.json`, раздел `vinograd_vne_serbii` |
 | `v_knige` | названо ли хозяйство в книге. Сверка точная, по сведённому ключу: имена книги стоят в `sinonimy-hozyaistv.json` |
 | `vivino_slug` | адрес страницы хозяйства на Vivino |
 | `falstaff_zvezd` | звёзды Falstaff, 1–5. `null` — в собранном куске списка не встретилось |

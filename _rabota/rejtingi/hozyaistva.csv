@@ -60,7 +60,6 @@ Doja,doja,Centralna Srbija,Toplički rejon,Prokupačko vinogorje,Blace,mesto,,to
 Dolina,dolina,Centralna Srbija,,,,ne_ustanovlen,рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon,,ne_ustanovlen,Borås,False,,,8
 Draganić,draganic,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Lipovac,mesto,,sumadija,raspolozhenie,"Шумадия, по годовому тесту vino.rs",False,,,9
 Dragojlović Vinarija,dragojlovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,vivino,,fruska,kniga,,True,,,2
-Drašković,draskovic,Vojvodina,Južnobanatski rejon,Vršačko vinogorje,Вршац,mesto,,banat,kniga,"Вршац. Внимание: vino.rs пишет, что Vršački vinogradi сменили владельца и переименованы в Vinarija Drašković. В книге это два разных хозяйства в одной главе — стоит проверить.",True,,,12
 Dukay,dukay,Vojvodina,,,Kanjiža,ne_ustanovlen,рејон один из: Potiski rejon; Subotički rejon,,ne_ustanovlen,"Kanjiža, Severno-banatski okrug",False,,,3
 Dukay-Sagmeister,dukay-sagmeister,Vojvodina,,,,ne_ustanovlen,,fruska,kniga,,True,,,23
 Dulka,dulka,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,"Sremski Karlovci, Južno-bački okrug",False,,,7
@@ -286,6 +285,7 @@ Vinarija Dajic,dajic,Centralna Srbija,Rejon Negotinska Krajina,Mihajlovačko vin
 Vinarija DeLena,delena,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Topola,mesto,,,ne_ustanovlen,"Topola, Šumadijski okrug",False,,,7
 Vinarija Djurdjic,durdic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,fruska,kniga,"Sremski Karlovci, Južno-bački okrug",True,,,10
 Vinarija Dosen,dosen,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,Sremski Karlovci,False,,,3
+Vinarija Drašković,draskovic,Vojvodina,Južnobanatski rejon,Vršačko vinogorje,Вршац,mesto,,banat,kniga,"Вршац. Внимание: vino.rs пишет, что Vršački vinogradi сменили владельца и переименованы в Vinarija Drašković. В книге это два разных хозяйства в одной главе — стоит проверить.",True,,,12
 Vinarija Dumo,dumo,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Rakovac,mesto,,,ne_ustanovlen,"Rakovac, Beočin, Južno-bački okrug",False,,,3
 Vinarija Fleur D'Oranger,fleur-doranger,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Novi Sad,mesto,,,ne_ustanovlen,"Novi Sad, Južnobački okrug",False,,,5
 Vinarija Frug,frug,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,"Sremski Karlovci, Južnobački okrug",False,,,9

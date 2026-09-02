@@ -537,12 +537,12 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Хозяйство | Виногорје | Город | Откуда рејон | В книге |
 |---|---|---|---|---|
 | Bahus | Vršačko vinogorje | Gudurica | mesto | — |
-| Drašković | Vršačko vinogorje | Вршац | mesto | Банат |
 | Galot | Vinogorje Deliblatske peščare | Banatski Karlovac | mesto | Банат |
 | Porodična Vinarija Stanimirović | — | — | mesto | — |
 | Rnjak | Vršačko vinogorje | Gudurica | mesto | Банат |
 | Soul Wine | Vršačko vinogorje | Vršac | mesto | — |
 | Vinarija Aleksandar | — | — | vinarijesrbije | — |
+| Vinarija Drašković | Vršačko vinogorje | Вршац | mesto | Банат |
 | Vinarija Lalić | — | — | mesto | — |
 | Vinarija Nedin | Vršačko vinogorje | Gudurica | mesto | — |
 | Vinarija Selecta | Vršačko vinogorje | Gudurica | mesto | — |

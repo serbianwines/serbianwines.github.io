@@ -26,6 +26,7 @@
     python3 _rabota/rejtingi/sobrat-tablicy.py
 """
 
+import collections
 import csv
 import json
 import os
@@ -604,12 +605,44 @@ def main():
                      kod in NE_GLAVA))
 
     def podryad(chto, gde):
-        """Стоят ли слова `chto` подряд среди слов `gde`."""
+        """Стоят ли слова `chto` подряд среди слов `gde`.
+
+        Кроме прямого порядка признаются два расхождения — те же, что
+        признаёт свод написаний вин: те же слова в другом порядке
+        («Bukovski Cuvee» и «Cuvée Bukovski» у Маталја) и слова, слипшиеся
+        в одно («Crazy Lud» и «CrazyLud» у Маурера, «Ra Ra» и «RaRa»
+        у Ралевића). Перестановка засчитывается только для имён из двух
+        слов и длиннее: одиночное слово ею ничего не различает.
+        """
         n = len(chto)
-        return any(tuple(gde[i:i + n]) == chto for i in range(len(gde) - n + 1))
+        if any(tuple(gde[i:i + n]) == chto for i in range(len(gde) - n + 1)):
+            return True
+        # Перестановка: те же слова, и лишним может быть разве что одно.
+        # Без счёта повторов «Ra Ra» свелось бы к одному «ra» и поймало
+        # «Rose Ra»; без счёта лишних слов «Chardonnay Extra Brut» поймало
+        # бы «Extra Brut Chardonnay Pét Nat» — другое вино.
+        if n > 1 and len(gde) - n <= 1:
+            ostatok = collections.Counter(chto) - collections.Counter(gde)
+            if not ostatok:
+                return True
+        slitno, gde_slitno = "".join(chto), "".join(gde)
+        return len(slitno) >= 6 and slitno in gde_slitno
 
     def v_knige_hoz(imya):
         return klyuch_hozyaistva(imya) in hoz_v_knige
+
+    def bez_hozyaistva(chto, hozyaistvo):
+        """Снять с начала книжного имени имя хозяйства.
+
+        Книга пишет «La Gora Bello», а в каталоге вино зовётся просто
+        «Bello»: дом назван при вине, а не отдельно.
+        """
+        hoz = klyuch_hozyaistva(hozyaistvo)
+        for skolko in range(len(chto) - 1, 0, -1):
+            if klyuch_hozyaistva("-".join(chto[:skolko])) == hoz:
+                return chto[skolko:]
+        return chto
+
 
     def nazvano_v_knige(vina):
         """Пометить вина, названные в книге. Вторым проходом, по готовому
@@ -621,11 +654,23 @@ def main():
         for v in vina:
             v["v_knige"] = False
         for chto, svoi, iz_prilozheniya in vina_v_knige:
-            podoshli = [v for v in vina
-                        if klyuch_hozyaistva(v["hozyaistvo"]) in svoi
-                        and podryad(chto, slova[v["klyuch"]])]
-            if iz_prilozheniya and len({v["hozyaistvo"] for v in podoshli}) > 1:
+            # Сперва по всей стране: если имя указывает ровно на один дом,
+            # раздел не нужен и не мешает. Книга называет вино и в тексте
+            # чужого раздела — «No.1» Звонка Богдана помянут на Фрушкој
+            # гори, «NoNo» Ивановића — среди жупских вин.
+            vezde = [v for v in vina
+                     if podryad(bez_hozyaistva(chto, v["hozyaistvo"]),
+                                slova[v["klyuch"]])]
+            doma = {v["hozyaistvo"] for v in vezde}
+            if len(doma) == 1:
+                podoshli = vezde
+            elif iz_prilozheniya:
+                # Приложение перечисляет вина со всей страны, не называя
+                # домов: если дом не один, опознать вино нечем.
                 continue
+            else:
+                podoshli = [v for v in vezde
+                            if klyuch_hozyaistva(v["hozyaistvo"]) in svoi]
             for v in podoshli:
                 v["v_knige"] = True
 
@@ -642,21 +687,24 @@ def main():
         varianty.setdefault(k, set()).add(z["hozyaistvo"])
     imena = []
     for k, nabor in varianty.items():
-        knizhnye = [i for i in nabor if klyuch_hozyaistva(i) in imena_knigi
-                    and i in karta]
-        # Ровно равные по длине варианты («Todorović» и «Todorovic»)
-        # иначе выбирались как попало — от запуска к запуску имя в
-        # таблицах менялось. Порядок задан явно: длиннее, с диакритикой,
-        # затем по алфавиту.
+        # Порядок задан явно во всех трёх случаях: длиннее, с диакритикой,
+        # затем по алфавиту. Иначе имя бралось первым из списка, собранного
+        # обходом множества, — а это разный порядок от запуска к запуску,
+        # и хозяйство звалось то «Matijašević», то «Matijašević Vinogradi».
+        # Прежде явный порядок стоял только у последнего случая.
+        po_poryadku = lambda nabor_imen: sorted(
+            nabor_imen, key=lambda i: (-len(i),
+                                       -sum(z > "\x7f" for z in i), i))
+        knizhnye = po_poryadku(i for i in nabor
+                               if klyuch_hozyaistva(i) in imena_knigi
+                               and i in karta)
         # Имя, названное в `sinonimy-hozyaistv.json`, старше длины: там
         # оно выбрано с доказательством. Иначе побеждала бы опечатка —
         # «Vista Hills Plus» длиннее, чем «Vista Hill».
-        svedennoe = [i for i in nabor if i in KANON_IMYA]
+        svedennoe = po_poryadku(i for i in nabor if i in KANON_IMYA)
         imena.append(knizhnye[0] if knizhnye else
                      svedennoe[0] if svedennoe else
-                     sorted(nabor, key=lambda i: (-len(i),
-                                                  -sum(z > "\x7f" for z in i),
-                                                  i))[0])
+                     po_poryadku(nabor)[0])
     # Канонические имена выбраны; теперь всюду пишем именно их, иначе
     # в таблице вин хозяйство будет зваться иначе, чем в таблице хозяйств.
     kanon = {}

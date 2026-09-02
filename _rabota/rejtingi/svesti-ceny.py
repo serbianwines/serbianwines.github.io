@@ -31,7 +31,10 @@ def tablicy():
 # другое к вину не относится: «AKCIJA 2+1 Malča Anonymus» — та же
 # «Anonymus», а «Grand Trianon 1,5L» — тот же «Grand Trianon».
 AKCIYA = re.compile(r"^\s*AKCIJA\b[^A-Za-zČĆŠĐŽčćšđž]*", re.I)
-OBEM = re.compile(r"\b(\d(?:[.,]\d)?)\s*L\b", re.I)
+# Дробная часть бывает любой длины: 1,5 л, 0,5 л, 0,375 л. Первая
+# редакция читала только один знак после запятой и полубутылку Маканы
+# («Makana 0.375L», 2970 динаров) приняла за обычную.
+OBEM = re.compile(r"\b(\d(?:[.,]\d+)?)\s*L\b", re.I)
 
 
 def chistoe_imya(imya):

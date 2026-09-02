@@ -255,6 +255,22 @@ def po_strane(d, pech):
     for v in spisok(d, dostupnye, lambda k: kachestvo(d, k), lambda k: True, skolko=10):
         pech(stroka_vina(d, v, cena=True))
 
+    # Доступное вино редко ездит на конкурс, и ряд выше молчит как раз
+    # о самых ходовых бутылках: у «Sfera» Бикицког 308 отзывов и ни
+    # одного балла. Поэтому у покупателей здесь свой ряд, а не примечание.
+    narodnye_deshevye = [v for v in d["vina"]
+                         if v["klyuch"] in d["cena"]
+                         and d["cena"][v["klyuch"]] <= potolok
+                         and est_vivino(d, v["klyuch"])]
+    pech("\n## За свои деньги, по мнению покупателей\n")
+    pech("Тот же потолок, но ряд строит выборка Vivino. Ряд нужен отдельно: "
+         "дешёвое вино на конкурс возят редко, и предыдущая таблица молчит "
+         "как раз о самых ходовых бутылках.\n")
+    pech(shapka(cena=True))
+    for v in spisok(d, narodnye_deshevye, lambda k: d["vivino"][k]["ball"],
+                    lambda k: True, skolko=10):
+        pech(stroka_vina(d, v, cena=True))
+
 
 def main():
     razbor = argparse.ArgumentParser()

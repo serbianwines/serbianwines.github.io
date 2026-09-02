@@ -32,7 +32,7 @@ Bikicki,bikicki,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,
 Bjelica,bjelica,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,Фрушка гора,False,,,7
 Boemi,boemi,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,5
 Bogdanovic,bogdanovic,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,3
-Bojan Basa,bojan-basa,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,Срем,False,,3,4
+Bojan Basa,bojan-basa,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Сремски Карловци,mesto,,fruska,raspolozhenie,"Матеј, Сремски Карловци",False,,3,4
 Botunjac,botunjac,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,,ne_ustanovlen,"Aleksandrovac, Rasinski okrug",False,,,8
 Braća Rajković,braca-rajkovic,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,morave,kniga,"Gornje Zleginje, Aleksandrovac, Rasinski okrug",True,,,10
 Breg,breg,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Janda,mesto,,,ne_ustanovlen,Janda,False,,,3
@@ -60,7 +60,7 @@ Doja,doja,Centralna Srbija,Toplički rejon,Prokupačko vinogorje,Blace,mesto,,to
 Dolina,dolina,Centralna Srbija,,,,ne_ustanovlen,рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon,,ne_ustanovlen,Borås,False,,,8
 Draganić,draganic,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Lipovac,mesto,,sumadija,raspolozhenie,"Шумадия, по годовому тесту vino.rs",False,,,9
 Dragojlović Vinarija,dragojlovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,vivino,,fruska,kniga,,True,,,2
-Dukay,dukay,Vojvodina,,,Kanjiža,ne_ustanovlen,рејон один из: Potiski rejon; Subotički rejon,,ne_ustanovlen,"Kanjiža, Severno-banatski okrug",False,,,3
+Dukay,dukay,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Ириг,mesto,,fruska,raspolozhenie,"Ириг, Фрушка гора",False,,,3
 Dukay-Sagmeister,dukay-sagmeister,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Ириг,mesto,,fruska,kniga,"Ириг, Фрушка гора",True,,,23
 Dulka,dulka,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,"Sremski Karlovci, Južno-bački okrug",False,,,7
 Dzervin,dzervin,Centralna Srbija,Knjaževački rejon,Potrkanjsko vinogorje,Knjaževac,mesto,,jugoistok,kniga,"Knjaževac, Zaječarski okrug",True,,,11

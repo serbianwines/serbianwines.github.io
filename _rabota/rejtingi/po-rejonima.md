@@ -344,12 +344,12 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Centralna Srbija | Rejon Negotinska Krajina | 22 | 56 | 119 | 154 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
 | Centralna Srbija | Rejon Tri Morave | 78 | 227 | 339 | 468 |
-| Vojvodina | Sremski rejon | 87 | 338 | 662 | 934 |
+| Vojvodina | Sremski rejon | 88 | 338 | 662 | 934 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 199 |
 | Centralna Srbija | Šumadijski rejon | 33 | 167 | 291 | 423 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 95 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 56 | 83 |
-| — | **рејон не установлен** | 133 | 83 | 96 | 137 |
+| — | **рејон не установлен** | 132 | 83 | 96 | 137 |
 
 **Рејоны, из которых не собралось ни одного хозяйства:** Severnometohijski rejon.
 
@@ -360,7 +360,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 
 | Глава книги | Рејоны её хозяйств |
 |---|---|
-| Фрушка гора | Sremski rejon — 26 |
+| Фрушка гора | Sremski rejon — 27 |
 | Суботичко-Хоргошская пешчара | Subotički rejon — 4 |
 | Банат | Južnobanatski rejon — 4; Potiski rejon — 1 |
 | Шумадия | Šumadijski rejon — 9; Rejon Tri Morave — 1 |
@@ -463,7 +463,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Tri Morave | Župsko vinogorje | 37 |
 | Rejon Tri Morave | Ražanjsko vinogorje | — |
 | Rejon Tri Morave | *виногорје не установлено* | 12 |
-| Sremski rejon | Fruškogorsko vinogorje | 87 |
+| Sremski rejon | Fruškogorsko vinogorje | 88 |
 | Subotički rejon | Riđičko vinogorje | 5 |
 | Subotički rejon | Palićko vinogorje | 6 |
 | Subotički rejon | Horgoško vinogorje | 1 |
@@ -762,12 +762,13 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Benišek Veselinović | Fruškogorsko vinogorje | Sremski Karlovci | mesto | — |
 | Bikicki | Fruškogorsko vinogorje | Banoštor | mesto | Фрушка гора |
 | Bjelica | Fruškogorsko vinogorje | — | mesto | Фрушка гора |
-| Bojan Basa | Fruškogorsko vinogorje | — | mesto | Фрушка гора |
+| Bojan Basa | Fruškogorsko vinogorje | Сремски Карловци | mesto | Фрушка гора |
 | Breg | Fruškogorsko vinogorje | Janda | mesto | — |
 | Chichateau | Fruškogorsko vinogorje | Лежимир | mesto | Фрушка гора |
 | Deurić | Fruškogorsko vinogorje | Mala Remeta | mesto | Фрушка гора |
 | Do Kraja Sveta | Fruškogorsko vinogorje | — | vivino | — |
 | Dragojlović Vinarija | Fruškogorsko vinogorje | — | vivino | Фрушка гора |
+| Dukay | Fruškogorsko vinogorje | Ириг | mesto | Фрушка гора |
 | Dukay-Sagmeister | Fruškogorsko vinogorje | Ириг | mesto | Фрушка гора |
 | Dulka | Fruškogorsko vinogorje | Sremski Karlovci | mesto | — |
 | Erdevik | Fruškogorsko vinogorje | Erdevik | mesto | Фрушка гора |

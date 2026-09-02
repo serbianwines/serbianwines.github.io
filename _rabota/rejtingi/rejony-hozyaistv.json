@@ -1016,10 +1016,10 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "gorod": "",
+   "gorod": "Сремски Карловци",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Срем",
+   "gde": "Матеј, Сремски Карловци",
    "pokazaniya": [
     "vivino: Wine of Serbia"
    ]
@@ -1877,12 +1877,12 @@
   "dukay": {
    "hozyaistvo": "Dukay",
    "region": "Vojvodina",
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "Kanjiža",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "рејон один из: Potiski rejon; Subotički rejon",
-   "gde": "Kanjiža, Severno-banatski okrug",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "Ириг",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Ириг, Фрушка гора",
    "pokazaniya": [
     "ivv: Kanjiža, Severno-banatski okrug",
     "registar: Kanjiža, Severnobanatski okrug",

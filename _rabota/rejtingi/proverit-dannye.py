@@ -163,6 +163,19 @@ def main():
                   if h.get("rejon") and h.get("region")
                   and region_rejona.get(h["rejon"]) != h["region"]],
                  lambda h: "%s → %s / %s" % (h["hozyaistvo"], h["rejon"], h["region"]))
+        # У вина рејон свой: он берётся из области, заявленной на конкурсе,
+        # и совпадать с рејоном хозяйства не обязан — виноградник бывает
+        # в другом рејону. Но справочнику он подчиняется так же.
+        proverka("рејон вина не из справочника",
+                 [v for v in vina
+                  if v.get("rejon") and v["rejon"] not in imena_rejonov],
+                 lambda v: "%s · %s → %s" % (v["hozyaistvo"], v["vino"], v["rejon"]))
+        proverka("виногорје вина не из своего рејона",
+                 [v for v in vina
+                  if v.get("vinogorje") and v.get("rejon")
+                  and v["vinogorje"] not in vinogorja_rejona.get(v["rejon"], set())],
+                 lambda v: "%s · %s → %s / %s" % (v["hozyaistvo"], v["vino"],
+                                                  v["rejon"], v["vinogorje"]))
 
     # Полнота, о которой надо знать, но это не поломка
     print()

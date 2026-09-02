@@ -1,6 +1,172 @@
 {
  "chto_eto": "Настоящий рејон и виногорје каждого хозяйства — по действующей рејонизацији, не по главам книги.",
  "spravochnik": "rejony-vinogorja.json",
+ "oblasti_vin": {
+  "Sumadijsko Velikomoravski": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "West Morava": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Nišava-South Morava": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Subotica": {
+   "rejon": "Subotički rejon",
+   "vinogorje": null
+  },
+  "Negotinska Krajina": {
+   "rejon": "Rejon Negotinska Krajina",
+   "vinogorje": null
+  },
+  "Timocki Rajon, Serbia": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Timok, Serbia": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Belgrade Viticultural Region, Serbia": {
+   "rejon": "Beogradski rejon",
+   "vinogorje": null
+  },
+  "Sumdijsko-Velikomoravski Rajon, Serbia": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Fruška gora, Serbia": {
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje"
+  },
+  "Subotica-Horgoš": {
+   "rejon": "Subotički rejon",
+   "vinogorje": null
+  },
+  "Šumadijsko Velikomoravski": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Oplenac": {
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje"
+  },
+  "Subotica-HorgoÅ¡": {
+   "rejon": "Subotički rejon",
+   "vinogorje": null
+  },
+  "Å Umadijsko-Velikomoravski · Oplenac": {
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje"
+  },
+  "Timok": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Šumadijsko-Velikomoravski": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Šumadija-Great Morava · Oplenac": {
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje"
+  },
+  "Šumadija-Great Morava": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Timok · Krajina": {
+   "rejon": "Rejon Negotinska Krajina",
+   "vinogorje": null
+  },
+  "Srem": {
+   "rejon": "Sremski rejon",
+   "vinogorje": null
+  },
+  "Šumadija-Great Morava · Jagodina": {
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Jagodinsko vinogorje"
+  },
+  "Nišava-South Morava · Oplenac": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Tri Morave · Župa": {
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": null
+  },
+  "Nišava-South Morava · Vranje": {
+   "rejon": "Vranjski rejon",
+   "vinogorje": null
+  },
+  "Šumadija-Great Morava · Belgrade": {
+   "rejon": "Beogradski rejon",
+   "vinogorje": null
+  },
+  "West Morava · Kruševac": {
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Kruševačko vinogorje"
+  },
+  "Srem · Fruška Gora": {
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje"
+  },
+  "Pocerina": {
+   "rejon": "Pocersko Valjevski Rejon",
+   "vinogorje": null
+  },
+  "Šumadija-Great Morava · Mlava": {
+   "rejon": "Mlavski rejon",
+   "vinogorje": null
+  },
+  "Nišava-South Morava · Toplica": {
+   "rejon": "Toplički rejon",
+   "vinogorje": null
+  },
+  "Vojvodina · Subotica": {
+   "rejon": "Subotički rejon",
+   "vinogorje": null
+  },
+  "Centralna Srbija": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Nišava-South Morava · Niš": {
+   "rejon": "Niški rejon",
+   "vinogorje": null
+  },
+  "Subotica-Horgoš · Riđičko-Vinogorje": {
+   "rejon": "Subotički rejon",
+   "vinogorje": "Riđičko vinogorje"
+  },
+  "Vojvodina": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Banat · South Banat": {
+   "rejon": "Južnobanatski rejon",
+   "vinogorje": null
+  },
+  "Banat · North Banat": {
+   "rejon": "Banatski rejon",
+   "vinogorje": null
+  },
+  "Timok · Knjaževac": {
+   "rejon": "Knjaževački rejon",
+   "vinogorje": null
+  },
+  "Subotica-Horgoš · Fruška Gora": {
+   "rejon": null,
+   "vinogorje": null
+  },
+  "Centralna Srbija · Tri Morave": {
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": null
+  }
+ },
  "hozyaistva": {
   "100-zena": {
    "hozyaistvo": "Vinarija 100 Žena",
@@ -904,7 +1070,7 @@
    ]
   },
   "braca-rajkovic": {
-   "hozyaistvo": "Vinarija Braća Rajković",
+   "hozyaistvo": "Braća Rajković",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Župsko vinogorje",
@@ -1042,17 +1208,6 @@
    "pokazaniya": [
     "vivino: Vojvodina"
    ]
-  },
-  "burma": {
-   "hozyaistvo": "burma",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
   },
   "burma-fruska-gora": {
    "hozyaistvo": "Vinarija Burma Fruška Gora",
@@ -1688,7 +1843,7 @@
    ]
   },
   "draskovic": {
-   "hozyaistvo": "Drašković",
+   "hozyaistvo": "Vinarija Drašković",
    "region": "Vojvodina",
    "rejon": "Južnobanatski rejon",
    "vinogorje": "Vršačko vinogorje",
@@ -1831,7 +1986,7 @@
    ]
   },
   "eden": {
-   "hozyaistvo": "Vinarija Eden",
+   "hozyaistvo": "Eden",
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
    "vinogorje": "Oplenačko vinogorje",
@@ -1968,7 +2123,7 @@
    ]
   },
   "fragaria": {
-   "hozyaistvo": "Vinarija Fragaria",
+   "hozyaistvo": "Fragaria",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Župsko vinogorje",
@@ -1984,19 +2139,6 @@
     "vivino: Central Serbia"
    ]
   },
-  "francuska": {
-   "hozyaistvo": "francuska",
-   "region": "Centralna Srbija",
-   "rejon": "Rejon Negotinska Krajina",
-   "vinogorje": "Rogljevačko-rajačko vinogorje",
-   "gorod": "Rogljevo",
-   "istochnik": "mesto",
-   "raznoglasie": "",
-   "gde": "Rogljevo",
-   "pokazaniya": [
-    "vinarijesrbije: Rejon Negotinska Krajina, Rogljevo"
-   ]
-  },
   "francuska-estelle-et-cyrille-bongiraud": {
    "hozyaistvo": "Francuska Vinarija - Estelle et Cyrille Bongiraud",
    "region": "Centralna Srbija",
@@ -2005,9 +2147,10 @@
    "gorod": "Rogljevo",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Rogljevo, Borski okrug",
+   "gde": "Rogljevo",
    "pokazaniya": [
     "registar: Rogljevo, Borski okrug",
+    "vinarijesrbije: Rejon Negotinska Krajina, Rogljevo",
     "vivino-adres: negotin",
     "vivino: Central Serbia",
     "vivino: Negotinska Krajina"
@@ -2030,7 +2173,7 @@
    ]
   },
   "frunza-aglaja": {
-   "hozyaistvo": "Vinarija Frunza Aglaja",
+   "hozyaistvo": "Vimmid",
    "region": "Centralna Srbija",
    "rejon": "Rejon Negotinska Krajina",
    "vinogorje": "Negotinsko vinogorje",
@@ -2152,11 +2295,11 @@
   "gnezdo": {
    "hozyaistvo": "Vinarija Gnezdo",
    "region": "Vojvodina",
-   "rejon": "Potiski rejon",
-   "vinogorje": "Srednjepotisko vinogorje",
+   "rejon": "Banatski rejon",
+   "vinogorje": null,
    "gorod": "Bečej",
-   "istochnik": "mesto",
-   "raznoglasie": "по месту Potiski rejon, у источников Banatski rejon ×3; Sremski rejon ×2",
+   "istochnik": "konkurs",
+   "raznoglasie": "виноградник по конкурсам Banatski rejon ×3, дом по месту Potiski rejon",
    "gde": "Bečej, Južnobački okrug",
    "pokazaniya": [
     "decanter: ",
@@ -2484,7 +2627,7 @@
    ]
   },
   "janko": {
-   "hozyaistvo": "Podrum Janko",
+   "hozyaistvo": "Janko",
    "region": "Centralna Srbija",
    "rejon": "Beogradski rejon",
    "vinogorje": "Smederevsko vinogorje",
@@ -2903,7 +3046,7 @@
    ]
   },
   "kostic": {
-   "hozyaistvo": "Костић (Kostić)",
+   "hozyaistvo": "Kostić",
    "region": "Centralna Srbija",
    "rejon": "Toplički rejon",
    "vinogorje": "Prokupačko vinogorje",
@@ -3160,7 +3303,7 @@
    ]
   },
   "lastar": {
-   "hozyaistvo": "Vinarija Lastar",
+   "hozyaistvo": "Lastar",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Levačko vinogorje",
@@ -3459,7 +3602,7 @@
    ]
   },
   "matijasevic": {
-   "hozyaistvo": "Matijašević",
+   "hozyaistvo": "Matijašević Vinogradi",
    "region": "Centralna Srbija",
    "rejon": "Šumadijski rejon",
    "vinogorje": "Oplenačko vinogorje",
@@ -3808,19 +3951,6 @@
    "gde": "Novi Sad, Južno-bački okrug",
    "pokazaniya": [
     "ivv: Novi Sad, Južno-bački okrug"
-   ]
-  },
-  "minic": {
-   "hozyaistvo": "minic",
-   "region": "Centralna Srbija",
-   "rejon": "Rejon Tri Morave",
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "vinarijesrbije",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "vinarijesrbije: Rejon Tri Morave"
    ]
   },
   "mira": {
@@ -4526,11 +4656,11 @@
   "pevac": {
    "hozyaistvo": "Podrum Pevac",
    "region": "Centralna Srbija",
-   "rejon": "Šumadijski rejon",
-   "vinogorje": null,
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Jagodinsko vinogorje",
    "gorod": "Kragujevac",
-   "istochnik": "mesto",
-   "raznoglasie": "по месту Šumadijski rejon, у источников Rejon Tri Morave ×4; виногорје Jagodinsko vinogorje — не из этого рејона",
+   "istochnik": "konkurs",
+   "raznoglasie": "виноградник по конкурсам Rejon Tri Morave ×4, дом по месту Šumadijski rejon",
    "gde": "Kragujevac, Šumadijski okrug",
    "pokazaniya": [
     "decanter: ",
@@ -5109,7 +5239,7 @@
    ]
   },
   "rnjak": {
-   "hozyaistvo": "VINARIJA RNJAK",
+   "hozyaistvo": "Rnjak",
    "region": "Vojvodina",
    "rejon": "Južnobanatski rejon",
    "vinogorje": "Vršačko vinogorje",
@@ -6860,6 +6990,7 @@
    "pokazaniya": [
     "ivv: Aleksandrovac, Rasinski okrug",
     "registar: Tržac, Rasinski okrug",
+    "vinarijesrbije: Rejon Tri Morave",
     "vivino-adres: Aleksandrovac",
     "vivino: Central Serbia"
    ]

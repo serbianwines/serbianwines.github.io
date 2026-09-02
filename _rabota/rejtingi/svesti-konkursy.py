@@ -67,10 +67,14 @@ def chitat(imya):
 
 
 def nagrada(istochnik, god, imya_medali, kod, hozyaistvo, vino,
-            urozhaj, stranica, cvet=""):
+            urozhaj, stranica, cvet="", oblast=""):
+    # `oblast` — область, заявленная у самого вина. IWC и Wine Trophy
+    # печатают её у каждой медали; для справочника о терруаре это
+    # происхождение винограда, а не адрес хозяйства.
     return {"istochnik": istochnik, "god": god, "kategoriya": imya_medali,
             "mesto": kod, "hozyaistvo": hozyaistvo, "vino": vino,
-            "urozhaj": urozhaj, "cvet": cvet, "stranica": stranica}
+            "urozhaj": urozhaj, "cvet": cvet, "oblast": oblast,
+            "stranica": stranica}
 
 
 def ocenka(istochnik, hozyaistvo, vino, urozhaj, konkurs_god, ball,
@@ -121,7 +125,8 @@ def sobrat():
                     neopoznano.append(("iwc", z["medal"]))
                 continue
             nagrady.append(nagrada("iwc", z["god"], m[0], m[1], z["hozyaistvo"],
-                                   z["vino"], z.get("urozhaj"), z["stranica"]))
+                                   z["vino"], z.get("urozhaj"), z["stranica"],
+                                   oblast=z.get("oblast_iwc") or ""))
 
     d = chitat("cmb-zapisi.json")
     if d:
@@ -169,7 +174,8 @@ def sobrat():
             nagrady.append(nagrada("wine-trophy", z["god"], m[0], m[1],
                                    z["hozyaistvo"], z["vino"], z.get("urozhaj"),
                                    "%s, %s %d" % (z["stranica"], z["konkurs"],
-                                                  z["god"])))
+                                                  z["god"]),
+                                   oblast=z.get("mesto") or ""))
 
     d = chitat("gilbert-gaillard-zapisi.json")
     if d:

@@ -175,6 +175,34 @@ def oblast_konkursa(syroe):
     return rejon, vinogorje, s
 
 
+def oblast_vina(syroe):
+    """Рејон и виногорје по области, заявленной у самого вина.
+
+    Строка приходит в двух видах: «Srem · Fruška Gora» — так её пишет
+    Decanter, склеивая region и subRegion, — и вольная, «Timocki Rajon,
+    Serbia», у IWC и Wine Trophy.
+
+    Это происхождение винограда, а не адрес хозяйства, и для справочника
+    о терруаре оно старше: у Карића одни вина заявлены в Поцерини, другие
+    в Срему, и это два разных виноградника, а не ошибка.
+    """
+    s = chinit_kodirovku(bez_pustogo(syroe))
+    if not s:
+        return None, None
+    if " · " in s:
+        chasti = [imya_decantera(x) for x in s.split(" · ")]
+        para = (chasti[0], chasti[1] if len(chasti) > 1 else None)
+        if para not in DECANTER_PARA:
+            para = (para[0], None)
+        if para in DECANTER_PARA:
+            return DECANTER_PARA[para]
+    para = (imya_decantera(s), None)
+    if para in DECANTER_PARA:
+        return DECANTER_PARA[para]
+    rejon, vinogorje, _ = oblast_konkursa(s)
+    return rejon, vinogorje
+
+
 def chinit_kodirovku(s):
     """Вернуть строку, дважды закодированную в UTF-8, к читаемому виду.
 
@@ -728,6 +756,9 @@ def main():
         # виноградник за ним. Поэтому места разбираются по старшинству,
         # и слабый источник не спорит с сильным, а молчит при нём.
         VES = {"ivv": 1, "vinarijesrbije": 1, "registar": 2, "vivino-adres": 3}
+        # Источники, у которых область — заявленное происхождение вина,
+        # а не адрес хозяйства.
+        KONKURSY = {"decanter", "iwc", "wine-trophy"}
         po_vesu = collections.defaultdict(list)
         if gde_po_klyuchu.get(k):
             po_vesu[0].append(gde_po_klyuchu[k])          # город из книги
@@ -761,9 +792,28 @@ def main():
         # в Сремски рејон, а адресом даёт Александровац, то есть Жупу:
         # ярлык у них ошибочный, адрес — нет. Поэтому если город найден
         # однозначно, он и решает, даже когда источник один.
+        # Ярлык конкурса — о винограде, город — о доме. Подавая вино,
+        # производитель заявляет происхождение винограда, и конкурс
+        # печатает именно его; город берётся из каталога или регистра
+        # и говорит, где стоит подвал или контора. Справочник о терруаре
+        # относит вино к месту виноградника, поэтому единодушный ярлык
+        # конкурсов старше города. Единодушный и не единичный: одна
+        # строка против места — это чаще опечатка или чужая запись,
+        # приставшая при сведении имён.
+        konkursnye = collections.Counter(
+            x["rejon"] for x in pok
+            if x["rejon"] and x["istochnik"] in KONKURSY)
         if m_rejon:
             rejon, istochnik = m_rejon, "mesto"
-            if rejony and set(rejony) != {m_rejon}:
+            if (len(konkursnye) == 1 and sum(konkursnye.values()) >= 2
+                    and next(iter(konkursnye)) != m_rejon):
+                rejon = next(iter(konkursnye))
+                istochnik = "konkurs"
+                raznoglasie = ("виноградник по конкурсам %s ×%d, "
+                               "дом по месту %s" % (rejon, konkursnye[rejon],
+                                                    m_rejon))
+                spor.append((k, dict(rejony), m_rejon, rejon))
+            elif rejony and set(rejony) != {m_rejon}:
                 raznoglasie = "по месту %s, у источников %s" % (
                     m_rejon, "; ".join("%s ×%d" % (r, n)
                                        for r, n in rejony.most_common()))
@@ -855,9 +905,29 @@ def main():
                                   for x in pok}),
         }
 
+    # Области, заявленные у самих вин, — со всеми, кто их печатает.
+    # Таблица нужна `sobrat-tablicy.py`: там у вина ставится свой рејон,
+    # а держать перевод областей в двух местах нельзя.
+    oblasti = {}
+    for imya in ("nagrady-zapisi.jsonl", "kritiki-zapisi.jsonl"):
+        if not os.path.exists(put(imya)):
+            continue
+        for stroka in open(put(imya), encoding="utf-8"):
+            if not stroka.strip():
+                continue
+            syroe = json.loads(stroka).get("oblast")
+            if syroe and syroe not in oblasti:
+                r, vg = oblast_vina(syroe)
+                oblasti[syroe] = {"rejon": r, "vinogorje": vg}
+    ne_uznano = sorted(k for k, v in oblasti.items() if not v["rejon"])
+    if ne_uznano:
+        print("области вин, не узнанные справочником (%d): %s"
+              % (len(ne_uznano), "; ".join(ne_uznano[:12])))
+
     json.dump({"chto_eto": "Настоящий рејон и виногорје каждого хозяйства — "
                            "по действующей рејонизацији, не по главам книги.",
                "spravochnik": "rejony-vinogorja.json",
+               "oblasti_vin": oblasti,
                "hozyaistva": itog},
               open(put("rejony-hozyaistv.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)

@@ -70,7 +70,7 @@ Enigma,enigma,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,3
 Erdevik,erdevik,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Erdevik,mesto,,fruska,kniga,"Erdevik, Sremski okrug",True,,,18
 Fekete,fekete,Vojvodina,Rejon Bačka,,,vivino,,,ne_ustanovlen,,False,,,1
 Fragaria,fragaria,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,morave,kniga,"Aleksandrovac, Rasinski okrug",True,,,8
-Francuska Vinarija - Estelle et Cyrille Bongiraud,francuska-estelle-et-cyrille-bongiraud,Centralna Srbija,Rejon Negotinska Krajina,Rogljevačko-rajačko vinogorje,Rogljevo,mesto,,negotin,kniga,"Rogljevo, Borski okrug",True,,,14
+Francuska Vinarija - Estelle et Cyrille Bongiraud,francuska-estelle-et-cyrille-bongiraud,Centralna Srbija,Rejon Negotinska Krajina,Rogljevačko-rajačko vinogorje,Rogljevo,mesto,,negotin,kniga,Rogljevo,True,,,14
 Fruškogorski,fruskogorski,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,,ne_ustanovlen,"Banoštor, Južno-bački okrug",False,,,9
 Galot,galot,Vojvodina,Južnobanatski rejon,Vinogorje Deliblatske peščare,Banatski Karlovac,mesto,"по месту Južnobanatski rejon, у источников Banatski rejon ×1",banat,kniga,Banatski Karlovac,True,,,17
 Gardijan,gardijan,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,0
@@ -177,7 +177,7 @@ Podrum Milošević,milosevic,Centralna Srbija,,,,ne_ustanovlen,,,ne_ustanovlen,,
 Podrum Palić,palic,Vojvodina,Subotički rejon,Palićko vinogorje,Palić,mesto,,,ne_ustanovlen,"Palić, Severnobački okrug",False,,,7
 Podrum Panajotovic,panajotovic,,,,,ne_ustanovlen,,,ne_ustanovlen,Belgrade,False,,,6
 Podrum Petrović,petrovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,"по месту Sremski rejon, у источников Sremski rejon ×2; Šumadijski rejon ×1",,ne_ustanovlen,"Sremski Karlovci, Južnobački okrug",False,,,10
-Podrum Pevac,pevac,Centralna Srbija,Šumadijski rejon,,Kragujevac,mesto,"по месту Šumadijski rejon, у источников Rejon Tri Morave ×4; виногорје Jagodinsko vinogorje — не из этого рејона",,ne_ustanovlen,"Kragujevac, Šumadijski okrug",False,,,12
+Podrum Pevac,pevac,Centralna Srbija,Rejon Tri Morave,Jagodinsko vinogorje,Kragujevac,konkurs,"виноградник по конкурсам Rejon Tri Morave ×4, дом по месту Šumadijski rejon",,ne_ustanovlen,"Kragujevac, Šumadijski okrug",False,,,12
 Podrum Pića Maric,pica-maric,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,3
 Podrum Stari Hrast,stari-hrast,Centralna Srbija,Šumadijski rejon,Kragujevačko vinogorje,Žirovnica,mesto,,,ne_ustanovlen,"Žirovnica, Kragujevac, Šumadijski okrug",False,,,8
 Podrum Stojković,stojkovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,,ne_ustanovlen,"Banoštor, Južno-bački okrug",False,,,2
@@ -290,7 +290,7 @@ Vinarija Dumo,dumo,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Rakovac,mesto
 Vinarija Fleur D'Oranger,fleur-doranger,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Novi Sad,mesto,,,ne_ustanovlen,"Novi Sad, Južnobački okrug",False,,,5
 Vinarija Frug,frug,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,"Sremski Karlovci, Južnobački okrug",False,,,9
 Vinarija Gamanović,gamanovic,Centralna Srbija,Rejon Negotinska Krajina,,Kladovo,decanter+vivino,,,ne_ustanovlen,Kladovo,False,,,8
-Vinarija Gnezdo,gnezdo,Vojvodina,Potiski rejon,Srednjepotisko vinogorje,Bečej,mesto,"по месту Potiski rejon, у источников Banatski rejon ×3; Sremski rejon ×2",,ne_ustanovlen,"Bečej, Južnobački okrug",False,,,3
+Vinarija Gnezdo,gnezdo,Vojvodina,Banatski rejon,,Bečej,konkurs,"виноградник по конкурсам Banatski rejon ×3, дом по месту Potiski rejon",,ne_ustanovlen,"Bečej, Južnobački okrug",False,,,3
 Vinarija Grumen,grumen,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Novi Sad,mesto,,,ne_ustanovlen,"Novi Sad, Južnobački okrug",False,,,8
 Vinarija Gvožđan,gvozdan,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,1
 Vinarija Ilić-Nijemčević,ilic-nijemcevic,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,11

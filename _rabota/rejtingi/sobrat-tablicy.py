@@ -224,6 +224,26 @@ def _marki():
     return {_bazovyj_klyuch(m) for z in d.values() for m in z.get("marki", ())}
 
 
+def _varianty_po_istochniku():
+    """Варианты, которые действуют только у названного источника.
+
+    Decanter пишет производителя просто «Rajić», а Рајића два, и голое
+    имя сводится к тому же ключу, что «Vinarija Rajić»: обычный синоним
+    склеил бы оба дома. Здесь вариант привязан к источнику и применяется
+    до сведения имён.
+    """
+    put_f = os.path.join(RYADOM, "sinonimy-hozyaistv.json")
+    if not os.path.exists(put_f):
+        return {}
+    d = json.load(open(put_f, encoding="utf-8"))["hozyaistva"]
+    svod = {}
+    for imya, z in d.items():
+        for istochnik, varianty in (z.get("varianty_po_istochniku") or {}).items():
+            for v in varianty:
+                svod[(istochnik, _bazovyj_klyuch(v))] = imya
+    return svod
+
+
 def _marki_v_imeni():
     """Марки, которые у самого хозяйства стоят в начале имени вина.
 
@@ -361,6 +381,8 @@ KANON_IMYA = set()
 MARKI = set()
 # Из них те, что стоят в начале имени вина, — см. _marki_v_imeni().
 MARKI_V_IMENI = {}
+# Варианты, действующие только у одного источника, — см. _varianty_po_istochniku().
+PO_ISTOCHNIKU = {}
 # Написания одного вина, сведённые руками, — см. _sinonimy_vin().
 SINONIMY_VIN = {}
 
@@ -668,6 +690,46 @@ def main():
         return chto
 
 
+    def postavit_rejon_vina(vina, izmereniya):
+        """Рејон самого вина — по области, заявленной на конкурсе.
+
+        Справочник о терруаре относит вино к месту виноградника, а не
+        к адресу хозяйства. Подавая вино, производитель объявляет
+        происхождение винограда, и Decanter, IWC и Wine Trophy печатают
+        именно его. У Карића одни вина заявлены в Поцерини, другие
+        в Срему; у Матаља — в Крајини и в Тимоку. Хозяйство при этом
+        одно, а виноградники разные.
+
+        Широкие ярлыки — «Vojvodina», «Centralna Srbija», «Šumadija-Great
+        Morava» — рејона не называют, и по ним вино остаётся при рејону
+        своего хозяйства.
+        """
+        oblasti = {}
+        if os.path.exists(put("rejony-hozyaistv.json")):
+            oblasti = json.load(open(put("rejony-hozyaistv.json"),
+                                     encoding="utf-8")).get("oblasti_vin", {})
+        po_vinu = collections.defaultdict(collections.Counter)
+        for z in izmereniya:
+            syroe = z.get("oblast")
+            if not syroe or not z.get("vino"):
+                continue
+            svedeno = oblasti.get(syroe) or {}
+            if svedeno.get("rejon"):
+                k = klyuch_vina(z["hozyaistvo"], z["vino"])
+                po_vinu[k][(svedeno["rejon"], svedeno.get("vinogorje"))] += 1
+        for v in vina:
+            svoi = po_vinu.get(v["klyuch"])
+            if svoi:
+                (rejon, vinogorje), _ = svoi.most_common(1)[0]
+                v["rejon"], v["vinogorje"] = rejon, vinogorje
+                v["rejon_istochnik"] = "konkurs"
+                continue
+            mesto = nastoyashchee_mesto.get(klyuch_hozyaistva(v["hozyaistvo"]), {})
+            v["rejon"] = mesto.get("rejon")
+            v["vinogorje"] = mesto.get("vinogorje")
+            v["rejon_istochnik"] = "hozyaistvo" if mesto.get("rejon") else ""
+
+
     def nazvano_v_knige(vina):
         """Пометить вина, названные в книге. Вторым проходом, по готовому
         списку: имя из приложения годится, только если оно указывает
@@ -741,6 +803,13 @@ def main():
 
     for spisok in (vivino, kritiki, nagrady_syrye):
         for z in spisok:
+            # Имя, которое у этого источника означает другой дом, — до
+            # всего прочего: у Decanter голое «Rajić» — это Винска кућа
+            # Рајић, а не Винарија Рајић, хотя ключ у них общий.
+            svoj = PO_ISTOCHNIKU.get((z.get("istochnik"),
+                                      _bazovyj_klyuch(z["hozyaistvo"])))
+            if svoj:
+                z["hozyaistvo"] = svoj
             # Марку, попавшую у источника в поле производителя, вернуть
             # в имя вина надо здесь: строкой ниже производитель станет
             # каноническим именем дома, и марка исчезнет бесследно.
@@ -869,6 +938,7 @@ def main():
             vidano[k]["est_u_kritikov"] = True
     vina = sorted(vidano.values(), key=lambda z: (z["hozyaistvo"], z["vino"]))
     nazvano_v_knige(vina)
+    postavit_rejon_vina(vina, nagrady_syrye + kritiki)
 
     # ---------------- оценки, длинный вид ----------------
     ocenki = []
@@ -968,6 +1038,7 @@ def main():
 SINONIMY.update(_sinonimy())
 MARKI.update(_marki())
 MARKI_V_IMENI.update(_marki_v_imeni())
+PO_ISTOCHNIKU.update(_varianty_po_istochniku())
 SINONIMY_VIN.update(_sinonimy_vin())
 KANON_IMYA.update(
     json.load(open(os.path.join(RYADOM, "sinonimy-hozyaistv.json"),

@@ -329,10 +329,10 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Регион | Рејон | Хозяйств | Оценок Vivino | Оценок критиков | Наград |
 |---|---|---|---|---|---|
 | Vojvodina | Rejon Bačka | 6 | 0 | 5 | 9 |
-| Vojvodina | Banatski rejon | 1 | 0 | 0 | 0 |
+| Vojvodina | Banatski rejon | 2 | 0 | 15 | 16 |
 | Centralna Srbija | Beogradski rejon | 16 | 35 | 70 | 106 |
 | Centralna Srbija | Čačansko–kraljevački rejon | 4 | 1 | 3 | 3 |
-| Vojvodina | Južnobanatski rejon | 15 | 25 | 49 | 77 |
+| Vojvodina | Južnobanatski rejon | 15 | 25 | 53 | 81 |
 | Kosovo i Metohija | Južnometohijski rejon | 1 | 2 | 0 | 0 |
 | Centralna Srbija | Knjaževački rejon | 4 | 22 | 30 | 60 |
 | Centralna Srbija | Leskovački rejon | 5 | 3 | 1 | 1 |
@@ -340,13 +340,13 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Centralna Srbija | Nišavski rejon | 1 | 2 | 3 | 3 |
 | Centralna Srbija | Niški rejon | 6 | 14 | 13 | 17 |
 | Centralna Srbija | Pocersko Valjevski Rejon | 7 | 24 | 19 | 30 |
-| Vojvodina | Potiski rejon | 3 | 19 | 24 | 31 |
+| Vojvodina | Potiski rejon | 2 | 19 | 9 | 15 |
 | Centralna Srbija | Rejon Negotinska Krajina | 22 | 56 | 119 | 154 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
-| Centralna Srbija | Rejon Tri Morave | 77 | 222 | 299 | 417 |
+| Centralna Srbija | Rejon Tri Morave | 78 | 227 | 339 | 468 |
 | Vojvodina | Sremski rejon | 85 | 318 | 662 | 931 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 199 |
-| Centralna Srbija | Šumadijski rejon | 34 | 172 | 335 | 478 |
+| Centralna Srbija | Šumadijski rejon | 33 | 167 | 291 | 423 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 95 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 56 | 83 |
 | — | **рејон не установлен** | 136 | 109 | 96 | 140 |
@@ -374,7 +374,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 **Рејоны, где хозяйства есть, а в книге их нет:**
 
 - **Rejon Bačka** (Vojvodina) — 117 Wine, Fekete, Sila, Vinarija Baza, Vinarija Ždrnja, Vindulo d.o.o.
-- **Banatski rejon** (Vojvodina) — Kepul
+- **Banatski rejon** (Vojvodina) — Kepul, Vinarija Gnezdo
 - **Čačansko–kraljevački rejon** (Centralna Srbija) — Vinarija S. Milošević, Vinarija Tomić - Rošci, Vinarija Čolaković, Винарија Ступови (Vinarija Stupovi)
 - **Južnometohijski rejon** (Kosovo i Metohija) — Monastery Visoki Decani  (Манастирско Дечанско)
 - **Leskovački rejon** (Centralna Srbija) — Hrusija d.o.o. Leskovac, Prima, Vinarija Aquila, Козарак, Митровиђ Винарија
@@ -392,6 +392,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Bačka | *виногорје не установлено* | 6 |
 | Banatski rejon | Kikindsko vinogorje | 1 |
 | Banatski rejon | Srednjebanatsko vinogorje | — |
+| Banatski rejon | *виногорје не установлено* | 1 |
 | Beogradski rejon | Avalsko-kosmajsko vinogorje | 2 |
 | Beogradski rejon | Gročansko vinogorje | 3 |
 | Beogradski rejon | Smederevsko vinogorje | 4 |
@@ -441,7 +442,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Pocersko Valjevski Rejon | Kolubarsko-ljiško vinogorje | 1 |
 | Pocersko Valjevski Rejon | *виногорје не установлено* | 1 |
 | Potiski rejon | Severnopotisko vinogorje | 1 |
-| Potiski rejon | Srednjepotisko vinogorje | 2 |
+| Potiski rejon | Srednjepotisko vinogorje | 1 |
 | Potiski rejon | Južnopotisko vinogorje | — |
 | Rejon Negotinska Krajina | Ključko vinogorje | — |
 | Rejon Negotinska Krajina | Brzopalanačko vinogorje | — |
@@ -453,7 +454,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Telečka | Centralnotelečko vinogorje | 1 |
 | Rejon Telečka | Istočnotelečko vinogorje | — |
 | Rejon Tri Morave | Paraćinsko vinogorje | 4 |
-| Rejon Tri Morave | Jagodinsko vinogorje | 6 |
+| Rejon Tri Morave | Jagodinsko vinogorje | 7 |
 | Rejon Tri Morave | Jovačko vinogorje | — |
 | Rejon Tri Morave | Levačko vinogorje | 7 |
 | Rejon Tri Morave | Temnićko vinogorje | 1 |
@@ -471,7 +472,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Šumadijski rejon | Oplenačko vinogorje | 22 |
 | Šumadijski rejon | Račansko vinogorje | 1 |
 | Šumadijski rejon | Kragujevačko vinogorje | 3 |
-| Šumadijski rejon | *виногорје не установлено* | 5 |
+| Šumadijski rejon | *виногорје не установлено* | 4 |
 | Toplički rejon | Prokupačko vinogorje | 3 |
 | Toplički rejon | Jugbogdanovačko vinogorje | — |
 | Toplički rejon | Žitorađsko vinogorje | — |
@@ -501,6 +502,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Хозяйство | Виногорје | Город | Откуда рејон | В книге |
 |---|---|---|---|---|
 | Kepul | Kikindsko vinogorje | Iđoš | mesto | — |
+| Vinarija Gnezdo | — | Bečej | konkurs | — |
 
 ### Beogradski rejon — Centralna Srbija
 
@@ -622,7 +624,6 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Хозяйство | Виногорје | Город | Откуда рејон | В книге |
 |---|---|---|---|---|
 | Vinarija Coka | Severnopotisko vinogorje | Чока | mesto | Банат |
-| Vinarija Gnezdo | Srednjepotisko vinogorje | Bečej | mesto | — |
 | Vinartos Vinarija | Srednjepotisko vinogorje | Bečej | mesto | — |
 
 ### Rejon Negotinska Krajina — Centralna Srbija
@@ -683,6 +684,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Milanov Podrum | Župsko vinogorje | Aleksandrovac | mesto | — |
 | Milić | Župsko vinogorje | Aleksandrovac | vivino-adres | — |
 | Podrum Dremina | Paraćinsko vinogorje | Drenovac | mesto | — |
+| Podrum Pevac | Jagodinsko vinogorje | Kragujevac | konkurs | — |
 | Podrum Tošići | Župsko vinogorje | Aleksandrovac | mesto | — |
 | Radosavljevic | Kruševačko vinogorje | Kruševac | mesto | — |
 | Radovan | Kruševačko vinogorje | — | mesto | Три Моравы и Жупа |
@@ -874,7 +876,6 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Matijašević Vinogradi | Oplenačko vinogorje | Orašac | mesto | Шумадия |
 | PIK OPLENAC | Oplenačko vinogorje | Topola | mesto | — |
 | Podrum Madžić | — | Smederevska Palanka | mesto | — |
-| Podrum Pevac | — | Kragujevac | mesto | — |
 | Podrum Stari Hrast | Kragujevačko vinogorje | Žirovnica | mesto | — |
 | Radovanović | Krnjevačko vinogorje | Krnjevo | mesto | Шумадия |
 | Rogan | Oplenačko vinogorje | Lipovac | mesto | — |

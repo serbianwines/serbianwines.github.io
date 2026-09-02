@@ -130,6 +130,13 @@ def main():
             adres = "awards.decanter.com, DWWA %d, вино %s" % (god, z.get("id"))
 
             cvet = (z.get("color") or "").strip().lower()
+            # Область, заявленная у самого вина. Для справочника о терруаре
+            # она важнее адреса хозяйства: подавая вино, производитель
+            # объявляет, откуда виноград. У Карића одни вина заявлены
+            # в Поцерини, другие в Срему; у Матаља — в Крајини и в Тимоку.
+            oblast = " · ".join(
+                x.strip() for x in (z.get("region"), z.get("subRegion"))
+                if x and x.strip().lower() not in ("not applicable", ""))
             nagrady.append({
                 "istochnik": "decanter",
                 "god": god,
@@ -143,6 +150,7 @@ def main():
                 # сразу, и на одном конкурсе все три берут бронзу: без
                 # цвета это одна запись вместо трёх.
                 "cvet": cvet,
+                "oblast": oblast,
                 "stranica": adres,
             })
             ball = z.get("score")
@@ -155,6 +163,7 @@ def main():
                     "konkurs_god": god,
                     "ball": int(ball),
                     "cvet": cvet,
+                    "oblast": oblast,
                     "stranica": adres,
                 })
 

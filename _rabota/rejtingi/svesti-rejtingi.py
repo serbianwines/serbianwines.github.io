@@ -22,7 +22,7 @@
 
     python3 _rabota/rejtingi/svesti-rejtingi.py [--otchet]
 """
-import argparse, collections, json, pathlib, statistics, sys
+import argparse, collections, json, math, pathlib, statistics, sys
 
 ZDES = pathlib.Path(__file__).resolve().parent
 SKAMEJKA = 10          # столько печатается: пятёрка плюс запас на фактчек
@@ -155,6 +155,35 @@ def kachestvo(d, k):
     return max(d["kritiki"][k]) if d["kritiki"][k] else 0
 
 
+def modelirovat_cenu(d, ocenka, godno):
+    """Сколько баллов обещает цена — и насколько вино это обещание бьёт.
+
+    «За свои деньги» — не «дёшево и хорошо», а «лучше, чем за него
+    просят». Поэтому строится ожидание: балл как функция логарифма цены,
+    и вино оценивается остатком, превышением над ожиданием.
+
+    Ожидание получается плоским — удвоение цены прибавляет около балла,
+    связь слабая. Это не изъян счёта, а свойство сербской полки, и оно
+    само по себе стоит того, чтобы сказать его вслух: цена здесь плохо
+    предсказывает качество.
+    """
+    pary = [(d["cena"][k], ocenka(k)) for k in d["cena"] if godno(k)]
+    if len(pary) < 30:
+        return None
+    x = [math.log(c) for c, _ in pary]
+    y = [b for _, b in pary]
+    sx, sy = statistics.mean(x), statistics.mean(y)
+    naklon = (sum((a - sx) * (b - sy) for a, b in zip(x, y))
+              / sum((a - sx) ** 2 for a in x))
+    svobodnyj = sy - naklon * sx
+    razbros = statistics.pstdev([b - (svobodnyj + naklon * a) for a, b in zip(x, y)])
+    svyaz = (sum((a - sx) * (b - sy) for a, b in zip(x, y))
+             / math.sqrt(sum((a - sx) ** 2 for a in x)
+                         * sum((b - sy) ** 2 for b in y)))
+    return dict(ozhidanie=lambda c: svobodnyj + naklon * math.log(c),
+                naklon=naklon, razbros=razbros, svyaz=svyaz, vin=len(pary))
+
+
 def stroka_vina(d, v, cena=False):
     k = v["klyuch"]
     b = max(d["kritiki"][k]) if d["kritiki"][k] else None
@@ -245,12 +274,44 @@ def po_strane(d, pech):
         return
     ceny = sorted(d["cena"][v["klyuch"]] for v in s_cenoj)
     potolok = 2000
+
+    # Две разные таблицы на два разных вопроса. Первая редакция знала
+    # только вторую и звала её «за свои деньги» — а это был всего лишь
+    # список лучших из дешёвых, что не одно и то же.
+    est_ball = lambda k: bool(d["kritiki"][k])
+    m = modelirovat_cenu(d, lambda k: max(d["kritiki"][k]), est_ball)
+    if m:
+        ostatok = {v["klyuch"]: max(d["kritiki"][v["klyuch"]])
+                   - m["ozhidanie"](d["cena"][v["klyuch"]])
+                   for v in s_cenoj if est_ball(v["klyuch"])}
+        pech("\n## Лучше, чем за них просят\n")
+        pech("Здесь не «дёшево и хорошо», а «дороже своей цены». Цена "
+             "переводится в ожидаемый балл, и вино оценивается превышением "
+             "над ожиданием. Ожидание плоское: удвоение цены обещает всего "
+             "%.1f балла, связь слабая (коэффициент %.2f по %d винам, "
+             "разброс остатка %.1f балла). Это и есть главный вывод: "
+             "**в Сербии цена почти не предсказывает качество**, и покупать "
+             "по ценнику здесь бессмысленнее, чем где-либо.\n"
+             % (m["naklon"] * math.log(2), m["svyaz"], m["vin"], m["razbros"]))
+        pech("| Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |")
+        pech("|---|---|---|---|---|---|")
+        s_ostatkom = lambda v: "| %s | %+.1f | %s" % (
+            "%s · %s" % (v["hozyaistvo"], v["vino"]), ostatok[v["klyuch"]],
+            stroka_vina(d, v, cena=True).split(" | ", 1)[1])
+        for v in spisok(d, [v for v in s_cenoj if v["klyuch"] in ostatok],
+                        ostatok.get, lambda k: k in ostatok, skolko=10):
+            pech(s_ostatkom(v))
+        pech("\nХвост того же ряда — вино, которое просит больше, чем даёт:\n")
+        pech("| Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |")
+        pech("|---|---|---|---|---|---|")
+        for k in sorted(ostatok, key=ostatok.get)[:5]:
+            pech(s_ostatkom(next(x for x in s_cenoj if x["klyuch"] == k)))
+
     dostupnye = [v for v in s_cenoj if d["cena"][v["klyuch"]] <= potolok]
-    pech("\n## За свои деньги: десятка до %d динаров\n" % potolok)
-    pech("Цена известна у %d вин из отобранных, медиана %.0f динаров. "
-         "Связь цены с баллом критика слабая — коэффициент 0,27, и удвоение "
-         "цены даёт всего балл, — поэтому список осмыслен: дорогое здесь "
-         "не значит лучшее.\n" % (len(s_cenoj), statistics.median(ceny)))
+    pech("\n## Если в кармане %d динаров\n" % potolok)
+    pech("Другой вопрос и другой ответ: не «что выгодно», а «что взять "
+         "сегодня». Цена известна у %d отобранных вин, медиана %.0f динаров.\n"
+         % (len(s_cenoj), statistics.median(ceny)))
     pech(shapka(cena=True))
     for v in spisok(d, dostupnye, lambda k: kachestvo(d, k), lambda k: True, skolko=10):
         pech(stroka_vina(d, v, cena=True))
@@ -262,9 +323,9 @@ def po_strane(d, pech):
                          if v["klyuch"] in d["cena"]
                          and d["cena"][v["klyuch"]] <= potolok
                          and est_vivino(d, v["klyuch"])]
-    pech("\n## За свои деньги, по мнению покупателей\n")
+    pech("\n## То же, по мнению покупателей\n")
     pech("Тот же потолок, но ряд строит выборка Vivino. Ряд нужен отдельно: "
-         "дешёвое вино на конкурс возят редко, и предыдущая таблица молчит "
+         "дешёвое вино на конкурс возят редко, и таблица выше молчит "
          "как раз о самых ходовых бутылках.\n")
     pech(shapka(cena=True))
     for v in spisok(d, narodnye_deshevye, lambda k: d["vivino"][k]["ball"],

@@ -98,6 +98,8 @@ def vivino_iz_api():
             "ocenka": z.get("ocenka"),
             "chislo_ocenok": z.get("chislo_ocenok"),
             "etiketok": z.get("etiketok"),
+            # Цвет: у Vivino это поле карточки, и оно полнее всех прочих.
+            "vid": z.get("vid"),
             "stranica": ("w/%s" % z["id_vina"]) if z.get("id_vina") else "",
             "id_vina": z.get("id_vina"),
             "iz_api": True,
@@ -751,6 +753,36 @@ def main():
             v["vinogorje"] = mesto.get("vinogorje")
             v["rejon_istochnik"] = "hozyaistvo" if mesto.get("rejon") else ""
 
+    # Цвет источники пишут по-разному и не всегда: у Vivino это поле
+    # каталога («красное», «белое», «розе»), у конкурсов — колонка
+    # «colour», куда рядом с цветом попадают сладость и стиль («semi
+    # dry», «organic»). Сводится голосованием, и голос Vivino весит
+    # больше: у него это карточка товара, а у конкурса — графа заявки,
+    # которую заполняет сам производитель.
+    CVET_ISTOCHNIKA = {
+        "red": "красное", "white": "белое", "rose": "розе", "rosé": "розе",
+        "orange": "оранж", "sparkling": "игристое", "dessert": "десертное",
+        "sweet": "десертное", "красное": "красное", "белое": "белое",
+        "розе": "розе", "игристое": "игристое", "десертное": "десертное",
+        "креплёное": "креплёное",
+    }
+
+    def postavit_cvet(vina, izmereniya):
+        """Проставить винам цвет по всем источникам сразу."""
+        golosa = collections.defaultdict(collections.Counter)
+        for z in vivino:
+            svoj = CVET_ISTOCHNIKA.get((z.get("vid") or "").strip().lower())
+            if svoj:
+                golosa[klyuch_vina(z["hozyaistvo"], z["vino"],
+                                   snimat_povtor=False)][svoj] += 3
+        for z in izmereniya:
+            svoj = CVET_ISTOCHNIKA.get((z.get("cvet") or "").strip().lower())
+            if svoj and z.get("vino"):
+                golosa[klyuch_vina(z["hozyaistvo"], z["vino"])][svoj] += 1
+        for v in vina:
+            svoi = golosa.get(v["klyuch"])
+            v["cvet"] = svoi.most_common(1)[0][0] if svoi else ""
+
 
     def nazvano_v_knige(vina):
         """Пометить вина, названные в книге. Вторым проходом, по готовому
@@ -971,6 +1003,7 @@ def main():
     vina = sorted(vidano.values(), key=lambda z: (z["hozyaistvo"], z["vino"]))
     nazvano_v_knige(vina)
     postavit_rejon_vina(vina, nagrady_syrye + kritiki)
+    postavit_cvet(vina, nagrady_syrye + kritiki)
 
     # ---------------- оценки, длинный вид ----------------
     ocenki = []

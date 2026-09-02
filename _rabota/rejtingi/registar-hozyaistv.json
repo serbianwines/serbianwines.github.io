@@ -294,6 +294,31 @@
    "mesto": "Donja Zleginja, Rasinski okrug",
    "zamechanie": ""
   },
+  "braca-rajkovic": {
+   "hozyaistvo": "Braća Rajković",
+   "sovpalo": [
+    {
+     "reg_nomer": "4204",
+     "nazvanie": "Aleksandar Rajković preduzetnik, proizvodno trgovinska radnja \"PORODIČNI PODRUM RAJKOVIĆ\", Gornja Zleginja",
+     "naselje": "Gornja Zleginja",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "5878",
+     "nazvanie": "Aleksandar Rajković PR radnja za proizvodnju vina \"Vinarija A. Rajković\", Gornja Zleginja",
+     "naselje": "Gornja Zleginja",
+     "okrug": "Rasinski"
+    },
+    {
+     "reg_nomer": "8",
+     "nazvanie": "MILUNKA RAJKOVIĆ PR VINARIJA RAJKOVIĆ WINE OFFICE NOVACI",
+     "naselje": "Novaci",
+     "okrug": "Rasinski"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "записей регистра несколько, и места разные"
+  },
   "breg": {
    "hozyaistvo": "Breg",
    "sovpalo": [
@@ -482,19 +507,6 @@
    "mesto": "Lipovac, Šumadijski okrug",
    "zamechanie": ""
   },
-  "draskovic": {
-   "hozyaistvo": "Drašković",
-   "sovpalo": [
-    {
-     "reg_nomer": "700",
-     "nazvanie": "SWISS WINE DOO BEOGRAD (SAVSKI VENAC) OGRANAK VINOGRADARSTVO I INDUSTRIJA VINA VINARIJA DRAŠKOVIĆ",
-     "naselje": "Vršac",
-     "okrug": "Južnobanatski"
-    }
-   ],
-   "mesto": "Vršac, Južnobanatski okrug",
-   "zamechanie": ""
-  },
   "dukay": {
    "hozyaistvo": "Dukay",
    "sovpalo": [
@@ -534,6 +546,19 @@
    "mesto": "Knjaževac, Zaječarski okrug",
    "zamechanie": ""
   },
+  "eden": {
+   "hozyaistvo": "Eden",
+   "sovpalo": [
+    {
+     "reg_nomer": "5135",
+     "nazvanie": "VINARIJA EDEN DOO",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "адрес столичный (Novi Beograd) — это контора, не виноградник"
+  },
   "erdevik": {
    "hozyaistvo": "Erdevik",
    "sovpalo": [
@@ -557,6 +582,19 @@
     }
    ],
    "mesto": "Erdevik, Sremski okrug",
+   "zamechanie": ""
+  },
+  "fragaria": {
+   "hozyaistvo": "Fragaria",
+   "sovpalo": [
+    {
+     "reg_nomer": "5602",
+     "nazvanie": "Slobodan Vujić PR VINARIJA BOUTIQUE VINARIJA FRAGARIA Drenča",
+     "naselje": "Drenča",
+     "okrug": "Rasinski"
+    }
+   ],
+   "mesto": "Drenča, Rasinski okrug",
    "zamechanie": ""
   },
   "francuska-estelle-et-cyrille-bongiraud": {
@@ -687,6 +725,19 @@
    ],
    "mesto": "",
    "zamechanie": "записей регистра несколько, и места разные"
+  },
+  "janko": {
+   "hozyaistvo": "Janko",
+   "sovpalo": [
+    {
+     "reg_nomer": "17",
+     "nazvanie": "Dragan Vasić PR radnja za proizvodnju grožđa i vina Janko Smederevo",
+     "naselje": "Smederevo",
+     "okrug": "Podunavski"
+    }
+   ],
+   "mesto": "Smederevo, Podunavski okrug",
+   "zamechanie": ""
   },
   "jelena-munizaba-radnja-za-proizvodnju-grozda-i-turizam-i-ugostiteljstvo": {
    "hozyaistvo": "Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo.",
@@ -836,6 +887,19 @@
    "mesto": "Lipovac, Šumadijski okrug",
    "zamechanie": ""
   },
+  "kostic": {
+   "hozyaistvo": "Kostić",
+   "sovpalo": [
+    {
+     "reg_nomer": "4187",
+     "nazvanie": "ZORICA KOSTIĆ PR PROIZVODNJA VINA PORODIČNA VINARIJA KOSTIĆ PROKUPLJE",
+     "naselje": "Prokuplje",
+     "okrug": "Toplički"
+    }
+   ],
+   "mesto": "Prokuplje, Toplički okrug",
+   "zamechanie": ""
+  },
   "kovacevic": {
    "hozyaistvo": "Kovačević",
    "sovpalo": [
@@ -914,6 +978,19 @@
    "mesto": "Inđija, Sremski okrug",
    "zamechanie": ""
   },
+  "lastar": {
+   "hozyaistvo": "Lastar",
+   "sovpalo": [
+    {
+     "reg_nomer": "261",
+     "nazvanie": "Vinarija Lastar DOO Sekurič",
+     "naselje": "Sekurič",
+     "okrug": "Pomoravski"
+    }
+   ],
+   "mesto": "Sekurič, Pomoravski okrug",
+   "zamechanie": ""
+  },
   "legat": {
    "hozyaistvo": "Legat",
    "sovpalo": [
@@ -925,6 +1002,25 @@
     }
    ],
    "mesto": "Banja, Šumadijski okrug",
+   "zamechanie": ""
+  },
+  "bukovo": {
+   "hozyaistvo": "Manastir Bukovo",
+   "sovpalo": [
+    {
+     "reg_nomer": "190",
+     "nazvanie": "Poljoprivredna škola sa domom učenika „Rajko Bosnićˮ Bukovo-Negotin",
+     "naselje": "Negotin",
+     "okrug": "Borski"
+    },
+    {
+     "reg_nomer": "724",
+     "nazvanie": "Vinarija manastira Bukovo DOO Negotin",
+     "naselje": "Negotin",
+     "okrug": "Borski"
+    }
+   ],
+   "mesto": "Negotin, Borski okrug",
    "zamechanie": ""
   },
   "manufaktura-spasic": {
@@ -1010,7 +1106,7 @@
    "zamechanie": ""
   },
   "matijasevic": {
-   "hozyaistvo": "Matijašević",
+   "hozyaistvo": "Matijašević Vinogradi",
    "sovpalo": [
     {
      "reg_nomer": "5636",
@@ -1351,19 +1447,6 @@
    "mesto": "Drenovac, Pomoravski okrug",
    "zamechanie": ""
   },
-  "janko": {
-   "hozyaistvo": "Podrum Janko",
-   "sovpalo": [
-    {
-     "reg_nomer": "17",
-     "nazvanie": "Dragan Vasić PR radnja za proizvodnju grožđa i vina Janko Smederevo",
-     "naselje": "Smederevo",
-     "okrug": "Podunavski"
-    }
-   ],
-   "mesto": "Smederevo, Podunavski okrug",
-   "zamechanie": ""
-  },
   "jovanovic": {
    "hozyaistvo": "Podrum Jovanovic",
    "sovpalo": [
@@ -1665,6 +1748,19 @@
    "mesto": "Miličinica, Kolubarski okrug",
    "zamechanie": ""
   },
+  "pusula": {
+   "hozyaistvo": "Pusula Winery",
+   "sovpalo": [
+    {
+     "reg_nomer": "24",
+     "nazvanie": "ASTRA ITB DOO Beograd",
+     "naselje": "Novi Beograd",
+     "okrug": "Beograd"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "адрес столичный (Novi Beograd) — это контора, не виноградник"
+  },
   "radosavljevic": {
    "hozyaistvo": "Radosavljevic",
    "sovpalo": [
@@ -1792,6 +1888,19 @@
     }
    ],
    "mesto": "Glavica, Pomoravski okrug",
+   "zamechanie": ""
+  },
+  "rnjak": {
+   "hozyaistvo": "Rnjak",
+   "sovpalo": [
+    {
+     "reg_nomer": "4109",
+     "nazvanie": "LJILJANA RNJAK PR PROIZVODNJA VINA „VINARIJA RNJAKˮ GUDURICA",
+     "naselje": "Gudurica",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "mesto": "Gudurica, Južnobanatski okrug",
    "zamechanie": ""
   },
   "rubin": {
@@ -2047,19 +2156,6 @@
    "mesto": "Vraneši, Raški okrug",
    "zamechanie": ""
   },
-  "rnjak": {
-   "hozyaistvo": "VINARIJA RNJAK",
-   "sovpalo": [
-    {
-     "reg_nomer": "4109",
-     "nazvanie": "LJILJANA RNJAK PR PROIZVODNJA VINA „VINARIJA RNJAKˮ GUDURICA",
-     "naselje": "Gudurica",
-     "okrug": "Južnobanatski"
-    }
-   ],
-   "mesto": "Gudurica, Južnobanatski okrug",
-   "zamechanie": ""
-  },
   "stankovic": {
    "hozyaistvo": "VINARIJA STANKOVIĆ",
    "sovpalo": [
@@ -2123,6 +2219,19 @@
     }
    ],
    "mesto": "Medveđa, Rasinski okrug",
+   "zamechanie": ""
+  },
+  "frunza-aglaja": {
+   "hozyaistvo": "Vimmid",
+   "sovpalo": [
+    {
+     "reg_nomer": "84",
+     "nazvanie": "VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO",
+     "naselje": "Karbulovo",
+     "okrug": "Borski"
+    }
+   ],
+   "mesto": "Karbulovo, Borski okrug",
    "zamechanie": ""
   },
   "jelenkovic": {
@@ -2417,6 +2526,19 @@
    "mesto": "Sremski Karlovci, Južnobački okrug",
    "zamechanie": ""
   },
+  "draskovic": {
+   "hozyaistvo": "Vinarija Drašković",
+   "sovpalo": [
+    {
+     "reg_nomer": "700",
+     "nazvanie": "SWISS WINE DOO BEOGRAD (SAVSKI VENAC) OGRANAK VINOGRADARSTVO I INDUSTRIJA VINA VINARIJA DRAŠKOVIĆ",
+     "naselje": "Vršac",
+     "okrug": "Južnobanatski"
+    }
+   ],
+   "mesto": "Vršac, Južnobanatski okrug",
+   "zamechanie": ""
+  },
   "dumo": {
    "hozyaistvo": "Vinarija Dumo",
    "sovpalo": [
@@ -2429,19 +2551,6 @@
    ],
    "mesto": "Rakovac, Južnobački okrug",
    "zamechanie": ""
-  },
-  "eden": {
-   "hozyaistvo": "Vinarija Eden",
-   "sovpalo": [
-    {
-     "reg_nomer": "5135",
-     "nazvanie": "VINARIJA EDEN DOO",
-     "naselje": "Novi Beograd",
-     "okrug": "Beograd"
-    }
-   ],
-   "mesto": "",
-   "zamechanie": "адрес столичный (Novi Beograd) — это контора, не виноградник"
   },
   "fleur-doranger": {
    "hozyaistvo": "Vinarija Fleur D'Oranger",
@@ -2456,19 +2565,6 @@
    "mesto": "Novi Sad, Južnobački okrug",
    "zamechanie": ""
   },
-  "fragaria": {
-   "hozyaistvo": "Vinarija Fragaria",
-   "sovpalo": [
-    {
-     "reg_nomer": "5602",
-     "nazvanie": "Slobodan Vujić PR VINARIJA BOUTIQUE VINARIJA FRAGARIA Drenča",
-     "naselje": "Drenča",
-     "okrug": "Rasinski"
-    }
-   ],
-   "mesto": "Drenča, Rasinski okrug",
-   "zamechanie": ""
-  },
   "frug": {
    "hozyaistvo": "Vinarija Frug",
    "sovpalo": [
@@ -2480,19 +2576,6 @@
     }
    ],
    "mesto": "Sremski Karlovci, Južnobački okrug",
-   "zamechanie": ""
-  },
-  "frunza-aglaja": {
-   "hozyaistvo": "Vinarija Frunza Aglaja",
-   "sovpalo": [
-    {
-     "reg_nomer": "84",
-     "nazvanie": "VLADIMIR FRUNZARELOVIĆ PR VINARIJA FRUNZA AGLAJA KARBULOVO",
-     "naselje": "Karbulovo",
-     "okrug": "Borski"
-    }
-   ],
-   "mesto": "Karbulovo, Borski okrug",
    "zamechanie": ""
   },
   "gnezdo": {
@@ -2629,19 +2712,6 @@
     }
    ],
    "mesto": "Novi Kozjak, Južnobanatski okrug",
-   "zamechanie": ""
-  },
-  "lastar": {
-   "hozyaistvo": "Vinarija Lastar",
-   "sovpalo": [
-    {
-     "reg_nomer": "261",
-     "nazvanie": "Vinarija Lastar DOO Sekurič",
-     "naselje": "Sekurič",
-     "okrug": "Pomoravski"
-    }
-   ],
-   "mesto": "Sekurič, Pomoravski okrug",
    "zamechanie": ""
   },
   "levac": {
@@ -2799,6 +2869,19 @@
     {
      "reg_nomer": "5427",
      "nazvanie": "„VINARIJA NOVAK\" DOO Beograd-Zemun",
+     "naselje": "Zemun",
+     "okrug": "Beograd"
+    }
+   ],
+   "mesto": "",
+   "zamechanie": "адрес столичный (Zemun) — это контора, не виноградник"
+  },
+  "pirg": {
+   "hozyaistvo": "Vinarija PIRG",
+   "sovpalo": [
+    {
+     "reg_nomer": "5821",
+     "nazvanie": "PREDUZEĆE ZA UVOZ IZVOZ I USLUGE \"TREF LINE\" DOO BEOGRAD (ZEMUN)",
      "naselje": "Zemun",
      "okrug": "Beograd"
     }
@@ -3657,6 +3740,19 @@
    "mesto": "Viteževo, Braničevski okrug",
    "zamechanie": ""
   },
+  "vista-hill": {
+   "hozyaistvo": "Vista Hill",
+   "sovpalo": [
+    {
+     "reg_nomer": "5698",
+     "nazvanie": "Privredno društvo \"VISTA HILLS PLUS\" DOO Šid",
+     "naselje": "Šid",
+     "okrug": "Sremski"
+    }
+   ],
+   "mesto": "Šid, Sremski okrug",
+   "zamechanie": ""
+  },
   "vladavina": {
    "hozyaistvo": "Vladavina",
    "sovpalo": [
@@ -3925,7 +4021,7 @@
    "mesto": "Tržac, Rasinski okrug",
    "zamechanie": ""
   },
-  "винари-а-короли-а": {
+  "korolija": {
    "hozyaistvo": "Винарија Королија",
    "sovpalo": [
     {
@@ -3936,19 +4032,6 @@
     }
    ],
    "mesto": "Tamnič, Borski okrug",
-   "zamechanie": ""
-  },
-  "винари-а-манастира-студеница": {
-   "hozyaistvo": "Винарија Манастира Студеница",
-   "sovpalo": [
-    {
-     "reg_nomer": "4055",
-     "nazvanie": "VINARIJA MANASTIRA STUDENICA, DOO Aleksandrovac",
-     "naselje": "Aleksandrovac",
-     "okrug": "Rasinski"
-    }
-   ],
-   "mesto": "Aleksandrovac, Rasinski okrug",
    "zamechanie": ""
   },
   "stupovi": {
@@ -3996,7 +4079,7 @@
    "mesto": "",
    "zamechanie": "записей регистра несколько, и места разные"
   },
-  "дика-винари-а": {
+  "dika": {
    "hozyaistvo": "Дика Винарија",
    "sovpalo": [
     {
@@ -4033,19 +4116,6 @@
     }
    ],
    "mesto": "Vele Polje, Nišavski okrug",
-   "zamechanie": ""
-  },
-  "kostic": {
-   "hozyaistvo": "Костић (Kostić)",
-   "sovpalo": [
-    {
-     "reg_nomer": "4187",
-     "nazvanie": "ZORICA KOSTIĆ PR PROIZVODNJA VINA PORODIČNA VINARIJA KOSTIĆ PROKUPLJE",
-     "naselje": "Prokuplje",
-     "okrug": "Toplički"
-    }
-   ],
-   "mesto": "Prokuplje, Toplički okrug",
    "zamechanie": ""
   },
   "royal": {
@@ -4085,6 +4155,19 @@
     }
    ],
    "mesto": "Gornja Zleginja, Rasinski okrug",
+   "zamechanie": ""
+  },
+  "studenica": {
+   "hozyaistvo": "Манастир Студеница (Manastir Studenica)",
+   "sovpalo": [
+    {
+     "reg_nomer": "4055",
+     "nazvanie": "VINARIJA MANASTIRA STUDENICA, DOO Aleksandrovac",
+     "naselje": "Aleksandrovac",
+     "okrug": "Rasinski"
+    }
+   ],
+   "mesto": "Aleksandrovac, Rasinski okrug",
    "zamechanie": ""
   },
   "milica": {
@@ -4143,7 +4226,7 @@
    "mesto": "",
    "zamechanie": "записей регистра несколько, и места разные"
   },
-  "подрум-вина-лазареви": {
+  "lazarevic": {
    "hozyaistvo": "Подрум Вина Лазаревић",
    "sovpalo": [
     {
@@ -4154,19 +4237,6 @@
     }
    ],
    "mesto": "Aleksandrovac, Rasinski okrug",
-   "zamechanie": ""
-  },
-  "подрум-мило-еви": {
-   "hozyaistvo": "Подрум Милојевић",
-   "sovpalo": [
-    {
-     "reg_nomer": "4080",
-     "nazvanie": "VLADIMIR PETKOSKI PR PROIZVODNJA VINA VINARIJA PODRUM MILOJEVIĆ ZEOKE",
-     "naselje": "Zeoke",
-     "okrug": "Beograd"
-    }
-   ],
-   "mesto": "Zeoke, Beograd okrug",
    "zamechanie": ""
   },
   "raskovic": {

@@ -12,6 +12,7 @@
 Код возврата 0 — чисто, 1 — есть замечания.
 """
 
+import collections
 import json
 import os
 import sys
@@ -193,6 +194,26 @@ def main():
               "с баллом 90 и выше %d"
               % (", ".join(sorted(k_chuzhim)), len(ih_vina),
                  sum(1 for v in ih_vina if v["klyuch"] in prohodyat)))
+    # Хозяйство без места, о котором говорит один-единственный конкурс, —
+    # это или новичок, или чужой виноград под сербским разливщиком. Так
+    # нашёлся AURUS: сербским его записал AWC, а лоза у него в Тиквешу.
+    ist_hoz = collections.defaultdict(set)
+    for z in ocenki + nagrady:
+        ist_hoz[z["hozyaistvo"]].add(z["istochnik"])
+    # Записи, о которых уже известно, что они не хозяйства (сорт в поле
+    # производителя и тому подобное), в список не идут.
+    ne_hozyaistva = set()
+    put_sin = os.path.join(RYADOM, "sinonimy-hozyaistv.json")
+    if os.path.exists(put_sin):
+        ne_hozyaistva = set(json.load(open(put_sin, encoding="utf-8"))
+                            .get("ne_privyazano", {}))
+    odinochki = sorted(h["hozyaistvo"] for h in hozyaistva
+                       if not h.get("rejon") and len(ist_hoz[h["hozyaistvo"]]) == 1
+                       and ist_hoz[h["hozyaistvo"]] != {"vivino"}
+                       and h["hozyaistvo"] not in ne_hozyaistva)
+    if odinochki:
+        print("   без места, и говорит о них один источник: %d — %s"
+              % (len(odinochki), ", ".join(odinochki)))
     primery = ", ".join(h["hozyaistvo"] for h in bez_raiona[:8])
     print("   хозяйств без района книги: %d из %d%s"
           % (len(bez_raiona), len(hozyaistva),

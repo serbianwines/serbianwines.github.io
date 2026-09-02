@@ -152,7 +152,12 @@ def main():
 
     itog, schet = {}, collections.Counter()
     for h in hozyaistva:
-        trebovaniya = [znachimye(v) for v in napisaniya(h["hozyaistvo"])]
+        # Искать по всем написаниям, а не только по каноническому: под
+        # каким именем хозяйство стоит в регистре, заранее не известно,
+        # а канонизация выбирает одно из многих и может выбрать другое.
+        trebovaniya = [znachimye(v) for imya in (h.get("imena")
+                                                 or [h["hozyaistvo"]])
+                       for v in napisaniya(imya)]
         trebovaniya = [t for t in trebovaniya if t]
         if not trebovaniya:
             schet["имя из одних служебных слов"] += 1

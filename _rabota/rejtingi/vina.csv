@@ -1122,29 +1122,29 @@ mali-stamenkovic-traminer,Mali Podrum Stamenković,Traminer,6877705,https://www.
 mali-sareni-merlot-cabernet-franc,Mali Šareni Podrum,Merlot - Cabernet Franc,11305827,https://www.vivino.com/w/11305827,malo_ocenok,2,False,False,,,
 mali-sareni-rose,Mali Šareni Podrum,Rosé,11305733,https://www.vivino.com/w/11305733,malo_ocenok,3,False,False,,,
 mali-sareni-sauvignon-blanc,Mali Šareni Podrum,Sauvignon Blanc,11305840,https://www.vivino.com/w/11305840,malo_ocenok,1,False,False,,,
-bukovo-black-tamjanika,Manastir Bukovo,Black Tamjanika,,,net_na_vivino,,False,True,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-cabernet-sauvignon,Manastir Bukovo,Cabernet Sauvignon,,,net_na_vivino,,False,True,Rejon Negotinska Krajina,,hozyaistvo
+bukovo-black-tamjanika,Manastir Bukovo,Black Tamjanika,,,net_na_vivino,,False,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-cabernet-sauvignon,Manastir Bukovo,Cabernet Sauvignon,,,net_na_vivino,,False,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
 bukovo-chardonnay,Manastir Bukovo,Chardonnay,5652750,https://www.vivino.com/w/5652750,ocenka_est,404,False,True,Rejon Negotinska Krajina,,konkurs
-bukovo-chardonnay-oaked,Manastir Bukovo,Chardonnay Oaked,,,net_na_vivino,,False,True,Rejon Negotinska Krajina,,hozyaistvo
+bukovo-chardonnay-oaked,Manastir Bukovo,Chardonnay Oaked,,,net_na_vivino,,False,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
 bukovo-filigran-cabernet-sauvignon,Manastir Bukovo,Filigran Cabernet Sauvignon,5938011,https://www.vivino.com/w/5938011,ocenka_est,1274,True,True,Rejon Negotinska Krajina,,konkurs
 bukovo-filigran-chardonnay,Manastir Bukovo,Filigran Chardonnay,8834725,https://www.vivino.com/w/8834725,malo_ocenok,99,True,True,Rejon Negotinska Krajina,,konkurs
-bukovo-filigran-gamay,Manastir Bukovo,Filigran Gamay,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-filigran-gamay-filigran-game,Manastir Bukovo,Filigran Gamay (Филигран Гаме),7063908,https://www.vivino.com/w/7063908,ocenka_est,286,True,False,Rejon Negotinska Krajina,,hozyaistvo
+bukovo-filigran-gamay,Manastir Bukovo,Filigran Gamay,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-filigran-gamay-filigran-game,Manastir Bukovo,Filigran Gamay (Филигран Гаме),7063908,https://www.vivino.com/w/7063908,ocenka_est,286,True,False,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
 bukovo-filigran-merlot,Manastir Bukovo,Filigran Merlot,6762662,https://www.vivino.com/w/6762662,ocenka_est,212,True,True,Rejon Negotinska Krajina,,konkurs
 bukovo-filigran-pinot-noir,Manastir Bukovo,Filigran Pinot Noir,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,,konkurs
-bukovo-filigran-reserve-cabernet-sauvignon,Manastir Bukovo,Filigran Reserve Cabernet Sauvignon,11748399,https://www.vivino.com/w/11748399,malo_ocenok,17,True,True,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-filigran-reserve-gamay,Manastir Bukovo,Filigran Reserve Gamay,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-filigran-reserve-merlot,Manastir Bukovo,Filigran Reserve Merlot,11748435,https://www.vivino.com/w/11748435,ocenka_est,132,True,True,Rejon Negotinska Krajina,,hozyaistvo
+bukovo-filigran-reserve-cabernet-sauvignon,Manastir Bukovo,Filigran Reserve Cabernet Sauvignon,11748399,https://www.vivino.com/w/11748399,malo_ocenok,17,True,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-filigran-reserve-gamay,Manastir Bukovo,Filigran Reserve Gamay,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-filigran-reserve-merlot,Manastir Bukovo,Filigran Reserve Merlot,11748435,https://www.vivino.com/w/11748435,ocenka_est,132,True,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
 bukovo-filigran-roze,Manastir Bukovo,Filigran Roze,7282497,https://www.vivino.com/w/7282497,malo_ocenok,98,True,True,Rejon Negotinska Krajina,,konkurs
 bukovo-filigran-game,Manastir Bukovo,Filigran Гаме,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,,konkurs
 bukovo-filigran-crna-tamjanika,Manastir Bukovo,Filigran Црна Тамјаника,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,,konkurs
 bukovo-merlot,Manastir Bukovo,Merlot,,,net_na_vivino,,False,True,Rejon Negotinska Krajina,,konkurs
-bukovo-bela-rec-tamjanika-white-word-tamjanika,Manastir Bukovo,Бела Реч Тамјаника (White Word Tamjanika),9933001,https://www.vivino.com/w/9933001,malo_ocenok,100,False,False,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-vez,Manastir Bukovo,Вез,11007711,https://www.vivino.com/w/11007711,ocenka_est,171,False,True,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-slatko-vino-za-sveto-pricesce-sweet-wine-for-holy-communion,Manastir Bukovo,Слатко вино за свето причешће (Sweet wine for Holy Communion),8834732,https://www.vivino.com/w/8834732,malo_ocenok,,False,False,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-filigran-game-filigran-gamay-reserve,Manastir Bukovo,Филигран Гаме (Filigran Gamay) Reserve,11748411,https://www.vivino.com/w/11748411,malo_ocenok,24,True,False,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-filigran-crna-tamjanika-filigree-crna-tamjanika,Manastir Bukovo,Филигран Црна Тамјаника (Filigree Crna Tamjanika),6106369,https://www.vivino.com/w/6106369,ocenka_est,1226,True,False,Rejon Negotinska Krajina,,hozyaistvo
-bukovo-filigran-sardone-muscat-ottonel-filigran-chardonnay-muscat-ottonel,Manastir Bukovo,Филигран Шардоне - Мусцат Оттонел (Filigran Chardonnay - Muscat Ottonel),8120191,https://www.vivino.com/w/8120191,malo_ocenok,196,True,False,Rejon Negotinska Krajina,,hozyaistvo
+bukovo-bela-rec-tamjanika-white-word-tamjanika,Manastir Bukovo,Бела Реч Тамјаника (White Word Tamjanika),9933001,https://www.vivino.com/w/9933001,malo_ocenok,100,False,False,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-vez,Manastir Bukovo,Вез,11007711,https://www.vivino.com/w/11007711,ocenka_est,171,False,True,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-slatko-vino-za-sveto-pricesce-sweet-wine-for-holy-communion,Manastir Bukovo,Слатко вино за свето причешће (Sweet wine for Holy Communion),8834732,https://www.vivino.com/w/8834732,malo_ocenok,,False,False,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-filigran-game-filigran-gamay-reserve,Manastir Bukovo,Филигран Гаме (Filigran Gamay) Reserve,11748411,https://www.vivino.com/w/11748411,malo_ocenok,24,True,False,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-filigran-crna-tamjanika-filigree-crna-tamjanika,Manastir Bukovo,Филигран Црна Тамјаника (Filigree Crna Tamjanika),6106369,https://www.vivino.com/w/6106369,ocenka_est,1226,True,False,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
+bukovo-filigran-sardone-muscat-ottonel-filigran-chardonnay-muscat-ottonel,Manastir Bukovo,Филигран Шардоне - Мусцат Оттонел (Filigran Chardonnay - Muscat Ottonel),8120191,https://www.vivino.com/w/8120191,malo_ocenok,196,True,False,Rejon Negotinska Krajina,Negotinsko vinogorje,hozyaistvo
 manufaktura-spasic-di-levo,Manufaktura Spasić,Di Levo,12756613,https://www.vivino.com/w/12756613,malo_ocenok,4,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 manufaktura-spasic-krivac,Manufaktura Spasić,Krivac,6844796,https://www.vivino.com/w/6844796,ocenka_est,57,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs
 manufaktura-spasic-oroz,Manufaktura Spasić,Oroz,13327571,https://www.vivino.com/w/13327571,malo_ocenok,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
@@ -2661,6 +2661,9 @@ milicevic-rose,Vinarija Milićević,rose,,,net_na_vivino,,False,True,Beogradski 
 milojevic-giletou-beli-front,Vinarija Milojević,Giletou Beli Front,9353018,https://www.vivino.com/w/9353018,malo_ocenok,15,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
 milojevic-giletou-chardonnay,Vinarija Milojević,Giletou Chardonnay,11289997,https://www.vivino.com/w/11289997,malo_ocenok,10,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
 milojevic-giletou-crni-front,Vinarija Milojević,Giletou Crni Front,9434301,https://www.vivino.com/w/9434301,malo_ocenok,8,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
+milojevic-vidik-kaberne-sovinon-selekcija-vidik-cabernet-sauvignon-selection,Vinarija Milojević,Видик Каберне Совиньон Селекцийа (Vidik Cabernet Sauvignon Selection),13253314,https://www.vivino.com/w/13253314,malo_ocenok,4,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
+milojevic-lana-sardone-chardonnay,Vinarija Milojević,Лана Шардоне (Chardonnay),11420466,https://www.vivino.com/w/11420466,malo_ocenok,6,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
+milojevic-mcma-roze-mima-rose,Vinarija Milojević,Мцма Розе (Mima Rose),10799264,https://www.vivino.com/w/10799264,malo_ocenok,10,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
 milovanovic-cabernet-sauvignon-merlot,Vinarija Milovanovic,Cabernet Sauvignon - Merlot,9694997,https://www.vivino.com/w/9694997,malo_ocenok,20,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 milovanovic-koliba-cabernet-sauvignon,Vinarija Milovanovic,Koliba Cabernet Sauvignon,2417239,https://www.vivino.com/w/2417239,malo_ocenok,112,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 milovanovic-koliba-riesling,Vinarija Milovanovic,Koliba Riesling,11736344,https://www.vivino.com/w/11736344,malo_ocenok,17,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
@@ -3400,9 +3403,8 @@ zivkovica-trzac-bela-kap,Винарија Живковића (Vinarija Živkovi�
 zivkovica-trzac-tamjanika,Винарија Живковића (Vinarija Živkovića-Tržac),Tamjanika,6975146,https://www.vivino.com/w/6975146,ocenka_est,110,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 zivkovica-trzac-dobric-prokupac-dobrich-prokupac,Винарија Живковића (Vinarija Živkovića-Tržac),Добрич Прокупац (Dobrich Prokupac),12960787,https://www.vivino.com/w/12960787,malo_ocenok,5,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 zivkovica-trzac-crvena-kap-crvena-kap,Винарија Живковића (Vinarija Živkovića-Tržac),Црвена кап - Crvena kap,7572265,https://www.vivino.com/w/7572265,malo_ocenok,16,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
-винари-а-короли-а-tri-tenora-three-tenors,Винарија Королија,Три Тенора (Three Tenors),10201695,https://www.vivino.com/w/10201695,malo_ocenok,11,False,False,Rejon Negotinska Krajina,Rogljevačko-rajačko vinogorje,hozyaistvo
-винари-а-манастира-студеница-prokupac-pecat-prokupac-stamp,Винарија Манастира Студеница,Прокупац Печат (Prokupac Stamp ),10450256,https://www.vivino.com/w/10450256,malo_ocenok,20,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
-винари-а-мици-amanet-roze-amanet-rose,Винарија Мицић,Аманет Розе (Amanet Rose),11489318,https://www.vivino.com/w/11489318,malo_ocenok,11,False,False,,,
+korolija-tri-tenora-three-tenors,Винарија Королија,Три Тенора (Three Tenors),10201695,https://www.vivino.com/w/10201695,malo_ocenok,11,False,False,Rejon Negotinska Krajina,Rogljevačko-rajačko vinogorje,hozyaistvo
+micic-amanet-roze-amanet-rose,Винарија Мицић,Аманет Розе (Amanet Rose),11489318,https://www.vivino.com/w/11489318,malo_ocenok,11,False,False,,,
 stupovi-cabernet-sauvignon,Винарија Ступови (Vinarija Stupovi),Cabernet Sauvignon,11652857,https://www.vivino.com/w/11652857,ocenka_est,193,False,True,Čačansko–kraljevački rejon,,hozyaistvo
 stupovi-merlot,Винарија Ступови (Vinarija Stupovi),Merlot,,,net_na_vivino,,False,True,Čačansko–kraljevački rejon,,hozyaistvo
 stupovi-rose,Винарија Ступови (Vinarija Stupovi),Rosé,11955834,https://www.vivino.com/w/11955834,malo_ocenok,130,False,False,Čačansko–kraljevački rejon,,hozyaistvo
@@ -3421,7 +3423,7 @@ grocka-chardonnay-barrique,Виногради Гроцка (Vinogradi Grocka),Ch
 grocka-merlot-barrique,Виногради Гроцка (Vinogradi Grocka),Merlot Barrique,9927403,https://www.vivino.com/w/9927403,malo_ocenok,17,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo
 grocka-rose,Виногради Гроцка (Vinogradi Grocka),Rose,9927653,https://www.vivino.com/w/9927653,malo_ocenok,14,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo
 grocka-sauvignon-blanc,Виногради Гроцка (Vinogradi Grocka),Sauvignon Blanc,10889799,https://www.vivino.com/w/10889799,malo_ocenok,11,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo
-дика-винари-а-tamjanik-tamjanika,Дика Винарија,Тамјаник (Tamjanika),11142321,https://www.vivino.com/w/11142321,malo_ocenok,6,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+dika-tamjanik-tamjanika,Дика Винарија,Тамјаник (Tamjanika),11142321,https://www.vivino.com/w/11142321,malo_ocenok,6,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
 dragic-aurora,Драгић Винарија (Vina Dragic),Aurora,6988795,https://www.vivino.com/w/6988795,ocenka_est,83,False,True,Banatski rejon,,konkurs
 dragic-beli-biser,Драгић Винарија (Vina Dragic),Beli Biser,,,net_na_vivino,,False,True,Subotički rejon,Riđičko vinogorje,konkurs
 dragic-cabernet-franc,Драгић Винарија (Vina Dragic),Cabernet Franc,,,net_na_vivino,,False,False,Subotički rejon,,konkurs
@@ -3448,11 +3450,11 @@ dragic-nemirac-belo-syvo,Драгић Винарија (Vina Dragic),Немир�
 dragic-randes-roze-suvo-randes-rose-dry,Драгић Винарија (Vina Dragic),Рандес Розе Суво (Randes Rose Dry),10550252,https://www.vivino.com/w/10550252,malo_ocenok,30,False,False,Subotički rejon,Riđičko vinogorje,hozyaistvo
 izba-jovanovic-merlot,Изба Јовановић (Izba Jovanovic),Merlot,6381349,https://www.vivino.com/w/6381349,ocenka_est,1438,False,False,Niški rejon,Čegarsko vinogorje,hozyaistvo
 izba-jovanovic-zetva,Изба Јовановић (Izba Jovanovic),Žetva,9110354,https://www.vivino.com/w/9110354,ocenka_est,226,False,False,Niški rejon,Čegarsko vinogorje,hozyaistvo
-козарак-hamburg,Козарак,Hamburg,9665910,https://www.vivino.com/w/9665910,ocenka_est,426,False,False,Leskovački rejon,,hozyaistvo
-козарак-vranac,Козарак,Vranac,11722059,https://www.vivino.com/w/11722059,malo_ocenok,316,False,False,Leskovački rejon,,hozyaistvo
-козарак-risling-riesling,Козарак,Рислинг (Riesling),10133866,https://www.vivino.com/w/10133866,ocenka_est,368,False,False,Leskovački rejon,,hozyaistvo
-козарак-sovinon-sauvignon,Козарак,Совиньон (Sauvignon),11260320,https://www.vivino.com/w/11260320,malo_ocenok,213,False,False,Leskovački rejon,,hozyaistvo
-козарак-tamnjanika-temjanika,Козарак,Тамњаника (Temjanika),11755780,https://www.vivino.com/w/11755780,malo_ocenok,33,False,False,Leskovački rejon,,hozyaistvo
+kozarak-hamburg,Козарак,Hamburg,9665910,https://www.vivino.com/w/9665910,ocenka_est,426,False,False,Leskovački rejon,,hozyaistvo
+kozarak-vranac,Козарак,Vranac,11722059,https://www.vivino.com/w/11722059,malo_ocenok,316,False,False,Leskovački rejon,,hozyaistvo
+kozarak-risling-riesling,Козарак,Рислинг (Riesling),10133866,https://www.vivino.com/w/10133866,ocenka_est,368,False,False,Leskovački rejon,,hozyaistvo
+kozarak-sovinon-sauvignon,Козарак,Совиньон (Sauvignon),11260320,https://www.vivino.com/w/11260320,malo_ocenok,213,False,False,Leskovački rejon,,hozyaistvo
+kozarak-tamnjanika-temjanika,Козарак,Тамњаника (Temjanika),11755780,https://www.vivino.com/w/11755780,malo_ocenok,33,False,False,Leskovački rejon,,hozyaistvo
 royal-cabernet-sauvignon,Краљвеска Винарија (Royal Winery),Cabernet Sauvignon,1861824,https://www.vivino.com/w/1861824,ocenka_est,1113,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo
 royal-chardonnay,Краљвеска Винарија (Royal Winery),Chardonnay,7210003,https://www.vivino.com/w/7210003,malo_ocenok,69,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo
 royal-pinot-blanc,Краљвеска Винарија (Royal Winery),Pinot Blanc,10589598,https://www.vivino.com/w/10589598,ocenka_est,126,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo
@@ -3466,14 +3468,15 @@ mali-gajic-zuti-biser,Мали Подрум Гајић - Mali Podrum Gajić,Žut
 mali-gajic-crveni-vitez-crveni-vite,Мали Подрум Гајић - Mali Podrum Gajić,Црвени Витез (Crveni Vite),10802618,https://www.vivino.com/w/10802618,ocenka_est,90,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 of-licha-merlo-merlot,Манастир Жича (Monastery of Licha),Мерло (Merlot),9609095,https://www.vivino.com/w/9609095,malo_ocenok,17,False,False,,,
 of-licha-muskat-hamburt-muscat-hamburg,Манастир Жича (Monastery of Licha),Мускат Хамбурт (Muscat Hamburg),9394259,https://www.vivino.com/w/9394259,malo_ocenok,19,False,False,,,
-studenica-1186-cabernet-sauvignon,Манастир Студеница (Manastir Studenica),1186 Cabernet Sauvignon,6594771,https://www.vivino.com/w/6594771,ocenka_est,823,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo
+studenica-1186-cabernet-sauvignon,Манастир Студеница (Manastir Studenica),1186 Cabernet Sauvignon,6594771,https://www.vivino.com/w/6594771,ocenka_est,823,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 studenica-bela-rec-tamjanika,Манастир Студеница (Manastir Studenica),Bela Reč Tamjanika,9466549,https://www.vivino.com/w/9466549,ocenka_est,315,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs
-studenica-pecat,Манастир Студеница (Manastir Studenica),Pečat,11373179,https://www.vivino.com/w/11373179,malo_ocenok,3,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo
+studenica-pecat,Манастир Студеница (Manastir Studenica),Pečat,11373179,https://www.vivino.com/w/11373179,malo_ocenok,3,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 studenica-prokupac-1186,Манастир Студеница (Manastir Studenica),Prokupac 1186,10657715,https://www.vivino.com/w/10657715,ocenka_est,94,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs
+studenica-prokupac-pecat-prokupac-stamp,Манастир Студеница (Manastir Studenica),Прокупац Печат (Prokupac Stamp ),10450256,https://www.vivino.com/w/10450256,malo_ocenok,20,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 milica-tamjanika,Милица (Milica),Tamjanika,13939566,https://www.vivino.com/w/13939566,malo_ocenok,7,False,False,,,
-митрови-винари-а-imperijum,Митровиђ Винарија,Imperijum,11827492,https://www.vivino.com/w/11827492,malo_ocenok,65,False,False,Leskovački rejon,,hozyaistvo
-митрови-винари-а-monogram,Митровиђ Винарија,Monogram,12073671,https://www.vivino.com/w/12073671,ocenka_est,99,False,False,Leskovački rejon,,hozyaistvo
-митрови-винари-а-simfonija,Митровиђ Винарија,Simfonija,13452406,https://www.vivino.com/w/13452406,malo_ocenok,1,False,False,Leskovački rejon,,hozyaistvo
+mitrovid-imperijum,Митровиђ Винарија,Imperijum,11827492,https://www.vivino.com/w/11827492,malo_ocenok,65,False,False,Leskovački rejon,,hozyaistvo
+mitrovid-monogram,Митровиђ Винарија,Monogram,12073671,https://www.vivino.com/w/12073671,ocenka_est,99,False,False,Leskovački rejon,,hozyaistvo
+mitrovid-simfonija,Митровиђ Винарија,Simfonija,13452406,https://www.vivino.com/w/13452406,malo_ocenok,1,False,False,Leskovački rejon,,hozyaistvo
 nikolich-neuzinsky-monah-cabernet-franc-merlot,Николић Неyзински (Nikolićh Neuzinsky),Monah Cabernet Franc-Merlot,,,net_na_vivino,,False,True,,,
 nikolich-neuzinsky-santa-maria,Николић Неyзински (Nikolićh Neuzinsky),Santa Maria,,,net_na_vivino,,False,True,,,
 nikolich-neuzinsky-the-secret-code-of-our-terroir,Николић Неyзински (Nikolićh Neuzinsky),The Secret Code of Our Terroir,,,net_na_vivino,,False,True,,,
@@ -3488,11 +3491,8 @@ orlic-family-osvit-belo-vino-osvit-white-wine,Орлић Породична Ви
 patriarchate-bermet,Патријаршија (Patriarchate),Bermet,7381818,https://www.vivino.com/w/7381818,malo_ocenok,68,False,False,,,
 patriarchate-belo-white,Патријаршија (Patriarchate),Бело (White),9643784,https://www.vivino.com/w/9643784,malo_ocenok,40,False,False,,,
 patriarchate-roze-rose,Патријаршија (Patriarchate),Розе (Rose),13609511,https://www.vivino.com/w/13609511,malo_ocenok,,False,False,,,
-подрум-берлин-stena-kaberne-sovinon-merlot-wall-cabernet-sauvignon-merlot,Подрум Берлин,Стена Каберне Совиньон - Мерлот (Wall Cabernet Sauvignon - Merlot),11089842,https://www.vivino.com/w/11089842,malo_ocenok,4,False,False,,,
-подрум-вина-лазареви-triling,Подрум Вина Лазаревић,Triling,12985699,https://www.vivino.com/w/12985699,malo_ocenok,6,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
-подрум-мило-еви-vidik-kaberne-sovinon-selekcija-vidik-cabernet-sauvignon-selection,Подрум Милојевић,Видик Каберне Совиньон Селекцийа (Vidik Cabernet Sauvignon Selection),13253314,https://www.vivino.com/w/13253314,malo_ocenok,4,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
-подрум-мило-еви-lana-sardone-chardonnay,Подрум Милојевић,Лана Шардоне (Chardonnay),11420466,https://www.vivino.com/w/11420466,malo_ocenok,6,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
-подрум-мило-еви-mcma-roze-mima-rose,Подрум Милојевић,Мцма Розе (Mima Rose),10799264,https://www.vivino.com/w/10799264,malo_ocenok,10,False,False,Beogradski rejon,Lazarevačko vinogorje,hozyaistvo
+berlin-stena-kaberne-sovinon-merlot-wall-cabernet-sauvignon-merlot,Подрум Берлин,Стена Каберне Совиньон - Мерлот (Wall Cabernet Sauvignon - Merlot),11089842,https://www.vivino.com/w/11089842,malo_ocenok,4,False,False,,,
+lazarevic-triling,Подрум Вина Лазаревић,Triling,12985699,https://www.vivino.com/w/12985699,malo_ocenok,6,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 raskovic-megdan,Подрум вина Рашковић - (Rašković Winery),Megdan,7819803,https://www.vivino.com/w/7819803,ocenka_est,196,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 raskovic-merlot-rose,Подрум вина Рашковић - (Rašković Winery),Merlot Rosé,6623805,https://www.vivino.com/w/6623805,malo_ocenok,52,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 raskovic-tamjanika,Подрум вина Рашковић - (Rašković Winery),Tamjanika,7626443,https://www.vivino.com/w/7626443,ocenka_est,130,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
@@ -3519,7 +3519,7 @@ trilogija-pecam-merlot-barrique,Трилогия Винария - Vinarija Trilo
 fenek-fenecki-merlo-fenechki-merlot,Фенек (Fenek Monastery),Фенечки Мерло (Fenechki Merlot),13623104,https://www.vivino.com/w/13623104,malo_ocenok,54,False,False,Beogradski rejon,,hozyaistvo
 fenek-fenecki-pino-nuar-fenechka-pinot-noir,Фенек (Fenek Monastery),Фенечки Пино Нуар (Fenechka Pinot Noir),12949889,https://www.vivino.com/w/12949889,malo_ocenok,25,False,False,Beogradski rejon,,hozyaistvo
 fenek-fenecki-prokupac-phoenician-prokupac,Фенек (Fenek Monastery),Фенечки Прокупац (Phoenician Prokupac),13450734,https://www.vivino.com/w/13450734,malo_ocenok,30,False,False,Beogradski rejon,,hozyaistvo
-фенечко-вино-pinot-noir,Фенечко Вино,Pinot Noir,9542228,https://www.vivino.com/w/9542228,malo_ocenok,4,False,False,,,
+fenecko-pinot-noir,Фенечко Вино,Pinot Noir,9542228,https://www.vivino.com/w/9542228,malo_ocenok,4,False,False,,,
 casa-i-prica-iskra-merlo-iskra-merlot,Чаша Вина и Прича (Čaša Vina i Priča),Искра Мерло (Iskra Merlot),8120453,https://www.vivino.com/w/8120453,malo_ocenok,7,False,False,,,
 casa-i-prica-cetvrta-pricacrveno-merlo-fourth-story-red-merlot,Чаша Вина и Прича (Čaša Vina i Priča),Четврта Прича...Црвено Мерло (Fourth Story … Red Merlot),8138894,https://www.vivino.com/w/8138894,malo_ocenok,7,False,False,,,
 casa-i-prica-sesta-prica-belo-panonia-sesta-prica-white-panonia,Чаша Вина и Прича (Čaša Vina i Priča),Шеста Прича… Бело Панониа (Šesta Priča... White Panonia),7458007,https://www.vivino.com/w/7458007,malo_ocenok,5,False,False,,,

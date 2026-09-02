@@ -547,6 +547,12 @@ def imya_vina(hozyaistvo, vino, snimat_povtor=True):
 def klyuch(*chasti):
     """Устойчивый ключ: без регистра, диакритики и лишних пробелов."""
     s = " ".join(c for c in chasti if c).lower()
+    # Кириллица переводится в латиницу, иначе имя, написанное одними
+    # сербскими буквами, не сходится со своим латинским двойником:
+    # «Подрум Певац» и «Podrum Pevac» стояли двумя хозяйствами. Хуже
+    # того, «ј» вне диапазона «а-я» и вылетал разделителем — «Винарија»
+    # давала ключ «винари-а».
+    s = latinicej(s)
     # «dj» — тот же «đ», записанный без диакритики: Decanter пишет
     # «Mrdjanin», «Djurdjic», «Medje» там, где у Vivino стоит «Mrđanin»,
     # «Đurđić», «Međe». Без этого одно хозяйство разъезжается на два.
@@ -884,6 +890,13 @@ def main():
             # источники пишут по производителю — см. `vinograd_vne_serbii`.
             "vinograd_v_serbii": klyuch_hozyaistva(imya) not in VNE_SERBII,
             "v_knige": v_knige_hoz(imya),
+            # Все написания, под которыми хозяйство встретилось источникам.
+            # Первым — каноническое. Остальные нужны сверке с регистром:
+            # она ищет запись по имени, и совпадение пропадало, стоило
+            # канонизации выбрать другое написание. Так «Vinarija Frunza
+            # Aglaja» стала «Vimmid» и перестала находить запись № 84.
+            "imena": sorted(varianty[klyuch_hozyaistva(imya)],
+                            key=lambda i: (i != imya, -len(i), i)),
             "vivino_slug": slug,
             "falstaff_zvezd": zvezdy.get(klyuch_hozyaistva(imya), {}).get("zvezd"),
             "vin_v_dannyh": sum(1 for z in vivino

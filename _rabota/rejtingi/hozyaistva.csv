@@ -11,7 +11,7 @@ Aleksandar Todorović,aleksandar-todorovic,Centralna Srbija,Rejon Tri Morave,,,v
 Aleksandrović,aleksandrovic,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Vinča,mesto,,sumadija,kniga,"Vinča, Topola - Oplenac, Šumadijski okrug",True,True,"['Aleksandrović', 'Podrum Aleksandrovic D.o.o.', 'Vinarija  Aleksandrović', 'Vinarija Aleksandrovic', 'Vinarija Aleksandrović', 'Aleksandrovic Winery', 'Podrum Aleksandrovic', 'Winery Aleksandrovic', 'Aleksandrovic', 'Aleksandrovič']",,,39
 Aleksić,aleksic,Centralna Srbija,Vranjski rejon,Vrtogoško vinogorje,Vranje,mesto,"по месту Vranjski rejon, у источников Vranjski rejon ×46; Niški rejon ×1",jugoistok,kniga,"Vranje, Pčinjski okrug",True,True,"['Aleksić', 'Podrum Vina Aleksić', 'Winery Aleksić Doo', 'Vinarija Aleksic', 'Aleksic Winery', 'Aleksic winery', 'Winery Aleksic', 'Winery Aleksić', 'Aleksic']",,,20
 Amstadt Winery,amstadt,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Amstadt Winery'],,,1
-Anatea Vinarija,anatea,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Anatea Vinarija'],,,0
+Anatea Vinarija,anatea,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Ривица,mesto,,,raspolozhenie,"Ривица, Ириг",True,False,['Anatea Vinarija'],,,0
 Andrića Vinograd,andrica-vinograd,Centralna Srbija,Pocersko Valjevski Rejon,,,vivino,,,ne_ustanovlen,,True,False,['Andrića Vinograd'],,,1
 Antonijević Family Winery,antonijevic-family,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Ledinci,mesto,,,ne_ustanovlen,"Ledinci, Južnobački okrug",True,False,['Antonijević Family Winery'],,,4
 Arhangel,arhangel,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Arhangel'],,,1
@@ -76,7 +76,7 @@ Galot,galot,Vojvodina,Južnobanatski rejon,Vinogorje Deliblatske peščare,Banat
 Gardijan,gardijan,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Gardijan'],,,0
 Gora,gora,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,decanter,,,ne_ustanovlen,,True,False,['Gora'],,,0
 Grabak,grabak,Centralna Srbija,Rejon Tri Morave,Kruševačko vinogorje,Vrnjačka Banja,mesto,,,ne_ustanovlen,"Vrnjačka Banja, Raški okrug",True,False,"['Grabak', 'Vinarija Grabak']",,,10
-HUP MIHAJLOVAC,hup-mihajlovac,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['HUP MIHAJLOVAC'],,,0
+HUP MIHAJLOVAC,hup-mihajlovac,Centralna Srbija,Pocersko Valjevski Rejon,Podgorsko vinogorje,Кључ,mesto,,,raspolozhenie,"Кључ, Мионица",True,False,['HUP MIHAJLOVAC'],,,0
 Hadži Popović,hadzi-popovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Stari Slankamen,mesto,,,ne_ustanovlen,"Stari Slankamen, Sremski okrug",True,False,['Hadži Popović'],,,2
 Hrusija d.o.o. Leskovac,hrusija-leskovac,Centralna Srbija,Leskovački rejon,Vinaračko vinogorje,Leskovac,mesto,,,ne_ustanovlen,"Leskovac, Jablanički okrug",True,False,['Hrusija d.o.o. Leskovac'],,,0
 Intuicija,intuicija,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Intuicija'],,,1
@@ -88,7 +88,7 @@ Janovi Vinogradi,janovi,Centralna Srbija,Beogradski rejon,Avalsko-kosmajsko vino
 "Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo.",jelena-munizaba-radnja-za-proizvodnju-grozda-i-turizam-i-ugostiteljstvo,Vojvodina,Subotički rejon,Riđičko vinogorje,Riđica,mesto,,,ne_ustanovlen,"Riđica, Zapadnobački okrug",True,False,"['Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo.']",,,0
 Jelenac organic,jelenac,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Topola,mesto,,,ne_ustanovlen,"Topola (Varošica), Šumadijski okrug",True,False,['Jelenac organic'],,,0
 Jevremović,jevremovic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Jevremović'],,,2
-Josic Winery,josic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Josic Winery'],,,0
+Josic Winery,josic,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,False,['Josic Winery'],,,0
 Jović,jovic,Centralna Srbija,Knjaževački rejon,Potrkanjsko vinogorje,Потркање,mesto,,jugoistok,kniga,Потркање,True,True,"['Jović', 'Vinarija Jović']",,,16
 K-ing,k-ing,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['K-ing'],,,1
 Kalem,kalem,Centralna Srbija,Rejon Tri Morave,Trsteničko vinogorje,Velika Drenova,mesto,,,ne_ustanovlen,"Velika Drenova, Rasinski okrug",True,False,['Kalem'],,,23
@@ -112,7 +112,7 @@ Lakićević,lakicevic,,,,,ne_ustanovlen,,metohija,kniga,,True,True,"['Lakićevi�
 Langov Podrum,langov,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Inđija,mesto,,,ne_ustanovlen,"Inđija, Sremski okrug",True,False,"['Langov Podrum', 'Langov podrum']",,,1
 Lastar,lastar,Centralna Srbija,Rejon Tri Morave,Levačko vinogorje,Rekovac,mesto,,morave,kniga,"Rekovac, Pomoravski okrug",True,True,"['Lastar', 'Vinarija Lastar']",,,13
 Legat,legat,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Banja,mesto,,,ne_ustanovlen,"Banja, Šumadijski okrug",True,False,['Legat'],,,4
-Lutak winery,lutak,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,"['Lutak winery', 'Lutak']",,,0
+Lutak winery,lutak,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Чортановци,mesto,,,raspolozhenie,"Чортановци, Инђија",True,False,"['Lutak winery', 'Lutak']",,,0
 M. Dubrana - N. Scheidt,m-dubrana-n-scheidt,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['M. Dubrana - N. Scheidt'],,,3
 MV Vinarija,mv,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,"['MV Vinarija', 'MV Winery']",,,12
 Majetić,majetic,,,,,ne_ustanovlen,,,ne_ustanovlen,Belgrade,True,False,['Majetić'],,,5
@@ -144,7 +144,7 @@ Molin Winery,molin,Vojvodina,,,,ne_ustanovlen,,,ne_ustanovlen,"Nova Crnja, Sredn
 Molovin,molovin,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Моловин,mesto,,fruska,raspolozhenie,"Моловин, Срем",True,False,"['Molovin', 'Vinarija Molovin doo', 'Vinarija Molovin', 'Winery Molovin', 'Molowinery']",,,12
 Monastery Visoki Decani  (Манастирско Дечанско),visoki-decani,Kosovo i Metohija,Južnometohijski rejon,Orahovačko vinogorje,Velika Hoča,mesto,,,ne_ustanovlen,"Velika Hoča, Prizrenski okrug",True,False,['Monastery Visoki Decani  (Манастирско Дечанско)'],,,3
 Moravski Val,moravski-val,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Moravski Val'],,,1
-Natural Grape Concept,natural-grape-concept,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Natural Grape Concept'],,,1
+Natural Grape Concept,natural-grape-concept,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Гаревина,mesto,,,raspolozhenie,"Гаревина, Александровац",True,False,['Natural Grape Concept'],,,1
 Navip,navip,Centralna Srbija,Vranjski rejon,Vrtogoško vinogorje,Vranje,mesto,,,raspolozhenie,"Земун; фрушкогорские этикетки, но хозяйство не районное",True,False,['Navip'],,,25
 Nelt,nelt,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Nelt'],,,3
 Nera,nera,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,vivino,,,ne_ustanovlen,,True,False,['Nera'],,,2
@@ -211,8 +211,7 @@ Rittium,rittium,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,vivino,,,ne_ust
 Rnjak,rnjak,Vojvodina,Južnobanatski rejon,Vršačko vinogorje,Gudurica,mesto,,banat,kniga,Gudurica,True,True,"['Rnjak', 'VINARIJA RNJAK', 'Vinarija Rnjak']",,,5
 Robert Rudinski,robert-rudinski,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Robert Rudinski'],,,2
 Rogan,rogan,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Lipovac,mesto,,,ne_ustanovlen,"Lipovac, Šumadijski okrug",True,False,['Rogan'],,,4
-Rubin,rubin,Centralna Srbija,Rejon Tri Morave,Kruševačko vinogorje,Крушевац,mesto,,morave,raspolozhenie,"Крушевац, Расина",True,False,"['Rubin', 'RUBIN AD KRUSEVAC', 'Rubin AD Krusevac', 'Rubin AD', 'Amante']",,,53
-Rubinov,rubinov,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Rubinov'],,,0
+Rubin,rubin,Centralna Srbija,Rejon Tri Morave,Kruševačko vinogorje,Крушевац,mesto,,morave,raspolozhenie,"Крушевац, Расина",True,False,"['Rubin', 'RUBIN AD KRUSEVAC', 'Rubin AD Krusevac', 'Rubin AD', 'Rubinov', 'Amante']",,,53
 Rujevica,rujevica,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Rujevica'],,,1
 Saboss,saboss,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,,ne_ustanovlen,"Aleksandrovac, Rasinski okrug",True,False,['Saboss'],,,6
 Salaxia,salaxia,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Rakovac,vivino,,,ne_ustanovlen,"Rakovac, Južno-bački okrug",True,False,['Salaxia'],,,8
@@ -270,7 +269,7 @@ Vinarija Aven,aven,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Inđija,mesto
 Vinarija Bada,bada,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,,ne_ustanovlen,"Aleksandrovac, Rasinski okrug",True,False,['Vinarija Bada'],,,2
 Vinarija Baza,baza,Vojvodina,Rejon Bačka,,,vivino,,,ne_ustanovlen,,True,False,"['Vinarija Baza', 'Baza']",,,2
 Vinarija Bela Kula,bela-kula,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Vinarija Bela Kula'],,,4
-Vinarija Blagojević,blagojevic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,"['Vinarija Blagojević', 'Vinarija Blagojevic', 'Blagojevic']",,,5
+Vinarija Blagojević,blagojevic,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Копљаре,mesto,,,raspolozhenie,"Копљаре, Аранђеловац",True,False,"['Vinarija Blagojević', 'Vinarija Blagojevic', 'Blagojevic']",,,5
 Vinarija Bogunovic,bogunovic,,,,,ne_ustanovlen,,,ne_ustanovlen,Zemun,True,False,['Vinarija Bogunovic'],,,5
 Vinarija Boierescu,boierescu,Centralna Srbija,Rejon Negotinska Krajina,Negotinsko vinogorje,Negotin,mesto,,,ne_ustanovlen,"Negotin, Borski okrug",True,False,['Vinarija Boierescu'],,,4
 Vinarija Bononia,bononia,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Vinarija Bononia'],,,3
@@ -341,13 +340,13 @@ Vinarija Sočanski,socanski,Vojvodina,Južnobanatski rejon,Vršačko vinogorje,V
 Vinarija Tana,tana,Centralna Srbija,Rejon Negotinska Krajina,Rogljevačko-rajačko vinogorje,Tamnič,mesto,,,ne_ustanovlen,"Tamnič, Borski okrug",True,False,['Vinarija Tana'],,,1
 Vinarija Tanasković,tanaskovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Krušedol Prnjavor,mesto,,,ne_ustanovlen,"Krušedol Prnjavor, Sremski okrug",True,False,['Vinarija Tanasković'],,,1
 Vinarija Tasa,tasa,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Vinarija Tasa'],,,0
-Vinarija Teodos,teodos,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Vinarija Teodos'],,,0
+Vinarija Teodos,teodos,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Сурдук,mesto,,,raspolozhenie,"Сурдук, Стара Пазова",True,False,['Vinarija Teodos'],,,0
 Vinarija Timacvm Minvs,timacvm-minvs,Centralna Srbija,Rejon Negotinska Krajina,,Bor,mesto,,,ne_ustanovlen,"Bor, Borski okrug",True,False,['Vinarija Timacvm Minvs'],,,1
 Vinarija Timahus,timahus,Centralna Srbija,Rejon Negotinska Krajina,,,vivino,,,ne_ustanovlen,,True,False,['Vinarija Timahus'],,,1
 Vinarija Todorović,todorovic,Centralna Srbija,Knjaževački rejon,,,bolshinstvo,Knjaževački rejon ×11; Rejon Negotinska Krajina ×1; Mlavski rejon ×1,,ne_ustanovlen,,True,False,"['Vinarija Todorović', 'Maison Alexandre & Solene', 'VINARIJA TODOROVIC', 'Vinarija Todorovic', 'Podrum Todorović']",,,13
 Vinarija Tomić - Rošci,tomic-rosci,Centralna Srbija,Čačansko–kraljevački rejon,,,mesto,,,ne_ustanovlen,"Rošci, Moravički okrug",True,False,['Vinarija Tomić - Rošci'],,,1
 Vinarija Toplički Vinogradi,toplicki,Centralna Srbija,Toplički rejon,Prokupačko vinogorje,Gojinovac,mesto,,toplica,kniga,Gojinovac,True,True,"['Vinarija Toplički Vinogradi', 'Toplicki Vinogradi', 'Toplicki vinogradi', 'Toplički Vinogradi']",,,18
-Vinarija Tri Tachke,tri-tachke,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Vinarija Tri Tachke'],,,0
+Vinarija Tri Tachke,tri-tachke,Vojvodina,Južnobanatski rejon,,Гудурица,mesto,,,raspolozhenie,"Гудурица, Алибунар",True,False,['Vinarija Tri Tachke'],,,0
 Vinarija Unikat,unikat,Centralna Srbija,Mlavski rejon,Požarevačko vinogorje,Požarevac,mesto,"по месту Mlavski rejon, у источников Sremski rejon ×1; Mlavski rejon ×1",,ne_ustanovlen,"Požarevac, Braničevski okrug",True,False,['Vinarija Unikat'],,,2
 Vinarija VRT,vrt,Vojvodina,Subotički rejon,,Sombor,vinarijesrbije,,,ne_ustanovlen,"Sombor, Zapadnobački okrug",True,False,"['Vinarija VRT', 'Vinarija Radoslav Tripcovic', 'Vinarija Radoslav Tripković', 'Vinarija VRT Riđica', 'VRT vinarija  2011', 'VRT Vinarija', 'VRT vinarija']",,,5
 Vinarija Val d'Ov,val-dov,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,"[""Vinarija Val d'Ov""]",,,1

@@ -75,7 +75,7 @@ Boemi, — и на них приходится больше четырёхсот
 места. Это похоже не на хозяйство, а на марку разливщика.
 
 Доказательством отсутствие в регистре не считается: по имени с ним не
-сошлись 151 хозяйство из 455, и среди них есть настоящие. Винарија
+сошлись 150 хозяйств из 454, и среди них есть настоящие. Винарија
 Илић-Нијемчевић с сорока восемью измерениями — тридцать одна медаль
 и семнадцать баллов критиков — не нашлась ни под одним
 написанием, хотя виноградник у неё в Бикић Долу, одиннадцать гектаров.
@@ -88,14 +88,22 @@ Boemi, — и на них приходится больше четырёхсот
 другого рода — например, «Francuska Vinarija» французской пары Бонжиро: о
 ней жюри тоже молчит, но это бутик, а не марка из супермаркета.
 
-**Одно хозяйство проходит правило чужим виноградом.** У AURUS Winery
+**Два хозяйства проходят правило чужим виноградом.** У AURUS Winery
 & Distillery виноградники — двести гектаров в Доњем Дисану, Тиквеш,
 Северная Македония; в Београду только производство и розлив. AWC записал
 его сербским, потому что страну источники пишут по производителю, а не
 по винограднику, — и дал в 2026 году золото и три серебра. Три его вина
 набирают девяносто баллов и проходят дверь «балл критика 90 и выше».
-Сербского винограда в них нет. Из данных хозяйство не убрано и помечено
-полем `vinograd_v_serbii`; входит ли оно в книгу — **решать автору**.
+Сербского винограда в них нет.
+
+Второе — Josic Winery: хозяйство целиком хорватское, село Змајевац
+в Барањи, виноградники на Бановој коси между Дунавом и Дравом. В сербский
+сбор оно попало через поиск Falstaff по Сербии: у двух его вин сербские
+сорта в имени, «Zmajevac Tamjanika» и «Zmajevac Prokupac», по 92 балла, —
+а «Змајевац» здесь не марка, а имя села. Оба вина тоже проходят дверь.
+
+Из данных ни одно не убрано, оба помечены полем `vinograd_v_serbii`;
+входят ли они в книгу — **решать автору**.
 
 ## Что проверялось и не подтвердилось
 
@@ -150,12 +158,12 @@ Boemi, — и на них приходится больше четырёхсот
 | Šumadijski rejon | 148 | 21 |
 | Subotički rejon | 58 | 9 |
 | Rejon Negotinska Krajina | 48 | 12 |
-| рејон не установлен | 47 | 21 |
+| рејон не установлен | 46 | 20 |
 | Beogradski rejon | 29 | 8 |
 | Toplički rejon | 21 | 3 |
 | Vranjski rejon | 18 | 2 |
 | Mlavski rejon | 17 | 4 |
-| Južnobanatski rejon | 15 | 5 |
+| Južnobanatski rejon | 16 | 6 |
 | Knjaževački rejon | 8 | 3 |
 | Pocersko Valjevski Rejon | 8 | 4 |
 | Niški rejon | 8 | 3 |
@@ -300,7 +308,7 @@ Boemi, — и на них приходится больше четырёхсот
 
 ## Отсеяно вопреки медали
 
-Вин с медалью, которые правило не пропускает, — 751 из 1263. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 112 вин, и оно вот чьё: biwc — 121, wine-trophy — 9, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
+Вин с медалью, которые правило не пропускает, — 750 из 1262. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 112 вин, и оно вот чьё: biwc — 121, wine-trophy — 9, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
 
 | Хозяйство | Вино | Vivino | Награды |
 |---|---|---|---|
@@ -345,7 +353,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Aleksić | Prokupac | 3.8 | бронза×2 |
 | Arsenijević | Sauvignon | 3.8 | золото |
 
-Показаны сорок из 751 — остальные так же.
+Показаны сорок из 750 — остальные так же.
 
 ## Что меняет порог: 4,0 против 4,1
 
@@ -387,13 +395,13 @@ Boemi, — и на них приходится больше четырёхсот
 
 ## Хозяйства, которые правило вычёркивает целиком
 
-Хозяйств, о которых что-то известно, но ни одно вино не проходит, — 100.
+Хозяйств, о которых что-то известно, но ни одно вино не проходит, — 99.
 
 | Хозяйство | Рејон | Лучшая Vivino | Медалей |
 |---|---|---|---|
 | AE projekt centar | Subotički rejon | — | 1 |
 | Agrina | Sremski rejon | 3.4 | 0 |
-| Anatea Vinarija | — | — | 2 |
+| Anatea Vinarija | Sremski rejon | — | 2 |
 | Andrića Vinograd | Pocersko Valjevski Rejon | 3.7 | 0 |
 | Atos-Fructum | Sremski rejon | — | 1 |
 | Boemi | — | 3.6 | 0 |
@@ -405,7 +413,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Dulka | Sremski rejon | 3.6 | 0 |
 | Enigma | — | 3.5 | 0 |
 | Gardijan | — | — | 1 |
-| HUP MIHAJLOVAC | — | — | 4 |
+| HUP MIHAJLOVAC | Pocersko Valjevski Rejon | — | 4 |
 | Hrusija d.o.o. Leskovac | Leskovački rejon | — | 1 |
 | Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo. | Subotički rejon | — | 1 |
 | Jelenac organic | Šumadijski rejon | — | 1 |
@@ -414,7 +422,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Kuća Vina Jokić | — | — | 1 |
 | La Grande Bellezza | Sremski rejon | — | 1 |
 | Langov Podrum | Sremski rejon | — | 4 |
-| Lutak winery | — | — | 5 |
+| Lutak winery | Sremski rejon | — | 5 |
 | M. Dubrana - N. Scheidt | — | 3.8 | 0 |
 | Marko | Rejon Tri Morave | — | 3 |
 | Marselan | — | — | 1 |
@@ -426,7 +434,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Milisavljević | Rejon Telečka | 3.6 | 0 |
 | Mister | Sremski rejon | — | 1 |
 | Moderato | — | 3.6 | 0 |
-| Natural Grape Concept | — | — | 2 |
+| Natural Grape Concept | Rejon Tri Morave | — | 2 |
 | Navip | Vranjski rejon | 3.4 | 0 |
 | Nelt | — | 3.8 | 0 |
 | Nikolas | Knjaževački rejon | 3.4 | 0 |
@@ -439,7 +447,6 @@ Boemi, — и на них приходится больше четырёхсот
 | Rajković wine office | Rejon Tri Morave | — | 1 |
 | Robert Rudinski | — | 3.6 | 0 |
 | Rogan | Šumadijski rejon | 3.9 | 0 |
-| Rubinov | — | — | 1 |
 | Sava Minić | — | 3.4 | 0 |
 | Sunčani Breg | — | 3.4 | 0 |
 | The Sparkling Winery | Sremski rejon | — | 2 |
@@ -449,7 +456,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vina Pešić | — | 3.4 | 0 |
 | Vinarija Baza | Rejon Bačka | — | 3 |
 | Vinarija Bela Kula | — | 3.9 | 0 |
-| Vinarija Blagojević | — | — | 10 |
+| Vinarija Blagojević | Šumadijski rejon | — | 10 |
 | Vinarija Bora | Rejon Tri Morave | — | 1 |
 | Vinarija Janucic | Rejon Negotinska Krajina | — | 1 |
 | Vinarija Komazec | Sremski rejon | — | 22 |
@@ -463,7 +470,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Slatina | Rejon Tri Morave | — | 2 |
 | Vinarija Sočanski | Južnobanatski rejon | — | 5 |
 | Vinarija Tasa | — | — | 2 |
-| Vinarija Teodos | — | — | 2 |
+| Vinarija Teodos | Sremski rejon | — | 2 |
 | Vinarija Vojinović | Beogradski rejon | 3.3 | 0 |
 | Vinarija Vojnović | — | 3.9 | 0 |
 | Vinarija Vrbica | Šumadijski rejon | 3.8 | 0 |

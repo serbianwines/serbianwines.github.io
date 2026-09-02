@@ -127,8 +127,8 @@ aleksic-zuti-cvet-penusavo-tamnjanika-sec,Aleksić,Žuti Cvet Penuśavo Tamnjani
 aleksic-zuti-cvet-tamjanika,Aleksić,Žuti Cvet Tamjanika,,,net_na_vivino,,True,True,Vranjski rejon,,konkurs
 aleksic-zuti-cvet-tamjanika-dry,Aleksić,Žuti Cvet Tamjanika Dry,,,net_na_vivino,,True,True,Vranjski rejon,,konkurs
 amstadt-chardonnay,Amstadt Winery,Chardonnay,12305253,https://www.vivino.com/w/12305253,malo_ocenok,1,False,False,,,
-anatea-anatea,Anatea Vinarija,Anatea,,,net_na_vivino,,False,True,,,
-anatea-natasa,Anatea Vinarija,Nataša,,,net_na_vivino,,False,True,,,
+anatea-anatea,Anatea Vinarija,Anatea,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+anatea-natasa,Anatea Vinarija,Nataša,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 andrica-vinograd-consul-prokupac-merlot,Andrića Vinograd,Consul Prokupac - Merlot,10630234,https://www.vivino.com/w/10630234,ocenka_est,122,False,False,Pocersko Valjevski Rejon,,hozyaistvo
 antonijevic-family-laca,Antonijević Family Winery,Laca,12851257,https://www.vivino.com/w/12851257,malo_ocenok,8,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 antonijevic-family-probus-konstantin,Antonijević Family Winery,Probus Konstantin,11600529,https://www.vivino.com/w/11600529,malo_ocenok,35,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
@@ -815,10 +815,10 @@ grabak-siva-vrana,Grabak,Siva Vrana,7473293,https://www.vivino.com/w/7473293,oce
 grabak-sojka,Grabak,Sojka,12950529,https://www.vivino.com/w/12950529,malo_ocenok,33,False,True,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo
 grabak-vivak-prokupac,Grabak,Vivak Prokupac,9779751,https://www.vivino.com/w/9779751,ocenka_est,122,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs
 grabak-cuk-merlot,Grabak,Ćuk Merlot,8400469,https://www.vivino.com/w/8400469,ocenka_est,65,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo
-hup-mihajlovac-durdevica-legat-do-neba-i-nazad,HUP MIHAJLOVAC,Djurdjevica Legat - Do neba i nazad,,,net_na_vivino,,False,True,,,
-hup-mihajlovac-durdevica-legat-otisak,HUP MIHAJLOVAC,Djurdjevica Legat - Otisak,,,net_na_vivino,,False,True,,,
-hup-mihajlovac-durdevica-legat-otisak-vremena,HUP MIHAJLOVAC,Djurdjevica Legat - Otisak vremena,,,net_na_vivino,,False,True,,,
-hup-mihajlovac-durdevica-legat-pinot-grigio,HUP MIHAJLOVAC,Djurdjevica Legat-Pinot Grigio,,,net_na_vivino,,False,True,,,
+hup-mihajlovac-durdevica-legat-do-neba-i-nazad,HUP MIHAJLOVAC,Djurdjevica Legat - Do neba i nazad,,,net_na_vivino,,False,True,Pocersko Valjevski Rejon,Podgorsko vinogorje,hozyaistvo
+hup-mihajlovac-durdevica-legat-otisak,HUP MIHAJLOVAC,Djurdjevica Legat - Otisak,,,net_na_vivino,,False,True,Pocersko Valjevski Rejon,Podgorsko vinogorje,hozyaistvo
+hup-mihajlovac-durdevica-legat-otisak-vremena,HUP MIHAJLOVAC,Djurdjevica Legat - Otisak vremena,,,net_na_vivino,,False,True,Pocersko Valjevski Rejon,Podgorsko vinogorje,hozyaistvo
+hup-mihajlovac-durdevica-legat-pinot-grigio,HUP MIHAJLOVAC,Djurdjevica Legat-Pinot Grigio,,,net_na_vivino,,False,True,Pocersko Valjevski Rejon,Podgorsko vinogorje,hozyaistvo
 hadzi-popovic-coma-pinot-blanc,Hadži Popović,Coma Pinot Blanc,13293699,https://www.vivino.com/w/13293699,malo_ocenok,37,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 hadzi-popovic-lawa,Hadži Popović,LAWA,13317237,https://www.vivino.com/w/13317237,malo_ocenok,32,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 hrusija-leskovac-simfonija-prokupac-65-kaberne-sovinjon-20-merlot-15,Hrusija d.o.o. Leskovac,"Simfonija - Prokupac 65%, Kaberne sovinjon 20%, Merlot 15%",,,net_na_vivino,,False,True,Leskovački rejon,Vinaračko vinogorje,hozyaistvo
@@ -1092,10 +1092,10 @@ legat-chardonnay,Legat,Chardonnay,11377519,https://www.vivino.com/w/11377519,oce
 legat-muscat-petit-grain,Legat,Muscat Petit Grain,10959036,https://www.vivino.com/w/10959036,ocenka_est,226,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
 legat-pinot-noir,Legat,Pinot Noir,12150063,https://www.vivino.com/w/12150063,ocenka_est,474,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
 legat-viognier,Legat,Viognier,11377555,https://www.vivino.com/w/11377555,ocenka_est,395,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
-lutak-lutkovo-crno,Lutak winery,Lutkovo Crno,,,net_na_vivino,,False,True,,,
-lutak-merlo,Lutak winery,Merlo,,,net_na_vivino,,False,True,,,
-lutak-s-kvark,Lutak winery,S-Kvark,,,net_na_vivino,,False,True,,,
-lutak-samo-vino,Lutak winery,Samo vino,,,net_na_vivino,,False,False,,,
+lutak-lutkovo-crno,Lutak winery,Lutkovo Crno,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+lutak-merlo,Lutak winery,Merlo,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+lutak-s-kvark,Lutak winery,S-Kvark,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+lutak-samo-vino,Lutak winery,Samo vino,,,net_na_vivino,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 m-dubrana-n-scheidt-exode-blanc,M. Dubrana - N. Scheidt,Exode Blanc,3743049,https://www.vivino.com/w/3743049,ocenka_est,65,False,False,,,
 m-dubrana-n-scheidt-paradise-blanc,M. Dubrana - N. Scheidt,Paradise Blanc,7571480,https://www.vivino.com/w/7571480,malo_ocenok,8,False,False,,,
 m-dubrana-n-scheidt-rouge,M. Dubrana - N. Scheidt,Rouge,3820566,https://www.vivino.com/w/3820566,malo_ocenok,26,False,False,,,
@@ -1414,8 +1414,8 @@ visoki-decani-cabernet-sauvignon-barrique,Monastery Visoki Decani  (Манаст
 visoki-decani-red-crveni,Monastery Visoki Decani  (Манастирско Дечанско),Red (Црвени),1495458,https://www.vivino.com/w/1495458,ocenka_est,3767,False,False,Južnometohijski rejon,Orahovačko vinogorje,hozyaistvo
 visoki-decani-belo-white,Monastery Visoki Decani  (Манастирско Дечанско),Бело (White),8305555,https://www.vivino.com/w/8305555,malo_ocenok,3,False,False,Južnometohijski rejon,Orahovačko vinogorje,hozyaistvo
 moravski-val-vranac,Moravski Val,Vranac,12553073,https://www.vivino.com/w/12553073,malo_ocenok,5,False,False,,,
-natural-grape-concept-prokupac,Natural Grape Concept,Prokupac,,,net_na_vivino,,False,True,,,
-natural-grape-concept-tamjanika,Natural Grape Concept,Tamjanika,13950821,https://www.vivino.com/w/13950821,malo_ocenok,8,False,True,,,
+natural-grape-concept-prokupac,Natural Grape Concept,Prokupac,,,net_na_vivino,,False,True,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
+natural-grape-concept-tamjanika,Natural Grape Concept,Tamjanika,13950821,https://www.vivino.com/w/13950821,malo_ocenok,8,False,True,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 navip-adria-cabernet-sauvignon,Navip,Adria Cabernet Sauvignon,7291721,https://www.vivino.com/w/7291721,malo_ocenok,15,False,False,Vranjski rejon,Vrtogoško vinogorje,hozyaistvo
 navip-adria-kadarka-royal,Navip,Adria Kadarka Royal,7291737,https://www.vivino.com/w/7291737,malo_ocenok,,False,False,Vranjski rejon,Vrtogoško vinogorje,hozyaistvo
 navip-adria-laski-riesling,Navip,Adria Laski Riesling,7291741,https://www.vivino.com/w/7291741,malo_ocenok,2,False,False,Vranjski rejon,Vrtogoško vinogorje,hozyaistvo
@@ -1945,7 +1945,6 @@ rubin-vranac,Rubin,Vranac,1582294,https://www.vivino.com/w/1582294,ocenka_est,28
 rubin-vronsky-blanc-de-blancs,Rubin,Vronsky Blanc de Blancs,2262076,https://www.vivino.com/w/2262076,ocenka_est,383,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo
 rubin-vronsky-rose,Rubin,Vronsky Rosé,3434159,https://www.vivino.com/w/3434159,malo_ocenok,173,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo
 rubin-carica-milica-empress-milica-italijanski-rizling,Rubin,Царица Милица (Empress Milica) Italijanski Rizling,7575301,https://www.vivino.com/w/7575301,malo_ocenok,19,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo
-rubinov-prokupac,Rubinov,Prokupac,,,net_na_vivino,,False,True,,,
 rujevica-prokupac-barrique,Rujevica,Prokupac Barrique,5544884,https://www.vivino.com/w/5544884,malo_ocenok,10,False,False,,,
 saboss-crno,Saboss,Crno,7492426,https://www.vivino.com/w/7492426,malo_ocenok,6,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 saboss-enigma,Saboss,Enigma,6990930,https://www.vivino.com/w/6990930,malo_ocenok,,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
@@ -2313,16 +2312,16 @@ bela-kula-askurdel,Vinarija Bela Kula,Askurđel,9350820,https://www.vivino.com/w
 bela-kula-burgundac-sivi,Vinarija Bela Kula,Burgundac Sivi,10425300,https://www.vivino.com/w/10425300,ocenka_est,53,False,False,,,
 bela-kula-nestor-zilavka,Vinarija Bela Kula,Nestor Žilavka,12411415,https://www.vivino.com/w/12411415,malo_ocenok,6,False,False,,,
 bela-kula-shiraz,Vinarija Bela Kula,Shiraz,10438125,https://www.vivino.com/w/10438125,malo_ocenok,44,False,False,,,
-blagojevic-merlot,Vinarija Blagojević,Merlot,13467537,https://www.vivino.com/w/13467537,malo_ocenok,,False,False,,,
-blagojevic-merlot-barrique-130,Vinarija Blagojević,Merlot Barrique 130,,,net_na_vivino,,False,False,,,
-blagojevic-morava,Vinarija Blagojević,Morava,9657278,https://www.vivino.com/w/9657278,malo_ocenok,26,False,False,,,
-blagojevic-petit-arvin-m,Vinarija Blagojević,Petit Arvin M,,,net_na_vivino,,False,True,,,
-blagojevic-petite-arvine,Vinarija Blagojević,Petite Arvine,,,net_na_vivino,,False,True,,,
-blagojevic-petite-arvine-m,Vinarija Blagojević,Petite Arvine M,12465435,https://www.vivino.com/w/12465435,malo_ocenok,7,False,False,,,
-blagojevic-probus-barik,Vinarija Blagojević,Probus Barik,10432917,https://www.vivino.com/w/10432917,malo_ocenok,55,False,False,,,
-blagojevic-probus-m-barik,Vinarija Blagojević,Probus M barik,,,net_na_vivino,,False,True,,,
-blagojevic-prokupac-barik,Vinarija Blagojević,Prokupac Barik,,,net_na_vivino,,False,True,,,
-blagojevic-rose,Vinarija Blagojević,Rosé,11708742,https://www.vivino.com/w/11708742,malo_ocenok,10,False,False,,,
+blagojevic-merlot,Vinarija Blagojević,Merlot,13467537,https://www.vivino.com/w/13467537,malo_ocenok,,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-merlot-barrique-130,Vinarija Blagojević,Merlot Barrique 130,,,net_na_vivino,,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-morava,Vinarija Blagojević,Morava,9657278,https://www.vivino.com/w/9657278,malo_ocenok,26,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-petit-arvin-m,Vinarija Blagojević,Petit Arvin M,,,net_na_vivino,,False,True,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-petite-arvine,Vinarija Blagojević,Petite Arvine,,,net_na_vivino,,False,True,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-petite-arvine-m,Vinarija Blagojević,Petite Arvine M,12465435,https://www.vivino.com/w/12465435,malo_ocenok,7,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-probus-barik,Vinarija Blagojević,Probus Barik,10432917,https://www.vivino.com/w/10432917,malo_ocenok,55,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-probus-m-barik,Vinarija Blagojević,Probus M barik,,,net_na_vivino,,False,True,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-prokupac-barik,Vinarija Blagojević,Prokupac Barik,,,net_na_vivino,,False,True,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
+blagojevic-rose,Vinarija Blagojević,Rosé,11708742,https://www.vivino.com/w/11708742,malo_ocenok,10,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo
 bogunovic-cabernet-sauvignon,Vinarija Bogunovic,Cabernet Sauvignon,1495431,https://www.vivino.com/w/1495431,ocenka_est,214,False,False,,,
 bogunovic-italijanski-riesling,Vinarija Bogunovic,Italijanski Riesling,2288279,https://www.vivino.com/w/2288279,malo_ocenok,7,False,False,,,
 bogunovic-rose,Vinarija Bogunovic,Rosé,2288272,https://www.vivino.com/w/2288272,malo_ocenok,28,False,False,,,
@@ -2829,8 +2828,8 @@ tana-tama-merlot,Vinarija Tana,Tama Merlot,13610100,https://www.vivino.com/w/136
 tanaskovic-merlot,Vinarija Tanasković,Merlot,13297098,https://www.vivino.com/w/13297098,malo_ocenok,5,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 tasa-morava,Vinarija Tasa,Morava,,,net_na_vivino,,False,True,,,
 tasa-sauvignon-blanc,Vinarija Tasa,Sauvignon Blanc,,,net_na_vivino,,False,True,,,
-teodos-krokan,Vinarija Teodos,Krokan,,,net_na_vivino,,False,True,,,
-teodos-traminac,Vinarija Teodos,Traminac,,,net_na_vivino,,False,True,,,
+teodos-krokan,Vinarija Teodos,Krokan,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+teodos-traminac,Vinarija Teodos,Traminac,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 timacvm-minvs-cabernet-sauvignon,Vinarija Timacvm Minvs,Cabernet Sauvignon,8497704,https://www.vivino.com/w/8497704,ocenka_est,93,False,False,Rejon Negotinska Krajina,,hozyaistvo
 timahus-crna-tamjanika,Vinarija Timahus,Crna Tamjanika,8030853,https://www.vivino.com/w/8030853,malo_ocenok,5,False,False,Rejon Negotinska Krajina,,hozyaistvo
 todorovic-chardonnay-organik,Vinarija Todorović,CHARDONNAY ORGANIK,,,net_na_vivino,,False,False,Knjaževački rejon,,hozyaistvo
@@ -2875,8 +2874,8 @@ toplicki-virtus,Vinarija Toplički Vinogradi,Virtus,,,net_na_vivino,,False,True,
 toplicki-virtus-70-30,Vinarija Toplički Vinogradi,Virtus 70/30,,,net_na_vivino,,False,True,Toplički rejon,Prokupačko vinogorje,hozyaistvo
 toplicki-vranac-barrique,Vinarija Toplički Vinogradi,Vranac Barrique,,,net_na_vivino,,False,True,Toplički rejon,Prokupačko vinogorje,hozyaistvo
 toplicki-gvozdeni-puk-ireno-gvozdeni-puk-ryeno,Vinarija Toplički Vinogradi,Гвоздени Пук Ирьено (Gvozdeni Puk Ryeno),9390075,https://www.vivino.com/w/9390075,ocenka_est,174,False,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo
-tri-tachke-rezonanca,Vinarija Tri Tachke,Rezonanca,,,net_na_vivino,,False,True,,,
-tri-tachke-rezonanca-limited,Vinarija Tri Tachke,Rezonanca limited,,,net_na_vivino,,False,True,,,
+tri-tachke-rezonanca,Vinarija Tri Tachke,Rezonanca,,,net_na_vivino,,False,True,Južnobanatski rejon,,hozyaistvo
+tri-tachke-rezonanca-limited,Vinarija Tri Tachke,Rezonanca limited,,,net_na_vivino,,False,True,Južnobanatski rejon,,hozyaistvo
 unikat-cabernet-sauvignon,Vinarija Unikat,Cabernet Sauvignon,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs
 unikat-merlot,Vinarija Unikat,Merlot,11156413,https://www.vivino.com/w/11156413,malo_ocenok,27,False,False,Mlavski rejon,Požarevačko vinogorje,hozyaistvo
 unikat-vranac,Vinarija Unikat,Vranac,13452953,https://www.vivino.com/w/13452953,malo_ocenok,1,False,True,Mlavski rejon,,konkurs

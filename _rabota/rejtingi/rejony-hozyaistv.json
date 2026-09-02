@@ -504,13 +504,13 @@
   },
   "anatea": {
    "hozyaistvo": "Anatea Vinarija",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "Ривица",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Ривица, Ириг",
    "pokazaniya": []
   },
   "andelic": {
@@ -959,13 +959,13 @@
   },
   "blagojevic": {
    "hozyaistvo": "Vinarija Blagojević",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
+   "vinogorje": "Oplenačko vinogorje",
+   "gorod": "Копљаре",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Копљаре, Аранђеловац",
    "pokazaniya": [
     "vivino: Wine of Serbia"
    ]
@@ -2503,13 +2503,13 @@
   },
   "hup-mihajlovac": {
    "hozyaistvo": "HUP MIHAJLOVAC",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Pocersko Valjevski Rejon",
+   "vinogorje": "Podgorsko vinogorje",
+   "gorod": "Кључ",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Кључ, Мионица",
    "pokazaniya": []
   },
   "i-miletic": {
@@ -3453,13 +3453,13 @@
   },
   "lutak": {
    "hozyaistvo": "Lutak winery",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "Чортановци",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Чортановци, Инђија",
    "pokazaniya": []
   },
   "m-dubrana-n-scheidt": {
@@ -4251,13 +4251,13 @@
   },
   "natural-grape-concept": {
    "hozyaistvo": "Natural Grape Concept",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Župsko vinogorje",
+   "gorod": "Гаревина",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Гаревина, Александровац",
    "pokazaniya": [
     "decanter: West Morava",
     "vivino: Central Serbia"
@@ -5387,24 +5387,12 @@
    "raznoglasie": "",
    "gde": "Крушевац, Расина",
    "pokazaniya": [
+    "decanter: ",
     "decanter: Centralna Srbija",
     "decanter: West Morava · Kruševac",
     "registar: Kruševac, Rasinski okrug",
     "vivino-adres: Nade Marković 57",
     "vivino: Central Serbia"
-   ]
-  },
-  "rubinov": {
-   "hozyaistvo": "Rubinov",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "decanter: "
    ]
   },
   "rudez": {
@@ -5466,12 +5454,12 @@
   "sagmeister": {
    "hozyaistvo": "sagmeister",
    "region": "Vojvodina",
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "Kanjiža",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "рејон один из: Potiski rejon; Subotički rejon",
-   "gde": "Kanjiža, Severno-banatski okrug",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "Ириг",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Ириг, Фрушка гора",
    "pokazaniya": [
     "ivv: Kanjiža, Severno-banatski okrug"
    ]
@@ -5696,11 +5684,11 @@
   "somogyi": {
    "hozyaistvo": "somogyi",
    "region": "Vojvodina",
-   "rejon": null,
-   "vinogorje": null,
+   "rejon": "Potiski rejon",
+   "vinogorje": "Srednjepotisko vinogorje",
    "gorod": "Zrenjanin",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "рејон один из: Banatski rejon; Potiski rejon",
+   "istochnik": "mesto",
+   "raznoglasie": "",
    "gde": "Zrenjanin, Srednje-banatski okrug",
    "pokazaniya": [
     "ivv: Zrenjanin, Srednje-banatski okrug"
@@ -6108,13 +6096,13 @@
   },
   "teodos": {
    "hozyaistvo": "Vinarija Teodos",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "Сурдук",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Сурдук, Стара Пазова",
    "pokazaniya": []
   },
   "terra-balkanika": {
@@ -6399,13 +6387,13 @@
   },
   "tri-tachke": {
    "hozyaistvo": "Vinarija Tri Tachke",
-   "region": null,
-   "rejon": null,
+   "region": "Vojvodina",
+   "rejon": "Južnobanatski rejon",
    "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "gorod": "Гудурица",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Гудурица, Алибунар",
    "pokazaniya": []
   },
   "trilogija": {

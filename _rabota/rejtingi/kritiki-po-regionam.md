@@ -147,8 +147,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 **Юго-восток держится на одном хозяйстве.** Тридцать восемь оценок в районе,
 и все до одной — Aleksić. У Džervin и Jović нет ни балла, ни награды.
 
-**Глава книги известна у 80 хозяйств из 455**, а настоящий рејон —
-у 326. Остальных Vivino сваливает в «Central Serbia» и «Wine of Serbia»,
+**Глава книги известна у 80 хозяйств из 454**, а настоящий рејон —
+у 333. Остальных Vivino сваливает в «Central Serbia» и «Wine of Serbia»,
 и Винарски регистар не узнаёт по имени. Разбор — в `po-rejonima.md`.
 
 **Пересобрать файл:**
@@ -161,7 +161,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1180, с оценкой критиков — 1064, **с обеими — 346**.
+Вин с оценкой Vivino — 1180, с оценкой критиков — 1063, **с обеими — 346**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
@@ -2454,6 +2454,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Temet · Tri Morave | 2018 | 86 | decanter |
 | Temet · Ergo | 2017 | 86 | decanter |
 | Rubin · Amante Matea | 2018 | 86 | decanter |
+| Rubin · Rubinov Prokupac | 2018 | 86 | decanter |
 | Temet · Tri Morave Reserve | 2017 | 86 | decanter |
 | Lastar · Pinot Noir | 2019 | 86 | decanter |
 | Temet · Beli Kamen Syrah | 2019 | 86 | decanter |
@@ -2637,6 +2638,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | серебро | srebro | Fragaria · Red 2020 | 
 | 2021 | бронза | bronza | Lastar · Merlot Cabernet Franc 2017 | 
 | 2021 | бронза | bronza | Rubin · Amante Matea 2018 | 
+| 2021 | бронза | bronza | Rubin · Rubinov Prokupac 2018 | 
 | 2021 | бронза | bronza | Temet · Beli Kamen Merlot 2018 | 
 | 2021 | бронза | bronza | Lastar · Merlot-Cabernet Franc 2017 | 
 | 2021 | бронза | bronza | Temet · Ergo 2017 | 
@@ -4201,7 +4203,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Драгић Винарија (Vina Dragic) · Carski Drum Sauvignon Blanc 2019 — 86 [decanter]
 - Virtus · Sauvignon Blanc 2019 — 86 [decanter]
 - Vinarija Aven · Cabernet Sauvignon 2018 — 86 [decanter]
-- Rubinov · Prokupac 2018 — 86 [decanter]
 - BT Winery · King's Crown 2018 — 86 [decanter]
 - Prokupac · Prokupac 2018 — 86 [decanter]
 - Pusula Winery · Cabernet 2017 — 86 [decanter]

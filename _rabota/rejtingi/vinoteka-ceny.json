@@ -1,0 +1,5248 @@
+{
+ "chto_eto": "Цены сербских вин у «Vinoteka Beograd», раздел «Вина из Сербии». Цена розничная, в динарах, на день сбора.",
+ "istochnik": "https://www.vinotekabeograd.com/vina-iz-srbije",
+ "sobrano": "2026-09-02",
+ "vsego_v_razdele": 655,
+ "vina": [
+  {
+   "nomer": "25215",
+   "vino": "100 Žena Madame Merlette",
+   "hozyaistvo": "Vinarija 100 žena",
+   "artikul": "10102954 2022",
+   "cena_rsd": 4090.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25215-p100-zena-madame-merlette"
+  },
+  {
+   "nomer": "25407",
+   "vino": "100 Žena Mlad Momak Merlot",
+   "hozyaistvo": "Vinarija 100 žena",
+   "artikul": "10102878 2025",
+   "cena_rsd": 1025.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25407-p100-zena-mlad-momak-merlot"
+  },
+  {
+   "nomer": "26112",
+   "vino": "100 Žena Rose",
+   "hozyaistvo": "Vinarija 100 žena",
+   "artikul": "10103119 2025",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26112-p100-zena-rose"
+  },
+  {
+   "nomer": "25386",
+   "vino": "100 Žena Shao Linda",
+   "hozyaistvo": "Vinarija 100 žena",
+   "artikul": "10105009 2024",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25386-p100-zena-shao-linda"
+  },
+  {
+   "nomer": "23263",
+   "vino": "100 žena Veliki Dečko",
+   "hozyaistvo": "100 Žena",
+   "artikul": "10102911 2022",
+   "cena_rsd": 1025.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23263-p100-zena-veliki-decko"
+  },
+  {
+   "nomer": "24433",
+   "vino": "9. Nebo Tamjanika",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10101403 2024",
+   "cena_rsd": 1490.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24433-p9-nebo-tamjanika"
+  },
+  {
+   "nomer": "24856",
+   "vino": "AKCIJA 2+1 Eden Velvet",
+   "hozyaistvo": "Eden",
+   "artikul": "10102815 2020",
+   "cena_rsd": 2940.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24856-akcija-21-eden-velvet"
+  },
+  {
+   "nomer": "26192",
+   "vino": "AKCIJA 2+1 Malča Anonymus Crna Tamjanika",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10101691 2025",
+   "cena_rsd": 3960.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26192-akcija-21-malca-anonymus-crna-tamjanika"
+  },
+  {
+   "nomer": "26194",
+   "vino": "AKCIJA 2+1 Malča Anonymus Crna Tamjanika Crveno",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10102970 2022",
+   "cena_rsd": 3180.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26194-akcija-21-malca-anonymus-crna-tamjanika-crveno"
+  },
+  {
+   "nomer": "26198",
+   "vino": "AKCIJA 2+1 Malča Anonymus Frankovka",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10102971 2021",
+   "cena_rsd": 3440.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26198-akcija-21-malca-anonymus-frankovka"
+  },
+  {
+   "nomer": "26196",
+   "vino": "AKCIJA 2+1 Malča Anonymus Smederevka",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10101692 2020",
+   "cena_rsd": 3440.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26196-akcija-21-malca-anonymus-smederevka"
+  },
+  {
+   "nomer": "26200",
+   "vino": "AKCIJA 2+1 Malča Anonymus Traminac",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10101693 2025",
+   "cena_rsd": 2110.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26200-akcija-21-malca-anonymus-traminac"
+  },
+  {
+   "nomer": "23913",
+   "vino": "AKCIJA 2+1 Novak Crna Tamjanika",
+   "hozyaistvo": "Vinarija Novak",
+   "artikul": "10102750 2019",
+   "cena_rsd": 3910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23913-akcija-21-novak-crna-tamjanika"
+  },
+  {
+   "nomer": "26880",
+   "vino": "AKCIJA 2+1 Stari Hrast Cabernet Merlot",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10102536 2023",
+   "cena_rsd": 3850.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26880-akcija-21-stari-hrast-cabernet-merlot"
+  },
+  {
+   "nomer": "26878",
+   "vino": "AKCIJA 2+1 Stari Hrast Chardonnay",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10106590 2023",
+   "cena_rsd": 3600.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26878-akcija-21-stari-hrast-chardonnay"
+  },
+  {
+   "nomer": "21888",
+   "vino": "AKCIJA 2+1 Stari Hrast Merlot",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10102587 2021",
+   "cena_rsd": 3630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21888-akcija-21-stari-hrast-merlot"
+  },
+  {
+   "nomer": "26877",
+   "vino": "AKCIJA 2+1 Stari Hrast Sauvignon Blanc",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10106552 2024",
+   "cena_rsd": 3360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26877-akcija-21-stari-hrast-sauvignon-blanc"
+  },
+  {
+   "nomer": "26736",
+   "vino": "AKCIJA 2+1 Veritas Bela Harmonija",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10101595 2025",
+   "cena_rsd": 3280.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26736-akcija-21-veritas-bela-harmonija"
+  },
+  {
+   "nomer": "23577",
+   "vino": "AKCIJA 2+1 Veritas Bermet Crveni",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10102918 Non Vintage",
+   "cena_rsd": 3070.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23577-akcija-21-veritas-bermet-crveni"
+  },
+  {
+   "nomer": "26737",
+   "vino": "AKCIJA 2+1 Veritas Grašac",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10101594 2025",
+   "cena_rsd": 3280.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26737-akcija-21-veritas-grasac"
+  },
+  {
+   "nomer": "24780",
+   "vino": "Aleksandrović Harizma",
+   "hozyaistvo": "",
+   "artikul": "10101360 2024",
+   "cena_rsd": 1770.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24780-aleksandrovic-harizma"
+  },
+  {
+   "nomer": "24779",
+   "vino": "Aleksandrović Oplen",
+   "hozyaistvo": "",
+   "artikul": "10101180 2023",
+   "cena_rsd": 1630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24779-aleksandrovic-oplen"
+  },
+  {
+   "nomer": "20796",
+   "vino": "Aleksandrović Oplen",
+   "hozyaistvo": "",
+   "artikul": "10101180 2020",
+   "cena_rsd": 1630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20796-aleksandrovic-oplen"
+  },
+  {
+   "nomer": "25122",
+   "vino": "Aleksandrović Prokupac",
+   "hozyaistvo": "",
+   "artikul": "10102610 2022",
+   "cena_rsd": 1770.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25122-aleksandrovic-prokupac"
+  },
+  {
+   "nomer": "17084",
+   "vino": "Aleksandrović Regent Grand Reserve 1.5L",
+   "hozyaistvo": "",
+   "artikul": "10102138 2017",
+   "cena_rsd": 5590.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17084-aleksandrovic-regent-grand-reserve-1-5l"
+  },
+  {
+   "nomer": "23711",
+   "vino": "Aleksandrović Regent Reserve",
+   "hozyaistvo": "",
+   "artikul": "10102369 2020",
+   "cena_rsd": 2335.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23711-aleksandrovic-regent-reserve"
+  },
+  {
+   "nomer": "25881",
+   "vino": "Aleksandrović Rodoslov Grand Reserve",
+   "hozyaistvo": "",
+   "artikul": "10102142 2021",
+   "cena_rsd": 5025.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25881-aleksandrovic-rodoslov-grand-reserve"
+  },
+  {
+   "nomer": "25588",
+   "vino": "Aleksandrović Rodoslov Grand Reserve 1.5L",
+   "hozyaistvo": "",
+   "artikul": "10102139 2019",
+   "cena_rsd": 13990.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25588-aleksandrovic-rodoslov-grand-reserve-1-5l"
+  },
+  {
+   "nomer": "25783",
+   "vino": "Aleksandrović Trijumf",
+   "hozyaistvo": "",
+   "artikul": "10101203 2024",
+   "cena_rsd": 1910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25783-aleksandrovic-trijumf"
+  },
+  {
+   "nomer": "26175",
+   "vino": "Aleksandrović Trijumf Gold",
+   "hozyaistvo": "",
+   "artikul": "10101205 2025",
+   "cena_rsd": 2195.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26175-aleksandrovic-trijumf-gold"
+  },
+  {
+   "nomer": "22792",
+   "vino": "Aleksandrović Trijumf Kasna Berba 0.375L",
+   "hozyaistvo": "ATC d.o.o. Umag Koreniki",
+   "artikul": "10101007 2021",
+   "cena_rsd": 2060.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22792-aleksandrovic-trijumf-kasna-berba-0-375l"
+  },
+  {
+   "nomer": "26201",
+   "vino": "Aleksandrović Trijumf Noir",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "10102499 2024",
+   "cena_rsd": 2480.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26201-aleksandrovic-trijumf-noir"
+  },
+  {
+   "nomer": "21961",
+   "vino": "Aleksandrović Trijumf Noir Penušavac",
+   "hozyaistvo": "",
+   "artikul": "10104018 2022",
+   "cena_rsd": 2055.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21961-aleksandrovic-trijumf-noir-penusavac"
+  },
+  {
+   "nomer": "21962",
+   "vino": "Aleksandrović Trijumf Penušavac",
+   "hozyaistvo": "",
+   "artikul": "10104016 2022",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21962-aleksandrovic-trijumf-penusavac"
+  },
+  {
+   "nomer": "24294",
+   "vino": "Aleksandrović Trijumf Penušavac Rose",
+   "hozyaistvo": "",
+   "artikul": "10104015 2023",
+   "cena_rsd": 2055.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24294-aleksandrovic-trijumf-penusavac-rose"
+  },
+  {
+   "nomer": "18316",
+   "vino": "Aleksandrović Trijumf Penušavac Rose",
+   "hozyaistvo": "",
+   "artikul": "10104015 2019",
+   "cena_rsd": 2055.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18316-aleksandrovic-trijumf-penusavac-rose"
+  },
+  {
+   "nomer": "26476",
+   "vino": "Aleksandrović Trijumf Rose",
+   "hozyaistvo": "",
+   "artikul": "10103052 2025",
+   "cena_rsd": 1490.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26476-aleksandrovic-trijumf-rose"
+  },
+  {
+   "nomer": "23549",
+   "vino": "Aleksandrović Trijumf Terroir",
+   "hozyaistvo": "",
+   "artikul": "10101204 2023",
+   "cena_rsd": 2350.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23549-aleksandrovic-trijumf-terroir"
+  },
+  {
+   "nomer": "24206",
+   "vino": "Aleksandrović Varijanta",
+   "hozyaistvo": "",
+   "artikul": "10103053 2023",
+   "cena_rsd": 1380.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24206-aleksandrovic-varijanta"
+  },
+  {
+   "nomer": "25844",
+   "vino": "Aleksić Amanet",
+   "hozyaistvo": "",
+   "artikul": "10102372 2021",
+   "cena_rsd": 1630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25844-aleksic-amanet"
+  },
+  {
+   "nomer": "26481",
+   "vino": "Aleksić Barbara Rose",
+   "hozyaistvo": "",
+   "artikul": "10103021 2025",
+   "cena_rsd": 875.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26481-aleksic-barbara-rose"
+  },
+  {
+   "nomer": "20136",
+   "vino": "Aleksić Biser",
+   "hozyaistvo": "",
+   "artikul": "10104035 2018",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20136-aleksic-biser"
+  },
+  {
+   "nomer": "26527",
+   "vino": "Aleksić Kardaš",
+   "hozyaistvo": "",
+   "artikul": "10102246 2022",
+   "cena_rsd": 1050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26527-aleksic-kardas"
+  },
+  {
+   "nomer": "21008",
+   "vino": "Aleksić Kardaš",
+   "hozyaistvo": "",
+   "artikul": "10102246 2021",
+   "cena_rsd": 1050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21008-aleksic-kardas"
+  },
+  {
+   "nomer": "22910",
+   "vino": "Aleksić Kardaš Limited",
+   "hozyaistvo": "",
+   "artikul": "10102489 2021",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22910-aleksic-kardas-limited"
+  },
+  {
+   "nomer": "19899",
+   "vino": "Aleksić Kontra",
+   "hozyaistvo": "",
+   "artikul": "10102834 2020",
+   "cena_rsd": 2730.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19899-aleksic-kontra"
+  },
+  {
+   "nomer": "23334",
+   "vino": "Aleksić Sinergija",
+   "hozyaistvo": "",
+   "artikul": "10101473 2023",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23334-aleksic-sinergija"
+  },
+  {
+   "nomer": "25750",
+   "vino": "Aleksić Žuti Cvet",
+   "hozyaistvo": "",
+   "artikul": "10101100 2025",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25750-aleksic-zuti-cvet"
+  },
+  {
+   "nomer": "26145",
+   "vino": "Aleksić Žuti Cvet Penušavac",
+   "hozyaistvo": "",
+   "artikul": "10104021 2023",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26145-aleksic-zuti-cvet-penusavac"
+  },
+  {
+   "nomer": "24002",
+   "vino": "Andrića Vinograd Attache",
+   "hozyaistvo": "Andrića Vinograd",
+   "artikul": "10101431 2022",
+   "cena_rsd": 1370.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24002-andrica-vinograd-attache"
+  },
+  {
+   "nomer": "23806",
+   "vino": "Andrića Vinograd Consul",
+   "hozyaistvo": "Andrića Vinograd",
+   "artikul": "10102786 2021",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23806-andrica-vinograd-consul"
+  },
+  {
+   "nomer": "25640",
+   "vino": "Arsenijević Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Arsenijević",
+   "artikul": "10101570 2025",
+   "cena_rsd": 1570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25640-arsenijevic-sauvignon-blanc"
+  },
+  {
+   "nomer": "22947",
+   "vino": "Arsenijević Starosedelac Prokupac",
+   "hozyaistvo": "Vinarija Arsenijević",
+   "artikul": "10102791 2022",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22947-arsenijevic-starosedelac-prokupac"
+  },
+  {
+   "nomer": "21487",
+   "vino": "Baša Furmint",
+   "hozyaistvo": "Vinarija Baša",
+   "artikul": "10101513 2020",
+   "cena_rsd": 3545.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21487-basa-furmint"
+  },
+  {
+   "nomer": "26848",
+   "vino": "Baša Jantar Pinot Grigio",
+   "hozyaistvo": "Vinarija Baša",
+   "artikul": "10101512 2020",
+   "cena_rsd": 3398.4,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26848-basa-jantar-pinot-grigio"
+  },
+  {
+   "nomer": "26221",
+   "vino": "Baša Morava",
+   "hozyaistvo": "Vinarija Baša",
+   "artikul": "10101511 2021",
+   "cena_rsd": 3865.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26221-basa-morava"
+  },
+  {
+   "nomer": "25567",
+   "vino": "Baša Tamjanika",
+   "hozyaistvo": "Vinarija Baša",
+   "artikul": "10101510 2021",
+   "cena_rsd": 3700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25567-basa-tamjanika"
+  },
+  {
+   "nomer": "25524",
+   "vino": "Belo Brdo Alma Mons",
+   "hozyaistvo": "Vinarija Belo Brdo",
+   "artikul": "10102356 2021",
+   "cena_rsd": 2305.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25524-belo-brdo-alma-mons"
+  },
+  {
+   "nomer": "22591",
+   "vino": "Belo Brdo Cabernet Franc Limited",
+   "hozyaistvo": "Vinarija Belo Brdo",
+   "artikul": "10102891 2018",
+   "cena_rsd": 12600.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22591-belo-brdo-cabernet-franc-limited"
+  },
+  {
+   "nomer": "21112",
+   "vino": "Belo Brdo Cabernet Limited",
+   "hozyaistvo": "Vinarija Belo Brdo",
+   "artikul": "10102854 2018",
+   "cena_rsd": 5600.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21112-belo-brdo-cabernet-limited"
+  },
+  {
+   "nomer": "23922",
+   "vino": "Belo Brdo Chardonnay",
+   "hozyaistvo": "Vinarija Belo Brdo",
+   "artikul": "10101501 2022",
+   "cena_rsd": 1675.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23922-belo-brdo-chardonnay"
+  },
+  {
+   "nomer": "21114",
+   "vino": "Belo Brdo Decade",
+   "hozyaistvo": "Vinarija Belo Brdo",
+   "artikul": "10102855 2018",
+   "cena_rsd": 5600.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21114-belo-brdo-decade"
+  },
+  {
+   "nomer": "22588",
+   "vino": "Belo Brdo Petit Verdot",
+   "hozyaistvo": "Vinarija Belo Brdo",
+   "artikul": "10102890 2015",
+   "cena_rsd": 2450.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22588-belo-brdo-petit-verdot"
+  },
+  {
+   "nomer": "20791",
+   "vino": "Bikicki Crna Tamjanika",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10102600 2021",
+   "cena_rsd": 2200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20791-bikicki-crna-tamjanika"
+  },
+  {
+   "nomer": "26433",
+   "vino": "Bikicki CU",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10105004 2023",
+   "cena_rsd": 2350.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26433-bikicki-cu"
+  },
+  {
+   "nomer": "26849",
+   "vino": "Bikicki Lily",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10102710 2022",
+   "cena_rsd": 2200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26849-bikicki-lily"
+  },
+  {
+   "nomer": "20878",
+   "vino": "Bikicki Lily",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10102710 2021",
+   "cena_rsd": 2200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20878-bikicki-lily"
+  },
+  {
+   "nomer": "25617",
+   "vino": "Bikicki Makana 0.375L",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10101262 2024",
+   "cena_rsd": 2970.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25617-bikicki-makana-0-375l"
+  },
+  {
+   "nomer": "25615",
+   "vino": "Bikicki Moma",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10101428 2024",
+   "cena_rsd": 3605.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25615-bikicki-moma"
+  },
+  {
+   "nomer": "21307",
+   "vino": "Bikicki S/O",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10105005 2022",
+   "cena_rsd": 2350.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21307-bikicki-so"
+  },
+  {
+   "nomer": "26435",
+   "vino": "Bikicki Sfera",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10101366 2025",
+   "cena_rsd": 1840.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26435-bikicki-sfera"
+  },
+  {
+   "nomer": "22823",
+   "vino": "Bikicki Sfera Noir",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10102832 2023",
+   "cena_rsd": 1850.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22823-bikicki-sfera-noir"
+  },
+  {
+   "nomer": "26434",
+   "vino": "Bikicki Sfera Orange",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10101653 2025",
+   "cena_rsd": 1840.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26434-bikicki-sfera-orange"
+  },
+  {
+   "nomer": "23378",
+   "vino": "Bikicki Uncensored",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10105003 2022",
+   "cena_rsd": 2970.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23378-bikicki-uncensored"
+  },
+  {
+   "nomer": "25616",
+   "vino": "Bikicki Victor",
+   "hozyaistvo": "Bikicki",
+   "artikul": "10101485 2025",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25616-bikicki-victor"
+  },
+  {
+   "nomer": "26205",
+   "vino": "Bjelica Babaroga",
+   "hozyaistvo": "",
+   "artikul": "10101129 2024",
+   "cena_rsd": 5185.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26205-bjelica-babaroga"
+  },
+  {
+   "nomer": "24976",
+   "vino": "Bjelica Babaroga Crvena",
+   "hozyaistvo": "",
+   "artikul": "10102821 2021",
+   "cena_rsd": 6750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24976-bjelica-babaroga-crvena"
+  },
+  {
+   "nomer": "18615",
+   "vino": "Bjelica Babaroga Penušavac",
+   "hozyaistvo": "",
+   "artikul": "10104013 2016",
+   "cena_rsd": 6720.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18615-bjelica-babaroga-penusavac"
+  },
+  {
+   "nomer": "23915",
+   "vino": "Bjelica Graffiti Crveno",
+   "hozyaistvo": "",
+   "artikul": "10102207 2022",
+   "cena_rsd": 2710.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23915-bjelica-graffiti-crveno"
+  },
+  {
+   "nomer": "12629",
+   "vino": "Bjelica Graffiti Crveno 1.5L",
+   "hozyaistvo": "",
+   "artikul": "10102472 2016",
+   "cena_rsd": 6830.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/12629-bjelica-graffiti-crveno-1-5l"
+  },
+  {
+   "nomer": "25200",
+   "vino": "Bjelica Saga",
+   "hozyaistvo": "",
+   "artikul": "10101128 2024",
+   "cena_rsd": 2320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25200-bjelica-saga"
+  },
+  {
+   "nomer": "25607",
+   "vino": "Botunjac Jagoda",
+   "hozyaistvo": "Podrum Botunjac",
+   "artikul": "10101012 2025",
+   "cena_rsd": 3625.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25607-botunjac-jagoda"
+  },
+  {
+   "nomer": "25044",
+   "vino": "Botunjac Pino",
+   "hozyaistvo": "Podrum Botunjac",
+   "artikul": "10102298 2023",
+   "cena_rsd": 2285.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25044-botunjac-pino"
+  },
+  {
+   "nomer": "21690",
+   "vino": "Botunjac Pino Svetih Ratnika",
+   "hozyaistvo": "Podrum Botunjac",
+   "artikul": "10102413 2020",
+   "cena_rsd": 7668.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21690-botunjac-pino-svetih-ratnika"
+  },
+  {
+   "nomer": "24618",
+   "vino": "Botunjac Sveti Gral",
+   "hozyaistvo": "Podrum Botunjac",
+   "artikul": "10102436 2023",
+   "cena_rsd": 1765.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24618-botunjac-sveti-gral"
+  },
+  {
+   "nomer": "24279",
+   "vino": "Breg Chardonnay Stena",
+   "hozyaistvo": "Vinarija Breg",
+   "artikul": "10101636 2024",
+   "cena_rsd": 2370.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24279-breg-chardonnay-stena"
+  },
+  {
+   "nomer": "24283",
+   "vino": "Breg Grašac",
+   "hozyaistvo": "Vinarija Breg",
+   "artikul": "10101637 2024",
+   "cena_rsd": 1555.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24283-breg-grasac"
+  },
+  {
+   "nomer": "24285",
+   "vino": "Breg Rose",
+   "hozyaistvo": "Vinarija Breg",
+   "artikul": "10103136 2024",
+   "cena_rsd": 1850.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24285-breg-rose"
+  },
+  {
+   "nomer": "24289",
+   "vino": "Breg Sila",
+   "hozyaistvo": "Vinarija Breg",
+   "artikul": "10101639 2024",
+   "cena_rsd": 1555.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24289-breg-sila"
+  },
+  {
+   "nomer": "24287",
+   "vino": "Breg Tamjanika",
+   "hozyaistvo": "Vinarija Breg",
+   "artikul": "10101638 2024",
+   "cena_rsd": 1850.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24287-breg-tamjanika"
+  },
+  {
+   "nomer": "19916",
+   "vino": "Bt Winery Mister Marselan",
+   "hozyaistvo": "BT Winery",
+   "artikul": "10102836 2021",
+   "cena_rsd": 4740.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19916-bt-winery-mister-marselan"
+  },
+  {
+   "nomer": "20366",
+   "vino": "Bt Winery Vranac",
+   "hozyaistvo": "BT Winery",
+   "artikul": "10102847 2020",
+   "cena_rsd": 935.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20366-bt-winery-vranac"
+  },
+  {
+   "nomer": "21940",
+   "vino": "Budimir I Kao Da Si Anđeo",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10102284 2017",
+   "cena_rsd": 1680.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21940-budimir-i-kao-da-si-andjeo"
+  },
+  {
+   "nomer": "26449",
+   "vino": "Budimir Projekat X",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10102201 2019",
+   "cena_rsd": 2000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26449-budimir-projekat-x"
+  },
+  {
+   "nomer": "24041",
+   "vino": "Budimir Projekat X",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10102201 2018",
+   "cena_rsd": 2000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24041-budimir-projekat-x"
+  },
+  {
+   "nomer": "19825",
+   "vino": "Budimir Projekat X",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10102201 2017",
+   "cena_rsd": 2000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19825-budimir-projekat-x"
+  },
+  {
+   "nomer": "22940",
+   "vino": "Budimir Prokupac Boje Lila",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10102244 2015",
+   "cena_rsd": 2410.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22940-budimir-prokupac-boje-lila"
+  },
+  {
+   "nomer": "12649",
+   "vino": "Budimir Prokupac Boje Lila 1.5L",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10102379 2011",
+   "cena_rsd": 7260.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/12649-budimir-prokupac-boje-lila-1-5l"
+  },
+  {
+   "nomer": "23406",
+   "vino": "Budimir Svb Rosa",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10102094 2011",
+   "cena_rsd": 4820.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23406-budimir-svb-rosa"
+  },
+  {
+   "nomer": "23489",
+   "vino": "Budimir Tamjanika",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10101263 2024",
+   "cena_rsd": 1780.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23489-budimir-tamjanika"
+  },
+  {
+   "nomer": "14369",
+   "vino": "Budimir Tamjanika Slatka Mala 0.375L",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10101131 2019",
+   "cena_rsd": 1910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/14369-budimir-tamjanika-slatka-mala-0-375l"
+  },
+  {
+   "nomer": "22939",
+   "vino": "Budimir Tamjanika Vera",
+   "hozyaistvo": "Vinarija Budimir",
+   "artikul": "10101130 2018",
+   "cena_rsd": 2410.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22939-budimir-tamjanika-vera"
+  },
+  {
+   "nomer": "22424",
+   "vino": "Bukovo Filigran Cabernet Sauvignon",
+   "hozyaistvo": "Vinarija Manastir Bukovo",
+   "artikul": "10102230 2022",
+   "cena_rsd": 1910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22424-bukovo-filigran-cabernet-sauvignon"
+  },
+  {
+   "nomer": "26276",
+   "vino": "Bukovo Filigran Crna Tamjanika",
+   "hozyaistvo": "Vinarija Manastir Bukovo",
+   "artikul": "10102227 2023",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26276-bukovo-filigran-crna-tamjanika"
+  },
+  {
+   "nomer": "25236",
+   "vino": "Bukovo Filigran Game",
+   "hozyaistvo": "Vinarija Manastir Bukovo",
+   "artikul": "10102502 2023",
+   "cena_rsd": 1775.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25236-bukovo-filigran-game"
+  },
+  {
+   "nomer": "25516",
+   "vino": "Bukovo Filigran Merlot",
+   "hozyaistvo": "Vinarija Manastir Bukovo",
+   "artikul": "10102501 2022",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25516-bukovo-filigran-merlot"
+  },
+  {
+   "nomer": "22022",
+   "vino": "Chichateau Chichardonnay",
+   "hozyaistvo": "",
+   "artikul": "10101170 2021",
+   "cena_rsd": 3500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22022-chichateau-chichardonnay"
+  },
+  {
+   "nomer": "25443",
+   "vino": "Chichateau Fabula Lagum",
+   "hozyaistvo": "",
+   "artikul": "10102450 2021",
+   "cena_rsd": 3500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25443-chichateau-fabula-lagum"
+  },
+  {
+   "nomer": "22376",
+   "vino": "Chichateau Fabula Mala A Bela",
+   "hozyaistvo": "",
+   "artikul": "10101169 2023",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22376-chichateau-fabula-mala-a-bela"
+  },
+  {
+   "nomer": "19487",
+   "vino": "Chichateau Fabula Mala A Bela",
+   "hozyaistvo": "",
+   "artikul": "10101169 2022",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19487-chichateau-fabula-mala-a-bela"
+  },
+  {
+   "nomer": "23017",
+   "vino": "Chichateau Fabula Mala Crvena",
+   "hozyaistvo": "",
+   "artikul": "10102303 2022",
+   "cena_rsd": 1890.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23017-chichateau-fabula-mala-crvena"
+  },
+  {
+   "nomer": "26773",
+   "vino": "Chichateau Pink Punk",
+   "hozyaistvo": "",
+   "artikul": "10103042 2025",
+   "cena_rsd": 1470.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26773-chichateau-pink-punk"
+  },
+  {
+   "nomer": "24752",
+   "vino": "Chichateau Sauvignon Blanc",
+   "hozyaistvo": "",
+   "artikul": "10101196 2024",
+   "cena_rsd": 1550.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24752-chichateau-sauvignon-blanc"
+  },
+  {
+   "nomer": "23016",
+   "vino": "Chichateau Sauvignon Blejk",
+   "hozyaistvo": "",
+   "artikul": "10101296 2020",
+   "cena_rsd": 2515.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23016-chichateau-sauvignon-blejk"
+  },
+  {
+   "nomer": "22913",
+   "vino": "Cilić Crni Vrh Cabernet & Merlot",
+   "hozyaistvo": "",
+   "artikul": "10102901 2020",
+   "cena_rsd": 1360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22913-cilic-crni-vrh-cabernet-merlot"
+  },
+  {
+   "nomer": "25439",
+   "vino": "Cilić Crni Vrh Sauvignon Blanc",
+   "hozyaistvo": "",
+   "artikul": "10101537 2025",
+   "cena_rsd": 1365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25439-cilic-crni-vrh-sauvignon-blanc"
+  },
+  {
+   "nomer": "23295",
+   "vino": "Cilić Kašmir",
+   "hozyaistvo": "",
+   "artikul": "10102814 2021",
+   "cena_rsd": 7615.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23295-cilic-kasmir"
+  },
+  {
+   "nomer": "18804",
+   "vino": "Cilić Manifest Merlot",
+   "hozyaistvo": "",
+   "artikul": "10102701 2019",
+   "cena_rsd": 15230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18804-cilic-manifest-merlot"
+  },
+  {
+   "nomer": "19466",
+   "vino": "Cilić Manifest Merlot 1,5l",
+   "hozyaistvo": "",
+   "artikul": "10102830 2019",
+   "cena_rsd": 28630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19466-cilic-manifest-merlot-15l"
+  },
+  {
+   "nomer": "18800",
+   "vino": "Cilić Manifest Sauvignon",
+   "hozyaistvo": "",
+   "artikul": "10101456 2021",
+   "cena_rsd": 9140.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18800-cilic-manifest-sauvignon"
+  },
+  {
+   "nomer": "19469",
+   "vino": "Cilić Manifest Sauvignon Blanc 1,5l",
+   "hozyaistvo": "",
+   "artikul": "10101472 2021",
+   "cena_rsd": 16800.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19469-cilic-manifest-sauvignon-blanc-15l"
+  },
+  {
+   "nomer": "20938",
+   "vino": "Cilić Morava",
+   "hozyaistvo": "",
+   "artikul": "10101260 2021",
+   "cena_rsd": 1560.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20938-cilic-morava"
+  },
+  {
+   "nomer": "18289",
+   "vino": "Cilić NoNo",
+   "hozyaistvo": "",
+   "artikul": "10102451 2019",
+   "cena_rsd": 4065.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18289-cilic-nono"
+  },
+  {
+   "nomer": "21381",
+   "vino": "Cilić Onyx Belo",
+   "hozyaistvo": "",
+   "artikul": "10101182 2022",
+   "cena_rsd": 3320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21381-cilic-onyx-belo"
+  },
+  {
+   "nomer": "16779",
+   "vino": "Cilić Onyx Belo",
+   "hozyaistvo": "",
+   "artikul": "10101182 2020",
+   "cena_rsd": 4995.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16779-cilic-onyx-belo"
+  },
+  {
+   "nomer": "15159",
+   "vino": "Cilić Onyx Belo",
+   "hozyaistvo": "",
+   "artikul": "10101182 2019",
+   "cena_rsd": 4995.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/15159-cilic-onyx-belo"
+  },
+  {
+   "nomer": "25482",
+   "vino": "Cilić Onyx Belo 1.5L",
+   "hozyaistvo": "",
+   "artikul": "10101185 2024",
+   "cena_rsd": 6905.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25482-cilic-onyx-belo-1-5l"
+  },
+  {
+   "nomer": "25438",
+   "vino": "Cilić Onyx Crveno",
+   "hozyaistvo": "",
+   "artikul": "10102410 2022",
+   "cena_rsd": 3350.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25438-cilic-onyx-crveno"
+  },
+  {
+   "nomer": "20885",
+   "vino": "Cilić Onyx Crveno",
+   "hozyaistvo": "",
+   "artikul": "10102410 2021",
+   "cena_rsd": 3350.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20885-cilic-onyx-crveno"
+  },
+  {
+   "nomer": "15872",
+   "vino": "Cilić Onyx Crveno",
+   "hozyaistvo": "",
+   "artikul": "10102410 2019",
+   "cena_rsd": 4990.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/15872-cilic-onyx-crveno"
+  },
+  {
+   "nomer": "25757",
+   "vino": "Cilić Onyx Crveno 1.5L",
+   "hozyaistvo": "",
+   "artikul": "10102418 2022",
+   "cena_rsd": 6955.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25757-cilic-onyx-crveno-1-5l"
+  },
+  {
+   "nomer": "11582",
+   "vino": "Cilić Onyx Crveno 1.5L",
+   "hozyaistvo": "",
+   "artikul": "10102418 2017",
+   "cena_rsd": 17995.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/11582-cilic-onyx-crveno-1-5l"
+  },
+  {
+   "nomer": "22180",
+   "vino": "Čokot Experiment Prokupac",
+   "hozyaistvo": "Podrum Čokot",
+   "artikul": "10102320 2019",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22180-cokot-experiment-prokupac"
+  },
+  {
+   "nomer": "22847",
+   "vino": "Čokot Experiment Tamjanika",
+   "hozyaistvo": "Podrum Čokot",
+   "artikul": "10101207 2023",
+   "cena_rsd": 1385.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22847-cokot-experiment-tamjanika"
+  },
+  {
+   "nomer": "24086",
+   "vino": "Delena 100 Jazz",
+   "hozyaistvo": "Vinarija Delena",
+   "artikul": "10101382 2023",
+   "cena_rsd": 1430.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24086-delena-100-jazz"
+  },
+  {
+   "nomer": "22005",
+   "vino": "Delena 1903 Merlot",
+   "hozyaistvo": "Vinarija Delena",
+   "artikul": "10102736 2020",
+   "cena_rsd": 2865.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22005-delena-1903-merlot"
+  },
+  {
+   "nomer": "25384",
+   "vino": "Delena 376 Malbec",
+   "hozyaistvo": "Vinarija Delena",
+   "artikul": "10102737 2021",
+   "cena_rsd": 3410.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25384-delena-376-malbec"
+  },
+  {
+   "nomer": "25918",
+   "vino": "Delena 70/30",
+   "hozyaistvo": "Vinarija Delena",
+   "artikul": "10101381 2025",
+   "cena_rsd": 1775.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25918-delena-7030"
+  },
+  {
+   "nomer": "24422",
+   "vino": "Despotika Krunski Dokaz",
+   "hozyaistvo": "Vinarija Despotika",
+   "artikul": "10102936 2017",
+   "cena_rsd": 5000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24422-despotika-krunski-dokaz"
+  },
+  {
+   "nomer": "25302",
+   "vino": "Deurić Aksiom Beli",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101426 2022",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25302-deuric-aksiom-beli"
+  },
+  {
+   "nomer": "23300",
+   "vino": "Deurić Aksiom Beli",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101426 2021",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23300-deuric-aksiom-beli"
+  },
+  {
+   "nomer": "19648",
+   "vino": "Deurić Aksiom Beli",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101426 2020",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19648-deuric-aksiom-beli"
+  },
+  {
+   "nomer": "23954",
+   "vino": "Deurić Aksiom Crveni",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10102574 2021",
+   "cena_rsd": 2180.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23954-deuric-aksiom-crveni"
+  },
+  {
+   "nomer": "25884",
+   "vino": "Deurić Chardonnay Classic",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101293 2024",
+   "cena_rsd": 1430.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25884-deuric-chardonnay-classic"
+  },
+  {
+   "nomer": "25745",
+   "vino": "Deurić Gewurztraminer",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101554 2024",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25745-deuric-gewurztraminer"
+  },
+  {
+   "nomer": "19591",
+   "vino": "Deurić Gewurztraminer",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101554 2022",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19591-deuric-gewurztraminer"
+  },
+  {
+   "nomer": "23615",
+   "vino": "Deurić Gorska Tamjanika",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101533 2024",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23615-deuric-gorska-tamjanika"
+  },
+  {
+   "nomer": "26547",
+   "vino": "Deurić La Rem Chardonnay",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101588 2023",
+   "cena_rsd": 4090.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26547-deuric-la-rem-chardonnay"
+  },
+  {
+   "nomer": "23297",
+   "vino": "Deurić La Rem Chardonnay",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101588 2018",
+   "cena_rsd": 4090.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23297-deuric-la-rem-chardonnay"
+  },
+  {
+   "nomer": "26174",
+   "vino": "Deurić La Rem Pinot Noir",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10102913 2020",
+   "cena_rsd": 4090.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26174-deuric-la-rem-pinot-noir"
+  },
+  {
+   "nomer": "23299",
+   "vino": "Deurić La Rem Pinot Noir",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10102913 2017",
+   "cena_rsd": 4090.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23299-deuric-la-rem-pinot-noir"
+  },
+  {
+   "nomer": "26558",
+   "vino": "Deurić Morava",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101357 2025",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26558-deuric-morava"
+  },
+  {
+   "nomer": "23993",
+   "vino": "Deurić Morava",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101357 2024",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23993-deuric-morava"
+  },
+  {
+   "nomer": "21982",
+   "vino": "Deurić Morava",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101357 2023",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21982-deuric-morava"
+  },
+  {
+   "nomer": "26173",
+   "vino": "Deurić Pinot Noir",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10102458 2023",
+   "cena_rsd": 1430.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26173-deuric-pinot-noir"
+  },
+  {
+   "nomer": "24194",
+   "vino": "Deurić Pinot Noir",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10102458 2021",
+   "cena_rsd": 1430.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24194-deuric-pinot-noir"
+  },
+  {
+   "nomer": "14797",
+   "vino": "Deurić Princeps Merlot",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10102724 2016",
+   "cena_rsd": 4975.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/14797-deuric-princeps-merlot"
+  },
+  {
+   "nomer": "26401",
+   "vino": "Deurić Princeza Na Zrnu Grašca",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101656 2025",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26401-deuric-princeza-na-zrnu-grasca"
+  },
+  {
+   "nomer": "24798",
+   "vino": "Deurić Princeza Na Zrnu Grašca",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101656 2023",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24798-deuric-princeza-na-zrnu-grasca"
+  },
+  {
+   "nomer": "25523",
+   "vino": "Deurić Probus 276",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10102497 2023",
+   "cena_rsd": 1770.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25523-deuric-probus-276"
+  },
+  {
+   "nomer": "25878",
+   "vino": "Deurić Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101222 2024",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25878-deuric-sauvignon-blanc"
+  },
+  {
+   "nomer": "22928",
+   "vino": "Dibonis DiFranc",
+   "hozyaistvo": "Vinarija Dibonis",
+   "artikul": "10102164 2020",
+   "cena_rsd": 1565.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22928-dibonis-difranc"
+  },
+  {
+   "nomer": "19853",
+   "vino": "Dibonis DiMerlot",
+   "hozyaistvo": "Vinarija Dibonis",
+   "artikul": "10102015 2021",
+   "cena_rsd": 1305.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19853-dibonis-dimerlot"
+  },
+  {
+   "nomer": "24231",
+   "vino": "Dibonis DiShiraz",
+   "hozyaistvo": "Vinarija Dibonis",
+   "artikul": "10102218 2022",
+   "cena_rsd": 2350.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24231-dibonis-dishiraz"
+  },
+  {
+   "nomer": "24404",
+   "vino": "Dika Crna Dana",
+   "hozyaistvo": "Vinarija Dika",
+   "artikul": "10102935 2022",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24404-dika-crna-dana"
+  },
+  {
+   "nomer": "24058",
+   "vino": "Dika Merlot",
+   "hozyaistvo": "Vinarija Dika",
+   "artikul": "10102867 2022",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24058-dika-merlot"
+  },
+  {
+   "nomer": "21493",
+   "vino": "Dika Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Dika",
+   "artikul": "10101514 2022",
+   "cena_rsd": 1260.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21493-dika-sauvignon-blanc"
+  },
+  {
+   "nomer": "25583",
+   "vino": "Doja Cabernet Sauvignon Breg",
+   "hozyaistvo": "Vinarija Doja",
+   "artikul": "10102702 2020",
+   "cena_rsd": 4955.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25583-doja-cabernet-sauvignon-breg"
+  },
+  {
+   "nomer": "18067",
+   "vino": "Doja Cabernet Sauvignon Breg",
+   "hozyaistvo": "Vinarija Doja",
+   "artikul": "10102702 2019",
+   "cena_rsd": 4955.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18067-doja-cabernet-sauvignon-breg"
+  },
+  {
+   "nomer": "25684",
+   "vino": "Doja Merlot & Cabernet Sauvignon",
+   "hozyaistvo": "Vinarija Doja",
+   "artikul": "10102561 2022",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25684-doja-merlot-cabernet-sauvignon"
+  },
+  {
+   "nomer": "25212",
+   "vino": "Doja Prokupac",
+   "hozyaistvo": "Vinarija Doja",
+   "artikul": "10102556 2021",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25212-doja-prokupac"
+  },
+  {
+   "nomer": "24980",
+   "vino": "Doja Prokupac Breg",
+   "hozyaistvo": "Vinarija Doja",
+   "artikul": "10102630 2021",
+   "cena_rsd": 4930.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24980-doja-prokupac-breg"
+  },
+  {
+   "nomer": "25582",
+   "vino": "Doja Tamjanika",
+   "hozyaistvo": "Vinarija Doja",
+   "artikul": "10101346 2025",
+   "cena_rsd": 1225.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25582-doja-tamjanika"
+  },
+  {
+   "nomer": "25576",
+   "vino": "Draganić Miracolo Sangiovese",
+   "hozyaistvo": "Vinarija Draganić",
+   "artikul": "10102719 2022",
+   "cena_rsd": 2250.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25576-draganic-miracolo-sangiovese"
+  },
+  {
+   "nomer": "25911",
+   "vino": "Draganić Profil Palava",
+   "hozyaistvo": "Vinarija Draganić",
+   "artikul": "10101367 2025",
+   "cena_rsd": 2180.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25911-draganic-profil-palava"
+  },
+  {
+   "nomer": "25912",
+   "vino": "Draganić Silueta",
+   "hozyaistvo": "Vinarija Draganić",
+   "artikul": "10101368 2025",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25912-draganic-silueta"
+  },
+  {
+   "nomer": "26099",
+   "vino": "Dragojlović Husar Chardonnay",
+   "hozyaistvo": "Vinarija Dragojlović",
+   "artikul": "10101682 2024",
+   "cena_rsd": 4100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26099-dragojlovic-husar-chardonnay"
+  },
+  {
+   "nomer": "26103",
+   "vino": "Dragojlović Kolodar Syrah",
+   "hozyaistvo": "Vinarija Dragojlović",
+   "artikul": "10102966 2024",
+   "cena_rsd": 4100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26103-dragojlovic-kolodar-syrah"
+  },
+  {
+   "nomer": "26101",
+   "vino": "Dragojlović Rogoz Grašac",
+   "hozyaistvo": "Vinarija Dragojlović",
+   "artikul": "10101683 2025",
+   "cena_rsd": 3650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26101-dragojlovic-rogoz-grasac"
+  },
+  {
+   "nomer": "24063",
+   "vino": "Džervin Lozana Grand",
+   "hozyaistvo": "Podrum Džervin 1927",
+   "artikul": "10101616 2021",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24063-dzervin-lozana-grand"
+  },
+  {
+   "nomer": "24061",
+   "vino": "Džervin Trifun Grand",
+   "hozyaistvo": "Podrum Džervin 1927",
+   "artikul": "10102926 2019",
+   "cena_rsd": 3320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24061-dzervin-trifun-grand"
+  },
+  {
+   "nomer": "23943",
+   "vino": "Đoković Chardonnay",
+   "hozyaistvo": "Đoković",
+   "artikul": "10101454 2022",
+   "cena_rsd": 4300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23943-dokovic-chardonnay"
+  },
+  {
+   "nomer": "23944",
+   "vino": "Đoković Syrah",
+   "hozyaistvo": "Đoković",
+   "artikul": "10102811 2022",
+   "cena_rsd": 5050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23944-dokovic-syrah"
+  },
+  {
+   "nomer": "21468",
+   "vino": "Đorđević Merlot & Cabernet Sauvignon",
+   "hozyaistvo": "Podrum Đorđević",
+   "artikul": "10102401 2022",
+   "cena_rsd": 1375.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21468-dordjevic-merlot-cabernet-sauvignon"
+  },
+  {
+   "nomer": "24109",
+   "vino": "Đorđević Sauvignon Blanc",
+   "hozyaistvo": "Podrum Đorđević",
+   "artikul": "10101441 2024",
+   "cena_rsd": 1250.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24109-dordjevic-sauvignon-blanc"
+  },
+  {
+   "nomer": "26104",
+   "vino": "Đurđevića Legat Do Neba i Nazad",
+   "hozyaistvo": "Đurđevića Legat",
+   "artikul": "10101450 2025",
+   "cena_rsd": 1570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26104-durdjevica-legat-do-neba-i-nazad"
+  },
+  {
+   "nomer": "24268",
+   "vino": "Đurđevića Legat Do Neba i Nazad",
+   "hozyaistvo": "Đurđevića Legat",
+   "artikul": "10101450 2024",
+   "cena_rsd": 1570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24268-durdjevica-legat-do-neba-i-nazad"
+  },
+  {
+   "nomer": "22392",
+   "vino": "Đurđevića Legat Otisak",
+   "hozyaistvo": "Đurđevića Legat",
+   "artikul": "10102800 2021",
+   "cena_rsd": 2500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22392-durdjevica-legat-otisak"
+  },
+  {
+   "nomer": "19212",
+   "vino": "Đurđić Bermet Black Knight",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10102717 2021",
+   "cena_rsd": 1650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19212-durdjic-bermet-black-knight"
+  },
+  {
+   "nomer": "24935",
+   "vino": "Đurđić Cabernet Franc",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10102716 2023",
+   "cena_rsd": 2070.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24935-durdjic-cabernet-franc"
+  },
+  {
+   "nomer": "20506",
+   "vino": "Đurđić Cabernet Franc",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10102716 2021",
+   "cena_rsd": 2070.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20506-durdjic-cabernet-franc"
+  },
+  {
+   "nomer": "25125",
+   "vino": "Đurđić Grašac Beli",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10101540 2023",
+   "cena_rsd": 1650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25125-durdjic-grasac-beli"
+  },
+  {
+   "nomer": "24934",
+   "vino": "Đurđić Neoplanta",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10101541 2024",
+   "cena_rsd": 1650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24934-durdjic-neoplanta"
+  },
+  {
+   "nomer": "22445",
+   "vino": "Đurđić Neoplanta",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10101541 2023",
+   "cena_rsd": 1650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22445-durdjic-neoplanta"
+  },
+  {
+   "nomer": "25511",
+   "vino": "Đurđić Probus",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10102718 2022",
+   "cena_rsd": 2350.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25511-durdjic-probus"
+  },
+  {
+   "nomer": "25863",
+   "vino": "Đurđić Traminac",
+   "hozyaistvo": "Vinarija Đurđić",
+   "artikul": "10101702 2024",
+   "cena_rsd": 1650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25863-durdjic-traminac"
+  },
+  {
+   "nomer": "23948",
+   "vino": "Eden Chardonnay",
+   "hozyaistvo": "Eden",
+   "artikul": "10101417 2024",
+   "cena_rsd": 1960.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23948-eden-chardonnay"
+  },
+  {
+   "nomer": "19161",
+   "vino": "Eden Genesis",
+   "hozyaistvo": "",
+   "artikul": "10102775 2019",
+   "cena_rsd": 2250.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19161-eden-genesis"
+  },
+  {
+   "nomer": "26421",
+   "vino": "Eden Sauvignon Blanc",
+   "hozyaistvo": "Eden",
+   "artikul": "10101416 2025",
+   "cena_rsd": 1960.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26421-eden-sauvignon-blanc"
+  },
+  {
+   "nomer": "24742",
+   "vino": "Eden Velvet",
+   "hozyaistvo": "Eden",
+   "artikul": "10102774 2020",
+   "cena_rsd": 1470.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24742-eden-velvet"
+  },
+  {
+   "nomer": "24185",
+   "vino": "Erdevik Bella Novela",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10101217 2024",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24185-erdevik-bella-novela"
+  },
+  {
+   "nomer": "23528",
+   "vino": "Erdevik Ex Cathedra",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10101305 2022",
+   "cena_rsd": 2660.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23528-erdevik-ex-cathedra"
+  },
+  {
+   "nomer": "24883",
+   "vino": "Erdevik Grand Trianon",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102559 2021",
+   "cena_rsd": 3140.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24883-erdevik-grand-trianon"
+  },
+  {
+   "nomer": "24718",
+   "vino": "Erdevik Grand Trianon 1,5L",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102944 2019",
+   "cena_rsd": 7675.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24718-erdevik-grand-trianon-15l"
+  },
+  {
+   "nomer": "24712",
+   "vino": "Erdevik Grand Trianon 3L",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102942 2019",
+   "cena_rsd": 19190.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24712-erdevik-grand-trianon-3l"
+  },
+  {
+   "nomer": "26190",
+   "vino": "Erdevik Grand Trianon Deux Mers",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102648 2020",
+   "cena_rsd": 9080.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26190-erdevik-grand-trianon-deux-mers"
+  },
+  {
+   "nomer": "26185",
+   "vino": "Erdevik Kunst",
+   "hozyaistvo": "Erdevik",
+   "artikul": "10101690 2021",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26185-erdevik-kunst"
+  },
+  {
+   "nomer": "24039",
+   "vino": "Erdevik La Grande Bellezza",
+   "hozyaistvo": "Erdevik",
+   "artikul": "10101613 2021",
+   "cena_rsd": 2380.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24039-erdevik-la-grande-bellezza"
+  },
+  {
+   "nomer": "18795",
+   "vino": "Erdevik Marlon Delon",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102698 2017",
+   "cena_rsd": 4900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18795-erdevik-marlon-delon"
+  },
+  {
+   "nomer": "24716",
+   "vino": "Erdevik Marlon Delon 1,5L",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102943 2019",
+   "cena_rsd": 12210.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24716-erdevik-marlon-delon-15l"
+  },
+  {
+   "nomer": "24710",
+   "vino": "Erdevik Marlon Delon 3L",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102941 2019",
+   "cena_rsd": 30550.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24710-erdevik-marlon-delon-3l"
+  },
+  {
+   "nomer": "24373",
+   "vino": "Erdevik Omnibus Lector Chardonnay",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10101087 2022",
+   "cena_rsd": 4900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24373-erdevik-omnibus-lector-chardonnay"
+  },
+  {
+   "nomer": "26531",
+   "vino": "Erdevik Roza Nostra",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10103108 2025",
+   "cena_rsd": 1540.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26531-erdevik-roza-nostra"
+  },
+  {
+   "nomer": "24764",
+   "vino": "Erdevik Roza Nostra 1.5L",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10103059 2024",
+   "cena_rsd": 3215.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24764-erdevik-roza-nostra-1-5l"
+  },
+  {
+   "nomer": "24946",
+   "vino": "Erdevik Stifler's Mom Shiraz",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102647 2021",
+   "cena_rsd": 4900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24946-erdevik-stiflers-mom-shiraz"
+  },
+  {
+   "nomer": "24024",
+   "vino": "Erdevik Trianon",
+   "hozyaistvo": "Podrum Erdevik",
+   "artikul": "10102332 2023",
+   "cena_rsd": 1910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24024-erdevik-trianon"
+  },
+  {
+   "nomer": "24383",
+   "vino": "Fenečka Tamjanika",
+   "hozyaistvo": "Manastir Fenek",
+   "artikul": "10101576 2024",
+   "cena_rsd": 1260.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24383-fenecka-tamjanika"
+  },
+  {
+   "nomer": "25256",
+   "vino": "Fenečki Cabernet Sauvignon",
+   "hozyaistvo": "Manastir Fenek",
+   "artikul": "10102806 2021",
+   "cena_rsd": 1840.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25256-fenecki-cabernet-sauvignon"
+  },
+  {
+   "nomer": "24384",
+   "vino": "Fenečki Merlot",
+   "hozyaistvo": "Manastir Fenek",
+   "artikul": "10102805 2021",
+   "cena_rsd": 1365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24384-fenecki-merlot"
+  },
+  {
+   "nomer": "25921",
+   "vino": "Fenečki Prokupac",
+   "hozyaistvo": "Manastir Fenek",
+   "artikul": "10102902 2024",
+   "cena_rsd": 1360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25921-fenecki-prokupac"
+  },
+  {
+   "nomer": "26738",
+   "vino": "Fleur D Oranger Frankovka",
+   "hozyaistvo": "Fleur D'Oranger",
+   "artikul": "10102779 2025",
+   "cena_rsd": 2200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26738-fleur-d-oranger-frankovka"
+  },
+  {
+   "nomer": "17158",
+   "vino": "Fleur D Oranger Frankovka",
+   "hozyaistvo": "Fleur D'Oranger",
+   "artikul": "10102779 2020",
+   "cena_rsd": 2200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17158-fleur-d-oranger-frankovka"
+  },
+  {
+   "nomer": "23411",
+   "vino": "Fleur D Oranger Muscat Krokan",
+   "hozyaistvo": "Fleur D'Oranger",
+   "artikul": "10101378 2021",
+   "cena_rsd": 3630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23411-fleur-d-oranger-muscat-krokan"
+  },
+  {
+   "nomer": "15171",
+   "vino": "Fleur D Oranger Rajnski Rizling",
+   "hozyaistvo": "Fleur D'Oranger",
+   "artikul": "10101379 2019",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/15171-fleur-d-oranger-rajnski-rizling"
+  },
+  {
+   "nomer": "25610",
+   "vino": "Fragaria Jagoda",
+   "hozyaistvo": "Boutique Vinarija Fragaria",
+   "artikul": "10101339 2025",
+   "cena_rsd": 3480.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25610-fragaria-jagoda"
+  },
+  {
+   "nomer": "21722",
+   "vino": "Fragaria Red",
+   "hozyaistvo": "Boutique Vinarija Fragaria",
+   "artikul": "10102678 2020",
+   "cena_rsd": 4030.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21722-fragaria-red"
+  },
+  {
+   "nomer": "26517",
+   "vino": "Fragaria Tajna Veza",
+   "hozyaistvo": "Boutique Vinarija Fragaria",
+   "artikul": "10101337 2024",
+   "cena_rsd": 1740.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26517-fragaria-tajna-veza"
+  },
+  {
+   "nomer": "23738",
+   "vino": "Fragaria Tajna Veza",
+   "hozyaistvo": "Boutique Vinarija Fragaria",
+   "artikul": "10101337 2023",
+   "cena_rsd": 1740.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23738-fragaria-tajna-veza"
+  },
+  {
+   "nomer": "25993",
+   "vino": "Fragaria Tamjanika",
+   "hozyaistvo": "Boutique Vinarija Fragaria",
+   "artikul": "10101338 2024",
+   "cena_rsd": 1740.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25993-fragaria-tamjanika"
+  },
+  {
+   "nomer": "19837",
+   "vino": "Fragaria Tamjanika",
+   "hozyaistvo": "Boutique Vinarija Fragaria",
+   "artikul": "10101338 2022",
+   "cena_rsd": 1740.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19837-fragaria-tamjanika"
+  },
+  {
+   "nomer": "25333",
+   "vino": "Frug Chardonnay Signum",
+   "hozyaistvo": "Frug",
+   "artikul": "10101583 2024",
+   "cena_rsd": 2695.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25333-frug-chardonnay-signum"
+  },
+  {
+   "nomer": "25334",
+   "vino": "Frug Cuvee",
+   "hozyaistvo": "Frug",
+   "artikul": "10102906 2023",
+   "cena_rsd": 2030.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25334-frug-cuvee"
+  },
+  {
+   "nomer": "26204",
+   "vino": "Frug Grašac",
+   "hozyaistvo": "Frug",
+   "artikul": "10101582 2025",
+   "cena_rsd": 1780.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26204-frug-grasac"
+  },
+  {
+   "nomer": "24059",
+   "vino": "Frug Grašac",
+   "hozyaistvo": "Frug",
+   "artikul": "10101582 2024",
+   "cena_rsd": 1780.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24059-frug-grasac"
+  },
+  {
+   "nomer": "23951",
+   "vino": "Frug Pinot Noir",
+   "hozyaistvo": "Frug",
+   "artikul": "10102907 2023",
+   "cena_rsd": 2550.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23951-frug-pinot-noir"
+  },
+  {
+   "nomer": "26776",
+   "vino": "Frug Sauvignon Blanc",
+   "hozyaistvo": "Frug",
+   "artikul": "10101581 2025",
+   "cena_rsd": 2040.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26776-frug-sauvignon-blanc"
+  },
+  {
+   "nomer": "23074",
+   "vino": "Frug Syrah Signum",
+   "hozyaistvo": "Frug",
+   "artikul": "10102908 2022",
+   "cena_rsd": 2880.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23074-frug-syrah-signum"
+  },
+  {
+   "nomer": "24173",
+   "vino": "Frunza Aglaja Bagrina",
+   "hozyaistvo": "Frunza Aglaja",
+   "artikul": "10101618 2024",
+   "cena_rsd": 2790.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24173-frunza-aglaja-bagrina"
+  },
+  {
+   "nomer": "25763",
+   "vino": "Frunza Aglaja Cabernet Sauvignon",
+   "hozyaistvo": "Frunza Aglaja",
+   "artikul": "10102857 2021",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25763-frunza-aglaja-cabernet-sauvignon"
+  },
+  {
+   "nomer": "21373",
+   "vino": "Frunza Aglaja Crna Tamjanika 0.5L",
+   "hozyaistvo": "Frunza Aglaja",
+   "artikul": "10102858 2022",
+   "cena_rsd": 1330.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21373-frunza-aglaja-crna-tamjanika-0-5l"
+  },
+  {
+   "nomer": "21375",
+   "vino": "Frunza Aglaja Dentelle Cabernet Sauvignon",
+   "hozyaistvo": "Frunza Aglaja",
+   "artikul": "10102859 2019",
+   "cena_rsd": 4185.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21375-frunza-aglaja-dentelle-cabernet-sauvignon"
+  },
+  {
+   "nomer": "26111",
+   "vino": "Frunza Aglaja Sauvignon",
+   "hozyaistvo": "Frunza Aglaja",
+   "artikul": "10101503 2025",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26111-frunza-aglaja-sauvignon"
+  },
+  {
+   "nomer": "23788",
+   "vino": "Frunza Aglaja Sauvignon",
+   "hozyaistvo": "Frunza Aglaja",
+   "artikul": "10101503 2024",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23788-frunza-aglaja-sauvignon"
+  },
+  {
+   "nomer": "25981",
+   "vino": "Grabak Prokupac",
+   "hozyaistvo": "Vinarija Grabak",
+   "artikul": "10102692 2020",
+   "cena_rsd": 2155.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25981-grabak-prokupac"
+  },
+  {
+   "nomer": "18537",
+   "vino": "Grabak Prokupac",
+   "hozyaistvo": "Vinarija Grabak",
+   "artikul": "10102692 2019",
+   "cena_rsd": 2155.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18537-grabak-prokupac"
+  },
+  {
+   "nomer": "13925",
+   "vino": "Grabak Vivak Prokupac",
+   "hozyaistvo": "Vinarija Grabak",
+   "artikul": "10102694 2017",
+   "cena_rsd": 15095.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/13925-grabak-vivak-prokupac"
+  },
+  {
+   "nomer": "25652",
+   "vino": "Ilić Nijemčević Chardonnay",
+   "hozyaistvo": "Ilić-Nijemčević",
+   "artikul": "10101397 2024",
+   "cena_rsd": 1625.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25652-ilic-nijemcevic-chardonnay"
+  },
+  {
+   "nomer": "25653",
+   "vino": "Ilić Nijemčević Sauvignon Blanc",
+   "hozyaistvo": "Ilić-Nijemčević",
+   "artikul": "10101376 2024",
+   "cena_rsd": 1500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25653-ilic-nijemcevic-sauvignon-blanc"
+  },
+  {
+   "nomer": "20395",
+   "vino": "Imperator Animus",
+   "hozyaistvo": "Imperator",
+   "artikul": "10102845 2020",
+   "cena_rsd": 2585.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20395-imperator-animus"
+  },
+  {
+   "nomer": "23978",
+   "vino": "Imperator Cargraš",
+   "hozyaistvo": "Imperator",
+   "artikul": "10101445 2024",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23978-imperator-cargras"
+  },
+  {
+   "nomer": "24208",
+   "vino": "Imperator Claudivs Klod",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10101319 2023",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24208-imperator-claudivs-klod"
+  },
+  {
+   "nomer": "17783",
+   "vino": "Imperator Constantivs",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10102744 2018",
+   "cena_rsd": 6720.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17783-imperator-constantivs"
+  },
+  {
+   "nomer": "15551",
+   "vino": "Imperator Constantivs",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10102744 2017",
+   "cena_rsd": 6720.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/15551-imperator-constantivs"
+  },
+  {
+   "nomer": "25891",
+   "vino": "Imperator Decius Pinot Noir",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10102663 2024",
+   "cena_rsd": 3910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25891-imperator-decius-pinot-noir"
+  },
+  {
+   "nomer": "24523",
+   "vino": "Imperator Flavius 0,5l",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10101356 2023",
+   "cena_rsd": 2445.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24523-imperator-flavius-05l"
+  },
+  {
+   "nomer": "21258",
+   "vino": "Imperator Gratianus",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10101010 2021",
+   "cena_rsd": 2025.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21258-imperator-gratianus"
+  },
+  {
+   "nomer": "20399",
+   "vino": "Imperator La Vida",
+   "hozyaistvo": "Imperator",
+   "artikul": "10102846 2020",
+   "cena_rsd": 2655.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20399-imperator-la-vida"
+  },
+  {
+   "nomer": "22121",
+   "vino": "Imperator Maximianvs",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10102143 2021",
+   "cena_rsd": 3000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22121-imperator-maximianvs"
+  },
+  {
+   "nomer": "18497",
+   "vino": "Imperator QvintillvS",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10102255 2018",
+   "cena_rsd": 3070.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18497-imperator-qvintillvs"
+  },
+  {
+   "nomer": "25845",
+   "vino": "Imperator Sila Nika",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10101444 2025",
+   "cena_rsd": 1745.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25845-imperator-sila-nika"
+  },
+  {
+   "nomer": "24190",
+   "vino": "Imperator Valerius",
+   "hozyaistvo": "Vinarija Imperator",
+   "artikul": "10101009 2022",
+   "cena_rsd": 2030.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24190-imperator-valerius"
+  },
+  {
+   "nomer": "24714",
+   "vino": "Intuicija",
+   "hozyaistvo": "Wine Taste Vukan Sibinović",
+   "artikul": "10101650 2023",
+   "cena_rsd": 1630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24714-intuicija"
+  },
+  {
+   "nomer": "26628",
+   "vino": "Ivanović Jara Pet Nat",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10103144 2025",
+   "cena_rsd": 2160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26628-ivanovic-jara-pet-nat"
+  },
+  {
+   "nomer": "26528",
+   "vino": "Ivanović No 1/2",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10102216 2021",
+   "cena_rsd": 4500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26528-ivanovic-no-12"
+  },
+  {
+   "nomer": "21118",
+   "vino": "Ivanović No 1/2",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10102216 2019",
+   "cena_rsd": 4500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21118-ivanovic-no-12"
+  },
+  {
+   "nomer": "17476",
+   "vino": "Ivanović No 1/2",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10102216 2020",
+   "cena_rsd": 3820.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17476-ivanovic-no-12"
+  },
+  {
+   "nomer": "23569",
+   "vino": "Ivanović No 3/4",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10101290 2023",
+   "cena_rsd": 3000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23569-ivanovic-no-34"
+  },
+  {
+   "nomer": "25772",
+   "vino": "Ivanović Prokupac",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10102279 2024",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25772-ivanovic-prokupac"
+  },
+  {
+   "nomer": "25367",
+   "vino": "Ivanović Prokupac",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10102279 2023",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25367-ivanovic-prokupac"
+  },
+  {
+   "nomer": "25771",
+   "vino": "Ivanović Tamjanika",
+   "hozyaistvo": "Vinarija Ivanović",
+   "artikul": "10101084 2024",
+   "cena_rsd": 1360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25771-ivanovic-tamjanika"
+  },
+  {
+   "nomer": "25033",
+   "vino": "Janko Baš Prokupac",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102437 2021",
+   "cena_rsd": 1570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25033-janko-bas-prokupac"
+  },
+  {
+   "nomer": "20913",
+   "vino": "Janko Bifora",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102500 2020",
+   "cena_rsd": 4060.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20913-janko-bifora"
+  },
+  {
+   "nomer": "18638",
+   "vino": "Janko Bifora",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102500 2018",
+   "cena_rsd": 4060.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18638-janko-bifora"
+  },
+  {
+   "nomer": "16568",
+   "vino": "Janko Bifora",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102500 2017",
+   "cena_rsd": 13539.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16568-janko-bifora"
+  },
+  {
+   "nomer": "26402",
+   "vino": "Janko Bifora 1.5L",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102580 2020",
+   "cena_rsd": 8870.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26402-janko-bifora-1-5l"
+  },
+  {
+   "nomer": "22946",
+   "vino": "Janko Jelena Rose",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10103040 2023",
+   "cena_rsd": 1120.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22946-janko-jelena-rose"
+  },
+  {
+   "nomer": "4742",
+   "vino": "Janko Mesečina",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10104008 Non-Vintage",
+   "cena_rsd": 3115.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/4742-janko-mesecina"
+  },
+  {
+   "nomer": "22638",
+   "vino": "Janko Misija Barrique",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10101162 2020",
+   "cena_rsd": 1910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22638-janko-misija-barrique"
+  },
+  {
+   "nomer": "25648",
+   "vino": "Janko Smederevka",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10101160 2024",
+   "cena_rsd": 1160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25648-janko-smederevka"
+  },
+  {
+   "nomer": "20912",
+   "vino": "Janko Vrtlog",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10101161 2021",
+   "cena_rsd": 2035.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20912-janko-vrtlog"
+  },
+  {
+   "nomer": "22637",
+   "vino": "Janko Zapis Crveni",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102368 2020",
+   "cena_rsd": 2035.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22637-janko-zapis-crveni"
+  },
+  {
+   "nomer": "19103",
+   "vino": "Janko Zapis Crveni",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102368 2019",
+   "cena_rsd": 2035.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19103-janko-zapis-crveni"
+  },
+  {
+   "nomer": "17167",
+   "vino": "Janko Zapis Crveni 1.5L",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102581 2017",
+   "cena_rsd": 6720.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17167-janko-zapis-crveni-1-5l"
+  },
+  {
+   "nomer": "9976",
+   "vino": "Janko Zapis Testament",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102579 2016",
+   "cena_rsd": 4875.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/9976-janko-zapis-testament"
+  },
+  {
+   "nomer": "9996",
+   "vino": "Janko Zapis Testament 1.5L",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102583 2016",
+   "cena_rsd": 10155.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/9996-janko-zapis-testament-1-5l"
+  },
+  {
+   "nomer": "26283",
+   "vino": "Janko Zavet",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102206 2021",
+   "cena_rsd": 1845.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26283-janko-zavet"
+  },
+  {
+   "nomer": "24036",
+   "vino": "Janko Zavet",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102206 2020",
+   "cena_rsd": 1845.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24036-janko-zavet"
+  },
+  {
+   "nomer": "4888",
+   "vino": "Janko Zavet Stari",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102190 2016",
+   "cena_rsd": 4205.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/4888-janko-zavet-stari"
+  },
+  {
+   "nomer": "19920",
+   "vino": "Janko Zavet Stari 1.5L",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102582 2017",
+   "cena_rsd": 8460.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19920-janko-zavet-stari-1-5l"
+  },
+  {
+   "nomer": "14729",
+   "vino": "Janko Zlatno Runo",
+   "hozyaistvo": "Vinarija Janko",
+   "artikul": "10102722 2017",
+   "cena_rsd": 5415.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/14729-janko-zlatno-runo"
+  },
+  {
+   "nomer": "22890",
+   "vino": "Janucić Tamna Tamjanika",
+   "hozyaistvo": "Vinarija Janučić",
+   "artikul": "10102709 2021",
+   "cena_rsd": 1670.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22890-janucic-tamna-tamjanika"
+  },
+  {
+   "nomer": "18782",
+   "vino": "Janucić Vulkan",
+   "hozyaistvo": "Vinarija Janucić",
+   "artikul": "10102708 2019",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18782-janucic-vulkan"
+  },
+  {
+   "nomer": "26831",
+   "vino": "Jeremić Kanon",
+   "hozyaistvo": "",
+   "artikul": "10102237 2023",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26831-jeremic-kanon"
+  },
+  {
+   "nomer": "23438",
+   "vino": "Jeremić Kanon",
+   "hozyaistvo": "",
+   "artikul": "10102237 2022",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23438-jeremic-kanon"
+  },
+  {
+   "nomer": "25199",
+   "vino": "Jeremić Kanon Superior",
+   "hozyaistvo": "",
+   "artikul": "10102296 2020",
+   "cena_rsd": 3410.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25199-jeremic-kanon-superior"
+  },
+  {
+   "nomer": "16817",
+   "vino": "Jeremić Kanon Superior",
+   "hozyaistvo": "",
+   "artikul": "10102296 2019",
+   "cena_rsd": 3410.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16817-jeremic-kanon-superior"
+  },
+  {
+   "nomer": "20489",
+   "vino": "Jeremić Merlot Terroire",
+   "hozyaistvo": "",
+   "artikul": "10102431 2021",
+   "cena_rsd": 3400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20489-jeremic-merlot-terroire"
+  },
+  {
+   "nomer": "15899",
+   "vino": "Jeremić Merlot Terroire",
+   "hozyaistvo": "",
+   "artikul": "10102431 2019",
+   "cena_rsd": 3400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/15899-jeremic-merlot-terroire"
+  },
+  {
+   "nomer": "25666",
+   "vino": "Jeremić Sonata",
+   "hozyaistvo": "",
+   "artikul": "10101001 2025",
+   "cena_rsd": 1910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25666-jeremic-sonata"
+  },
+  {
+   "nomer": "26502",
+   "vino": "Jokić Pošip Vis",
+   "hozyaistvo": "Jokić",
+   "artikul": "10101698 2023",
+   "cena_rsd": 3140.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26502-jokic-posip-vis"
+  },
+  {
+   "nomer": "26653",
+   "vino": "Jovac Cabernet Sauvignon Single Vineyard",
+   "hozyaistvo": "Vinarija Jovac",
+   "artikul": "10102978 2020",
+   "cena_rsd": 5460.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26653-jovac-cabernet-sauvignon-single-vineyard"
+  },
+  {
+   "nomer": "26651",
+   "vino": "Jovac Merlot Single Vineyard",
+   "hozyaistvo": "Vinarija Jovac",
+   "artikul": "10102977 2020",
+   "cena_rsd": 4800.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26651-jovac-merlot-single-vineyard"
+  },
+  {
+   "nomer": "21647",
+   "vino": "Jovac Stella Noir",
+   "hozyaistvo": "Vinarija Jovac",
+   "artikul": "10102833 2021",
+   "cena_rsd": 2810.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21647-jovac-stella-noir"
+  },
+  {
+   "nomer": "24343",
+   "vino": "Jovac Tamnjanika",
+   "hozyaistvo": "Vinarija Jovac",
+   "artikul": "10101474 2023",
+   "cena_rsd": 1800.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24343-jovac-tamnjanika"
+  },
+  {
+   "nomer": "22214",
+   "vino": "Jović Cabernet Sauvignon",
+   "hozyaistvo": "Vinarija Jović",
+   "artikul": "10102008 2020",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22214-jovic-cabernet-sauvignon"
+  },
+  {
+   "nomer": "23958",
+   "vino": "Jović Chardonnay",
+   "hozyaistvo": "Vinarija Jović",
+   "artikul": "10101439 2022",
+   "cena_rsd": 1100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23958-jovic-chardonnay"
+  },
+  {
+   "nomer": "21475",
+   "vino": "Jović Dionizije",
+   "hozyaistvo": "Vinarija Jović",
+   "artikul": "10102795 2021",
+   "cena_rsd": 2785.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21475-jovic-dionizije"
+  },
+  {
+   "nomer": "25366",
+   "vino": "Jović Riesling",
+   "hozyaistvo": "Vinarija Jović",
+   "artikul": "10101194 2022",
+   "cena_rsd": 1095.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25366-jovic-riesling"
+  },
+  {
+   "nomer": "23732",
+   "vino": "Jović Rizling Potrkanjski",
+   "hozyaistvo": "Vinarija Jović",
+   "artikul": "10101602 2019",
+   "cena_rsd": 1365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23732-jovic-rizling-potrkanjski"
+  },
+  {
+   "nomer": "755",
+   "vino": "Jović Višnjica",
+   "hozyaistvo": "Vinarija Jović",
+   "artikul": "10102060 2010",
+   "cena_rsd": 955.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/755-jovic-visnjica"
+  },
+  {
+   "nomer": "23423",
+   "vino": "Jović Vranac Potrkanjski",
+   "hozyaistvo": "Vinarija Jović",
+   "artikul": "10102270 2022",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23423-jovic-vranac-potrkanjski"
+  },
+  {
+   "nomer": "26761",
+   "vino": "Karić Adria Belo",
+   "hozyaistvo": "Vinarija Karić",
+   "artikul": "10101375 2024",
+   "cena_rsd": 1695.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26761-karic-adria-belo"
+  },
+  {
+   "nomer": "24550",
+   "vino": "Karić Adria Belo",
+   "hozyaistvo": "Vinarija Karić",
+   "artikul": "10101375 2023",
+   "cena_rsd": 1695.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24550-karic-adria-belo"
+  },
+  {
+   "nomer": "22982",
+   "vino": "Karić Adria Crveno",
+   "hozyaistvo": "Vinarija Karić",
+   "artikul": "10102903 2023",
+   "cena_rsd": 1990.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22982-karic-adria-crveno"
+  },
+  {
+   "nomer": "25742",
+   "vino": "Katanić Leon",
+   "hozyaistvo": "Vinarija Katanić",
+   "artikul": "10101677 2024",
+   "cena_rsd": 2285.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25742-katanic-leon"
+  },
+  {
+   "nomer": "25744",
+   "vino": "Katanić Oskar",
+   "hozyaistvo": "Vinarija Katanić",
+   "artikul": "10102960 2022",
+   "cena_rsd": 2285.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25744-katanic-oskar"
+  },
+  {
+   "nomer": "22909",
+   "vino": "Kepul Beli Burgundac",
+   "hozyaistvo": "Vinarija Kepul",
+   "artikul": "10101489 2023",
+   "cena_rsd": 1455.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22909-kepul-beli-burgundac"
+  },
+  {
+   "nomer": "26399",
+   "vino": "Kepul Morava",
+   "hozyaistvo": "Vinarija Kepul",
+   "artikul": "10101490 2025",
+   "cena_rsd": 1600.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26399-kepul-morava"
+  },
+  {
+   "nomer": "25729",
+   "vino": "Kepul Probus",
+   "hozyaistvo": "Vinarija Kepul",
+   "artikul": "10102849 2024",
+   "cena_rsd": 2610.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25729-kepul-probus"
+  },
+  {
+   "nomer": "26777",
+   "vino": "Kiš Bermet Beli 0,5L",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10101551 2026",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26777-kis-bermet-beli-05l"
+  },
+  {
+   "nomer": "24188",
+   "vino": "Kiš Bermet Beli 0,5L",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10101551 2025",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24188-kis-bermet-beli-05l"
+  },
+  {
+   "nomer": "26778",
+   "vino": "Kiš Bermet Crveni",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10102220 2026",
+   "cena_rsd": 1515.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26778-kis-bermet-crveni"
+  },
+  {
+   "nomer": "23909",
+   "vino": "Kiš Bermet Crveni",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10102220 2025",
+   "cena_rsd": 1515.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23909-kis-bermet-crveni"
+  },
+  {
+   "nomer": "24839",
+   "vino": "Kiš Grašac Beli",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10101028 2024",
+   "cena_rsd": 1320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24839-kis-grasac-beli"
+  },
+  {
+   "nomer": "24187",
+   "vino": "Kiš Grašac Beli",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10101028 2023",
+   "cena_rsd": 1320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24187-kis-grasac-beli"
+  },
+  {
+   "nomer": "23312",
+   "vino": "Kiš Merlot",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10102106 2022",
+   "cena_rsd": 1715.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23312-kis-merlot"
+  },
+  {
+   "nomer": "26475",
+   "vino": "Kiš Misterija",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10101029 2025",
+   "cena_rsd": 1335.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26475-kis-misterija"
+  },
+  {
+   "nomer": "24840",
+   "vino": "Kiš Misterija",
+   "hozyaistvo": "Vinarija Kiš",
+   "artikul": "10101029 2024",
+   "cena_rsd": 1335.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24840-kis-misterija"
+  },
+  {
+   "nomer": "26631",
+   "vino": "Knežević 321 Cuvee",
+   "hozyaistvo": "Vinarija Knežević",
+   "artikul": "10101703 2025",
+   "cena_rsd": 1470.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26631-knezevic-321-cuvee"
+  },
+  {
+   "nomer": "26633",
+   "vino": "Knežević Grašac",
+   "hozyaistvo": "Vinarija Knežević",
+   "artikul": "10101704 2025",
+   "cena_rsd": 1770.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26633-knezevic-grasac"
+  },
+  {
+   "nomer": "25777",
+   "vino": "Komuna Chardonnay",
+   "hozyaistvo": "Vinarija Komuna",
+   "artikul": "10101070 2024",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25777-komuna-chardonnay"
+  },
+  {
+   "nomer": "19802",
+   "vino": "Komuna Chardonnay",
+   "hozyaistvo": "Vinarija Komuna",
+   "artikul": "10101070 2021",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19802-komuna-chardonnay"
+  },
+  {
+   "nomer": "19098",
+   "vino": "Komuna Merlot",
+   "hozyaistvo": "Vinarija Komuna",
+   "artikul": "10102350 2019",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19098-komuna-merlot"
+  },
+  {
+   "nomer": "25512",
+   "vino": "Komuna Muscat Petit Grain",
+   "hozyaistvo": "Vinarija Komuna",
+   "artikul": "10101071 2025",
+   "cena_rsd": 1160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25512-komuna-muscat-petit-grain"
+  },
+  {
+   "nomer": "25102",
+   "vino": "Kostić Prokupac Barrique",
+   "hozyaistvo": "Kostić",
+   "artikul": "10102626 2024",
+   "cena_rsd": 2250.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25102-kostic-prokupac-barrique"
+  },
+  {
+   "nomer": "26056",
+   "vino": "Kovačević Amber Cuvee",
+   "hozyaistvo": "",
+   "artikul": "10101539 2023",
+   "cena_rsd": 2610.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26056-kovacevic-amber-cuvee"
+  },
+  {
+   "nomer": "22438",
+   "vino": "Kovačević Amber Cuvee",
+   "hozyaistvo": "",
+   "artikul": "10101539 2022",
+   "cena_rsd": 2610.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22438-kovacevic-amber-cuvee"
+  },
+  {
+   "nomer": "25460",
+   "vino": "Kovačević Aurelius",
+   "hozyaistvo": "",
+   "artikul": "10102247 2023",
+   "cena_rsd": 1670.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25460-kovacevic-aurelius"
+  },
+  {
+   "nomer": "20345",
+   "vino": "Kovačević Aurelius Edicija S",
+   "hozyaistvo": "",
+   "artikul": "10102459 2021",
+   "cena_rsd": 2900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20345-kovacevic-aurelius-edicija-s"
+  },
+  {
+   "nomer": "22943",
+   "vino": "Kovačević Aurelius S 1,5L",
+   "hozyaistvo": "",
+   "artikul": "10102644 2019",
+   "cena_rsd": 7200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22943-kovacevic-aurelius-s-15l"
+  },
+  {
+   "nomer": "21966",
+   "vino": "Kovačević Aurelius S 3L",
+   "hozyaistvo": "",
+   "artikul": "10102645 2021",
+   "cena_rsd": 21575.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21966-kovacevic-aurelius-s-3l"
+  },
+  {
+   "nomer": "25436",
+   "vino": "Kovačević Bermet Beli",
+   "hozyaistvo": "",
+   "artikul": "10101565 2025",
+   "cena_rsd": 1525.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25436-kovacevic-bermet-beli"
+  },
+  {
+   "nomer": "22036",
+   "vino": "Kovačević Bermet Beli",
+   "hozyaistvo": "",
+   "artikul": "10101565 2024",
+   "cena_rsd": 1525.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22036-kovacevic-bermet-beli"
+  },
+  {
+   "nomer": "24551",
+   "vino": "Kovačević Bermet Crveni",
+   "hozyaistvo": "",
+   "artikul": "10102376 2025",
+   "cena_rsd": 1310.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24551-kovacevic-bermet-crveni"
+  },
+  {
+   "nomer": "21967",
+   "vino": "Kovačević Bermet Crveni",
+   "hozyaistvo": "",
+   "artikul": "10102376 2024",
+   "cena_rsd": 1310.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21967-kovacevic-bermet-crveni"
+  },
+  {
+   "nomer": "22436",
+   "vino": "Kovačević Cabernet Sauvignon Edicija R",
+   "hozyaistvo": "",
+   "artikul": "10102887 2017",
+   "cena_rsd": 11510.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22436-kovacevic-cabernet-sauvignon-edicija-r"
+  },
+  {
+   "nomer": "26055",
+   "vino": "Kovačević Chardonnay",
+   "hozyaistvo": "",
+   "artikul": "10101037 2025",
+   "cena_rsd": 1530.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26055-kovacevic-chardonnay"
+  },
+  {
+   "nomer": "23724",
+   "vino": "Kovačević Chardonnay",
+   "hozyaistvo": "",
+   "artikul": "10101037 2024",
+   "cena_rsd": 1530.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23724-kovacevic-chardonnay"
+  },
+  {
+   "nomer": "22185",
+   "vino": "Kovačević Chardonnay Edicija S",
+   "hozyaistvo": "",
+   "artikul": "10101033 2022",
+   "cena_rsd": 2320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22185-kovacevic-chardonnay-edicija-s"
+  },
+  {
+   "nomer": "9185",
+   "vino": "Kovačević Fresco Bianco",
+   "hozyaistvo": "",
+   "artikul": "10104027 Non-Vintage",
+   "cena_rsd": 1195.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/9185-kovacevic-fresco-bianco"
+  },
+  {
+   "nomer": "9187",
+   "vino": "Kovačević Fresco Rose",
+   "hozyaistvo": "",
+   "artikul": "10104028 Non-Vintage",
+   "cena_rsd": 1195.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/9187-kovacevic-fresco-rose"
+  },
+  {
+   "nomer": "26149",
+   "vino": "Kovačević Penušavac",
+   "hozyaistvo": "",
+   "artikul": "10104004 2022",
+   "cena_rsd": 2610.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26149-kovacevic-penusavac"
+  },
+  {
+   "nomer": "16578",
+   "vino": "Kovačević Penušavac",
+   "hozyaistvo": "",
+   "artikul": "10104004 2011",
+   "cena_rsd": 2610.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16578-kovacevic-penusavac"
+  },
+  {
+   "nomer": "26748",
+   "vino": "Kovačević Penušavac R",
+   "hozyaistvo": "",
+   "artikul": "10104034 2012",
+   "cena_rsd": 3480.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26748-kovacevic-penusavac-r"
+  },
+  {
+   "nomer": "26454",
+   "vino": "Kovačević Pro Pro",
+   "hozyaistvo": "",
+   "artikul": "10102974 2021",
+   "cena_rsd": 2030.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26454-kovacevic-pro-pro"
+  },
+  {
+   "nomer": "23995",
+   "vino": "Kovačević Sauvignon Edicija S",
+   "hozyaistvo": "",
+   "artikul": "10101034 2023",
+   "cena_rsd": 2320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23995-kovacevic-sauvignon-edicija-s"
+  },
+  {
+   "nomer": "25518",
+   "vino": "Kraljevski Sauvignon Blanc",
+   "hozyaistvo": "Kraljevska Vinarija",
+   "artikul": "10101507 2023",
+   "cena_rsd": 1845.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25518-kraljevski-sauvignon-blanc"
+  },
+  {
+   "nomer": "24443",
+   "vino": "Krstašica Konekcija Merlot",
+   "hozyaistvo": "Vinarija Krstašica",
+   "artikul": "10102937 2021",
+   "cena_rsd": 1850.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24443-krstasica-konekcija-merlot"
+  },
+  {
+   "nomer": "24441",
+   "vino": "Krstašica Konekcija Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Krstašica",
+   "artikul": "10101645 2022",
+   "cena_rsd": 1450.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24441-krstasica-konekcija-sauvignon-blanc"
+  },
+  {
+   "nomer": "25677",
+   "vino": "La Gora Bello",
+   "hozyaistvo": "La Gora",
+   "artikul": "10101672 2024",
+   "cena_rsd": 2235.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25677-la-gora-bello"
+  },
+  {
+   "nomer": "25679",
+   "vino": "La Gora Lupo",
+   "hozyaistvo": "La Gora",
+   "artikul": "10101673 2024",
+   "cena_rsd": 3550.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25679-la-gora-lupo"
+  },
+  {
+   "nomer": "24067",
+   "vino": "Lakićević Slobodanka Ice Wine",
+   "hozyaistvo": "Vinarija Lakićević",
+   "artikul": "10101617 2019",
+   "cena_rsd": 5215.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24067-lakicevic-slobodanka-ice-wine"
+  },
+  {
+   "nomer": "24244",
+   "vino": "Lakićević Solaris",
+   "hozyaistvo": "Vinarija Lakićević",
+   "artikul": "10101516 2022",
+   "cena_rsd": 3000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24244-lakicevic-solaris"
+  },
+  {
+   "nomer": "24448",
+   "vino": "Lakićević Upupa",
+   "hozyaistvo": "Vinarija Lakićević",
+   "artikul": "10101467 2024",
+   "cena_rsd": 2320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24448-lakicevic-upupa"
+  },
+  {
+   "nomer": "20974",
+   "vino": "Larmandier Bernier Champagne Latitude",
+   "hozyaistvo": "Larmandier-Bernier",
+   "artikul": "10101497 Non-Vintage",
+   "cena_rsd": 8800.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20974-larmandier-bernier-champagne-latitude"
+  },
+  {
+   "nomer": "20975",
+   "vino": "Larmandier Bernier Champagne Longitude",
+   "hozyaistvo": "Larmandier-Bernier",
+   "artikul": "10101498 Non-Vintage",
+   "cena_rsd": 9960.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20975-larmandier-bernier-champagne-longitude"
+  },
+  {
+   "nomer": "23252",
+   "vino": "Larmandier Bernier Champagne Terre de Vertus",
+   "hozyaistvo": "Larmandier-Bernier",
+   "artikul": "10101499 2017",
+   "cena_rsd": 14700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23252-larmandier-bernier-champagne-terre-de-vertus"
+  },
+  {
+   "nomer": "23084",
+   "vino": "Madžić Merlot",
+   "hozyaistvo": "Podrum Madžić",
+   "artikul": "10102818 2021",
+   "cena_rsd": 1530.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23084-madzic-merlot"
+  },
+  {
+   "nomer": "25770",
+   "vino": "Magaza Merlot",
+   "hozyaistvo": "Vinarija Magaza",
+   "artikul": "10102599 2019",
+   "cena_rsd": 1580.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25770-magaza-merlot"
+  },
+  {
+   "nomer": "12133",
+   "vino": "Magaza Merlot",
+   "hozyaistvo": "Vinarija Magaza",
+   "artikul": "10102599 2017",
+   "cena_rsd": 1580.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/12133-magaza-merlot"
+  },
+  {
+   "nomer": "24581",
+   "vino": "Malča Anonymous Crna Tamjanika Belo",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10101647 2024",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24581-malca-anonymous-crna-tamjanika-belo"
+  },
+  {
+   "nomer": "24583",
+   "vino": "Malča Anonymous Crna Tamjanika Crveno",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10102940 2022",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24583-malca-anonymous-crna-tamjanika-crveno"
+  },
+  {
+   "nomer": "24577",
+   "vino": "Malča Anonymous Frankovka Bariq",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10102939 2021",
+   "cena_rsd": 1775.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24577-malca-anonymous-frankovka-bariq"
+  },
+  {
+   "nomer": "24585",
+   "vino": "Malča Anonymous Smederevka Bariq",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10101648 2020",
+   "cena_rsd": 1775.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24585-malca-anonymous-smederevka-bariq"
+  },
+  {
+   "nomer": "24586",
+   "vino": "Malča Carica Jelena",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10101139 2014",
+   "cena_rsd": 3570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24586-malca-carica-jelena"
+  },
+  {
+   "nomer": "1841",
+   "vino": "Malča Carica Jelena",
+   "hozyaistvo": "",
+   "artikul": "10101139 2012",
+   "cena_rsd": 3570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/1841-malca-carica-jelena"
+  },
+  {
+   "nomer": "25956",
+   "vino": "Malča Konstantin Veliki",
+   "hozyaistvo": "Podrum Malča",
+   "artikul": "10102208 2020",
+   "cena_rsd": 3570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25956-malca-konstantin-veliki"
+  },
+  {
+   "nomer": "25719",
+   "vino": "Marko Carine",
+   "hozyaistvo": "Vinarija Marko",
+   "artikul": "10102958 2020",
+   "cena_rsd": 2740.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25719-marko-carine"
+  },
+  {
+   "nomer": "25721",
+   "vino": "Marko Doajen Chardonnay",
+   "hozyaistvo": "Vinarija Marko",
+   "artikul": "10101675 2024",
+   "cena_rsd": 2730.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25721-marko-doajen-chardonnay"
+  },
+  {
+   "nomer": "25723",
+   "vino": "Marko Doajen Prokupac",
+   "hozyaistvo": "Vinarija Marko",
+   "artikul": "10102959 2022",
+   "cena_rsd": 4065.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25723-marko-doajen-prokupac"
+  },
+  {
+   "nomer": "25725",
+   "vino": "Marko Doajen Tamjanika",
+   "hozyaistvo": "Vinarija Marko",
+   "artikul": "10101676 2023",
+   "cena_rsd": 4090.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25725-marko-doajen-tamjanika"
+  },
+  {
+   "nomer": "25715",
+   "vino": "Marko Dualismo Tamjanika",
+   "hozyaistvo": "Vinarija Marko",
+   "artikul": "10101674 2024",
+   "cena_rsd": 1625.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25715-marko-dualismo-tamjanika"
+  },
+  {
+   "nomer": "25717",
+   "vino": "Marko Rose",
+   "hozyaistvo": "Vinarija Marko",
+   "artikul": "10103143 2024",
+   "cena_rsd": 1355.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25717-marko-rose"
+  },
+  {
+   "nomer": "26243",
+   "vino": "Matalj Bukovski Cuvee",
+   "hozyaistvo": "Vinarija Matalj",
+   "artikul": "10102764 2022",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26243-matalj-bukovski-cuvee"
+  },
+  {
+   "nomer": "22283",
+   "vino": "Matalj Kremen 1,5l",
+   "hozyaistvo": "Vinarija Matalj",
+   "artikul": "10102825 2019",
+   "cena_rsd": 4825.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22283-matalj-kremen-15l"
+  },
+  {
+   "nomer": "22882",
+   "vino": "Matalj Kremen Kamen",
+   "hozyaistvo": "Vinarija Matalj",
+   "artikul": "10102225 2020",
+   "cena_rsd": 12500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22882-matalj-kremen-kamen"
+  },
+  {
+   "nomer": "21403",
+   "vino": "Matalj Zemna",
+   "hozyaistvo": "Matalj",
+   "artikul": "10102851 2021",
+   "cena_rsd": 3995.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21403-matalj-zemna"
+  },
+  {
+   "nomer": "25612",
+   "vino": "Matijašević Belina",
+   "hozyaistvo": "Matijašević Vinogradi",
+   "artikul": "10101310 2022",
+   "cena_rsd": 1480.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25612-matijasevic-belina"
+  },
+  {
+   "nomer": "19081",
+   "vino": "Matijašević Belina Oranž",
+   "hozyaistvo": "Matijašević Vinogradi",
+   "artikul": "10105007 2020",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19081-matijasevic-belina-oranz"
+  },
+  {
+   "nomer": "25566",
+   "vino": "Matijašević Čukundeda",
+   "hozyaistvo": "Matijašević Vinogradi",
+   "artikul": "10102728 2022",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25566-matijasevic-cukundeda"
+  },
+  {
+   "nomer": "19433",
+   "vino": "Matijašević Čukundeda Superiore",
+   "hozyaistvo": "Matijašević Vinogradi",
+   "artikul": "10102829 2019",
+   "cena_rsd": 22720.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19433-matijasevic-cukundeda-superiore"
+  },
+  {
+   "nomer": "24175",
+   "vino": "Matijašević Merlot Tri Doline",
+   "hozyaistvo": "Matijašević Vinogradi",
+   "artikul": "10102761 2021",
+   "cena_rsd": 2250.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24175-matijasevic-merlot-tri-doline"
+  },
+  {
+   "nomer": "25965",
+   "vino": "Matijašević SoviNoa",
+   "hozyaistvo": "Matijašević Vinogradi",
+   "artikul": "10101309 2025",
+   "cena_rsd": 2115.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25965-matijasevic-sovinoa"
+  },
+  {
+   "nomer": "24855",
+   "vino": "Matijašević SoviNoa Fume Blanc",
+   "hozyaistvo": "Matijašević Vinogradi",
+   "artikul": "10101413 2023",
+   "cena_rsd": 5700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24855-matijasevic-sovinoa-fume-blanc"
+  },
+  {
+   "nomer": "22806",
+   "vino": "Maurer Aladin",
+   "hozyaistvo": "Maurer",
+   "artikul": "10102895 2020",
+   "cena_rsd": 2560.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22806-maurer-aladin"
+  },
+  {
+   "nomer": "26556",
+   "vino": "Maurer Crazy Lud White",
+   "hozyaistvo": "Oszkar Maurer",
+   "artikul": "10101695 2025",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26556-maurer-crazy-lud-white"
+  },
+  {
+   "nomer": "26406",
+   "vino": "Maurer Crazy Lud White",
+   "hozyaistvo": "Oszkar Maurer",
+   "artikul": "10101695 2024",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26406-maurer-crazy-lud-white"
+  },
+  {
+   "nomer": "24427",
+   "vino": "Milanović Neoplanta",
+   "hozyaistvo": "Vinarija Milanović",
+   "artikul": "10101447 2023",
+   "cena_rsd": 1650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24427-milanovic-neoplanta"
+  },
+  {
+   "nomer": "25337",
+   "vino": "Milanović Probus",
+   "hozyaistvo": "Vinarija Milanović",
+   "artikul": "10102179 2024",
+   "cena_rsd": 2280.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25337-milanovic-probus"
+  },
+  {
+   "nomer": "25377",
+   "vino": "Milanović Sila",
+   "hozyaistvo": "Vinarija Milanović",
+   "artikul": "10101496 2024",
+   "cena_rsd": 1845.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25377-milanovic-sila"
+  },
+  {
+   "nomer": "22173",
+   "vino": "Milićević Vladavina",
+   "hozyaistvo": "Vinarija Milićević",
+   "artikul": "10102880 2021",
+   "cena_rsd": 6455.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22173-milicevic-vladavina"
+  },
+  {
+   "nomer": "21136",
+   "vino": "Milijan Jelić Kameničanka",
+   "hozyaistvo": "Vinarija Milijan Jelić",
+   "artikul": "10102275 2019",
+   "cena_rsd": 1695.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21136-milijan-jelic-kamenicanka"
+  },
+  {
+   "nomer": "23011",
+   "vino": "Milijan Jelić Mammoth",
+   "hozyaistvo": "Vinarija Milijan Jelić",
+   "artikul": "10102215 2020",
+   "cena_rsd": 2190.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23011-milijan-jelic-mammoth"
+  },
+  {
+   "nomer": "18327",
+   "vino": "Milijan Jelić Mammoth",
+   "hozyaistvo": "Vinarija Milijan Jelić",
+   "artikul": "10102215 2017",
+   "cena_rsd": 2190.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18327-milijan-jelic-mammoth"
+  },
+  {
+   "nomer": "25691",
+   "vino": "Milijan Jelić Millennium",
+   "hozyaistvo": "Vinarija Milijan Jelić",
+   "artikul": "10102276 2017",
+   "cena_rsd": 2190.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25691-milijan-jelic-millennium"
+  },
+  {
+   "nomer": "25609",
+   "vino": "Milijan Jelić Morange",
+   "hozyaistvo": "Vinarija Milijan Jelić",
+   "artikul": "10105001 2022",
+   "cena_rsd": 2015.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25609-milijan-jelic-morange"
+  },
+  {
+   "nomer": "20696",
+   "vino": "Milijan Jelić Morange",
+   "hozyaistvo": "Vinarija Milijan Jelić",
+   "artikul": "10105001 2018",
+   "cena_rsd": 2015.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20696-milijan-jelic-morange"
+  },
+  {
+   "nomer": "25608",
+   "vino": "Milijan Jelić Morava",
+   "hozyaistvo": "Milijan Jelić",
+   "artikul": "10101123 2024",
+   "cena_rsd": 1695.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25608-milijan-jelic-morava"
+  },
+  {
+   "nomer": "23532",
+   "vino": "Milosavljević Vila Vina Jefimija",
+   "hozyaistvo": "Vinarija Milosavljević",
+   "artikul": "10101230 2022",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23532-milosavljevic-vila-vina-jefimija"
+  },
+  {
+   "nomer": "24001",
+   "vino": "Milosavljević Vila Vina Prokupac",
+   "hozyaistvo": "Vinarija Milosavljević",
+   "artikul": "10102365 2022",
+   "cena_rsd": 1400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24001-milosavljevic-vila-vina-prokupac"
+  },
+  {
+   "nomer": "25979",
+   "vino": "Milosavljević Vila Vina Tamjanika",
+   "hozyaistvo": "Vinarija Milosavljević",
+   "artikul": "10101642 2025",
+   "cena_rsd": 1220.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25979-milosavljevic-vila-vina-tamjanika"
+  },
+  {
+   "nomer": "21876",
+   "vino": "Mitrović Imperijum",
+   "hozyaistvo": "Vinarija Mitrović",
+   "artikul": "10102873 2020",
+   "cena_rsd": 3200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21876-mitrovic-imperijum"
+  },
+  {
+   "nomer": "21872",
+   "vino": "Mitrović Monogram",
+   "hozyaistvo": "Vinarija Mitrović",
+   "artikul": "10101519 2021",
+   "cena_rsd": 2000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21872-mitrovic-monogram"
+  },
+  {
+   "nomer": "21874",
+   "vino": "Mitrović Simfonija",
+   "hozyaistvo": "Vinarija Mitrović",
+   "artikul": "10102872 2021",
+   "cena_rsd": 2130.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21874-mitrovic-simfonija"
+  },
+  {
+   "nomer": "23905",
+   "vino": "Moja Vinarija Cuvee",
+   "hozyaistvo": "Moja vinarija",
+   "artikul": "10102924 2023",
+   "cena_rsd": 1970.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23905-moja-vinarija-cuvee"
+  },
+  {
+   "nomer": "23907",
+   "vino": "Moja Vinarija Tamjanika",
+   "hozyaistvo": "Moja vinarija",
+   "artikul": "10101608 2023",
+   "cena_rsd": 2085.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23907-moja-vinarija-tamjanika"
+  },
+  {
+   "nomer": "21249",
+   "vino": "Molovin Inat Frankovka",
+   "hozyaistvo": "Vinarija Molowinery",
+   "artikul": "10102260 2020",
+   "cena_rsd": 1785.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21249-molovin-inat-frankovka"
+  },
+  {
+   "nomer": "22168",
+   "vino": "Molovin Inat Merlot Limited",
+   "hozyaistvo": "Vinarija Molowinery",
+   "artikul": "10102879 2019",
+   "cena_rsd": 3550.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22168-molovin-inat-merlot-limited"
+  },
+  {
+   "nomer": "22170",
+   "vino": "Molovin Inat Rajnski Rizling",
+   "hozyaistvo": "Vinarija Molowinery",
+   "artikul": "10101529 2021",
+   "cena_rsd": 2850.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22170-molovin-inat-rajnski-rizling"
+  },
+  {
+   "nomer": "20490",
+   "vino": "Molovin Inat Traminac",
+   "hozyaistvo": "Vinarija Molowinery",
+   "artikul": "10101112 2021",
+   "cena_rsd": 1575.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20490-molovin-inat-traminac"
+  },
+  {
+   "nomer": "17191",
+   "vino": "MV Kaberne SF",
+   "hozyaistvo": "MV Vinarija",
+   "artikul": "10102781 2018",
+   "cena_rsd": 2020.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17191-mv-kaberne-sf"
+  },
+  {
+   "nomer": "23759",
+   "vino": "MV Tamjanika",
+   "hozyaistvo": "MV Vinarija",
+   "artikul": "10101421 2022",
+   "cena_rsd": 1730.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23759-mv-tamjanika"
+  },
+  {
+   "nomer": "24256",
+   "vino": "Nera Lesa",
+   "hozyaistvo": "Vinarija Nera",
+   "artikul": "10101632 2023",
+   "cena_rsd": 1490.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24256-nera-lesa"
+  },
+  {
+   "nomer": "24254",
+   "vino": "Nera Panorama",
+   "hozyaistvo": "Vinarija Nera",
+   "artikul": "10102933 2020",
+   "cena_rsd": 2170.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24254-nera-panorama"
+  },
+  {
+   "nomer": "16836",
+   "vino": "Nikad Nije Kasno Signature",
+   "hozyaistvo": "Vinarija Nikad Nije Kasno",
+   "artikul": "10102601 2017",
+   "cena_rsd": 2720.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16836-nikad-nije-kasno-signature"
+  },
+  {
+   "nomer": "25573",
+   "vino": "Nikad Nije Kasno Simfonija",
+   "hozyaistvo": "Vinarija Nikad Nije Kasno",
+   "artikul": "10102662 2022",
+   "cena_rsd": 1265.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25573-nikad-nije-kasno-simfonija"
+  },
+  {
+   "nomer": "24940",
+   "vino": "Novak Bagrina",
+   "hozyaistvo": "Vinarija Novak",
+   "artikul": "10101369 2024",
+   "cena_rsd": 2100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24940-novak-bagrina"
+  },
+  {
+   "nomer": "14695",
+   "vino": "Novak Cabernet Sauvignon",
+   "hozyaistvo": "Vinarija Novak",
+   "artikul": "10102720 2018",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/14695-novak-cabernet-sauvignon"
+  },
+  {
+   "nomer": "22755",
+   "vino": "Novak Crna Tamjanika",
+   "hozyaistvo": "Vinarija Novak",
+   "artikul": "10102721 2019",
+   "cena_rsd": 1955.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22755-novak-crna-tamjanika"
+  },
+  {
+   "nomer": "25201",
+   "vino": "Panjković Mudrost",
+   "hozyaistvo": "Vinarija Panjković",
+   "artikul": "10101438 2021",
+   "cena_rsd": 1745.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25201-panjkovic-mudrost"
+  },
+  {
+   "nomer": "18076",
+   "vino": "Panjković Radost",
+   "hozyaistvo": "Vinarija Panjković",
+   "artikul": "10102794 2020",
+   "cena_rsd": 1430.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18076-panjkovic-radost"
+  },
+  {
+   "nomer": "16670",
+   "vino": "Paraf Cabernet Sauvignon",
+   "hozyaistvo": "Paraf Vinski Atelje",
+   "artikul": "10102760 Non-Vintage",
+   "cena_rsd": 3495.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16670-paraf-cabernet-sauvignon"
+  },
+  {
+   "nomer": "17050",
+   "vino": "Patkov Knez Miškin",
+   "hozyaistvo": "Vinarija Patkov",
+   "artikul": "10101268 2020",
+   "cena_rsd": 1290.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17050-patkov-knez-miskin"
+  },
+  {
+   "nomer": "11381",
+   "vino": "Patkov Majstor i Margarita",
+   "hozyaistvo": "Vinarija Patkov",
+   "artikul": "10101267 2017",
+   "cena_rsd": 1220.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/11381-patkov-majstor-i-margarita"
+  },
+  {
+   "nomer": "24794",
+   "vino": "Pearl PetNat",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101654 2023",
+   "cena_rsd": 1365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24794-pearl-petnat"
+  },
+  {
+   "nomer": "24737",
+   "vino": "Petra Cuvee",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10102948 2022",
+   "cena_rsd": 3295.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24737-petra-cuvee"
+  },
+  {
+   "nomer": "24739",
+   "vino": "Petra Orange Pinot Grigio",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10105013 2021",
+   "cena_rsd": 2955.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24739-petra-orange-pinot-grigio"
+  },
+  {
+   "nomer": "23614",
+   "vino": "Petra Pinot Grigio",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10101527 2019",
+   "cena_rsd": 1360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23614-petra-pinot-grigio"
+  },
+  {
+   "nomer": "4533",
+   "vino": "Petra Pinot Noir Barrique",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10102466 2016",
+   "cena_rsd": 3180.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/4533-petra-pinot-noir-barrique"
+  },
+  {
+   "nomer": "24735",
+   "vino": "Petra Pinot Noir Reserva",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10102947 2018",
+   "cena_rsd": 6250.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24735-petra-pinot-noir-reserva"
+  },
+  {
+   "nomer": "24704",
+   "vino": "Petra Rose & Co",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10104011 2023",
+   "cena_rsd": 2045.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24704-petra-rose-co"
+  },
+  {
+   "nomer": "26559",
+   "vino": "Petra Traminac",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10101526 2024",
+   "cena_rsd": 2160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26559-petra-traminac"
+  },
+  {
+   "nomer": "25465",
+   "vino": "Petra Traminac Desertni 0,375L",
+   "hozyaistvo": "Vinarija Petra",
+   "artikul": "10101651 2019",
+   "cena_rsd": 1705.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25465-petra-traminac-desertni-0375l"
+  },
+  {
+   "nomer": "26169",
+   "vino": "Pevac Gušt Chardonnay",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10101689 2023",
+   "cena_rsd": 1255.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26169-pevac-gust-chardonnay"
+  },
+  {
+   "nomer": "26167",
+   "vino": "Pevac Gušt Chardonnay Barrique",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10101688 2022",
+   "cena_rsd": 2380.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26167-pevac-gust-chardonnay-barrique"
+  },
+  {
+   "nomer": "26170",
+   "vino": "Pevac Izazov Tamjanika",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10101234 2024",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26170-pevac-izazov-tamjanika"
+  },
+  {
+   "nomer": "26161",
+   "vino": "Pevac Kaberne Fran",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10102967 2024",
+   "cena_rsd": 1225.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26161-pevac-kaberne-fran"
+  },
+  {
+   "nomer": "26165",
+   "vino": "Pevac Prokupac",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10102969 2021",
+   "cena_rsd": 2100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26165-pevac-prokupac"
+  },
+  {
+   "nomer": "26159",
+   "vino": "Pevac Tiho Teče Morava",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10101687 2023",
+   "cena_rsd": 1400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26159-pevac-tiho-tece-morava"
+  },
+  {
+   "nomer": "26157",
+   "vino": "Pevac Tišina Malvazija",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10101686 2025",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26157-pevac-tisina-malvazija"
+  },
+  {
+   "nomer": "26163",
+   "vino": "Pevac Zagrljaj",
+   "hozyaistvo": "Podrum Pevac",
+   "artikul": "10102968 2020",
+   "cena_rsd": 3355.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26163-pevac-zagrljaj"
+  },
+  {
+   "nomer": "26229",
+   "vino": "Pirg Cabernet Sauvignon",
+   "hozyaistvo": "Pirg",
+   "artikul": "10102973 2021",
+   "cena_rsd": 5455.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26229-pirg-cabernet-sauvignon"
+  },
+  {
+   "nomer": "26227",
+   "vino": "Pirg Merlo",
+   "hozyaistvo": "Pirg",
+   "artikul": "10102972 2021",
+   "cena_rsd": 4100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26227-pirg-merlo"
+  },
+  {
+   "nomer": "25127",
+   "vino": "Pirg Sauvignon Barrique",
+   "hozyaistvo": "Pirg",
+   "artikul": "10101579 2023",
+   "cena_rsd": 2280.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25127-pirg-sauvignon-barrique"
+  },
+  {
+   "nomer": "26425",
+   "vino": "Pirg Sauvignon Blanc",
+   "hozyaistvo": "Pirg",
+   "artikul": "10101578 2024",
+   "cena_rsd": 1480.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26425-pirg-sauvignon-blanc"
+  },
+  {
+   "nomer": "23767",
+   "vino": "Pirg Škriljac",
+   "hozyaistvo": "Pirg",
+   "artikul": "10102921 2022",
+   "cena_rsd": 2730.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23767-pirg-skriljac"
+  },
+  {
+   "nomer": "26751",
+   "vino": "Pirg Tamjanika",
+   "hozyaistvo": "Pirg",
+   "artikul": "10101580 2025",
+   "cena_rsd": 1480.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26751-pirg-tamjanika"
+  },
+  {
+   "nomer": "25759",
+   "vino": "Pirg Tamjanika",
+   "hozyaistvo": "Pirg",
+   "artikul": "10101580 2024",
+   "cena_rsd": 1480.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25759-pirg-tamjanika"
+  },
+  {
+   "nomer": "23030",
+   "vino": "Pirg Vranac",
+   "hozyaistvo": "Pirg",
+   "artikul": "10102905 2022",
+   "cena_rsd": 2035.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23030-pirg-vranac"
+  },
+  {
+   "nomer": "14559",
+   "vino": "Pusula Cabernet Cuvee",
+   "hozyaistvo": "Vinarija Pusula",
+   "artikul": "10102705 2017",
+   "cena_rsd": 1635.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/14559-pusula-cabernet-cuvee"
+  },
+  {
+   "nomer": "26419",
+   "vino": "Pusula Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Pusula",
+   "artikul": "10101600 2025",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26419-pusula-sauvignon-blanc"
+  },
+  {
+   "nomer": "26420",
+   "vino": "Pusula Traminac",
+   "hozyaistvo": "Vinarija Pusula",
+   "artikul": "10101601 2024",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26420-pusula-traminac"
+  },
+  {
+   "nomer": "25749",
+   "vino": "Radovan Prokupac 100%",
+   "hozyaistvo": "Podrum Čokot",
+   "artikul": "10102435 2023",
+   "cena_rsd": 2870.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25749-radovan-prokupac-100"
+  },
+  {
+   "nomer": "24202",
+   "vino": "Radovan Tamjanika 100%",
+   "hozyaistvo": "Podrum Čokot",
+   "artikul": "10101208 2023",
+   "cena_rsd": 2400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24202-radovan-tamjanika-100"
+  },
+  {
+   "nomer": "23754",
+   "vino": "Radovanović Cabernet Sauvignon Classique",
+   "hozyaistvo": "",
+   "artikul": "10102265 2022",
+   "cena_rsd": 1595.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23754-radovanovic-cabernet-sauvignon-classique"
+  },
+  {
+   "nomer": "25727",
+   "vino": "Radovanović Cabernet Sauvignon Grand Reserva",
+   "hozyaistvo": "",
+   "artikul": "10102853 2019",
+   "cena_rsd": 10800.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25727-radovanovic-cabernet-sauvignon-grand-reserva"
+  },
+  {
+   "nomer": "21079",
+   "vino": "Radovanović Cabernet Sauvignon Grand Reserva 1,5L",
+   "hozyaistvo": "",
+   "artikul": "10102852 2017",
+   "cena_rsd": 21580.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21079-radovanovic-cabernet-sauvignon-grand-reserva-15l"
+  },
+  {
+   "nomer": "21945",
+   "vino": "Radovanović Cabernet Sauvignon Reserve",
+   "hozyaistvo": "",
+   "artikul": "10102248 2021",
+   "cena_rsd": 3765.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21945-radovanovic-cabernet-sauvignon-reserve"
+  },
+  {
+   "nomer": "19705",
+   "vino": "Radovanović Cabernet Sauvignon Reserve",
+   "hozyaistvo": "",
+   "artikul": "10102248 2020",
+   "cena_rsd": 4990.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19705-radovanovic-cabernet-sauvignon-reserve"
+  },
+  {
+   "nomer": "17588",
+   "vino": "Radovanović Cabernet Sauvignon Reserve",
+   "hozyaistvo": "",
+   "artikul": "10102248 2019",
+   "cena_rsd": 4990.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17588-radovanovic-cabernet-sauvignon-reserve"
+  },
+  {
+   "nomer": "25521",
+   "vino": "Radovanović Chardonnay Classique",
+   "hozyaistvo": "",
+   "artikul": "10101178 2025",
+   "cena_rsd": 1595.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25521-radovanovic-chardonnay-classique"
+  },
+  {
+   "nomer": "26830",
+   "vino": "Radovanović Chardonnay Selekcija",
+   "hozyaistvo": "",
+   "artikul": "10101177 2024",
+   "cena_rsd": 2390.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26830-radovanovic-chardonnay-selekcija"
+  },
+  {
+   "nomer": "24365",
+   "vino": "Radovanović Chardonnay Selekcija",
+   "hozyaistvo": "",
+   "artikul": "10101177 2023",
+   "cena_rsd": 2390.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24365-radovanovic-chardonnay-selekcija"
+  },
+  {
+   "nomer": "25984",
+   "vino": "Radovanović Franc Cabernet Sauvignon",
+   "hozyaistvo": "",
+   "artikul": "10102228 2022",
+   "cena_rsd": 2160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25984-radovanovic-franc-cabernet-sauvignon"
+  },
+  {
+   "nomer": "22052",
+   "vino": "Radovanović Franc Cabernet Sauvignon",
+   "hozyaistvo": "",
+   "artikul": "10102228 2021",
+   "cena_rsd": 2160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22052-radovanovic-franc-cabernet-sauvignon"
+  },
+  {
+   "nomer": "23157",
+   "vino": "Radovanović Pinot Sivi",
+   "hozyaistvo": "",
+   "artikul": "10101550 2023",
+   "cena_rsd": 1440.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23157-radovanovic-pinot-sivi"
+  },
+  {
+   "nomer": "19717",
+   "vino": "Radovanović Reserve Magnum",
+   "hozyaistvo": "",
+   "artikul": "10102767 2019",
+   "cena_rsd": 8135.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19717-radovanovic-reserve-magnum"
+  },
+  {
+   "nomer": "25578",
+   "vino": "Radovanović Riesling Rajnski",
+   "hozyaistvo": "",
+   "artikul": "10101179 2025",
+   "cena_rsd": 1375.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25578-radovanovic-riesling-rajnski"
+  },
+  {
+   "nomer": "25522",
+   "vino": "Radovanović Rose",
+   "hozyaistvo": "",
+   "artikul": "10103045 2025",
+   "cena_rsd": 1235.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25522-radovanovic-rose"
+  },
+  {
+   "nomer": "24049",
+   "vino": "Rajić Chardonnay",
+   "hozyaistvo": "Vinska kuća Rajić",
+   "artikul": "10101615 2023",
+   "cena_rsd": 2900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24049-rajic-chardonnay"
+  },
+  {
+   "nomer": "25672",
+   "vino": "Rajić Tamjanika",
+   "hozyaistvo": "Vinska kuća Rajić",
+   "artikul": "10101614 2024",
+   "cena_rsd": 2370.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25672-rajic-tamjanika"
+  },
+  {
+   "nomer": "24644",
+   "vino": "Rajković Prince Rskavac",
+   "hozyaistvo": "Vinarija Rajković",
+   "artikul": "10102357 2023",
+   "cena_rsd": 1490.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24644-rajkovic-prince-rskavac"
+  },
+  {
+   "nomer": "25030",
+   "vino": "Rajković Prokupac Nobile",
+   "hozyaistvo": "Vinarija Rajković",
+   "artikul": "10102951 2023",
+   "cena_rsd": 4100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25030-rajkovic-prokupac-nobile"
+  },
+  {
+   "nomer": "20835",
+   "vino": "Rajković Sofia Cuvee",
+   "hozyaistvo": "Vinarija Rajković",
+   "artikul": "10102271 2021",
+   "cena_rsd": 1230.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20835-rajkovic-sofia-cuvee"
+  },
+  {
+   "nomer": "26717",
+   "vino": "Rajković Sofia Tamjanika",
+   "hozyaistvo": "Vinarija Rajković",
+   "artikul": "10101192 2025",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26717-rajkovic-sofia-tamjanika"
+  },
+  {
+   "nomer": "25296",
+   "vino": "Rajković Tamjanika Nobile",
+   "hozyaistvo": "Vinarija Rajković",
+   "artikul": "10101577 2024",
+   "cena_rsd": 4100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25296-rajkovic-tamjanika-nobile"
+  },
+  {
+   "nomer": "24372",
+   "vino": "Rnjak Chardonnay",
+   "hozyaistvo": "Vinarija Rnjak",
+   "artikul": "10101571 2024",
+   "cena_rsd": 1360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24372-rnjak-chardonnay"
+  },
+  {
+   "nomer": "23317",
+   "vino": "Rnjak Cuvee De Rgnac",
+   "hozyaistvo": "Vinarija Rnjak",
+   "artikul": "10102823 2019",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23317-rnjak-cuvee-de-rgnac"
+  },
+  {
+   "nomer": "19317",
+   "vino": "Rnjak Cuvee De Rgnac",
+   "hozyaistvo": "Vinarija Rnjak",
+   "artikul": "10102823 2018",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19317-rnjak-cuvee-de-rgnac"
+  },
+  {
+   "nomer": "23535",
+   "vino": "Rnjak Pinot Noir",
+   "hozyaistvo": "Vinarija Rnjak",
+   "artikul": "10102643 2021",
+   "cena_rsd": 2730.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23535-rnjak-pinot-noir"
+  },
+  {
+   "nomer": "26774",
+   "vino": "Rnjak Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Rnjak",
+   "artikul": "10101572 2025",
+   "cena_rsd": 1365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26774-rnjak-sauvignon-blanc"
+  },
+  {
+   "nomer": "24556",
+   "vino": "Rnjak Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Rnjak",
+   "artikul": "10101572 2024",
+   "cena_rsd": 1365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24556-rnjak-sauvignon-blanc"
+  },
+  {
+   "nomer": "26756",
+   "vino": "Sagmeister Furmint Kew",
+   "hozyaistvo": "Sagmeister",
+   "artikul": "10101561 2021",
+   "cena_rsd": 3485.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26756-sagmeister-furmint-kew"
+  },
+  {
+   "nomer": "23628",
+   "vino": "Sagmeister Furmint Kew",
+   "hozyaistvo": "Sagmeister",
+   "artikul": "10101561 2020",
+   "cena_rsd": 3485.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23628-sagmeister-furmint-kew"
+  },
+  {
+   "nomer": "23393",
+   "vino": "Šapat Atila Cabernet Sauvignon",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10102914 2022",
+   "cena_rsd": 6700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23393-sapat-atila-cabernet-sauvignon"
+  },
+  {
+   "nomer": "26129",
+   "vino": "Šapat Atila Chardonnay",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10101528 2024",
+   "cena_rsd": 6700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26129-sapat-atila-chardonnay"
+  },
+  {
+   "nomer": "23739",
+   "vino": "Šapat Atila Chardonnay",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10101528 2023",
+   "cena_rsd": 6700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23739-sapat-atila-chardonnay"
+  },
+  {
+   "nomer": "22151",
+   "vino": "Šapat Atila Chardonnay",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10101528 2022",
+   "cena_rsd": 7300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22151-sapat-atila-chardonnay"
+  },
+  {
+   "nomer": "23160",
+   "vino": "Šapat Atila Sauvignon Blanc",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10101482 2023",
+   "cena_rsd": 5890.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23160-sapat-atila-sauvignon-blanc"
+  },
+  {
+   "nomer": "26118",
+   "vino": "Šapat Bianca",
+   "hozyaistvo": "",
+   "artikul": "10101483 2025",
+   "cena_rsd": 1540.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26118-sapat-bianca"
+  },
+  {
+   "nomer": "26188",
+   "vino": "Šapat Chardonnay",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10101067 2025",
+   "cena_rsd": 1680.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26188-sapat-chardonnay"
+  },
+  {
+   "nomer": "24261",
+   "vino": "Šapat Cuvee",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10102934 2022",
+   "cena_rsd": 2245.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24261-sapat-cuvee"
+  },
+  {
+   "nomer": "20057",
+   "vino": "Šapat Magnus Cuvee",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10102402 2020",
+   "cena_rsd": 1960.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20057-sapat-magnus-cuvee"
+  },
+  {
+   "nomer": "26429",
+   "vino": "Šapat Nera Merlot",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10102928 2023",
+   "cena_rsd": 1890.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26429-sapat-nera-merlot"
+  },
+  {
+   "nomer": "24170",
+   "vino": "Šapat Nera Merlot",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10102928 2022",
+   "cena_rsd": 1890.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24170-sapat-nera-merlot"
+  },
+  {
+   "nomer": "20056",
+   "vino": "Šapat Pi' Crveno",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10102403 2019",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20056-sapat-pi-crveno"
+  },
+  {
+   "nomer": "24199",
+   "vino": "Šapat Terol",
+   "hozyaistvo": "Atelje Vina Šapat",
+   "artikul": "10102932 2022",
+   "cena_rsd": 13700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24199-sapat-terol"
+  },
+  {
+   "nomer": "22452",
+   "vino": "Savić Merlot",
+   "hozyaistvo": "Vinarija Savić",
+   "artikul": "10102889 2021",
+   "cena_rsd": 3520.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22452-savic-merlot"
+  },
+  {
+   "nomer": "24085",
+   "vino": "Savić Prokupac",
+   "hozyaistvo": "Vinarija Savić",
+   "artikul": "10102888 2022",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24085-savic-prokupac"
+  },
+  {
+   "nomer": "25761",
+   "vino": "Savić Tamjanika",
+   "hozyaistvo": "Vinarija Savić",
+   "artikul": "10101542 2023",
+   "cena_rsd": 1460.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25761-savic-tamjanika"
+  },
+  {
+   "nomer": "24484",
+   "vino": "Savić Tamjanika",
+   "hozyaistvo": "Vinarija Savić",
+   "artikul": "10101542 2022",
+   "cena_rsd": 1460.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24484-savic-tamjanika"
+  },
+  {
+   "nomer": "22774",
+   "vino": "Selecta Pinot Grigio",
+   "hozyaistvo": "Vinarija Selecta",
+   "artikul": "10101557 2022",
+   "cena_rsd": 1120.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22774-selecta-pinot-grigio"
+  },
+  {
+   "nomer": "22781",
+   "vino": "Selecta Pinot Noir",
+   "hozyaistvo": "",
+   "artikul": "10102894 2021",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22781-selecta-pinot-noir"
+  },
+  {
+   "nomer": "26455",
+   "vino": "Šijački Rizling Italijanski",
+   "hozyaistvo": "Vinarija Šijački",
+   "artikul": "10101504 2025",
+   "cena_rsd": 1170.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26455-sijacki-rizling-italijanski"
+  },
+  {
+   "nomer": "25425",
+   "vino": "Šijački Seduša",
+   "hozyaistvo": "Vinarija Šijački",
+   "artikul": "10102860 2022",
+   "cena_rsd": 4245.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25425-sijacki-sedusa"
+  },
+  {
+   "nomer": "26837",
+   "vino": "Sokolov Zamak Marselan",
+   "hozyaistvo": "Sokolov Zamak",
+   "artikul": "10102801 2024",
+   "cena_rsd": 1620.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26837-sokolov-zamak-marselan"
+  },
+  {
+   "nomer": "20947",
+   "vino": "Sokolov Zamak Marselan",
+   "hozyaistvo": "Sokolov Zamak",
+   "artikul": "10102801 2021",
+   "cena_rsd": 1620.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20947-sokolov-zamak-marselan"
+  },
+  {
+   "nomer": "18351",
+   "vino": "Sokolov Zamak Merlot",
+   "hozyaistvo": "Vinarija Sokolov Zamak",
+   "artikul": "10102803 2019",
+   "cena_rsd": 1290.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18351-sokolov-zamak-merlot"
+  },
+  {
+   "nomer": "22593",
+   "vino": "Sokolov Zamak Pinot Noir",
+   "hozyaistvo": "Sokolov Zamak",
+   "artikul": "10102802 2021",
+   "cena_rsd": 1595.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22593-sokolov-zamak-pinot-noir"
+  },
+  {
+   "nomer": "25580",
+   "vino": "Sokolov Zamak Tamjanika",
+   "hozyaistvo": "Sokolov Zamak",
+   "artikul": "10101520 2024",
+   "cena_rsd": 1450.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25580-sokolov-zamak-tamjanika"
+  },
+  {
+   "nomer": "19181",
+   "vino": "Spasić Aždaja",
+   "hozyaistvo": "Vinarija Spasić",
+   "artikul": "10101318 2019",
+   "cena_rsd": 3625.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19181-spasic-azdaja"
+  },
+  {
+   "nomer": "20087",
+   "vino": "Spasić Despot",
+   "hozyaistvo": "Vinarija Spasić",
+   "artikul": "10102363 2019",
+   "cena_rsd": 1160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20087-spasic-despot"
+  },
+  {
+   "nomer": "24733",
+   "vino": "Spasić Rskavac",
+   "hozyaistvo": "Vinarska kuća Spasić",
+   "artikul": "10102946 2021",
+   "cena_rsd": 5050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24733-spasic-rskavac"
+  },
+  {
+   "nomer": "26504",
+   "vino": "Spasić Tamnjanika",
+   "hozyaistvo": "Vinarija Spasić",
+   "artikul": "10101081 2025",
+   "cena_rsd": 1160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26504-spasic-tamnjanika"
+  },
+  {
+   "nomer": "24205",
+   "vino": "Spasić Tamnjanika",
+   "hozyaistvo": "",
+   "artikul": "10101081 2024",
+   "cena_rsd": 1160.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24205-spasic-tamnjanika"
+  },
+  {
+   "nomer": "25298",
+   "vino": "Spasić Tamnjanika Lekcija",
+   "hozyaistvo": "Vinarija Spasić",
+   "artikul": "10101080 2023",
+   "cena_rsd": 1450.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25298-spasic-tamnjanika-lekcija"
+  },
+  {
+   "nomer": "24731",
+   "vino": "Spasić Župan",
+   "hozyaistvo": "Vinarska kuća Spasić",
+   "artikul": "10102945 2021",
+   "cena_rsd": 5050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24731-spasic-zupan"
+  },
+  {
+   "nomer": "26223",
+   "vino": "Stari Hrast Cabernet Merlot",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10102302 2023",
+   "cena_rsd": 1860.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26223-stari-hrast-cabernet-merlot"
+  },
+  {
+   "nomer": "25905",
+   "vino": "Stari Hrast Chardonnay",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10101573 2023",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25905-stari-hrast-chardonnay"
+  },
+  {
+   "nomer": "24766",
+   "vino": "Stari Hrast Chardonnay",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10101573 2022",
+   "cena_rsd": 1750.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24766-stari-hrast-chardonnay"
+  },
+  {
+   "nomer": "20503",
+   "vino": "Stari Hrast Merlot",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10102637 2021",
+   "cena_rsd": 1630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20503-stari-hrast-merlot"
+  },
+  {
+   "nomer": "20887",
+   "vino": "Stari Hrast Merlot Selekcija",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10102677 2019",
+   "cena_rsd": 3570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20887-stari-hrast-merlot-selekcija"
+  },
+  {
+   "nomer": "24767",
+   "vino": "Stari Hrast Sauvignon Blanc",
+   "hozyaistvo": "Podrum Stari Hrast",
+   "artikul": "10101574 2024",
+   "cena_rsd": 1570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24767-stari-hrast-sauvignon-blanc"
+  },
+  {
+   "nomer": "21725",
+   "vino": "Stemina Stephanos",
+   "hozyaistvo": "Vinarija Stemina",
+   "artikul": "10102370 2021",
+   "cena_rsd": 2000.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21725-stemina-stephanos"
+  },
+  {
+   "nomer": "24203",
+   "vino": "Stojanović Krokan",
+   "hozyaistvo": "Vinodulija-Vinarija Stojanović",
+   "artikul": "10101270 2023",
+   "cena_rsd": 1625.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24203-stojanovic-krokan"
+  },
+  {
+   "nomer": "24204",
+   "vino": "Stojanović Peharnik",
+   "hozyaistvo": "Vinodulija-Vinarija Stojanović",
+   "artikul": "10102614 2020",
+   "cena_rsd": 2710.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24204-stojanovic-peharnik"
+  },
+  {
+   "nomer": "25364",
+   "vino": "Suveren",
+   "hozyaistvo": "Vinarija Zadužbina kralja Petra I",
+   "artikul": "10102055 2022",
+   "cena_rsd": 3385.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25364-suveren"
+  },
+  {
+   "nomer": "22335",
+   "vino": "Temet Beli Kamen Morava",
+   "hozyaistvo": "",
+   "artikul": "10101534 2020",
+   "cena_rsd": 5435.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22335-temet-beli-kamen-morava"
+  },
+  {
+   "nomer": "22337",
+   "vino": "Temet Beli Kamen Prokupac",
+   "hozyaistvo": "",
+   "artikul": "10102881 2019",
+   "cena_rsd": 4795.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22337-temet-beli-kamen-prokupac"
+  },
+  {
+   "nomer": "25008",
+   "vino": "Temet Ergo Penušavac Rose",
+   "hozyaistvo": "",
+   "artikul": "10104012 2019",
+   "cena_rsd": 4795.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25008-temet-ergo-penusavac-rose"
+  },
+  {
+   "nomer": "20443",
+   "vino": "Temet Tri Morave Reserva Crveno -Drvena Kutija",
+   "hozyaistvo": "",
+   "artikul": "10102848 2019",
+   "cena_rsd": 11900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20443-temet-tri-morave-reserva-crveno-drvena-kutija"
+  },
+  {
+   "nomer": "19457",
+   "vino": "Temet Tri Morave Rezerva Crveno",
+   "hozyaistvo": "",
+   "artikul": "10102641 2019",
+   "cena_rsd": 9500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19457-temet-tri-morave-rezerva-crveno"
+  },
+  {
+   "nomer": "24999",
+   "vino": "The Blanc de Noirs Penušavo",
+   "hozyaistvo": "The Sparkling Winery",
+   "artikul": "10101664 2023",
+   "cena_rsd": 2180.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24999-the-blanc-de-noirs-penusavo"
+  },
+  {
+   "nomer": "24056",
+   "vino": "The Brut Penušavo",
+   "hozyaistvo": "The Sparkling Winery",
+   "artikul": "10104010 2023",
+   "cena_rsd": 3410.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24056-the-brut-penusavo"
+  },
+  {
+   "nomer": "24997",
+   "vino": "The Morava Penušavo",
+   "hozyaistvo": "The Sparkling Winery",
+   "artikul": "10101663 2023",
+   "cena_rsd": 2720.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24997-the-morava-penusavo"
+  },
+  {
+   "nomer": "23448",
+   "vino": "Todorović Cabernet Sauvignon",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "10102712 2020",
+   "cena_rsd": 1450.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23448-todorovic-cabernet-sauvignon"
+  },
+  {
+   "nomer": "23449",
+   "vino": "Todorović Chardonnay",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "10101435 2023",
+   "cena_rsd": 1330.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23449-todorovic-chardonnay"
+  },
+  {
+   "nomer": "25747",
+   "vino": "Todorović Merlot",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "10102711 2021",
+   "cena_rsd": 1440.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25747-todorovic-merlot"
+  },
+  {
+   "nomer": "23494",
+   "vino": "Todorović Opus",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "10102915 2019",
+   "cena_rsd": 2310.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23494-todorovic-opus"
+  },
+  {
+   "nomer": "21217",
+   "vino": "Todorović Shiraz",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "10102713 2021",
+   "cena_rsd": 1670.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21217-todorovic-shiraz"
+  },
+  {
+   "nomer": "23538",
+   "vino": "Tomić Igra 650 Tamjanika & Pinot Grigio",
+   "hozyaistvo": "Vinarija Tomić",
+   "artikul": "10101590 2023",
+   "cena_rsd": 1295.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23538-tomic-igra-650-tamjanika-pinot-grigio"
+  },
+  {
+   "nomer": "23542",
+   "vino": "Tomić L'ame Pinot Noir",
+   "hozyaistvo": "Vinarija Tomić",
+   "artikul": "10102916 2023",
+   "cena_rsd": 1295.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23542-tomic-lame-pinot-noir"
+  },
+  {
+   "nomer": "23540",
+   "vino": "Tomić Tete Chardonnay",
+   "hozyaistvo": "Vinarija Tomić",
+   "artikul": "10101591 2023",
+   "cena_rsd": 1295.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23540-tomic-tete-chardonnay"
+  },
+  {
+   "nomer": "26828",
+   "vino": "Tonković Campanella Penušavo",
+   "hozyaistvo": "Vinarija Tonković",
+   "artikul": "10104032 2023",
+   "cena_rsd": 1620.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26828-tonkovic-campanella-penusavo"
+  },
+  {
+   "nomer": "26484",
+   "vino": "Tonković Campanella Penušavo",
+   "hozyaistvo": "Vinarija Tonković",
+   "artikul": "10104032 2022",
+   "cena_rsd": 1845.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26484-tonkovic-campanella-penusavo"
+  },
+  {
+   "nomer": "23990",
+   "vino": "Tonković Kadarka Allegro",
+   "hozyaistvo": "Vinarija Tonković",
+   "artikul": "10101407 2024",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23990-tonkovic-kadarka-allegro"
+  },
+  {
+   "nomer": "21130",
+   "vino": "Tonković Kadarka Fantazija",
+   "hozyaistvo": "Vinarija Tonković",
+   "artikul": "10102439 2017",
+   "cena_rsd": 1640.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21130-tonkovic-kadarka-fantazija"
+  },
+  {
+   "nomer": "25574",
+   "vino": "Tonković Rapsodija",
+   "hozyaistvo": "Vinarija Tonković",
+   "artikul": "10102438 2019",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25574-tonkovic-rapsodija"
+  },
+  {
+   "nomer": "25564",
+   "vino": "Traško Fabulos Cabernet Franc",
+   "hozyaistvo": "Vinarija Traško",
+   "artikul": "10102866 2022",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25564-trasko-fabulos-cabernet-franc"
+  },
+  {
+   "nomer": "25922",
+   "vino": "Traško Fabulos Cabernet Sauvignon",
+   "hozyaistvo": "Vinarija Traško",
+   "artikul": "10102865 2022",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25922-trasko-fabulos-cabernet-sauvignon"
+  },
+  {
+   "nomer": "24071",
+   "vino": "Traško Fucking Fabulous",
+   "hozyaistvo": "Vinarija Traško",
+   "artikul": "10102927 2021",
+   "cena_rsd": 4075.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24071-trasko-fucking-fabulous"
+  },
+  {
+   "nomer": "26222",
+   "vino": "Treasure PetNat",
+   "hozyaistvo": "Vinarija Deurić",
+   "artikul": "10101655 2023",
+   "cena_rsd": 1365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26222-treasure-petnat"
+  },
+  {
+   "nomer": "23892",
+   "vino": "Tri Međe i Oblak Grašac Beli",
+   "hozyaistvo": "Tri Međe i Oblak",
+   "artikul": "10101556 2024",
+   "cena_rsd": 2380.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23892-tri-medje-i-oblak-grasac-beli"
+  },
+  {
+   "nomer": "23893",
+   "vino": "Tri Međe i Oblak Vagabundo Crveni",
+   "hozyaistvo": "Tri Međe i Oblak",
+   "artikul": "10102575 2022",
+   "cena_rsd": 2660.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23893-tri-medje-i-oblak-vagabundo-crveni"
+  },
+  {
+   "nomer": "22745",
+   "vino": "Tri Međe i Oblak Vagabundo Crveni",
+   "hozyaistvo": "Tri Međe i Oblak",
+   "artikul": "10102575 2021",
+   "cena_rsd": 2660.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22745-tri-medje-i-oblak-vagabundo-crveni"
+  },
+  {
+   "nomer": "16715",
+   "vino": "Tri Oraha 500",
+   "hozyaistvo": "Tri Oraha",
+   "artikul": "10102765 Vintage",
+   "cena_rsd": 8995.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16715-tri-oraha-500"
+  },
+  {
+   "nomer": "16701",
+   "vino": "Tri Oraha 750",
+   "hozyaistvo": "Tri Oraha",
+   "artikul": "10102766 Vintage",
+   "cena_rsd": 7365.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16701-tri-oraha-750"
+  },
+  {
+   "nomer": "18825",
+   "vino": "Tri Oraha Cabernet Sauvignon",
+   "hozyaistvo": "Tri Oraha",
+   "artikul": "10102110 2015",
+   "cena_rsd": 4910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18825-tri-oraha-cabernet-sauvignon"
+  },
+  {
+   "nomer": "23394",
+   "vino": "Tri Oraha Merlot",
+   "hozyaistvo": "Tri Oraha",
+   "artikul": "10102684 2015",
+   "cena_rsd": 6250.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23394-tri-oraha-merlot"
+  },
+  {
+   "nomer": "25661",
+   "vino": "Tri Sunca Traminac Kasna Berba",
+   "hozyaistvo": "Fruškogorski vinogradi",
+   "artikul": "10101671 2015",
+   "cena_rsd": 13005.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25661-tri-sunca-traminac-kasna-berba"
+  },
+  {
+   "nomer": "20828",
+   "vino": "Trivanović Chardonnay",
+   "hozyaistvo": "Podrum Trivanović",
+   "artikul": "10101256 2020",
+   "cena_rsd": 2095.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20828-trivanovic-chardonnay"
+  },
+  {
+   "nomer": "26557",
+   "vino": "Venčac Legat 1903 Muscat",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101442 2025",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26557-vencac-legat-1903-muscat"
+  },
+  {
+   "nomer": "24968",
+   "vino": "Venčac Legat 1903 Muscat",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101442 2024",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24968-vencac-legat-1903-muscat"
+  },
+  {
+   "nomer": "21942",
+   "vino": "Venčac Legat 1903 Muscat",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101442 2023",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21942-vencac-legat-1903-muscat"
+  },
+  {
+   "nomer": "25373",
+   "vino": "Venčac Legat 1903 Pinot Noir",
+   "hozyaistvo": "Vinarija Venčac",
+   "artikul": "10102938 2023",
+   "cena_rsd": 2310.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25373-vencac-legat-1903-pinot-noir"
+  },
+  {
+   "nomer": "21478",
+   "vino": "Venčac Legat Chardonnay",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101462 2022",
+   "cena_rsd": 2950.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21478-vencac-legat-chardonnay"
+  },
+  {
+   "nomer": "22027",
+   "vino": "Venčac Legat Viognier",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101463 2022",
+   "cena_rsd": 2725.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22027-vencac-legat-viognier"
+  },
+  {
+   "nomer": "24933",
+   "vino": "Veritas Bermet Beli 0.5l",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10101506 2025",
+   "cena_rsd": 1535.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24933-veritas-bermet-beli-0-5l"
+  },
+  {
+   "nomer": "21398",
+   "vino": "Veritas Bermet Crveni 0.5l",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10102863 2021",
+   "cena_rsd": 1535.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21398-veritas-bermet-crveni-0-5l"
+  },
+  {
+   "nomer": "25437",
+   "vino": "Veritas Ćuk Cuvee",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10102861 2022",
+   "cena_rsd": 3065.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25437-veritas-cuk-cuvee"
+  },
+  {
+   "nomer": "25872",
+   "vino": "Veritas Grašac",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10101505 2023",
+   "cena_rsd": 1670.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25872-veritas-grasac"
+  },
+  {
+   "nomer": "21392",
+   "vino": "Veritas Grašac",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10101505 2022",
+   "cena_rsd": 1670.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21392-veritas-grasac"
+  },
+  {
+   "nomer": "26253",
+   "vino": "Veritas Momentum Cabernet Sauvignon",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10102864 2021",
+   "cena_rsd": 7200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26253-veritas-momentum-cabernet-sauvignon"
+  },
+  {
+   "nomer": "26252",
+   "vino": "Veritas Momentum Mali",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10102862 2023",
+   "cena_rsd": 3065.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26252-veritas-momentum-mali"
+  },
+  {
+   "nomer": "21396",
+   "vino": "Veritas Momentum Mali",
+   "hozyaistvo": "Veritas Ćuković",
+   "artikul": "10102862 2020",
+   "cena_rsd": 3065.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21396-veritas-momentum-mali"
+  },
+  {
+   "nomer": "25925",
+   "vino": "Verkat Fran Frankova",
+   "hozyaistvo": "Verkat",
+   "artikul": "10102949 2023",
+   "cena_rsd": 1560.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25925-verkat-fran-frankova"
+  },
+  {
+   "nomer": "24790",
+   "vino": "Verkat Fran Frankova",
+   "hozyaistvo": "Verkat",
+   "artikul": "10102949 2022",
+   "cena_rsd": 1560.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24790-verkat-fran-frankova"
+  },
+  {
+   "nomer": "22061",
+   "vino": "Verkat Grašac Beli",
+   "hozyaistvo": "Verkat",
+   "artikul": "10101288 2023",
+   "cena_rsd": 1515.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22061-verkat-grasac-beli"
+  },
+  {
+   "nomer": "25924",
+   "vino": "Verkat Malvazija",
+   "hozyaistvo": "Verkat",
+   "artikul": "10101287 2023",
+   "cena_rsd": 1700.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25924-verkat-malvazija"
+  },
+  {
+   "nomer": "23087",
+   "vino": "Verus Biser Beli",
+   "hozyaistvo": "Verus-Kiš",
+   "artikul": "10101584 2024",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23087-verus-biser-beli"
+  },
+  {
+   "nomer": "25433",
+   "vino": "Verus Biser Crni",
+   "hozyaistvo": "Verus-Kiš",
+   "artikul": "10102909 2025",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25433-verus-biser-crni"
+  },
+  {
+   "nomer": "26785",
+   "vino": "Verus Grašac Beli",
+   "hozyaistvo": "Verus-Kiš",
+   "artikul": "10101585 2025",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26785-verus-grasac-beli"
+  },
+  {
+   "nomer": "24165",
+   "vino": "Verus Gt",
+   "hozyaistvo": "Verus-Kiš",
+   "artikul": "10101587 2024",
+   "cena_rsd": 1590.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24165-verus-gt"
+  },
+  {
+   "nomer": "23093",
+   "vino": "Verus Mister&ja",
+   "hozyaistvo": "Verus-Kiš",
+   "artikul": "10101586 2023",
+   "cena_rsd": 1420.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23093-verus-misterja"
+  },
+  {
+   "nomer": "23097",
+   "vino": "Verus Portugizer",
+   "hozyaistvo": "Verus-Kiš",
+   "artikul": "10102910 2023",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23097-verus-portugizer"
+  },
+  {
+   "nomer": "18228",
+   "vino": "Vinarija Vladimir Vino 1 Hektar",
+   "hozyaistvo": "Vinarija Vladimir",
+   "artikul": "10102696 2018",
+   "cena_rsd": 5440.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18228-vinarija-vladimir-vino-1-hektar"
+  },
+  {
+   "nomer": "26541",
+   "vino": "Vinarium Beloš",
+   "hozyaistvo": "Vinarium",
+   "artikul": "10101701 2025",
+   "cena_rsd": 1420.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26541-vinarium-belos"
+  },
+  {
+   "nomer": "26543",
+   "vino": "Vinarium Crna Tamjanika Slatka 0.5L",
+   "hozyaistvo": "Vinarium",
+   "artikul": "10102976 2022",
+   "cena_rsd": 1320.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26543-vinarium-crna-tamjanika-slatka-0-5l"
+  },
+  {
+   "nomer": "26539",
+   "vino": "Vinarium Dedovac",
+   "hozyaistvo": "Vinarium",
+   "artikul": "10102975 2021",
+   "cena_rsd": 1690.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26539-vinarium-dedovac"
+  },
+  {
+   "nomer": "26535",
+   "vino": "Vinarium Traminac",
+   "hozyaistvo": "Vinarium",
+   "artikul": "10101699 2025",
+   "cena_rsd": 1535.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26535-vinarium-traminac"
+  },
+  {
+   "nomer": "26537",
+   "vino": "Vinarium Župljanka",
+   "hozyaistvo": "Vinarium",
+   "artikul": "10101700 2025",
+   "cena_rsd": 1280.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26537-vinarium-zupljanka"
+  },
+  {
+   "nomer": "24975",
+   "vino": "Vinčić Grand Fru",
+   "hozyaistvo": "Vinarija Vinčić",
+   "artikul": "10101484 2023",
+   "cena_rsd": 3890.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24975-vincic-grand-fru"
+  },
+  {
+   "nomer": "19844",
+   "vino": "Vinčić Grašac",
+   "hozyaistvo": "Vinarija Vinčić",
+   "artikul": "10101476 2020",
+   "cena_rsd": 17385.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19844-vincic-grasac"
+  },
+  {
+   "nomer": "23630",
+   "vino": "Vinčić Grašac Amfora",
+   "hozyaistvo": "Vinarija Vinčić",
+   "artikul": "10101543 2019",
+   "cena_rsd": 4900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23630-vincic-grasac-amfora"
+  },
+  {
+   "nomer": "26430",
+   "vino": "Vinčić Pet Nat Pinot Noir",
+   "hozyaistvo": "Vinarija Vinčić",
+   "artikul": "10103120 2025",
+   "cena_rsd": 1495.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26430-vincic-pet-nat-pinot-noir"
+  },
+  {
+   "nomer": "17675",
+   "vino": "Vinčić White Reserve",
+   "hozyaistvo": "Vinarija Vinčić",
+   "artikul": "10101427 2012",
+   "cena_rsd": 8355.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17675-vincic-white-reserve"
+  },
+  {
+   "nomer": "21477",
+   "vino": "Vinum Bermet Crveni 0.5L",
+   "hozyaistvo": "",
+   "artikul": "10102202 2023",
+   "cena_rsd": 1170.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21477-vinum-bermet-crveni-0-5l"
+  },
+  {
+   "nomer": "22288",
+   "vino": "Vinum Bermut Beli 0,5L",
+   "hozyaistvo": "",
+   "artikul": "10101297 2023",
+   "cena_rsd": 1170.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22288-vinum-bermut-beli-05l"
+  },
+  {
+   "nomer": "21685",
+   "vino": "Vinum Chardonnay",
+   "hozyaistvo": "",
+   "artikul": "10101334 2022",
+   "cena_rsd": 2540.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21685-vinum-chardonnay"
+  },
+  {
+   "nomer": "25000",
+   "vino": "Vinum Dina",
+   "hozyaistvo": "",
+   "artikul": "10101405 2023",
+   "cena_rsd": 3260.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25000-vinum-dina"
+  },
+  {
+   "nomer": "25755",
+   "vino": "Vinum Frankovka",
+   "hozyaistvo": "",
+   "artikul": "10102367 2023",
+   "cena_rsd": 1400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25755-vinum-frankovka"
+  },
+  {
+   "nomer": "20258",
+   "vino": "Vinum Frankovka",
+   "hozyaistvo": "",
+   "artikul": "10102367 2022",
+   "cena_rsd": 1400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20258-vinum-frankovka"
+  },
+  {
+   "nomer": "23383",
+   "vino": "Vinum Grašac 26a",
+   "hozyaistvo": "",
+   "artikul": "10101436 2023",
+   "cena_rsd": 2910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23383-vinum-grasac-26a"
+  },
+  {
+   "nomer": "23382",
+   "vino": "Vinum Grašac Beli",
+   "hozyaistvo": "",
+   "artikul": "10101285 2024",
+   "cena_rsd": 1630.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23382-vinum-grasac-beli"
+  },
+  {
+   "nomer": "24567",
+   "vino": "Vinum Mustra",
+   "hozyaistvo": "",
+   "artikul": "10101567 2024",
+   "cena_rsd": 1400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24567-vinum-mustra"
+  },
+  {
+   "nomer": "26721",
+   "vino": "Vinum Sauvignon Blanc",
+   "hozyaistvo": "",
+   "artikul": "10101358 2024",
+   "cena_rsd": 1660.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26721-vinum-sauvignon-blanc"
+  },
+  {
+   "nomer": "22062",
+   "vino": "Vinum Sauvignon Blanc",
+   "hozyaistvo": "",
+   "artikul": "10101358 2023",
+   "cena_rsd": 1660.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22062-vinum-sauvignon-blanc"
+  },
+  {
+   "nomer": "26545",
+   "vino": "Virtus Credo Beli",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10101566 2023",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26545-virtus-credo-beli"
+  },
+  {
+   "nomer": "23407",
+   "vino": "Virtus Credo Beli",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10101566 2022",
+   "cena_rsd": 2050.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23407-virtus-credo-beli"
+  },
+  {
+   "nomer": "21720",
+   "vino": "Virtus Credo Crveni",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10102422 2020",
+   "cena_rsd": 2660.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21720-virtus-credo-crveni"
+  },
+  {
+   "nomer": "26281",
+   "vino": "Virtus Marselan",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10102423 2022",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26281-virtus-marselan"
+  },
+  {
+   "nomer": "26546",
+   "vino": "Virtus Morava",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10101643 2024",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26546-virtus-morava"
+  },
+  {
+   "nomer": "25487",
+   "vino": "Virtus Pinot Grigio",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10101013 2024",
+   "cena_rsd": 1400.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25487-virtus-pinot-grigio"
+  },
+  {
+   "nomer": "26280",
+   "vino": "Virtus Prokupac",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10102383 2021",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26280-virtus-prokupac"
+  },
+  {
+   "nomer": "21998",
+   "vino": "Virtus Prokupac",
+   "hozyaistvo": "Vinarija Virtus",
+   "artikul": "10102383 2019",
+   "cena_rsd": 1300.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21998-virtus-prokupac"
+  },
+  {
+   "nomer": "26562",
+   "vino": "Vukoje Malvasia Dubrovačka Teroir",
+   "hozyaistvo": "",
+   "artikul": "10105016 2020",
+   "cena_rsd": 4335.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26562-vukoje-malvasia-dubrovacka-teroir"
+  },
+  {
+   "nomer": "24068",
+   "vino": "Yotta Bonsai Prokupac",
+   "hozyaistvo": "",
+   "artikul": "10102688 2020",
+   "cena_rsd": 4540.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24068-yotta-bonsai-prokupac"
+  },
+  {
+   "nomer": "19500",
+   "vino": "Yotta Cabernet Sauvignon",
+   "hozyaistvo": "",
+   "artikul": "10102477 2019",
+   "cena_rsd": 1900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19500-yotta-cabernet-sauvignon"
+  },
+  {
+   "nomer": "18506",
+   "vino": "Yotta Cabernet Sauvignon Reserve",
+   "hozyaistvo": "Yotta",
+   "artikul": "10102807 2017",
+   "cena_rsd": 3910.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18506-yotta-cabernet-sauvignon-reserve"
+  },
+  {
+   "nomer": "23141",
+   "vino": "Yotta Hysteresis Tamjanika",
+   "hozyaistvo": "",
+   "artikul": "10101229 2022",
+   "cena_rsd": 4180.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23141-yotta-hysteresis-tamjanika"
+  },
+  {
+   "nomer": "21214",
+   "vino": "Yotta Hysteresis Tamjanika",
+   "hozyaistvo": "",
+   "artikul": "10101229 2021",
+   "cena_rsd": 4180.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21214-yotta-hysteresis-tamjanika"
+  },
+  {
+   "nomer": "25399",
+   "vino": "Yotta Prokupac",
+   "hozyaistvo": "",
+   "artikul": "10102496 2019",
+   "cena_rsd": 1790.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25399-yotta-prokupac"
+  },
+  {
+   "nomer": "18510",
+   "vino": "Yotta Prokupac Reserve",
+   "hozyaistvo": "Yotta",
+   "artikul": "10102808 2017",
+   "cena_rsd": 3190.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18510-yotta-prokupac-reserve"
+  },
+  {
+   "nomer": "26278",
+   "vino": "Yotta Tri Boje Belo Tamjanika",
+   "hozyaistvo": "",
+   "artikul": "10101404 2024",
+   "cena_rsd": 1360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26278-yotta-tri-boje-belo-tamjanika"
+  },
+  {
+   "nomer": "23526",
+   "vino": "Yotta Tri Boje Belo Tamjanika",
+   "hozyaistvo": "",
+   "artikul": "10101404 2023",
+   "cena_rsd": 1360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23526-yotta-tri-boje-belo-tamjanika"
+  },
+  {
+   "nomer": "25484",
+   "vino": "Žir Morava",
+   "hozyaistvo": "Vinarija Žir",
+   "artikul": "10101668 2024",
+   "cena_rsd": 1865.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25484-zir-morava"
+  },
+  {
+   "nomer": "25486",
+   "vino": "Žir Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Žir",
+   "artikul": "10101669 2024",
+   "cena_rsd": 1865.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25486-zir-sauvignon-blanc"
+  },
+  {
+   "nomer": "21883",
+   "vino": "Zmajevac Chardonnay",
+   "hozyaistvo": "Vinarija Zmajevac",
+   "artikul": "10101302 2021",
+   "cena_rsd": 1900.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21883-zmajevac-chardonnay"
+  },
+  {
+   "nomer": "16882",
+   "vino": "Zmajevac Chardonnay",
+   "hozyaistvo": "Vinarija Zmajevac",
+   "artikul": "10101302 2019",
+   "cena_rsd": 2500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16882-zmajevac-chardonnay"
+  },
+  {
+   "nomer": "25357",
+   "vino": "Zmajevac Crna Tamjanika",
+   "hozyaistvo": "Vinarija Zmajevac",
+   "artikul": "10102729 2021",
+   "cena_rsd": 1730.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25357-zmajevac-crna-tamjanika"
+  },
+  {
+   "nomer": "13663",
+   "vino": "Zmajevac Cuvee",
+   "hozyaistvo": "Vinarija Zmajevac",
+   "artikul": "10102682 2017",
+   "cena_rsd": 2730.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/13663-zmajevac-cuvee"
+  },
+  {
+   "nomer": "23653",
+   "vino": "Zmajevac Prokupac",
+   "hozyaistvo": "Vinarija Zmajevac",
+   "artikul": "10102613 2021",
+   "cena_rsd": 2015.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23653-zmajevac-prokupac"
+  },
+  {
+   "nomer": "25728",
+   "vino": "Zmajevac Tamjanika",
+   "hozyaistvo": "Vinarija Zmajevac",
+   "artikul": "10101269 2024",
+   "cena_rsd": 1800.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25728-zmajevac-tamjanika"
+  },
+  {
+   "nomer": "23937",
+   "vino": "Zvonko Bogdan 8 Tamburaša",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10101017 2024",
+   "cena_rsd": 1395.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23937-zvonko-bogdan-8-tamburasa"
+  },
+  {
+   "nomer": "24978",
+   "vino": "Zvonko Bogdan Chardonnay",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10101355 2024",
+   "cena_rsd": 2100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24978-zvonko-bogdan-chardonnay"
+  },
+  {
+   "nomer": "22535",
+   "vino": "Zvonko Bogdan Chardonnay",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10101355 2023",
+   "cena_rsd": 2100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22535-zvonko-bogdan-chardonnay"
+  },
+  {
+   "nomer": "25654",
+   "vino": "Zvonko Bogdan Cuvee No.1",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10102210 2024",
+   "cena_rsd": 2800.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25654-zvonko-bogdan-cuvee-no-1"
+  },
+  {
+   "nomer": "25244",
+   "vino": "Zvonko Bogdan Eclater Penušavo 1,5L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10104031 2018",
+   "cena_rsd": 8360.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25244-zvonko-bogdan-eclater-penusavo-15l"
+  },
+  {
+   "nomer": "24755",
+   "vino": "Zvonko Bogdan Merlot",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10102810 2023",
+   "cena_rsd": 4200.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24755-zvonko-bogdan-merlot"
+  },
+  {
+   "nomer": "24037",
+   "vino": "Zvonko Bogdan Pinot Blanc",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10101018 2024",
+   "cena_rsd": 2100.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24037-zvonko-bogdan-pinot-blanc"
+  },
+  {
+   "nomer": "25572",
+   "vino": "Zvonko Bogdan Rose Sec",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10103003 2025",
+   "cena_rsd": 1680.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25572-zvonko-bogdan-rose-sec"
+  },
+  {
+   "nomer": "21299",
+   "vino": "Zvonko Bogdan Rose Sec",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10103003 2023",
+   "cena_rsd": 1680.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21299-zvonko-bogdan-rose-sec"
+  },
+  {
+   "nomer": "26153",
+   "vino": "Zvonko Bogdan Tamjanika",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10101649 2025",
+   "cena_rsd": 1650.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26153-zvonko-bogdan-tamjanika"
+  },
+  {
+   "nomer": "25464",
+   "vino": "Zvonko Bogdan Život Teče",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10102222 2024",
+   "cena_rsd": 1570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25464-zvonko-bogdan-zivot-tece"
+  },
+  {
+   "nomer": "22991",
+   "vino": "Zvonko Bogdan Život Teče",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "artikul": "10102222 2023",
+   "cena_rsd": 1570.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22991-zvonko-bogdan-zivot-tece"
+  }
+ ]
+}

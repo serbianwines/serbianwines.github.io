@@ -604,6 +604,11 @@ def pokazaniya():
 UROVNI = ("vinogorje", "opstina", "selo", "okrug", "spravochnik")
 
 
+# Родовые слова перед именем места: сами по себе они места не называют.
+RODOVOE = {"village", "selo", "село", "naselje", "насеље", "grad", "град",
+           "opstina", "opština", "општина", "city", "s.", "с."}
+
+
 def kandidaty(gde):
     """Куски поля места, от целого к частям.
 
@@ -621,6 +626,11 @@ def kandidaty(gde):
         if not c:
             continue
         slova = c.split()
+        # Слово «село» или «град» перед именем — не часть имени. Укорочение
+        # идёт с конца, и «Village Rajac» без этого превращалось в «Village»,
+        # а до самого Рајца дело не доходило.
+        while len(slova) > 1 and slova[0].lower().strip(".") in RODOVOE:
+            slova = slova[1:]
         for skolko in range(len(slova), 0, -1):
             out.append(" ".join(slova[:skolko]))
     return out

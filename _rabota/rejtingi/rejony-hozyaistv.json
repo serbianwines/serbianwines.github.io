@@ -2498,13 +2498,13 @@
   },
   "ilic-nijemcevic": {
    "hozyaistvo": "Vinarija Ilić-Nijemčević",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "Шид",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Бикић До, Шид",
    "pokazaniya": [
     "vivino: Central Serbia"
    ]
@@ -4717,12 +4717,12 @@
   },
   "pimnica-peric": {
    "hozyaistvo": "Pimnica Perić",
-   "region": null,
+   "region": "Centralna Srbija",
    "rejon": null,
    "vinogorje": null,
-   "gorod": "",
+   "gorod": "Rajac",
    "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
+   "raznoglasie": "рејон один из: Rejon Negotinska Krajina; Čačansko–kraljevački rejon",
    "gde": "Village Rajac",
    "pokazaniya": [
     "vivino-adres: Village Rajac",
@@ -5975,7 +5975,7 @@
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Jagodinsko vinogorje",
-   "gorod": "Jagodina",
+   "gorod": "Lozovik",
    "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "selo Lozovik, Jagodina, Pomoravski okrug",

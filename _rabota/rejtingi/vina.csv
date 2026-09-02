@@ -2504,18 +2504,18 @@ grumen-rizling,Vinarija Grumen,Rizling,,,net_na_vivino,,False,False,Sremski rejo
 grumen-sauvignon-blanc,Vinarija Grumen,Sauvignon Blanc,8744756,https://www.vivino.com/w/8744756,ocenka_est,1664,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 grumen-selekcija-chardonnay,Vinarija Grumen,Selekcija Chardonnay,13939492,https://www.vivino.com/w/13939492,malo_ocenok,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 gvozdan-melem-crveni,Vinarija Gvožđan,Melem Crveni,7216259,https://www.vivino.com/w/7216259,malo_ocenok,2,False,False,,,
-ilic-nijemcevic-cabernet-sauvignon,Vinarija Ilić-Nijemčević,Cabernet Sauvignon,5029723,https://www.vivino.com/w/5029723,ocenka_est,128,False,True,,,
-ilic-nijemcevic-chardonnay,Vinarija Ilić-Nijemčević,Chardonnay,3620757,https://www.vivino.com/w/3620757,ocenka_est,186,False,True,,,
-ilic-nijemcevic-crveno-vino,Vinarija Ilić-Nijemčević,Crveno Vino,7018469,https://www.vivino.com/w/7018469,malo_ocenok,17,False,False,,,
-ilic-nijemcevic-frankovka,Vinarija Ilić-Nijemčević,Frankovka,5959583,https://www.vivino.com/w/5959583,ocenka_est,154,False,True,,,
-ilic-nijemcevic-ig,Vinarija Ilić-Nijemčević,IG,,,net_na_vivino,,False,True,,,
-ilic-nijemcevic-italijanski-rizling,Vinarija Ilić-Nijemčević,Italijanski Rizling,5083314,https://www.vivino.com/w/5083314,malo_ocenok,47,False,False,,,
-ilic-nijemcevic-merlot,Vinarija Ilić-Nijemčević,Merlot,5797150,https://www.vivino.com/w/5797150,malo_ocenok,49,False,False,,,
-ilic-nijemcevic-rajnski-rizling,Vinarija Ilić-Nijemčević,Rajnski Rizling,13781899,https://www.vivino.com/w/13781899,malo_ocenok,,False,True,,,
-ilic-nijemcevic-rose,Vinarija Ilić-Nijemčević,Rose,2674841,https://www.vivino.com/w/2674841,malo_ocenok,73,False,False,,,
-ilic-nijemcevic-rose-muscat,Vinarija Ilić-Nijemčević,Rose Muscat,13781889,https://www.vivino.com/w/13781889,malo_ocenok,,False,False,,,
-ilic-nijemcevic-rose-blue,Vinarija Ilić-Nijemčević,Rosé Blue,7586126,https://www.vivino.com/w/7586126,malo_ocenok,12,False,False,,,
-ilic-nijemcevic-sauvignon-blanc,Vinarija Ilić-Nijemčević,Sauvignon Blanc,5724412,https://www.vivino.com/w/5724412,ocenka_est,193,False,True,,,
+ilic-nijemcevic-cabernet-sauvignon,Vinarija Ilić-Nijemčević,Cabernet Sauvignon,5029723,https://www.vivino.com/w/5029723,ocenka_est,128,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-chardonnay,Vinarija Ilić-Nijemčević,Chardonnay,3620757,https://www.vivino.com/w/3620757,ocenka_est,186,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-crveno-vino,Vinarija Ilić-Nijemčević,Crveno Vino,7018469,https://www.vivino.com/w/7018469,malo_ocenok,17,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-frankovka,Vinarija Ilić-Nijemčević,Frankovka,5959583,https://www.vivino.com/w/5959583,ocenka_est,154,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-ig,Vinarija Ilić-Nijemčević,IG,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-italijanski-rizling,Vinarija Ilić-Nijemčević,Italijanski Rizling,5083314,https://www.vivino.com/w/5083314,malo_ocenok,47,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-merlot,Vinarija Ilić-Nijemčević,Merlot,5797150,https://www.vivino.com/w/5797150,malo_ocenok,49,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-rajnski-rizling,Vinarija Ilić-Nijemčević,Rajnski Rizling,13781899,https://www.vivino.com/w/13781899,malo_ocenok,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-rose,Vinarija Ilić-Nijemčević,Rose,2674841,https://www.vivino.com/w/2674841,malo_ocenok,73,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-rose-muscat,Vinarija Ilić-Nijemčević,Rose Muscat,13781889,https://www.vivino.com/w/13781889,malo_ocenok,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-rose-blue,Vinarija Ilić-Nijemčević,Rosé Blue,7586126,https://www.vivino.com/w/7586126,malo_ocenok,12,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+ilic-nijemcevic-sauvignon-blanc,Vinarija Ilić-Nijemčević,Sauvignon Blanc,5724412,https://www.vivino.com/w/5724412,ocenka_est,193,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 imperator-animus,Vinarija Imperator,Animus,11495278,https://www.vivino.com/w/11495278,ocenka_est,140,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 imperator-cargras,Vinarija Imperator,Cargraš,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs
 imperator-cargras-grasac,Vinarija Imperator,Cargraš Grašac,12653401,https://www.vivino.com/w/12653401,ocenka_est,59,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo

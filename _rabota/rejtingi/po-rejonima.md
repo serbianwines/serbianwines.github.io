@@ -344,12 +344,12 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Centralna Srbija | Rejon Negotinska Krajina | 22 | 56 | 119 | 154 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
 | Centralna Srbija | Rejon Tri Morave | 78 | 227 | 339 | 468 |
-| Vojvodina | Sremski rejon | 88 | 338 | 662 | 934 |
+| Vojvodina | Sremski rejon | 89 | 342 | 679 | 965 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 199 |
 | Centralna Srbija | Šumadijski rejon | 33 | 167 | 291 | 423 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 95 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 56 | 83 |
-| — | **рејон не установлен** | 132 | 83 | 96 | 137 |
+| — | **рејон не установлен** | 131 | 79 | 79 | 106 |
 
 **Рејоны, из которых не собралось ни одного хозяйства:** Severnometohijski rejon.
 
@@ -463,7 +463,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Tri Morave | Župsko vinogorje | 37 |
 | Rejon Tri Morave | Ražanjsko vinogorje | — |
 | Rejon Tri Morave | *виногорје не установлено* | 12 |
-| Sremski rejon | Fruškogorsko vinogorje | 88 |
+| Sremski rejon | Fruškogorsko vinogorje | 89 |
 | Subotički rejon | Riđičko vinogorje | 5 |
 | Subotički rejon | Palićko vinogorje | 6 |
 | Subotički rejon | Horgoško vinogorje | 1 |
@@ -697,7 +697,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Savković | Župsko vinogorje | Aleksandrovac | mesto | — |
 | Spasić | Župsko vinogorje | Александровац | mesto | Три Моравы и Жупа |
 | Stemina winery | Trsteničko vinogorje | Trstenik | mesto | — |
-| Temet | Jagodinsko vinogorje | Jagodina | mesto | Три Моравы и Жупа |
+| Temet | Jagodinsko vinogorje | Lozovik | mesto | Три Моравы и Жупа |
 | Uziwa Winery | — | Vrnjačka Banja | vivino-adres | — |
 | Varina | — | — | mesto | — |
 | Vert | — | — | vivino | — |
@@ -815,6 +815,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Vinarija Fleur D'Oranger | Fruškogorsko vinogorje | Novi Sad | mesto | — |
 | Vinarija Frug | Fruškogorsko vinogorje | Sremski Karlovci | mesto | — |
 | Vinarija Grumen | Fruškogorsko vinogorje | Novi Sad | mesto | — |
+| Vinarija Ilić-Nijemčević | Fruškogorsko vinogorje | Шид | mesto | — |
 | Vinarija Imperator | Fruškogorsko vinogorje | Rakovac | decanter+vivino | — |
 | Vinarija KM | Fruškogorsko vinogorje | Novi Sad | mesto | — |
 | Vinarija Komazec | Fruškogorsko vinogorje | Inđija | mesto | — |

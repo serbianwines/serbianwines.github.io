@@ -566,20 +566,68 @@ def main():
                 bylo["istochnik"] = "kniga"
 
     # Что названо в книге: хозяйства и отдельные бутылки.
-    hoz_v_knige, vina_v_knige = set(), set()
+    #
+    # Книга зовёт вино коротко — «Gold», «Filigran», «No.1», — и хозяйство
+    # при нём не называет. Простое вхождение подстроки поэтому цепляло чужое:
+    # книжное «Gold» помечало и «Trijumf Gold» у Александровића, и «Bonaca
+    # Gold» у Алексића, и «Despot Gold» у Џервина. Вин с пометкой выходило
+    # 202 при девяноста пяти названных.
+    #
+    # Отсюда две поправки. Первая: сравниваются целые слова, а не буквы, —
+    # «Kamen» больше не сидит внутри «Kameničarka». Вторая: имя вина ищется
+    # только у хозяйств того раздела книги, где оно названо; раздел книга
+    # знает всегда.
+    hoz_v_knige = set()
+    razdely_knigi = []         # (ключи хозяйств раздела, имена вин раздела)
     for razdel in celi["regiony"]:
-        for h in razdel["hozyaistva"]:
-            hoz_v_knige.add(klyuch(h["hozyaistvo"].replace("◈", "")))
-        for v in razdel["vina_v_tekste"]:
-            vina_v_knige.add(klyuch(v))
+        svoi = {klyuch_hozyaistva(h["hozyaistvo"].replace("◈", "").strip())
+                for h in razdel["hozyaistva"]}
+        hoz_v_knige |= svoi
+        razdely_knigi.append((razdel["kod"], svoi, razdel["vina_v_tekste"]))
+
+    vina_v_knige = []          # (слова имени вина, ключи хозяйств раздела)
+    for kod, svoi, imena in razdely_knigi:
+        # Приложение «Кто на вершине» перечисляет вина со всей страны,
+        # а хозяйств при них называет три: привязки к дому в разборе нет.
+        # Ищем по всем хозяйствам книги, но берём имя, только если оно
+        # указывает на один дом (см. `nazvano_v_knige`): «Chardonnay 2022»
+        # само по себе не называет никого.
+        for v in imena:
+            # Год урожая книга пишет прямо в имени — «Kremen Kamen 2021»,
+            # «Chardonnay 2022», — а в таблице у него своё поле.
+            slova_vina = tuple(x for x in
+                               klyuch(latinicej(bez_goda_urozhaya(v))).split("-")
+                               if x)
+            if slova_vina:
+                vina_v_knige.append(
+                    (slova_vina, hoz_v_knige if kod in NE_GLAVA else svoi,
+                     kod in NE_GLAVA))
+
+    def podryad(chto, gde):
+        """Стоят ли слова `chto` подряд среди слов `gde`."""
+        n = len(chto)
+        return any(tuple(gde[i:i + n]) == chto for i in range(len(gde) - n + 1))
 
     def v_knige_hoz(imya):
-        k = klyuch(imya)
-        return any(k in kn or kn in k for kn in hoz_v_knige if kn)
+        return klyuch_hozyaistva(imya) in hoz_v_knige
 
-    def v_knige_vino(imya):
-        k = klyuch(imya)
-        return any(k == kn or kn in k for kn in vina_v_knige if kn)
+    def nazvano_v_knige(vina):
+        """Пометить вина, названные в книге. Вторым проходом, по готовому
+        списку: имя из приложения годится, только если оно указывает
+        на один дом, а этого не узнать, пока список не собран."""
+        slova = {v["klyuch"]: [x for x in
+                               klyuch(latinicej(v["vino"])).split("-") if x]
+                 for v in vina}
+        for v in vina:
+            v["v_knige"] = False
+        for chto, svoi, iz_prilozheniya in vina_v_knige:
+            podoshli = [v for v in vina
+                        if klyuch_hozyaistva(v["hozyaistvo"]) in svoi
+                        and podryad(chto, slova[v["klyuch"]])]
+            if iz_prilozheniya and len({v["hozyaistvo"] for v in podoshli}) > 1:
+                continue
+            for v in podoshli:
+                v["v_knige"] = True
 
     # ---------------- хозяйства ----------------
     # Одно хозяйство приходит под разными именами: «Deurić», «Vinarija
@@ -707,7 +755,7 @@ def main():
                                   else "malo_ocenok"),
                 # Охват: сколько человек сфотографировали этикетку.
                 "etiketok": chislo_ili_nichego(z.get("etiketok")),
-                "v_knige": v_knige_vino(z["vino"]),
+                "v_knige": False,
                 "est_u_kritikov": False,
             }
         elif not vidano[k].get("etiketok") and z.get("etiketok"):
@@ -728,7 +776,7 @@ def main():
                 "vivino_adres": "",
                 "vivino_status": "net_na_vivino",
                 "etiketok": None,
-                "v_knige": v_knige_vino(z["vino"]),
+                "v_knige": False,
                 "est_u_kritikov": False,
             }
     for z in kritiki:
@@ -742,12 +790,13 @@ def main():
                 "vivino_adres": "",
                 "vivino_status": "net_na_vivino",
                 "etiketok": None,
-                "v_knige": v_knige_vino(z["vino"]),
+                "v_knige": False,
                 "est_u_kritikov": True,
             }
         else:
             vidano[k]["est_u_kritikov"] = True
     vina = sorted(vidano.values(), key=lambda z: (z["hozyaistvo"], z["vino"]))
+    nazvano_v_knige(vina)
 
     # ---------------- оценки, длинный вид ----------------
     ocenki = []

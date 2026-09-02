@@ -669,6 +669,7 @@ def po_mestu(gde, karty):
         return None, None, ""
     kusky = kandidaty(gde)
 
+
     # Названный округ не столько указывает рејон, сколько отсекает чужие.
     # «Rajac, Borski okrug»: Рајац есть и в Јеличком виногорју под Чачком,
     # но Борски округ — это Неготинска Крајина, и чачанский Рајац отпадает.
@@ -706,6 +707,16 @@ def po_mestu(gde, karty):
         return (rejon,
                 vinogorja.pop() if len(vinogorja) == 1 else None,
                 nashlos[0][1])
+
+    # Последняя попытка: место названо не селом, а областью. У Бојана Баше
+    # книга пишет просто «Срем» — списки мест такого не знают, они
+    # о населённых пунктах, зато таблица областей знает. Только после
+    # всех уровней: село точнее области, и перебивать его нельзя.
+    # Кириллицу перед этим надо перевести, таблица латинская.
+    for kus in kusky:
+        rejon, vinogorje, _ = oblast_konkursa(latinicej(kus))
+        if rejon:
+            return rejon, vinogorje, kus
     return None, None, ""
 
 

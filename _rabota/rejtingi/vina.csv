@@ -307,10 +307,10 @@ boemi-vranac,Boemi,Vranac,12633612,https://www.vivino.com/w/12633612,malo_ocenok
 bogdanovic-bukovicko-belo,Bogdanovic,Bukovićko Belo,9566279,https://www.vivino.com/w/9566279,malo_ocenok,,False,False,,,
 bogdanovic-bukovicko-rose,Bogdanovic,Bukovićko Rosé,9566363,https://www.vivino.com/w/9566363,malo_ocenok,,False,False,,,
 bogdanovic-roze,Bogdanovic,Roze,11160755,https://www.vivino.com/w/11160755,malo_ocenok,64,False,False,,,
-bojan-basa-furmint,Bojan Basa,Furmint,13403013,https://www.vivino.com/w/13403013,malo_ocenok,37,False,False,,,
-bojan-basa-jantar,Bojan Basa,Jantar,7757022,https://www.vivino.com/w/7757022,ocenka_est,258,False,False,,,
-bojan-basa-morava,Bojan Basa,Morava,13936056,https://www.vivino.com/w/13936056,malo_ocenok,,False,False,,,
-bojan-basa-tamjanika-prva,Bojan Basa,Tamjanika Prva,10632221,https://www.vivino.com/w/10632221,ocenka_est,94,False,False,,,
+bojan-basa-furmint,Bojan Basa,Furmint,13403013,https://www.vivino.com/w/13403013,malo_ocenok,37,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+bojan-basa-jantar,Bojan Basa,Jantar,7757022,https://www.vivino.com/w/7757022,ocenka_est,258,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+bojan-basa-morava,Bojan Basa,Morava,13936056,https://www.vivino.com/w/13936056,malo_ocenok,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+bojan-basa-tamjanika-prva,Bojan Basa,Tamjanika Prva,10632221,https://www.vivino.com/w/10632221,ocenka_est,94,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 botunjac-cuvee-jickie-pino-botunjac-reserve-pinot-noir,Botunjac,Cuvée Jickie Pino Botunjac Reserve Pinot Noir,1639687,https://www.vivino.com/w/1639687,malo_ocenok,61,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 botunjac-exclusive-pino-botunjac-pinot-noir,Botunjac,Exclusive Pino Botunjac Pinot Noir,2186304,https://www.vivino.com/w/2186304,malo_ocenok,13,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 botunjac-jagoda-botunjac,Botunjac,Jagoda Botunjac,1618809,https://www.vivino.com/w/1618809,ocenka_est,681,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
@@ -645,29 +645,29 @@ dragojlovic-kolodar-syrah,Dragojlović Vinarija,Kolodar Syrah,13882708,https://w
 dukay-reserve-chardonnay,Dukay,Reserve Chardonnay,12851176,https://www.vivino.com/w/12851176,malo_ocenok,14,False,False,,,
 dukay-reserve-furmint,Dukay,Reserve Furmint,11585384,https://www.vivino.com/w/11585384,malo_ocenok,16,False,False,,,
 dukay-reserve-pinot-noir,Dukay,Reserve Pinot Noir,11585380,https://www.vivino.com/w/11585380,malo_ocenok,10,False,False,,,
-dukay-sagmeister-breton-cabernet-franc,Dukay-Sagmeister,Breton Cabernet Franc,9471003,https://www.vivino.com/w/9471003,ocenka_est,277,False,False,,,
-dukay-sagmeister-burgundac-crni-pinot-noir,Dukay-Sagmeister,Burgundac Crni Pinot Noir,6795070,https://www.vivino.com/w/6795070,ocenka_est,140,False,False,,,
-dukay-sagmeister-devas-furmint,Dukay-Sagmeister,Devas Furmint,8390774,https://www.vivino.com/w/8390774,ocenka_est,402,True,False,,,
-dukay-sagmeister-devas-kadarka,Dukay-Sagmeister,Devas Kadarka,9420660,https://www.vivino.com/w/9420660,ocenka_est,660,True,False,,,
-dukay-sagmeister-elit-a-lov-furmint,Dukay-Sagmeister,Elit A Lov Furmint,13811684,https://www.vivino.com/w/13811684,malo_ocenok,13,False,False,,,
-dukay-sagmeister-furmint,Dukay-Sagmeister,Furmint,7319780,https://www.vivino.com/w/7319780,ocenka_est,113,False,False,,,
-dukay-sagmeister-furmintis-zero,Dukay-Sagmeister,Furmintis Zero,12176797,https://www.vivino.com/w/12176797,ocenka_est,87,False,False,,,
-dukay-sagmeister-kadarka,Dukay-Sagmeister,Kadarka,11585361,https://www.vivino.com/w/11585361,malo_ocenok,9,False,False,,,
-dukay-sagmeister-kanias-furmint,Dukay-Sagmeister,Kanias Furmint,7195367,https://www.vivino.com/w/7195367,ocenka_est,713,True,False,,,
-dukay-sagmeister-kanias-kadarka,Dukay-Sagmeister,Kanias Kadarka,7821148,https://www.vivino.com/w/7821148,ocenka_est,209,True,False,,,
-dukay-sagmeister-kanias-pinot-noir,Dukay-Sagmeister,Kanias Pinot Noir,2270798,https://www.vivino.com/w/2270798,ocenka_est,551,True,False,,,
-dukay-sagmeister-kew-furmint,Dukay-Sagmeister,Kew Furmint,10624004,https://www.vivino.com/w/10624004,ocenka_est,267,True,False,,,
-dukay-sagmeister-kew-kadarka,Dukay-Sagmeister,Kew Kadarka,12962534,https://www.vivino.com/w/12962534,ocenka_est,75,True,False,,,
-dukay-sagmeister-lh-zero,Dukay-Sagmeister,LH Zero,11954702,https://www.vivino.com/w/11954702,malo_ocenok,4,False,False,,,
-dukay-sagmeister-pellenger-pinot-noir,Dukay-Sagmeister,Pellenger Pinot Noir,12733640,https://www.vivino.com/w/12733640,ocenka_est,121,False,False,,,
-dukay-sagmeister-reserve-kadarka,Dukay-Sagmeister,Reserve Kadarka,11585358,https://www.vivino.com/w/11585358,malo_ocenok,1,False,False,,,
-dukay-sagmeister-sauvignon-blanc-zero,Dukay-Sagmeister,Sauvignon Blanc Zero,12305908,https://www.vivino.com/w/12305908,ocenka_est,492,False,False,,,
-dukay-sagmeister-szigeti-furmint,Dukay-Sagmeister,Szigeti Furmint,6087984,https://www.vivino.com/w/6087984,ocenka_est,219,False,False,,,
-dukay-sagmeister-szigeti-kadarka,Dukay-Sagmeister,Szigeti Kadarka,5936005,https://www.vivino.com/w/5936005,ocenka_est,87,False,False,,,
-dukay-sagmeister-zz-zero,Dukay-Sagmeister,ZZ Zero,9808718,https://www.vivino.com/w/9808718,ocenka_est,22,False,False,,,
-dukay-sagmeister-zath-merlot,Dukay-Sagmeister,Zath Merlot,13702455,https://www.vivino.com/w/13702455,malo_ocenok,16,False,False,,,
-dukay-sagmeister-zero-kadarka,Dukay-Sagmeister,Zero Kadarka,10929626,https://www.vivino.com/w/10929626,ocenka_est,84,False,False,,,
-dukay-sagmeister-furmintis,Dukay-Sagmeister,β Furmintis,6977647,https://www.vivino.com/w/6977647,ocenka_est,155,False,False,,,
+dukay-sagmeister-breton-cabernet-franc,Dukay-Sagmeister,Breton Cabernet Franc,9471003,https://www.vivino.com/w/9471003,ocenka_est,277,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-burgundac-crni-pinot-noir,Dukay-Sagmeister,Burgundac Crni Pinot Noir,6795070,https://www.vivino.com/w/6795070,ocenka_est,140,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-devas-furmint,Dukay-Sagmeister,Devas Furmint,8390774,https://www.vivino.com/w/8390774,ocenka_est,402,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-devas-kadarka,Dukay-Sagmeister,Devas Kadarka,9420660,https://www.vivino.com/w/9420660,ocenka_est,660,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-elit-a-lov-furmint,Dukay-Sagmeister,Elit A Lov Furmint,13811684,https://www.vivino.com/w/13811684,malo_ocenok,13,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-furmint,Dukay-Sagmeister,Furmint,7319780,https://www.vivino.com/w/7319780,ocenka_est,113,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-furmintis-zero,Dukay-Sagmeister,Furmintis Zero,12176797,https://www.vivino.com/w/12176797,ocenka_est,87,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-kadarka,Dukay-Sagmeister,Kadarka,11585361,https://www.vivino.com/w/11585361,malo_ocenok,9,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-kanias-furmint,Dukay-Sagmeister,Kanias Furmint,7195367,https://www.vivino.com/w/7195367,ocenka_est,713,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-kanias-kadarka,Dukay-Sagmeister,Kanias Kadarka,7821148,https://www.vivino.com/w/7821148,ocenka_est,209,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-kanias-pinot-noir,Dukay-Sagmeister,Kanias Pinot Noir,2270798,https://www.vivino.com/w/2270798,ocenka_est,551,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-kew-furmint,Dukay-Sagmeister,Kew Furmint,10624004,https://www.vivino.com/w/10624004,ocenka_est,267,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-kew-kadarka,Dukay-Sagmeister,Kew Kadarka,12962534,https://www.vivino.com/w/12962534,ocenka_est,75,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-lh-zero,Dukay-Sagmeister,LH Zero,11954702,https://www.vivino.com/w/11954702,malo_ocenok,4,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-pellenger-pinot-noir,Dukay-Sagmeister,Pellenger Pinot Noir,12733640,https://www.vivino.com/w/12733640,ocenka_est,121,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-reserve-kadarka,Dukay-Sagmeister,Reserve Kadarka,11585358,https://www.vivino.com/w/11585358,malo_ocenok,1,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-sauvignon-blanc-zero,Dukay-Sagmeister,Sauvignon Blanc Zero,12305908,https://www.vivino.com/w/12305908,ocenka_est,492,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-szigeti-furmint,Dukay-Sagmeister,Szigeti Furmint,6087984,https://www.vivino.com/w/6087984,ocenka_est,219,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-szigeti-kadarka,Dukay-Sagmeister,Szigeti Kadarka,5936005,https://www.vivino.com/w/5936005,ocenka_est,87,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-zz-zero,Dukay-Sagmeister,ZZ Zero,9808718,https://www.vivino.com/w/9808718,ocenka_est,22,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-zath-merlot,Dukay-Sagmeister,Zath Merlot,13702455,https://www.vivino.com/w/13702455,malo_ocenok,16,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-zero-kadarka,Dukay-Sagmeister,Zero Kadarka,10929626,https://www.vivino.com/w/10929626,ocenka_est,84,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
+dukay-sagmeister-furmintis,Dukay-Sagmeister,β Furmintis,6977647,https://www.vivino.com/w/6977647,ocenka_est,155,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 dulka-ausbruh,Dulka,Ausbruh,9627454,https://www.vivino.com/w/9627454,malo_ocenok,3,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 dulka-beli-bermet,Dulka,Beli Bermet,9550159,https://www.vivino.com/w/9550159,malo_ocenok,8,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 dulka-bermet,Dulka,Bermet,2201224,https://www.vivino.com/w/2201224,ocenka_est,139,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
@@ -3150,26 +3150,26 @@ vista-hill-white,Vista Hill,White,,,net_na_vivino,,False,True,Sremski rejon,Fru�
 vista-hill-white-reserve-grasac,Vista Hill,White Reserve Grasac,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 vista-hill-red-selection-merlot,Vista Hill,red selection Merlot,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo
 vladavina-tamjanika,Vladavina,Tamjanika,10583766,https://www.vivino.com/w/10583766,malo_ocenok,8,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
-vrsacki-banatski-rizling,Vršački Vinogradi,Banatski Rizling,1161749,https://www.vivino.com/w/1161749,ocenka_est,2657,False,False,,,
-vrsacki-feniks-rizling,Vršački Vinogradi,Feniks Rizling,7586339,https://www.vivino.com/w/7586339,malo_ocenok,70,False,False,,,
-vrsacki-frankovka,Vršački Vinogradi,Frankovka,1654289,https://www.vivino.com/w/1654289,ocenka_est,315,False,False,,,
-vrsacki-helverija,Vršački Vinogradi,Helverija,1741738,https://www.vivino.com/w/1741738,malo_ocenok,155,False,False,,,
-vrsacki-kurtres-vrhunsko-kasna-berba,Vršački Vinogradi,Kurtres Vrhunsko Kasna Berba,2435942,https://www.vivino.com/w/2435942,malo_ocenok,53,False,False,,,
-vrsacki-kutres-kvalitetno-chardonnay,Vršački Vinogradi,Kutres Kvalitetno Chardonnay,3198794,https://www.vivino.com/w/3198794,malo_ocenok,36,False,False,,,
-vrsacki-kutres-vrhunsko-chardonnay,Vršački Vinogradi,Kutres Vrhunsko Chardonnay,2189199,https://www.vivino.com/w/2189199,malo_ocenok,31,False,False,,,
-vrsacki-kutres-vrhunsko-rizling-rajnski,Vršački Vinogradi,Kutres Vrhunsko Rizling Rajnski,1222963,https://www.vivino.com/w/1222963,malo_ocenok,96,False,False,,,
-vrsacki-kvalitetno-burgundac-beli,Vršački Vinogradi,Kvalitetno Burgundac Beli,2153354,https://www.vivino.com/w/2153354,malo_ocenok,105,False,False,,,
-vrsacki-kvalitetno-frankovka,Vršački Vinogradi,Kvalitetno Frankovka,1877360,https://www.vivino.com/w/1877360,ocenka_est,169,False,False,,,
-vrsacki-kvalitetno-muskat-ottonel,Vršački Vinogradi,Kvalitetno Muskat Ottonel,2482974,https://www.vivino.com/w/2482974,ocenka_est,208,False,False,,,
-vrsacki-kvalitetno-rizling-italijanski,Vršački Vinogradi,Kvalitetno Rizling Italijanski,1794160,https://www.vivino.com/w/1794160,malo_ocenok,25,False,False,,,
-vrsacki-muscat-ottonel,Vršački Vinogradi,Muscat Ottonel,2371819,https://www.vivino.com/w/2371819,ocenka_est,89,False,False,,,
-vrsacki-pastuv,Vršački Vinogradi,Pastuv,2718511,https://www.vivino.com/w/2718511,malo_ocenok,63,False,False,,,
-vrsacki-rizling-italijanski,Vršački Vinogradi,Rizling Italijanski,3231083,https://www.vivino.com/w/3231083,malo_ocenok,30,False,False,,,
-vrsacki-vrsacki-belo,Vršački Vinogradi,Vršački Belo,1882962,https://www.vivino.com/w/1882962,malo_ocenok,28,False,False,,,
-vrsacki-vrsacki-chardonnay,Vršački Vinogradi,Vršački Chardonnay,2611191,https://www.vivino.com/w/2611191,malo_ocenok,210,False,False,,,
-vrsacki-vrsacki-rizling-kasna-berba,Vršački Vinogradi,Vršački Rizling Kasna Berba,2390626,https://www.vivino.com/w/2390626,malo_ocenok,72,False,False,,,
-vrsacki-vrsackn-breg-bianka,Vršački Vinogradi,Вршачкн Брег Бианка,8141080,https://www.vivino.com/w/8141080,malo_ocenok,7,False,False,,,
-vrsacki-vrsackn-breg-vranac,Vršački Vinogradi,Вршачкн Брег Вранац,7174889,https://www.vivino.com/w/7174889,ocenka_est,372,False,False,,,
+vrsacki-banatski-rizling,Vršački Vinogradi,Banatski Rizling,1161749,https://www.vivino.com/w/1161749,ocenka_est,2657,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-feniks-rizling,Vršački Vinogradi,Feniks Rizling,7586339,https://www.vivino.com/w/7586339,malo_ocenok,70,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-frankovka,Vršački Vinogradi,Frankovka,1654289,https://www.vivino.com/w/1654289,ocenka_est,315,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-helverija,Vršački Vinogradi,Helverija,1741738,https://www.vivino.com/w/1741738,malo_ocenok,155,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kurtres-vrhunsko-kasna-berba,Vršački Vinogradi,Kurtres Vrhunsko Kasna Berba,2435942,https://www.vivino.com/w/2435942,malo_ocenok,53,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kutres-kvalitetno-chardonnay,Vršački Vinogradi,Kutres Kvalitetno Chardonnay,3198794,https://www.vivino.com/w/3198794,malo_ocenok,36,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kutres-vrhunsko-chardonnay,Vršački Vinogradi,Kutres Vrhunsko Chardonnay,2189199,https://www.vivino.com/w/2189199,malo_ocenok,31,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kutres-vrhunsko-rizling-rajnski,Vršački Vinogradi,Kutres Vrhunsko Rizling Rajnski,1222963,https://www.vivino.com/w/1222963,malo_ocenok,96,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kvalitetno-burgundac-beli,Vršački Vinogradi,Kvalitetno Burgundac Beli,2153354,https://www.vivino.com/w/2153354,malo_ocenok,105,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kvalitetno-frankovka,Vršački Vinogradi,Kvalitetno Frankovka,1877360,https://www.vivino.com/w/1877360,ocenka_est,169,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kvalitetno-muskat-ottonel,Vršački Vinogradi,Kvalitetno Muskat Ottonel,2482974,https://www.vivino.com/w/2482974,ocenka_est,208,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-kvalitetno-rizling-italijanski,Vršački Vinogradi,Kvalitetno Rizling Italijanski,1794160,https://www.vivino.com/w/1794160,malo_ocenok,25,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-muscat-ottonel,Vršački Vinogradi,Muscat Ottonel,2371819,https://www.vivino.com/w/2371819,ocenka_est,89,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-pastuv,Vršački Vinogradi,Pastuv,2718511,https://www.vivino.com/w/2718511,malo_ocenok,63,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-rizling-italijanski,Vršački Vinogradi,Rizling Italijanski,3231083,https://www.vivino.com/w/3231083,malo_ocenok,30,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-vrsacki-belo,Vršački Vinogradi,Vršački Belo,1882962,https://www.vivino.com/w/1882962,malo_ocenok,28,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-vrsacki-chardonnay,Vršački Vinogradi,Vršački Chardonnay,2611191,https://www.vivino.com/w/2611191,malo_ocenok,210,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-vrsacki-rizling-kasna-berba,Vršački Vinogradi,Vršački Rizling Kasna Berba,2390626,https://www.vivino.com/w/2390626,malo_ocenok,72,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-vrsackn-breg-bianka,Vršački Vinogradi,Вршачкн Брег Бианка,8141080,https://www.vivino.com/w/8141080,malo_ocenok,7,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
+vrsacki-vrsackn-breg-vranac,Vršački Vinogradi,Вршачкн Брег Вранац,7174889,https://www.vivino.com/w/7174889,ocenka_est,372,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo
 vujic-gmitar-prokupac,Vujić,Gmitar Prokupac,7420677,https://www.vivino.com/w/7420677,ocenka_est,123,True,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 vujic-gmitar-reserva,Vujić,Gmitar Reserva,12378388,https://www.vivino.com/w/12378388,malo_ocenok,15,True,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo
 vujic-nature-rose,Vujić,Nature Rose,10044141,https://www.vivino.com/w/10044141,ocenka_est,94,False,False,Rejon Tri Morave,Župsko vinogorje,hozyaistvo

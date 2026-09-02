@@ -26,13 +26,13 @@ Bahus,bahus,Vojvodina,Južnobanatski rejon,Vršačko vinogorje,Gudurica,mesto,,,
 Bajilo,bajilo,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,"Sremski Karlovci, Južno-bački okrug",False,,,14
 Basha Vino,basha,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,3
 Belgrade,belgrade,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,1
-Belo Brdo,belo-brdo,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Čerević,mesto,,fruska,raspolozhenie,"Срем, по данным Vivino",False,,,25
+Belo Brdo,belo-brdo,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,"Срем, по данным Vivino",False,,,25
 Benišek Veselinović,benisek-veselinovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,"по месту Sremski rejon, у источников Rejon Bačka ×2; Sremski rejon ×1",,ne_ustanovlen,Sremski Karlovci,False,,,2
 Bikicki,bikicki,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,fruska,kniga,"Banoštor, Južno-bački okrug",True,,,23
 Bjelica,bjelica,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,Фрушка гора,False,,,7
 Boemi,boemi,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,5
 Bogdanovic,bogdanovic,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,3
-Bojan Basa,bojan-basa,,,,,ne_ustanovlen,,fruska,raspolozhenie,Срем,False,,3,4
+Bojan Basa,bojan-basa,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,Срем,False,,3,4
 Botunjac,botunjac,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,,ne_ustanovlen,"Aleksandrovac, Rasinski okrug",False,,,8
 Braća Rajković,braca-rajkovic,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,morave,kniga,"Gornje Zleginje, Aleksandrovac, Rasinski okrug",True,,,10
 Breg,breg,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Janda,mesto,,,ne_ustanovlen,Janda,False,,,3
@@ -61,7 +61,7 @@ Dolina,dolina,Centralna Srbija,,,,ne_ustanovlen,рејон один из: Beogra
 Draganić,draganic,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Lipovac,mesto,,sumadija,raspolozhenie,"Шумадия, по годовому тесту vino.rs",False,,,9
 Dragojlović Vinarija,dragojlovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,vivino,,fruska,kniga,,True,,,2
 Dukay,dukay,Vojvodina,,,Kanjiža,ne_ustanovlen,рејон один из: Potiski rejon; Subotički rejon,,ne_ustanovlen,"Kanjiža, Severno-banatski okrug",False,,,3
-Dukay-Sagmeister,dukay-sagmeister,Vojvodina,,,,ne_ustanovlen,,fruska,kniga,,True,,,23
+Dukay-Sagmeister,dukay-sagmeister,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Ириг,mesto,,fruska,kniga,"Ириг, Фрушка гора",True,,,23
 Dulka,dulka,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,"Sremski Karlovci, Južno-bački okrug",False,,,7
 Dzervin,dzervin,Centralna Srbija,Knjaževački rejon,Potrkanjsko vinogorje,Knjaževac,mesto,,jugoistok,kniga,"Knjaževac, Zaječarski okrug",True,,,11
 Eden,eden,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Ranilović,mesto,,sumadija,kniga,"Ranilović, Šumadijski okrug",True,,,10
@@ -243,7 +243,7 @@ Traško Vinarija,trasko,Centralna Srbija,Rejon Negotinska Krajina,Negotinsko vin
 Tri Medje I Oblak,tri-mede-i-oblak,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Neštin,mesto,"по месту Sremski rejon, у источников Sremski rejon ×3; Rejon Bačka ×2",,ne_ustanovlen,"Neštin, Zapadno-bački okrug",False,,,6
 Tri Oraha,tri-oraha,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,8
 Tri Puške,tri-puske,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,2
-Trivanović,trivanovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Šid,mesto,,fruska,raspolozhenie,"Срем, по данным Vivino",False,,,23
+Trivanović,trivanovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,"Срем, по данным Vivino",False,,,23
 Ukusi Moga Kraja,ukusi-moga-kraja,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,2
 Uns Petra,uns-petra,Vojvodina,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,1
 Uziwa Winery,uziwa,Centralna Srbija,Rejon Tri Morave,,Vrnjačka Banja,vivino-adres,,,ne_ustanovlen,Vrnjačka Banja,False,,,1
@@ -397,7 +397,7 @@ Vinčić,vincic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Šid,mesto,"по
 Virtus,virtus,Centralna Srbija,Mlavski rejon,Požarevačko vinogorje,Žabari,mesto,"по месту Mlavski rejon, у источников Mlavski rejon ×46; Beogradski rejon ×2",,ne_ustanovlen,"Decanter называет район Млава (Браничево, к востоку от Белграда). Значит, не Шумадия, как пишет Vivino. Есть ли Млава внутри главы «Подунавье и Белградский район» — решать автору.",False,,,13
 Vista Hill,vista-hill,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,decanter,,,ne_ustanovlen,,False,,,6
 Vladavina,vladavina,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Gornja Zleginja,mesto,,,ne_ustanovlen,"Gornja Zleginja, Rasinski okrug",False,,,1
-Vršački Vinogradi,vrsacki,Vojvodina,,,,ne_ustanovlen,рејон один из: Banatski rejon; Južnobanatski rejon,banat,kniga,,True,,,20
+Vršački Vinogradi,vrsacki,Vojvodina,Južnobanatski rejon,Vršačko vinogorje,Вршац,mesto,,banat,kniga,Вршац,True,,,20
 Vujić,vujic,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,morave,kniga,Лукаревина,True,,,4
 Vukman,vukman,,,,,ne_ustanovlen,,,ne_ustanovlen,,False,,,1
 Vučurević,vucurevic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Novi Sad,mesto,,,ne_ustanovlen,"Novi Sad, Južnobački okrug",False,,,2

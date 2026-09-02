@@ -117,17 +117,17 @@ Boemi, — и на них приходится больше четырёхсот
 
 | Рејон | Прошло вин | Хозяйств |
 |---|---|---|
-| Sremski rejon | 245 | 49 |
+| Sremski rejon | 260 | 51 |
 | Rejon Tri Morave | 160 | 36 |
 | Šumadijski rejon | 148 | 21 |
-| рејон не установлен | 68 | 26 |
 | Subotički rejon | 58 | 9 |
+| рејон не установлен | 51 | 23 |
 | Rejon Negotinska Krajina | 48 | 12 |
 | Beogradski rejon | 29 | 8 |
 | Toplički rejon | 21 | 3 |
 | Vranjski rejon | 18 | 2 |
 | Mlavski rejon | 17 | 4 |
-| Južnobanatski rejon | 13 | 4 |
+| Južnobanatski rejon | 15 | 5 |
 | Knjaževački rejon | 8 | 3 |
 | Pocersko Valjevski Rejon | 8 | 4 |
 | Niški rejon | 8 | 3 |
@@ -352,7 +352,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Coka | Potiski rejon | 2 |
 | Vinarija Grumen | Sremski rejon | 1 |
 | Vinarija Todorović | Knjaževački rejon | 3 |
-| Vršački Vinogradi | — | 2 |
+| Vršački Vinogradi | Južnobanatski rejon | 2 |
 | Амбелос Винарија (Ambelos Winery) | Šumadijski rejon | 1 |
 | Винарија Живковића (Vinarija Živkovića-Tržac) | Rejon Tri Morave | 1 |
 | Краљвеска Винарија (Royal Winery) | Beogradski rejon | 1 |

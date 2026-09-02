@@ -877,10 +877,10 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "gorod": "Čerević",
+   "gorod": "",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Čerević, Južno-bački okrug",
+   "gde": "Срем, по данным Vivino",
    "pokazaniya": [
     "decanter: ",
     "decanter: Srem",
@@ -1013,11 +1013,11 @@
   },
   "bojan-basa": {
    "hozyaistvo": "Bojan Basa",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
+   "region": "Vojvodina",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
    "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Срем",
    "pokazaniya": [
@@ -1892,12 +1892,12 @@
   "dukay-sagmeister": {
    "hozyaistvo": "Dukay-Sagmeister",
    "region": "Vojvodina",
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "rejon": "Sremski rejon",
+   "vinogorje": "Fruškogorsko vinogorje",
+   "gorod": "Ириг",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Ириг, Фрушка гора",
    "pokazaniya": [
     "vivino: Vojvodina"
    ]
@@ -6361,10 +6361,10 @@
    "region": "Vojvodina",
    "rejon": "Sremski rejon",
    "vinogorje": "Fruškogorsko vinogorje",
-   "gorod": "Šid",
+   "gorod": "",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Šid, Sremski okrug",
+   "gde": "Срем, по данным Vivino",
    "pokazaniya": [
     "decanter: Srem · Fruška Gora",
     "ivv: Šid, Sremski okrug",
@@ -7215,12 +7215,12 @@
   "vrsacki": {
    "hozyaistvo": "Vršački Vinogradi",
    "region": "Vojvodina",
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "рејон один из: Banatski rejon; Južnobanatski rejon",
-   "gde": "",
+   "rejon": "Južnobanatski rejon",
+   "vinogorje": "Vršačko vinogorje",
+   "gorod": "Вршац",
+   "istochnik": "mesto",
+   "raznoglasie": "",
+   "gde": "Вршац",
    "pokazaniya": [
     "vivino: Banat"
    ]

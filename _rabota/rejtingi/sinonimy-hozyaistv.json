@@ -236,9 +236,10 @@
   },
   "Vinarija Coka": {
    "varianty": [
-    "VINARIJA ČOKA PLUS"
+    "VINARIJA ČOKA PLUS",
+    "Vinoprodukt Coka"
    ],
-   "dokazatelstvo": "Общая марка: у нас за Vinarija Coka числятся «Grof Lederer», «Grof Lederer Chardonnay», «Grof Lederer Sauvignon Blanc» и «Grof Lederer Rosé», а балканский конкурс награждает «Grof Lederer MERLOT» и «Grof Lederer CABERNET SAUVIGNON» за «VINARIJA ČOKA PLUS». Граф Ледерер — историческая марка Чоке."
+   "dokazatelstvo": "Общая марка: у нас за Vinarija Coka числятся «Grof Lederer», «Grof Lederer Chardonnay», «Grof Lederer Sauvignon Blanc» и «Grof Lederer Rosé», а балканский конкурс награждает «Grof Lederer MERLOT» и «Grof Lederer CABERNET SAUVIGNON» за «VINARIJA ČOKA PLUS». Граф Ледерер — историческая марка Чоке. Ценовник Maxi пишет оба имени в одном файле на одни и те же товары: «Vino belo Lederer Chardonnay 0,75L, Vinarija Coka» и «Vino Lederer Sovignon blanc V.Coka», «Vino aromatizovano Sangria 1L, Vinarija Coka» и «Vino Sangria White Vinoprodukt Coka 1l». Винопродукт Чока — нынешнее имя того же дома."
   },
   "Vinarija Fragaria": {
    "varianty": [
@@ -390,6 +391,18 @@
     "Trilogija Vinery"
    ],
    "dokazatelstvo": "Опечатка в слове «Winery» у Decanter."
+  },
+  "Radovanović": {
+   "varianty": [
+    "Mali podrum Radovanovic"
+   ],
+   "dokazatelstvo": "«Mali podrum Radovanovic» в ценовнике Maxi стоит маркой у семи вин, и все семь — линейка Радовановића: «Chardonnay Classique», «Cabernet Sauvignon Classique», «Cabernet Sauvignon France», «Sauvignon Blanc», «Rajski Rizling», «Chardonnay barrique», розе. Мали подрум — имя его подвала в Крњеву."
+  },
+  "Château Prince": {
+   "varianty": [
+    "Chateau Princ"
+   ],
+   "dokazatelstvo": "«Chateau Princ» без последней буквы — тот же дом: у нас за Château Prince числятся «Château Shiraz», «Magija Rosé», «Velika Morava» и «Dobra Vila Tamjanika», а ценовник Maxi продаёт под именем «Chateau Princ» Shiraz, розе «magija», «V.Morava» и «Tamjanika»."
   }
  },
  "ne_odno_i_to_zhe": {

@@ -283,9 +283,17 @@ def main():
         if ne_ta_butylka(imya):
             schet["не та бутылка (не 0,75)"] += 1
             continue
-        if not z["hozyaistvo"].strip():
-            z = {**z, "hozyaistvo": dom_iz_imeni(imya)}
-            if z["hozyaistvo"]:
+        # Поле марки не всегда называет хозяйство. У Maxi под маркой
+        # «Crasto» — дистрибьютор — идут «Poligraf Cuvee Molovin»,
+        # «Trianon Erdevik» и «Tamjanika Bellucci», то есть вина трёх
+        # разных домов. Поэтому имя дома берётся из имени товара не
+        # только когда поле пусто, но и когда в нём стоит незнакомое нам
+        # имя: своё оно вернёт, чужое — нет, а хуже не станет.
+        if (not z["hozyaistvo"].strip()
+                or st.klyuch_hozyaistva(z["hozyaistvo"]) not in po_domu):
+            iz_tovara = dom_iz_imeni(imya)
+            if iz_tovara:
+                z = {**z, "hozyaistvo": iz_tovara}
                 iz_imeni += 1
         klyuch = st.klyuch_vina(z["hozyaistvo"], imya)
         if klyuch in nashi:

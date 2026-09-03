@@ -171,6 +171,29 @@ SLUZHEBNYE = ("vinarija", "vinarija-", "podrum", "podrumi", "vinogradi",
               "wine", "wines")
 
 
+# Сорт — не хозяйство, даже если источник поставил его в поле
+# производителя. У Decanter так завелись три призрака: «Chardonnay»
+# (сведён к Erdevik доказанно), «Prokupac» (DWWA 2021, вино 699180) и
+# «Marselan» (DWWA 2023, вино 736227) — последние два свести не с чем.
+# Список нужен там, где хозяйство достаётся из имени товара или из
+# заголовка статьи: сорт стоит там сплошь и рядом, и по такому ключу
+# цена или упоминание уходят чужому дому.
+SORT_NE_DOM = {
+    "chardonnay", "prokupac", "marselan", "merlot", "cabernet",
+    "cabernet sauvignon", "cabernet franc", "sauvignon", "sauvignon blanc",
+    "tamjanika", "vranac", "rizling", "riesling", "muskat", "muscat",
+    "pinot", "pinot noir", "pinot blanc", "pinot grigio", "frankovka",
+    "grasevina", "grasac", "smederevka", "traminac", "burgundac", "syrah",
+    "shiraz", "viognier", "malbec", "gamay", "kadarka", "semillon",
+    "furmint", "malvazija", "portugizer", "bagrina", "zacinak",
+}
+
+
+def sort_a_ne_dom(imya):
+    """Похоже ли это на сорт, а не на имя хозяйства."""
+    return (imya or "").strip().lower() in SORT_NE_DOM
+
+
 # Имена, сведённые руками и с доказательством, — `sinonimy-hozyaistv.json`.
 # Похожесть имён доказательством не считается: Jovanović и Jovanov,
 # Madžić и Adžić, Stojković и Stojanović — разные хозяйства.

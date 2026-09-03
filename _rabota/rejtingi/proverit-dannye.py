@@ -14,6 +14,7 @@
 
 import collections
 import json
+import unicodedata
 import os
 import sys
 
@@ -184,6 +185,23 @@ def main():
     bez_rejona = [h for h in hozyaistva if not h.get("rejon")]
     bez_vyborki = [o for o in ocenki if o["istochnik"] == "vivino" and not o["vyborka"]]
     print("не поломка, но знать стоит:")
+    # Сорт, попавший у источника в поле производителя, заводит в таблице
+    # призрачное хозяйство: у него ровно одно вино, и зовётся оно так же,
+    # как «хозяйство». Так у нас появились «Prokupac» и «Marselan» —
+    # оба из Decanter, свести их не с чем. Проверка нужна, чтобы третий
+    # такой не завёлся молча.
+    po_domu = collections.defaultdict(list)
+    for v in vina:
+        po_domu[v["hozyaistvo"]].append(v["vino"])
+    prosto = lambda x: "".join(
+        z for z in unicodedata.normalize("NFD", (x or "").lower())
+        if z.isalnum() and unicodedata.category(z) != "Mn")
+    prizraki = sorted(dom for dom, spisok in po_domu.items()
+                      if len(spisok) == 1 and prosto(dom) == prosto(spisok[0]))
+    if prizraki:
+        print("   хозяйство названо так же, как его единственное вино "
+              "(похоже на сорт в поле производителя): %s"
+              % ", ".join(prizraki))
     chuzhie = [h for h in hozyaistva if not h.get("vinograd_v_serbii", True)]
     if chuzhie:
         k_chuzhim = {h["hozyaistvo"] for h in chuzhie}

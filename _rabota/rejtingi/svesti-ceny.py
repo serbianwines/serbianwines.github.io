@@ -73,17 +73,6 @@ OBEM = re.compile(r"\b(\d(?:[.,]\d+)?)\s*L\b", re.I)
 # сходится с ним однозначно и молча.
 YARLYK_SLOVO = re.compile(r"\b(?:vino|vina|stono|kvalitetno|vrhunsko)\b", re.I)
 LYUBOJ_OBEM = re.compile(r"\b\d+(?:[.,]\d+)?\s*(?:l|ml)\b", re.I)
-# Сорт в поле хозяйства — ошибка источника, а не имя дома. У нас так
-# завелись два призрака: «Chardonnay» (сведён к Erdevik: у Decanter в
-# поле производителя стоял сорт, а линейка Omnibus Lector — эрдевицкая)
-# и «Prokupac» (DWWA 2021, вино 699180 — свести не с чем). В имени
-# магазина сорт стоит сплошь и рядом: «Vino chardonnay premium 0.75l
-# nikolas wines». По такому ключу цена Николаса ушла бы Эрдевику.
-SORT_NE_DOM = {"chardonnay", "prokupac", "merlot", "cabernet", "sauvignon",
-               "cabernet sauvignon", "sauvignon blanc", "tamjanika", "vranac",
-               "rizling", "riesling", "muskat", "muscat", "pinot", "pinot noir",
-               "frankovka", "grasevina", "smederevka", "traminac", "burgundac",
-               "syrah", "shiraz", "viognier", "malbec", "gamay"}
 
 
 def bez_yarlykov(imya):
@@ -255,7 +244,9 @@ def main():
         chasti = (imya or "").split()
         for skolko in range(min(4, len(chasti) - 1), 0, -1):
             nachalo = " ".join(chasti[:skolko])
-            if nachalo.lower() in SORT_NE_DOM:
+            # Сорт хозяйством не считается: список общий, в
+            # `sobrat-tablicy.py`, чтобы не расходился по скриптам.
+            if st.sort_a_ne_dom(nachalo):
                 continue
             if st.klyuch_hozyaistva(nachalo) in po_domu:
                 return nachalo

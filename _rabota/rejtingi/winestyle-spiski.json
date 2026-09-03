@@ -1,0 +1,751 @@
+{
+ "chto_eto": "Годовые списки сербских вин журнала «Wine Style». НЕ оценка качества: журнал прямо пишет, что это не список лучших, а список вин, привлёкших внимание. В дорожки рейтингов не заводится.",
+ "istochnik": "winestyle.rs, рубрика «Виноскоп»",
+ "sobrano": "2026-09-03",
+ "vin_est_u_nas": 59,
+ "vina": [
+  {
+   "god": 2019,
+   "hozyaistvo": "Lastar",
+   "vino": "Tamjanika",
+   "klyuch_vina": "lastar-tamjanika",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Podrum pevac",
+   "vino": "Izazov",
+   "klyuch_vina": "pevac-izazov",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Doja",
+   "vino": "Prokupac Breg",
+   "klyuch_vina": "doja-breg-prokupac",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Virtus",
+   "vino": "Prokupac",
+   "klyuch_vina": "virtus-prokupac",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Kostić",
+   "vino": "Prokupac",
+   "klyuch_vina": "kostic-prokupac",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "vino": "Pinot blanc",
+   "klyuch_vina": "zvonko-bogdan-pinot-blanc",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Cilić",
+   "vino": "NoNo",
+   "klyuch_vina": "cilic-nono",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Tonković",
+   "vino": "Rapsodija",
+   "klyuch_vina": "tonkovic-rapsodija",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Aleksandrović",
+   "vino": "Prokupac",
+   "klyuch_vina": "aleksandrovic-prokupac",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Radovanović",
+   "vino": "Pinot grigio",
+   "klyuch_vina": "radovanovic-pinot-grigio",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Temet",
+   "vino": "Tri Morave reserva",
+   "klyuch_vina": "temet-tri-morave-reserve",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Aleksić",
+   "vino": "Žuti cvet penušavo",
+   "klyuch_vina": "aleksic-zuti-cvet-penusavo",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Bikicki",
+   "vino": "Pinotte",
+   "klyuch_vina": "bikicki-pinotte",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Kovačević",
+   "vino": "Chardonnay R edicija (orange wine)",
+   "klyuch_vina": "kovacevic-chardonnay-r-edicija-orange-wine",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Tana",
+   "vino": "Tama",
+   "klyuch_vina": "tana-tama",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Matalj",
+   "vino": "Crna tamjanika",
+   "klyuch_vina": "matalj-crna-tamjanika",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Braća Rajković",
+   "vino": "Sofia tamjanika",
+   "klyuch_vina": "braca-rajkovic-sofia-tamjanika",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Ivanović",
+   "vino": "No1/2",
+   "klyuch_vina": "ivanovic-no1-2",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Zmajevac",
+   "vino": "Prokupac",
+   "klyuch_vina": "zmajevac-prokupac",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Verkat",
+   "vino": "Malvazija",
+   "klyuch_vina": "verkat-malvazija",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Izba Jovanović",
+   "vino": "Merlot",
+   "klyuch_vina": "izba-jovanovic-merlot",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Atelje vina Šapat",
+   "vino": "Cabernet sauvignon reserve",
+   "klyuch_vina": "atelje-sapat-cabernet-sauvignon-reserve",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2019,
+   "hozyaistvo": "Trivanović",
+   "vino": "Optimus",
+   "klyuch_vina": "trivanovic-optimus",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2019/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Đurđić",
+   "vino": "Cabernet franc",
+   "klyuch_vina": "durdic-cabernet-franc",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Virtus",
+   "vino": "Gewurztraminer",
+   "klyuch_vina": "virtus-gewurztraminer",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Matalj",
+   "vino": "Kremen Kamen",
+   "klyuch_vina": "matalj-kremen-kamen",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Doja",
+   "vino": "Breg",
+   "klyuch_vina": "doja-breg",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Stemina",
+   "vino": "Draga",
+   "klyuch_vina": "stemina-draga",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Lastar",
+   "vino": "Merlot-Cabernet franc",
+   "klyuch_vina": "lastar-merlot-cabernet-franc",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Cilić",
+   "vino": "Morava",
+   "klyuch_vina": "cilic-morava",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Radovanović",
+   "vino": "Cabernet sauvignon reserve",
+   "klyuch_vina": "radovanovic-reserve-cabernet-sauvignon",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Bikicki",
+   "vino": "Crna tamjanika",
+   "klyuch_vina": "bikicki-crna-tamjanika",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Braća Rajković",
+   "vino": "Bela 33",
+   "klyuch_vina": "braca-rajkovic-bela-33",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "DKS",
+   "vino": "Kraj sveta belo",
+   "klyuch_vina": "do-kraja-sveta-kraj-sveta-belo",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "vino": "Icon Campana Rubimus",
+   "klyuch_vina": "zvonko-bogdan-icon-campana-rubimus",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Kovačević",
+   "vino": "Aurelius Edicija S",
+   "klyuch_vina": "kovacevic-edicija-s-aurelius",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Aleksić",
+   "vino": "Žuti cvet",
+   "klyuch_vina": "aleksic-zuti-cvet",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Aleksandrović",
+   "vino": "Trijumf Selection",
+   "klyuch_vina": "aleksandrovic-trijumf-selection",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Todorović",
+   "vino": "Roze prokupac",
+   "klyuch_vina": "todorovic-roze-prokupac",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Temet",
+   "vino": "Tri Morave Rose",
+   "klyuch_vina": "temet-tri-morave-rose",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2020,
+   "hozyaistvo": "Erdevik",
+   "vino": "Omnibus Lector",
+   "klyuch_vina": "erdevik-omnibus-lector",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2020/najatraktivnija-srpska-vina-u-2020/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "BIKICKI",
+   "vino": "UNCENSORED",
+   "klyuch_vina": "bikicki-uncensored",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "VINARIJA ZVONKO BOGDAN",
+   "vino": "CUVÉE NO.1",
+   "klyuch_vina": "zvonko-bogdan-cuvee-no1",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "EDEN",
+   "vino": "SÉMILLON",
+   "klyuch_vina": "eden-semillon",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "CILIĆ",
+   "vino": "ONYX CRVENO",
+   "klyuch_vina": "cilic-onyx-crveno",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "RADOVANOVIĆ",
+   "vino": "PINOT GRIGIO",
+   "klyuch_vina": "radovanovic-pinot-grigio",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "LASTAR",
+   "vino": "PINOT NOIR TRIANGL",
+   "klyuch_vina": "lastar-triangl-pinot-noir",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "KOVAČEVIĆ",
+   "vino": "EDICIJA S CHARDONNAY",
+   "klyuch_vina": "kovacevic-edicija-s-chardonnay",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "TONKOVIĆ",
+   "vino": "RAPSODIJA",
+   "klyuch_vina": "tonkovic-rapsodija",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "DOJA",
+   "vino": "CABERNET SAUVIGNON BREG",
+   "klyuch_vina": "doja-breg-cabernet-sauvignon",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "VLADIMIR",
+   "vino": "1 HEKTAR",
+   "klyuch_vina": "vladimir-1-hektar",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "PODRUM BRAĆA RAJKOVIĆ",
+   "vino": "33",
+   "klyuch_vina": "braca-rajkovic-33",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "TEMET",
+   "vino": "ERGO CRVENO",
+   "klyuch_vina": "temet-ergo-red",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "ALEKSIĆ",
+   "vino": "KARDAŠ LIMITED",
+   "klyuch_vina": "aleksic-kardas-limited",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "IMPERATOR",
+   "vino": "MAXIMIANVS",
+   "klyuch_vina": "imperator-maximianvs",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "ATELJE VINA ŠAPAT",
+   "vino": "CABERNET SAUVIGNON",
+   "klyuch_vina": "atelje-sapat-cabernet-sauvignon",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "VIRTUS",
+   "vino": "CREDO CRVENI",
+   "klyuch_vina": "virtus-credo-crveni",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "VERKAT",
+   "vino": "MALVAZIJA",
+   "klyuch_vina": "verkat-malvazija",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "MATALJ",
+   "vino": "BAGRINA BUKOVSKA",
+   "klyuch_vina": "matalj-bagrina-bukovska",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "IVANOVIĆ",
+   "vino": "PROKUPAC",
+   "klyuch_vina": "ivanovic-prokupac",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "ĐURĐIĆ",
+   "vino": "NEOPLANTA",
+   "klyuch_vina": "durdic-neoplanta",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "MATIJAŠEVIĆ",
+   "vino": "SOVINOA",
+   "klyuch_vina": "matijasevic-sovinoa",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2021,
+   "hozyaistvo": "ERDEVIK",
+   "vino": "STIFLER’S MOM",
+   "klyuch_vina": "erdevik-stiflers-mom",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2022/top-lista-srpskih-vina-u-2021/"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "MADŽIĆ",
+   "vino": "THE MERLOT",
+   "klyuch_vina": "madzic-the-merlot",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "merlot Berba: 2019. Odležavanje: 12 meseci barik (srpski hrast) i 12 meseci bačv",
+   "urozhaj": "2019",
+   "krepost": "15",
+   "cena_rsd": "1900"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "IMPERATOR",
+   "vino": "ESTA",
+   "klyuch_vina": "imperator-esta",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "pinot noir Berba: 2022. Odlezavanje: sur lie , inoks, 8 meseci Alkohol: 13.5 % P",
+   "urozhaj": "2022",
+   "krepost": "13.5",
+   "cena_rsd": "1950"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "EDEN",
+   "vino": "SAUVIGNON BLANC BARRIQUE",
+   "klyuch_vina": "eden-sauvignon-blanc-barrique",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "sauvignon blanc Berba: 2021. Odležavanje: 6 meseci barik i bačve Alkohol: 14% Pr",
+   "urozhaj": "2021",
+   "krepost": "14",
+   "cena_rsd": "1500"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "VINARIJA ZVONKO BOGDAN",
+   "vino": "ECLATER",
+   "klyuch_vina": "zvonko-bogdan-eclater",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "chardonnay Berba: 2018. Način proizvodnje: tradicionalni champagne metod Odležav",
+   "urozhaj": "2018",
+   "krepost": "11",
+   "cena_rsd": "3500"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "CILIĆ",
+   "vino": "MANIFEST",
+   "klyuch_vina": "cilic-manifest",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "sauvignon blanc Berba: 2021. Odležavanje: 12 meseci barik (srpski hrast) Alkohol",
+   "urozhaj": "2021",
+   "krepost": "15",
+   "cena_rsd": "8000"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "VIRTUS",
+   "vino": "MARSELAN",
+   "klyuch_vina": "virtus-marselan",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "marselan Berba: 2020. Odležavanje: 18 meseci u bariku Alkohol: 14,5 % Prosečna m",
+   "urozhaj": "2020",
+   "krepost": "14,5",
+   "cena_rsd": "1400"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "VERKAT",
+   "vino": "Malvazija Barrique",
+   "klyuch_vina": "verkat-malvazija-barrique",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "malvazija istarska Berba: 2021. Odležavanje: 6 meseci barik (mađarski hrast) Ako",
+   "urozhaj": "2021",
+   "cena_rsd": "1850"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "ALEKSIĆ",
+   "vino": "KARDAŠ LIMITED EDITION",
+   "klyuch_vina": "aleksic-kardas-limited-edition",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "cabernet sauvignon Berba: 2021. Odležavanje: 15 meseci barik Alkohol: 15% Proseč",
+   "urozhaj": "2021",
+   "krepost": "15",
+   "cena_rsd": "1500"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "LASTAR",
+   "vino": "PINOT NOIR",
+   "klyuch_vina": "lastar-pinot-noir",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "pinot noir Berba: 2019. Odležavanje: 12 meseci barik, 24 meseca boca Alkohol: 15",
+   "urozhaj": "2019",
+   "krepost": "15",
+   "cena_rsd": "2400"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "BIKICKI",
+   "vino": "UNCENSORED",
+   "klyuch_vina": "bikicki-uncensored",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "traminac Berba: 2021. Odležavanje: godinu dana u bačvama (500 l, srpski hrast) A",
+   "urozhaj": "2021",
+   "krepost": "14.5",
+   "cena_rsd": "2300"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "TEMET",
+   "vino": "ERGO CRVENO",
+   "klyuch_vina": "temet-ergo-red",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "prokupac, cabernet sauvignon Berba: 2017. Odležavanje: cabernet sauvignon u fran",
+   "urozhaj": "2017",
+   "krepost": "15",
+   "cena_rsd": "2900"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "KOVAČEVIĆ",
+   "vino": "SAUVIGNON BLANC – EDICIJA S",
+   "klyuch_vina": "kovacevic-sauvignon-blanc-edicija-s",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "sauvignon blanc – organic Berba: 2022. Odležavanje: 6 meseci deo vina odležava u",
+   "urozhaj": "2022",
+   "krepost": "13,5",
+   "cena_rsd": "1800"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "MATALJ",
+   "vino": "BUKOVSKI CUVEE",
+   "klyuch_vina": "matalj-cuvee-bukovski",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "70% prokupac, 30 % začinak Berba: 2019. Odležavanje: 18 meseci u korišćenim bura",
+   "urozhaj": "2019",
+   "krepost": "13.5",
+   "cena_rsd": "2200"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "DOJA",
+   "vino": "BREG PROKUPAC",
+   "klyuch_vina": "doja-breg-prokupac",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "prokupac Berba: 2019. Odležavanje: dve godine u francuskom bariku, godinu dana u",
+   "urozhaj": "2019",
+   "krepost": "14.5",
+   "cena_rsd": "3900"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "RADOVANOVIĆ",
+   "vino": "CHARDONNAY SELEKCIJA",
+   "klyuch_vina": "radovanovic-chardonnay-selekcija",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "chardonnay Berba: 2021. Odležavanje: 12 meseci barik Alkohol: 14% Prosečna malop",
+   "urozhaj": "2021",
+   "krepost": "14",
+   "cena_rsd": "1900"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "VLADIMIR",
+   "vino": "PLATO",
+   "klyuch_vina": "vladimir-plato",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "merlot Berba: 2017. Odležavanje: 24 meseca u novim baricima, 30 meseci u bocama",
+   "urozhaj": "2017",
+   "krepost": "15",
+   "cena_rsd": "7400"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "TARPOŠ",
+   "vino": "CHARDONNAY",
+   "klyuch_vina": "tarpos-chardonnay",
+   "est_u_nas": true,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "chardonnay Berba: 2021. Odležavanje: 12 meseci barik Alkohol: 14% Prosečna malop",
+   "urozhaj": "2021",
+   "krepost": "14",
+   "cena_rsd": "1900"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "ERDEVIK",
+   "vino": "GRAND TRIAGNON",
+   "klyuch_vina": "erdevik-grand-triagnon",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "cabernet sauvignon 49%, merlot 34%, shiraz 17% Berba: 2019. Odležavanje: barik (",
+   "urozhaj": "2019",
+   "krepost": "16",
+   "cena_rsd": "2400"
+  },
+  {
+   "god": 2023,
+   "hozyaistvo": "ĐURĐEVIĆA LEGAT",
+   "vino": "DO NEBA I NAZAD",
+   "klyuch_vina": "durdevica-legat-do-neba-i-nazad",
+   "est_u_nas": false,
+   "stranica": "https://winestyle.rs/2024/najatraktivnija-srpska-vina-u-2023/",
+   "sorta": "pinot grigio 70%, muscat otonel 30% Berba: 2021. Alkohol: 13% Prosečna maloproda",
+   "urozhaj": "2021",
+   "krepost": "13",
+   "cena_rsd": "1000"
+  }
+ ],
+ "ne_razobrano": [
+  {
+   "god": 2023,
+   "stroka": "SAGMEISTER / KEW",
+   "pochemu": "хозяйством не выглядит ни одна"
+  },
+  {
+   "god": 2023,
+   "stroka": "LEGAT 1903 / VIOGNIER",
+   "pochemu": "хозяйством не выглядит ни одна"
+  }
+ ]
+}

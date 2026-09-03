@@ -34,14 +34,31 @@ def tablicy():
 # другое к вину не относится: «AKCIJA 2+1 Malča Anonymus» — та же
 # «Anonymus», а «Grand Trianon 1,5L» — тот же «Grand Trianon».
 AKCIYA = re.compile(r"^\s*AKCIJA\b[^A-Za-zČĆŠĐŽčćšđž]*", re.I)
+# Супермаркет зовёт товар по ярлыку полки: «Vino belo Chardonnay
+# Kovacevic 0,75l». Слова «вино», цвет и «стоно» имени вина не называют,
+# а начало имени у нас — как раз то, по чему идёт сведение. Без их снятия
+# из ста шестидесяти шести позиций Maxi сходились три.
+YARLYK = re.compile(r"^\s*(?:vino|stono|kvalitetno|vrhunsko|belo|crveno|"
+                    r"bijelo|roze|rose|ruzicasto|penusavo|blago\s+penusavo|"
+                    r"suvo|polusuvo|poluslatko)\b[\s,-]*", re.I)
 # Дробная часть бывает любой длины: 1,5 л, 0,5 л, 0,375 л. Первая
 # редакция читала только один знак после запятой и полубутылку Маканы
 # («Makana 0.375L», 2970 динаров) приняла за обычную.
 OBEM = re.compile(r"\b(\d(?:[.,]\d+)?)\s*L\b", re.I)
 
 
-def chistoe_imya(imya):
-    return re.sub(r"\s+", " ", AKCIYA.sub("", imya or "")).strip()
+def chistoe_imya(imya, yarlyk=False):
+    """`yarlyk` — снимать ли ярлык полки. Только у супермаркета: в винотеке
+    «Rose» в начале имени бывает частью имени, а не цветом на ценнике."""
+    imya = AKCIYA.sub("", imya or "")
+    # Ярлык снимается по слову: у «Vino blago penusavo belo Una» их четыре
+    # подряд, а у «Vinarija Coka» первое слово — имя дома, не ярлык.
+    while yarlyk:
+        korotko = YARLYK.sub("", imya, count=1)
+        if korotko == imya or not korotko.strip():
+            break
+        imya = korotko
+    return re.sub(r"\s+", " ", imya).strip()
 
 
 def ne_ta_butylka(imya):
@@ -63,7 +80,12 @@ def main():
     st = tablicy()
     MAGAZINY = [("vinoteka", "vinoteka-ceny.json"),
                 ("winestars", "winestars-ceny.json"),
-                ("cerpromet", "cerpromet-ceny.json")]
+                ("cerpromet", "cerpromet-ceny.json"),
+                ("maxi", "maxi-ceny.json")]
+    # Супермаркет — не винотека: у него другая полка и другие цены.
+    # Разделение нужно, чтобы можно было спросить отдельно «что взять
+    # в супермаркете», а не усреднять две разные торговли в одну.
+    SUPERMARKET = {"maxi"}
     syroe = {"vina": [], "istochnik": [], "sobrano": ""}
     for imya, fajl in MAGAZINY:
         put = ZDES / fajl
@@ -75,6 +97,12 @@ def main():
             # а поле страны у него есть — им и отсекаем.
             strana = (z.get("strana") or "").lower()
             if strana and not strana.startswith("srbij"):
+                continue
+            # В винный раздел супермаркета попадает и ракия, и спрайцер,
+            # и снятые с продажи позиции без цены.
+            if not z.get("cena_rsd") or z.get("v_prodazhe") is False:
+                continue
+            if re.match(r"\s*(rakija|spricer|viljamovka)\b", z["vino"], re.I):
                 continue
             syroe["vina"].append({**z, "magazin": imya})
         syroe["istochnik"].append(d["istochnik"])
@@ -116,7 +144,7 @@ def main():
     for z in syroe["vina"]:
         if not z.get("cena_rsd"):
             continue
-        imya = chistoe_imya(z["vino"])
+        imya = chistoe_imya(z["vino"], yarlyk=z["magazin"] in SUPERMARKET)
         if ne_ta_butylka(imya):
             schet["не та бутылка (не 0,75)"] += 1
             continue
@@ -203,6 +231,8 @@ def main():
         "sobrano": syroe["sobrano"],
         "magazinov_u_vina": {k: len(v) for k, v in po_magazinu.items()},
         "ceny": cena,
+        "supermarket": {k: v[m] for k, v in po_magazinu.items()
+                        for m in v if m in SUPERMARKET},
         "sahar": sahar,
         "po_magazinam": razbros,
         "podhodit_neskolko": spor,

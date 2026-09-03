@@ -61,16 +61,18 @@ CVETA = [("красное", "Красные"), ("белое", "Белые"), ("�
 def chitat():
     jl = lambda imya: [json.loads(s) for s in
                        (ZDES / imya).read_text(encoding="utf-8").splitlines() if s.strip()]
-    cena = {}
+    cena, supermarket = {}, {}
     put = ZDES / "ceny-vin.json"
     if put.exists():
-        cena = json.loads(put.read_text(encoding="utf-8"))["ceny"]
+        d = json.loads(put.read_text(encoding="utf-8"))
+        cena = d["ceny"]
+        supermarket = d.get("supermarket", {})
     return jl("hozyaistva.jsonl"), jl("vina.jsonl"), jl("ocenki.jsonl"), \
-        jl("nagrady.jsonl"), cena
+        jl("nagrady.jsonl"), cena, supermarket
 
 
 def razobrat():
-    hozyaistva, vina, ocenki, nagrady, cena = chitat()
+    hozyaistva, vina, ocenki, nagrady, cena, supermarket = chitat()
     # Цвет вина стоит в самой таблице — его сводит `sobrat-tablicy.py`.
     cvet = {v["klyuch"]: v.get("cvet") for v in vina}
     dom = {h["hozyaistvo"]: h for h in hozyaistva}
@@ -95,7 +97,8 @@ def razobrat():
         if r:
             po_rejonu[r].append(v)
     return dict(vina=vina, dom=dom, vivino=vivino, kritiki=kritiki, medali=medali,
-                ochki=ochki, cena=cena, cvet=cvet, po_rejonu=po_rejonu)
+                ochki=ochki, cena=cena, supermarket=supermarket,
+                cvet=cvet, po_rejonu=po_rejonu)
 
 
 def est_vivino(d, k):
@@ -315,6 +318,31 @@ def po_strane(d, pech):
     pech(shapka(cena=True))
     for v in spisok(d, dostupnye, lambda k: kachestvo(d, k), lambda k: True, skolko=10):
         pech(stroka_vina(d, v, cena=True))
+
+    if d["supermarket"]:
+        polka = [v for v in d["vina"] if v["klyuch"] in d["supermarket"]]
+        s_ocenkoj = [v for v in polka if kachestvo(d, v["klyuch"]) > 0
+                     or est_vivino(d, v["klyuch"])]
+        ceny_polki = sorted(d["supermarket"].values())
+        pech("\n## Что взять в супермаркете\n")
+        pech("Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 "
+             "в винном разделе Maxi — 1082 динара против двух с лишним тысяч "
+             "у винотек, и половины этих вин в винотеке нет вовсе. Из %d "
+             "позиций раздела с нашими таблицами сошлись %d, и вот те из них, "
+             "о которых есть что сказать.\n" % (206, len(d["supermarket"])))
+        pech("| Вино | Критик | Vivino | Медали | Динаров |")
+        pech("|---|---|---|---|---|")
+        for v in sorted(s_ocenkoj,
+                        key=lambda v: (-(kachestvo(d, v["klyuch"]) or 0),
+                                       d["supermarket"][v["klyuch"]]))[:12]:
+            k = v["klyuch"]
+            z = d["vivino"].get(k)
+            pech("| %s · %s | %s | %s | %s | %d |" % (
+                v["hozyaistvo"], v["vino"],
+                max(d["kritiki"][k]) if d["kritiki"][k] else "—",
+                ("%.1f" % z["ball"]) if z and z.get("ball") else "—",
+                "%.0f" % d["ochki"](k) if d["medali"][k] else "—",
+                d["supermarket"][k]))
 
     # Доступное вино редко ездит на конкурс, и ряд выше молчит как раз
     # о самых ходовых бутылках: у «Sfera» Бикицког 308 отзывов и ни

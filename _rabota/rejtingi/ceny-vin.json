@@ -3,7 +3,8 @@
  "istochnik": [
   "https://www.vinotekabeograd.com/vina-iz-srbije",
   "https://winestars.rs/category/vina/56/1/srbija",
-  "https://cerpromet.com/kategorija/vino"
+  "https://cerpromet.com/kategorija/vino",
+  "maxi.rs, раздел «Пиће, кафа и чај → Вино», сохранённая страница"
  ],
  "sobrano": "2026-09-03",
  "magazinov_u_vina": {
@@ -14,7 +15,7 @@
   "100-zena-veliki-decko": 1,
   "veritas-cukovic-bela-harmonija": 1,
   "veritas-cukovic-bermet": 1,
-  "aleksandrovic-harizma": 3,
+  "aleksandrovic-harizma": 4,
   "aleksandrovic-oplen": 2,
   "aleksandrovic-prokupac": 3,
   "aleksandrovic-regent-reserve": 1,
@@ -26,18 +27,18 @@
   "aleksandrovic-trijumf-terroir": 2,
   "aleksandrovic-varijanta": 3,
   "aleksic-amanet": 1,
-  "aleksic-barbara": 2,
+  "aleksic-barbara": 3,
   "aleksic-biser": 1,
   "aleksic-kardas": 2,
   "aleksic-kardas-limited": 1,
   "aleksic-kontra": 1,
-  "aleksic-zuti-cvet": 1,
+  "aleksic-zuti-cvet": 2,
   "andrica-vinograd-consul-prokupac-merlot": 1,
   "arsenijevic-sauvignon-blanc": 1,
   "arsenijevic-starosedelac": 2,
   "belo-brdo-alma-mons": 3,
   "belo-brdo-cabernet-franc": 1,
-  "belo-brdo-chardonnay": 2,
+  "belo-brdo-chardonnay": 3,
   "belo-brdo-decade": 1,
   "belo-brdo-petit-verdot": 1,
   "bikicki-crna-tamjanika": 1,
@@ -100,9 +101,9 @@
   "dibonis-di-shiraz": 1,
   "doja-breg-cabernet-sauvignon": 2,
   "doja-cabernet-sauvignon-merlot": 1,
-  "doja-prokupac": 3,
+  "doja-prokupac": 4,
   "doja-breg-prokupac": 3,
-  "doja-tamjanika": 2,
+  "doja-tamjanika": 3,
   "draganic-miracolo-sangiovese": 1,
   "draganic-profil-palava": 1,
   "draganic-silueta-sauvignon-blanc": 1,
@@ -164,8 +165,8 @@
   "ivanovic-jara-pet-nat": 2,
   "ivanovic-no-1-2": 2,
   "ivanovic-no-3-4": 1,
-  "ivanovic-prokupac": 2,
-  "ivanovic-tamjanika": 2,
+  "ivanovic-prokupac": 3,
+  "ivanovic-tamjanika": 3,
   "janko-bas-prokupac": 1,
   "janko-jelena-rose": 1,
   "janko-mesecina-penusavo-belo": 1,
@@ -201,9 +202,10 @@
   "komuna-muscat-petit-grain": 1,
   "kostic-prokupac-barrique": 1,
   "kovacevic-amber-cuvee": 1,
-  "kovacevic-aurelius": 2,
+  "kovacevic-aurelius": 3,
   "kovacevic-edicija-s-aurelius": 2,
   "kovacevic-bermet": 1,
+  "kovacevic-chardonnay": 1,
   "kovacevic-fresco-bianco": 1,
   "kovacevic-fresco-rose": 2,
   "kovacevic-pro-pro": 1,
@@ -311,7 +313,7 @@
   "sokolov-zamak-pinot-noir": 1,
   "sokolov-zamak-tamjanika": 1,
   "vinarska-kuca-spasic-despot": 1,
-  "vinarska-kuca-spasic-tamjanika": 3,
+  "vinarska-kuca-spasic-tamjanika": 4,
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1,
   "stemina-stephanos": 1,
   "temet-beli-kamen-morava": 1,
@@ -324,7 +326,7 @@
   "todorovic-merlot": 2,
   "todorovic-opus": 1,
   "todorovic-shiraz": 3,
-  "tonkovic-kadarka": 1,
+  "tonkovic-kadarka": 2,
   "tonkovic-fantazija-kadarka": 1,
   "tonkovic-rapsodija": 2,
   "trasko-fucking-fabulous-edicion-limitada": 1,
@@ -378,7 +380,7 @@
   "zvonko-bogdan-pinot-blanc": 3,
   "zvonko-bogdan-rose-sec": 2,
   "zvonko-bogdan-tamjanika": 2,
-  "zvonko-bogdan-zivot-tece": 3,
+  "zvonko-bogdan-zivot-tece": 4,
   "doja-chardonnay-pinot-grigio": 2,
   "todorovic-sauvignon-blanc": 2,
   "radovanovic-sauvignon-blanc": 1,
@@ -389,13 +391,13 @@
   "cilic-cabernet-sauvignon": 1,
   "cilic-fume-blanc": 1,
   "matalj-terasa-chardonnay": 1,
-  "budimir-tamjanika-zupska": 1,
-  "lastar-tamjanika": 2,
+  "budimir-tamjanika-zupska": 2,
+  "lastar-tamjanika": 3,
   "lastar-pinot-noir": 2,
-  "matalj-kremen": 2,
+  "matalj-kremen": 3,
   "probus-magis": 1,
   "plavi-perun-rose-pinot-noir": 1,
-  "aleksandrovic-regent": 2,
+  "aleksandrovic-regent": 3,
   "plavi-perun-chardonnay": 1,
   "vista-hill-reserve-white": 1,
   "plavi-perun-pinot-noir": 1,
@@ -403,10 +405,10 @@
   "radovanovic-cabernet-sauvignon": 1,
   "aleksandrovic-rodoslov": 2,
   "braca-rajkovic-33": 2,
-  "aleksic-sevdah": 1,
+  "aleksic-sevdah": 2,
   "do-kraja-sveta-aura-rose": 1,
-  "erdevik-tri-roze-koze": 1,
-  "kovacevic-rosetto": 2,
+  "erdevik-tri-roze-koze": 2,
+  "kovacevic-rosetto": 3,
   "todorovic-rose": 1,
   "radovanovic-rizling-rajnski": 1,
   "kovacevic-cuvee-piquant": 2,
@@ -424,7 +426,7 @@
   "todorovic-vranac": 1,
   "erdevik-geronimo": 1,
   "erdevik-bellucci-tamjanika": 1,
-  "rubin-pinot-noir": 1,
+  "rubin-pinot-noir": 2,
   "rubin-prokupac": 1,
   "temet-tamjanika": 1,
   "moderato-merlot": 1,
@@ -439,7 +441,6 @@
   "tonkovic-tamjanika": 1,
   "matalj-bukovski": 1,
   "rubin-cabernet-sauvignon": 1,
-  "rubin-sauvignon-blanc": 1,
   "arsenijevic-merlot": 1,
   "trivanovic-rose": 1,
   "doja-chardonnay-barrique": 1,
@@ -450,7 +451,7 @@
   "trivanovic-pinot-grigio": 1,
   "cilic-cabernet-merlot": 1,
   "matalj-dusica": 1,
-  "moderato-cabernet": 1,
+  "moderato-cabernet": 2,
   "trivanovic-shiraz": 1,
   "sava-minic-prokupac": 1,
   "jovic-vranac": 1,
@@ -458,7 +459,14 @@
   "arsenijevic-rose": 1,
   "budimir-triada": 1,
   "budimir-tamjanika-budimir": 1,
-  "kovacevic-brut": 1
+  "kovacevic-brut": 1,
+  "rubin-muskat": 1,
+  "rubin-rubinov-prokupac": 1,
+  "rubin-chardonnay": 1,
+  "rubin-merlot": 1,
+  "draskovic-muskat-otonel": 1,
+  "lastar-merlot-cabernet-franc": 1,
+  "zvonko-bogdan-pinot-grigio": 1
  },
  "ceny": {
   "100-zena-madame-merlette": 4090,
@@ -468,7 +476,7 @@
   "100-zena-veliki-decko": 1025,
   "veritas-cukovic-bela-harmonija": 3280,
   "veritas-cukovic-bermet": 3070,
-  "aleksandrovic-harizma": 1770,
+  "aleksandrovic-harizma": 1775,
   "aleksandrovic-oplen": 1582,
   "aleksandrovic-prokupac": 1770,
   "aleksandrovic-regent-reserve": 2335,
@@ -480,18 +488,18 @@
   "aleksandrovic-trijumf-terroir": 2350,
   "aleksandrovic-varijanta": 1380,
   "aleksic-amanet": 1630,
-  "aleksic-barbara": 852,
+  "aleksic-barbara": 875,
   "aleksic-biser": 2045,
   "aleksic-kardas": 1025,
   "aleksic-kardas-limited": 1640,
   "aleksic-kontra": 2730,
-  "aleksic-zuti-cvet": 1145,
+  "aleksic-zuti-cvet": 1247,
   "andrica-vinograd-consul-prokupac-merlot": 1500,
   "arsenijevic-sauvignon-blanc": 1570,
   "arsenijevic-starosedelac": 1619,
   "belo-brdo-alma-mons": 1870,
   "belo-brdo-cabernet-franc": 12600,
-  "belo-brdo-chardonnay": 1505,
+  "belo-brdo-chardonnay": 1675,
   "belo-brdo-decade": 5600,
   "belo-brdo-petit-verdot": 2450,
   "bikicki-crna-tamjanika": 2200,
@@ -554,9 +562,9 @@
   "dibonis-di-shiraz": 2350,
   "doja-breg-cabernet-sauvignon": 4608,
   "doja-cabernet-sauvignon-merlot": 1750,
-  "doja-prokupac": 1350,
+  "doja-prokupac": 1425,
   "doja-breg-prokupac": 4470,
-  "doja-tamjanika": 1138,
+  "doja-tamjanika": 1225,
   "draganic-miracolo-sangiovese": 2250,
   "draganic-profil-palava": 2180,
   "draganic-silueta-sauvignon-blanc": 1750,
@@ -618,8 +626,8 @@
   "ivanovic-jara-pet-nat": 2160,
   "ivanovic-no-1-2": 4250,
   "ivanovic-no-3-4": 3000,
-  "ivanovic-prokupac": 1548,
-  "ivanovic-tamjanika": 1288,
+  "ivanovic-prokupac": 1640,
+  "ivanovic-tamjanika": 1360,
   "janko-bas-prokupac": 1570,
   "janko-jelena-rose": 1120,
   "janko-mesecina-penusavo-belo": 3115,
@@ -655,9 +663,10 @@
   "komuna-muscat-petit-grain": 1160,
   "kostic-prokupac-barrique": 2250,
   "kovacevic-amber-cuvee": 2610,
-  "kovacevic-aurelius": 1675,
+  "kovacevic-aurelius": 1680,
   "kovacevic-edicija-s-aurelius": 2910,
   "kovacevic-bermet": 1418,
+  "kovacevic-chardonnay": 1624,
   "kovacevic-fresco-bianco": 1195,
   "kovacevic-fresco-rose": 1148,
   "kovacevic-pro-pro": 2030,
@@ -765,7 +774,7 @@
   "sokolov-zamak-pinot-noir": 1595,
   "sokolov-zamak-tamjanika": 1450,
   "vinarska-kuca-spasic-despot": 1160,
-  "vinarska-kuca-spasic-tamjanika": 1160,
+  "vinarska-kuca-spasic-tamjanika": 1165,
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1450,
   "stemina-stephanos": 2000,
   "temet-beli-kamen-morava": 5435,
@@ -778,7 +787,7 @@
   "todorovic-merlot": 1385,
   "todorovic-opus": 2310,
   "todorovic-shiraz": 1530,
-  "tonkovic-kadarka": 1640,
+  "tonkovic-kadarka": 1670,
   "tonkovic-fantazija-kadarka": 1640,
   "tonkovic-rapsodija": 1925,
   "trasko-fucking-fabulous-edicion-limitada": 4075,
@@ -832,7 +841,7 @@
   "zvonko-bogdan-pinot-blanc": 2050,
   "zvonko-bogdan-rose-sec": 1690,
   "zvonko-bogdan-tamjanika": 1545,
-  "zvonko-bogdan-zivot-tece": 1530,
+  "zvonko-bogdan-zivot-tece": 1550,
   "doja-chardonnay-pinot-grigio": 1075,
   "todorovic-sauvignon-blanc": 1060,
   "radovanovic-sauvignon-blanc": 1250,
@@ -843,13 +852,13 @@
   "cilic-cabernet-sauvignon": 1450,
   "cilic-fume-blanc": 1450,
   "matalj-terasa-chardonnay": 1510,
-  "budimir-tamjanika-zupska": 1600,
-  "lastar-tamjanika": 1620,
+  "budimir-tamjanika-zupska": 1700,
+  "lastar-tamjanika": 1650,
   "lastar-pinot-noir": 1685,
-  "matalj-kremen": 1840,
+  "matalj-kremen": 1850,
   "probus-magis": 1950,
   "plavi-perun-rose-pinot-noir": 2300,
-  "aleksandrovic-regent": 2275,
+  "aleksandrovic-regent": 2350,
   "plavi-perun-chardonnay": 2590,
   "vista-hill-reserve-white": 3250,
   "plavi-perun-pinot-noir": 3300,
@@ -857,10 +866,10 @@
   "radovanovic-cabernet-sauvignon": 3790,
   "aleksandrovic-rodoslov": 4890,
   "braca-rajkovic-33": 5112,
-  "aleksic-sevdah": 580,
+  "aleksic-sevdah": 624,
   "do-kraja-sveta-aura-rose": 830,
-  "erdevik-tri-roze-koze": 850,
-  "kovacevic-rosetto": 992,
+  "erdevik-tri-roze-koze": 860,
+  "kovacevic-rosetto": 1020,
   "todorovic-rose": 1030,
   "radovanovic-rizling-rajnski": 1100,
   "kovacevic-cuvee-piquant": 1032,
@@ -878,7 +887,7 @@
   "todorovic-vranac": 1670,
   "erdevik-geronimo": 1260,
   "erdevik-bellucci-tamjanika": 1340,
-  "rubin-pinot-noir": 585,
+  "rubin-pinot-noir": 622,
   "rubin-prokupac": 585,
   "temet-tamjanika": 2685,
   "moderato-merlot": 500,
@@ -893,7 +902,6 @@
   "tonkovic-tamjanika": 1320,
   "matalj-bukovski": 2035,
   "rubin-cabernet-sauvignon": 2650,
-  "rubin-sauvignon-blanc": 2650,
   "arsenijevic-merlot": 1575,
   "trivanovic-rose": 1335,
   "doja-chardonnay-barrique": 1500,
@@ -904,7 +912,7 @@
   "trivanovic-pinot-grigio": 1335,
   "cilic-cabernet-merlot": 1350,
   "matalj-dusica": 1085,
-  "moderato-cabernet": 500,
+  "moderato-cabernet": 552,
   "trivanovic-shiraz": 1275,
   "sava-minic-prokupac": 990,
   "jovic-vranac": 1515,
@@ -912,7 +920,45 @@
   "arsenijevic-rose": 1135,
   "budimir-triada": 1080,
   "budimir-tamjanika-budimir": 1550,
-  "kovacevic-brut": 2315
+  "kovacevic-brut": 2315,
+  "rubin-muskat": 660,
+  "rubin-rubinov-prokupac": 660,
+  "rubin-chardonnay": 660,
+  "rubin-merlot": 660,
+  "draskovic-muskat-otonel": 1149,
+  "lastar-merlot-cabernet-franc": 1869,
+  "zvonko-bogdan-pinot-grigio": 1999
+ },
+ "supermarket": {
+  "aleksandrovic-harizma": 2049,
+  "aleksic-barbara": 930,
+  "aleksic-zuti-cvet": 1350,
+  "belo-brdo-chardonnay": 2139,
+  "doja-prokupac": 1579,
+  "doja-tamjanika": 1299,
+  "ivanovic-prokupac": 1999,
+  "ivanovic-tamjanika": 1699,
+  "kovacevic-aurelius": 1749,
+  "kovacevic-chardonnay": 1624,
+  "vinarska-kuca-spasic-tamjanika": 1449,
+  "tonkovic-kadarka": 1699,
+  "zvonko-bogdan-zivot-tece": 1878,
+  "budimir-tamjanika-zupska": 1799,
+  "lastar-tamjanika": 1829,
+  "matalj-kremen": 2299,
+  "aleksandrovic-regent": 2569,
+  "aleksic-sevdah": 668,
+  "erdevik-tri-roze-koze": 870,
+  "kovacevic-rosetto": 1229,
+  "rubin-pinot-noir": 660,
+  "moderato-cabernet": 605,
+  "rubin-muskat": 660,
+  "rubin-rubinov-prokupac": 660,
+  "rubin-chardonnay": 660,
+  "rubin-merlot": 660,
+  "draskovic-muskat-otonel": 1149,
+  "lastar-merlot-cabernet-franc": 1869,
+  "zvonko-bogdan-pinot-grigio": 1999
  },
  "sahar": {
   "todorovic-sauvignon-blanc": "Suvo",
@@ -975,7 +1021,6 @@
   "matalj-bukovski": "Suvo",
   "dokovic-chardonnay": "Suvo",
   "rubin-cabernet-sauvignon": "Suvo",
-  "rubin-sauvignon-blanc": "Suvo",
   "arsenijevic-merlot": "Suvo",
   "atelje-sapat-bianca": "Suvo",
   "botunjac-jagoda-botunjac": "Suvo",
@@ -1028,6 +1073,7 @@
   "arsenijevic-rose": "Poluslatko",
   "doja-prokupac": "Suvo",
   "deuric-pinot-noir": "Suvo",
+  "kovacevic-chardonnay": "Suvo",
   "zvonko-bogdan-chardonnay": "Suvo",
   "zvonko-bogdan-8-tamburasa": "Suvo",
   "budimir-triada": "Suvo",
@@ -1047,7 +1093,8 @@
   "aleksandrovic-harizma": {
    "vinoteka": 1770,
    "winestars": 1780,
-   "cerpromet": 1665
+   "cerpromet": 1665,
+   "maxi": 2049
   },
   "aleksandrovic-oplen": {
    "vinoteka": 1630,
@@ -1077,11 +1124,16 @@
   },
   "aleksic-barbara": {
    "vinoteka": 875,
-   "cerpromet": 830
+   "cerpromet": 830,
+   "maxi": 930
   },
   "aleksic-kardas": {
    "vinoteka": 1050,
    "cerpromet": 1000
+  },
+  "aleksic-zuti-cvet": {
+   "cerpromet": 1145,
+   "maxi": 1350
   },
   "arsenijevic-starosedelac": {
    "vinoteka": 1750,
@@ -1094,7 +1146,8 @@
   },
   "belo-brdo-chardonnay": {
    "vinoteka": 1675,
-   "cerpromet": 1335
+   "cerpromet": 1335,
+   "maxi": 2139
   },
   "bjelica-babaroga": {
    "vinoteka": 5185,
@@ -1156,7 +1209,8 @@
   "doja-prokupac": {
    "vinoteka": 1500,
    "winestars": 1350,
-   "cerpromet": 1290
+   "cerpromet": 1290,
+   "maxi": 1579
   },
   "doja-breg-prokupac": {
    "vinoteka": 4930,
@@ -1165,7 +1219,8 @@
   },
   "doja-tamjanika": {
    "vinoteka": 1225,
-   "cerpromet": 1050
+   "cerpromet": 1050,
+   "maxi": 1299
   },
   "dokovic-chardonnay": {
    "vinoteka": 4300,
@@ -1213,11 +1268,13 @@
   },
   "ivanovic-prokupac": {
    "vinoteka": 1640,
-   "cerpromet": 1455
+   "cerpromet": 1455,
+   "maxi": 1999
   },
   "ivanovic-tamjanika": {
    "vinoteka": 1360,
-   "cerpromet": 1215
+   "cerpromet": 1215,
+   "maxi": 1699
   },
   "janko-smederevka": {
    "vinoteka": 1160,
@@ -1242,7 +1299,8 @@
   },
   "kovacevic-aurelius": {
    "vinoteka": 1670,
-   "winestars": 1680
+   "winestars": 1680,
+   "maxi": 1749
   },
   "kovacevic-edicija-s-aurelius": {
    "vinoteka": 2900,
@@ -1315,7 +1373,8 @@
   "vinarska-kuca-spasic-tamjanika": {
    "vinoteka": 1160,
    "winestars": 1170,
-   "cerpromet": 1020
+   "cerpromet": 1020,
+   "maxi": 1449
   },
   "temet-ergo": {
    "vinoteka": 4795,
@@ -1337,6 +1396,10 @@
    "vinoteka": 1670,
    "winestars": 1530,
    "cerpromet": 1430
+  },
+  "tonkovic-kadarka": {
+   "vinoteka": 1640,
+   "maxi": 1699
   },
   "tonkovic-rapsodija": {
    "vinoteka": 2050,
@@ -1420,7 +1483,8 @@
   "zvonko-bogdan-zivot-tece": {
    "vinoteka": 1570,
    "winestars": 1460,
-   "cerpromet": 1530
+   "cerpromet": 1530,
+   "maxi": 1878
   },
   "doja-chardonnay-pinot-grigio": {
    "winestars": 1100,
@@ -1430,9 +1494,14 @@
    "winestars": 1100,
    "cerpromet": 1020
   },
+  "budimir-tamjanika-zupska": {
+   "winestars": 1600,
+   "maxi": 1799
+  },
   "lastar-tamjanika": {
    "winestars": 1650,
-   "cerpromet": 1590
+   "cerpromet": 1590,
+   "maxi": 1829
   },
   "lastar-pinot-noir": {
    "winestars": 1790,
@@ -1440,11 +1509,13 @@
   },
   "matalj-kremen": {
    "winestars": 1850,
-   "cerpromet": 1830
+   "cerpromet": 1830,
+   "maxi": 2299
   },
   "aleksandrovic-regent": {
    "winestars": 2350,
-   "cerpromet": 2200
+   "cerpromet": 2200,
+   "maxi": 2569
   },
   "aleksandrovic-rodoslov": {
    "winestars": 5050,
@@ -1454,9 +1525,18 @@
    "winestars": 5200,
    "cerpromet": 5025
   },
+  "aleksic-sevdah": {
+   "winestars": 580,
+   "maxi": 668
+  },
+  "erdevik-tri-roze-koze": {
+   "winestars": 850,
+   "maxi": 870
+  },
   "kovacevic-rosetto": {
    "winestars": 1020,
-   "cerpromet": 965
+   "cerpromet": 965,
+   "maxi": 1229
   },
   "kovacevic-cuvee-piquant": {
    "winestars": 1100,
@@ -1473,6 +1553,14 @@
   "aleksandrovic-vozd": {
    "winestars": 8520,
    "cerpromet": 7930
+  },
+  "rubin-pinot-noir": {
+   "cerpromet": 585,
+   "maxi": 660
+  },
+  "moderato-cabernet": {
+   "cerpromet": 500,
+   "maxi": 605
   }
  },
  "podhodit_neskolko": [
@@ -1963,6 +2051,15 @@
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
   {
+   "klyuch_vina": "aleksandrovic-trijumf",
+   "magazin": "maxi",
+   "ceny": [
+    1749.0,
+    2229.0
+   ],
+   "pochemu": "у магазина несколько разных вин на одну нашу строку"
+  },
+  {
    "klyuch_vina": "aleksic-zuti-cvet",
    "magazin": "vinoteka",
    "ceny": [
@@ -2077,7 +2174,8 @@
    "klyuch_vina": "temet-tri-morave",
    "ceny": {
     "vinoteka": 11900,
-    "cerpromet": 1795
+    "cerpromet": 1795,
+    "maxi": 2399
    },
    "pochemu": "магазины расходятся в разы — похоже, это разные вина"
   },
@@ -2125,6 +2223,14 @@
     3470
    ],
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
+  },
+  {
+   "klyuch_vina": "rubin-sauvignon-blanc",
+   "ceny": {
+    "cerpromet": 2650,
+    "maxi": 660
+   },
+   "pochemu": "магазины расходятся в разы — похоже, это разные вина"
   }
  ],
  "ne_nashlos": [
@@ -4816,6 +4922,1469 @@
    "stranica": "https://cerpromet.com/proizvod/cabernet_franc_radovanovic",
    "magazin": "cerpromet",
    "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino pen.J.P. Chenet Ice white edit.0.20",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 440.99,
+   "cena_bez_skidki": null,
+   "litrov": null,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-pen-J-P-Chenet-Ice-white-edit-0-20/p/7336939",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Medvedja krv Rubin 0.75l",
+   "hozyaistvo": "Rubin",
+   "cena_rsd": 479.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Medvedja-krv-Rubin-0-75l/p/7184193",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Kastel Vinoprodukt Coka 0.75l",
+   "hozyaistvo": "Vinoprodukt Coka",
+   "cena_rsd": 543.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Kastel-Vinoprodukt-Coka-0-75l/p/7183130",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino b.Pinot Grig.Veneto Caldirola 0.75l",
+   "hozyaistvo": "Caldirola",
+   "cena_rsd": 549.99,
+   "cena_bez_skidki": 679.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-b-Pinot-Grig-Veneto-Caldirola-0-75l/p/7176926",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Vranac Plantaze 0.75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 559.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Vranac-Plantaze-0-75l/p/7176232",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Zdrepceva krv Vinopr.Coka 0.75l",
+   "hozyaistvo": "Vinoprodukt Coka",
+   "cena_rsd": 563.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Zdrepceva-krv-Vinopr-Coka-0-75l/p/7176003",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino od visnje 0.75l",
+   "hozyaistvo": "Vinoprodukt Coka",
+   "cena_rsd": 592.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Aromatizovano-vino/Vino-od-visnje-0-75l/p/7456886",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino pen.la Marches.dolce Caldir. 0.75l",
+   "hozyaistvo": "Marchesina",
+   "cena_rsd": 599.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-pen-la-Marches-dolce-Caldir-0-75l/p/7176931",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Rose Tikves 0.75l",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 607.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-Rose-Tikves-0-75l/p/7184528",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino kupinovo Vinoprodukt Coka 0.75l",
+   "hozyaistvo": "Vinoprodukt Coka",
+   "cena_rsd": 608.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Aromatizovano-vino/Vino-kupinovo-Vinoprodukt-Coka-0-75l/p/7192168",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Nostalgija Vinar.Aleksic 0.75l",
+   "hozyaistvo": "Podrum Aleksic",
+   "cena_rsd": 608.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Nostalgija-Vinar-Aleksic-0-75l/p/7213117",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crveno Kratosija Tikves 0.75l",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 609.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Kratosija-Tikves-0-75l/p/7175999",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Merlot Plantaze 0,75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 619.99,
+   "cena_bez_skidki": 684.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Merlot-Plantaze-0-75l/p/7176833",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino b.pen.baron De Rothberg Brut 0.75l",
+   "hozyaistvo": "Baron De Rothberg",
+   "cena_rsd": 634.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-b-pen-baron-De-Rothberg-Brut-0-75l/p/7186403",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Chardonnay Plantaze 0,75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 639.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Chardonnay-Plantaze-0-75l/p/7177369",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Krstac 0.75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 639.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Krstac-0-75l/p/7176061",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Cabernet Plantaze 0,75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 644.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Cabernet-Plantaze-0-75l/p/7176832",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Chardonnay classic 0.75l",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 649.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Chardonnay-classic-0-75l/p/7301656",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crno Cabernet Sauvignon 99 0,75l",
+   "hozyaistvo": "Rubin",
+   "cena_rsd": 659.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crno-Cabernet-Sauvignon-99-0-75l/p/7177474",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Saouvignon Plantaze 0,75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 659.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Saouvignon-Plantaze-0-75l/p/7177370",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Freschello 0.75L",
+   "hozyaistvo": "Freschello",
+   "cena_rsd": 659.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Freschello-0-75L/p/7216941",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino rose Freschello 0.75l",
+   "hozyaistvo": "Freschello",
+   "cena_rsd": 659.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-rose-Freschello-0-75l/p/7286438",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Baron D'Arignac rouge 0.75l",
+   "hozyaistvo": "Baron D'Arignac",
+   "cena_rsd": 670.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Baron-D-Arignac-rouge-0-75l/p/7176047",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Baron D'Arignac blancs 0.75l",
+   "hozyaistvo": "Baron D'Arignac",
+   "cena_rsd": 670.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Baron-D-Arignac-blancs-0-75l/p/7176049",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino rose Baron D'Arignac 0,75L",
+   "hozyaistvo": "Baron D'Arignac",
+   "cena_rsd": 670.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-rose-Baron-D-Arignac-0-75L/p/7291039",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Toro L.Superior 0,75L",
+   "hozyaistvo": "Toro Loco",
+   "cena_rsd": 699.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Toro-L-Superior-0-75L/p/7598495",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Orfelin roze Kovacevic 0.75l",
+   "hozyaistvo": "Kovacevic",
+   "cena_rsd": 709.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-Orfelin-roze-Kovacevic-0-75l/p/7208856",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino Orfelin crveni  Kovacevic 0.75l",
+   "hozyaistvo": "Kovacevic",
+   "cena_rsd": 714.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-Orfelin-crveni-Kovacevic-0-75l/p/7208855",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino Orfelin beli Kovacevic 0.75l",
+   "hozyaistvo": "Kovacevic",
+   "cena_rsd": 717.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Orfelin-beli-Kovacevic-0-75l/p/7208852",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crveno Pinilla Syrah 0.75l",
+   "hozyaistvo": "Bodegas",
+   "cena_rsd": 749.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Pinilla-Syrah-0-75l/p/7189322",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Paris Seduction 0.75",
+   "hozyaistvo": "Paris Seduction",
+   "cena_rsd": 749.99,
+   "cena_bez_skidki": 839.0,
+   "litrov": null,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Paris-Seduction-0-75/p/7301658",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Pinilla Tempranillo 0.75l",
+   "hozyaistvo": "Bodegas",
+   "cena_rsd": 749.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Pinilla-Tempranillo-0-75l/p/7189323",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino ruzicasto Rose Plantaze  0.75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 749.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-ruzicasto-Rose-Plantaze-0-75l/p/7191781",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Pinilla Sauvignon 0,75l",
+   "hozyaistvo": "Bodegas",
+   "cena_rsd": 749.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Pinilla-Sauvignon-0-75l/p/7492992",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo tamjanika Balada 0.75l",
+   "hozyaistvo": "Posebna ponuda",
+   "cena_rsd": 799.99,
+   "cena_bez_skidki": 879.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-tamjanika-Balada-0-75l/p/7648223",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Stobi Temjanika 0,75l",
+   "hozyaistvo": "Stobi",
+   "cena_rsd": 829.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Stobi-Temjanika-0-75l/p/7493297",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Tga za jug Tikves 0.75l",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 837.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Tga-za-jug-Tikves-0-75l/p/7176283",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Alexandria Tikves 0.75l",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 837.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Alexandria-Tikves-0-75l/p/7176001",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Alexandria Tikves 0,75l",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 837.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Alexandria-Tikves-0-75l/p/7176002",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Julianus Muscat 0,75l",
+   "hozyaistvo": "Julianus",
+   "cena_rsd": 849.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Julianus-Muscat-0-75l/p/7229459",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Primitivo Lizzano0,75l",
+   "hozyaistvo": "Lizzano",
+   "cena_rsd": 878.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Primitivo-Lizzano0-75l/p/7525020",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino b.Blanc Moelleux J.P.Chenet 0.75l",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 881.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-b-Blanc-Moelleux-J-P-Chenet-0-75l/p/7176913",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino rose J.P. Chanet Cinsal.Rose 0,75l",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 881.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-rose-J-P-Chanet-Cinsal-Rose-0-75l/p/7181709",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Caber.Syrah J.P.Chenet 0.75l",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 881.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Caber-Syrah-J-P-Chenet-0-75l/p/7176050",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crno J.P Chenet Merlot  0,75l",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 881.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crno-J-P-Chenet-Merlot-0-75l/p/7181707",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino b.JP Chenet Colombard Chardon.0.75l",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 881.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-b-JP-Chenet-Colombard-Chardon-0-75l/p/7186805",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Cuvee Rouge Kovacevic",
+   "hozyaistvo": "Posebna ponuda",
+   "cena_rsd": 889.99,
+   "cena_bez_skidki": null,
+   "litrov": null,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-Cuvee-Rouge-Kovacevic/p/7236758",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Cuvee Blanc Kovacevic",
+   "hozyaistvo": "Posebna ponuda",
+   "cena_rsd": 889.99,
+   "cena_bez_skidki": null,
+   "litrov": null,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Cuvee-Blanc-Kovacevic/p/7236814",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino penusavo belo Freschello 0.75l",
+   "hozyaistvo": "Caldirola",
+   "cena_rsd": 893.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-penusavo-belo-Freschello-0-75l/p/7229912",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Tri bele Koze Erdevik 0,75l",
+   "hozyaistvo": "Vinarija Erdevik",
+   "cena_rsd": 899.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Tri-bele-Koze-Erdevik-0-75l/p/7437556",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crveno Chianti Caldirola 0.75l",
+   "hozyaistvo": "Caldirola",
+   "cena_rsd": 899.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Chianti-Caldirola-0-75l/p/7176929",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.tri crvene koze 0.75l",
+   "hozyaistvo": "Vinarija Erdevik",
+   "cena_rsd": 899.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-tri-crvene-koze-0-75l/p/7533244",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Temjanika 0.75L",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 924.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Temjanika-0-75L/p/7175481",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Chardonnay Frontera 0,75l",
+   "hozyaistvo": "Frontera",
+   "cena_rsd": 968.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Chardonnay-Frontera-0-75l/p/7177982",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crno Cabernet Sauv.Frontera 0,75l",
+   "hozyaistvo": "Frontera",
+   "cena_rsd": 968.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crno-Cabernet-Sauv-Frontera-0-75l/p/7181314",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Rose Mateus  0.75 L",
+   "hozyaistvo": "Mateus",
+   "cena_rsd": 999.99,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-Rose-Mateus-0-75-L/p/7216779",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Zilavka Hepok  0,75l",
+   "hozyaistvo": "Hepok",
+   "cena_rsd": 1019.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Zilavka-Hepok-0-75l/p/7197020",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino pen.J.P.Chenet Ice rose edit.0.75l",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 1022.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-pen-J-P-Chenet-Ice-rose-edit-0-75l/p/7336918",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino penus. J.P.Chenet Ice Edition 0.75l",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 1022.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-penus-J-P-Chenet-Ice-Edition-0-75l/p/7251681",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino cr.Cabern.Carmen.El Emperador 0.75l",
+   "hozyaistvo": "El Emperador",
+   "cena_rsd": 1053.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-cr-Cabern-Carmen-El-Emperador-0-75l/p/7176817",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Sauvignon El Emperador 0.75l",
+   "hozyaistvo": "El Emperador",
+   "cena_rsd": 1053.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Sauvignon-El-Emperador-0-75l/p/7176561",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Sauvig.Blanc C.De Campo 0.75l",
+   "hozyaistvo": "Casa De Campo",
+   "cena_rsd": 1053.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Sauvig-Blanc-C-De-Campo-0-75l/p/7185378",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Rose Doja  0.75l",
+   "hozyaistvo": "Doja",
+   "cena_rsd": 1069.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-Rose-Doja-0-75l/p/7251608",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv.Caber.Sauvig.C.De Campo 0.75l",
+   "hozyaistvo": "Casa De Campo",
+   "cena_rsd": 1095.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Caber-Sauvig-C-De-Campo-0-75l/p/7185377",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Pro Corde Vranac Plantaze 0.75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 1139.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Pro-Corde-Vranac-Plantaze-0-75l/p/7176060",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Penusavo vino Scanavino Proseco 0.75l",
+   "hozyaistvo": "Scanavino",
+   "cena_rsd": 1146.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Penusavo-vino-Scanavino-Proseco-0-75l/p/7525045",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Kardas Vinarija Aleksic 0.75l",
+   "hozyaistvo": "Podrum Aleksic",
+   "cena_rsd": 1149.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Kardas-Vinarija-Aleksic-0-75l/p/7213120",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Ruffino orvieto classico 0.75L",
+   "hozyaistvo": "Ruffino",
+   "cena_rsd": 1159.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Ruffino-orvieto-classico-0-75L/p/7176550",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Bord.Superieur Red Dulgon 0.75l",
+   "hozyaistvo": "Dulgon",
+   "cena_rsd": 1190.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Bord-Superieur-Red-Dulgon-0-75l/p/7185376",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Prem.Merlot Caber.Dulgon 0.75l",
+   "hozyaistvo": "Dulgon",
+   "cena_rsd": 1190.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Prem-Merlot-Caber-Dulgon-0-75l/p/7187966",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Cuvve Piquant Kovacevic 0.75L",
+   "hozyaistvo": "Kovacevic",
+   "cena_rsd": 1229.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Cuvve-Piquant-Kovacevic-0-75L/p/7216768",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Doja  0.75l",
+   "hozyaistvo": "Doja",
+   "cena_rsd": 1249.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Doja-0-75l/p/7251638",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv.Portugizer Mackov podrum 0.75l",
+   "hozyaistvo": "Mackov podrum",
+   "cena_rsd": 1259.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Portugizer-Mackov-podrum-0-75l/p/7187170",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv.Primitivo Puglia Maestro 0,75l",
+   "hozyaistvo": "Primitivo",
+   "cena_rsd": 1269.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Primitivo-Puglia-Maestro-0-75l/p/7437870",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino penusavo Prosecco Caldirola 0.75l",
+   "hozyaistvo": "Caldirola",
+   "cena_rsd": 1299.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-penusavo-Prosecco-Caldirola-0-75l/p/7176933",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Malvazija 0,75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 1329.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Malvazija-0-75l/p/7437848",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Virtus Gerwurztraminer 0.75l",
+   "hozyaistvo": "Virtus",
+   "cena_rsd": 1352.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Virtus-Gerwurztraminer-0-75l/p/7287878",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Tamjanika Minic 0,75l",
+   "hozyaistvo": "Minic",
+   "cena_rsd": 1374.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Tamjanika-Minic-0-75l/p/7181618",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crveno 3 Passo 0,75l",
+   "hozyaistvo": "Passo",
+   "cena_rsd": 1379.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-3-Passo-0-75l/p/7437902",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crno Alexandria Cuvee Tikves 0.75l",
+   "hozyaistvo": "Tikves",
+   "cena_rsd": 1387.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crno-Alexandria-Cuvee-Tikves-0-75l/p/7186846",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Victorie L' Audacieuse Rose 0,75l",
+   "hozyaistvo": "Victorie",
+   "cena_rsd": 1399.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-Victorie-L-Audacieuse-Rose-0-75l/p/7543999",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Jacob's Creek Shiraz 0.75L",
+   "hozyaistvo": "Jacob`s Creek",
+   "cena_rsd": 1459.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-Jacob-s-Creek-Shiraz-0-75L/p/7194674",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Jacob's Creek Caber.Sauvignon 0,75l",
+   "hozyaistvo": "Jacob`s Creek",
+   "cena_rsd": 1459.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-Jacob-s-Creek-Caber-Sauvignon-0-75l/p/7249398",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Jacob's Creek Shiraz Rose 0.75L",
+   "hozyaistvo": "Jacob`s Creek",
+   "cena_rsd": 1459.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-Jacob-s-Creek-Shiraz-Rose-0-75L/p/7249492",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Gewurtraminer V.Deuric 0,75l",
+   "hozyaistvo": "Deuric vinarija",
+   "cena_rsd": 1479.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Gewurtraminer-V-Deuric-0-75l/p/7454817",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv.Cabern.Casill.del Diablo 0,75l",
+   "hozyaistvo": "Casillero Del Diablo",
+   "cena_rsd": 1487.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Cabern-Casill-del-Diablo-0-75l/p/7177984",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Chardon.Casil.del Diablo 0,75l",
+   "hozyaistvo": "Casillero Del Diablo",
+   "cena_rsd": 1487.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Chardon-Casil-del-Diablo-0-75l/p/7177985",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Carm.Casillero del Diablo 0.75l",
+   "hozyaistvo": "Casillero Del Diablo",
+   "cena_rsd": 1487.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Carm-Casillero-del-Diablo-0-75l/p/7194675",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Santa Cristina  bianco 0.75l",
+   "hozyaistvo": "Santa Cristina",
+   "cena_rsd": 1499.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Santa-Cristina-bianco-0-75l/p/7191617",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Igumanovo Vino 0.75l",
+   "hozyaistvo": "Manastir Studenica",
+   "cena_rsd": 1499.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Igumanovo-Vino-0-75l/p/7337025",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv.Vranac Pro Corde u kutiji 0.75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 1499.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Vranac-Pro-Corde-u-kutiji-0-75l/p/7193128",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino JP Chenet ice rose 0,75l+casa",
+   "hozyaistvo": "J.P.Chenet",
+   "cena_rsd": 1515.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-JP-Chenet-ice-rose-0-75l-casa/p/7603855",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Muskat Ot.Dodir Sov.Pino beli 0.75l",
+   "hozyaistvo": "Despotika",
+   "cena_rsd": 1529.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Muskat-Ot-Dodir-Sov-Pino-beli-0-75l/p/7298938",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv. Mer-Cab Sauv.St. Hrast 0,75l",
+   "hozyaistvo": "Stari Hrast",
+   "cena_rsd": 1529.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Mer-Cab-Sauv-St-Hrast-0-75l/p/7437558",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino rose ruzicasto Radovanovic 0.75l",
+   "hozyaistvo": "Mali podrum Radovanovic",
+   "cena_rsd": 1544.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-rose-ruzicasto-Radovanovic-0-75l/p/7184144",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino pen.Srebr.Radgonska polusuvo 0.75l",
+   "hozyaistvo": "Radgonske Gorice",
+   "cena_rsd": 1549.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-pen-Srebr-Radgonska-polusuvo-0-75l/p/7182011",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Primitivo BIO Cevico 0,75l",
+   "hozyaistvo": "Cevico",
+   "cena_rsd": 1549.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Primitivo-BIO-Cevico-0-75l/p/7337218",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino rose Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "cena_rsd": 1549.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-rose-Zvonko-Bogdan-0-75L/p/7216777",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv.Shiraz Podrum Trivanovic 0.75l",
+   "hozyaistvo": "Podrum Trivanovic",
+   "cena_rsd": 1549.0,
+   "cena_bez_skidki": 1.824,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Shiraz-Podrum-Trivanovic-0-75l/p/7213109",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Tamjan.Stota Suza Minic 0,75l",
+   "hozyaistvo": "Minic",
+   "cena_rsd": 1549.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Tamjan-Stota-Suza-Minic-0-75l/p/7197023",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino Osam Tamburasa Zvonko Bogdan 0.75l",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "cena_rsd": 1549.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Osam-Tamburasa-Zvonko-Bogdan-0-75l/p/7210464",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crveno Vinarija Metoh Tvrdos 0,75l",
+   "hozyaistvo": "Tvrdos",
+   "cena_rsd": 1549.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Vinarija-Metoh-Tvrdos-0-75l/p/7350574",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino penus.Tenuta Santome Prosecco 0.75l",
+   "hozyaistvo": "Prosecco",
+   "cena_rsd": 1599.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-penus-Tenuta-Santome-Prosecco-0-75l/p/7189895",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Sauv.Blanc Vin.Kovacevic 0.75l",
+   "hozyaistvo": "Kovacevic",
+   "cena_rsd": 1599.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Sauv-Blanc-Vin-Kovacevic-0-75l/p/7337082",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Martini Asti 0,75l",
+   "hozyaistvo": "Martini",
+   "cena_rsd": 1617.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Martini-Asti-0-75l/p/7181020",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino penusavo Martini Prosecco 0.75l",
+   "hozyaistvo": "Martini",
+   "cena_rsd": 1617.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-penusavo-Martini-Prosecco-0-75l/p/7201545",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno  Epoha 0.75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 1619.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Epoha-0-75l/p/7437847",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Chateau Princ Shiraz 0,75l",
+   "hozyaistvo": "Chateau Princ",
+   "cena_rsd": 1689.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Chateau-Princ-Shiraz-0-75l/p/7661899",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Varijan.Oplenac Aleksandrovic 0,75l",
+   "hozyaistvo": "Aleksandrovic",
+   "cena_rsd": 1699.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-Varijan-Oplenac-Aleksandrovic-0-75l/p/7178122",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino crv.Superior Santa Cristina 0.75l",
+   "hozyaistvo": "Santa Cristina",
+   "cena_rsd": 1699.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Superior-Santa-Cristina-0-75l/p/7191614",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino b.Sauvignon Blanc Radovanovic 0.75l",
+   "hozyaistvo": "Mali podrum Radovanovic",
+   "cena_rsd": 1739.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-b-Sauvignon-Blanc-Radovanovic-0-75l/p/7186671",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Hilandar 0,75l",
+   "hozyaistvo": "Hilandar",
+   "cena_rsd": 1788.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Hilandar-0-75l/p/7345492",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Tvrdos 0,75l",
+   "hozyaistvo": "Tvrdos",
+   "cena_rsd": 1899.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Tvrdos-0-75l/p/7181905",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino penus.Cordon Negro Freixenet 0.75l",
+   "hozyaistvo": "Freixenet",
+   "cena_rsd": 1917.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-penus-Cordon-Negro-Freixenet-0-75l/p/7176939",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Temet tri crvene 0.75L",
+   "hozyaistvo": "Temet",
+   "cena_rsd": 1938.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Temet-tri-crvene-0-75L/p/7218273",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino b.Chardonn.Class.Radovanovic 0.75l",
+   "hozyaistvo": "Mali podrum Radovanovic",
+   "cena_rsd": 1959.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-b-Chardonn-Class-Radovanovic-0-75l/p/7183960",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Caber.S.Class.Radovanovic 0.75l",
+   "hozyaistvo": "Mali podrum Radovanovic",
+   "cena_rsd": 1959.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Caber-S-Class-Radovanovic-0-75l/p/7184143",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Sonata Jeremic 0,75l",
+   "hozyaistvo": "Vinarija Jeremic",
+   "cena_rsd": 1989.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Sonata-Jeremic-0-75l/p/7347230",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino belo Villa Antinori 0.75l",
+   "hozyaistvo": "Villa Antinori",
+   "cena_rsd": 1999.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Villa-Antinori-0-75l/p/7191616",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino b.Sauvignon blanc Z.Bogdan 0.75l",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "cena_rsd": 1999.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-b-Sauvignon-blanc-Z-Bogdan-0-75l/p/7196984",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino pen.Zlat.Radgonska penina Rose",
+   "hozyaistvo": "Radgonske Gorice",
+   "cena_rsd": 1999.0,
+   "cena_bez_skidki": null,
+   "litrov": null,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-pen-Zlat-Radgonska-penina-Rose/p/7205032",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino b.pen.Bottega Poeti Prosecco 0.75l",
+   "hozyaistvo": "Bottega",
+   "cena_rsd": 1999.0,
+   "cena_bez_skidki": 2.299,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-b-pen-Bottega-Poeti-Prosecco-0-75l/p/7291192",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino rose Temet 0.75L",
+   "hozyaistvo": "Temet",
+   "cena_rsd": 2029.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Roze-vino/Vino-rose-Temet-0-75L/p/7218274",
+   "magazin": "maxi",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino Primitivo Di Manduria Maestro 0,75l",
+   "hozyaistvo": "CIELO E TERRA",
+   "cena_rsd": 2049.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-Primitivo-Di-Manduria-Maestro-0-75l/p/7478529",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Mionetto Pros.Treviso brut 0,75ll",
+   "hozyaistvo": "Mionetto",
+   "cena_rsd": 2078.0,
+   "cena_bez_skidki": null,
+   "litrov": null,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-Mionetto-Pros-Treviso-brut-0-75ll/p/7524997",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.vrhuns.Vladika Plantaze  0,75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 2099.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-vrhuns-Vladika-Plantaze-0-75l/p/7210977",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Zilavka Tvrdos 0,75l",
+   "hozyaistvo": "Tvrdos",
+   "cena_rsd": 2150.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Zilavka-Tvrdos-0-75l/p/7350604",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crv.Caber.S.France Radovanovic0.75l",
+   "hozyaistvo": "Mali podrum Radovanovic",
+   "cena_rsd": 2769.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crv-Caber-S-France-Radovanovic0-75l/p/7183313",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Vranac Barik Plantaze 0.75l",
+   "hozyaistvo": "Plantaze",
+   "cena_rsd": 2799.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Vranac-Barik-Plantaze-0-75l/p/7184940",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Villa Antinori 0.75l",
+   "hozyaistvo": "Villa Antinori",
+   "cena_rsd": 2999.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Villa-Antinori-0-75l/p/7191615",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo Posip Cara 0,75l",
+   "hozyaistvo": "Posip Cara",
+   "cena_rsd": 3166.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-belo-Posip-Cara-0-75l/p/7197024",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino crveno Barolo Scanavino 0,75l",
+   "hozyaistvo": "Scanavino",
+   "cena_rsd": 3235.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crveno-Barolo-Scanavino-0-75l/p/7196920",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino belo penusavo Bottega Gold 0.75l",
+   "hozyaistvo": "Bottega",
+   "cena_rsd": 4821.0,
+   "cena_bez_skidki": null,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Penushava-vina/Vino-belo-penusavo-Bottega-Gold-0-75l/p/7291183",
+   "magazin": "maxi",
+   "pochemu": "хозяйства нет в наших таблицах"
   }
  ]
 }

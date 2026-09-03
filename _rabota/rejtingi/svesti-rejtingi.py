@@ -61,18 +61,22 @@ CVETA = [("красное", "Красные"), ("белое", "Белые"), ("�
 def chitat():
     jl = lambda imya: [json.loads(s) for s in
                        (ZDES / imya).read_text(encoding="utf-8").splitlines() if s.strip()]
-    cena, supermarket = {}, {}
+    cena, supermarket, polka_svodka = {}, {}, {}
     put = ZDES / "ceny-vin.json"
     if put.exists():
         d = json.loads(put.read_text(encoding="utf-8"))
         cena = d["ceny"]
         supermarket = d.get("supermarket", {})
+        # Числа о самой полке — сколько позиций и какая медиана —
+        # считает `svesti-ceny.py`. Здесь они только печатаются:
+        # руками вписанное число в тексте устаревает молча.
+        polka_svodka = d.get("polka_supermarketa", {})
     return jl("hozyaistva.jsonl"), jl("vina.jsonl"), jl("ocenki.jsonl"), \
-        jl("nagrady.jsonl"), cena, supermarket
+        jl("nagrady.jsonl"), cena, supermarket, polka_svodka
 
 
 def razobrat():
-    hozyaistva, vina, ocenki, nagrady, cena, supermarket = chitat()
+    hozyaistva, vina, ocenki, nagrady, cena, supermarket, polka_svodka = chitat()
     # Цвет вина стоит в самой таблице — его сводит `sobrat-tablicy.py`.
     cvet = {v["klyuch"]: v.get("cvet") for v in vina}
     dom = {h["hozyaistvo"]: h for h in hozyaistva}
@@ -98,7 +102,20 @@ def razobrat():
             po_rejonu[r].append(v)
     return dict(vina=vina, dom=dom, vivino=vivino, kritiki=kritiki, medali=medali,
                 ochki=ochki, cena=cena, supermarket=supermarket,
+                polka_supermarketa=polka_svodka,
                 cvet=cvet, po_rejonu=po_rejonu)
+
+
+def dinarov(skolko):
+    """«1150 динаров», «1801 динар», «1802 динара». Число здесь считается,
+    а не вписывается, и падеж вместе с ним."""
+    if skolko is None:
+        return "?"
+    sto = skolko % 100
+    poslednyaya = skolko % 10
+    if 11 <= sto <= 14 or poslednyaya == 0 or poslednyaya >= 5:
+        return "%d динаров" % skolko
+    return "%d динар%s" % (skolko, "" if poslednyaya == 1 else "а")
 
 
 def est_vivino(d, k):
@@ -313,8 +330,8 @@ def po_strane(d, pech):
     dostupnye = [v for v in s_cenoj if d["cena"][v["klyuch"]] <= potolok]
     pech("\n## Если в кармане %d динаров\n" % potolok)
     pech("Другой вопрос и другой ответ: не «что выгодно», а «что взять "
-         "сегодня». Цена известна у %d отобранных вин, медиана %.0f динаров.\n"
-         % (len(s_cenoj), statistics.median(ceny)))
+         "сегодня». Цена известна у %d отобранных вин, медиана %s.\n"
+         % (len(s_cenoj), dinarov(round(statistics.median(ceny)))))
     pech(shapka(cena=True))
     for v in spisok(d, dostupnye, lambda k: kachestvo(d, k), lambda k: True, skolko=10):
         pech(stroka_vina(d, v, cena=True))
@@ -323,13 +340,19 @@ def po_strane(d, pech):
         polka = [v for v in d["vina"] if v["klyuch"] in d["supermarket"]]
         s_ocenkoj = [v for v in polka if kachestvo(d, v["klyuch"]) > 0
                      or est_vivino(d, v["klyuch"])]
-        ceny_polki = sorted(d["supermarket"].values())
+        svodka = d.get("polka_supermarketa") or {}
+        MAGAZIN = {"maxi": "Maxi", "idea": "Idea"}
         pech("\n## Что взять в супермаркете\n")
         pech("Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 "
-             "в винном разделе Maxi — 1082 динара против двух с лишним тысяч "
-             "у винотек, и половины этих вин в винотеке нет вовсе. Из %d "
-             "позиций раздела с нашими таблицами сошлись %d, и вот те из них, "
-             "о которых есть что сказать.\n" % (206, len(d["supermarket"])))
+             "в винных разделах %s — %s против %s у винотек. Из %d позиций "
+             "с нашими таблицами сошлись %d, и %d из этих %d в винотеке нет "
+             "вовсе. Вот те, о которых есть что сказать.\n" % (
+                 " и ".join(MAGAZIN.get(m, m)
+                            for m in svodka.get("magaziny", [])),
+                 dinarov(svodka.get("mediana_0_75")),
+                 svodka.get("mediana_vinoteki"),
+                 svodka.get("iz_nih_0_75", 0), len(d["supermarket"]),
+                 svodka.get("tolko_v_supermarkete", 0), len(d["supermarket"])))
         pech("| Вино | Критик | Vivino | Медали | Динаров |")
         pech("|---|---|---|---|---|")
         for v in sorted(s_ocenkoj,

@@ -1,0 +1,2747 @@
+{
+ "chto_eto": "Винный раздел Idea Online: цена в динарах, объём, раздел магазина. Второй супермаркет к Maxi. Раздел — не цвет вина: магазин путает.",
+ "istochnik": "online.idea.rs, раздел «Вино», сохранённые страницы",
+ "sobrano": "2026-09-03",
+ "vina": [
+  {
+   "vino": "Aleksandrović Tema Selection vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1829.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60009703",
+   "stranica": "https://online.idea.rs/#!/products/60009703/aleksandrovic-tema-selection-vino-0-75l"
+  },
+  {
+   "vino": "Aleksandrović Trijumf Gold belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2469.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60068100",
+   "stranica": "https://online.idea.rs/#!/products/60068100/aleksandrovic-trijumf-gold-belo-vino-0-75l"
+  },
+  {
+   "vino": "Aleksandrović Trijumf Selection belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2229.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60010789",
+   "stranica": "https://online.idea.rs/#!/products/60010789/aleksandrovic-trijumf-selection-belo-vino-0-75l"
+  },
+  {
+   "vino": "Aleksić vinarija vino belo bonaca 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1149.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60098455",
+   "stranica": "https://online.idea.rs/#!/products/60098455/aleksic-vinarija-vino-belo-bonaca-0-75l"
+  },
+  {
+   "vino": "Aleksić Žuti cvet Tamjanika belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1349.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60075170",
+   "stranica": "https://online.idea.rs/#!/products/60075170/aleksic-zuti-cvet-tamjanika-belo-vino-0-75l"
+  },
+  {
+   "vino": "Allegrini vino bjelica babaroga 750ml Allegrini",
+   "hozyaistvo": "",
+   "cena_rsd": 6299.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60124669",
+   "stranica": "https://online.idea.rs/#!/products/60124669/allegrini-vino-bjelica-babaroga-750ml-allegrini"
+  },
+  {
+   "vino": "Baron D' Arignac Blanc belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 634.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60011704",
+   "stranica": "https://online.idea.rs/#!/products/60011704/baron-d-arignac-blanc-belo-vino-0-75l"
+  },
+  {
+   "vino": "Casillero del Diablo Sauvignon Blanc belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1489.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60008213",
+   "stranica": "https://online.idea.rs/#!/products/60008213/casillero-del-diablo-sauvignon-blanc-belo-vino-0-75l"
+  },
+  {
+   "vino": "Casillero Del Diablo Chardonnay vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1489.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60009116",
+   "stranica": "https://online.idea.rs/#!/products/60009116/casillero-del-diablo-chardonnay-vino-0-75l"
+  },
+  {
+   "vino": "Doja belo vino Chardonnay & Pinot0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1249.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60065686",
+   "stranica": "https://online.idea.rs/#!/products/60065686/doja-belo-vino-chardonnay-pinot0-75l"
+  },
+  {
+   "vino": "El Emperador Chile Sauvignon Blanc belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 999.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60010001",
+   "stranica": "https://online.idea.rs/#!/products/60010001/el-emperador-chile-sauvignon-blanc-belo-vino-0-75l"
+  },
+  {
+   "vino": "Erdevik vino bella novela 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1549.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60106865",
+   "stranica": "https://online.idea.rs/#!/products/60106865/erdevik-vino-bella-novela-0-75l"
+  },
+  {
+   "vino": "Freschello Bianco Vivo belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 659.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60016249",
+   "stranica": "https://online.idea.rs/#!/products/60016249/freschello-bianco-vivo-belo-vino-0-75l"
+  },
+  {
+   "vino": "Garganega Pinot Grigio Veneto belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 679.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60002945",
+   "stranica": "https://online.idea.rs/#!/products/60002945/garganega-pinot-grigio-veneto-belo-vino-0-75l"
+  },
+  {
+   "vino": "Grand Sud Chardonnay vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 827.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60010731",
+   "stranica": "https://online.idea.rs/#!/products/60010731/grand-sud-chardonnay-vino-1l"
+  },
+  {
+   "vino": "Iločki Podrumi Traminac belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1049.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60013856",
+   "stranica": "https://online.idea.rs/#!/products/60013856/ilocki-podrumi-traminac-belo-vino-0-75l"
+  },
+  {
+   "vino": "Imperial vino chardoonay reserve amfora 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 699.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114744",
+   "stranica": "https://online.idea.rs/#!/products/60114744/imperial-vino-chardoonay-reserve-amfora-0-75l"
+  },
+  {
+   "vino": "J.P. Chenet Colombard-Chardonnay belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 882.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60008426",
+   "stranica": "https://online.idea.rs/#!/products/60008426/j-p-chenet-colombard-chardonnay-belo-vino-0-75l"
+  },
+  {
+   "vino": "J.P. Chenet Colombard-Chardonnay belo vino 0,187l",
+   "hozyaistvo": "",
+   "cena_rsd": 329.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60036437",
+   "stranica": "https://online.idea.rs/#!/products/60036437/j-p-chenet-colombard-chardonnay-belo-vino-0-187l"
+  },
+  {
+   "vino": "J.P. Chenet Medium Sweet Côtes De Thau belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 882.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60010205",
+   "stranica": "https://online.idea.rs/#!/products/60010205/j-p-chenet-medium-sweet-c-tes-de-thau-belo-vino-0-75l"
+  },
+  {
+   "vino": "Kaštel belo vino 0,75l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 559.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60011826",
+   "stranica": "https://online.idea.rs/#!/products/60011826/kastel-belo-vino-0-75l-vinarija-coka"
+  },
+  {
+   "vino": "Kišov Bermet belo vino 0,5l",
+   "hozyaistvo": "",
+   "cena_rsd": 1669.99,
+   "litrov": 0.5,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60000490",
+   "stranica": "https://online.idea.rs/#!/products/60000490/kisov-bermet-belo-vino-0-5l"
+  },
+  {
+   "vino": "Kovačević Cuvée Piquant belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1249.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60069783",
+   "stranica": "https://online.idea.rs/#!/products/60069783/kovacevic-cuv-e-piquant-belo-vino-0-75l"
+  },
+  {
+   "vino": "Kovačević Chardonnay belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1399.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60004448",
+   "stranica": "https://online.idea.rs/#!/products/60004448/kovacevic-chardonnay-belo-vino-0-75l"
+  },
+  {
+   "vino": "Kovačević Sauvignon suvo belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60010715",
+   "stranica": "https://online.idea.rs/#!/products/60010715/kovacevic-sauvignon-suvo-belo-vino-0-75l"
+  },
+  {
+   "vino": "Kutjevo Graševina belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1339.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60049379",
+   "stranica": "https://online.idea.rs/#!/products/60049379/kutjevo-grasevina-belo-vino-0-75l"
+  },
+  {
+   "vino": "Lastar vino belo chardonnay Lastar 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1899.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60085736",
+   "stranica": "https://online.idea.rs/#!/products/60085736/lastar-vino-belo-chardonnay-lastar-0-75l"
+  },
+  {
+   "vino": "Lastar vino sauvign viognier triangl 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2700.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60099439",
+   "stranica": "https://online.idea.rs/#!/products/60099439/lastar-vino-sauvign-viognier-triangl-0-75l"
+  },
+  {
+   "vino": "Lastar vino tamjanika lastar 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 1949.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60098642",
+   "stranica": "https://online.idea.rs/#!/products/60098642/lastar-vino-tamjanika-lastar-0-75l"
+  },
+  {
+   "vino": "Maestri Canti belo vino 1 l tetrapak Caldirola Italia",
+   "hozyaistvo": "",
+   "cena_rsd": 349.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60007012",
+   "stranica": "https://online.idea.rs/#!/products/60007012/maestri-canti-belo-vino-1-l-tetrapak-caldirola-italia"
+  },
+  {
+   "vino": "Nikolas Wines vino belo tamjanika 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60107016",
+   "stranica": "https://online.idea.rs/#!/products/60107016/nikolas-wines-vino-belo-tamjanika-0-75l"
+  },
+  {
+   "vino": "Nikolas Wines vino premium bela tamjanika 0.75l +2 čaše nikolas wines",
+   "hozyaistvo": "",
+   "cena_rsd": 1379.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60112637",
+   "stranica": "https://online.idea.rs/#!/products/60112637/nikolas-wines-vino-premium-bela-tamjanika-0-75l-2-case-nikolas-wines"
+  },
+  {
+   "vino": "Nikolas wines vino smederevka 1l balon nikolas wines",
+   "hozyaistvo": "",
+   "cena_rsd": 474.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60115062",
+   "stranica": "https://online.idea.rs/#!/products/60115062/nikolas-wines-vino-smederevka-1l-balon-nikolas-wines"
+  },
+  {
+   "vino": "Orfelin Beli , belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 719.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60028494",
+   "stranica": "https://online.idea.rs/#!/products/60028494/orfelin-beli-belo-vino-0-75l"
+  },
+  {
+   "vino": "Plantaže crnogorski Chardonnay belo vino 0,187 l",
+   "hozyaistvo": "",
+   "cena_rsd": 279.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60005252",
+   "stranica": "https://online.idea.rs/#!/products/60005252/plantaze-crnogorski-chardonnay-belo-vino-0-187-l"
+  },
+  {
+   "vino": "Plantaže crnogorski Chardonnay belo vino 0,75 l",
+   "hozyaistvo": "",
+   "cena_rsd": 459.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60005123",
+   "stranica": "https://online.idea.rs/#!/products/60005123/plantaze-crnogorski-chardonnay-belo-vino-0-75-l"
+  },
+  {
+   "vino": "Plantaže crnogorski Krstač belo vino 0,187l",
+   "hozyaistvo": "",
+   "cena_rsd": 279.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60012048",
+   "stranica": "https://online.idea.rs/#!/products/60012048/plantaze-crnogorski-krstac-belo-vino-0-187l"
+  },
+  {
+   "vino": "Plantaže crnogorski Krstač belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 459.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60011604",
+   "stranica": "https://online.idea.rs/#!/products/60011604/plantaze-crnogorski-krstac-belo-vino-0-75l"
+  },
+  {
+   "vino": "Plantaže crnogorski Sauvignon belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 529.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60010907",
+   "stranica": "https://online.idea.rs/#!/products/60010907/plantaze-crnogorski-sauvignon-belo-vino-0-75l"
+  },
+  {
+   "vino": "Plantaže Moje vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 459.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60023567",
+   "stranica": "https://online.idea.rs/#!/products/60023567/plantaze-moje-vino-1l"
+  },
+  {
+   "vino": "Plantaže Pro Anima Chardonnay & Sauvignon belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1099.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60069122",
+   "stranica": "https://online.idea.rs/#!/products/60069122/plantaze-pro-anima-chardonnay-sauvignon-belo-vino-0-75l"
+  },
+  {
+   "vino": "Radovanović Chardonnay",
+   "hozyaistvo": "",
+   "cena_rsd": 2799.99,
+   "litrov": null,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60004179",
+   "stranica": "https://online.idea.rs/#!/products/60004179/radovanovic-chardonnay"
+  },
+  {
+   "vino": "Radovanović Chardonnay Classique belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60004639",
+   "stranica": "https://online.idea.rs/#!/products/60004639/radovanovic-chardonnay-classique-belo-vino-0-75l"
+  },
+  {
+   "vino": "Rubin Chardonnay belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 659.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60030909",
+   "stranica": "https://online.idea.rs/#!/products/60030909/rubin-chardonnay-belo-vino-0-75l"
+  },
+  {
+   "vino": "Rubin Graševina vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 449.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60003504",
+   "stranica": "https://online.idea.rs/#!/products/60003504/rubin-grasevina-vino-1l"
+  },
+  {
+   "vino": "Rubin Sauvignon Blanc belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 659.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60075386",
+   "stranica": "https://online.idea.rs/#!/products/60075386/rubin-sauvignon-blanc-belo-vino-0-75l"
+  },
+  {
+   "vino": "Santa Cristina Umbria belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60000240",
+   "stranica": "https://online.idea.rs/#!/products/60000240/santa-cristina-umbria-belo-vino-0-75l"
+  },
+  {
+   "vino": "Smederevka kvalitetno belo vino 1 l Vinarija Stobi",
+   "hozyaistvo": "",
+   "cena_rsd": 489.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60001142",
+   "stranica": "https://online.idea.rs/#!/products/60001142/smederevka-kvalitetno-belo-vino-1-l-vinarija-stobi"
+  },
+  {
+   "vino": "Stobi vino antigona white 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 579.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60108889",
+   "stranica": "https://online.idea.rs/#!/products/60108889/stobi-vino-antigona-white-0-75l"
+  },
+  {
+   "vino": "Stobi vino belo kv temjanika 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 829.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60099146",
+   "stranica": "https://online.idea.rs/#!/products/60099146/stobi-vino-belo-kv-temjanika-0-75l"
+  },
+  {
+   "vino": "Tikveš Aleksandrija Cuvée belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1129.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60012071",
+   "stranica": "https://online.idea.rs/#!/products/60012071/tikves-aleksandrija-cuv-e-belo-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Alexandria belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 819.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60011758",
+   "stranica": "https://online.idea.rs/#!/products/60011758/tikves-alexandria-belo-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Chardonnay Classic belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 569.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60005363",
+   "stranica": "https://online.idea.rs/#!/products/60005363/tikves-chardonnay-classic-belo-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Smederevka belo vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 524.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60002624",
+   "stranica": "https://online.idea.rs/#!/products/60002624/tikves-smederevka-belo-vino-1l"
+  },
+  {
+   "vino": "Tikveš Smederevka Classic belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 684.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60009460",
+   "stranica": "https://online.idea.rs/#!/products/60009460/tikves-smederevka-classic-belo-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Tamjanika Classic belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 759.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60012381",
+   "stranica": "https://online.idea.rs/#!/products/60012381/tikves-tamjanika-classic-belo-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Temjanika luda Mara belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60011709",
+   "stranica": "https://online.idea.rs/#!/products/60011709/tikves-temjanika-luda-mara-belo-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš vino belo smederevka 0.5l tikveš",
+   "hozyaistvo": "",
+   "cena_rsd": 394.99,
+   "litrov": 0.5,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114675",
+   "stranica": "https://online.idea.rs/#!/products/60114675/tikves-vino-belo-smederevka-0-5l-tikves"
+  },
+  {
+   "vino": "Tikveš vino graševina 1l tikveš",
+   "hozyaistvo": "",
+   "cena_rsd": 654.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60096045",
+   "stranica": "https://online.idea.rs/#!/products/60096045/tikves-vino-grasevina-1l-tikves"
+  },
+  {
+   "vino": "Ukusi moga kraja vino tamjanika 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 999.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60118141",
+   "stranica": "https://online.idea.rs/#!/products/60118141/ukusi-moga-kraja-vino-tamjanika-0-75l"
+  },
+  {
+   "vino": "Villa Antinori Toscana Bianco belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1629.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60048924",
+   "stranica": "https://online.idea.rs/#!/products/60048924/villa-antinori-toscana-bianco-belo-vino-0-75l"
+  },
+  {
+   "vino": "Vina Laguna Malvazija belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1149.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60005230",
+   "stranica": "https://online.idea.rs/#!/products/60005230/vina-laguna-malvazija-belo-vino-0-75l"
+  },
+  {
+   "vino": "Vinakoper vino chardonnay 0.75l vinakoper",
+   "hozyaistvo": "",
+   "cena_rsd": 1469.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60107280",
+   "stranica": "https://online.idea.rs/#!/products/60107280/vinakoper-vino-chardonnay-0-75l-vinakoper"
+  },
+  {
+   "vino": "Vinakoper vino malvazija 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1469.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60107662",
+   "stranica": "https://online.idea.rs/#!/products/60107662/vinakoper-vino-malvazija-0-75l"
+  },
+  {
+   "vino": "Vinarija Aleksandrovic vino varijanta bela 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1509.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60106873",
+   "stranica": "https://online.idea.rs/#!/products/60106873/vinarija-aleksandrovic-vino-varijanta-bela-0-75l"
+  },
+  {
+   "vino": "Vinarija Draškovic vino muskat otonel 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 779.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60098018",
+   "stranica": "https://online.idea.rs/#!/products/60098018/vinarija-draskovic-vino-muskat-otonel-0-75l"
+  },
+  {
+   "vino": "vinarija jokić vino belo pošip 0.75l vin jokić",
+   "hozyaistvo": "",
+   "cena_rsd": 1999.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60080203",
+   "stranica": "https://online.idea.rs/#!/products/60080203/vinarija-jokic-vino-belo-posip-0-75l-vin-jokic"
+  },
+  {
+   "vino": "Vino belo allure sauvignon blanc 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 879.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60118225",
+   "stranica": "https://online.idea.rs/#!/products/60118225/vino-belo-allure-sauvignon-blanc-0-75l"
+  },
+  {
+   "vino": "Vino belo classic chardonnay 0.75l stobi",
+   "hozyaistvo": "",
+   "cena_rsd": 599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114337",
+   "stranica": "https://online.idea.rs/#!/products/60114337/vino-belo-classic-chardonnay-0-75l-stobi"
+  },
+  {
+   "vino": "vino belo dubravka 1l dzervin",
+   "hozyaistvo": "",
+   "cena_rsd": 499.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60102263",
+   "stranica": "https://online.idea.rs/#!/products/60102263/vino-belo-dubravka-1l-dzervin"
+  },
+  {
+   "vino": "vino belo freixenet pinot grigio 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1559.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60109844",
+   "stranica": "https://online.idea.rs/#!/products/60109844/vino-belo-freixenet-pinot-grigio-0-75l"
+  },
+  {
+   "vino": "Vino belo french life vermentino colombard 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1249.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60108473",
+   "stranica": "https://online.idea.rs/#!/products/60108473/vino-belo-french-life-vermentino-colombard-0-75l"
+  },
+  {
+   "vino": "vino belo malvazija 0,75l 13jul",
+   "hozyaistvo": "",
+   "cena_rsd": 1349.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60077768",
+   "stranica": "https://online.idea.rs/#!/products/60077768/vino-belo-malvazija-0-75l-13jul"
+  },
+  {
+   "vino": "Vino belo novi dan 0.75l plantaže 13 jul",
+   "hozyaistvo": "",
+   "cena_rsd": 1159.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114436",
+   "stranica": "https://online.idea.rs/#!/products/60114436/vino-belo-novi-dan-0-75l-plantaze-13-jul"
+  },
+  {
+   "vino": "Vino belo pinot grigio alto bello 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 829.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60118226",
+   "stranica": "https://online.idea.rs/#!/products/60118226/vino-belo-pinot-grigio-alto-bello-0-75l"
+  },
+  {
+   "vino": "Vino belo polupenušavo 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1079.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60050498",
+   "stranica": "https://online.idea.rs/#!/products/60050498/vino-belo-polupenusavo-0-75l"
+  },
+  {
+   "vino": "Vino belo polusuvo veseli lala 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 419.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60125917",
+   "stranica": "https://online.idea.rs/#!/products/60125917/vino-belo-polusuvo-veseli-lala-1l"
+  },
+  {
+   "vino": "Vino belo sirtaki retsina 0.5l",
+   "hozyaistvo": "",
+   "cena_rsd": 409.99,
+   "litrov": 0.5,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60094897",
+   "stranica": "https://online.idea.rs/#!/products/60094897/vino-belo-sirtaki-retsina-0-5l"
+  },
+  {
+   "vino": "Vino belo suvo sirtaki 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60125204",
+   "stranica": "https://online.idea.rs/#!/products/60125204/vino-belo-suvo-sirtaki-0-75l"
+  },
+  {
+   "vino": "vino belo tri bele koze 0.75 l erdevik",
+   "hozyaistvo": "",
+   "cena_rsd": 1149.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60074165",
+   "stranica": "https://online.idea.rs/#!/products/60074165/vino-belo-tri-bele-koze-0-75-l-erdevik"
+  },
+  {
+   "vino": "Vino calvet cabernet sauvignon 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 949.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60127467",
+   "stranica": "https://online.idea.rs/#!/products/60127467/vino-calvet-cabernet-sauvignon-0-75l"
+  },
+  {
+   "vino": "Vino calvet chardonnay 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 949.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60127466",
+   "stranica": "https://online.idea.rs/#!/products/60127466/vino-calvet-chardonnay-0-75l"
+  },
+  {
+   "vino": "Vino chardonnay premium 0.75l nikolas wines",
+   "hozyaistvo": "",
+   "cena_rsd": 520.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60118323",
+   "stranica": "https://online.idea.rs/#!/products/60118323/vino-chardonnay-premium-0-75l-nikolas-wines"
+  },
+  {
+   "vino": "Vino chevrotin chardonnay 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 649.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60110638",
+   "stranica": "https://online.idea.rs/#!/products/60110638/vino-chevrotin-chardonnay-0-75l"
+  },
+  {
+   "vino": "Vino malvazija istarska 0,75l pilato",
+   "hozyaistvo": "",
+   "cena_rsd": 1799.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114336",
+   "stranica": "https://online.idea.rs/#!/products/60114336/vino-malvazija-istarska-0-75l-pilato"
+  },
+  {
+   "vino": "Vino muskat tamjanika 0,75l bovin",
+   "hozyaistvo": "",
+   "cena_rsd": 1499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60123375",
+   "stranica": "https://online.idea.rs/#!/products/60123375/vino-muskat-tamjanika-0-75l-bovin"
+  },
+  {
+   "vino": "Vino peter weinbach riesling 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 929.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60118279",
+   "stranica": "https://online.idea.rs/#!/products/60118279/vino-peter-weinbach-riesling-0-75l"
+  },
+  {
+   "vino": "Vino pinilla chardonnay 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114608",
+   "stranica": "https://online.idea.rs/#!/products/60114608/vino-pinilla-chardonnay-0-75l"
+  },
+  {
+   "vino": "Vino pinilla sauvignon 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114609",
+   "stranica": "https://online.idea.rs/#!/products/60114609/vino-pinilla-sauvignon-0-75l"
+  },
+  {
+   "vino": "Vino riporta pinot grigio igt 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1219.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60123140",
+   "stranica": "https://online.idea.rs/#!/products/60123140/vino-riporta-pinot-grigio-igt-0-75l"
+  },
+  {
+   "vino": "Vino salaš naš chardonnay 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 669.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60118332",
+   "stranica": "https://online.idea.rs/#!/products/60118332/vino-salas-nas-chardonnay-0-75l"
+  },
+  {
+   "vino": "Vino salaš naš sauvignon blanc 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 669.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60118321",
+   "stranica": "https://online.idea.rs/#!/products/60118321/vino-salas-nas-sauvignon-blanc-0-75l"
+  },
+  {
+   "vino": "Vino smederevka 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 499.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60107665",
+   "stranica": "https://online.idea.rs/#!/products/60107665/vino-smederevka-1l"
+  },
+  {
+   "vino": "Vino Smederevka 2l pet Nikolas Wines",
+   "hozyaistvo": "",
+   "cena_rsd": 469.99,
+   "litrov": 2.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60066002",
+   "stranica": "https://online.idea.rs/#!/products/60066002/vino-smederevka-2l-pet-nikolas-wines"
+  },
+  {
+   "vino": "Vino Smederevka 3l",
+   "hozyaistvo": "",
+   "cena_rsd": 689.99,
+   "litrov": 3.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60066001",
+   "stranica": "https://online.idea.rs/#!/products/60066001/vino-smederevka-3l"
+  },
+  {
+   "vino": "Vino suvo belo riesling 1l imako",
+   "hozyaistvo": "",
+   "cena_rsd": 429.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60127683",
+   "stranica": "https://online.idea.rs/#!/products/60127683/vino-suvo-belo-riesling-1l-imako"
+  },
+  {
+   "vino": "Vino tamjanika 0,75l lederer",
+   "hozyaistvo": "",
+   "cena_rsd": 849.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60127347",
+   "stranica": "https://online.idea.rs/#!/products/60127347/vino-tamjanika-0-75l-lederer"
+  },
+  {
+   "vino": "Vino tamjanika 0.75l 100 žena",
+   "hozyaistvo": "",
+   "cena_rsd": 2199.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60114389",
+   "stranica": "https://online.idea.rs/#!/products/60114389/vino-tamjanika-0-75l-100-zena"
+  },
+  {
+   "vino": "Vino unity cabernet sauvignon 0,75l imako",
+   "hozyaistvo": "",
+   "cena_rsd": 599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60127379",
+   "stranica": "https://online.idea.rs/#!/products/60127379/vino-unity-cabernet-sauvignon-0-75l-imako"
+  },
+  {
+   "vino": "Vino unity chardonnay 0,75l imako",
+   "hozyaistvo": "",
+   "cena_rsd": 599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60127736",
+   "stranica": "https://online.idea.rs/#!/products/60127736/vino-unity-chardonnay-0-75l-imako"
+  },
+  {
+   "vino": "Vino ždrepceva krv belo 1l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 569.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60107671",
+   "stranica": "https://online.idea.rs/#!/products/60107671/vino-zdrepceva-krv-belo-1l-vinarija-coka"
+  },
+  {
+   "vino": "Zvonko Bogdan Pinoc Blanc belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2469.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60011997",
+   "stranica": "https://online.idea.rs/#!/products/60011997/zvonko-bogdan-pinoc-blanc-belo-vino-0-75l"
+  },
+  {
+   "vino": "Zvonko Bogdan Chardonnay belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2469.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60050984",
+   "stranica": "https://online.idea.rs/#!/products/60050984/zvonko-bogdan-chardonnay-belo-vino-0-75l"
+  },
+  {
+   "vino": "Zvonko Bogdan 8 Tamburaša suvo belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1549.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60028576",
+   "stranica": "https://online.idea.rs/#!/products/60028576/zvonko-bogdan-8-tamburasa-suvo-belo-vino-0-75l"
+  },
+  {
+   "vino": "Ždrebac belo vino 1l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 429.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60023324",
+   "stranica": "https://online.idea.rs/#!/products/60023324/zdrebac-belo-vino-1l-vinarija-coka"
+  },
+  {
+   "vino": "Aleksandrović Vizija Reserve 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2049.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60012757",
+   "stranica": "https://online.idea.rs/#!/products/60012757/aleksandrovic-vizija-reserve-0-75l"
+  },
+  {
+   "vino": "Aleksić Kardaš Cabernet Sauvignon suvo crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1149.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60044482",
+   "stranica": "https://online.idea.rs/#!/products/60044482/aleksic-kardas-cabernet-sauvignon-suvo-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Barolo vino crveno 0.75l Borgogno",
+   "hozyaistvo": "",
+   "cena_rsd": 7700.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60129365",
+   "stranica": "https://online.idea.rs/#!/products/60129365/barolo-vino-crveno-0-75l-borgogno"
+  },
+  {
+   "vino": "Baron D' Arignac crveno vino 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 622.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60007749",
+   "stranica": "https://online.idea.rs/#!/products/60007749/baron-d-arignac-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Belo Brdo Alma Mons vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 2619.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60025712",
+   "stranica": "https://online.idea.rs/#!/products/60025712/belo-brdo-alma-mons-vino-750ml"
+  },
+  {
+   "vino": "Cabernet Sauvignon Radovanović crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 4519.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60015000",
+   "stranica": "https://online.idea.rs/#!/products/60015000/cabernet-sauvignon-radovanovic-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Casa de Campo Chile Cabernet Sauvignon crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1097.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60001284",
+   "stranica": "https://online.idea.rs/#!/products/60001284/casa-de-campo-chile-cabernet-sauvignon-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Casillero Del Diablo Cabernet Sauvignon vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1489.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60013475",
+   "stranica": "https://online.idea.rs/#!/products/60013475/casillero-del-diablo-cabernet-sauvignon-vino-0-75l"
+  },
+  {
+   "vino": "Casillero del diablo Carmenere Chile vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1559.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60019284",
+   "stranica": "https://online.idea.rs/#!/products/60019284/casillero-del-diablo-carmenere-chile-vino-0-75l"
+  },
+  {
+   "vino": "Chateau Fonfroide Bordeaux crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1097.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60002399",
+   "stranica": "https://online.idea.rs/#!/products/60002399/chateau-fonfroide-bordeaux-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Conte Lorenzo Sormani Chianti crveno vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 899.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60011807",
+   "stranica": "https://online.idea.rs/#!/products/60011807/conte-lorenzo-sormani-chianti-crveno-vino-750ml"
+  },
+  {
+   "vino": "Crnogorski Cabernet crveno vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 689.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60004351",
+   "stranica": "https://online.idea.rs/#!/products/60004351/crnogorski-cabernet-crveno-vino-750ml"
+  },
+  {
+   "vino": "Despotika Dokaz Kaberne Sovinjon stono suvo crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2219.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60069782",
+   "stranica": "https://online.idea.rs/#!/products/60069782/despotika-dokaz-kaberne-sovinjon-stono-suvo-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Despotika vino crveno trag merlot 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2099.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60110402",
+   "stranica": "https://online.idea.rs/#!/products/60110402/despotika-vino-crveno-trag-merlot-0-75l"
+  },
+  {
+   "vino": "Doja vino merlot&caber sauvig 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1649.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60107660",
+   "stranica": "https://online.idea.rs/#!/products/60107660/doja-vino-merlot-caber-sauvig-0-75l"
+  },
+  {
+   "vino": "Dulong Bordeaux Merlot-Cabernet premium crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1192.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60041575",
+   "stranica": "https://online.idea.rs/#!/products/60041575/dulong-bordeaux-merlot-cabernet-premium-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Džervin vino crveno despot zlatni 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 619.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60102271",
+   "stranica": "https://online.idea.rs/#!/products/60102271/dzervin-vino-crveno-despot-zlatni-0-75l"
+  },
+  {
+   "vino": "erdevik vino crv trianon 0.7l",
+   "hozyaistvo": "",
+   "cena_rsd": 1869.99,
+   "litrov": 0.7,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60076753",
+   "stranica": "https://online.idea.rs/#!/products/60076753/erdevik-vino-crv-trianon-0-7l"
+  },
+  {
+   "vino": "Fragaria vino votaži 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2199.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60109804",
+   "stranica": "https://online.idea.rs/#!/products/60109804/fragaria-vino-votazi-0-75l"
+  },
+  {
+   "vino": "Frontera Cabernet Sauvignon vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 969.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60008499",
+   "stranica": "https://online.idea.rs/#!/products/60008499/frontera-cabernet-sauvignon-vino-0-75l"
+  },
+  {
+   "vino": "Grand Sud Cabernet crveno vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 849.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60005743",
+   "stranica": "https://online.idea.rs/#!/products/60005743/grand-sud-cabernet-crveno-vino-1l"
+  },
+  {
+   "vino": "Grand Sud Merlot crveno vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 849.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60009374",
+   "stranica": "https://online.idea.rs/#!/products/60009374/grand-sud-merlot-crveno-vino-1l"
+  },
+  {
+   "vino": "Imperial vino cabernet reserve amfora 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 694.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60114745",
+   "stranica": "https://online.idea.rs/#!/products/60114745/imperial-vino-cabernet-reserve-amfora-0-75l"
+  },
+  {
+   "vino": "Ivanović Prokupac crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1999.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60014413",
+   "stranica": "https://online.idea.rs/#!/products/60014413/ivanovic-prokupac-crveno-vino-0-75l"
+  },
+  {
+   "vino": "J.P. Chenet Cabernet- Syrah vino 0,187L",
+   "hozyaistvo": "",
+   "cena_rsd": 319.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60041926",
+   "stranica": "https://online.idea.rs/#!/products/60041926/j-p-chenet-cabernet-syrah-vino-0-187l"
+  },
+  {
+   "vino": "J.P. Chenet Cabernet- Syrah vino 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 882.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60004878",
+   "stranica": "https://online.idea.rs/#!/products/60004878/j-p-chenet-cabernet-syrah-vino-0-75l"
+  },
+  {
+   "vino": "J.P. Chenet Merlot vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60010492",
+   "stranica": "https://online.idea.rs/#!/products/60010492/j-p-chenet-merlot-vino-0-75l"
+  },
+  {
+   "vino": "Jp chenet vino cabernet shiraz magnum 1.5l",
+   "hozyaistvo": "",
+   "cena_rsd": 1477.99,
+   "litrov": 1.5,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60115663",
+   "stranica": "https://online.idea.rs/#!/products/60115663/jp-chenet-vino-cabernet-shiraz-magnum-1-5l"
+  },
+  {
+   "vino": "Jp chenet vino medium sweet rouge 0,75l jp chenet",
+   "hozyaistvo": "",
+   "cena_rsd": 882.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60112324",
+   "stranica": "https://online.idea.rs/#!/products/60112324/jp-chenet-vino-medium-sweet-rouge-0-75l-jp-chenet"
+  },
+  {
+   "vino": "Kalča edicija crveno vino 1l Status",
+   "hozyaistvo": "",
+   "cena_rsd": 449.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60107718",
+   "stranica": "https://online.idea.rs/#!/products/60107718/kalca-edicija-crveno-vino-1l-status"
+  },
+  {
+   "vino": "Kovačević crveno vino 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 1799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60009164",
+   "stranica": "https://online.idea.rs/#!/products/60009164/kovacevic-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Lastar vino crv pinot noir Lastar 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 1899.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60085737",
+   "stranica": "https://online.idea.rs/#!/products/60085737/lastar-vino-crv-pinot-noir-lastar-0-75l"
+  },
+  {
+   "vino": "Lastar vino merlot cabernet 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1999.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60095838",
+   "stranica": "https://online.idea.rs/#!/products/60095838/lastar-vino-merlot-cabernet-0-75l"
+  },
+  {
+   "vino": "Lederer Cabernet Sauvignon crveno vino 0.75 l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 779.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60010337",
+   "stranica": "https://online.idea.rs/#!/products/60010337/lederer-cabernet-sauvignon-crveno-vino-0-75-l-vinarija-coka"
+  },
+  {
+   "vino": "Maestro vino primitivo puglia 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1269.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60107721",
+   "stranica": "https://online.idea.rs/#!/products/60107721/maestro-vino-primitivo-puglia-0-75l"
+  },
+  {
+   "vino": "Manastir Tvrdoš vino hum cabernet sauvignon 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1899.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60098955",
+   "stranica": "https://online.idea.rs/#!/products/60098955/manastir-tvrdos-vino-hum-cabernet-sauvignon-0-75l"
+  },
+  {
+   "vino": "Matalj Kremen Cabernet Sauvignon crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2299.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60005482",
+   "stranica": "https://online.idea.rs/#!/products/60005482/matalj-kremen-cabernet-sauvignon-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Merlot -suvo crveno vino 0,75l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 779.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60014161",
+   "stranica": "https://online.idea.rs/#!/products/60014161/merlot-suvo-crveno-vino-0-75l-vinarija-coka"
+  },
+  {
+   "vino": "Nostalgija crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 649.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60033542",
+   "stranica": "https://online.idea.rs/#!/products/60033542/nostalgija-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Pata Negra Gran Seleccion Rioja vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1069.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60030608",
+   "stranica": "https://online.idea.rs/#!/products/60030608/pata-negra-gran-seleccion-rioja-vino-0-75l"
+  },
+  {
+   "vino": "Plantaže crnogorski Merlot crveno vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 689.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60003248",
+   "stranica": "https://online.idea.rs/#!/products/60003248/plantaze-crnogorski-merlot-crveno-vino-750ml"
+  },
+  {
+   "vino": "Plantaže crnogorski Vranac crveno vino 0,187l",
+   "hozyaistvo": "",
+   "cena_rsd": 279.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60004282",
+   "stranica": "https://online.idea.rs/#!/products/60004282/plantaze-crnogorski-vranac-crveno-vino-0-187l"
+  },
+  {
+   "vino": "Plantaže crnogorski Vranac crveno vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 649.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60001574",
+   "stranica": "https://online.idea.rs/#!/products/60001574/plantaze-crnogorski-vranac-crveno-vino-750ml"
+  },
+  {
+   "vino": "Plantaže crnogorski Vranac Barrique crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60012122",
+   "stranica": "https://online.idea.rs/#!/products/60012122/plantaze-crnogorski-vranac-barrique-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Plantaže crnogorski Vranac crveno vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 459.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60010898",
+   "stranica": "https://online.idea.rs/#!/products/60010898/plantaze-crnogorski-vranac-crveno-vino-1l"
+  },
+  {
+   "vino": "Plantaže Medun crveno vino 0,5l",
+   "hozyaistvo": "",
+   "cena_rsd": 1499.99,
+   "litrov": 0.5,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60009391",
+   "stranica": "https://online.idea.rs/#!/products/60009391/plantaze-medun-crveno-vino-0-5l"
+  },
+  {
+   "vino": "Plantaže Moje vino crveno 1L",
+   "hozyaistvo": "",
+   "cena_rsd": 459.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60023763",
+   "stranica": "https://online.idea.rs/#!/products/60023763/plantaze-moje-vino-crveno-1l"
+  },
+  {
+   "vino": "Plantaže Reserve Vranac crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 3000.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60003320",
+   "stranica": "https://online.idea.rs/#!/products/60003320/plantaze-reserve-vranac-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Plantaže Vranac Pro Corde crveno vino 0,187l",
+   "hozyaistvo": "",
+   "cena_rsd": 359.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60004307",
+   "stranica": "https://online.idea.rs/#!/products/60004307/plantaze-vranac-pro-corde-crveno-vino-0-187l"
+  },
+  {
+   "vino": "Plantaže Vranac Pro Corde crveno vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 1499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60009165",
+   "stranica": "https://online.idea.rs/#!/products/60009165/plantaze-vranac-pro-corde-crveno-vino-750ml"
+  },
+  {
+   "vino": "Porto Cruz Tawny vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1929.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60003797",
+   "stranica": "https://online.idea.rs/#!/products/60003797/porto-cruz-tawny-vino-0-75l"
+  },
+  {
+   "vino": "Prokupac vino crveno doja breg 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 5299.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60115658",
+   "stranica": "https://online.idea.rs/#!/products/60115658/prokupac-vino-crveno-doja-breg-0-75l"
+  },
+  {
+   "vino": "Radovanović Franc Cabernet Sauvignon crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2519.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60003104",
+   "stranica": "https://online.idea.rs/#!/products/60003104/radovanovic-franc-cabernet-sauvignon-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Regent Reserve Aleksandrović",
+   "hozyaistvo": "",
+   "cena_rsd": 2569.99,
+   "litrov": null,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60010169",
+   "stranica": "https://online.idea.rs/#!/products/60010169/regent-reserve-aleksandrovic"
+  },
+  {
+   "vino": "Rubin Cabernet Sauvignon crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 659.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60023994",
+   "stranica": "https://online.idea.rs/#!/products/60023994/rubin-cabernet-sauvignon-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Rubin Carica Milica crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 474.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60005452",
+   "stranica": "https://online.idea.rs/#!/products/60005452/rubin-carica-milica-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Rubin Medveđa krv crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 514.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60003834",
+   "stranica": "https://online.idea.rs/#!/products/60003834/rubin-medveda-krv-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Rubin Medveđa krv poluslatko crveno vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 429.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60008281",
+   "stranica": "https://online.idea.rs/#!/products/60008281/rubin-medveda-krv-poluslatko-crveno-vino-1l"
+  },
+  {
+   "vino": "Rubin Medveđa Krv stono poluslatko crveno vino 0,187l",
+   "hozyaistvo": "",
+   "cena_rsd": 199.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60011844",
+   "stranica": "https://online.idea.rs/#!/products/60011844/rubin-medveda-krv-stono-poluslatko-crveno-vino-0-187l"
+  },
+  {
+   "vino": "Santa Cristina Toscana crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1669.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60010598",
+   "stranica": "https://online.idea.rs/#!/products/60010598/santa-cristina-toscana-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Savino polje vino crveno 0,75l Hilandar",
+   "hozyaistvo": "",
+   "cena_rsd": 2799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60072802",
+   "stranica": "https://online.idea.rs/#!/products/60072802/savino-polje-vino-crveno-0-75l-hilandar"
+  },
+  {
+   "vino": "Sensi Chianti vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 639.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60027802",
+   "stranica": "https://online.idea.rs/#!/products/60027802/sensi-chianti-vino-0-75l"
+  },
+  {
+   "vino": "Shiraz Viña Pinilla Jumilla crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60050022",
+   "stranica": "https://online.idea.rs/#!/products/60050022/shiraz-vi-a-pinilla-jumilla-crveno-vino-0-75l"
+  },
+  {
+   "vino": "stobi Antigona crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 569.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60006006",
+   "stranica": "https://online.idea.rs/#!/products/60006006/stobi-antigona-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Stobi Vranec Vilarov crveno vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 489.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60007809",
+   "stranica": "https://online.idea.rs/#!/products/60007809/stobi-vranec-vilarov-crveno-vino-1l"
+  },
+  {
+   "vino": "T'ga za jug crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 819.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60001512",
+   "stranica": "https://online.idea.rs/#!/products/60001512/t-ga-za-jug-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Aleksandrija Kaberne Sovinjon crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 819.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60012382",
+   "stranica": "https://online.idea.rs/#!/products/60012382/tikves-aleksandrija-kaberne-sovinjon-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Aleksandrija crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1129.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60013568",
+   "stranica": "https://online.idea.rs/#!/products/60013568/tikves-aleksandrija-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Kartošija crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 539.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60005510",
+   "stranica": "https://online.idea.rs/#!/products/60005510/tikves-kartosija-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Tikveš Kratošija crveno vino 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 549.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60001464",
+   "stranica": "https://online.idea.rs/#!/products/60001464/tikves-kratosija-crveno-vino-1l"
+  },
+  {
+   "vino": "Toro loco vino superior 0.75l toro loco",
+   "hozyaistvo": "",
+   "cena_rsd": 699.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60107700",
+   "stranica": "https://online.idea.rs/#!/products/60107700/toro-loco-vino-superior-0-75l-toro-loco"
+  },
+  {
+   "vino": "Ukusi moga kraja vino prokupac 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1099.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60118142",
+   "stranica": "https://online.idea.rs/#!/products/60118142/ukusi-moga-kraja-vino-prokupac-0-75l"
+  },
+  {
+   "vino": "Villa Antinori Toscana crveno vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2399.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60048925",
+   "stranica": "https://online.idea.rs/#!/products/60048925/villa-antinori-toscana-crveno-vino-0-75l"
+  },
+  {
+   "vino": "Vinarija Todorovic vino shiraz 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1929.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60104479",
+   "stranica": "https://online.idea.rs/#!/products/60104479/vinarija-todorovic-vino-shiraz-0-75l"
+  },
+  {
+   "vino": "Vino anonymous frankovka barrique 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60129368",
+   "stranica": "https://online.idea.rs/#!/products/60129368/vino-anonymous-frankovka-barrique-0-75l"
+  },
+  {
+   "vino": "Vino cabernet sauvignon 0.75l bovin",
+   "hozyaistvo": "",
+   "cena_rsd": 1599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60123376",
+   "stranica": "https://online.idea.rs/#!/products/60123376/vino-cabernet-sauvignon-0-75l-bovin"
+  },
+  {
+   "vino": "Vino calvet merlot 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 949.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60127468",
+   "stranica": "https://online.idea.rs/#!/products/60127468/vino-calvet-merlot-0-75l"
+  },
+  {
+   "vino": "Vino chevrotin merlot 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 649.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60110639",
+   "stranica": "https://online.idea.rs/#!/products/60110639/vino-chevrotin-merlot-0-75l"
+  },
+  {
+   "vino": "vino crv despot 1l dzervin",
+   "hozyaistvo": "",
+   "cena_rsd": 499.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60102265",
+   "stranica": "https://online.idea.rs/#!/products/60102265/vino-crv-despot-1l-dzervin"
+  },
+  {
+   "vino": "Vino crveno french life carignan syrah 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1249.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60108474",
+   "stranica": "https://online.idea.rs/#!/products/60108474/vino-crveno-french-life-carignan-syrah-0-75l"
+  },
+  {
+   "vino": "Vino crveno hilandar 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60078701",
+   "stranica": "https://online.idea.rs/#!/products/60078701/vino-crveno-hilandar-0-75l"
+  },
+  {
+   "vino": "Vino crveno jedne noći 0,75l plantaže 13 jul",
+   "hozyaistvo": "",
+   "cena_rsd": 1159.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60114450",
+   "stranica": "https://online.idea.rs/#!/products/60114450/vino-crveno-jedne-noci-0-75l-plantaze-13-jul"
+  },
+  {
+   "vino": "Vino crveno JP Chenet reserve merlot 0,75l Tody",
+   "hozyaistvo": "",
+   "cena_rsd": 1677.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60030316",
+   "stranica": "https://online.idea.rs/#!/products/60030316/vino-crveno-jp-chenet-reserve-merlot-0-75l-tody"
+  },
+  {
+   "vino": "Vino crveno mademoiselle comedie bordeaux 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 849.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60127378",
+   "stranica": "https://online.idea.rs/#!/products/60127378/vino-crveno-mademoiselle-comedie-bordeaux-0-75l"
+  },
+  {
+   "vino": "Vino crveno orpheline 0.75l kovačević",
+   "hozyaistvo": "",
+   "cena_rsd": 719.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60028531",
+   "stranica": "https://online.idea.rs/#!/products/60028531/vino-crveno-orpheline-0-75l-kovacevic"
+  },
+  {
+   "vino": "Vino crveno polusuvo veseli lala 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 419.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60125918",
+   "stranica": "https://online.idea.rs/#!/products/60125918/vino-crveno-polusuvo-veseli-lala-1l"
+  },
+  {
+   "vino": "Vino crveno primitivo alto bello 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 829.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60118227",
+   "stranica": "https://online.idea.rs/#!/products/60118227/vino-crveno-primitivo-alto-bello-0-75l"
+  },
+  {
+   "vino": "Vino crveno suvo sirtaki 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 320.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60125205",
+   "stranica": "https://online.idea.rs/#!/products/60125205/vino-crveno-suvo-sirtaki-0-75l"
+  },
+  {
+   "vino": "Vino galatheo rosso 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 679.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60127767",
+   "stranica": "https://online.idea.rs/#!/products/60127767/vino-galatheo-rosso-0-75l"
+  },
+  {
+   "vino": "Vino kutjevo crni cuvee 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1319.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60112355",
+   "stranica": "https://online.idea.rs/#!/products/60112355/vino-kutjevo-crni-cuvee-0-75l"
+  },
+  {
+   "vino": "Vino merlot 0,75l rubin",
+   "hozyaistvo": "",
+   "cena_rsd": 659.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60098748",
+   "stranica": "https://online.idea.rs/#!/products/60098748/vino-merlot-0-75l-rubin"
+  },
+  {
+   "vino": "Vino rapsodija 0.75l tonković",
+   "hozyaistvo": "",
+   "cena_rsd": 2389.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60115655",
+   "stranica": "https://online.idea.rs/#!/products/60115655/vino-rapsodija-0-75l-tonkovic"
+  },
+  {
+   "vino": "Vino suvo crno vranac 1l imako",
+   "hozyaistvo": "",
+   "cena_rsd": 490.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60127684",
+   "stranica": "https://online.idea.rs/#!/products/60127684/vino-suvo-crno-vranac-1l-imako"
+  },
+  {
+   "vino": "Vino vranac pet 2l nikolas",
+   "hozyaistvo": "",
+   "cena_rsd": 479.99,
+   "litrov": 2.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60066003",
+   "stranica": "https://online.idea.rs/#!/products/60066003/vino-vranac-pet-2l-nikolas"
+  },
+  {
+   "vino": "Vranac suvo crveno vino 0,187 Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 219.99,
+   "litrov": null,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60044054",
+   "stranica": "https://online.idea.rs/#!/products/60044054/vranac-suvo-crveno-vino-0-187-vinarija-coka"
+  },
+  {
+   "vino": "Vranac pro corde crveno vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 1139.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60006077",
+   "stranica": "https://online.idea.rs/#!/products/60006077/vranac-pro-corde-crveno-vino-750ml"
+  },
+  {
+   "vino": "Zavet Caberent Sauvignon Merlot Cabernet Franc vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 2229.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60032038",
+   "stranica": "https://online.idea.rs/#!/products/60032038/zavet-caberent-sauvignon-merlot-cabernet-franc-vino-0-75l"
+  },
+  {
+   "vino": "Zvonko Bogdan Cuvée No.1 vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 3799.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60048863",
+   "stranica": "https://online.idea.rs/#!/products/60048863/zvonko-bogdan-cuv-e-no-1-vino-750ml"
+  },
+  {
+   "vino": "Zvonko Bogdan Život teče crveno vino 750ml",
+   "hozyaistvo": "",
+   "cena_rsd": 1789.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60001729",
+   "stranica": "https://online.idea.rs/#!/products/60001729/zvonko-bogdan-zivot-tece-crveno-vino-750ml"
+  },
+  {
+   "vino": "Ždrebac crveno vino 1l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 429.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60000230",
+   "stranica": "https://online.idea.rs/#!/products/60000230/zdrebac-crveno-vino-1l-vinarija-coka"
+  },
+  {
+   "vino": "Ždrepčeva krv crveno vino 0,187l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 239.99,
+   "litrov": 0.187,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60005630",
+   "stranica": "https://online.idea.rs/#!/products/60005630/zdrepceva-krv-crveno-vino-0-187l-vinarija-coka"
+  },
+  {
+   "vino": "Ždrepčeva krv crveno vino 0,75l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 559.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60000029",
+   "stranica": "https://online.idea.rs/#!/products/60000029/zdrepceva-krv-crveno-vino-0-75l-vinarija-coka"
+  },
+  {
+   "vino": "13jul vino crv epoha 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1624.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60080182",
+   "stranica": "https://online.idea.rs/#!/products/60080182/13jul-vino-crv-epoha-0-75l"
+  },
+  {
+   "vino": "Baron de Rothberg Brut belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60002650",
+   "stranica": "https://online.idea.rs/#!/products/60002650/baron-de-rothberg-brut-belo-vino-0-75l"
+  },
+  {
+   "vino": "Bottega vino pen bottega gold 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 4772.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60100137",
+   "stranica": "https://online.idea.rs/#!/products/60100137/bottega-vino-pen-bottega-gold-0-75l"
+  },
+  {
+   "vino": "Brut dargent vino penušavo chardonnay 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1199.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60098930",
+   "stranica": "https://online.idea.rs/#!/products/60098930/brut-dargent-vino-penusavo-chardonnay-0-75l"
+  },
+  {
+   "vino": "Caldirola Prosecco vino Spumante Extra dry penušavo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1299.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60007803",
+   "stranica": "https://online.idea.rs/#!/products/60007803/caldirola-prosecco-vino-spumante-extra-dry-penusavo-vino-0-75l"
+  },
+  {
+   "vino": "Cielo E Terra vino penušavo prosecco cielo 0.2l cielo e terra",
+   "hozyaistvo": "",
+   "cena_rsd": 499.99,
+   "litrov": 0.2,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60108370",
+   "stranica": "https://online.idea.rs/#!/products/60108370/cielo-e-terra-vino-penusavo-prosecco-cielo-0-2l-cielo-e-terra"
+  },
+  {
+   "vino": "Henkell Trocken vino 0,2l",
+   "hozyaistvo": "",
+   "cena_rsd": 412.99,
+   "litrov": 0.2,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60000835",
+   "stranica": "https://online.idea.rs/#!/products/60000835/henkell-trocken-vino-0-2l"
+  },
+  {
+   "vino": "Henkell Trocken vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1179.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60010656",
+   "stranica": "https://online.idea.rs/#!/products/60010656/henkell-trocken-vino-0-75l"
+  },
+  {
+   "vino": "Jacob's Creek Chardonnay Pinot Noir Brut Cuvée belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1200.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60046218",
+   "stranica": "https://online.idea.rs/#!/products/60046218/jacob-s-creek-chardonnay-pinot-noir-brut-cuv-e-belo-vino-0-75l"
+  },
+  {
+   "vino": "J.P Chenet Brut penušavo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 966.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60045255",
+   "stranica": "https://online.idea.rs/#!/products/60045255/j-p-chenet-brut-penusavo-vino-0-75l"
+  },
+  {
+   "vino": "J.P. Chenet Ice Edition belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 799.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60065683",
+   "stranica": "https://online.idea.rs/#!/products/60065683/j-p-chenet-ice-edition-belo-vino-0-75l"
+  },
+  {
+   "vino": "Jp chenet vino penušavo divine gold muscat 0,75",
+   "hozyaistvo": "",
+   "cena_rsd": 1944.99,
+   "litrov": null,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60115662",
+   "stranica": "https://online.idea.rs/#!/products/60115662/jp-chenet-vino-penusavo-divine-gold-muscat-0-75"
+  },
+  {
+   "vino": "Jp chenet vino penušavo ice rose 1.5l",
+   "hozyaistvo": "",
+   "cena_rsd": 1979.99,
+   "litrov": 1.5,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60090525",
+   "stranica": "https://online.idea.rs/#!/products/60090525/jp-chenet-vino-penusavo-ice-rose-1-5l"
+  },
+  {
+   "vino": "Jp chenet vino penušavo ice white 1.5l",
+   "hozyaistvo": "",
+   "cena_rsd": 2147.99,
+   "litrov": 1.5,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60090524",
+   "stranica": "https://online.idea.rs/#!/products/60090524/jp-chenet-vino-penusavo-ice-white-1-5l"
+  },
+  {
+   "vino": "Kovacevic vino penušavo fresco bianco 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1369.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60090528",
+   "stranica": "https://online.idea.rs/#!/products/60090528/kovacevic-vino-penusavo-fresco-bianco-0-75l"
+  },
+  {
+   "vino": "La Marchesina \"Gran Dessert\" vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60004335",
+   "stranica": "https://online.idea.rs/#!/products/60004335/la-marchesina-gran-dessert-vino-0-75l"
+  },
+  {
+   "vino": "Martini Prosecco belo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1759.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60017670",
+   "stranica": "https://online.idea.rs/#!/products/60017670/martini-prosecco-belo-vino-0-75l"
+  },
+  {
+   "vino": "Mionetto Proseco Trevisio Brut penušavo brut vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1769.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60075404",
+   "stranica": "https://online.idea.rs/#!/products/60075404/mionetto-proseco-trevisio-brut-penusavo-brut-vino-0-75l"
+  },
+  {
+   "vino": "Prosecco Extra Dry Santomè vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1599.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60049076",
+   "stranica": "https://online.idea.rs/#!/products/60049076/prosecco-extra-dry-santom-vino-0-75l"
+  },
+  {
+   "vino": "Radgonski biser vino penušavo rose biser 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 619.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60078707",
+   "stranica": "https://online.idea.rs/#!/products/60078707/radgonski-biser-vino-penusavo-rose-biser-0-75l"
+  },
+  {
+   "vino": "Scanavino Prosecco Exra Dry vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1149.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60015096",
+   "stranica": "https://online.idea.rs/#!/products/60015096/scanavino-prosecco-exra-dry-vino-0-75l"
+  },
+  {
+   "vino": "Signore giuseppe vino penušavo rose prosecco 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1259.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60107680",
+   "stranica": "https://online.idea.rs/#!/products/60107680/signore-giuseppe-vino-penusavo-rose-prosecco-0-75l"
+  },
+  {
+   "vino": "Singore Giuspere Spumante Prosecco Exra dry penušavo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1139.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60069933",
+   "stranica": "https://online.idea.rs/#!/products/60069933/singore-giuspere-spumante-prosecco-exra-dry-penusavo-vino-0-75l"
+  },
+  {
+   "vino": "Sok gazirani bubble robby borovnica 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 376.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60119874",
+   "stranica": "https://online.idea.rs/#!/products/60119874/sok-gazirani-bubble-robby-borovnica-0-75l"
+  },
+  {
+   "vino": "Sok gazirani robby bubble jabuka 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 376.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60101218",
+   "stranica": "https://online.idea.rs/#!/products/60101218/sok-gazirani-robby-bubble-jabuka-0-75l"
+  },
+  {
+   "vino": "Sok gazirani robby bubble jagoda 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 376.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60101190",
+   "stranica": "https://online.idea.rs/#!/products/60101190/sok-gazirani-robby-bubble-jagoda-0-75l"
+  },
+  {
+   "vino": "Sok gazirani robby bubble malina 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 376.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60101191",
+   "stranica": "https://online.idea.rs/#!/products/60101191/sok-gazirani-robby-bubble-malina-0-75l"
+  },
+  {
+   "vino": "Sok gazirani robby bubble pomorandža mango 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 376.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60119873",
+   "stranica": "https://online.idea.rs/#!/products/60119873/sok-gazirani-robby-bubble-pomorandza-mango-0-75l"
+  },
+  {
+   "vino": "Vino belo penušavo prosecco romeo&juliet 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1339.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60106677",
+   "stranica": "https://online.idea.rs/#!/products/60106677/vino-belo-penusavo-prosecco-romeo-juliet-0-75l"
+  },
+  {
+   "vino": "Vino gazirano lambrusco 0.75l La Cacciatora",
+   "hozyaistvo": "",
+   "cena_rsd": 549.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60045134",
+   "stranica": "https://online.idea.rs/#!/products/60045134/vino-gazirano-lambrusco-0-75l-la-cacciatora"
+  },
+  {
+   "vino": "Vino penušavo cuvee la caccaiatora 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 749.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60127469",
+   "stranica": "https://online.idea.rs/#!/products/60127469/vino-penusavo-cuvee-la-caccaiatora-0-75l"
+  },
+  {
+   "vino": "Vino penušavo jp chenet ice rose 0.2l",
+   "hozyaistvo": "",
+   "cena_rsd": 442.99,
+   "litrov": 0.2,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60076284",
+   "stranica": "https://online.idea.rs/#!/products/60076284/vino-penusavo-jp-chenet-ice-rose-0-2l"
+  },
+  {
+   "vino": "Vino penušavo jp chenet ice rose 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1162.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60076282",
+   "stranica": "https://online.idea.rs/#!/products/60076282/vino-penusavo-jp-chenet-ice-rose-0-75l"
+  },
+  {
+   "vino": "Vino penušavo jp chenet ice 0.2l",
+   "hozyaistvo": "",
+   "cena_rsd": 442.99,
+   "litrov": 0.2,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60076283",
+   "stranica": "https://online.idea.rs/#!/products/60076283/vino-penusavo-jp-chenet-ice-0-2l"
+  },
+  {
+   "vino": "Vino penušavo la rouviere brut 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 999.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60118366",
+   "stranica": "https://online.idea.rs/#!/products/60118366/vino-penusavo-la-rouviere-brut-0-75l"
+  },
+  {
+   "vino": "Vino penušavo prosecco icy vila loren 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1299.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60127235",
+   "stranica": "https://online.idea.rs/#!/products/60127235/vino-penusavo-prosecco-icy-vila-loren-0-75l"
+  },
+  {
+   "vino": "Zlata Radgonska Penina penušavo vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1800.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Penušavo vino",
+   "tovar": "60050864",
+   "stranica": "https://online.idea.rs/#!/products/60050864/zlata-radgonska-penina-penusavo-vino-0-75l"
+  },
+  {
+   "vino": "Alexandrija kuve roze 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 950.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60009781",
+   "stranica": "https://online.idea.rs/#!/products/60009781/alexandrija-kuve-roze-0-75l"
+  },
+  {
+   "vino": "Barbara polusuvo rose vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 929.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60029875",
+   "stranica": "https://online.idea.rs/#!/products/60029875/barbara-polusuvo-rose-vino-0-75l"
+  },
+  {
+   "vino": "Doja rose vino 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 1069.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60068582",
+   "stranica": "https://online.idea.rs/#!/products/60068582/doja-rose-vino-0-75l"
+  },
+  {
+   "vino": "Džervin vino rose romansa zlatna 0.75l džervin",
+   "hozyaistvo": "",
+   "cena_rsd": 617.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60102269",
+   "stranica": "https://online.idea.rs/#!/products/60102269/dzervin-vino-rose-romansa-zlatna-0-75l-dzervin"
+  },
+  {
+   "vino": "Jacobs creek shraz rose vino 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1499.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60069878",
+   "stranica": "https://online.idea.rs/#!/products/60069878/jacobs-creek-shraz-rose-vino-0-75l"
+  },
+  {
+   "vino": "J.P. Chenet Grenache- Cinsault roze vino 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 882.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60045801",
+   "stranica": "https://online.idea.rs/#!/products/60045801/j-p-chenet-grenache-cinsault-roze-vino-0-75l"
+  },
+  {
+   "vino": "Kovačević Orfelin Roze-polusuvo roze vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 719.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60028523",
+   "stranica": "https://online.idea.rs/#!/products/60028523/kovacevic-orfelin-roze-polusuvo-roze-vino-0-75l"
+  },
+  {
+   "vino": "Kovačević rosetto vino 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 1249.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60042828",
+   "stranica": "https://online.idea.rs/#!/products/60042828/kovacevic-rosetto-vino-0-75l"
+  },
+  {
+   "vino": "Nikolas wines vino rose 1l balon nikolas wines",
+   "hozyaistvo": "",
+   "cena_rsd": 479.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60115069",
+   "stranica": "https://online.idea.rs/#!/products/60115069/nikolas-wines-vino-rose-1l-balon-nikolas-wines"
+  },
+  {
+   "vino": "Plantaže crnogorski Rose vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 749.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60010551",
+   "stranica": "https://online.idea.rs/#!/products/60010551/plantaze-crnogorski-rose-vino-0-75l"
+  },
+  {
+   "vino": "Plantaže Moje vino rose 1L",
+   "hozyaistvo": "",
+   "cena_rsd": 459.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60023771",
+   "stranica": "https://online.idea.rs/#!/products/60023771/plantaze-moje-vino-rose-1l"
+  },
+  {
+   "vino": "Rubin rose vino 0,75L",
+   "hozyaistvo": "",
+   "cena_rsd": 464.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60007357",
+   "stranica": "https://online.idea.rs/#!/products/60007357/rubin-rose-vino-0-75l"
+  },
+  {
+   "vino": "Rubin rose vino 1L",
+   "hozyaistvo": "",
+   "cena_rsd": 449.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60001949",
+   "stranica": "https://online.idea.rs/#!/products/60001949/rubin-rose-vino-1l"
+  },
+  {
+   "vino": "Stobi vino antigona rose 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 709.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60108939",
+   "stranica": "https://online.idea.rs/#!/products/60108939/stobi-vino-antigona-rose-0-75l"
+  },
+  {
+   "vino": "Stobi winery rose vino 1L",
+   "hozyaistvo": "",
+   "cena_rsd": 489.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60018090",
+   "stranica": "https://online.idea.rs/#!/products/60018090/stobi-winery-rose-vino-1l"
+  },
+  {
+   "vino": "Tikveš roze vino 1L",
+   "hozyaistvo": "",
+   "cena_rsd": 524.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60006892",
+   "stranica": "https://online.idea.rs/#!/products/60006892/tikves-roze-vino-1l"
+  },
+  {
+   "vino": "Trijumf rose vino 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1749.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60028488",
+   "stranica": "https://online.idea.rs/#!/products/60028488/trijumf-rose-vino-0-75l"
+  },
+  {
+   "vino": "Vinarija Molovin vino rose poligraf 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 559.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60107264",
+   "stranica": "https://online.idea.rs/#!/products/60107264/vinarija-molovin-vino-rose-poligraf-0-75l"
+  },
+  {
+   "vino": "Vino riporta rosato igt 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1119.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60123142",
+   "stranica": "https://online.idea.rs/#!/products/60123142/vino-riporta-rosato-igt-0-75l"
+  },
+  {
+   "vino": "Vino rose allure pink pinot grigio 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 879.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60118250",
+   "stranica": "https://online.idea.rs/#!/products/60118250/vino-rose-allure-pink-pinot-grigio-0-75l"
+  },
+  {
+   "vino": "Vino rose french life grenache merlot 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1249.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60108475",
+   "stranica": "https://online.idea.rs/#!/products/60108475/vino-rose-french-life-grenache-merlot-0-75l"
+  },
+  {
+   "vino": "Vino rose polusuvo veseli lala 1l",
+   "hozyaistvo": "",
+   "cena_rsd": 419.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60125916",
+   "stranica": "https://online.idea.rs/#!/products/60125916/vino-rose-polusuvo-veseli-lala-1l"
+  },
+  {
+   "vino": "Vino rose romansa 1l dzervin",
+   "hozyaistvo": "",
+   "cena_rsd": 499.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60102264",
+   "stranica": "https://online.idea.rs/#!/products/60102264/vino-rose-romansa-1l-dzervin"
+  },
+  {
+   "vino": "Vino rose u svitanje 0.75l plantaže 13 jul",
+   "hozyaistvo": "",
+   "cena_rsd": 1159.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60114449",
+   "stranica": "https://online.idea.rs/#!/products/60114449/vino-rose-u-svitanje-0-75l-plantaze-13-jul"
+  },
+  {
+   "vino": "Vino rose 0.75l 100 žena",
+   "hozyaistvo": "",
+   "cena_rsd": 1949.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60114388",
+   "stranica": "https://online.idea.rs/#!/products/60114388/vino-rose-0-75l-100-zena"
+  },
+  {
+   "vino": "Vino sainte marguerite symphonie rose 0.75l",
+   "hozyaistvo": "",
+   "cena_rsd": 3319.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60112409",
+   "stranica": "https://online.idea.rs/#!/products/60112409/vino-sainte-marguerite-symphonie-rose-0-75l"
+  },
+  {
+   "vino": "Vino soupcon de fruit rose de loire 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 899.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60108463",
+   "stranica": "https://online.idea.rs/#!/products/60108463/vino-soupcon-de-fruit-rose-de-loire-0-75l"
+  },
+  {
+   "vino": "Zvonko Bogdan vino rose sec 0,75l Supernova",
+   "hozyaistvo": "",
+   "cena_rsd": 1999.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60102318",
+   "stranica": "https://online.idea.rs/#!/products/60102318/zvonko-bogdan-vino-rose-sec-0-75l-supernova"
+  },
+  {
+   "vino": "Zvonko Bogdan vino rose 4 konja debela 0.75l zvonko bogdan",
+   "hozyaistvo": "",
+   "cena_rsd": 1549.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60014927",
+   "stranica": "https://online.idea.rs/#!/products/60014927/zvonko-bogdan-vino-rose-4-konja-debela-0-75l-zvonko-bogdan"
+  },
+  {
+   "vino": "Ždrebac rose vino 1l Vinarija Čoka",
+   "hozyaistvo": "",
+   "cena_rsd": 429.99,
+   "litrov": 1.0,
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "tovar": "60005935",
+   "stranica": "https://online.idea.rs/#!/products/60005935/zdrebac-rose-vino-1l-vinarija-coka"
+  }
+ ]
+}

@@ -15,9 +15,17 @@ Novela Sauvignon Blanc», «Janko Mesečina» — «Mesečina Penušavo Belo».
 — «Chardonnay» годится и «Chardonnay barrique», и «Classic Chardonnay», —
 цена не ставится: это разные вина, и выбирать между ними наугад нельзя.
 
+Совпадение по началу имени — единственное место, где решение принимается
+похожестью, и на нём же держатся два предохранителя. Первый: цвет,
+названный магазином в имени товара, обязан не противоречить нашему —
+иначе цена красного встаёт белому. Второй: чистить магазинное имя можно
+только от слов, которые вина не называют; цвет и сахар из имени не
+снимаются. Пары, сведённые похожестью, печатаются по `SVESTI_CENY_POKAZAT=1`
+— их надо перечитывать глазами, механической проверки тут нет.
+
 Пишет `ceny-vin.json`: ключ вина → цена, и отдельно список несведённого.
 """
-import importlib.util, json, pathlib, re, statistics, sys, collections
+import importlib.util, json, os, pathlib, re, statistics, sys, collections
 
 ZDES = pathlib.Path(__file__).resolve().parent
 
@@ -45,6 +53,42 @@ YARLYK = re.compile(r"^\s*(?:vino|stono|kvalitetno|vrhunsko|belo|crveno|"
 # редакция читала только один знак после запятой и полубутылку Маканы
 # («Makana 0.375L», 2970 динаров) приняла за обычную.
 OBEM = re.compile(r"\b(\d(?:[.,]\d+)?)\s*L\b", re.I)
+# Ярлык полки стоит не только в начале имени. Idea пишет его после имени
+# дома — «Aleksić vinarija vino belo bonaca 0,75l», — а объём в конце
+# мешает сведению по началу имени: «erdevik-bella-novela-0-75l» не
+# сходится с нашей «Bella Novela Sauvignon Blanc», потому что «0» и
+# «75l» встают посреди сравнения. Поэтому есть второй, вычищенный вид
+# имени; он пробуется, только когда обычный не дал пары.
+# Снимаются только слова, которые вина не называют и вин не различают.
+# Цвет и сахар («belo», «crveno», «roze», «suvo», «poluslatko») сюда не
+# входят нарочно: они стоят в именах самих вин и различают соседние
+# бутылки одного дома. Первая редакция снимала и их — и приписала
+# «Cilić Onyx Crveno» цену белого «Onyx Belo», а три разных «Tri Koze»
+# Ердевика свела в одно вино. Указатель с так же вычищенными нашими
+# именами от этого не спас: когда в доме есть только белый, красный
+# сходится с ним однозначно и молча.
+YARLYK_SLOVO = re.compile(r"\b(?:vino|vina|stono|kvalitetno|vrhunsko)\b", re.I)
+LYUBOJ_OBEM = re.compile(r"\b\d+(?:[.,]\d+)?\s*(?:l|ml)\b", re.I)
+# Сорт в поле хозяйства — ошибка источника, а не имя дома. У нас так
+# завелись два призрака: «Chardonnay» (сведён к Erdevik: у Decanter в
+# поле производителя стоял сорт, а линейка Omnibus Lector — эрдевицкая)
+# и «Prokupac» (DWWA 2021, вино 699180 — свести не с чем). В имени
+# магазина сорт стоит сплошь и рядом: «Vino chardonnay premium 0.75l
+# nikolas wines». По такому ключу цена Николаса ушла бы Эрдевику.
+SORT_NE_DOM = {"chardonnay", "prokupac", "merlot", "cabernet", "sauvignon",
+               "cabernet sauvignon", "sauvignon blanc", "tamjanika", "vranac",
+               "rizling", "riesling", "muskat", "muscat", "pinot", "pinot noir",
+               "frankovka", "grasevina", "smederevka", "traminac", "burgundac",
+               "syrah", "shiraz", "viognier", "malbec", "gamay"}
+
+
+def bez_yarlykov(imya):
+    """Имя без слов полки и без объёма. Пустое имя не возвращается:
+    у вина, названного одним «Roze», чистить нечего."""
+    korotko = LYUBOJ_OBEM.sub(" ", imya or "")
+    korotko = YARLYK_SLOVO.sub(" ", korotko)
+    korotko = re.sub(r"[\s,\-]+", " ", korotko).strip()
+    return korotko or (imya or "").strip()
 
 
 def chistoe_imya(imya, yarlyk=False):
@@ -72,6 +116,20 @@ def ne_ta_butylka(imya):
     return bool(sovpalo) and sovpalo.group(1).replace(",", ".") != "0.75"
 
 
+# Цвет, названный магазином прямо в имени товара. Ищется только в хвосте,
+# после снятого имени дома: «Belo Brdo» — хозяйство, а не белое вино.
+CVET_V_IMENI = [
+    ("белое", {"belo", "beli", "bela", "bele", "bijelo", "blanc", "white"}),
+    ("красное", {"crveno", "crveni", "crvena", "crno", "crna", "crni", "red"}),
+    ("розе", {"roze", "rose", "ruzicasto", "rosé"}),
+]
+
+
+def cvet_iz_imeni(slova_hvosta):
+    najdeno = {c for c, nabor in CVET_V_IMENI if nabor & set(slova_hvosta)}
+    return najdeno.pop() if len(najdeno) == 1 else None
+
+
 def slova(st, imya):
     return [c for c in st.klyuch(st.latinicej(imya or "")).split("-") if c]
 
@@ -81,11 +139,12 @@ def main():
     MAGAZINY = [("vinoteka", "vinoteka-ceny.json"),
                 ("winestars", "winestars-ceny.json"),
                 ("cerpromet", "cerpromet-ceny.json"),
-                ("maxi", "maxi-ceny.json")]
+                ("maxi", "maxi-ceny.json"),
+                ("idea", "idea-ceny.json")]
     # Супермаркет — не винотека: у него другая полка и другие цены.
     # Разделение нужно, чтобы можно было спросить отдельно «что взять
     # в супермаркете», а не усреднять две разные торговли в одну.
-    SUPERMARKET = {"maxi"}
+    SUPERMARKET = {"maxi", "idea"}
     syroe = {"vina": [], "istochnik": [], "sobrano": ""}
     for imya, fajl in MAGAZINY:
         put = ZDES / fajl
@@ -109,12 +168,41 @@ def main():
         syroe["sobrano"] = max(syroe["sobrano"], d["sobrano"])
     vina = [json.loads(s) for s in (ZDES / "vina.jsonl").read_text(encoding="utf-8").splitlines() if s.strip()]
 
+    # Полка супермаркета сама по себе — величина, на которую в тексте
+    # ссылаются («медиана бутылки столько-то»). Считается здесь, чтобы
+    # число в книге не расходилось с тем, что лежит в файлах.
+    polka = [z for z in syroe["vina"]
+             if z["magazin"] in SUPERMARKET and z.get("cena_rsd")]
+    obychnye = [z["cena_rsd"] for z in polka
+                if (z.get("litrov") or 0.75) == 0.75]
+    polka_svodka = {
+        "magaziny": sorted({z["magazin"] for z in polka}),
+        "pozicij_s_cenoj": len(polka),
+        "iz_nih_0_75": len(obychnye),
+        "mediana_0_75": round(statistics.median(obychnye)) if obychnye else None,
+    }
+    vinoteki = [z["cena_rsd"] for z in syroe["vina"]
+                if z["magazin"] not in SUPERMARKET and z.get("cena_rsd")
+                and (z.get("litrov") or 0.75) == 0.75]
+    polka_svodka["mediana_vinoteki"] = (round(statistics.median(vinoteki))
+                                        if vinoteki else None)
+
     # Наши вина, разложенные по дому: имя в словах → ключ.
     po_domu = collections.defaultdict(list)
+    # То же, но именами без слов полки и без объёма. Второй указатель
+    # нужен, чтобы вычищенное имя магазина сравнивалось с так же
+    # вычищенным нашим: «Aurelius Belo» и «Aurelius Crveni» без цвета
+    # обе становятся «Aurelius», подходят обе — и цена не ставится
+    # ни одной. Чистить только магазинное имя было бы опасно: цена
+    # белого встала бы красному, будь красный в доме единственным.
+    po_domu_bez = collections.defaultdict(list)
     for v in vina:
         po_domu[st.klyuch_hozyaistva(v["hozyaistvo"])].append(
             (slova(st, v["vino"]), v["klyuch"]))
+        po_domu_bez[st.klyuch_hozyaistva(v["hozyaistvo"])].append(
+            (slova(st, bez_yarlykov(v["vino"])), v["klyuch"]))
     nashi = {v["klyuch"] for v in vina}
+    nash_cvet = {v["klyuch"]: v.get("cvet") for v in vina}
 
     def dom_iz_imeni(imya):
         """Хозяйство по началу имени вина.
@@ -128,6 +216,8 @@ def main():
         chasti = (imya or "").split()
         for skolko in range(min(4, len(chasti) - 1), 0, -1):
             nachalo = " ".join(chasti[:skolko])
+            if nachalo.lower() in SORT_NE_DOM:
+                continue
             if st.klyuch_hozyaistva(nachalo) in po_domu:
                 return nachalo
         return ""
@@ -165,12 +255,78 @@ def main():
             schet["хозяйства нет вовсе"] += 1
             continue
         # Имя магазина без имени дома впереди — с ним и сравниваем.
-        moi = slova(st, imya)
-        bez_doma = st.klyuch_vina(z["hozyaistvo"], imya).split("-")
-        bez_doma = bez_doma[len(hoz.split("-")):]
-        podoshli = [k for nash, k in po_domu[hoz]
-                    if nash[:len(bez_doma)] == bez_doma or bez_doma[:len(nash)] == nash]
+        def hvost(imya_magazina):
+            """Имя магазина без имени дома впереди, в словах.
+
+            Отрезать по числу слов дома нельзя: `klyuch_vina` снимает имя
+            дома не всегда целиком. У товара «Vino rose Zvonko Bogdan»
+            ключ выходит `zvonko-bogdan-zvonko`, и хвост «zvonko» сошёлся
+            с нашим «Zvonko 4 Bogdan Konja Debela» — розе получило цену
+            совсем другого вина. Поэтому слова дома снимаются, пока они
+            идут: у этого товара хвост пустеет, и цена не ставится вовсе.
+            Так и надо: имя вина здесь съел ярлык полки, а «rose» —
+            и есть имя вина.
+            """
+            polnyj = [c for c in
+                      st.klyuch_vina(z["hozyaistvo"], imya_magazina).split("-") if c]
+            slova_doma = set(hoz.split("-"))
+            while polnyj and polnyj[0] in slova_doma:
+                polnyj.pop(0)
+            return polnyj
+
+        def podobrat(bez_doma, indeks):
+            """Пустой хвост — не совпадение, а его отсутствие: «Kovačević
+            crveno vino» после чистки не называет вина вовсе, и подошли бы
+            все вина дома, а в доме с единственным вином — оно одно."""
+            if not bez_doma:
+                return []
+            # Совпадение слово в слово сильнее совпадения по началу.
+            # «Trijumf Gold» подходит и нашему «Trijumf Gold», и нашему
+            # «Trijumf» — но второе годится лишь потому, что оно короче.
+            # Без этого предпочтения обе кандидатуры считались спорными
+            # и цена не ставилась ни одной, хотя имя названо полностью.
+            tochno = [k for nash, k in indeks[hoz] if nash == bez_doma]
+            if len(tochno) == 1:
+                return tochno
+            return [k for nash, k in indeks[hoz]
+                    if nash[:len(bez_doma)] == bez_doma
+                    or bez_doma[:len(nash)] == nash]
+
+        podoshli = podobrat(hvost(imya), po_domu)
+        kak = "по началу имени"
+        # Обычное имя пары не дало — пробуем вычищенное. Магазин пишет
+        # на ценнике то, чего в имени вина нет: объём («Erdevik vino
+        # bella novela 0,75l») и слова полки посреди имени («Aleksić
+        # vinarija vino belo bonaca»). Второй заход идёт по указателю,
+        # где так же вычищены и наши имена, — иначе чистка сама
+        # порождала бы ложные совпадения.
+        chistoe = bez_yarlykov(imya)
+        if not podoshli and chistoe != imya:
+            podoshli = podobrat(hvost(chistoe), po_domu_bez)
+            kak = "по вычищенному имени"
+        # Магазин различает вина тоньше нас: «Tri Morave» у него отдельно
+        # белое, красное и розе, у нас — одна строка. Пока цвета сходятся
+        # или неизвестны, это просто разброс; когда магазин прямо назвал
+        # цвет, а у нашего вина стоит другой, — это разные вина, и цена
+        # красного встала бы белому. Сравнивается только явный цвет
+        # и только с нашими тремя: «десертное» и «игристое» цвету
+        # магазина не противоречат.
+        # Цвет ищется во всех словах имени товара, кроме слов имени
+        # дома: супермаркет пишет его ярлыком впереди («Vino crveno
+        # Kadarka Tonkovic»), а «Belo Brdo» — хозяйство, и его «belo»
+        # цветом считать нельзя.
+        nazvan = cvet_iz_imeni(set(slova(st, z["vino"])) - set(hoz.split("-")))
+        if nazvan:
+            podoshli = [k for k in podoshli
+                        if nash_cvet.get(k) in ("", None, nazvan)
+                        or nash_cvet.get(k) not in ("белое", "красное", "розе")]
         if len(podoshli) == 1:
+            # Сведение по началу имени — единственное место, где решение
+            # принимается не точным ключом, а похожестью. Пары печатаются
+            # по `SVESTI_CENY_POKAZAT=1`: их надо перечитывать глазами,
+            # механическая проверка тут не поможет.
+            if os.environ.get("SVESTI_CENY_POKAZAT"):
+                print("   %-14s %-52s → %s" % (kak, z["vino"][:52], podoshli[0]))
             schet["сошлось по началу имени"] += 1
             po_magazinam[podoshli[0]][z["magazin"]].append(z["cena_rsd"])
             if z.get("tip_vina"):
@@ -230,9 +386,23 @@ def main():
         "istochnik": syroe["istochnik"],
         "sobrano": syroe["sobrano"],
         "magazinov_u_vina": {k: len(v) for k, v in po_magazinu.items()},
+        "polka_supermarketa": {
+            **polka_svodka,
+            # Сколько вин полки в винотеку не попадают вовсе: это и есть
+            # довод, зачем супермаркет собирать отдельно.
+            "tolko_v_supermarkete": sum(
+                1 for k, v in po_magazinu.items()
+                if any(m in SUPERMARKET for m in v)
+                and not any(m not in SUPERMARKET for m in v)),
+        },
         "ceny": cena,
-        "supermarket": {k: v[m] for k, v in po_magazinu.items()
-                        for m in v if m in SUPERMARKET},
+        # Супермаркетов несколько, и цена у них не одна: берётся
+        # середина по тем из них, где вино нашлось. Первая редакция
+        # писала цену последнего по списку — то есть какую придётся.
+        "supermarket": {k: round(statistics.median(
+                            [c for m, c in v.items() if m in SUPERMARKET]))
+                        for k, v in po_magazinu.items()
+                        if any(m in SUPERMARKET for m in v)},
         "sahar": sahar,
         "po_magazinam": razbros,
         "podhodit_neskolko": spor,

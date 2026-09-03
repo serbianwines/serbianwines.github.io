@@ -3512,23 +3512,11 @@
    "gorod": "Banja",
    "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Banja, Šumadijski okrug",
+   "gde": "Banja, Aranđelovac",
    "pokazaniya": [
     "registar: Banja, Šumadijski okrug",
     "vivino-adres: Šumadija",
-    "vivino: Šumadija-Great Morava"
-   ]
-  },
-  "legat-1903": {
-   "hozyaistvo": "legat-1903",
-   "region": "Centralna Srbija",
-   "rejon": "Šumadijski rejon",
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "wineart",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
+    "vivino: Šumadija-Great Morava",
     "wineart: Šumadijski rejon"
    ]
   },

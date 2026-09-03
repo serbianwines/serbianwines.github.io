@@ -200,7 +200,11 @@ def main():
                 continue
             if re.match(r"\s*(rakija|spricer|viljamovka)\b", z["vino"], re.I):
                 continue
-            syroe["vina"].append({**z, "magazin": imya})
+            # Строка доставки помечается отдельным магазином, чтобы её
+            # можно было отодвинуть, когда есть полочная цена.
+            syroe["vina"].append(
+                {**z, "magazin": "dostavka" if z.get("kanal") == "dostavka"
+                 else imya})
         syroe["istochnik"].append(d["istochnik"])
         syroe["sobrano"] = max(syroe["sobrano"], d["sobrano"])
     vina = [json.loads(s) for s in (ZDES / "vina.jsonl").read_text(encoding="utf-8").splitlines() if s.strip()]
@@ -437,6 +441,15 @@ def main():
     # была «Rezerva Crveno» в деревянной шкатулке. Такую цену не ставим,
     # а записываем в спорные.
     PREDEL = 1.25
+    # Цена в приложении доставки бывает с наценкой: Wolt продаёт вина
+    # Легата из «Vinoteka Beograd» на восемнадцать процентов дороже, чем
+    # сама винотека. Поэтому такая строка идёт в счёт только там, где
+    # другой цены нет вовсе: лучше цена с наценкой, чем никакой, но хуже
+    # полочной.
+    for k, magaziny in list(po_magazinam.items()):
+        if len(magaziny) > 1 and "dostavka" in magaziny:
+            magaziny.pop("dostavka")
+
     cena, razbros, po_magazinu = {}, {}, {}
     for k, magaziny in po_magazinam.items():
         chistye = {}

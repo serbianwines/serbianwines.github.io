@@ -9,7 +9,7 @@
   "maxi.rs, раздел «Пиће, кафа и чај → Вино», сохранённая страница",
   "maxi.rs/cenovnici, гипермаркеты «Mega Maxi», ценовник за 02-09-2026",
   "online.idea.rs, раздел «Вино», сохранённые страницы",
-  "Wolt, поиск «grumen», снимки экрана автора 3 сентября 2026"
+  "Wolt, поиск «grumen» и «LEGAT 1903», снимки экрана автора 3 сентября 2026"
  ],
  "sobrano": "2026-09-03",
  "magazinov_u_vina": {
@@ -571,7 +571,7 @@
   "pusula-cabernet": 1,
   "trivanovic-lex": 1,
   "durdic-sauvignon-blanc": 1,
-  "grumen-petit-verdot": 2,
+  "grumen-petit-verdot": 1,
   "vinarska-kuca-spasic-rujno": 1,
   "despotika-nemir": 1,
   "belo-brdo-marselan": 1,
@@ -604,10 +604,10 @@
   "iz_nih_0_75": 887,
   "mediana_0_75": 1350,
   "mediana_vinoteki": 1782,
-  "tolko_v_supermarkete": 61,
-  "vin_v_oboih": 80,
-  "nacenka_supermarketa": 1.19,
-  "deshevle_v_supermarkete": 5
+  "tolko_v_supermarkete": 62,
+  "vin_v_oboih": 79,
+  "nacenka_supermarketa": 1.191,
+  "deshevle_v_supermarkete": 4
  },
  "ceny": {
   "100-zena-madame-merlette": 4090,
@@ -1168,7 +1168,7 @@
   "pusula-cabernet": 1978,
   "trivanovic-lex": 1639,
   "durdic-sauvignon-blanc": 1519,
-  "grumen-petit-verdot": 1447,
+  "grumen-petit-verdot": 1279,
   "vinarska-kuca-spasic-rujno": 1119,
   "despotika-nemir": 1694,
   "belo-brdo-marselan": 3399,
@@ -2707,10 +2707,6 @@
   "grumen-sauvignon-blanc": {
    "maxi-cenovnik": 1119,
    "vruchnuyu": 1119
-  },
-  "grumen-petit-verdot": {
-   "maxi-cenovnik": 1279,
-   "vruchnuyu": 1615
   }
  },
  "podhodit_neskolko": [

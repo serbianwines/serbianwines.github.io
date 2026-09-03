@@ -35,6 +35,22 @@ STROGOST = {"decanter": 3, "awc-vienna": 2, "iwc": 2, "cmb": 2,
 STUPEN = {"best-in-show": 6, "platina": 5, "dvojno-zlato": 5, "grand-gold": 5,
           "veliko-zlato": 5, "trofej": 5, "zlato": 4, "srebro": 2,
           "bronza": 1, "commended": 0.5}
+# Годовой выбор vino.rs даёт не медаль, а место в десятке. Лестница та же
+# по смыслу: насколько отличие редкое. Первое место в национальном
+# годовом выборе, где участвует около сотни профессионалов, стоит золота;
+# второе и третье — серебра; остальная десятка — как «commended»:
+# замечено, но не отмечено. Это не измерение, а соглашение, и его видно.
+MESTO_V_DESYATKE = {1: 4, 2: 2, 3: 2}
+MESTO_PROCHEE = 0.5
+
+
+def stupen(mesto):
+    """Вес отличия: медаль по имени, место в десятке — по номеру."""
+    if mesto in STUPEN:
+        return STUPEN[mesto]
+    if (mesto or "").isdigit():
+        return MESTO_V_DESYATKE.get(int(mesto), MESTO_PROCHEE)
+    return 1
 
 # Главы: имя → рејоны действующей рејонизације. Чачанско-краљевачки стоит
 # в Трем Моравама: Западна Морава — одна из трёх Морава, и Трстеник
@@ -90,7 +106,7 @@ def razobrat():
     for z in nagrady:
         medali[z["klyuch_vina"]].append(z)
 
-    ochki = lambda k: sum(STROGOST.get(z["istochnik"], 1) * STUPEN.get(z["mesto"], 1)
+    ochki = lambda k: sum(STROGOST.get(z["istochnik"], 1) * stupen(z["mesto"])
                           for z in medali[k])
     # Рејон вина — свой, если конкурс объявил происхождение винограда;
     # иначе рејон дома. Книга о терруаре, и место у вина от лозы.

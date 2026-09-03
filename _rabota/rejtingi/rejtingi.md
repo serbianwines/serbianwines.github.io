@@ -74,12 +74,12 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|---|
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 | — |
 | Deurić · La Rem Chardonnay | 97 | — | 21 | 4025 |
-| Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 | 4200 |
-| Matalj · Kremen Kamen | 97 | — | 37 | 9191 |
+| Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 | 4550 |
+| Matalj · Kremen Kamen | 97 | — | 44 | 9191 |
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
-| Vinčić · Grašac | 97 | 4.3 | 34 | — |
+| Vinčić · Grašac | 97 | 4.3 | 37 | 17385 |
 | Arsenijević · Kaberne | 96 | — | 5 | — |
-| Bikicki · Uncensored | 96 | 4.0 | 36 | 2871 |
+| Bikicki · Uncensored | 96 | 4.0 | 43 | 2871 |
 | Ivanović · Prokupac Gaga | 96 | — | — | — |
 | La Gora · Aria | 96 | — | 5 | — |
 
@@ -88,19 +88,19 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 | — |
-| Matalj · Kremen Kamen | 97 | — | 37 | 9191 |
+| Matalj · Kremen Kamen | 97 | — | 44 | 9191 |
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
 | Arsenijević · Kaberne | 96 | — | 5 | — |
-| Aleksandrović · Regent Reserve | 95 | 4.2 | 57 | 2158 |
+| Aleksandrović · Regent Reserve | 95 | 4.2 | 59 | 2158 |
 
 ## Белые: пятёрка страны
 
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
 | Deurić · La Rem Chardonnay | 97 | — | 21 | 4025 |
-| Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 | 4200 |
-| Vinčić · Grašac | 97 | 4.3 | 34 | — |
-| Bikicki · Uncensored | 96 | 4.0 | 36 | 2871 |
+| Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 | 4550 |
+| Vinčić · Grašac | 97 | 4.3 | 37 | 17385 |
+| Bikicki · Uncensored | 96 | 4.0 | 43 | 2871 |
 | La Gora · Aria | 96 | — | 5 | — |
 
 ## Розе: пятёрка страны
@@ -108,7 +108,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
 | Budimir · Svb Rosa | 94 | 4.2 | — | 4410 |
-| Zvonko Bogdan · Rosé Sec | 92 | 4.0 | 18 | 1680 |
+| Zvonko Bogdan · Rosé Sec | 92 | 4.0 | 24 | 1680 |
 | Doja · Rose | 91 | 3.5 | 5 | 1070 |
 | Verkat · Roze | 91 | 3.9 | 8 | — |
 | Vinska Kuća Rajić · Rosé | 91 | — | 9 | — |
@@ -124,75 +124,75 @@ Vivino в стобалльную, когда балла критика не бы
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
 | Stemina winery · Draga | 94 | 4.5 | 6 | — |
 | Tri Oraha · 750 Barrique Barrels | — | 4.5 | — | 7365 |
-| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 58 | 4642 |
+| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 62 | 4642 |
+| Atelje vina Šapat · Àkcent Réserve | — | 4.4 | — | — |
 | Bjelica · Babaroga Chardonnay | — | 4.4 | — | 5016 |
 | Bjelica · Babaroga Crvena | — | 4.4 | — | 6750 |
 | Braća Rajković · 33 Red | — | 4.4 | — | — |
-| Cilić · Merlot Manifest Grand Cur | — | 4.4 | — | — |
 
 ## Лучше, чем за них просят
 
-Здесь не «дёшево и хорошо», а «дороже своей цены». Цена переводится в ожидаемый балл, и вино оценивается превышением над ожиданием. Ожидание плоское: удвоение цены обещает всего 0.9 балла, связь слабая (коэффициент 0.26 по 294 винам, разброс остатка 2.8 балла). Это и есть главный вывод: **в Сербии цена почти не предсказывает качество**, и покупать по ценнику здесь бессмысленнее, чем где-либо.
+Здесь не «дёшево и хорошо», а «дороже своей цены». Цена переводится в ожидаемый балл, и вино оценивается превышением над ожиданием. Ожидание плоское: удвоение цены обещает всего 1.0 балла, связь слабая (коэффициент 0.28 по 290 винам, разброс остатка 2.8 балла). Это и есть главный вывод: **в Сербии цена почти не предсказывает качество**, и покупать по ценнику здесь бессмысленнее, чем где-либо.
 
 | Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|---|
-| Deurić · La Rem Chardonnay | +6.0 | 97 | — | 21 | 4025 |
-| Erdevik · Omnibus Lector Chardonnay | +5.9 | 97 | 4.3 | 66 | 4200 |
-| Virtus · Morava | +5.5 | 95 | 3.9 | 12 | 1310 |
-| Bikicki · Uncensored | +5.4 | 96 | 4.0 | 36 | 2871 |
-| Doja · Prokupac | +5.4 | 95 | 3.9 | 70 | 1460 |
-| Vinum · Grašac Beli | +5.3 | 95 | 3.9 | 41 | 1530 |
+| Deurić · La Rem Chardonnay | +5.9 | 97 | — | 21 | 4025 |
+| Erdevik · Omnibus Lector Chardonnay | +5.7 | 97 | 4.3 | 66 | 4550 |
+| Virtus · Morava | +5.6 | 95 | 3.9 | 12 | 1310 |
+| Doja · Prokupac | +5.4 | 95 | 3.9 | 74 | 1460 |
+| Bikicki · Uncensored | +5.4 | 96 | 4.0 | 43 | 2871 |
+| Vinum · Grašac Beli | +5.2 | 95 | 3.9 | 49 | 1630 |
 | Zvonko Bogdan · Chardonnay | +4.9 | 95 | 4.0 | 54 | 2000 |
-| Matalj · Cuvée Bukovski | +4.9 | 95 | 4.0 | 42 | 2012 |
+| Matalj · Cuvée Bukovski | +4.9 | 95 | 4.0 | 48 | 2012 |
 | Matijašević Vinogradi · SoviNoa | +4.9 | 95 | — | 15 | 2122 |
-| Matalj · Kremen Kamen | +4.9 | 97 | — | 37 | 9191 |
+| Aleksandrović · Regent Reserve | +4.8 | 95 | 4.2 | 59 | 2158 |
 
 Хвост того же ряда — вино, которое просит больше, чем даёт:
 
 | Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|---|
-| Fruškogorski · Tri Sunca Traminac Kasna Berba | -8.6 | 84 | — | 2 | 13005 |
-| Lakićević · Upupa | -8.2 | 82 | — | 4 | 2282 |
-| Lakićević · Merula | -6.9 | 84 | — | 8 | 3762 |
-| Arsenijević · Starosedelac | -6.8 | 83 | — | 1 | 1619 |
+| Fruškogorski · Tri Sunca Traminac Kasna Berba | -8.8 | 84 | — | 2 | 13005 |
+| Lakićević · Upupa | -8.3 | 82 | — | 4 | 2282 |
+| Lakićević · Merula | -7.0 | 84 | — | 10 | 3762 |
+| Arsenijević · Starosedelac | -6.7 | 83 | — | 1 | 1619 |
 | Lakićević · Solaris | -6.6 | 84 | 4.2 | 5 | 2952 |
 
 ## Если в кармане 2000 динаров
 
-Другой вопрос и другой ответ: не «что выгодно», а «что взять сегодня». Цена известна у 294 отобранных вин, медиана 1845 динаров.
+Другой вопрос и другой ответ: не «что выгодно», а «что взять сегодня». Цена известна у 290 отобранных вин, медиана 1834 динара.
 
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
-| Doja · Prokupac | 95 | 3.9 | 70 | 1460 |
-| Vinum · Grašac Beli | 95 | 3.9 | 41 | 1530 |
+| Doja · Prokupac | 95 | 3.9 | 74 | 1460 |
+| Vinum · Grašac Beli | 95 | 3.9 | 49 | 1630 |
 | Virtus · Morava | 95 | 3.9 | 12 | 1310 |
 | Zvonko Bogdan · Chardonnay | 95 | 4.0 | 54 | 2000 |
-| Erdevik · Trianon | 94 | 4.1 | 12 | 1774 |
-| Ivanović · Prokupac | 94 | 3.9 | 32 | 1640 |
-| Jović · Vranac Potrkanjski | 94 | — | 19 | 1635 |
-| Temet · Tri Morave Crveno Reserve | 94 | — | — | 1660 |
+| Erdevik · Trianon | 94 | 4.1 | 14 | 1774 |
+| Ivanović · Prokupac | 94 | 3.9 | 35 | 1640 |
+| Jović · Vranac Potrkanjski | 94 | — | 28 | 1635 |
 | Verkat · Malvazija | 94 | 3.8 | 16 | 1606 |
-| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 13 | 1399 |
+| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 14 | 1399 |
+| Deurić · Aksiom | 93 | 4.1 | 39 | 1920 |
 
 ## Что взять в супермаркете
 
-Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 на полках Idea и Maxi — 1350 динаров против 1782 у винотек. Из 887 обычных бутылок с нашими таблицами сошлись 129, и 53 из этих 129 в винотеке нет вовсе. Вот те, о которых есть что сказать.
+Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 на полках Idea и Maxi — 1350 динаров против 1782 у винотек. Из 887 обычных бутылок с нашими таблицами сошлись 130, и 53 из этих 130 в винотеке нет вовсе. Вот те, о которых есть что сказать.
 
-Дешевле там, однако, не то же вино, а другое. Из 76 вин, которые продаются и в супермаркете, и в винотеке, дешевле в супермаркете 4: одна и та же бутылка на полке стоит в среднем на 19% дороже. В супермаркет идут не за скидкой на знакомое вино, а за тем, чего в винотеке нет.
+Дешевле там, однако, не то же вино, а другое. Из 77 вин, которые продаются и в супермаркете, и в винотеке, дешевле в супермаркете 4: одна и та же бутылка на полке стоит в среднем на 19% дороже. В супермаркет идут не за скидкой на знакомое вино, а за тем, чего в винотеке нет.
 
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
-| Doja · Prokupac | 95 | 3.9 | 70 | 1579 |
+| Doja · Prokupac | 95 | 3.9 | 74 | 1579 |
 | Zvonko Bogdan · Chardonnay | 95 | 4.0 | 54 | 2470 |
 | Matijašević Vinogradi · SoviNoa | 95 | — | 15 | 2769 |
-| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 92 | 3800 |
-| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 13 | 1399 |
+| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 94 | 3800 |
+| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 14 | 1399 |
 | Verkat · Malvazija | 94 | 3.8 | 16 | 1450 |
-| Ivanović · Prokupac | 94 | 3.9 | 32 | 1999 |
-| Erdevik · Trianon | 94 | 4.1 | 12 | 2459 |
+| Ivanović · Prokupac | 94 | 3.9 | 35 | 1999 |
+| Erdevik · Trianon | 94 | 4.1 | 14 | 2459 |
 | Ivanović · No 1/2 | 94 | 4.3 | 40 | 4369 |
 | Temet · Ergo | 94 | — | 70 | 4369 |
-| Deurić · Severna Morava | 93 | 3.9 | 27 | 1699 |
+| Deurić · Severna Morava | 93 | 3.9 | 32 | 1699 |
 | Matijašević Vinogradi · Belina | 93 | 3.9 | 30 | 1919 |
 
 ## То же, по мнению покупателей
@@ -201,10 +201,10 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
-| Aleksandrović · Prokupac | 92 | 4.2 | 17 | 1770 |
+| Aleksandrović · Prokupac | 92 | 4.2 | 18 | 1770 |
 | Draganić · Silueta Sauvignon Blanc | — | 4.2 | — | 1667 |
-| Lastar · Tamjanika | 90 | 4.2 | 21 | 1740 |
-| MV Vinarija · Tamjanika | — | 4.2 | 2 | 1730 |
+| Lastar · Tamjanika | 90 | 4.2 | 22 | 1740 |
+| MV Vinarija · Tamjanika | — | 4.2 | 8 | 1730 |
 | Manastir Bukovo · Filigran Cabernet Sauvignon | 90 | 4.2 | 9 | 1910 |
 | Manastir Bukovo · Filigran Merlot | 87 | 4.2 | 4 | 1500 |
 | Vinarija 100 Žena · Monsieur Merlot Premium | — | 4.2 | — | 1440 |
@@ -222,15 +222,15 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 |
-| Vinum · Grašac 26a | 94 | 4.0 | 45 |
+| Vinum · Grašac Beli | 95 | 3.9 | 49 |
+| Vinum · Grašac 26a | 94 | 4.0 | 46 |
+| Bikicki · Uncensored | 96 | 4.0 | 43 |
 | Erdevik · Stifler's Mom Shiraz | 95 | 4.3 | 42 |
-| Vinum · Grašac Beli | 95 | 3.9 | 41 |
 | Vinarija Dumo · Pinot Noir | 90 | 3.9 | 40 |
 | Deurić · Aksiom | 93 | 4.1 | 39 |
-| Bikicki · Uncensored | 96 | 4.0 | 36 |
+| Vinčić · Grašac | 97 | 4.3 | 37 |
 | Veritas Ćuković · Momentum Cabernet Sauvignon | 95 | 4.4 | 36 |
-| Šapat · Atila Chardonnay | 95 | 4.3 | 35 |
-| Vinčić · Grašac | 97 | 4.3 | 34 |
+| Atelje vina Šapat · Atila Chardonnay | 95 | 4.3 | 35 |
 
 **Мнение экспертов**
 
@@ -238,29 +238,29 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Deurić · La Rem Chardonnay | 97 | — | 21 |
 | Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 |
-| Vinčić · Grašac | 97 | 4.3 | 34 |
-| Bikicki · Uncensored | 96 | 4.0 | 36 |
+| Vinčić · Grašac | 97 | 4.3 | 37 |
+| Bikicki · Uncensored | 96 | 4.0 | 43 |
 | La Gora · Aria | 96 | — | 5 |
+| Atelje vina Šapat · Atila Chardonnay | 95 | 4.3 | 35 |
 | BT Winery · King Supreme Limited Edition Marselan | 95 | 4.3 | 12 |
 | BT Winery · Mister Marselan | 95 | 4.1 | 18 |
-| Chichateau · Chi Chardonnay | 95 | 4.2 | 7 |
+| Chichateau · Chi Chardonnay | 95 | 4.2 | 6 |
 | Erdevik · Marlon Delon Cabernet Sauvignon - Merlot | 95 | 4.3 | 24 |
-| La Gora · Bello | 95 | — | 19 |
 
 **Vox populi**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
+| Atelje vina Šapat · Àkcent Réserve | — | 4.4 | — |
 | Bjelica · Babaroga Chardonnay | — | 4.4 | — |
 | Bjelica · Babaroga Crvena | — | 4.4 | — |
 | Veritas Ćuković · Momentum Cabernet Sauvignon | 95 | 4.4 | 36 |
-| Šapat · Àkcent Réserve | — | 4.4 | — |
+| Atelje vina Šapat · Atila Chardonnay | 95 | 4.3 | 35 |
 | BT Winery · King Supreme Limited Edition Marselan | 95 | 4.3 | 12 |
 | Dukay-Sagmeister · ZZ Zero | — | 4.3 | — |
-| Erdevik · Grand Trianon | 93 | 4.3 | 15 |
+| Erdevik · Grand Trianon | 93 | 4.3 | 17 |
 | Erdevik · Marlon Delon Cabernet Sauvignon - Merlot | 95 | 4.3 | 24 |
 | Manufaktura Spasić · Tamjanika | — | 4.3 | — |
-| Veritas Ćuković · Momentum | 95 | 4.3 | 21 |
 
 **Согласие трёх**
 
@@ -268,14 +268,14 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 |
 | Erdevik · Stifler's Mom Shiraz | 95 | 4.3 | 42 |
+| Vinčić · Grašac | 97 | 4.3 | 37 |
 | Veritas Ćuković · Momentum Cabernet Sauvignon | 95 | 4.4 | 36 |
-| Šapat · Atila Chardonnay | 95 | 4.3 | 35 |
-| Vinčić · Grašac | 97 | 4.3 | 34 |
+| Atelje vina Šapat · Atila Chardonnay | 95 | 4.3 | 35 |
 | Deurić · Aksiom | 93 | 4.1 | 39 |
-| Veritas Ćuković · Momentum | 95 | 4.3 | 21 |
 | Vinarija Frug · Chardonnay Signum | 92 | 4.3 | 31 |
+| Veritas Ćuković · Momentum | 95 | 4.3 | 21 |
 | BT Winery · Mister Marselan | 95 | 4.1 | 18 |
-| Bikicki · Uncensored | 96 | 4.0 | 36 |
+| Bikicki · Uncensored | 96 | 4.0 | 43 |
 
 **Красные: тройка и запас**
 
@@ -293,8 +293,8 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Deurić · La Rem Chardonnay | 97 | — | 21 |
 | Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 |
-| Vinčić · Grašac | 97 | 4.3 | 34 |
-| Bikicki · Uncensored | 96 | 4.0 | 36 |
+| Vinčić · Grašac | 97 | 4.3 | 37 |
+| Bikicki · Uncensored | 96 | 4.0 | 43 |
 | La Gora · Aria | 96 | — | 5 |
 
 **Розе: тройка и запас**
@@ -302,10 +302,10 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Verkat · Roze | 91 | 3.9 | 8 |
+| Atelje vina Šapat · šU-šU Blaufrankisch | 90 | — | 6 |
 | Erdevik · Nostra | 90 | — | 6 |
 | Vinarija Ilić-Nijemčević · IG | 90 | — | 13 |
-| Šapat · šU-šU Blaufrankisch | 90 | — | 6 |
-| Vinarium winery · Pinoranž | 89 | 3.7 | 17 |
+| Vinarium winery · Pinoranž | 89 | 3.7 | 18 |
 
 
 ## Суботичко-хоргошка пешчара
@@ -314,13 +314,13 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 92 |
-| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 63 |
+| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 94 |
+| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 65 |
 | Драгић Винарија (Vina Dragic) · Carski Drum Manzoni | 90 | — | 21 |
 | Драгић Винарија (Vina Dragic) · Crni Biser | 94 | — | 21 |
+| DiBonis Winery · Di Icewine | 94 | — | 18 |
+| Tonković · Fantazija | 91 | — | 18 |
 | Tonković · Rapsodija | 92 | — | 16 |
-| DiBonis Winery · Di Icewine | 94 | — | 14 |
-| Tonković · Fantazija | 91 | — | 14 |
 | Vinarija VRT · Pesak Sivi | 85 | 3.6 | 13 |
 | Reljić Vinarija · Rebus Merlot-Cabernet Sauvignon-Probus | 95 | — | 12 |
 | Reljić Vinarija · Rebus Crveno | 90 | 4.2 | 9 |
@@ -332,8 +332,8 @@ Vivino в стобалльную, когда балла критика не бы
 | Maurer · Kadarka 1880 (натуральное) | 95 | — | — |
 | Reljić Vinarija · Rebus Merlot-Cabernet Sauvignon-Probus | 95 | — | 12 |
 | Zvonko Bogdan · Chardonnay | 95 | 4.0 | 54 |
-| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 92 |
-| DiBonis Winery · Di Icewine | 94 | — | 14 |
+| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 94 |
+| DiBonis Winery · Di Icewine | 94 | — | 18 |
 | Драгић Винарија (Vina Dragic) · Crni Biser | 94 | — | 21 |
 | Tonković · Rapsodija | 92 | — | 16 |
 | Vinarija Petra · Pinot Grigio Orange | 92 | — | — |
@@ -346,21 +346,21 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Vinarija Petra · Traminac Late Harvest | — | 4.4 | — |
 | Maurer · Kadarka Gravitation | — | 4.3 | — |
-| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 63 |
+| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 65 |
 | DiBonis Winery · 1697 | — | 4.2 | — |
 | DiBonis Winery · Di Cabernet Sauvignon | — | 4.2 | — |
 | Maurer · Kadarka Nagy-Krisztus | — | 4.2 | — |
 | Reljić Vinarija · Rebus Crveno | 90 | 4.2 | 9 |
 | Vinarija Petra · Cuvée | — | 4.2 | — |
 | The Collective Presents · Kadarka 1880 | — | 4.1 | — |
-| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 92 |
+| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 94 |
 
 **Согласие трёх**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 63 |
-| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 92 |
+| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 65 |
+| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 94 |
 | Tonković · Rapsodija Kadarka | 90 | 3.9 | 12 |
 | Tonković · Fantazija Kadarka | 91 | 3.8 | 10 |
 | Reljić Vinarija · Rebus Crveno | 90 | 4.2 | 9 |
@@ -374,8 +374,8 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Reljić Vinarija · Rebus Merlot-Cabernet Sauvignon-Probus | 95 | — | 12 |
-| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 92 |
-| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 63 |
+| Zvonko Bogdan · Cuvée No.1 | 95 | 4.1 | 94 |
+| Zvonko Bogdan · Icon Campana Rubimus | 95 | 4.3 | 65 |
 | Драгић Винарија (Vina Dragic) · Crni Biser | 94 | — | 21 |
 | Tonković · Rapsodija | 92 | — | 16 |
 
@@ -385,7 +385,7 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Zvonko Bogdan · Chardonnay | 95 | 4.0 | 54 |
 | Zvonko Bogdan · Eclater Blanc De Blancs Extra Brut | 95 | — | 21 |
-| DiBonis Winery · Di Icewine | 94 | — | 14 |
+| DiBonis Winery · Di Icewine | 94 | — | 18 |
 | Драгић Винарија (Vina Dragic) · Beli Biser | 91 | — | 6 |
 | Vinarija Petra · Traminac | 90 | 4.0 | — |
 
@@ -393,7 +393,7 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Zvonko Bogdan · Rosé Sec | 92 | 4.0 | 18 |
+| Zvonko Bogdan · Rosé Sec | 92 | 4.0 | 24 |
 | Драгић Винарија (Vina Dragic) · Mitra | 91 | — | 6 |
 | Vinarija Petra · Rose | 89 | — | 2 |
 | Vinarija VRT · ROSSE | 89 | — | 6 |
@@ -531,8 +531,8 @@ Vivino в стобалльную, когда балла критика не бы
 | Temet · Tri Morave | 90 | 4.0 | 54 |
 | Lastar · Chardonnay | 89 | 3.8 | 46 |
 | Ivanović · No 1/2 | 94 | 4.3 | 40 |
-| Vinarija Jovac · Stella Noir | 95 | — | 36 |
-| Ivanović · Prokupac | 94 | 3.9 | 32 |
+| Jovac · Stella Noir | 95 | — | 36 |
+| Ivanović · Prokupac | 94 | 3.9 | 35 |
 | Nikad Nije Kasno · Signature | 90 | 4.3 | 31 |
 | Grabak · Prokupac | 94 | — | 30 |
 | Lastar · Triangl Chardonnay | 90 | 4.0 | 28 |
@@ -544,10 +544,10 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Ivanović · Prokupac Gaga | 96 | — | — |
 | Grabak · Vivak Prokupac | 95 | 4.1 | 17 |
+| Jovac · Stella Noir | 95 | — | 36 |
 | Ralević · RaRa Tamjanika PETNAT | 95 | — | 7 |
 | Temet · Tamjanika | 95 | — | — |
 | Temet · Tri Morave Belo Reserve | 95 | — | — |
-| Vinarija Jovac · Stella Noir | 95 | — | 36 |
 | Budimir · Svb Rosa | 94 | 4.2 | — |
 | Grabak · Prokupac | 94 | — | 30 |
 | Ivanović · No 1/2 | 94 | 4.3 | 40 |
@@ -565,7 +565,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Fragaria · Red | 91 | 4.4 | 24 |
 | Stemina winery · Stephanos Cabernet Sauvignon | — | 4.4 | — |
 | Temet · Three Morave Rezerva (Три Mораве Резерва) | — | 4.4 | — |
-| Aleksandar Todorović · Ibis Crveni | — | 4.3 | — |
+| Aleksandar Todorović · Ibis Crveni | — | 4.3 | 1 |
 | Ivanović · No 1/2 | 94 | 4.3 | 40 |
 
 **Согласие трёх**
@@ -574,22 +574,22 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Ivanović · No 1/2 | 94 | 4.3 | 40 |
 | Fragaria · Red | 91 | 4.4 | 24 |
-| Lastar · Tamjanika | 90 | 4.2 | 21 |
+| Lastar · Tamjanika | 90 | 4.2 | 22 |
 | Nikad Nije Kasno · Signature | 90 | 4.3 | 31 |
 | Grabak · Vivak Prokupac | 95 | 4.1 | 17 |
 | Lastar · Triangl Chardonnay | 90 | 4.0 | 28 |
 | Temet · Tri Morave | 90 | 4.0 | 54 |
-| Temet · Ergo White | 89 | 4.0 | 21 |
-| Ivanović · Prokupac | 94 | 3.9 | 32 |
-| Radovan · Experiment Prokupac | 93 | 3.9 | 18 |
+| Temet · Ergo White | 89 | 4.0 | 24 |
+| Ivanović · Prokupac | 94 | 3.9 | 35 |
+| Vinarija Radovan · Experiment Prokupac | 93 | 3.9 | 18 |
 
 **Красные: тройка и запас**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Grabak · Vivak Prokupac | 95 | 4.1 | 17 |
+| Jovac · Stella Noir | 95 | — | 36 |
 | Temet · Tri Morave Reserve | 95 | — | 54 |
-| Vinarija Jovac · Stella Noir | 95 | — | 36 |
 | Grabak · Prokupac | 94 | — | 30 |
 | Ivanović · No 1/2 | 94 | 4.3 | 40 |
 
@@ -608,7 +608,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Budimir · Svb Rosa | 94 | 4.2 | — |
-| Temet · Ergo Rosé | 90 | — | 9 |
+| Temet · Ergo Rosé | 90 | — | 18 |
 | Temet · Rose | 90 | — | 5 |
 | Grabak · Prva Lasta Prokupac | 88 | — | 3 |
 | Lastar · Rose | 86 | 3.8 | 11 |
@@ -620,16 +620,16 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 58 |
-| Aleksandrović · Regent Reserve | 95 | 4.2 | 57 |
-| Despotika · Morava | 91 | — | 53 |
-| Despotika · Beskraj | 90 | — | 43 |
+| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 62 |
+| Aleksandrović · Regent Reserve | 95 | 4.2 | 59 |
+| Despotika · Morava | 91 | — | 55 |
+| Despotika · Beskraj | 90 | — | 44 |
+| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 35 |
 | Matijašević Vinogradi · Belina | 93 | 3.9 | 30 |
-| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 30 |
 | Tarpoš · Tamjanika | 90 | 3.9 | 23 |
 | Tarpoš · Cabernet Sauvignon | 90 | 4.1 | 22 |
 | Podrum Stari Hrast · Sauvignon Blanc | 90 | 3.8 | 20 |
-| Radovanović · Rèserve Cabernet Sauvignon | 91 | 4.3 | 12 |
+| Radovanović · Rèserve Cabernet Sauvignon | 91 | 4.3 | 16 |
 
 **Мнение экспертов**
 
@@ -637,8 +637,8 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 |
 | Arsenijević · Kaberne | 96 | — | 5 |
-| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 30 |
-| Aleksandrović · Regent Reserve | 95 | 4.2 | 57 |
+| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 35 |
+| Aleksandrović · Regent Reserve | 95 | 4.2 | 59 |
 | Despotika · Krunski Dokaz | 95 | — | 18 |
 | Matijašević Vinogradi · SoviNoa | 95 | — | 15 |
 | Tarpoš · Chardonnay Extra Brut | 95 | — | 15 |
@@ -651,7 +651,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Aleksandrović · Vožd Cabernet Sauvignon | 95 | 4.5 | 18 |
-| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 58 |
+| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 62 |
 | Draganić · Miracolo Sangiovese Superiore | — | 4.4 | — |
 | Radovanović · Réserve Special Cabernet Sauvignon | — | 4.4 | — |
 | Vinarija DeLena · 1903 Merlot | 92 | 4.4 | 3 |
@@ -665,16 +665,16 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 58 |
-| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 30 |
-| Aleksandrović · Regent Reserve | 95 | 4.2 | 57 |
+| Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 62 |
+| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 35 |
+| Aleksandrović · Regent Reserve | 95 | 4.2 | 59 |
 | Matijašević Vinogradi · Sovinoa Sauvignon Blanc | 93 | 4.1 | 12 |
-| Radovanović · Rèserve Cabernet Sauvignon | 91 | 4.3 | 12 |
-| Château Prince · Velika Morava | 90 | 4.1 | 10 |
+| Radovanović · Rèserve Cabernet Sauvignon | 91 | 4.3 | 16 |
+| Château Prince · Velika Morava | 90 | 4.1 | 14 |
 | Tarpoš · Cabernet Sauvignon | 90 | 4.1 | 22 |
 | Tarpoš · Sauvignon Blanc | 90 | 4.1 | 11 |
-| Zmajevac · Cuvée | 90 | 4.3 | 9 |
-| Zmajevac · Prokupac | 90 | 4.1 | 9 |
+| Vinarija Zmajevac · Cuvée | 90 | 4.3 | 9 |
+| Vinarija Zmajevac · Prokupac | 90 | 4.1 | 9 |
 
 **Красные: тройка и запас**
 
@@ -682,7 +682,7 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 |
 | Arsenijević · Kaberne | 96 | — | 5 |
-| Aleksandrović · Regent Reserve | 95 | 4.2 | 57 |
+| Aleksandrović · Regent Reserve | 95 | 4.2 | 59 |
 | Despotika · Krunski Dokaz | 95 | — | 18 |
 | Matijašević Vinogradi · Tri Doline | 95 | — | 16 |
 
@@ -690,17 +690,17 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 30 |
+| Matijašević Vinogradi · Sovinoa Fumé Blanc | 96 | 4.3 | 35 |
 | Matijašević Vinogradi · SoviNoa | 95 | — | 15 |
 | Tarpoš · Chardonnay Extra Brut | 95 | — | 15 |
-| Aleksandrović · Trijumf Gold | 94 | 4.2 | 56 |
-| Aleksandrović · Trijumf Selection | 93 | 4.1 | 22 |
+| Aleksandrović · Trijumf Gold | 94 | 4.2 | 57 |
+| Aleksandrović · Trijumf Selection | 93 | 4.1 | 23 |
 
 **Розе: тройка и запас**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Despotika · Nemir | 89 | — | 20 |
+| Despotika · Nemir | 89 | — | 24 |
 | PIK OPLENAC · Constanta Muse Rosé | 89 | 3.9 | — |
 | Radovanović · Rosé | 89 | 3.9 | 4 |
 | Djordjevic Estate Winery · Rosé | 88 | — | 2 |
@@ -714,8 +714,8 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Matalj · Kremen | 92 | — | 52 |
-| Matalj · Terasa Chardonnay | 92 | — | 42 |
-| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 13 |
+| Matalj · Cuvée Bukovski | 95 | 4.0 | 48 |
+| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 14 |
 | Vimmid · Cabernet Sauvignon | 89 | 3.9 | 10 |
 | Manastir Bukovo · Filigran Cabernet Sauvignon | 90 | 4.2 | 9 |
 | Manastir Bukovo · Filigran Гаме | 92 | — | 9 |
@@ -728,9 +728,9 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Matalj · Kremen Kamen | 97 | — | 37 |
+| Matalj · Kremen Kamen | 97 | — | 44 |
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 |
-| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 13 |
+| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 14 |
 | Manastir Bukovo · Chardonnay Oaked | 92 | — | — |
 | Manastir Bukovo · Filigran Гаме | 92 | — | 9 |
 | Traško Vinarija · Bagrina Edición Limitada | 92 | 3.9 | 6 |
@@ -764,7 +764,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Traško Vinarija · Fabulous Cabernet Franc | 90 | 4.1 | 9 |
 | Traško Vinarija · Bagrina Edición Limitada | 92 | 3.9 | 6 |
 | Vimmid · Cabernet Sauvignon | 89 | 3.9 | 10 |
-| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 13 |
+| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 14 |
 | Manastir Bukovo · Filigran Merlot | 87 | 4.2 | 4 |
 | Vinarija Gamanović · Cabernet Sauvignon | 87 | 3.9 | 4 |
 
@@ -772,7 +772,7 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Matalj · Kremen Kamen | 97 | — | 37 |
+| Matalj · Kremen Kamen | 97 | — | 44 |
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 |
 | Manastir Bukovo · Filigran Гаме | 92 | — | 9 |
 | Vimmid · Dentelle | 92 | — | 6 |
@@ -783,7 +783,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Matalj · Bagrina Bukovska | 94 | 3.9 | 2 |
-| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 13 |
+| Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 14 |
 | Matalj · Terasa Chardonnay | 92 | — | 42 |
 | Traško Vinarija · Bagrina Edición Limitada | 92 | 3.9 | 6 |
 | Manastir Bukovo · Filigran Chardonnay | 90 | — | 3 |
@@ -805,13 +805,13 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Janko · Stari Zavet | 92 | — | 70 |
 | Virtus · Credo | 92 | — | 56 |
-| Virtus · Prokupac | 91 | 3.8 | 51 |
+| Virtus · Prokupac | 91 | 3.8 | 52 |
 | Janko · Vrtlog | 90 | — | 28 |
 | VINARIJA STANKOVIĆ · Chardonnay | 91 | — | 24 |
 | VINARIJA STANKOVIĆ · Cabernet Sauvignon | 91 | — | 22 |
 | Despotika · Nebo | 90 | — | 18 |
 | Vinarija Milićević · Vladavina Icone Merlot | 90 | — | 14 |
-| Plavinci · Selena | — | — | 10 |
+| Plavinci · Selena | — | — | 11 |
 | Vinarija Unikat · Vranac | 90 | — | 10 |
 
 **Мнение экспертов**
@@ -820,13 +820,13 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Virtus · Morava | 95 | 3.9 | 12 |
 | Винарија Тришић (Vinarija Trišić) · Dimasid | 94 | — | 9 |
-| Virtus · Pinot Grigio | 93 | 3.8 | 33 |
+| Virtus · Pinot Grigio | 93 | 3.8 | 35 |
 | Janko · Stari Zavet | 92 | — | 70 |
+| Jeremić · Kanon Merlot - Cabernet Sauvignon | 92 | 4.1 | — |
 | Plavinac · Rebo | 92 | — | 8 |
-| Vinarija Jeremić · Kanon Merlot - Cabernet Sauvignon | 92 | 4.1 | — |
 | Vinarija Milićević · VLADAVINA Merlot | 92 | — | 8 |
 | Janko · Zapis Crveni | 91 | — | 14 |
-| Vinarija Jeremić · Sonata Sauvignon Blanc | 91 | 3.8 | — |
+| Jeremić · Sonata Sauvignon Blanc | 91 | 3.8 | — |
 | VINARIJA STANKOVIĆ · Cabernet Sauvignon | 91 | — | 22 |
 
 **Vox populi**
@@ -835,11 +835,11 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Janko · Zlatno Runo Cabernet Sauvignon | 87 | 4.4 | 3 |
 | Janko · Запис Тестамент (Crveni Zapis Testament) | — | 4.4 | — |
-| Vinarija Jeremić · Kanon Superior Merlot - Cabernet Sauvignon | — | 4.3 | — |
+| Jeremić · Kanon Superior Merlot - Cabernet Sauvignon | — | 4.3 | — |
 | Virtus · Cuvée Virtus Credo | — | 4.3 | — |
-| Virtus · Prokupac 733 | 90 | 4.3 | 6 |
+| Virtus · Prokupac 733 | 90 | 4.3 | 8 |
+| Jeremić · Sonata Icon Sauvignon Blanc | — | 4.2 | — |
 | Plavinci · Good Boy Bruno! Pét Nat | — | 4.2 | — |
-| Vinarija Jeremić · Sonata Icon Sauvignon Blanc | — | 4.2 | — |
 | Pruna · Cabernet Sauvignon | — | 4.2 | — |
 | Pruna · Umbra Tamjanika | — | 4.1 | — |
 | Винарија Тришић (Vinarija Trišić) · Тришино (Triša's) | — | 4.0 | — |
@@ -850,9 +850,9 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Virtus · Credo Beli | 92 | 4.2 | 32 |
 | Virtus · Marselan | 91 | 4.0 | 50 |
-| Janko · Bifora | 90 | 4.3 | 12 |
+| Janko · Bifora | 90 | 4.3 | 13 |
 | Janko · Zavet | 89 | 3.9 | 9 |
-| Plavinci · Ćilibar | 86 | 3.9 | 8 |
+| Plavinci · Ćilibar | 86 | 3.9 | 9 |
 
 **Красные: тройка и запас**
 
@@ -860,8 +860,8 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Винарија Тришић (Vinarija Trišić) · Dimasid | 94 | — | 9 |
 | Janko · Stari Zavet | 92 | — | 70 |
+| Jeremić · Kanon Merlot - Cabernet Sauvignon | 92 | 4.1 | — |
 | Plavinac · Rebo | 92 | — | 8 |
-| Vinarija Jeremić · Kanon Merlot - Cabernet Sauvignon | 92 | 4.1 | — |
 | Virtus · Credo | 92 | — | 56 |
 
 **Белые: тройка и запас**
@@ -869,8 +869,8 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Virtus · Morava | 95 | 3.9 | 12 |
-| Virtus · Pinot Grigio | 93 | 3.8 | 33 |
-| Vinarija Jeremić · Sonata Sauvignon Blanc | 91 | 3.8 | — |
+| Virtus · Pinot Grigio | 93 | 3.8 | 35 |
+| Jeremić · Sonata Sauvignon Blanc | 91 | 3.8 | — |
 | VINARIJA STANKOVIĆ · Chardonnay | 91 | — | 24 |
 | Despotika · Nebo | 90 | — | 18 |
 
@@ -895,8 +895,9 @@ Vivino в стобалльную, когда балла критика не бы
 | Vinarija Đurđevića Legat · Otisak Vremena | 90 | — | 6 |
 | HUP MIHAJLOVAC · Djurdjevica Legat - Otisak | 89 | — | 4 |
 | HUP MIHAJLOVAC · Djurdjevica Legat - Otisak vremena | 87 | — | 4 |
+| Milijan Jelić · Adam | — | 3.5 | 4 |
+| Milijan Jelić · Morange | — | 3.8 | 4 |
 | Vinarija Đurđevića Legat · Otisak | 86 | — | 3 |
-| Milijan Jelić · Millennium Barrique | — | 4.1 | 2 |
 
 **Мнение экспертов**
 
@@ -915,7 +916,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Vinarija Đurđevića Legat · Otisak Merlot - Cabernet Sauvignon Crveno | — | 4.2 | — |
-| Milijan Jelić · Millennium | — | 4.1 | — |
+| Milijan Jelić · Millennium | — | 4.1 | 0 |
 | Milijan Jelić · Millennium Barrique | — | 4.1 | 2 |
 | Pusula Winery · Traminac | 90 | 4.0 | 20 |
 | Vinarija Đurđevića Legat · Do Neba i Nazad Belo | — | 4.0 | — |
@@ -948,51 +949,52 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Doja · Prokupac | 95 | 3.9 | 70 |
-| Doja · Breg Prokupac | 95 | 4.1 | 58 |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
-| Vinarija Toplički Vinogradi · Vranac Barrique | 90 | — | 12 |
+| Doja · Prokupac | 95 | 3.9 | 74 |
+| Doja · Breg Prokupac | 95 | 4.1 | 60 |
+| Toplički vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
+| Toplički vinogradi · Vranac Barrique | 90 | — | 12 |
+| Kostić · Prokupac | — | — | 8 |
+| Kostić · Tamjanika Oranž | — | — | 4 |
 | Tody · Doja Belo | 83 | — | 2 |
-| Kostić · Prokupac | — | — | 1 |
 
 **Мнение экспертов**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Doja · Breg Prokupac | 95 | 4.1 | 58 |
-| Doja · Prokupac | 95 | 3.9 | 70 |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
-| Vinarija Toplički Vinogradi · President Vranac | 90 | — | 4 |
+| Doja · Breg Prokupac | 95 | 4.1 | 60 |
+| Doja · Prokupac | 95 | 3.9 | 74 |
+| Toplički vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
+| Toplički vinogradi · President Vranac | 90 | — | 4 |
 | Tody · Doja Belo | 83 | — | 2 |
 
 **Vox populi**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Vinarija Toplički Vinogradi · Гвоздени Пук Ирьено (Gvozdeni Puk Ryeno) | — | 4.4 | — |
-| Doja · Breg Cabernet Sauvignon | 94 | 4.3 | 23 |
-| Kostić · Prokupac Barrique | — | 4.2 | — |
-| Doja · Breg Prokupac | 95 | 4.1 | 58 |
+| Toplički vinogradi · Гвоздени Пук Ирьено (Gvozdeni Puk Ryeno) | — | 4.4 | — |
+| Doja · Breg Cabernet Sauvignon | 94 | 4.3 | 26 |
+| Kostić · Prokupac Barrique | — | 4.2 | 0 |
+| Doja · Breg Prokupac | 95 | 4.1 | 60 |
 | Kostić · Cuvée | — | 4.0 | — |
-| Vinarija Toplički Vinogradi · Epigenia Cabernet Sauvignon | — | 3.8 | 9 |
+| Toplički vinogradi · Epigenia Cabernet Sauvignon | — | 3.8 | 9 |
 
 **Согласие трёх** — только 4 вина вместо пяти
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Doja · Breg Prokupac | 95 | 4.1 | 58 |
-| Doja · Breg Cabernet Sauvignon | 94 | 4.3 | 23 |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
-| Vinarija Toplički Vinogradi · Tribus Villa Prokupac | 88 | 3.5 | 4 |
+| Doja · Breg Prokupac | 95 | 4.1 | 60 |
+| Doja · Breg Cabernet Sauvignon | 94 | 4.3 | 26 |
+| Toplički vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
+| Toplički vinogradi · Tribus Villa Prokupac | 88 | 3.5 | 4 |
 
 **Красные: тройка и запас**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Doja · Breg Prokupac | 95 | 4.1 | 58 |
-| Doja · Prokupac | 95 | 3.9 | 70 |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
-| Vinarija Toplički Vinogradi · Tribus Villa Prokupac | 88 | 3.5 | 4 |
+| Doja · Breg Prokupac | 95 | 4.1 | 60 |
+| Doja · Prokupac | 95 | 3.9 | 74 |
+| Toplički vinogradi · Epigenia Prokupac | 92 | 3.8 | 26 |
+| Toplički vinogradi · Tribus Villa Prokupac | 88 | 3.5 | 4 |
 
 **Белые: тройка и запас**
 
@@ -1011,14 +1013,14 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Aleksić · Amanet Vranac | 95 | 4.0 | 36 |
 | Aleksić · Žuti Cvet Tamjanika | 91 | — | 32 |
-| Jović · Vranac Potrkanjski | 94 | — | 19 |
-| Dzervin · Sauvignon | 89 | 3.9 | 16 |
+| Jović · Vranac Potrkanjski | 94 | — | 28 |
+| Džervin · Sauvignon | 89 | 3.9 | 20 |
 | Vinarija Todorović · Merlot | 89 | 4.0 | 13 |
-| Dzervin · Trifun Grand Cabernet Sauvignon | 91 | — | 12 |
+| Jović · Rizling Rajnski Potrkanjski | 88 | — | 12 |
+| Džervin · Trifun Grand Cabernet Sauvignon | 91 | — | 12 |
 | Vinarija Todorović · Cabernet Sauvignon | — | 3.9 | 8 |
 | Vinarija 100 Žena · 100 žena-100 women-Monsieur Merlot | 90 | — | 8 |
 | Vinarija 100 Žena · Veliki Dečko | 89 | 3.8 | 8 |
-| Изба Јовановић (Izba Jovanovic) · Merlot | — | 4.2 | 8 |
 
 **Мнение экспертов**
 
@@ -1026,11 +1028,11 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Aleksić · Amanet Vranac | 95 | 4.0 | 36 |
 | Aleksić · Biser Smederevka Extra Brut | 95 | — | 12 |
-| Dzervin · Lozana | 94 | — | 7 |
-| Jović · Vranac Potrkanjski | 94 | — | 19 |
-| Dzervin · Trifun Grand Cabernet Sauvignon | 91 | — | 12 |
+| Džervin · Lozana | 94 | — | 7 |
+| Jović · Vranac Potrkanjski | 94 | — | 28 |
+| Džervin · Trifun Grand Cabernet Sauvignon | 91 | — | 12 |
 | Vinarija 100 Žena · 100 žena-100 women-Monsieur Merlot | 90 | — | 8 |
-| Jović · Rose Dionizije | 89 | 3.5 | 4 |
+| Jović · Rose Dionizije | 89 | 3.5 | 6 |
 | Vinarija Todorović · Merlot | 89 | 4.0 | 13 |
 | Vinarija 100 Žena · Veliki Dečko | 89 | 3.8 | 8 |
 | Hrusija d.o.o. Leskovac · Simfonija - Prokupac 65%, Kaberne sovinjon 20%, Merlot 15% | 87 | — | 2 |
@@ -1042,7 +1044,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Изба Јовановић (Izba Jovanovic) · Žetva | — | 4.3 | — |
 | Vinarija 100 Žena · Monsieur Merlot Premium | — | 4.2 | — |
 | Изба Јовановић (Izba Jovanovic) · Merlot | — | 4.2 | 8 |
-| Vinarija 100 Žena · Rosé | — | 4.1 | — |
+| Vinarija 100 Žena · Rosé | — | 4.1 | 4 |
 | Митровиђ Винарија · Monogram | — | 4.1 | — |
 | Aleksić · Limited Bonaca Chardonnay | 87 | 4.1 | 6 |
 | Aleksić · Žuti Cvet | 87 | 4.1 | 8 |
@@ -1057,10 +1059,10 @@ Vivino в стобалльную, когда балла критика не бы
 | Aleksić · Amanet Vranac | 95 | 4.0 | 36 |
 | Aleksić · Limited Kardaš Cabernet Sauvignon | 90 | 4.0 | 15 |
 | Vinarija Todorović · Merlot | 89 | 4.0 | 13 |
-| Dzervin · Sauvignon | 89 | 3.9 | 16 |
+| Džervin · Sauvignon | 89 | 3.9 | 20 |
 | Vinarija 100 Žena · Veliki Dečko | 89 | 3.8 | 8 |
 | Vinarija 100 Žena · Tamjanika | 88 | 4.1 | 6 |
-| Jović · Rose Dionizije | 89 | 3.5 | 4 |
+| Jović · Rose Dionizije | 89 | 3.5 | 6 |
 | Podrum Malča · Anonymous Grašac | 85 | 3.8 | 2 |
 
 **Красные: тройка и запас**
@@ -1068,10 +1070,10 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Aleksić · Amanet Vranac | 95 | 4.0 | 36 |
-| Jović · Vranac Potrkanjski | 94 | — | 19 |
+| Jović · Vranac Potrkanjski | 94 | — | 28 |
 | Aleksić · Kardaš Cabernet Sauvignon | 92 | 3.8 | 9 |
-| Dzervin · Trifun Grand Cabernet Sauvignon | 91 | — | 12 |
-| Dzervin · Cuvee 69 | 89 | — | 6 |
+| Džervin · Trifun Grand Cabernet Sauvignon | 91 | — | 12 |
+| Džervin · Cuvee 69 | 89 | — | 6 |
 
 **Белые: тройка и запас**
 
@@ -1079,16 +1081,16 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Aleksić · Biser Smederevka Extra Brut | 95 | — | 12 |
 | Aleksić · Žuti Cvet Penuśavo Tamnjanika Sec | 95 | — | 12 |
-| Dzervin · Lozana | 94 | — | 7 |
-| Dzervin · Dubravka Gold | 89 | — | 5 |
-| Jović · Rizling Rajnski Potrkanjski | 88 | — | 6 |
+| Džervin · Lozana | 94 | — | 7 |
+| Džervin · Dubravka Gold | 89 | — | 9 |
+| Jović · Rizling Rajnski Potrkanjski | 88 | — | 12 |
 
 **Розе: тройка и запас**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Jović · Rose Dionizije | 89 | 3.5 | 4 |
-| Dzervin · Nijansa | 87 | — | 5 |
+| Jović · Rose Dionizije | 89 | 3.5 | 6 |
+| Džervin · Nijansa | 87 | — | 5 |
 | Vinarija 100 Žena · Roze | 87 | — | 2 |
 
 

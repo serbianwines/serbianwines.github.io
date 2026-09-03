@@ -409,6 +409,18 @@
     "DKS"
    ],
    "dokazatelstvo": "«Wine Style» в годовом списке 2020 пишет «DKS / Kraj sveta belo». Доказывает не сокращение, а имя вина: «Kraj sveta Belo» числится у нас за Do Kraja Sveta."
+  },
+  "Dukay-Sagmeister": {
+   "varianty": [
+    "Sagmeister"
+   ],
+   "dokazatelstvo": "Общая линейка, семь вин: годовой выбор vino.rs пишет за «Sagmeister» «Furmint Kew», «Kadarka Kew», «Furmint Devas», «Kadarka Devas», «Furmint Kanias», «Kadarka Kanias» и «LH Zero», а у нас за Dukay-Sagmeister числятся те же вина с обратным порядком слов — «Kew Furmint», «Kew Kadarka», «Devas Furmint», «Devas Kadarka», «Kanias Furmint», «Kanias Kadarka», «LH Zero». Кому линейка досталась после разделения Дукаја и Сагмајстера, источники прямо не говорят (см. «ne_odno_i_to_zhe»), но вина это одни и те же."
+  },
+  "Vinarija DeLena": {
+   "varianty": [
+    "De Lena"
+   ],
+   "dokazatelstvo": "Разница только в пробеле, но ключ его не снимает: «de-lena» и «delena» — разные ключи. vino.rs ставит «Traminac 2019 De Lena», а у нас за Vinarija DeLena числится «100 Jazz Mirisni Traminac»."
   }
  },
  "ne_odno_i_to_zhe": {

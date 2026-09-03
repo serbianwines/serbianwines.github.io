@@ -1,0 +1,53 @@
+{
+ "chto_eto": "Цены, снятые автором вручную с экрана — там, где машиной не берётся. Каждая строка называет, где и когда увидена.",
+ "istochnik": "Wolt, поиск «grumen», снимки экрана автора 3 сентября 2026",
+ "sobrano": "2026-09-03",
+ "pochemu_vruchnuyu": "Wolt отвечает 429 на всё подряд, а Grumen в собранные нами одиннадцать гипермаркетов Maxi попадает не весь: «Morava» и «Chardonnay Selekcija» стоят в делекатесной GUSTO, которой у нас нет ни одним источником. Две строки из пяти — Maxi, и они сходятся с обязательным ценовником до динара (1279 и 1119): это заодно показывает, что Wolt показывает полочную цену, а не наценённую.",
+ "vina": [
+  {
+   "vino": "Grumen Merlot 0.75l",
+   "hozyaistvo": "Vinarija Grumen",
+   "cena_rsd": 1279.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "magazin": "Maxi TC Beo",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Grumen Sauvignon Blanc 0.75l",
+   "hozyaistvo": "Vinarija Grumen",
+   "cena_rsd": 1119.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "magazin": "Maxi Mirijevo",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Grumen Petit Verdot",
+   "hozyaistvo": "Vinarija Grumen",
+   "cena_rsd": 1615.0,
+   "litrov": null,
+   "v_prodazhe": true,
+   "magazin": "GUSTO - Exclusive Food & Wine",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Grumen Morava 0.75l",
+   "hozyaistvo": "Vinarija Grumen",
+   "cena_rsd": 1768.0,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "magazin": "GUSTO - Exclusive Food & Wine",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Grumen Chardonnay Selekcija",
+   "hozyaistvo": "Vinarija Grumen",
+   "cena_rsd": 2189.0,
+   "litrov": null,
+   "v_prodazhe": true,
+   "magazin": "GUSTO - Exclusive Food & Wine",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  }
+ ]
+}

@@ -289,10 +289,13 @@ def svodnaya(d, vina, skolko=SKAMEJKA):
     return spisok(d, est, ocenka.get, lambda kl: kl in ocenka, skolko=skolko)
 
 
-# Куда отнести годовой выбор `vino.rs`. По умолчанию он в олимпиадном
-# зачёте: это награда, а не балл. Ключ `--ekspert-s-vino-rs` переносит
-# его в дорожку «мнение экспертов» — там жюри из сотни профессионалов
-# стоит рядом с баллом критика, а не рядом с медалью.
+# Куда отнести годовой выбор `vino.rs`. Решено автором: к экспертам —
+# жюри из сотни профессионалов стоит рядом с баллом критика, а не рядом
+# с медалью. Измерено, что от переноса меняется: наполняемость пятёрок
+# не трогается вовсе, а дорожки перестают повторять друг друга —
+# пересечение пятёрки зачёта с пятёркой экспертов падает с 40% до 20%
+# по медиане глав. Разбор в `vesa-otlichij.md`. Ключ
+# `--ekspert-v-zachjot` возвращает старое устройство.
 #
 # Сложить место и балл прямо нельзя: шкалы разные, и это первое правило
 # `slovar-polej.md`. Складываются процентили — так же, как в «согласии
@@ -300,7 +303,7 @@ def svodnaya(d, vina, skolko=SKAMEJKA):
 # берётся среднее из тех процентилей, которые для него есть: у 220 вин
 # есть место vino.rs и нет балла критика, у 954 наоборот, и требовать
 # оба голоса значило бы выкинуть и тех, и других.
-EKSPERT_S_VINO_RS = False
+EKSPERT_S_VINO_RS = True
 
 
 def ochki_kachestva(d, k):
@@ -589,14 +592,14 @@ def main():
     razbor = argparse.ArgumentParser()
     razbor.add_argument("--otchet", action="store_true",
                         help="собрать rejtingi.md, а не печатать на экран")
-    razbor.add_argument("--ekspert-s-vino-rs", action="store_true",
-                        help="перенести годовой выбор vino.rs из олимпиадного "
-                             "зачёта в дорожку «мнение экспертов»")
+    razbor.add_argument("--ekspert-v-zachjot", action="store_true",
+                        help="вернуть годовой выбор vino.rs в олимпиадный "
+                             "зачёт, как было до решения автора")
     razbor.add_argument("--v-fajl", default="rejtingi.md",
                         help="куда писать отчёт (для сравнения вариантов)")
     kljuchi = razbor.parse_args()
     global EKSPERT_S_VINO_RS
-    EKSPERT_S_VINO_RS = kljuchi.ekspert_s_vino_rs
+    EKSPERT_S_VINO_RS = not kljuchi.ekspert_v_zachjot
     d = razobrat()
     stroki = []
     pech = stroki.append if kljuchi.otchet else print
@@ -612,8 +615,8 @@ def main():
         (ZDES / kljuchi.v_fajl).write_text("\n".join(stroki) + "\n",
                                            encoding="utf-8")
         print("собран %s%s" % (kljuchi.v_fajl,
-                               " (выбор vino.rs — у экспертов)"
-                               if EKSPERT_S_VINO_RS else ""))
+                               "" if EKSPERT_S_VINO_RS
+                               else " (выбор vino.rs — в олимпиадном зачёте)"))
 
 
 if __name__ == "__main__":

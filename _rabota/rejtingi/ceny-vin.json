@@ -8,7 +8,8 @@
   "https://prodajavina.com/vina/srpska-vina.html",
   "maxi.rs, раздел «Пиће, кафа и чај → Вино», сохранённая страница",
   "maxi.rs/cenovnici, гипермаркеты «Mega Maxi», ценовник за 02-09-2026",
-  "online.idea.rs, раздел «Вино», сохранённые страницы"
+  "online.idea.rs, раздел «Вино», сохранённые страницы",
+  "Wolt, поиск «grumen», снимки экрана автора 3 сентября 2026"
  ],
  "sobrano": "2026-09-03",
  "magazinov_u_vina": {
@@ -22,7 +23,7 @@
   "aleksandrovic-harizma": 7,
   "aleksandrovic-oplen": 2,
   "aleksandrovic-prokupac": 5,
-  "aleksandrovic-regent-reserve": 2,
+  "aleksandrovic-regent-reserve": 3,
   "aleksandrovic-rodoslov-grand-reserve": 2,
   "aleksandrovic-trijumf": 7,
   "aleksandrovic-trijumf-gold": 4,
@@ -82,7 +83,6 @@
   "bukovo-filigran-crna-tamjanika": 1,
   "bukovo-filigran-game": 1,
   "bukovo-filigran-merlot": 1,
-  "chichateau-fabula-lagum": 4,
   "chichateau-fabula-mala-a-bela-chardonnay": 3,
   "chichateau-fabula-mala": 3,
   "chichateau-pink-punk": 4,
@@ -138,7 +138,7 @@
   "eden-chardonnay": 2,
   "eden-genesis": 2,
   "eden-sauvignon-blanc": 2,
-  "erdevik-bella-novela-sauvignon-blanc": 4,
+  "erdevik-bella-novela-sauvignon-blanc": 3,
   "erdevik-ex-cathedra": 3,
   "erdevik-grand-trianon": 5,
   "erdevik-grand-trianon-deux-mers": 1,
@@ -340,8 +340,6 @@
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 2,
   "stari-hrast-merlot-selekcija": 1,
   "stemina-stephanos": 1,
-  "stojanovic-krokan": 2,
-  "stojanovic-peharnik": 2,
   "temet-beli-kamen-morava": 1,
   "temet-beli-kamen-prokupac": 1,
   "temet-tri-morave-rezerva-crveno": 1,
@@ -352,7 +350,7 @@
   "todorovic-shiraz": 4,
   "tonkovic-kadarka": 2,
   "tonkovic-fantazija-kadarka": 1,
-  "tonkovic-rapsodija": 3,
+  "tonkovic-rapsodija": 4,
   "trasko-fucking-fabulous-edicion-limitada": 1,
   "tri-mede-i-oblak-grasac-beli": 1,
   "tri-oraha-500-barrique-barrels": 1,
@@ -361,7 +359,6 @@
   "tri-oraha-merlot": 1,
   "fruskogorski-tri-sunca-traminac-kasna-berba": 1,
   "trivanovic-chardonnay": 1,
-  "vencac-legat-1903-muscat-petit-grain": 1,
   "veritas-cukovic-cuk-cuvee": 1,
   "veritas-cukovic-momentum-cabernet-sauvignon": 1,
   "veritas-cukovic-momentum-mali": 1,
@@ -429,6 +426,7 @@
   "plavi-perun-rose-pinot-noir": 1,
   "aleksandrovic-regent": 5,
   "plavi-perun-chardonnay": 2,
+  "chichateau-fabula-lagum": 3,
   "vista-hill-reserve-white": 1,
   "plavi-perun-pinot-noir": 2,
   "temet-ergo-white": 2,
@@ -450,6 +448,7 @@
   "lastar-chardonnay": 4,
   "aleksandrovic-vizija": 3,
   "aleksandrovic-chardonnay": 1,
+  "legat-chardonnay": 2,
   "aleksandrovic-vozd": 2,
   "tonkovic-rose-kadarka": 1,
   "cilic-onyx": 1,
@@ -465,6 +464,8 @@
   "rubin-prokupac": 1,
   "temet-tamjanika": 1,
   "moderato-merlot": 2,
+  "stojanovic-krokan": 1,
+  "stojanovic-peharnik": 1,
   "doja-cabernet-merlot": 1,
   "zvonko-bogdan-rose": 2,
   "madzic-the-merlot": 1,
@@ -495,7 +496,10 @@
   "kovacevic-brut": 2,
   "radovanovic-pino-sivi": 1,
   "vinum-grasac": 2,
+  "legat-pinot-noir": 1,
   "atelje-sapat-bianca-moscato-giallo": 1,
+  "legat-viognier": 1,
+  "legat-muscat-petit-grain": 1,
   "erdevik-tri-crvene-koze-roze": 2,
   "karic-adria": 1,
   "lakicevic-picus-chardonnay": 1,
@@ -525,20 +529,24 @@
   "matalj-zemna-reserva": 1,
   "temet-ergo-red": 1,
   "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 2,
-  "coka-kastel": 2,
+  "coka-kastel": 3,
   "rubin-muskat": 2,
   "rubin-rubinov-prokupac": 2,
   "rubin-chardonnay": 3,
-  "rubin-merlot": 2,
+  "rubin-merlot": 3,
+  "kovacevic-cuvee-rouge": 2,
+  "kovacevic-cuvee-blanc": 2,
   "draskovic-muskat-otonel": 3,
   "vinska-kuca-minica-tamjanika-kasna-berba": 2,
+  "molovin-poligraf-cuvee-belo": 1,
   "rubin-car-lazar": 1,
-  "nikolas-chardonnay": 1,
+  "nikolas-chardonnay": 2,
   "draskovic-chardonnay": 1,
   "nikolas-merlot": 1,
   "coka-mustuluk": 1,
   "coka-lederer-merlot": 1,
   "coka-lederer-chardonnay": 1,
+  "molovin-poligraf-cuvee-rose": 1,
   "pik-oplenac-monarh-cuvee": 1,
   "pik-oplenac-monarh-merlot": 1,
   "mackov-merlot": 1,
@@ -547,35 +555,44 @@
   "vinarska-kuca-spasic-dar": 1,
   "lastar-triangl-sauvignon-viognier": 1,
   "matalj-chardonnay": 1,
-  "grumen-merlot": 1,
+  "grumen-merlot": 2,
   "rubin-amante-carmen": 1,
   "gamanovic-grasac-beli": 1,
   "gamanovic-tamjanika-bela": 1,
   "rubin-grasevina": 1,
   "chateau-prince-magija-rose": 1,
   "vilimonovic-tamjanika": 1,
+  "grumen-sauvignon-blanc": 2,
   "trivanovic-invictus": 1,
   "vila-tamjanika": 1,
+  "quet-grasac": 1,
   "deuric-chardonnay": 1,
   "fruskogorski-fruskac-beli": 1,
   "pusula-cabernet": 1,
   "trivanovic-lex": 1,
+  "durdic-sauvignon-blanc": 1,
+  "grumen-petit-verdot": 2,
   "vinarska-kuca-spasic-rujno": 1,
   "despotika-nemir": 1,
   "belo-brdo-marselan": 1,
   "rubin-amante-aurora": 1,
+  "durdic-simonida-mlada": 1,
   "aleksandrovic-tema-selection": 1,
   "doja-belo": 1,
   "ukusi-moga-kraja-tamjanika": 1,
   "salas-nas-chardonnay": 1,
   "salas-nas-sauvignon-blanc": 1,
   "fragaria-votazi": 1,
+  "coka-lederer-cabernet-sauvignon": 1,
+  "coka-merlot": 1,
   "rubin-carica-milica": 1,
   "ukusi-moga-kraja-prokupac": 1,
   "doja-rose": 1,
   "dzervin-rose-romansa": 1,
   "rubin-rose": 1,
-  "molovin-rose": 1
+  "molovin-rose": 1,
+  "grumen-morava": 1,
+  "grumen-selekcija-chardonnay": 1
  },
  "polka_supermarketa": {
   "magaziny": [
@@ -587,10 +604,10 @@
   "iz_nih_0_75": 887,
   "mediana_0_75": 1350,
   "mediana_vinoteki": 1782,
-  "tolko_v_supermarkete": 53,
-  "vin_v_oboih": 77,
-  "nacenka_supermarketa": 1.193,
-  "deshevle_v_supermarkete": 4
+  "tolko_v_supermarkete": 61,
+  "vin_v_oboih": 80,
+  "nacenka_supermarketa": 1.19,
+  "deshevle_v_supermarkete": 5
  },
  "ceny": {
   "100-zena-madame-merlette": 4090,
@@ -603,7 +620,7 @@
   "aleksandrovic-harizma": 1770,
   "aleksandrovic-oplen": 1582,
   "aleksandrovic-prokupac": 1770,
-  "aleksandrovic-regent-reserve": 2158,
+  "aleksandrovic-regent-reserve": 2335,
   "aleksandrovic-rodoslov-grand-reserve": 4642,
   "aleksandrovic-trijumf": 1910,
   "aleksandrovic-trijumf-gold": 2120,
@@ -663,7 +680,6 @@
   "bukovo-filigran-crna-tamjanika": 1635,
   "bukovo-filigran-game": 1775,
   "bukovo-filigran-merlot": 1500,
-  "chichateau-fabula-lagum": 3225,
   "chichateau-fabula-mala-a-bela-chardonnay": 1584,
   "chichateau-fabula-mala": 1782,
   "chichateau-pink-punk": 1388,
@@ -719,7 +735,7 @@
   "eden-chardonnay": 1904,
   "eden-genesis": 2181,
   "eden-sauvignon-blanc": 1904,
-  "erdevik-bella-novela-sauvignon-blanc": 1425,
+  "erdevik-bella-novela-sauvignon-blanc": 1350,
   "erdevik-ex-cathedra": 2508,
   "erdevik-grand-trianon": 2850,
   "erdevik-grand-trianon-deux-mers": 9080,
@@ -921,8 +937,6 @@
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1345,
   "stari-hrast-merlot-selekcija": 3570,
   "stemina-stephanos": 2000,
-  "stojanovic-krokan": 1542,
-  "stojanovic-peharnik": 2220,
   "temet-beli-kamen-morava": 5435,
   "temet-beli-kamen-prokupac": 4795,
   "temet-tri-morave-rezerva-crveno": 9500,
@@ -933,7 +947,7 @@
   "todorovic-shiraz": 1600,
   "tonkovic-kadarka": 1570,
   "tonkovic-fantazija-kadarka": 1640,
-  "tonkovic-rapsodija": 2050,
+  "tonkovic-rapsodija": 2220,
   "trasko-fucking-fabulous-edicion-limitada": 4075,
   "tri-mede-i-oblak-grasac-beli": 2380,
   "tri-oraha-500-barrique-barrels": 8995,
@@ -942,7 +956,6 @@
   "tri-oraha-merlot": 6250,
   "fruskogorski-tri-sunca-traminac-kasna-berba": 13005,
   "trivanovic-chardonnay": 2095,
-  "vencac-legat-1903-muscat-petit-grain": 1815,
   "veritas-cukovic-cuk-cuvee": 3065,
   "veritas-cukovic-momentum-cabernet-sauvignon": 7200,
   "veritas-cukovic-momentum-mali": 3065,
@@ -1010,6 +1023,7 @@
   "plavi-perun-rose-pinot-noir": 2300,
   "aleksandrovic-regent": 2350,
   "plavi-perun-chardonnay": 2277,
+  "chichateau-fabula-lagum": 3150,
   "vista-hill-reserve-white": 3250,
   "plavi-perun-pinot-noir": 2862,
   "temet-ergo-white": 3275,
@@ -1031,6 +1045,7 @@
   "lastar-chardonnay": 1685,
   "aleksandrovic-vizija": 1780,
   "aleksandrovic-chardonnay": 2070,
+  "legat-chardonnay": 2838,
   "aleksandrovic-vozd": 8225,
   "tonkovic-rose-kadarka": 1040,
   "cilic-onyx": 2755,
@@ -1046,6 +1061,8 @@
   "rubin-prokupac": 585,
   "temet-tamjanika": 2685,
   "moderato-merlot": 538,
+  "stojanovic-krokan": 1460,
+  "stojanovic-peharnik": 1730,
   "doja-cabernet-merlot": 1500,
   "zvonko-bogdan-rose": 1440,
   "madzic-the-merlot": 2000,
@@ -1076,7 +1093,10 @@
   "kovacevic-brut": 2346,
   "radovanovic-pino-sivi": 1320,
   "vinum-grasac": 1754,
+  "legat-pinot-noir": 2063,
   "atelje-sapat-bianca-moscato-giallo": 1452,
+  "legat-viognier": 2475,
+  "legat-muscat-petit-grain": 1650,
   "erdevik-tri-crvene-koze-roze": 830,
   "karic-adria": 1637,
   "lakicevic-picus-chardonnay": 2244,
@@ -1106,20 +1126,24 @@
   "matalj-zemna-reserva": 2760,
   "temet-ergo-red": 3150,
   "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 480,
-  "coka-kastel": 538,
+  "coka-kastel": 544,
   "rubin-muskat": 660,
   "rubin-rubinov-prokupac": 660,
   "rubin-chardonnay": 660,
   "rubin-merlot": 660,
+  "kovacevic-cuvee-rouge": 890,
+  "kovacevic-cuvee-blanc": 890,
   "draskovic-muskat-otonel": 1149,
   "vinska-kuca-minica-tamjanika-kasna-berba": 1374,
+  "molovin-poligraf-cuvee-belo": 825,
   "rubin-car-lazar": 442,
-  "nikolas-chardonnay": 300,
+  "nikolas-chardonnay": 410,
   "draskovic-chardonnay": 1229,
   "nikolas-merlot": 300,
   "coka-mustuluk": 1954,
   "coka-lederer-merlot": 819,
   "coka-lederer-chardonnay": 819,
+  "molovin-poligraf-cuvee-rose": 825,
   "pik-oplenac-monarh-cuvee": 1229,
   "pik-oplenac-monarh-merlot": 1129,
   "mackov-merlot": 1339,
@@ -1135,33 +1159,43 @@
   "rubin-grasevina": 475,
   "chateau-prince-magija-rose": 1310,
   "vilimonovic-tamjanika": 1279,
+  "grumen-sauvignon-blanc": 1119,
   "trivanovic-invictus": 1179,
   "vila-tamjanika": 1399,
+  "quet-grasac": 1499,
   "deuric-chardonnay": 1759,
   "fruskogorski-fruskac-beli": 599,
   "pusula-cabernet": 1978,
   "trivanovic-lex": 1639,
+  "durdic-sauvignon-blanc": 1519,
+  "grumen-petit-verdot": 1447,
   "vinarska-kuca-spasic-rujno": 1119,
   "despotika-nemir": 1694,
   "belo-brdo-marselan": 3399,
   "rubin-amante-aurora": 1867,
+  "durdic-simonida-mlada": 1519,
   "aleksandrovic-tema-selection": 1830,
   "doja-belo": 1250,
   "ukusi-moga-kraja-tamjanika": 1000,
   "salas-nas-chardonnay": 670,
   "salas-nas-sauvignon-blanc": 670,
   "fragaria-votazi": 2200,
+  "coka-lederer-cabernet-sauvignon": 780,
+  "coka-merlot": 780,
   "rubin-carica-milica": 475,
   "ukusi-moga-kraja-prokupac": 1100,
   "doja-rose": 1070,
   "dzervin-rose-romansa": 618,
   "rubin-rose": 465,
-  "molovin-rose": 560
+  "molovin-rose": 560,
+  "grumen-morava": 1768,
+  "grumen-selekcija-chardonnay": 2189
  },
  "supermarket": {
   "100-zena-veliki-decko": 1199,
   "aleksandrovic-harizma": 2049,
   "aleksandrovic-prokupac": 2299,
+  "aleksandrovic-regent-reserve": 2570,
   "aleksandrovic-trijumf": 2229,
   "aleksic-barbara": 930,
   "aleksic-zuti-cvet": 1350,
@@ -1170,7 +1204,6 @@
   "budimir-tamjanika": 2473,
   "doja-prokupac": 1579,
   "doja-tamjanika": 1299,
-  "erdevik-bella-novela-sauvignon-blanc": 1550,
   "erdevik-roza-nostra": 1759,
   "erdevik-trianon": 2459,
   "ivanovic-no-1-2": 4369,
@@ -1192,7 +1225,7 @@
   "vinarska-kuca-spasic-tamjanika": 1449,
   "todorovic-shiraz": 1930,
   "tonkovic-kadarka": 1499,
-  "tonkovic-rapsodija": 2389,
+  "tonkovic-rapsodija": 2390,
   "verkat-grasac-beli": 1199,
   "verkat-malvazija": 1450,
   "vinum-mustra": 1399,
@@ -1238,20 +1271,24 @@
   "lastar-merlot-cabernet-franc": 1869,
   "erdevik-tri-bele-koze-blanc": 900,
   "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 480,
-  "coka-kastel": 538,
+  "coka-kastel": 544,
   "rubin-muskat": 660,
   "rubin-rubinov-prokupac": 660,
   "rubin-chardonnay": 660,
   "rubin-merlot": 660,
+  "kovacevic-cuvee-rouge": 890,
+  "kovacevic-cuvee-blanc": 890,
   "draskovic-muskat-otonel": 1149,
   "vinska-kuca-minica-tamjanika-kasna-berba": 1374,
+  "molovin-poligraf-cuvee-belo": 825,
   "rubin-car-lazar": 442,
-  "nikolas-chardonnay": 300,
+  "nikolas-chardonnay": 410,
   "draskovic-chardonnay": 1229,
   "nikolas-merlot": 300,
   "coka-mustuluk": 1954,
   "coka-lederer-merlot": 819,
   "coka-lederer-chardonnay": 819,
+  "molovin-poligraf-cuvee-rose": 825,
   "pik-oplenac-monarh-cuvee": 1229,
   "pik-oplenac-monarh-merlot": 1129,
   "mackov-merlot": 1339,
@@ -1267,22 +1304,29 @@
   "rubin-grasevina": 475,
   "chateau-prince-magija-rose": 1310,
   "vilimonovic-tamjanika": 1279,
+  "grumen-sauvignon-blanc": 1119,
   "trivanovic-invictus": 1179,
   "vila-tamjanika": 1399,
+  "quet-grasac": 1499,
   "deuric-chardonnay": 1759,
   "fruskogorski-fruskac-beli": 599,
   "pusula-cabernet": 1978,
   "trivanovic-lex": 1639,
+  "durdic-sauvignon-blanc": 1519,
+  "grumen-petit-verdot": 1279,
   "vinarska-kuca-spasic-rujno": 1119,
   "despotika-nemir": 1694,
   "belo-brdo-marselan": 3399,
   "rubin-amante-aurora": 1867,
+  "durdic-simonida-mlada": 1519,
   "aleksandrovic-tema-selection": 1830,
   "doja-belo": 1250,
   "ukusi-moga-kraja-tamjanika": 1000,
   "salas-nas-chardonnay": 670,
   "salas-nas-sauvignon-blanc": 670,
   "fragaria-votazi": 2200,
+  "coka-lederer-cabernet-sauvignon": 780,
+  "coka-merlot": 780,
   "rubin-carica-milica": 475,
   "ukusi-moga-kraja-prokupac": 1100,
   "doja-rose": 1070,
@@ -1453,12 +1497,16 @@
   "lakicevic-upupa": "Suvo",
   "lakicevic-solaris": "Suvo",
   "eden-velvet": "Suvo",
+  "legat-pinot-noir": "Suvo",
   "atelje-sapat-bianca-moscato-giallo": "Suvo",
   "atelje-sapat-atila-sauvignon-blanc": "Suvo",
   "matalj-zamna": "Suvo",
   "bikicki-uncensored": "Suvo",
   "cilic-manifest": "Suvo",
   "cilic-kasmir": "Suvo",
+  "legat-viognier": "Suvo",
+  "legat-chardonnay": "Suvo",
+  "legat-muscat-petit-grain": "Suvo",
   "matijasevic-sovinoa-fume-blanc": "Suvo",
   "pevac-prokupac": "Suvo",
   "pevac-izazov-tamjanika": "Suvo",
@@ -1550,7 +1598,8 @@
   },
   "aleksandrovic-regent-reserve": {
    "vinoteka": 2335,
-   "prodajavina": 1980
+   "prodajavina": 1980,
+   "idea": 2570
   },
   "aleksandrovic-rodoslov-grand-reserve": {
    "vinoteka": 5025,
@@ -1699,12 +1748,6 @@
    "cerpromet": 2100,
    "prodajavina": 1540,
    "maxi-cenovnik": 2473
-  },
-  "chichateau-fabula-lagum": {
-   "vinoteka": 3500,
-   "winestars": 3150,
-   "wineart": 3300,
-   "prodajavina": 3000
   },
   "chichateau-fabula-mala-a-bela-chardonnay": {
    "vinoteka": 1635,
@@ -1861,8 +1904,7 @@
   "erdevik-bella-novela-sauvignon-blanc": {
    "vinoteka": 1500,
    "winestars": 1350,
-   "prodajavina": 1320,
-   "idea": 1550
+   "prodajavina": 1320
   },
   "erdevik-ex-cathedra": {
    "vinoteka": 2660,
@@ -2201,14 +2243,6 @@
    "vinoteka": 1450,
    "prodajavina": 1240
   },
-  "stojanovic-krokan": {
-   "vinoteka": 1625,
-   "cerpromet": 1460
-  },
-  "stojanovic-peharnik": {
-   "vinoteka": 2710,
-   "cerpromet": 1730
-  },
   "todorovic-cabernet-sauvignon": {
    "vinoteka": 1450,
    "cerpromet": 1275
@@ -2234,7 +2268,8 @@
   "tonkovic-rapsodija": {
    "vinoteka": 2050,
    "cerpromet": 1800,
-   "maxi-cenovnik": 2389
+   "maxi-cenovnik": 2389,
+   "idea": 2390
   },
   "tri-oraha-cabernet-sauvignon": {
    "vinoteka": 4910,
@@ -2432,6 +2467,11 @@
    "winestars": 2590,
    "wineart": 1964
   },
+  "chichateau-fabula-lagum": {
+   "winestars": 3150,
+   "wineart": 3300,
+   "prodajavina": 3000
+  },
   "plavi-perun-pinot-noir": {
    "winestars": 3300,
    "wineart": 2424
@@ -2489,6 +2529,10 @@
    "winestars": 1780,
    "cerpromet": 1665,
    "maxi-cenovnik": 2049
+  },
+  "legat-chardonnay": {
+   "winestars": 2980,
+   "wineart": 2695
   },
   "aleksandrovic-vozd": {
    "winestars": 8520,
@@ -2614,7 +2658,8 @@
   },
   "coka-kastel": {
    "maxi": 544,
-   "maxi-cenovnik": 532
+   "maxi-cenovnik": 532,
+   "idea": 560
   },
   "rubin-muskat": {
    "maxi": 660,
@@ -2631,7 +2676,16 @@
   },
   "rubin-merlot": {
    "maxi": 660,
-   "maxi-cenovnik": 660
+   "maxi-cenovnik": 660,
+   "idea": 660
+  },
+  "kovacevic-cuvee-rouge": {
+   "maxi": 890,
+   "maxi-cenovnik": 890
+  },
+  "kovacevic-cuvee-blanc": {
+   "maxi": 890,
+   "maxi-cenovnik": 890
   },
   "draskovic-muskat-otonel": {
    "maxi": 1149,
@@ -2641,6 +2695,22 @@
   "vinska-kuca-minica-tamjanika-kasna-berba": {
    "maxi": 1374,
    "maxi-cenovnik": 1374
+  },
+  "nikolas-chardonnay": {
+   "maxi-cenovnik": 300,
+   "idea": 521
+  },
+  "grumen-merlot": {
+   "maxi-cenovnik": 1279,
+   "vruchnuyu": 1279
+  },
+  "grumen-sauvignon-blanc": {
+   "maxi-cenovnik": 1119,
+   "vruchnuyu": 1119
+  },
+  "grumen-petit-verdot": {
+   "maxi-cenovnik": 1279,
+   "vruchnuyu": 1615
   }
  },
  "podhodit_neskolko": [
@@ -3375,6 +3445,36 @@
    ]
   },
   {
+   "vino": "Vino crveno orpheline 0.75l kovačević",
+   "hozyaistvo": "kovačević",
+   "cena_rsd": 719.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60028531",
+   "stranica": "https://online.idea.rs/#!/products/60028531/vino-crveno-orpheline-0-75l-kovacevic",
+   "magazin": "idea",
+   "kandidaty": [
+    "kovacevic-orpheline-crveni",
+    "kovacevic-orpheline-red"
+   ]
+  },
+  {
+   "vino": "Vranac suvo crveno vino 0,187 Vinarija Čoka",
+   "hozyaistvo": "vino Vinarija Čoka",
+   "cena_rsd": 219.99,
+   "litrov": null,
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "tovar": "60044054",
+   "stranica": "https://online.idea.rs/#!/products/60044054/vranac-suvo-crveno-vino-0-187-vinarija-coka",
+   "magazin": "idea",
+   "kandidaty": [
+    "coka-vranac",
+    "coka-vranac-suvo-crveno"
+   ]
+  },
+  {
    "vino": "Zvonko Bogdan vino rose sec 0,75l Supernova",
    "hozyaistvo": "Zvonko Bogdan vino",
    "cena_rsd": 1999.99,
@@ -3685,6 +3785,8 @@
    "klyuch_vina": "rubin-cabernet-sauvignon",
    "ceny": {
     "cerpromet": 2650,
+    "maxi": 660,
+    "maxi-cenovnik": 660,
     "idea": 660
    },
    "pochemu": "магазины расходятся в разы — похоже, это разные вина"
@@ -3716,15 +3818,6 @@
     "maxi": 2399
    },
    "pochemu": "магазины расходятся в разы — похоже, это разные вина"
-  },
-  {
-   "klyuch_vina": "grumen-sauvignon-blanc",
-   "magazin": "maxi-cenovnik",
-   "ceny": [
-    1119.0,
-    1519.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
   }
  ],
  "ne_nashlos": [
@@ -3885,6 +3978,16 @@
    "artikul": "10101170 2021",
    "cena_rsd": 3500.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22022-chichateau-chichardonnay",
+   "magazin": "vinoteka",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "25443",
+   "vino": "Chichateau Fabula Lagum",
+   "hozyaistvo": "Lagum",
+   "artikul": "10102450 2021",
+   "cena_rsd": 3500.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25443-chichateau-fabula-lagum",
    "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
@@ -4341,22 +4444,22 @@
   {
    "nomer": "26556",
    "vino": "Maurer Crazy Lud White",
-   "hozyaistvo": "Maurer",
+   "hozyaistvo": "Oszkar Maurer",
    "artikul": "10101695 2025",
    "cena_rsd": 1640.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26556-maurer-crazy-lud-white",
    "magazin": "vinoteka",
-   "pochemu": "дом есть, вина нет"
+   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "nomer": "26406",
    "vino": "Maurer Crazy Lud White",
-   "hozyaistvo": "Maurer",
+   "hozyaistvo": "Oszkar Maurer",
    "artikul": "10101695 2024",
    "cena_rsd": 1640.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26406-maurer-crazy-lud-white",
    "magazin": "vinoteka",
-   "pochemu": "дом есть, вина нет"
+   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "nomer": "25979",
@@ -4579,6 +4682,26 @@
    "pochemu": "дом есть, вина нет"
   },
   {
+   "nomer": "24203",
+   "vino": "Stojanović Krokan",
+   "hozyaistvo": "Vinodulija-Vinarija Stojanović",
+   "artikul": "10101270 2023",
+   "cena_rsd": 1625.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24203-stojanovic-krokan",
+   "magazin": "vinoteka",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "nomer": "24204",
+   "vino": "Stojanović Peharnik",
+   "hozyaistvo": "Vinodulija-Vinarija Stojanović",
+   "artikul": "10102614 2020",
+   "cena_rsd": 2710.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24204-stojanovic-peharnik",
+   "magazin": "vinoteka",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
    "nomer": "25364",
    "vino": "Suveren",
    "hozyaistvo": "Vinarija Zadužbina kralja Petra I",
@@ -4739,6 +4862,36 @@
    "pochemu": "дом есть, вина нет"
   },
   {
+   "nomer": "26557",
+   "vino": "Venčac Legat 1903 Muscat",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101442 2025",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26557-vencac-legat-1903-muscat",
+   "magazin": "vinoteka",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "24968",
+   "vino": "Venčac Legat 1903 Muscat",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101442 2024",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24968-vencac-legat-1903-muscat",
+   "magazin": "vinoteka",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "21942",
+   "vino": "Venčac Legat 1903 Muscat",
+   "hozyaistvo": "Legat 1903",
+   "artikul": "10101442 2023",
+   "cena_rsd": 1815.0,
+   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21942-vencac-legat-1903-muscat",
+   "magazin": "vinoteka",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
    "nomer": "25373",
    "vino": "Venčac Legat 1903 Pinot Noir",
    "hozyaistvo": "Vinarija Venčac",
@@ -4751,7 +4904,7 @@
   {
    "nomer": "21478",
    "vino": "Venčac Legat Chardonnay",
-   "hozyaistvo": "Venčac",
+   "hozyaistvo": "Legat 1903",
    "artikul": "10101462 2022",
    "cena_rsd": 2950.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21478-vencac-legat-chardonnay",
@@ -4761,7 +4914,7 @@
   {
    "nomer": "22027",
    "vino": "Venčac Legat Viognier",
-   "hozyaistvo": "Venčac",
+   "hozyaistvo": "Legat 1903",
    "artikul": "10101463 2022",
    "cena_rsd": 2725.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22027-vencac-legat-viognier",
@@ -5061,17 +5214,6 @@
    "kategorii": [],
    "cena_rsd": 2630.0,
    "stranica": "https://winestars.rs/product/kovacevic-penusac/690/",
-   "magazin": "winestars",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "nomer": "1068",
-   "vino": "Legat 1903 Chardonnay",
-   "hozyaistvo": "Legat",
-   "artikul": "16265",
-   "kategorii": [],
-   "cena_rsd": 2980.0,
-   "stranica": "https://winestars.rs/product/legat-1903-chardonnay/1068/",
    "magazin": "winestars",
    "pochemu": "дом есть, вина нет"
   },
@@ -6084,22 +6226,6 @@
    "pochemu": "дом есть, вина нет"
   },
   {
-   "put": "/p/legat-1903-pinot-noir",
-   "vino": "Legat 1903 Pinot Noir",
-   "hozyaistvo": "Legat",
-   "strana": "SRBIJA",
-   "stil": "SUVO",
-   "cena_rsd": 2063.0,
-   "rejon_magazina": "Šumadijski rejon",
-   "sorta": "Pinot Noir",
-   "krepost": "14,00%",
-   "litrov": 0.75,
-   "tip_vina": "suvo",
-   "artikul": "7234",
-   "magazin": "wineart",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
    "put": "/p/sapat-pi-crveno",
    "vino": "Šapat Pi Crveno",
    "hozyaistvo": "Šapat",
@@ -6144,54 +6270,6 @@
    "litrov": 0.75,
    "tip_vina": "suvo",
    "artikul": "2077",
-   "magazin": "wineart",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "put": "/p/legat-1903-viognier",
-   "vino": "Legat 1903 Viognier",
-   "hozyaistvo": "Legat",
-   "strana": "SRBIJA",
-   "stil": "SUVO",
-   "cena_rsd": 2475.0,
-   "rejon_magazina": "Šumadijski rejon",
-   "sorta": "Viognier",
-   "krepost": "14,00%",
-   "litrov": 0.75,
-   "tip_vina": "suvo",
-   "artikul": "6632",
-   "magazin": "wineart",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "put": "/p/legat-1903-chardonnay",
-   "vino": "Legat 1903 Chardonnay",
-   "hozyaistvo": "Legat",
-   "strana": "SRBIJA",
-   "stil": "SUVO",
-   "cena_rsd": 2695.0,
-   "rejon_magazina": "Šumadijski rejon",
-   "sorta": "Chardonnay",
-   "krepost": "14,00%",
-   "litrov": 0.75,
-   "tip_vina": "suvo",
-   "artikul": "6631",
-   "magazin": "wineart",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "put": "/p/legat-1903-muscat-petit-grain",
-   "vino": "Legat 1903 Muscat Petit Grain",
-   "hozyaistvo": "Legat",
-   "strana": "SRBIJA",
-   "stil": "SUVO",
-   "cena_rsd": 1650.0,
-   "rejon_magazina": "Šumadijski rejon",
-   "sorta": "Muscat Petit Grain",
-   "krepost": "13,00%",
-   "litrov": 0.75,
-   "tip_vina": "suvo",
-   "artikul": "6396",
    "magazin": "wineart",
    "pochemu": "дом есть, вина нет"
   },
@@ -6326,7 +6404,7 @@
   {
    "put": "/p/milosavljevic-villa-vina-shiraz",
    "vino": "Milosavljević (Villa Vina) Shiraz",
-   "hozyaistvo": "Milosavljević",
+   "hozyaistvo": "Milosavljević (Villa Vina)",
    "strana": "SRBIJA",
    "stil": "SUVO",
    "cena_rsd": 1161.6,
@@ -6337,12 +6415,12 @@
    "tip_vina": "suvo",
    "artikul": "1089",
    "magazin": "wineart",
-   "pochemu": "дом есть, вина нет"
+   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "put": "/p/milosavljevic-villa-vina-tamjanika",
    "vino": "Milosavljević (Villa Vina) Tamjanika",
-   "hozyaistvo": "Milosavljević",
+   "hozyaistvo": "Milosavljević (Villa Vina)",
    "strana": "SRBIJA",
    "stil": "SUVO",
    "cena_rsd": 1148.0,
@@ -6353,7 +6431,7 @@
    "tip_vina": "suvo",
    "artikul": "1090",
    "magazin": "wineart",
-   "pochemu": "дом есть, вина нет"
+   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "put": "/p/deuric-gewutrztraminer",
@@ -6778,17 +6856,6 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
-   "vino": "Vino crno Cabernet Sauvignon 99 0,75l",
-   "hozyaistvo": "Rubin",
-   "cena_rsd": 659.99,
-   "cena_bez_skidki": null,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-crno-Cabernet-Sauvignon-99-0-75l/p/7177474",
-   "magazin": "maxi",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
    "vino": "Vino belo Saouvignon Plantaze 0,75l",
    "hozyaistvo": "Plantaze",
    "cena_rsd": 659.99,
@@ -7082,28 +7149,6 @@
    "litrov": 0.75,
    "v_prodazhe": true,
    "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-b-JP-Chenet-Colombard-Chardon-0-75l/p/7186805",
-   "magazin": "maxi",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino Cuvee Rouge Kovacevic",
-   "hozyaistvo": "Posebna ponuda",
-   "cena_rsd": 889.99,
-   "cena_bez_skidki": null,
-   "litrov": null,
-   "v_prodazhe": true,
-   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Crveno-vino/Vino-Cuvee-Rouge-Kovacevic/p/7236758",
-   "magazin": "maxi",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino Cuvee Blanc Kovacevic",
-   "hozyaistvo": "Posebna ponuda",
-   "cena_rsd": 889.99,
-   "cena_bez_skidki": null,
-   "litrov": null,
-   "v_prodazhe": true,
-   "stranica": "https://www.maxi.rs/Picje-kafa-i-chaj/Vino/Belo-vino/Vino-Cuvee-Blanc-Kovacevic/p/7236814",
    "magazin": "maxi",
    "pochemu": "хозяйства нет в наших таблицах"
   },
@@ -8069,18 +8114,6 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
-   "vino": "Vino belo Poligraf Cuvee Molovin 0,75l",
-   "hozyaistvo": "Crasto",
-   "shtrihkod": "8607000109881",
-   "cena_rsd": 824.99,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 11,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
    "vino": "Vino crv.Vecchio Marone E.Priv.0,75l",
    "hozyaistvo": "Vecchio Marone",
    "shtrihkod": "8052783850268",
@@ -8645,18 +8678,6 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
-   "vino": "Vino Cuvee Blanc Kovacevic",
-   "hozyaistvo": "Posebna ponuda",
-   "shtrihkod": "8600103498425",
-   "cena_rsd": 889.99,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 11,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
    "vino": "Vino belo Temjanika 0.75L",
    "hozyaistvo": "Tikves",
    "shtrihkod": "5310008007273",
@@ -8697,18 +8718,6 @@
    "hozyaistvo": "Podrum Aleksic",
    "shtrihkod": "8607000073304",
    "cena_rsd": 1149.0,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 11,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Vino crno Cabernet Sauvignon 99 0,75l",
-   "hozyaistvo": "Rubin",
-   "shtrihkod": "8600074141504",
-   "cena_rsd": 659.99,
    "cena_akcii": null,
    "litrov": 0.75,
    "magazinov": 11,
@@ -8945,18 +8954,6 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
-   "vino": "Vino Cuvee Rouge Kovacevic",
-   "hozyaistvo": "Posebna ponuda",
-   "shtrihkod": "8600103498432",
-   "cena_rsd": 889.99,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 11,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
    "vino": "Vino ruzicas.Carica Milica Rubin 0.75l",
    "hozyaistvo": "Rubin",
    "shtrihkod": "8600074130645",
@@ -9009,18 +9006,6 @@
    "hozyaistvo": "Primitivo",
    "shtrihkod": "8008900006797",
    "cena_rsd": 1269.0,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 8,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino rose Poligraf Cuvee Molovin 0.75l",
-   "hozyaistvo": "Crasto",
-   "shtrihkod": "8607000344008",
-   "cena_rsd": 824.99,
    "cena_akcii": null,
    "litrov": 0.75,
    "magazinov": 8,
@@ -9834,7 +9819,7 @@
   },
   {
    "vino": "Vino crv.Poligraf Cuvee Molovin 0,75l",
-   "hozyaistvo": "Crasto",
+   "hozyaistvo": "Molovin",
    "shtrihkod": "8607000344022",
    "cena_rsd": 874.99,
    "cena_akcii": null,
@@ -9842,7 +9827,7 @@
    "magazinov": 8,
    "v_prodazhe": true,
    "magazin": "maxi-cenovnik",
-   "pochemu": "хозяйства нет в наших таблицах"
+   "pochemu": "дом есть, вина нет"
   },
   {
    "vino": "Vino crveno Hilandar 0,75l",
@@ -11214,7 +11199,7 @@
   },
   {
    "vino": "Vino crveno Eden Rizov 0.75l",
-   "hozyaistvo": "Eden",
+   "hozyaistvo": "Chateau Rizov",
    "shtrihkod": "5319990921628",
    "cena_rsd": 3999.0,
    "cena_akcii": null,
@@ -11222,11 +11207,11 @@
    "magazinov": 3,
    "v_prodazhe": true,
    "magazin": "maxi-cenovnik",
-   "pochemu": "дом есть, вина нет"
+   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "vino": "Vino crv.Doja prokupac Breg 0.75l",
-   "hozyaistvo": "Doja",
+   "hozyaistvo": "Breg",
    "shtrihkod": "8607000131899",
    "cena_rsd": 5299.0,
    "cena_akcii": null,
@@ -11247,18 +11232,6 @@
    "v_prodazhe": true,
    "magazin": "maxi-cenovnik",
    "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino belo Grasac Quet 0,75l",
-   "hozyaistvo": "Fruskogorski vinogradi",
-   "shtrihkod": "8606105344340",
-   "cena_rsd": 1499.0,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 1,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "дом есть, вина нет"
   },
   {
    "vino": "Vino crv. 7 Hrastova Matijasevic 0.75l",
@@ -11382,7 +11355,7 @@
   },
   {
    "vino": "Vino crno Imperator Bovin 750ml",
-   "hozyaistvo": "Vinarija Grumen",
+   "hozyaistvo": "Imperator",
    "shtrihkod": "5319990221940",
    "cena_rsd": 4039.0,
    "cena_akcii": null,
@@ -11655,18 +11628,6 @@
    "v_prodazhe": true,
    "magazin": "maxi-cenovnik",
    "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino crno  Petit Verdot Grumen 0.75l",
-   "hozyaistvo": "Vinarija Grumen",
-   "shtrihkod": "8607000312625",
-   "cena_rsd": 1279.0,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 1,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "дом есть, вина нет"
   },
   {
    "vino": "Vino belo Zilavka Tvrdos 0,75l",
@@ -12066,7 +12027,7 @@
   },
   {
    "vino": "Vino crveno Cab.Franc Djurdjic 0.75l",
-   "hozyaistvo": "Vinarija Grumen",
+   "hozyaistvo": "Djurdjic",
    "shtrihkod": "8606105417044",
    "cena_rsd": 2018.0,
    "cena_akcii": null,
@@ -12135,18 +12096,6 @@
    "v_prodazhe": true,
    "magazin": "maxi-cenovnik",
    "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino rose Simonida Djurdjic 0.75l",
-   "hozyaistvo": "Vinarija Grumen",
-   "shtrihkod": "8606105417051",
-   "cena_rsd": 1519.0,
-   "cena_akcii": null,
-   "litrov": 0.75,
-   "magazinov": 1,
-   "v_prodazhe": true,
-   "magazin": "maxi-cenovnik",
-   "pochemu": "дом есть, вина нет"
   },
   {
    "vino": "Vino belo Ruffino orvieto classico 0.75L",
@@ -12486,7 +12435,7 @@
   },
   {
    "vino": "Vino crveno Rskavac Braca Rajkovic 0.75l",
-   "hozyaistvo": "Prince",
+   "hozyaistvo": "Braca Rajkovic",
    "shtrihkod": "8606105303019",
    "cena_rsd": 1889.0,
    "cena_akcii": null,
@@ -12494,7 +12443,7 @@
    "magazinov": 1,
    "v_prodazhe": true,
    "magazin": "maxi-cenovnik",
-   "pochemu": "хозяйства нет в наших таблицах"
+   "pochemu": "дом есть, вина нет"
   },
   {
    "vino": "Vino belo bella Fabula Savig.blanc 0.75l",
@@ -12689,6 +12638,18 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
+   "vino": "Erdevik vino bella novela 0,75l",
+   "hozyaistvo": "",
+   "cena_rsd": 1549.99,
+   "litrov": 0.75,
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "tovar": "60106865",
+   "stranica": "https://online.idea.rs/#!/products/60106865/erdevik-vino-bella-novela-0-75l",
+   "magazin": "idea",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
    "vino": "Freschello Bianco Vivo belo vino 0,75l",
    "hozyaistvo": "",
    "cena_rsd": 659.99,
@@ -12761,18 +12722,6 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
-   "vino": "Kaštel belo vino 0,75l Vinarija Čoka",
-   "hozyaistvo": "",
-   "cena_rsd": 559.99,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "razdel": "Belo vino",
-   "tovar": "60011826",
-   "stranica": "https://online.idea.rs/#!/products/60011826/kastel-belo-vino-0-75l-vinarija-coka",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
    "vino": "Kutjevo Graševina belo vino 0,75l",
    "hozyaistvo": "",
    "cena_rsd": 1339.99,
@@ -12786,7 +12735,7 @@
   },
   {
    "vino": "Lastar vino belo chardonnay Lastar 0,75l",
-   "hozyaistvo": "Lastar vino",
+   "hozyaistvo": "Lastar",
    "cena_rsd": 1899.99,
    "litrov": 0.75,
    "v_prodazhe": true,
@@ -12822,7 +12771,7 @@
   },
   {
    "vino": "Nikolas Wines vino premium bela tamjanika 0.75l +2 čaše nikolas wines",
-   "hozyaistvo": "Nikolas Wines vino",
+   "hozyaistvo": "nikolas wines",
    "cena_rsd": 1379.99,
    "litrov": 0.75,
    "v_prodazhe": true,
@@ -13217,18 +13166,6 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
-   "vino": "Vino chardonnay premium 0.75l nikolas wines",
-   "hozyaistvo": "",
-   "cena_rsd": 520.99,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "razdel": "Belo vino",
-   "tovar": "60118323",
-   "stranica": "https://online.idea.rs/#!/products/60118323/vino-chardonnay-premium-0-75l-nikolas-wines",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
    "vino": "Vino chevrotin chardonnay 0,75l",
    "hozyaistvo": "",
    "cena_rsd": 649.99,
@@ -13614,7 +13551,7 @@
   },
   {
    "vino": "Lastar vino crv pinot noir Lastar 0,75L",
-   "hozyaistvo": "Lastar vino",
+   "hozyaistvo": "Lastar",
    "cena_rsd": 1899.99,
    "litrov": 0.75,
    "v_prodazhe": true,
@@ -13623,18 +13560,6 @@
    "stranica": "https://online.idea.rs/#!/products/60085737/lastar-vino-crv-pinot-noir-lastar-0-75l",
    "magazin": "idea",
    "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lederer Cabernet Sauvignon crveno vino 0.75 l Vinarija Čoka",
-   "hozyaistvo": "",
-   "cena_rsd": 779.99,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "razdel": "Crveno vino",
-   "tovar": "60010337",
-   "stranica": "https://online.idea.rs/#!/products/60010337/lederer-cabernet-sauvignon-crveno-vino-0-75-l-vinarija-coka",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "vino": "Maestro vino primitivo puglia 0.75l",
@@ -13657,18 +13582,6 @@
    "razdel": "Crveno vino",
    "tovar": "60098955",
    "stranica": "https://online.idea.rs/#!/products/60098955/manastir-tvrdos-vino-hum-cabernet-sauvignon-0-75l",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Merlot -suvo crveno vino 0,75l Vinarija Čoka",
-   "hozyaistvo": "",
-   "cena_rsd": 779.99,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "razdel": "Crveno vino",
-   "tovar": "60014161",
-   "stranica": "https://online.idea.rs/#!/products/60014161/merlot-suvo-crveno-vino-0-75l-vinarija-coka",
    "magazin": "idea",
    "pochemu": "хозяйства нет в наших таблицах"
   },
@@ -13770,7 +13683,7 @@
   },
   {
    "vino": "Prokupac vino crveno doja breg 0.75l",
-   "hozyaistvo": "Prokupac vino",
+   "hozyaistvo": "breg",
    "cena_rsd": 5299.99,
    "litrov": 0.75,
    "v_prodazhe": true,
@@ -13779,18 +13692,6 @@
    "stranica": "https://online.idea.rs/#!/products/60115658/prokupac-vino-crveno-doja-breg-0-75l",
    "magazin": "idea",
    "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Regent Reserve Aleksandrović",
-   "hozyaistvo": "",
-   "cena_rsd": 2569.99,
-   "litrov": null,
-   "v_prodazhe": true,
-   "razdel": "Crveno vino",
-   "tovar": "60010169",
-   "stranica": "https://online.idea.rs/#!/products/60010169/regent-reserve-aleksandrovic",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "vino": "Rubin Medveđa krv crveno vino 0,75l",
@@ -14022,7 +13923,7 @@
   },
   {
    "vino": "Vino crveno JP Chenet reserve merlot 0,75l Tody",
-   "hozyaistvo": "",
+   "hozyaistvo": "Tody",
    "cena_rsd": 1677.99,
    "litrov": 0.75,
    "v_prodazhe": true,
@@ -14030,7 +13931,7 @@
    "tovar": "60030316",
    "stranica": "https://online.idea.rs/#!/products/60030316/vino-crveno-jp-chenet-reserve-merlot-0-75l-tody",
    "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
+   "pochemu": "дом есть, вина нет"
   },
   {
    "vino": "Vino crveno mademoiselle comedie bordeaux 0,75l",
@@ -14041,18 +13942,6 @@
    "razdel": "Crveno vino",
    "tovar": "60127378",
    "stranica": "https://online.idea.rs/#!/products/60127378/vino-crveno-mademoiselle-comedie-bordeaux-0-75l",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino crveno orpheline 0.75l kovačević",
-   "hozyaistvo": "",
-   "cena_rsd": 719.99,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "razdel": "Crveno vino",
-   "tovar": "60028531",
-   "stranica": "https://online.idea.rs/#!/products/60028531/vino-crveno-orpheline-0-75l-kovacevic",
    "magazin": "idea",
    "pochemu": "хозяйства нет в наших таблицах"
   },
@@ -14105,42 +13994,6 @@
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
-   "vino": "Vino merlot 0,75l rubin",
-   "hozyaistvo": "",
-   "cena_rsd": 659.99,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "razdel": "Crveno vino",
-   "tovar": "60098748",
-   "stranica": "https://online.idea.rs/#!/products/60098748/vino-merlot-0-75l-rubin",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vino rapsodija 0.75l tonković",
-   "hozyaistvo": "",
-   "cena_rsd": 2389.99,
-   "litrov": 0.75,
-   "v_prodazhe": true,
-   "razdel": "Crveno vino",
-   "tovar": "60115655",
-   "stranica": "https://online.idea.rs/#!/products/60115655/vino-rapsodija-0-75l-tonkovic",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
-   "vino": "Vranac suvo crveno vino 0,187 Vinarija Čoka",
-   "hozyaistvo": "",
-   "cena_rsd": 219.99,
-   "litrov": null,
-   "v_prodazhe": true,
-   "razdel": "Crveno vino",
-   "tovar": "60044054",
-   "stranica": "https://online.idea.rs/#!/products/60044054/vranac-suvo-crveno-vino-0-187-vinarija-coka",
-   "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
-  },
-  {
    "vino": "Vranac pro corde crveno vino 750ml",
    "hozyaistvo": "",
    "cena_rsd": 1139.99,
@@ -14166,7 +14019,7 @@
   },
   {
    "vino": "Ždrepčeva krv crveno vino 0,75l Vinarija Čoka",
-   "hozyaistvo": "",
+   "hozyaistvo": "vino Vinarija Čoka",
    "cena_rsd": 559.99,
    "litrov": 0.75,
    "v_prodazhe": true,
@@ -14174,7 +14027,7 @@
    "tovar": "60000029",
    "stranica": "https://online.idea.rs/#!/products/60000029/zdrepceva-krv-crveno-vino-0-75l-vinarija-coka",
    "magazin": "idea",
-   "pochemu": "хозяйства нет в наших таблицах"
+   "pochemu": "дом есть, вина нет"
   },
   {
    "vino": "13jul vino crv epoha 0.75l",

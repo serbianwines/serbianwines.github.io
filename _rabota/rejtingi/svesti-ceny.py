@@ -50,8 +50,12 @@ UROZHAJ = re.compile(r"[\s,]*\b(19[5-9]\d|20[0-2]\d)\s*$")
 # Kovacevic 0,75l». Слова «вино», цвет и «стоно» имени вина не называют,
 # а начало имени у нас — как раз то, по чему идёт сведение. Без их снятия
 # из ста шестидесяти шести позиций Maxi сходились три.
-YARLYK = re.compile(r"^\s*(?:vino|stono|kvalitetno|vrhunsko|belo|crveno|"
-                    r"bijelo|roze|rose|ruzicasto|penusavo|blago\s+penusavo|"
+# «Crno» в списке не было, и «Vino crno Petit Verdot Grumen» не сходилось
+# ни с чем: слово оставалось впереди имени вина. У Maxi красное зовётся
+# и «crveno», и «crno», у обоих есть женский и мужской род.
+YARLYK = re.compile(r"^\s*(?:vino|stono|kvalitetno|vrhunsko|belo|beli|bela|"
+                    r"crveno|crveni|crvena|crno|crni|crna|bijelo|roze|rose|"
+                    r"ruzicasto|penusavo|blago\s+penusavo|"
                     r"suvo|polusuvo|poluslatko)\b[\s,-]*", re.I)
 # Дробная часть бывает любой длины: 1,5 л, 0,5 л, 0,375 л. Первая
 # редакция читала только один знак после запятой и полубутылку Маканы
@@ -168,7 +172,12 @@ def main():
                 # Держится отдельным источником: у него своя цена
                 # и свой набор товаров.
                 ("maxi-cenovnik", "maxi-cenovnik-ceny.json"),
-                ("idea", "idea-ceny.json")]
+                ("idea", "idea-ceny.json"),
+                # Цены, снятые автором с экрана там, где машиной не
+                # берётся. В супермаркетный срез не идут: строки Wolt
+                # приходят и из Maxi, и из делекатесной GUSTO, а мерить
+                # полку сети по делекатесной нельзя.
+                ("vruchnuyu", "ceny-vruchnuyu.json")]
     # Супермаркет — не винотека: у него другая полка и другие цены.
     # Разделение нужно, чтобы можно было спросить отдельно «что взять
     # в супермаркете», а не усреднять две разные торговли в одну.
@@ -232,6 +241,12 @@ def main():
     nashi = {v["klyuch"] for v in vina}
     nash_cvet = {v["klyuch"]: v.get("cvet") for v in vina}
 
+    # Сорт узнаётся по ключу, а не по написанию: у «vino prokupac»
+    # служебное слово ключом снимается, и остаётся «prokupac» — тот самый
+    # призрак из поля производителя Decanter. Без сравнения по ключу
+    # «Ukusi moga kraja vino prokupac» доставался ему.
+    KLYUCHI_SORTOV = {st.klyuch_hozyaistva(x) for x in st.SORT_NE_DOM}
+
     def dom_iz_imeni(imya):
         """Хозяйство по началу имени вина.
 
@@ -241,14 +256,26 @@ def main():
         длинное начало, которое оказывается известным нам домом:
         «Zvonko Bogdan» длиннее и точнее, чем «Zvonko».
         """
-        chasti = (imya or "").split()
+        chasti = [c for c in (imya or "").split()
+                  if not re.fullmatch(r"\d+(?:[.,]\d+)?\s*(?:l|ml)?", c, re.I)]
+        # Имя дома стоит и в конце: Maxi пишет «Vino belo Sauvignon Blanc
+        # Djurdjic 0.75l». Хвост пробуется первым — он вернее начала:
+        # в начале обычно сорт.
+        for skolko in range(min(4, len(chasti) - 1), 0, -1):
+            konec = " ".join(chasti[-skolko:])
+            klyuch = st.klyuch_hozyaistva(konec)
+            if klyuch in KLYUCHI_SORTOV:
+                continue
+            if klyuch in po_domu:
+                return konec
         for skolko in range(min(4, len(chasti) - 1), 0, -1):
             nachalo = " ".join(chasti[:skolko])
             # Сорт хозяйством не считается: список общий, в
             # `sobrat-tablicy.py`, чтобы не расходился по скриптам.
-            if st.sort_a_ne_dom(nachalo):
+            klyuch = st.klyuch_hozyaistva(nachalo)
+            if klyuch in KLYUCHI_SORTOV:
                 continue
-            if st.klyuch_hozyaistva(nachalo) in po_domu:
+            if klyuch in po_domu:
                 return nachalo
         return ""
 
@@ -280,12 +307,30 @@ def main():
         # разных домов. Поэтому имя дома берётся из имени товара не
         # только когда поле пусто, но и когда в нём стоит незнакомое нам
         # имя: своё оно вернёт, чужое — нет, а хуже не станет.
-        if (not z["hozyaistvo"].strip()
-                or st.klyuch_hozyaistva(z["hozyaistvo"]) not in po_domu):
-            iz_tovara = dom_iz_imeni(imya)
-            if iz_tovara:
-                z = {**z, "hozyaistvo": iz_tovara}
-                iz_imeni += 1
+        #
+        # Хуже того, марка бывает знакомой и всё равно чужой: под маркой
+        # «Vinarija Grumen» у Maxi лежат «Sauvignon Blanc Djurdjic»,
+        # «Simonida Djurdjic» и македонский «Alexandar Bovin». Грумен
+        # им поставщик, а не винодел. Поэтому если имя товара называет
+        # другой известный нам дом — верить имени, а не марке: имя
+        # о вине, марка о поставке.
+        # Условие у подмены одно и узкое: марка перебивается только
+        # тогда, когда её имени в имени товара нет вовсе. «Vino belo
+        # Sauvignon Blanc Djurdjic» под маркой «Vinarija Grumen» —
+        # Грумена в имени нет, значит он поставщик, и верить надо имени.
+        # А «Deurić Probus 276» под маркой «Vinarija Deurić» — Деурић
+        # в имени стоит, и «Probus» в конце это сорт в имени вина,
+        # а не другое хозяйство. Без этой оговорки терялось тринадцать
+        # цен: «Breg Sila», «Milanović Probus», «Milićević Vladavina».
+        iz_tovara = dom_iz_imeni(imya)
+        svoya = st.klyuch_hozyaistva(z["hozyaistvo"]) if z["hozyaistvo"].strip() else ""
+        marka_v_imeni = bool(svoya) and bool(
+            set(svoya.split("-")) & set(slova(st, imya)))
+        if iz_tovara and not marka_v_imeni and (
+                not svoya or svoya not in po_domu
+                or st.klyuch_hozyaistva(iz_tovara) != svoya):
+            z = {**z, "hozyaistvo": iz_tovara}
+            iz_imeni += 1
         klyuch = st.klyuch_vina(z["hozyaistvo"], imya)
         if klyuch in nashi:
             schet["ключ сошёлся точно"] += 1

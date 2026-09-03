@@ -162,6 +162,45 @@ OBLAST_KONKURSA = {
 }
 
 
+# Как рејон называет магазин. Две сербские винотеки — «Prodaja vina»
+# и «Wine Art Shop» — приписывают рејон **вину**, а не хозяйству: все
+# прочие наши источники говорят, где стоит подвал или где хозяйство
+# записано в регистр. Пишут они вольно: «Fruška gora» вместо Сремског
+# рејона, «Šumadija» вместо Шумадијског, «Negotinska Krajina» без слова
+# «рејон». Свободные написания перечислены здесь, строгие узнаются сами
+# по справочнику.
+MAGAZIN_REJON = {
+    "fruska gora": ("Sremski rejon", "Fruškogorsko vinogorje"),
+    "fruskogorsko": ("Sremski rejon", "Fruškogorsko vinogorje"),
+    "fruskogorski": ("Sremski rejon", "Fruškogorsko vinogorje"),
+    "srem": ("Sremski rejon", None),
+    "sumadija": ("Šumadijski rejon", None),
+    "negotinska krajina": ("Rejon Negotinska Krajina", None),
+    "negotinski": ("Rejon Negotinska Krajina", None),
+    # «Косовско-метохијски» рејонизација не знает: там их два,
+    # Севернометохијски и Јужнометохијски. Имя названо, рејон — нет.
+    "kosovsko metohijski": (None, None),
+}
+
+
+def bez_znakov(s):
+    """Строка без диакритики и регистра — для сравнения имён мест."""
+    s = "".join(z for z in unicodedata.normalize("NFD", (s or "").lower())
+                if unicodedata.category(z) != "Mn")
+    return re.sub(r"\s+", " ", s.replace("-", " ")).strip()
+
+
+def rejon_magazina(syroe, po_imeni):
+    """Рејон по тому, как его назвал магазин. `po_imeni` — справочник
+    рејонов, приведённый тем же способом."""
+    prosto = bez_znakov(syroe)
+    prosto = re.sub(r"\b(rejon|rejona|vinogorje|vinogorja)\b", " ", prosto)
+    prosto = re.sub(r"\s+", " ", prosto).strip()
+    if prosto in MAGAZIN_REJON:
+        return MAGAZIN_REJON[prosto]
+    return (po_imeni.get(prosto), None)
+
+
 def oblast_konkursa(syroe):
     """Рејон по имени области, как его пишут конкурсы. Или ничего."""
     s = chinit_kodirovku(bez_pustogo(syroe))
@@ -586,6 +625,31 @@ def pokazaniya():
         p[klyuch_hozyaistva(v.get("imya_listinga") or v["imya"])].append({
             "istochnik": "vivino-adres", "syroe": v["gorod"],
             "rejon": None, "vinogorje": None, "gorod": v["gorod"]})
+
+    # Магазины: рејон вина, а не адрес хозяйства. Города они не называют,
+    # поэтому решают только там, где о месте не сказал никто, — место
+    # в этом разборе старше ярлыка. Из показаний видно и то, где магазин
+    # с нами расходится: у Ивановића он пишет Шумадијски, хотя пять
+    # источников сразу дают Александровац, то есть Жупу.
+    po_imeni = {}
+    if os.path.exists(put("rejony-vinogorja.json")):
+        spravochnik = json.load(open(put("rejony-vinogorja.json"), encoding="utf-8"))
+        for r in spravochnik["rejony"]:
+            prosto = re.sub(r"\b(rejon|rejona)\b", " ", bez_znakov(r["rejon"]))
+            po_imeni[re.sub(r"\s+", " ", prosto).strip()] = r["rejon"]
+    for fajl, imya in (("prodajavina-ceny.json", "prodajavina"),
+                       ("wineart-ceny.json", "wineart")):
+        if not os.path.exists(put(fajl)):
+            continue
+        for v in json.load(open(put(fajl), encoding="utf-8"))["vina"]:
+            syroe = (v.get("rejon_magazina") or "").strip()
+            hozyaistvo = (v.get("hozyaistvo") or "").strip()
+            if not syroe or not hozyaistvo:
+                continue
+            rejon, vinogorje = rejon_magazina(syroe, po_imeni)
+            p[klyuch_hozyaistva(hozyaistvo)].append({
+                "istochnik": imya, "syroe": syroe,
+                "rejon": rejon, "vinogorje": vinogorje})
 
     if os.path.exists(put("vinarijesrbije-mesta.json")):
         d = json.load(open(put("vinarijesrbije-mesta.json"), encoding="utf-8"))

@@ -742,6 +742,8 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 |
+| Tri Oraha · 750 Barrique Barrels | — | 4.5 | — |
+| Tri Oraha · 500 Barrique Barrels | — | 4.4 | — |
 | Vinarija Dajic · Gamay Barrique | — | 4.4 | — |
 | Manastir Bukovo · Вез | 90 | 4.3 | — |
 | Vimmid · Аглаjа Dentelle Cabernet Sauvignon | — | 4.3 | — |
@@ -749,8 +751,6 @@ Vivino в стобалльную, когда балла критика не бы
 | Matalj · Zemna Reserva | 92 | 4.2 | 12 |
 | Raj · Plot | — | 4.1 | 1 |
 | Traško Vinarija · Fabulous Cabernet Franc | 90 | 4.1 | 9 |
-| Vinarija Timacvm Minvs · Cabernet Sauvignon | — | 4.1 | — |
-| Dalia · Gaamez Gamay | — | 4.0 | — |
 
 **Согласие трёх**
 

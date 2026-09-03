@@ -581,8 +581,8 @@ dimalis-frankovka,Dimalis,Frankovka,12356777,https://www.vivino.com/w/12356777,m
 dimalis-rajnski-rizling,Dimalis,Rajnski Rizling,11414440,https://www.vivino.com/w/11414440,malo_ocenok,8,False,False,Rejon Telečka,Centralnotelečko vinogorje,hozyaistvo,белое
 dimalis-rose,Dimalis,Rosé,,,net_na_vivino,,False,True,Rejon Telečka,Centralnotelečko vinogorje,hozyaistvo,розе
 dimalis-sauvignon-blanc,Dimalis,Sauvignon Blanc,,,net_na_vivino,,False,True,Rejon Telečka,Centralnotelečko vinogorje,hozyaistvo,белое
-dokovic-chardonnay,Djokovic,Chardonnay,11154586,https://www.vivino.com/w/11154586,ocenka_est,473,False,False,,,,белое
-dokovic-syrah,Djokovic,Syrah,11154637,https://www.vivino.com/w/11154637,ocenka_est,1142,False,False,,,,красное
+dokovic-chardonnay,Djokovic,Chardonnay,11154586,https://www.vivino.com/w/11154586,ocenka_est,473,False,False,Šumadijski rejon,,hozyaistvo,белое
+dokovic-syrah,Djokovic,Syrah,11154637,https://www.vivino.com/w/11154637,ocenka_est,1142,False,False,Šumadijski rejon,,hozyaistvo,красное
 dordevic-bravura-cuvee,Djordjevic Estate Winery,Bravura Cuvée,7183196,https://www.vivino.com/w/7183196,ocenka_est,483,False,True,Šumadijski rejon,Račansko vinogorje,hozyaistvo,красное
 dordevic-chardonnay,Djordjevic Estate Winery,Chardonnay,3957315,https://www.vivino.com/w/3957315,ocenka_est,441,False,True,Šumadijski rejon,Račansko vinogorje,hozyaistvo,белое
 dordevic-merlot,Djordjevic Estate Winery,Merlot,,,net_na_vivino,,False,True,Šumadijski rejon,Račansko vinogorje,hozyaistvo,красное
@@ -1523,9 +1523,9 @@ pimnica-peric-crna-tamjanika,Pimnica Perić,Crna Tamjanika,7634416,https://www.v
 pimnica-peric-reserve-cabernet-sauvignon,Pimnica Perić,Reserve Cabernet Sauvignon,9025981,https://www.vivino.com/w/9025981,malo_ocenok,23,False,False,,,,красное
 pimnica-peric-visnja-bagrina-italijanski-rizling-cherry-bagrina-italian-riesling,Pimnica Perić,Вишња Багрина - Италијански Ризлинг (Cherry Bagrina - Italian Riesling),11103648,https://www.vivino.com/w/11103648,malo_ocenok,82,False,False,,,,белое
 pimnica-peric-zacinjak,Pimnica Perić,Зачињак,10250267,https://www.vivino.com/w/10250267,malo_ocenok,77,False,False,,,,красное
-plavi-perun-chardonnay,Plavi Perun,Chardonnay,11976196,https://www.vivino.com/w/11976196,ocenka_est,192,False,False,,,,белое
-plavi-perun-pinot-noir,Plavi Perun,Pinot Noir,12032159,https://www.vivino.com/w/12032159,ocenka_est,94,False,False,,,,красное
-plavi-perun-rose-pinot-noir,Plavi Perun,Rosé Pinot Noir,13377926,https://www.vivino.com/w/13377926,malo_ocenok,19,False,False,,,,розе
+plavi-perun-chardonnay,Plavi Perun,Chardonnay,11976196,https://www.vivino.com/w/11976196,ocenka_est,192,False,False,Šumadijski rejon,,hozyaistvo,белое
+plavi-perun-pinot-noir,Plavi Perun,Pinot Noir,12032159,https://www.vivino.com/w/12032159,ocenka_est,94,False,False,Šumadijski rejon,,hozyaistvo,красное
+plavi-perun-rose-pinot-noir,Plavi Perun,Rosé Pinot Noir,13377926,https://www.vivino.com/w/13377926,malo_ocenok,19,False,False,Šumadijski rejon,,hozyaistvo,розе
 plavinac-belo,Plavinac,Belo,13238666,https://www.vivino.com/w/13238666,malo_ocenok,1,False,False,Beogradski rejon,Smederevsko vinogorje,hozyaistvo,белое
 plavinac-cabernet-sauvignon,Plavinac,Cabernet Sauvignon,8953229,https://www.vivino.com/w/8953229,malo_ocenok,181,False,True,Beogradski rejon,Smederevsko vinogorje,hozyaistvo,красное
 plavinac-cabernet-sauvignon-barrique,Plavinac,Cabernet Sauvignon Barrique,13238653,https://www.vivino.com/w/13238653,malo_ocenok,9,False,True,Beogradski rejon,Smederevsko vinogorje,hozyaistvo,красное
@@ -2132,14 +2132,14 @@ tri-mede-i-oblak-vagabundo-belo,Tri Medje I Oblak,Vagabundo Belo,5791386,https:/
 tri-mede-i-oblak-vagabundo-cabernet-sauvignon,Tri Medje I Oblak,Vagabundo Cabernet Sauvignon,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,красное
 tri-mede-i-oblak-vagabundo-crveno,Tri Medje I Oblak,Vagabundo Crveno,6408234,https://www.vivino.com/w/6408234,ocenka_est,258,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
 tri-mede-i-oblak-vagabundo-sauvignon-blanc,Tri Medje I Oblak,Vagabundo Sauvignon Blanc,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,белое
-tri-oraha-500-barrique-barrels,Tri Oraha,500 Barrique Barrels,10237619,https://www.vivino.com/w/10237619,ocenka_est,47,False,False,,,,красное
-tri-oraha-750-barrique-barrels,Tri Oraha,750 Barrique Barrels,10237636,https://www.vivino.com/w/10237636,ocenka_est,254,False,False,,,,красное
-tri-oraha-cabernet-sauvignon,Tri Oraha,Cabernet Sauvignon,6398568,https://www.vivino.com/w/6398568,ocenka_est,1494,False,False,,,,красное
-tri-oraha-chardonnay,Tri Oraha,Chardonnay,3229012,https://www.vivino.com/w/3229012,ocenka_est,295,False,False,,,,белое
-tri-oraha-classic,Tri Oraha,Classic,11679600,https://www.vivino.com/w/11679600,ocenka_est,95,False,False,,,,красное
-tri-oraha-crnomasnica,Tri Oraha,Crnomasnica,2241420,https://www.vivino.com/w/2241420,ocenka_est,1014,False,False,,,,красное
-tri-oraha-merlot,Tri Oraha,Merlot,7958867,https://www.vivino.com/w/7958867,ocenka_est,264,False,False,,,,красное
-tri-oraha-single-vineyard-grand-reserve,Tri Oraha,Single Vineyard Grand Reserve,11521612,https://www.vivino.com/w/11521612,ocenka_est,463,False,False,,,,красное
+tri-oraha-500-barrique-barrels,Tri Oraha,500 Barrique Barrels,10237619,https://www.vivino.com/w/10237619,ocenka_est,47,False,False,Rejon Negotinska Krajina,,hozyaistvo,красное
+tri-oraha-750-barrique-barrels,Tri Oraha,750 Barrique Barrels,10237636,https://www.vivino.com/w/10237636,ocenka_est,254,False,False,Rejon Negotinska Krajina,,hozyaistvo,красное
+tri-oraha-cabernet-sauvignon,Tri Oraha,Cabernet Sauvignon,6398568,https://www.vivino.com/w/6398568,ocenka_est,1494,False,False,Rejon Negotinska Krajina,,hozyaistvo,красное
+tri-oraha-chardonnay,Tri Oraha,Chardonnay,3229012,https://www.vivino.com/w/3229012,ocenka_est,295,False,False,Rejon Negotinska Krajina,,hozyaistvo,белое
+tri-oraha-classic,Tri Oraha,Classic,11679600,https://www.vivino.com/w/11679600,ocenka_est,95,False,False,Rejon Negotinska Krajina,,hozyaistvo,красное
+tri-oraha-crnomasnica,Tri Oraha,Crnomasnica,2241420,https://www.vivino.com/w/2241420,ocenka_est,1014,False,False,Rejon Negotinska Krajina,,hozyaistvo,красное
+tri-oraha-merlot,Tri Oraha,Merlot,7958867,https://www.vivino.com/w/7958867,ocenka_est,264,False,False,Rejon Negotinska Krajina,,hozyaistvo,красное
+tri-oraha-single-vineyard-grand-reserve,Tri Oraha,Single Vineyard Grand Reserve,11521612,https://www.vivino.com/w/11521612,ocenka_est,463,False,False,Rejon Negotinska Krajina,,hozyaistvo,красное
 tri-puske-rose,Tri Puške,Rosé,7747942,https://www.vivino.com/w/7747942,malo_ocenok,9,False,False,,,,розе
 tri-puske-tamjanika,Tri Puške,Tamjanika,8776323,https://www.vivino.com/w/8776323,malo_ocenok,30,False,False,,,,белое
 trivanovic-amacord,Trivanović,Amacord,3490095,https://www.vivino.com/w/3490095,malo_ocenok,7,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное

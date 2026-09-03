@@ -154,8 +154,8 @@ Boemi, — и на них приходится больше четырёхсот
 | Рејон | Прошло вин | Хозяйств |
 |---|---|---|
 | Sremski rejon | 270 | 52 |
-| Rejon Tri Morave | 172 | 39 |
-| Šumadijski rejon | 153 | 24 |
+| Rejon Tri Morave | 175 | 40 |
+| Šumadijski rejon | 150 | 23 |
 | Subotički rejon | 58 | 9 |
 | Rejon Negotinska Krajina | 56 | 13 |
 | Beogradski rejon | 31 | 8 |

@@ -6,7 +6,8 @@
 из 122 вин с баллом 93 и выше её знали у шестидесяти. Винотеки держат
 ходовое, а «Момент» Веритаса или «Вожд» Александровића стоят у самого
 хозяйства. Цена хозяйства — не полочная и не доставка, это третий канал,
-и помечается он отдельно (`kanal: "hozyaistvo"`).
+и помечается он отдельно (`kanal: "hozyaistvo"`). Он и меряется отдельно:
+у хозяйства то же вино дешевле винотеки примерно на девять процентов.
 
 Как берётся. Сербские винарије почти поголовно сидят на WooCommerce,
 а у него есть открытый Store API:
@@ -16,21 +17,40 @@
 Он отдаёт JSON с именем, ценой, наличием, категориями и адресом
 карточки — разбирать вёрстку не нужно. Цена приходит в мелких единицах
 (`price` 285000 при `currency_minor_unit` 2 — это 2850,00 динара).
+Кто не на WooCommerce, бывает на Shopify: там каталог лежит по
+`/products.json`, а валюта — отдельно, в `/meta.json`. Валюта нужна:
+в самом каталоге её нет, и «2000.00» без неё ничего не значит. Оттуда же
+приходит город хозяйства, и это отдельная находка: место со слов
+самого дома. Так нашёлся Александровац у Ђорђевића.
 
 Адреса сайтов берутся из `kesh-vivino-adresa/*.json`: там их 226,
 и это те же страницы хозяйств, откуда взяты адреса и телефоны.
+Магазин иногда живёт не на самом сайте, а на поддомене `shop.` —
+такие адреса перечислены руками в `DRUGOJ_ADRES`.
 
-Две ловушки, обе стоили времени.
+Четыре ловушки, все четыре стоили ошибок.
 
 1. **Схема.** Vivino почти везде записал адрес как `http://`, а здешний
    прокси пропускает только `https`. На `http` он отвечает
    `403 host_not_allowed`, и это легко принять за отказ самого сайта —
    у пятнадцати хозяйств подряд. Поэтому адрес приводится к `https`.
-2. **В магазине хозяйства не только вино.** Ракије, поклон-пакеты,
-   деревянные шкатулки, чаше. «Trijumf XO» и «Trijumf Special» —
-   ракије Александровића, и по началу имени они сошлись бы с винами
-   «Trijumf». Поэтому товары с такими категориями отсеиваются здесь же,
-   а категория сохраняется в записи: отсев видно.
+2. **Разметка в имени товара.** WooCommerce кладёт в поле имени HTML
+   и экранированные знаки: у Јовца «Merlot <p>Grand Reserve</p>»,
+   у Дулке «Love&#038;Sunshine». Без чистки буквы разметки уходят в имя
+   вина отдельными словами, и сведение врёт.
+3. **Набор бутылок вместо бутылки.** «PROKUPAC PAKET», «BRAVURA CUVEE
+   NOIRE (3 BOCE)», «ĐORĐEVIĆ LETNJI PAKET BR.1 (6 BOCA)». Цена набора,
+   поставленная вину, завысила бы её втрое.
+4. **В магазине хозяйства не только вино.** Ракије, ликери, поклон-
+   пакеты, деревянные шкатулки, чаше, мёд, чај, мази — у манастира
+   Буково целая лавка. «Trijumf XO» и «Trijumf Special» — ракије
+   Александровића, и по началу имени они сошлись бы с винами «Trijumf».
+   Такие товары отсеиваются по разделу магазина, а раздел сохраняется
+   в записи: отсев видно.
+
+Пятая ловушка сидит уже не здесь, а в сведении: имя старшей линии
+(«Merlot Grand Reserve») сходится с именем младшей («Merlot»), и вину
+за 4800 достаётся цена 7800. Разбор — в `svesti-ceny.py`, `STARSHIE`.
 
 Пишет `vinarije-ceny.json`. Кеш — в `kesh-vinarije/`.
 """
@@ -49,6 +69,20 @@ BRAUZER = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
 # то другой, поэтому пробуются оба.
 PUTI = ("/wp-json/wc/store/products?per_page=100&page=%d",
         "/wp-json/wc/store/v1/products?per_page=100&page=%d")
+# Shopify отдаёт каталог тем же способом, только своим адресом, а валюту
+# и город хозяйства — отдельным. Валюта нужна: в `products.json` её нет
+# вовсе, и цена «2000.00» без неё ничего не значит.
+PUT_SHOPIFY = "/products.json?limit=250&page=%d"
+PUT_META = "/meta.json"
+# Магазин, живущий не там, где сайт. Список ведётся руками и только
+# с проверкой: у Деурића сайт `vinarijadeuric.com` магазина не держит,
+# а поддомен `shop.` держит, и Store API на нём отвечает.
+DRUGOJ_ADRES = {"https://vinarijadeuric.com": "https://shop.vinarijadeuric.com"}
+# Набор бутылок, а не бутылка: «PROKUPAC PAKET», «BRAVURA (3 BOCE)»,
+# «ĐORĐEVIĆ LETNJI PAKET BR.1 (6 BOCA)». Цена набора, поставленная вину,
+# втрое завысила бы её.
+NABOR = re.compile(r"\bpaket|\bboc[ae]\b|\bbo[cč]a\b|\bset\b|"
+                   r"\bkutij|\d\s*[x×]\s*0[.,]75", re.I)
 # Разделы магазина, где вина нет. Совпадение ищется по началу слова:
 # «Rakije», «Rakija», «Poklon paketi», «Čaše», «Suveniri».
 NE_VINO = re.compile(r"rakij|lozova[cč]|liker|poklon|suvenir|[cč]a[sš]e|"
@@ -129,8 +163,69 @@ def cena(tovar):
     return (znachenie if valyuta == "RSD" else None), valyuta
 
 
+def shopify(adres):
+    """Каталог магазина на Shopify, приведённый к виду Store API.
+
+    Валюта берётся из `/meta.json`: в самом каталоге её нет, а цена без
+    валюты бесполезна. Оттуда же приходит город хозяйства — Александровац
+    у Ђорђевића, Вранеши у Uziwa, — и это отдельная находка: место,
+    названное самим хозяйством.
+    """
+    kod, telo = vzjat(adres + PUT_META)
+    if kod != 200:
+        return [], "", ""
+    try:
+        meta = json.loads(telo)
+    except ValueError:
+        return [], "", ""
+    valyuta = (meta.get("currency") or "").upper()
+    gorod = (meta.get("city") or "").strip()
+    tovary, stranica = [], 1
+    while stranica <= 5:
+        kod, telo = vzjat(adres + PUT_SHOPIFY % stranica)
+        if kod != 200:
+            break
+        try:
+            kusok = json.loads(telo).get("products", [])
+        except ValueError:
+            break
+        if not kusok:
+            break
+        tovary += kusok
+        if len(kusok) < 250:
+            break
+        stranica += 1
+        time.sleep(PAUZA)
+    # Приводим к тем же полям, что у Store API: дальше разбор общий.
+    edinye = []
+    for p in tovary:
+        varianty = p.get("variants") or [{}]
+        cena_str = varianty[0].get("price")
+        try:
+            v_minor = str(int(round(float(cena_str) * 100)))
+        except (TypeError, ValueError):
+            v_minor = None
+        edinye.append({
+            "id": p.get("id"),
+            "name": p.get("title"),
+            "permalink": "%s/products/%s" % (adres, p.get("handle") or ""),
+            "is_in_stock": bool(varianty[0].get("available", True)),
+            "categories": [{"name": p.get("product_type") or ""}],
+            "prices": {"price": v_minor, "currency_minor_unit": 2,
+                       "currency_code": valyuta},
+        })
+    return edinye, gorod, valyuta
+
+
 def tovary_hozyaistva(adres, imya):
-    """Все товары одного магазина. Возвращает список и пометку, что вышло."""
+    """Все товары одного магазина. Возвращает список, пометку и город.
+
+    Три способа, по убыванию частоты: Store API WooCommerce (двумя
+    адресами — старым и с номером версии), затем каталог Shopify.
+    Магазин иногда живёт не на самом сайте, а на поддомене `shop.` —
+    такие адреса перечислены руками в `DRUGOJ_ADRES`.
+    """
+    adres = DRUGOJ_ADRES.get(adres, adres)
     kod = None
     for shablon in PUTI:
         # Сайт, который вовсе не отвечает, вторым адресом не оживёт.
@@ -168,10 +263,16 @@ def tovary_hozyaistva(adres, imya):
                 break
             stranica += 1
         if vsego:
-            return vsego, "est"
+            return vsego, "est", ""
         if kod == 200:
-            return [], "pusto"
-    return [], "net-api" if kod else "ne-otvechaet"
+            return [], "pusto", ""
+    # WooCommerce не отозвался — пробуем Shopify. К мёртвому адресу
+    # не идём: он и здесь не оживёт.
+    if kod != 0:
+        tovary, gorod, valyuta = shopify(adres)
+        if tovary:
+            return tovary, "shopify", gorod
+    return [], "net-api" if kod else "ne-otvechaet", ""
 
 
 def molchuny():
@@ -205,9 +306,11 @@ def main():
     def odno(para):
         """Один магазин целиком. Возвращает записи вин и строку сводки."""
         adres, imya = para
-        tovary, kak = tovary_hozyaistva(adres, imya)
+        tovary, kak, gorod = tovary_hozyaistva(adres, imya)
         svoi = []
         for tovar in tovary:
+            if NABOR.search(imya_tovara(tovar.get("name"))):
+                continue          # набор бутылок, а не бутылка
             razdely = [html.unescape(k.get("name", ""))
                        for k in (tovar.get("categories") or [])]
             if NE_VINO.search(" ".join(razdely)):
@@ -228,7 +331,10 @@ def main():
                 "stranica": tovar.get("permalink") or adres,
             })
         return svoi, {"hozyaistvo": imya, "sajt": adres, "kak": kak,
-                      "tovarov": len(tovary), "vzyato": len(svoi)}
+                      "tovarov": len(tovary), "vzyato": len(svoi),
+                      # Shopify называет город хозяйства в `/meta.json`.
+                      # Это отдельная находка: место со слов самого дома.
+                      **({"gorod": gorod} if gorod else {})}
 
     # Хозяйства опрашиваются вперемешку: список чужой, мёртвых адресов
     # в нём больше, чем живых, и последовательный обход упирается в них

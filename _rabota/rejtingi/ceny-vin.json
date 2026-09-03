@@ -104,18 +104,18 @@
   "delena-1903-merlot": 1,
   "delena-70-30-sauvignon-blanc-semillon": 1,
   "despotika-krunski-dokaz": 2,
-  "deuric-aksiom-beli": 2,
-  "deuric-aksiom-crveni": 2,
-  "deuric-classic-chardonnay": 3,
-  "deuric-gewurztraminer": 3,
-  "deuric-gorska-tamjanika": 1,
-  "deuric-la-rem-chardonnay": 2,
-  "deuric-la-rem-pinot-noir": 1,
-  "deuric-pinot-noir": 3,
+  "deuric-aksiom-beli": 3,
+  "deuric-aksiom-crveni": 3,
+  "deuric-classic-chardonnay": 4,
+  "deuric-gewurztraminer": 4,
+  "deuric-gorska-tamjanika": 2,
+  "deuric-la-rem-chardonnay": 3,
+  "deuric-la-rem-pinot-noir": 2,
+  "deuric-pinot-noir": 4,
   "deuric-princeps-merlot": 1,
-  "deuric-princeza-na-zrnu-grasca": 1,
-  "deuric-probus-276": 1,
-  "deuric-sauvignon-blanc": 3,
+  "deuric-princeza-na-zrnu-grasca": 2,
+  "deuric-probus-276": 2,
+  "deuric-sauvignon-blanc": 4,
   "dibonis-di-franc": 1,
   "dibonis-di-shiraz": 1,
   "doja-breg-cabernet-sauvignon": 2,
@@ -132,7 +132,7 @@
   "dokovic-chardonnay": 3,
   "dokovic-syrah": 2,
   "dordevic-merlot-cabernet-sauvignon": 1,
-  "dordevic-sauvignon-blanc": 1,
+  "dordevic-sauvignon-blanc": 2,
   "durdevica-legat-do-neba-i-nazad-belo": 2,
   "durdevica-legat-otisak": 1,
   "durdic-cabernet-franc": 2,
@@ -423,8 +423,8 @@
   "budimir-tamjanika-zupska": 1,
   "temet-tri-morave-crveno": 4,
   "zvonko-bogdan-sauvignon-blanc": 4,
-  "lastar-tamjanika": 6,
-  "lastar-pinot-noir": 4,
+  "lastar-tamjanika": 7,
+  "lastar-pinot-noir": 5,
   "matalj-kremen": 6,
   "probus-magis": 1,
   "plavi-perun-rose-pinot-noir": 1,
@@ -482,7 +482,7 @@
   "arsenijevic-merlot": 2,
   "trivanovic-rose": 1,
   "doja-chardonnay-barrique": 1,
-  "deuric-severna-morava": 4,
+  "deuric-severna-morava": 5,
   "despotika-nebo": 1,
   "nikad-nije-kasno-melodija": 2,
   "arsenijevic-chardonnay": 2,
@@ -518,14 +518,14 @@
   "kovacevic-rizling": 1,
   "virtus-pinot-noir": 2,
   "virtus-gewurztraminer": 2,
-  "lastar-merlot-cabernet-franc": 4,
+  "lastar-merlot-cabernet-franc": 5,
   "erdevik-tri-bele-koze-blanc": 4,
   "radovan-100-prokupac": 1,
   "radovan-100-tamjanika": 1,
   "bjelica-babaroga-chardonnay": 1,
   "aleksic-arno": 2,
   "vinska-kuca-minica-stota-suza": 1,
-  "deuric-urban-rose": 1,
+  "deuric-urban-rose": 2,
   "janko-misija": 1,
   "deuric-chardonnay-barrique": 1,
   "deuric-aksiom": 1,
@@ -570,7 +570,7 @@
   "trivanovic-invictus": 1,
   "vila-tamjanika": 1,
   "quet-grasac": 1,
-  "deuric-chardonnay": 1,
+  "deuric-chardonnay": 2,
   "fruskogorski-fruskac-beli": 1,
   "pusula-cabernet": 1,
   "trivanovic-lex": 2,
@@ -619,6 +619,8 @@
   "galot-rajnski-rizling": 1,
   "galot-chardonnay": 1,
   "lastar-cabernet-franc": 1,
+  "lastar-rose": 1,
+  "lastar-cru-6": 1,
   "lastar-sofijin-izbor-pinot-noir": 1,
   "mackov-camerlot": 1,
   "mackov-pinot-noir": 1,
@@ -652,6 +654,10 @@
   "zarkovic-marselan": 1,
   "zarkovic-tamjanika": 1,
   "zarkovic-merlot": 1,
+  "dordevic-bravura-cuvee": 1,
+  "dordevic-rose": 1,
+  "dordevic-chardonnay": 1,
+  "dordevic-tamjanika": 1,
   "sukac-merlot": 1,
   "sukac-rose": 1,
   "sukac-grasac-beli": 1,
@@ -663,6 +669,7 @@
   "trivanovic-optimus": 1,
   "trivanovic-sauvignon-blanc": 1,
   "trivanovic-chardonnay-barrique": 1,
+  "uziwa-traminac": 1,
   "varina-jagoda": 1,
   "varina-prokupac": 1,
   "varina-tamjanika-cilibarka": 1,
@@ -675,6 +682,11 @@
   "bela-kula-burgundac-sivi": 1,
   "bela-kula-nestor-zilavka": 1,
   "bela-kula-shiraz": 1,
+  "deuric-la-rem-probus": 1,
+  "deuric-la-rem-morava": 1,
+  "deuric-la-rem-marselan": 1,
+  "deuric-dolce-vita-gewurztraminer": 1,
+  "deuric-merlot": 1,
   "jovac-sauvignon-blanc-single-vineyard": 1,
   "jovac-tamjanika": 1,
   "panjkovic-smelost": 1,
@@ -761,17 +773,17 @@
   "mediana_0_75": 1350,
   "mediana_vinoteki": 1782,
   "mediana_u_hozyaistva": 1400,
-  "tolko_v_supermarkete": 55,
-  "vin_v_oboih": 85,
-  "nacenka_supermarketa": 1.213,
+  "tolko_v_supermarkete": 54,
+  "vin_v_oboih": 86,
+  "nacenka_supermarketa": 1.212,
   "deshevle_v_supermarkete": 4
  },
  "u_hozyaistva": {
-  "vin_i_tam_i_tam": 63,
-  "cena_hozyaistva_k_lavke": 0.906,
-  "deshevle_u_hozyaistva": 48
+  "vin_i_tam_i_tam": 81,
+  "cena_hozyaistva_k_lavke": 0.896,
+  "deshevle_u_hozyaistva": 64
  },
- "hozyaistv_s_magazinom": 57,
+ "hozyaistv_s_magazinom": 60,
  "ceny": {
   "100-zena-madame-merlette": 4090,
   "100-zena-mlad-momak-merlot": 1025,
@@ -863,18 +875,18 @@
   "delena-1903-merlot": 2865,
   "delena-70-30-sauvignon-blanc-semillon": 1775,
   "despotika-krunski-dokaz": 4690,
-  "deuric-aksiom-beli": 1675,
-  "deuric-aksiom-crveni": 2146,
+  "deuric-aksiom-beli": 1650,
+  "deuric-aksiom-crveni": 2112,
   "deuric-classic-chardonnay": 1260,
-  "deuric-gewurztraminer": 1115,
-  "deuric-gorska-tamjanika": 1500,
-  "deuric-la-rem-chardonnay": 4025,
-  "deuric-la-rem-pinot-noir": 4090,
-  "deuric-pinot-noir": 1300,
+  "deuric-gewurztraminer": 1098,
+  "deuric-gorska-tamjanika": 1410,
+  "deuric-la-rem-chardonnay": 3960,
+  "deuric-la-rem-pinot-noir": 3845,
+  "deuric-pinot-noir": 1280,
   "deuric-princeps-merlot": 4975,
-  "deuric-princeza-na-zrnu-grasca": 1230,
-  "deuric-probus-276": 1770,
-  "deuric-sauvignon-blanc": 1188,
+  "deuric-princeza-na-zrnu-grasca": 1155,
+  "deuric-probus-276": 1665,
+  "deuric-sauvignon-blanc": 1134,
   "dibonis-di-franc": 1565,
   "dibonis-di-shiraz": 2350,
   "doja-breg-cabernet-sauvignon": 4820,
@@ -891,7 +903,7 @@
   "dokovic-chardonnay": 4356,
   "dokovic-syrah": 5066,
   "dordevic-merlot-cabernet-sauvignon": 1375,
-  "dordevic-sauvignon-blanc": 1250,
+  "dordevic-sauvignon-blanc": 1225,
   "durdevica-legat-do-neba-i-nazad-belo": 1544,
   "durdevica-legat-otisak": 2500,
   "durdic-cabernet-franc": 2144,
@@ -1182,8 +1194,8 @@
   "budimir-tamjanika-zupska": 1600,
   "temet-tri-morave-crveno": 1746,
   "zvonko-bogdan-sauvignon-blanc": 1592,
-  "lastar-tamjanika": 1740,
-  "lastar-pinot-noir": 1753,
+  "lastar-tamjanika": 1650,
+  "lastar-pinot-noir": 1716,
   "matalj-kremen": 1840,
   "probus-magis": 1950,
   "plavi-perun-rose-pinot-noir": 2300,
@@ -1241,7 +1253,7 @@
   "arsenijevic-merlot": 1707,
   "trivanovic-rose": 1335,
   "doja-chardonnay-barrique": 1500,
-  "deuric-severna-morava": 1406,
+  "deuric-severna-morava": 1360,
   "despotika-nebo": 1200,
   "nikad-nije-kasno-melodija": 1004,
   "arsenijevic-chardonnay": 1584,
@@ -1329,7 +1341,7 @@
   "trivanovic-invictus": 1179,
   "vila-tamjanika": 1399,
   "quet-grasac": 1499,
-  "deuric-chardonnay": 1759,
+  "deuric-chardonnay": 1630,
   "fruskogorski-fruskac-beli": 599,
   "pusula-cabernet": 1978,
   "trivanovic-lex": 1520,
@@ -1378,6 +1390,8 @@
   "galot-rajnski-rizling": 1044,
   "galot-chardonnay": 900,
   "lastar-cabernet-franc": 3000,
+  "lastar-rose": 1200,
+  "lastar-cru-6": 1020,
   "lastar-sofijin-izbor-pinot-noir": 2400,
   "mackov-camerlot": 1320,
   "mackov-pinot-noir": 1200,
@@ -1411,6 +1425,10 @@
   "zarkovic-marselan": 2000,
   "zarkovic-tamjanika": 800,
   "zarkovic-merlot": 1200,
+  "dordevic-bravura-cuvee": 2000,
+  "dordevic-rose": 1000,
+  "dordevic-chardonnay": 1200,
+  "dordevic-tamjanika": 1200,
   "sukac-merlot": 900,
   "sukac-rose": 800,
   "sukac-grasac-beli": 800,
@@ -1422,6 +1440,7 @@
   "trivanovic-optimus": 1300,
   "trivanovic-sauvignon-blanc": 2160,
   "trivanovic-chardonnay-barrique": 2160,
+  "uziwa-traminac": 900,
   "varina-jagoda": 2500,
   "varina-prokupac": 1300,
   "varina-tamjanika-cilibarka": 1300,
@@ -1434,6 +1453,11 @@
   "bela-kula-burgundac-sivi": 1200,
   "bela-kula-nestor-zilavka": 2400,
   "bela-kula-shiraz": 1200,
+  "deuric-la-rem-probus": 3600,
+  "deuric-la-rem-morava": 3600,
+  "deuric-la-rem-marselan": 3600,
+  "deuric-dolce-vita-gewurztraminer": 1500,
+  "deuric-merlot": 1200,
   "jovac-sauvignon-blanc-single-vineyard": 1800,
   "jovac-tamjanika": 1800,
   "panjkovic-smelost": 1500,
@@ -2150,35 +2174,58 @@
   },
   "deuric-aksiom-beli": {
    "vinoteka": 1700,
-   "wineart": 1650
+   "wineart": 1650,
+   "vinarije": 1500
   },
   "deuric-aksiom-crveni": {
    "vinoteka": 2180,
-   "wineart": 2112
+   "wineart": 2112,
+   "vinarije": 1970
   },
   "deuric-classic-chardonnay": {
    "vinoteka": 1430,
    "winestars": 1230,
-   "prodajavina": 1260
+   "prodajavina": 1260,
+   "vinarije": 1260
   },
   "deuric-gewurztraminer": {
    "vinoteka": 1230,
    "cerpromet": 1115,
-   "prodajavina": 1080
+   "prodajavina": 1080,
+   "vinarije": 1080
+  },
+  "deuric-gorska-tamjanika": {
+   "vinoteka": 1500,
+   "vinarije": 1320
   },
   "deuric-la-rem-chardonnay": {
    "vinoteka": 4090,
-   "wineart": 3960
+   "wineart": 3960,
+   "vinarije": 3600
+  },
+  "deuric-la-rem-pinot-noir": {
+   "vinoteka": 4090,
+   "vinarije": 3600
   },
   "deuric-pinot-noir": {
    "vinoteka": 1430,
    "cerpromet": 1300,
-   "prodajavina": 1260
+   "prodajavina": 1260,
+   "vinarije": 1260
+  },
+  "deuric-princeza-na-zrnu-grasca": {
+   "vinoteka": 1230,
+   "vinarije": 1080
+  },
+  "deuric-probus-276": {
+   "vinoteka": 1770,
+   "vinarije": 1560
   },
   "deuric-sauvignon-blanc": {
    "vinoteka": 1230,
    "wineart": 1188,
-   "prodajavina": 1080
+   "prodajavina": 1080,
+   "vinarije": 1080
   },
   "doja-breg-cabernet-sauvignon": {
    "vinoteka": 4955,
@@ -2216,6 +2263,10 @@
   "dokovic-syrah": {
    "vinoteka": 5050,
    "wineart": 5082
+  },
+  "dordevic-sauvignon-blanc": {
+   "vinoteka": 1250,
+   "vinarije": 1200
   },
   "durdevica-legat-do-neba-i-nazad-belo": {
    "vinoteka": 1570,
@@ -2865,13 +2916,15 @@
    "wineart": 1650,
    "maxi": 1829,
    "maxi-cenovnik": 1829,
-   "idea": 1950
+   "idea": 1950,
+   "vinarije": 1500
   },
   "lastar-pinot-noir": {
    "winestars": 1790,
    "cerpromet": 1580,
    "wineart": 1716,
-   "maxi-cenovnik": 1833
+   "maxi-cenovnik": 1833,
+   "vinarije": 1560
   },
   "matalj-kremen": {
    "winestars": 1850,
@@ -3016,7 +3069,8 @@
    "cerpromet": 1360,
    "wineart": 1452,
    "prodajavina": 1320,
-   "maxi-cenovnik": 1699
+   "maxi-cenovnik": 1699,
+   "vinarije": 1320
   },
   "nikad-nije-kasno-melodija": {
    "cerpromet": 900,
@@ -3103,7 +3157,8 @@
    "wineart": 1716,
    "maxi": 1869,
    "maxi-cenovnik": 1869,
-   "idea": 2000
+   "idea": 2000,
+   "vinarije": 1560
   },
   "erdevik-tri-bele-koze-blanc": {
    "wineart": 871,
@@ -3114,6 +3169,10 @@
   "aleksic-arno": {
    "prodajavina": 930,
    "vinarije": 930
+  },
+  "deuric-urban-rose": {
+   "prodajavina": 1080,
+   "vinarije": 1080
   },
   "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": {
    "maxi": 480,
@@ -3186,6 +3245,10 @@
   "grumen-sauvignon-blanc": {
    "maxi-cenovnik": 1119,
    "vruchnuyu": 1119
+  },
+  "deuric-chardonnay": {
+   "maxi-cenovnik": 1759,
+   "vinarije": 1500
   },
   "trivanovic-lex": {
    "maxi-cenovnik": 1639,
@@ -4021,6 +4084,21 @@
    ]
   },
   {
+   "vino": "THE MORAVA (Morava)",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 2400.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "THE SPARKLING WINERY",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/the-morava-morava/",
+   "kandidaty": [
+    "deuric-the",
+    "deuric-the-morava"
+   ]
+  },
+  {
    "vino": "Тамњаника „Стота суза“ 0.75",
    "hozyaistvo": "Vinska Kuća Minića",
    "cena_rsd": 1020.0,
@@ -4606,29 +4684,10 @@
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
   {
-   "klyuch_vina": "lastar-tamjanika",
-   "magazin": "vinarije",
-   "ceny": [
-    1500.0,
-    8100.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
-  },
-  {
-   "klyuch_vina": "lastar-pinot-noir",
-   "magazin": "vinarije",
-   "ceny": [
-    1560.0,
-    7956.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
-  },
-  {
    "klyuch_vina": "lastar-chardonnay",
    "magazin": "vinarije",
    "ceny": [
     1500.0,
-    7650.0,
     7776.0
    ],
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
@@ -4711,15 +4770,6 @@
    "pochemu": "магазины расходятся в разы — похоже, это разные вина"
   },
   {
-   "klyuch_vina": "lastar-merlot-cabernet-franc",
-   "magazin": "vinarije",
-   "ceny": [
-    1560.0,
-    6084.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
-  },
-  {
    "klyuch_vina": "aven-cabernet-sauvignon",
    "magazin": "vinarije",
    "ceny": [
@@ -4729,20 +4779,11 @@
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
   {
-   "klyuch_vina": "lastar-rose",
+   "klyuch_vina": "deuric-the",
    "magazin": "vinarije",
    "ceny": [
-    1200.0,
-    4680.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
-  },
-  {
-   "klyuch_vina": "lastar-cru-6",
-   "magazin": "vinarije",
-   "ceny": [
-    1020.0,
-    3978.0
+    1920.0,
+    3000.0
    ],
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
@@ -15858,126 +15899,6 @@
    "pochemu": "дом есть, вина нет"
   },
   {
-   "vino": "Lastar Paket 6xTamjanika, 6xRose i 6x Merlot – Cabernet Franc",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 17856.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Leto u 18 boca vina. Tri vrste vina. Celo leto.",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-6xtamjanika-6xrose-i-6x-merlot-cabernet-franc/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket 6xTamjanika, 6xChardonnay Triangl i 6xRose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 20016.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Leto u 18 boca vina. Tri vrste vina. Celo leto.",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-6xtamjanika-6xchardonnay-triangl-i-6xrose/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket 6xTamjanika, 6xChardonnay i 6xRose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 19620.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Leto u 18 boca vina. Tri vrste vina. Celo leto.",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-6xtamjanika-6xchardonnay-i-6xrose/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket Tamjanika, Chardonnay i Pinot Noir",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 7902.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-tamjanika-chardonnay-i-pinot-noir/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket Merlot – Cabernet Franc, Cru i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 4914.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-merlot-cabernet-franc-cru-i-rose/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket Sauvignon – Viognier Triangl, Chardonnay Triangl i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 7452.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-sauvignon-viognier-triangl-chardonnay-triangl-i-rose/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket Tamjanika, Chardonnay i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 8400.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-tamjanika-chardonnay-i-rose/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Sauvignon – Viognier Triangl paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 9900.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-sauvignon-viognier-triangl-paket-6-kom/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket Tamjanika i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 8400.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-tamjanika-i-rose/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Lastar Paket Chardonnay i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 8400.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-chardonnay-i-rose/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
    "vino": "Lastar CRU 3",
    "hozyaistvo": "Lastar",
    "cena_rsd": 900.0,
@@ -16146,18 +16067,6 @@
    "pochemu": "дом есть, вина нет"
   },
   {
-   "vino": "DRVENA KUTIJA ZA VINO",
-   "hozyaistvo": "Podrum Malča",
-   "cena_rsd": 2500.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://podrummalca.com/производ/drvena-kutija-za-vino/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
    "vino": "Crna Tamjanika roze",
    "hozyaistvo": "Podrum Malča",
    "cena_rsd": 1200.0,
@@ -16230,6 +16139,42 @@
    "pochemu": "дом есть, вина нет"
   },
   {
+   "vino": "BRAVURA CUVEE BLANC",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1800.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://podrumdjordjevic.rs/products/bravura-cuvee-blanc",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "ĐORĐEVIĆ PROKUPAC 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1300.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-prokupac-0-75l",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "ĐORĐEVIĆ CABERNET SAUVIGNON & MERLOT 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1300.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-cabernet-sauvignon-merlot-0-75l",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
    "vino": "Merlot Reserve",
    "hozyaistvo": "Podrum Šukac",
    "cena_rsd": 1300.0,
@@ -16239,6 +16184,90 @@
    "kanal": "hozyaistvo",
    "magazin": "vinarije",
    "stranica": "https://podrumsukac.rs/product/merlot-reserve/",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Wine Tasting",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 1500.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://www.uziwa.rs/products/wine-tasting",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Pinot Noir",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://www.uziwa.rs/products/pinot-noir",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Malvazija & Tamjanika",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://www.uziwa.rs/products/malvazija-tamjanika",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Sauvignon Blanc",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://www.uziwa.rs/products/sauvignon-blanc",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Chardonnay",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://www.uziwa.rs/products/chardonnay",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Rosé",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://www.uziwa.rs/products/rose",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Merlot",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://www.uziwa.rs/products/merlot",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -16371,6 +16400,30 @@
    "kanal": "hozyaistvo",
    "magazin": "vinarije",
    "stranica": "https://vinarijabelakula.com/product/egregor/",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "13. Prase / ODBAČENI",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 2400.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/13-prase-odbaceni/",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Crna ovca / ODBAČENI",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 2400.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/crna-ovca-odbaceni/",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -17310,30 +17363,6 @@
    "pochemu": "дом есть, вина нет"
   },
   {
-   "vino": "3 BOJE MORAVE 2022 – 3 x 0,75l",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "White wine",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijadespotika.rs/en/prodavnica-vina/white-wine/3-boje-morave-2022-3-x-075l-2/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "3 БОЈЕ МОРАВЕ 2022 – 3 x 0,75л",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Бело вино",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/3-boje-morave-2022-3-x-075l/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
    "vino": "ЗНАМЕН 2023 – 0,75л",
    "hozyaistvo": "Деспотика (Despotika)",
    "cena_rsd": 1320.0,
@@ -17343,18 +17372,6 @@
    "kanal": "hozyaistvo",
    "magazin": "vinarije",
    "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/znamen-2023-075l/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Три боје Mораве 2022 – 3 x 0,75л",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Бело вино",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/tri-boje-morave-2021-3-x-075l-2/",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -17391,30 +17408,6 @@
    "kanal": "hozyaistvo",
    "magazin": "vinarije",
    "stranica": "https://vinarijadespotika.rs/prodavnica-vina/kutije-i-drugo/kirbik-kutija-za-tri-boce-rucni-rad/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Tri Boje Morave 2022 – 3 X 0.75l",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "White wine",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijadespotika.rs/en/prodavnica-vina/white-wine/tri-boje-morave-2021-3-x-0-75l/",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Три боје Mораве 2021 – 3 x 0,75л",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5100.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Бело вино",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarije",
-   "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/tri-boje-morave-2021-3-x-075l/",
    "pochemu": "дом есть, вина нет"
   },
   {

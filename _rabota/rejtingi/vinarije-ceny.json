@@ -2,12 +2,26 @@
  "chto_eto": "Цены из собственных интернет-магазинов хозяйств. Канал третий: не полка винотеки и не доставка, а цена у самого производителя.",
  "istochnik": "WooCommerce Store API сайтов хозяйств; адреса — из карточек хозяйств Vivino",
  "sobrano": "2026-09-03",
- "hozyaistv_s_magazinom": 57,
+ "hozyaistv_s_magazinom": 60,
  "po_hozyaistvam": [
   {
    "hozyaistvo": "117 Wine",
    "sajt": "https://www.117.wine",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Adora",
+   "sajt": "https://www.vinarija-nd.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Aleksandar Todorovic",
+   "sajt": "https://aleksandartodorovic.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -40,6 +54,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Arsenijević",
+   "sajt": "https://www.vinarijaarsenijevic.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Art Wine",
    "sajt": "https://www.artwine.co.rs",
    "kak": "net-api",
@@ -59,6 +80,13 @@
    "kak": "est",
    "tovarov": 10,
    "vzyato": 10
+  },
+  {
+   "hozyaistvo": "Ačanski",
+   "sajt": "https://podrum-acanski.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "BT Winery",
@@ -82,6 +110,27 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Bikicki",
+   "sajt": "https://www.bikicki.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Bjelica",
+   "sajt": "https://www.vinarijabjelica.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Botunjac",
+   "sajt": "https://vinabotunjac.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Braca Rajkovic",
    "sajt": "https://podrumbracarajkovic.com",
    "kak": "est",
@@ -99,6 +148,20 @@
    "hozyaistvo": "Château Prince",
    "sajt": "https://winerychateauprince.rs",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Conte Vallonne",
+   "sajt": "https://www.contevallonne.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Dibonis",
+   "sajt": "https://www.dibonis.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -131,6 +194,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Dukay",
+   "sajt": "https://dukaywinery.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Dulka",
    "sajt": "https://vinarijadulka.rs",
    "kak": "est",
@@ -154,7 +224,7 @@
   {
    "hozyaistvo": "Enellion",
    "sajt": "https://enellion.com",
-   "kak": "net-api",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -208,6 +278,13 @@
    "vzyato": 12
   },
   {
+   "hozyaistvo": "Gazdinstvo Ćilić",
+   "sajt": "https://enocentrik.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Hadži Popović",
    "sajt": "https://vinarijahadzipopovic.rs",
    "kak": "net-api",
@@ -236,6 +313,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Janek Wineyard",
+   "sajt": "https://www.janekwineyard.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Janko",
    "sajt": "https://www.podrumjanko.com",
    "kak": "net-api",
@@ -253,6 +337,13 @@
    "hozyaistvo": "Katanic",
    "sajt": "https://www.vinarijakatanic.rs",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Komuna",
+   "sajt": "https://www.vinarijakomuna.com",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -275,12 +366,12 @@
    "sajt": "https://vinarijalastar.com",
    "kak": "est",
    "tovarov": 29,
-   "vzyato": 29
+   "vzyato": 13
   },
   {
    "hozyaistvo": "Legat",
    "sajt": "https://www.vinarijalegat1903.com",
-   "kak": "net-api",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -297,6 +388,13 @@
    "kak": "est",
    "tovarov": 13,
    "vzyato": 13
+  },
+  {
+   "hozyaistvo": "Majetić",
+   "sajt": "https://vinarijamajetic.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Majkin Salaš",
@@ -334,6 +432,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Milanov Podrum",
+   "sajt": "https://www.milanovpodrum.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Milijan Jelić",
    "sajt": "https://www.milijanjelic.com",
    "kak": "net-api",
@@ -348,8 +453,22 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Molovin",
+   "sajt": "https://www.molowinery.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Moravski Val",
    "sajt": "https://www.moravskival.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Natural Grape Concept",
+   "sajt": "https://www.naturalgrapeconcept.com",
    "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
@@ -366,7 +485,14 @@
    "sajt": "https://www.vinonnk.com",
    "kak": "est",
    "tovarov": 9,
-   "vzyato": 5
+   "vzyato": 4
+  },
+  {
+   "hozyaistvo": "Nikolas",
+   "sajt": "https://www.nikolas.co.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "ODPF-Radmilovac",
@@ -397,16 +523,23 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Petica",
+   "sajt": "https://vinopetica.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Pik Oplenac",
    "sajt": "https://pik-oplenac.com",
    "kak": "est",
    "tovarov": 18,
-   "vzyato": 17
+   "vzyato": 14
   },
   {
    "hozyaistvo": "Pimnica Perić",
    "sajt": "https://www.rajackepimnice.rs",
-   "kak": "net-api",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -414,6 +547,13 @@
    "hozyaistvo": "Plavi Perun",
    "sajt": "https://plaviperun.rs",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Plavinci",
+   "sajt": "https://prodavnica.plavinci.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -429,7 +569,14 @@
    "sajt": "https://www.podrummalca.com",
    "kak": "est",
    "tovarov": 14,
-   "vzyato": 14
+   "vzyato": 13
+  },
+  {
+   "hozyaistvo": "Podrum Milošević",
+   "sajt": "https://www.podrummilosevic.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Podrum Panajotovic",
@@ -444,6 +591,13 @@
    "kak": "est",
    "tovarov": 14,
    "vzyato": 10
+  },
+  {
+   "hozyaistvo": "Podrum Stojković",
+   "sajt": "https://dvasunca.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Podrum Tošići",
@@ -462,9 +616,10 @@
   {
    "hozyaistvo": "Podrum Đorđević",
    "sajt": "https://podrumdjordjevic.rs",
-   "kak": "net-api",
-   "tovarov": 0,
-   "vzyato": 0
+   "kak": "shopify",
+   "tovarov": 21,
+   "vzyato": 8,
+   "gorod": "ALEKSANDROVAC"
   },
   {
    "hozyaistvo": "Podrum Šukac",
@@ -472,6 +627,20 @@
    "kak": "est",
    "tovarov": 5,
    "vzyato": 5
+  },
+  {
+   "hozyaistvo": "Prima",
+   "sajt": "https://vino-prima.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Probus Vineyards",
+   "sajt": "https://probus-vineyards.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Radovanović",
@@ -495,6 +664,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Rogan",
+   "sajt": "https://vinarijarogan.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Rubin",
    "sajt": "https://www.rubin.rs",
    "kak": "est",
@@ -507,6 +683,13 @@
    "kak": "est",
    "tovarov": 9,
    "vzyato": 9
+  },
+  {
+   "hozyaistvo": "Saboss",
+   "sajt": "https://www.saboss.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Stanković",
@@ -526,6 +709,13 @@
    "hozyaistvo": "Stari Oplenac",
    "sajt": "https://vinarijaoplenac.co.rs",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Tarpoš",
+   "sajt": "https://vinarijatarpos.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -558,6 +748,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Tri Oraha",
+   "sajt": "https://trioraha.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Trivanović",
    "sajt": "https://vinarijatrivanovic.rs",
    "kak": "est",
@@ -565,11 +762,19 @@
    "vzyato": 20
   },
   {
-   "hozyaistvo": "Uziwa Winery",
-   "sajt": "https://www.uziwa.rs",
-   "kak": "net-api",
+   "hozyaistvo": "Ukusi Moga Kraja",
+   "sajt": "https://www.ukusimogakraja.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Uziwa Winery",
+   "sajt": "https://www.uziwa.rs",
+   "kak": "shopify",
+   "tovarov": 8,
+   "vzyato": 8,
+   "gorod": "Vraneši"
   },
   {
    "hozyaistvo": "Varina",
@@ -593,9 +798,30 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Vert",
+   "sajt": "https://www.vert.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Victory",
+   "sajt": "https://www.vinavictory.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vila Vina",
    "sajt": "https://www.vinarija-milosavljevic.com",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vilimonovic",
+   "sajt": "https://www.vilimonovicwinery.com",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -642,6 +868,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Vinarija Baza",
+   "sajt": "https://www.vinarijabaza.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinarija Bela Kula",
    "sajt": "https://vinarijabelakula.com",
    "kak": "est",
@@ -649,9 +882,23 @@
    "vzyato": 12
   },
   {
+   "hozyaistvo": "Vinarija Blagojević",
+   "sajt": "https://vir-blagojevic.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinarija Bogunovic",
    "sajt": "https://www.vinarijabogunovic.com",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vinarija Boierescu",
+   "sajt": "https://www.vinarijaboierescu.com",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -667,7 +914,7 @@
    "sajt": "https://www.vinarijacoka.rs",
    "kak": "est",
    "tovarov": 56,
-   "vzyato": 53
+   "vzyato": 49
   },
   {
    "hozyaistvo": "Vinarija Delena",
@@ -679,9 +926,9 @@
   {
    "hozyaistvo": "Vinarija Deurić",
    "sajt": "https://vinarijadeuric.com",
-   "kak": "net-api",
-   "tovarov": 0,
-   "vzyato": 0
+   "kak": "est",
+   "tovarov": 27,
+   "vzyato": 26
   },
   {
    "hozyaistvo": "Vinarija Draganic",
@@ -691,9 +938,23 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Vinarija Dragić",
+   "sajt": "https://www.vinarijadragic.com",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinarija Dumo",
    "sajt": "https://www.vinarijadumo.rs",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vinarija Gamanovič",
+   "sajt": "https://gamanovicvinarija.com",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -708,6 +969,13 @@
    "hozyaistvo": "Vinarija Ivanović",
    "sajt": "https://www.ivanovicvino.com",
    "kak": "pusto",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vinarija Janucic",
+   "sajt": "https://www.janucic.com",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -744,7 +1012,7 @@
    "sajt": "https://vinarijakovacevic.com",
    "kak": "est",
    "tovarov": 46,
-   "vzyato": 40
+   "vzyato": 39
   },
   {
    "hozyaistvo": "Vinarija Levač",
@@ -763,7 +1031,14 @@
   {
    "hozyaistvo": "Vinarija Mikic",
    "sajt": "https://www.vinarija-mikic.com",
-   "kak": "net-api",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vinarija Mozaik Milan",
+   "sajt": "https://vinarijamozaik.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -789,6 +1064,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Vinarija Okrug",
+   "sajt": "https://www.vinarijaokrug.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinarija Panjković",
    "sajt": "https://www.vinarijapanjkovic.com",
    "kak": "est",
@@ -807,7 +1089,7 @@
    "sajt": "https://www.vinarijapetra.com",
    "kak": "est",
    "tovarov": 57,
-   "vzyato": 47
+   "vzyato": 43
   },
   {
    "hozyaistvo": "Vinarija Piano",
@@ -824,6 +1106,13 @@
    "vzyato": 41
   },
   {
+   "hozyaistvo": "Vinarija Podrum Danguba",
+   "sajt": "https://vinarijapodrumdanguba.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinarija Porta",
    "sajt": "https://vinarijaporta.rs",
    "kak": "est",
@@ -834,6 +1123,13 @@
    "hozyaistvo": "Vinarija Raj",
    "sajt": "https://www.vinarija-raj.com",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vinarija Rajić",
+   "sajt": "https://www.vinarijarajic.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -857,6 +1153,13 @@
    "kak": "est",
    "tovarov": 5,
    "vzyato": 5
+  },
+  {
+   "hozyaistvo": "Vinarija Simić",
+   "sajt": "https://vocnavina.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Vinarija Sinjac",
@@ -901,11 +1204,25 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Vinarija Unikat",
+   "sajt": "https://www.vinarijaunikat.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinarija Vilotijević",
    "sajt": "https://vinarijavilotijevic.com",
    "kak": "est",
    "tovarov": 2,
    "vzyato": 2
+  },
+  {
+   "hozyaistvo": "Vinarija Vinis",
+   "sajt": "https://vinarijavinis.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Vinarija Vinum",
@@ -929,11 +1246,25 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "sajt": "https://www.vinarijazvonkobogdan.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinarija Ćosić",
    "sajt": "https://vinarijacosic.rs",
    "kak": "est",
    "tovarov": 7,
    "vzyato": 7
+  },
+  {
+   "hozyaistvo": "Vinarija Đorđe",
+   "sajt": "https://www.vinarijadjordje.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Vinarija Đurđić",
@@ -962,6 +1293,20 @@
    "kak": "est",
    "tovarov": 6,
    "vzyato": 6
+  },
+  {
+   "hozyaistvo": "Vinartos Vinarija",
+   "sajt": "https://vinartosbecej.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vindulo",
+   "sajt": "https://www.std-tomin.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Vinex Grozd",
@@ -999,6 +1344,13 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Vinokratija",
+   "sajt": "https://vinokratija.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Vinska Kuća Milinčić",
    "sajt": "https://vinskakucamilincic.com",
    "kak": "est",
@@ -1013,9 +1365,30 @@
    "vzyato": 7
   },
   {
+   "hozyaistvo": "Vinum Lódi",
+   "sajt": "https://www.vinumlodi.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Vojinovic",
+   "sajt": "https://www.podrumvojinovic.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "World Of Wine",
    "sajt": "https://wowwinery.com",
    "kak": "pusto",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Yotta",
+   "sajt": "https://www.yotta.rs",
+   "kak": "net-api",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -1024,11 +1397,18 @@
    "sajt": "https://www.vinozupa.com",
    "kak": "est",
    "tovarov": 89,
-   "vzyato": 65
+   "vzyato": 63
   },
   {
    "hozyaistvo": "Čokot",
    "sajt": "https://katalog.vino.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Đurđevića Legat",
+   "sajt": "https://djurdjevicalegat.com",
    "kak": "net-api",
    "tovarov": 0,
    "vzyato": 0
@@ -1041,9 +1421,30 @@
    "vzyato": 0
   },
   {
+   "hozyaistvo": "Амбелос Винарија (Ambelos Winery)",
+   "sajt": "https://www.ambelos.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "ВИНАРИЈА СТОЈАНОВИЋ (Vinarija Stojanović)",
+   "sajt": "https://www.vinarijastojanovic.rs",
+   "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Винарија Живковић (Vinarija Živković)",
    "sajt": "https://www.vinarijazivkovic.rs",
    "kak": "net-api",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
+   "hozyaistvo": "Винарија Живковића (Vinarija Živkovića-Tržac)",
+   "sajt": "https://www.vinarijazivkovica.rs",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -1053,6 +1454,13 @@
    "kak": "est",
    "tovarov": 29,
    "vzyato": 29
+  },
+  {
+   "hozyaistvo": "Винарија Ступови (Vinarija Stupovi)",
+   "sajt": "https://www.vinarijastupovi.com",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Винарија Тришић (Vinarija Trišić)",
@@ -1073,7 +1481,7 @@
    "sajt": "https://www.vinarijadespotika.rs",
    "kak": "est",
    "tovarov": 88,
-   "vzyato": 88
+   "vzyato": 83
   },
   {
    "hozyaistvo": "Драгић Винарија (Vina Dragic)",
@@ -1081,6 +1489,13 @@
    "kak": "est",
    "tovarov": 6,
    "vzyato": 6
+  },
+  {
+   "hozyaistvo": "Изба Јовановић (Izba Jovanovic)",
+   "sajt": "https://izbajovanovic.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
   },
   {
    "hozyaistvo": "Магаза (Magaza)",
@@ -1111,6 +1526,13 @@
    "vzyato": 7
   },
   {
+   "hozyaistvo": "Подрум Милојевић",
+   "sajt": "https://podrummilojevic.rs",
+   "kak": "ne-otvechaet",
+   "tovarov": 0,
+   "vzyato": 0
+  },
+  {
    "hozyaistvo": "Подрум Певац",
    "sajt": "https://www.podrumpevac.rs",
    "kak": "net-api",
@@ -1127,7 +1549,7 @@
   {
    "hozyaistvo": "Три Планине (Vinarija Tri Planine)",
    "sajt": "https://triplanine.rs",
-   "kak": "net-api",
+   "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
   },
@@ -1146,428 +1568,8 @@
    "vzyato": 16
   },
   {
-   "hozyaistvo": "Aleksandar Todorovic",
-   "sajt": "https://aleksandartodorovic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
    "hozyaistvo": "Чаша Вина и Прича (Čaša Vina i Priča)",
    "sajt": "https://casavinaiprica.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Đurđevića Legat",
-   "sajt": "https://djurdjevicalegat.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Dukay",
-   "sajt": "https://dukaywinery.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Podrum Stojković",
-   "sajt": "https://dvasunca.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Gazdinstvo Ćilić",
-   "sajt": "https://enocentrik.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Gamanovič",
-   "sajt": "https://gamanovicvinarija.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Изба Јовановић (Izba Jovanovic)",
-   "sajt": "https://izbajovanovic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Ačanski",
-   "sajt": "https://podrum-acanski.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Подрум Милојевић",
-   "sajt": "https://podrummilojevic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Probus Vineyards",
-   "sajt": "https://probus-vineyards.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Plavinci",
-   "sajt": "https://prodavnica.plavinci.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Tri Oraha",
-   "sajt": "https://trioraha.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Botunjac",
-   "sajt": "https://vinabotunjac.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Majetić",
-   "sajt": "https://vinarijamajetic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Mozaik Milan",
-   "sajt": "https://vinarijamozaik.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Podrum Danguba",
-   "sajt": "https://vinarijapodrumdanguba.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Rogan",
-   "sajt": "https://vinarijarogan.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Tarpoš",
-   "sajt": "https://vinarijatarpos.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Vinis",
-   "sajt": "https://vinarijavinis.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinartos Vinarija",
-   "sajt": "https://vinartosbecej.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Prima",
-   "sajt": "https://vino-prima.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinokratija",
-   "sajt": "https://vinokratija.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Petica",
-   "sajt": "https://vinopetica.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Blagojević",
-   "sajt": "https://vir-blagojevic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Simić",
-   "sajt": "https://vocnavina.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Амбелос Винарија (Ambelos Winery)",
-   "sajt": "https://www.ambelos.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Bikicki",
-   "sajt": "https://www.bikicki.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Conte Vallonne",
-   "sajt": "https://www.contevallonne.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Dibonis",
-   "sajt": "https://www.dibonis.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Janek Wineyard",
-   "sajt": "https://www.janekwineyard.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Janucic",
-   "sajt": "https://www.janucic.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Milanov Podrum",
-   "sajt": "https://www.milanovpodrum.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Molovin",
-   "sajt": "https://www.molowinery.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Natural Grape Concept",
-   "sajt": "https://www.naturalgrapeconcept.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Nikolas",
-   "sajt": "https://www.nikolas.co.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Podrum Milošević",
-   "sajt": "https://www.podrummilosevic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vojinovic",
-   "sajt": "https://www.podrumvojinovic.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Saboss",
-   "sajt": "https://www.saboss.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vindulo",
-   "sajt": "https://www.std-tomin.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Ukusi Moga Kraja",
-   "sajt": "https://www.ukusimogakraja.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vert",
-   "sajt": "https://www.vert.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vilimonovic",
-   "sajt": "https://www.vilimonovicwinery.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Adora",
-   "sajt": "https://www.vinarija-nd.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Arsenijević",
-   "sajt": "https://www.vinarijaarsenijevic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Baza",
-   "sajt": "https://www.vinarijabaza.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Bjelica",
-   "sajt": "https://www.vinarijabjelica.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Boierescu",
-   "sajt": "https://www.vinarijaboierescu.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Đorđe",
-   "sajt": "https://www.vinarijadjordje.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Dragić",
-   "sajt": "https://www.vinarijadragic.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Komuna",
-   "sajt": "https://www.vinarijakomuna.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Okrug",
-   "sajt": "https://www.vinarijaokrug.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Rajić",
-   "sajt": "https://www.vinarijarajic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "ВИНАРИЈА СТОЈАНОВИЋ (Vinarija Stojanović)",
-   "sajt": "https://www.vinarijastojanovic.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Винарија Ступови (Vinarija Stupovi)",
-   "sajt": "https://www.vinarijastupovi.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Unikat",
-   "sajt": "https://www.vinarijaunikat.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Винарија Живковића (Vinarija Živkovića-Tržac)",
-   "sajt": "https://www.vinarijazivkovica.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinarija Zvonko Bogdan",
-   "sajt": "https://www.vinarijazvonkobogdan.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Victory",
-   "sajt": "https://www.vinavictory.com",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Vinum Lódi",
-   "sajt": "https://www.vinumlodi.rs",
-   "kak": "ne-otvechaet",
-   "tovarov": 0,
-   "vzyato": 0
-  },
-  {
-   "hozyaistvo": "Yotta",
-   "sajt": "https://www.yotta.rs",
    "kak": "ne-otvechaet",
    "tovarov": 0,
    "vzyato": 0
@@ -2939,182 +2941,6 @@
    "stranica": "https://vinarijalastar.com/shop/lastar-cabernet-franc/"
   },
   {
-   "vino": "Lastar Paket 6xTamjanika, 6xRose i 6x Merlot – Cabernet Franc",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 17856.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Leto u 18 boca vina. Tri vrste vina. Celo leto.",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-6xtamjanika-6xrose-i-6x-merlot-cabernet-franc/"
-  },
-  {
-   "vino": "Lastar Paket 6xTamjanika, 6xChardonnay Triangl i 6xRose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 20016.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Leto u 18 boca vina. Tri vrste vina. Celo leto.",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-6xtamjanika-6xchardonnay-triangl-i-6xrose/"
-  },
-  {
-   "vino": "Lastar Paket 6xTamjanika, 6xChardonnay i 6xRose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 19620.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Leto u 18 boca vina. Tri vrste vina. Celo leto.",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-6xtamjanika-6xchardonnay-i-6xrose/"
-  },
-  {
-   "vino": "Lastar Paket Tamjanika, Chardonnay i Pinot Noir",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 7902.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-tamjanika-chardonnay-i-pinot-noir/"
-  },
-  {
-   "vino": "Lastar Paket Merlot – Cabernet Franc, Cru i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 4914.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-merlot-cabernet-franc-cru-i-rose/"
-  },
-  {
-   "vino": "Lastar Paket Sauvignon – Viognier Triangl, Chardonnay Triangl i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 7452.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-sauvignon-viognier-triangl-chardonnay-triangl-i-rose/"
-  },
-  {
-   "vino": "Lastar Paket Tamjanika, Chardonnay i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 8400.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-tamjanika-chardonnay-i-rose/"
-  },
-  {
-   "vino": "Lastar Chardonnay paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 7650.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-chardonnay-paket-6-kom/"
-  },
-  {
-   "vino": "Lastar Sauvignon – Viognier Triangl paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 9900.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-sauvignon-viognier-triangl-paket-6-kom/"
-  },
-  {
-   "vino": "Lastar Tamjanika paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 8100.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-tamjanika-paket-6-kom/"
-  },
-  {
-   "vino": "Lastar Rose paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 4680.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-rose-paket-6-kom/"
-  },
-  {
-   "vino": "Lastar Paket Tamjanika i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 8400.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-tamjanika-i-rose/"
-  },
-  {
-   "vino": "Lastar Paket Chardonnay i Rose",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 8400.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-paket-chardonnay-i-rose/"
-  },
-  {
-   "vino": "Lastar Merlot – Cabernet Franc paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 6084.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-merlot-cabernet-franc-paket-6-kom/"
-  },
-  {
-   "vino": "Lastar Pinot Noir paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 7956.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-pinot-noir-paket-6-kom/"
-  },
-  {
-   "vino": "Lastar Cru 6 Paket 6 kom",
-   "hozyaistvo": "Lastar",
-   "cena_rsd": 3978.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijalastar.com",
-   "stranica": "https://vinarijalastar.com/shop/lastar-cru-6-paket-6-kom/"
-  },
-  {
    "vino": "Lastar Chardonnay Triangl 6 kom",
    "hozyaistvo": "Lastar",
    "cena_rsd": 7776.0,
@@ -3544,17 +3370,6 @@
    "stranica": "https://vinonnk.com/производ/vino-melodija-2019/"
   },
   {
-   "vino": "Vino Signature 2017 – Paket od 6 flaša",
-   "hozyaistvo": "Nikad Nije Kasno",
-   "cena_rsd": null,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Crvena vina",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinonnk.com",
-   "stranica": "https://vinonnk.com/производ/vino-signature-2016-paket/"
-  },
-  {
    "vino": "Vino Signature 2017",
    "hozyaistvo": "Nikad Nije Kasno",
    "cena_rsd": null,
@@ -3575,39 +3390,6 @@
    "kanal": "hozyaistvo",
    "magazin": "pik-oplenac.com",
    "stranica": "https://www.pik-oplenac.com/vino/porterra/"
-  },
-  {
-   "vino": "PAKET 18 BOCA",
-   "hozyaistvo": "Pik Oplenac",
-   "cena_rsd": null,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Box",
-   "kanal": "hozyaistvo",
-   "magazin": "pik-oplenac.com",
-   "stranica": "https://www.pik-oplenac.com/vino/paket-18-boca/"
-  },
-  {
-   "vino": "PAKET 12 BOCA",
-   "hozyaistvo": "Pik Oplenac",
-   "cena_rsd": null,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Box",
-   "kanal": "hozyaistvo",
-   "magazin": "pik-oplenac.com",
-   "stranica": "https://www.pik-oplenac.com/vino/paket-12-boca/"
-  },
-  {
-   "vino": "PAKET 6 BOCA",
-   "hozyaistvo": "Pik Oplenac",
-   "cena_rsd": null,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Box",
-   "kanal": "hozyaistvo",
-   "magazin": "pik-oplenac.com",
-   "stranica": "https://www.pik-oplenac.com/vino/paket-6-boca/"
   },
   {
    "vino": "Monarh Immortal S",
@@ -3806,17 +3588,6 @@
    "kanal": "hozyaistvo",
    "magazin": "www.podrummalca.com",
    "stranica": "https://podrummalca.com/производ/konstantin-veliki-2012/"
-  },
-  {
-   "vino": "DRVENA KUTIJA ZA VINO",
-   "hozyaistvo": "Podrum Malča",
-   "cena_rsd": 2500.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "www.podrummalca.com",
-   "stranica": "https://podrummalca.com/производ/drvena-kutija-za-vino/"
   },
   {
    "vino": "Carica Jelena 2019.",
@@ -4081,6 +3852,94 @@
    "kanal": "hozyaistvo",
    "magazin": "www.podrumzarkovic.rs",
    "stranica": "https://www.podrumzarkovic.rs/product/merlot/"
+  },
+  {
+   "vino": "BRAVURA CUVEE NOIRE",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 2000.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/bravura-cuvee-noire"
+  },
+  {
+   "vino": "BRAVURA CUVEE BLANC",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1800.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/bravura-cuvee-blanc"
+  },
+  {
+   "vino": "ĐORĐEVIĆ PROKUPAC 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1300.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-prokupac-0-75l"
+  },
+  {
+   "vino": "ĐORĐEVIĆ CABERNET SAUVIGNON & MERLOT 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1300.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-cabernet-sauvignon-merlot-0-75l"
+  },
+  {
+   "vino": "ĐORĐEVIĆ ROSE 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1000.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-rose-0-75l"
+  },
+  {
+   "vino": "ĐORĐEVIĆ SAUVIGNON BLANC 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-sauvignon-blanc-0-75l"
+  },
+  {
+   "vino": "ĐORĐEVIĆ CHARDONNAY 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-chardonnay-0-75l"
+  },
+  {
+   "vino": "ĐORĐEVIĆ TAMJANIKA 0.75L",
+   "hozyaistvo": "Podrum Đorđević",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "podrumdjordjevic.rs",
+   "stranica": "https://podrumdjordjevic.rs/products/dordevic-tamjanika-0-75l"
   },
   {
    "vino": "Merlot Reserve",
@@ -5645,6 +5504,94 @@
    "stranica": "https://vinarijatrivanovic.rs/производ/optimus/"
   },
   {
+   "vino": "Wine Tasting",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 1500.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/wine-tasting"
+  },
+  {
+   "vino": "Pinot Noir",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/pinot-noir"
+  },
+  {
+   "vino": "Malvazija & Tamjanika",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/malvazija-tamjanika"
+  },
+  {
+   "vino": "Sauvignon Blanc",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/sauvignon-blanc"
+  },
+  {
+   "vino": "Chardonnay",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/chardonnay"
+  },
+  {
+   "vino": "Traminac",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/traminac"
+  },
+  {
+   "vino": "Rosé",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 900.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/rose"
+  },
+  {
+   "vino": "Merlot",
+   "hozyaistvo": "Uziwa Winery",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "www.uziwa.rs",
+   "stranica": "https://www.uziwa.rs/products/merlot"
+  },
+  {
    "vino": "Jagoda 100%",
    "hozyaistvo": "Varina",
    "cena_rsd": 2500.0,
@@ -6272,50 +6219,6 @@
    "stranica": "https://vinarijacoka.rs/proizvod/ukrasna-kesa/"
   },
   {
-   "vino": "Grof Cabernet Sauvignon kutija",
-   "hozyaistvo": "Vinarija Coka",
-   "cena_rsd": 800.0,
-   "valyuta": "RSD",
-   "v_prodazhe": false,
-   "razdel": "Exclusivne kutije",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijacoka.rs",
-   "stranica": "https://vinarijacoka.rs/proizvod/cabernet-sauvignon-excl-kutija/"
-  },
-  {
-   "vino": "Lederer Merlot excl. kutija 0,75l",
-   "hozyaistvo": "Vinarija Coka",
-   "cena_rsd": 800.0,
-   "valyuta": "RSD",
-   "v_prodazhe": false,
-   "razdel": "Exclusivne kutije",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijacoka.rs",
-   "stranica": "https://vinarijacoka.rs/proizvod/lederer-merlot-excl-kutija-075l/"
-  },
-  {
-   "vino": "Ždrepčeva krv ekskluzivna kutija 0.75l",
-   "hozyaistvo": "Vinarija Coka",
-   "cena_rsd": 550.0,
-   "valyuta": "RSD",
-   "v_prodazhe": false,
-   "razdel": "Crveno vino; Exclusivne kutije",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijacoka.rs",
-   "stranica": "https://vinarijacoka.rs/proizvod/zdrepceva-krv-excl-kutija-0-75l/"
-  },
-  {
-   "vino": "Kaštel excl. kutija 0.75l",
-   "hozyaistvo": "Vinarija Coka",
-   "cena_rsd": 550.0,
-   "valyuta": "RSD",
-   "v_prodazhe": false,
-   "razdel": "Belo vino; Exclusivne kutije",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijacoka.rs",
-   "stranica": "https://vinarijacoka.rs/proizvod/kastelexclkutija075l/"
-  },
-  {
    "vino": "Lozovača 0.7 l",
    "hozyaistvo": "Vinarija Coka",
    "cena_rsd": 660.0,
@@ -6558,6 +6461,292 @@
    "stranica": "https://vinarijacoka.rs/proizvod/zdrebac-grasevina-1l/"
   },
   {
+   "vino": "La Rem Probus 2018 – 15 % vol",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 3600.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/la-rem-probus-2018-15-vol/"
+  },
+  {
+   "vino": "La Rem Pinot Noir 2020 – 14,5 % vol",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 3600.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/la-rem-pinot-noir-2020-145-vol/"
+  },
+  {
+   "vino": "La Rem Morava 2023 – 13 % vol",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 3600.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/la-rem-morava-2023-13-vol/"
+  },
+  {
+   "vino": "La Rem Marselan 2019 – 15 % vol",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 3600.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/la-rem-marselan-2019-15-vol/"
+  },
+  {
+   "vino": "La Rem Chardonnay 2023 – 13,5 % vol",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 3600.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/la-rem-chardonnay-2023-135-vol/"
+  },
+  {
+   "vino": "THE MORAVA (Morava)",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 2400.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "THE SPARKLING WINERY",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/the-morava-morava/"
+  },
+  {
+   "vino": "THE BLANC DE NOIRS (Pinot Noir)",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1920.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "THE SPARKLING WINERY",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/the-blanc-de-noirs-pinot-noir/"
+  },
+  {
+   "vino": "THE (Chardonnay)",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 3000.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "THE SPARKLING WINERY",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/the-chardonnay/"
+  },
+  {
+   "vino": "Princeza na zrnu GRAŠCA",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1080.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/princeza-na-zrnu-grasca/"
+  },
+  {
+   "vino": "Gorska Tamjanika",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1320.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/gorska-tamjanika/"
+  },
+  {
+   "vino": "Dolce Vita",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1500.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/dolce-vita/"
+  },
+  {
+   "vino": "Ružno pače/ ODBAČENI",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 2400.0,
+   "valyuta": "RSD",
+   "v_prodazhe": false,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/ruzno-pace-odbaceni/"
+  },
+  {
+   "vino": "13. Prase / ODBAČENI",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 2400.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/13-prase-odbaceni/"
+  },
+  {
+   "vino": "Crna ovca / ODBAČENI",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 2400.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/crna-ovca-odbaceni/"
+  },
+  {
+   "vino": "EVA sok od jabuke / Bag in box 5l",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 840.0,
+   "valyuta": "RSD",
+   "v_prodazhe": false,
+   "razdel": "Sokovi",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/eva-sok-od-jabuke-bag-in-box/"
+  },
+  {
+   "vino": "Aksiom beli",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1500.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/beli-aksiom/"
+  },
+  {
+   "vino": "Aksiom crveni",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1970.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/aksiom/"
+  },
+  {
+   "vino": "Probus 276",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1560.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/probus/"
+  },
+  {
+   "vino": "Merlot",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1200.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/merlot/"
+  },
+  {
+   "vino": "Severna Morava",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1320.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/severna-morava/"
+  },
+  {
+   "vino": "Urban rose",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1080.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Roze vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/urban-rose/"
+  },
+  {
+   "vino": "Chardonnay vintage",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1500.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/chardonnay-barrique/"
+  },
+  {
+   "vino": "Gewurztraminer",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1080.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/gewurztraminer/"
+  },
+  {
+   "vino": "Sauvignon blanc",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1080.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/sauvignon-blanc/"
+  },
+  {
+   "vino": "Pinot Noir",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1260.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Crveno vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/pinot-noir/"
+  },
+  {
+   "vino": "Chardonnay classic",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1260.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "Belo vino",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarijadeuric.com",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/chardonnay-classic/"
+  },
+  {
    "vino": "Crno vino „KANON ’22“",
    "hozyaistvo": "Vinarija Jeremic",
    "cena_rsd": 1800.0,
@@ -6776,17 +6965,6 @@
    "kanal": "hozyaistvo",
    "magazin": "vinarijakovacevic.com",
    "stranica": "https://vinarijakovacevic.com/product/riesling-1-5l/"
-  },
-  {
-   "vino": "Penušavo vino Brut Kovačević u drvenoj kutiji 1.5l",
-   "hozyaistvo": "Vinarija Kovačević",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": false,
-   "razdel": "Magnum boce; Svi proizvodi; Vina",
-   "kanal": "hozyaistvo",
-   "magazin": "vinarijakovacevic.com",
-   "stranica": "https://vinarijakovacevic.com/product/penusavo-vino-brut-kovacevic-u-drvenoj-kutiji/"
   },
   {
    "vino": "Chardonnay S Edicija 1,5l",
@@ -7603,17 +7781,6 @@
    "stranica": "https://vinarijapetra.com/product/en_traminer-organica/"
   },
   {
-   "vino": "Drvena kutija za 3 flaše",
-   "hozyaistvo": "Vinarija Petra",
-   "cena_rsd": null,
-   "valyuta": "rsd",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijapetra.com",
-   "stranica": "https://vinarijapetra.com/product/amb_drvena-kutija-3/"
-  },
-  {
    "vino": "Traminac – organica",
    "hozyaistvo": "Vinarija Petra",
    "cena_rsd": null,
@@ -7669,17 +7836,6 @@
    "stranica": "https://vinarijapetra.com/product/org_orange/"
   },
   {
-   "vino": "Drvena kutija",
-   "hozyaistvo": "Vinarija Petra",
-   "cena_rsd": null,
-   "valyuta": "rsd",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijapetra.com",
-   "stranica": "https://vinarijapetra.com/product/amb_drvena-kutija-1/"
-  },
-  {
    "vino": "Rose&Co",
    "hozyaistvo": "Vinarija Petra",
    "cena_rsd": null,
@@ -7713,17 +7869,6 @@
    "stranica": "https://vinarijapetra.com/product/org_roseco/"
   },
   {
-   "vino": "Kartonska kutija za 3 flaše",
-   "hozyaistvo": "Vinarija Petra",
-   "cena_rsd": null,
-   "valyuta": "rsd",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijapetra.com",
-   "stranica": "https://vinarijapetra.com/product/amb_kartonska-kutija-3/"
-  },
-  {
    "vino": "Rose – organica",
    "hozyaistvo": "Vinarija Petra",
    "cena_rsd": null,
@@ -7755,17 +7900,6 @@
    "kanal": "hozyaistvo",
    "magazin": "www.vinarijapetra.com",
    "stranica": "https://vinarijapetra.com/product/rose/"
-  },
-  {
-   "vino": "Kartonska kutija",
-   "hozyaistvo": "Vinarija Petra",
-   "cena_rsd": null,
-   "valyuta": "rsd",
-   "v_prodazhe": true,
-   "razdel": "",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijapetra.com",
-   "stranica": "https://vinarijapetra.com/product/amb_kartonska-kutija-1/"
   },
   {
    "vino": "Cabernet Sauvignon 0,185 l",
@@ -9484,17 +9618,6 @@
    "stranica": "https://vinozupa.com/proizvodi/vina/buteljno-vino/vino-vranac-11-075l/"
   },
   {
-   "vino": "Vranac (Kutija) 0,75l",
-   "hozyaistvo": "Zupa",
-   "cena_rsd": null,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Buteljna; Vina",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinozupa.com",
-   "stranica": "https://vinozupa.com/proizvodi/vina/buteljno-vino/vranac-kutija-075l/"
-  },
-  {
    "vino": "Zmajeva Krv 0,75l",
    "hozyaistvo": "Zupa",
    "cena_rsd": null,
@@ -9504,17 +9627,6 @@
    "kanal": "hozyaistvo",
    "magazin": "www.vinozupa.com",
    "stranica": "https://vinozupa.com/proizvodi/vina/buteljno-vino/zmajeva-krv-075l/"
-  },
-  {
-   "vino": "Zmajeva Krv (Kutija) 0,75l",
-   "hozyaistvo": "Zupa",
-   "cena_rsd": null,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Buteljna; Vina",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinozupa.com",
-   "stranica": "https://vinozupa.com/proizvodi/vina/buteljno-vino/zmajeva-krv-kutija-075l/"
   },
   {
    "vino": "Vinsko Sirće 1l",
@@ -10441,28 +10553,6 @@
    "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/morava-inoks-2022-075l/"
   },
   {
-   "vino": "3 BOJE MORAVE 2022 – 3 x 0,75l",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "White wine",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijadespotika.rs",
-   "stranica": "https://vinarijadespotika.rs/en/prodavnica-vina/white-wine/3-boje-morave-2022-3-x-075l-2/"
-  },
-  {
-   "vino": "3 БОЈЕ МОРАВЕ 2022 – 3 x 0,75л",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Бело вино",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijadespotika.rs",
-   "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/3-boje-morave-2022-3-x-075l/"
-  },
-  {
    "vino": "BESKRAJ MAGNUM 2021 – 1,5l",
    "hozyaistvo": "Деспотика (Despotika)",
    "cena_rsd": 1920.0,
@@ -10826,17 +10916,6 @@
    "stranica": "https://vinarijadespotika.rs/en/prodavnica-vina/white-wine/morava-inoks-2021-075l-2/"
   },
   {
-   "vino": "Три боје Mораве 2022 – 3 x 0,75л",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Бело вино",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijadespotika.rs",
-   "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/tri-boje-morave-2021-3-x-075l-2/"
-  },
-  {
    "vino": "Магнум кутија (ручни рад)",
    "hozyaistvo": "Деспотика (Despotika)",
    "cena_rsd": 1600.0,
@@ -10868,28 +10947,6 @@
    "kanal": "hozyaistvo",
    "magazin": "www.vinarijadespotika.rs",
    "stranica": "https://vinarijadespotika.rs/prodavnica-vina/kutije-i-drugo/kirbik-kutija-za-tri-boce-rucni-rad/"
-  },
-  {
-   "vino": "Tri Boje Morave 2022 – 3 X 0.75l",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5700.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "White wine",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijadespotika.rs",
-   "stranica": "https://vinarijadespotika.rs/en/prodavnica-vina/white-wine/tri-boje-morave-2021-3-x-0-75l/"
-  },
-  {
-   "vino": "Три боје Mораве 2021 – 3 x 0,75л",
-   "hozyaistvo": "Деспотика (Despotika)",
-   "cena_rsd": 5100.0,
-   "valyuta": "RSD",
-   "v_prodazhe": true,
-   "razdel": "Бело вино",
-   "kanal": "hozyaistvo",
-   "magazin": "www.vinarijadespotika.rs",
-   "stranica": "https://vinarijadespotika.rs/prodavnica-vina/belo-vino/tri-boje-morave-2021-3-x-075l/"
   },
   {
    "vino": "Beskraj Magnum 2021 – 1,5l",

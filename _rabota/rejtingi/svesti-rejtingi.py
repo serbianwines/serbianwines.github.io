@@ -214,6 +214,15 @@ def dinarov(skolko):
     return "%d динар%s" % (skolko, "" if poslednyaya == 1 else "а")
 
 
+def vin_shtuk(skolko):
+    """«63 вин», «81 вина», «22 вина». Падеж считается, а не вписывается:
+    в отчёте число берётся из данных и меняется от прогона к прогону."""
+    sto, poslednyaya = skolko % 100, skolko % 10
+    if 11 <= sto <= 14 or poslednyaya == 0 or poslednyaya >= 5:
+        return "%d вин" % skolko
+    return "%d вина" % skolko
+
+
 def mesta_za_dengi(d, k):
     """Места этого вина в категории «за свои деньги» годового выбора."""
     return [z for z in d["medali"][k] if z["istochnik"] == "vino.rs"
@@ -566,13 +575,14 @@ def po_strane(d, pech):
         # сторону, чем два первых, и это стоит сказать прямо.
         uh = d.get("u_hozyaistva") or {}
         if uh.get("vin_i_tam_i_tam"):
-            pech("А у самого хозяйства то же вино обычно дешевле: из %d вин, "
-                 "которые продаются и в винотеке, и в магазине винодельни, "
-                 "у винодельни дешевле %d — в среднем на %.0f%%. Собственные "
-                 "магазины нашлись у %s хозяйств, и там же стоят флагманы, "
-                 "которых в винотеках нет вовсе.\n"
-                 % (uh["vin_i_tam_i_tam"], uh["deshevle_u_hozyaistva"],
-                    (1 - uh["cena_hozyaistva_k_lavke"]) * 100,
+            pech("А у самого хозяйства то же вино обычно дешевле — "
+                 "в среднем на %.0f%%. Цена известна и в винотеке, и в "
+                 "магазине винодельни у %s; у винодельни дешевле %d из них. "
+                 "Собственные магазины нашлись у %s хозяйств, и там же стоят "
+                 "флагманы, которых в винотеках нет вовсе.\n"
+                 % ((1 - uh["cena_hozyaistva_k_lavke"]) * 100,
+                    vin_shtuk(uh["vin_i_tam_i_tam"]),
+                    uh["deshevle_u_hozyaistva"],
                     uh.get("hozyaistv") or "нескольких"))
         pech("| Вино | Критик | Vivino | Медали | Динаров |")
         pech("|---|---|---|---|---|")

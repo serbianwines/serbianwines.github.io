@@ -353,10 +353,10 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Vojvodina | Potiski rejon | 2 | 19 | 9 | 15 |
 | Centralna Srbija | Rejon Negotinska Krajina | 23 | 64 | 119 | 199 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
-| Centralna Srbija | Rejon Tri Morave | 82 | 235 | 354 | 661 |
+| Centralna Srbija | Rejon Tri Morave | 83 | 240 | 361 | 668 |
 | Vojvodina | Sremski rejon | 92 | 343 | 687 | 1290 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 271 |
-| Centralna Srbija | Šumadijski rejon | 37 | 171 | 303 | 533 |
+| Centralna Srbija | Šumadijski rejon | 36 | 166 | 296 | 526 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 117 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 56 | 87 |
 | — | **рејон не установлен** | 113 | 56 | 31 | 58 |
@@ -373,7 +373,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Фрушка гора | Sremski rejon — 26 |
 | Суботичко-Хоргошская пешчара | Subotički rejon — 4 |
 | Банат | Južnobanatski rejon — 4; Potiski rejon — 1; Banatski rejon — 1 |
-| Шумадия | Šumadijski rejon — 10; Rejon Tri Morave — 1 |
+| Шумадия | Šumadijski rejon — 9; Rejon Tri Morave — 2 |
 | Три Моравы и Жупа | Rejon Tri Morave — 18; Šumadijski rejon — 1 |
 | Неготинска Крайина | Rejon Negotinska Krajina — 5 |
 | Топлица | Toplički rejon — 3 |
@@ -469,7 +469,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Tri Morave | Temnićko vinogorje | 1 |
 | Rejon Tri Morave | Trsteničko vinogorje | 5 |
 | Rejon Tri Morave | Kruševačko vinogorje | 4 |
-| Rejon Tri Morave | Župsko vinogorje | 39 |
+| Rejon Tri Morave | Župsko vinogorje | 40 |
 | Rejon Tri Morave | Ražanjsko vinogorje | — |
 | Rejon Tri Morave | *виногорје не установлено* | 14 |
 | Sremski rejon | Fruškogorsko vinogorje | 92 |
@@ -479,7 +479,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Subotički rejon | *виногорје не установлено* | 6 |
 | Šumadijski rejon | Krnjevačko vinogorje | 3 |
 | Šumadijski rejon | Oplenačko vinogorje | 23 |
-| Šumadijski rejon | Račansko vinogorje | 1 |
+| Šumadijski rejon | Račansko vinogorje | — |
 | Šumadijski rejon | Kragujevačko vinogorje | 3 |
 | Šumadijski rejon | *виногорје не установлено* | 7 |
 | Toplički rejon | Prokupačko vinogorje | 3 |
@@ -685,6 +685,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Cilić | — | Lozovik | prodajavina+vivino+wineart | Три Моравы и Жупа |
 | Cvetković Vinarija | — | — | mesto | — |
 | Damjanovic | Župsko vinogorje | Garevina | mesto | — |
+| Djordjevic Estate Winery | Župsko vinogorje | Горњи Ступањ | mesto | Шумадия |
 | Fragaria | Župsko vinogorje | Aleksandrovac | mesto | Три Моравы и Жупа |
 | Grabak | Kruševačko vinogorje | Vrnjačka Banja | mesto | — |
 | Ivanović | Župsko vinogorje | Aleksandrovac | mesto | Три Моравы и Жупа |
@@ -891,7 +892,6 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Château Prince | Oplenačko vinogorje | Topola | mesto | — |
 | Despotika | Krnjevačko vinogorje | Vlaški Do | mesto | Шумадия |
 | Djokovic | — | — | wineart | — |
-| Djordjevic Estate Winery | Račansko vinogorje | Lapovo | mesto | Шумадия |
 | Draganić | Oplenačko vinogorje | Lipovac | mesto | Шумадия |
 | Eden | Oplenačko vinogorje | Ranilović | mesto | Шумадия |
 | Jelenac organic | Oplenačko vinogorje | Topola | mesto | — |

@@ -428,6 +428,31 @@
     "Vinarija Legat 1903"
    ],
    "dokazatelstvo": "Совпадает вся линейка, четыре вина из четырёх: у нашего «Legat» по Vivino числятся Chardonnay, Muscat Petit Grain, Pinot Noir и Viognier, у «Legat 1903» в «Wine Art Shop» — Pinot Noir, Viognier, Chardonnay и Muscat Petit Grain. Совпадает и место: у Vivino «Šumadija-Great Morava», у магазина «Šumadijski rejon». Этим же закрывается пара «LEGAT 1903 / VIOGNIER» из годового списка Wine Style, которая до сих пор не разбиралась: кандидатов было три — «Legat», «Vinarija Đurđevića Legat» и линейка «Legat» у Винарије Венчац, — и одно совпадение сорта их не разводило, а четыре разводят."
+  },
+  "Robert Rudinski": {
+   "varianty": [
+    "Rudinski"
+   ],
+   "dokazatelstvo": "Оба имени стоят в одном выпуске годового выбора vino.rs за 2022 год: «Cabernet Sauvignon 2017 Rudinski» и «Rizling 2018 Robert Rudinski». У Vivino рислинг числится за «Robert Rudinski»."
+  },
+  "Baša": {
+   "varianty": [
+    "Basha Vino"
+   ],
+   "dokazatelstvo": "Одно имя двумя способами письма: сербское «š» у Vivino передано как «sh». Совпадает линейка: у «Baša» в годовом выборе vino.rs фурминт и тамјаника, у «Basha Vino» на Vivino — «Furmint» и «Tamjanika Prva»."
+  },
+  "Winery ŠKRBIĆ": {
+   "varianty": [
+    "Chicha"
+   ],
+   "dokazatelstvo": "AWC Vienna печатает их вместе и в кавычках: хозяйство «Winery ŠKRBIĆ», вино «\"CHICHA\" Sauvignon Blanc». У Vivino же «Chicha» стоит в поле производителя, а совиньон у него отдельным вином, и там же ещё десяток вин той же линейки. CHICHA — марка Шкрбића: хозяйство она называет верно, но из имени вина её снимать нельзя, и в имени вина она стоит впереди.",
+   "marki": [
+    "Chicha"
+   ],
+   "marki_v_imeni_vina": [
+    "Chicha"
+   ],
+   "marki_pochemu": "AWC Vienna печатает их вместе и в кавычках: хозяйство «Winery ŠKRBIĆ», вино «\"CHICHA\" Sauvignon Blanc». У Vivino же «Chicha» стоит в поле производителя, а совиньон у него отдельным вином. CHICHA — марка Шкрбића, и в имени вина она стоит впереди."
   }
  },
  "ne_odno_i_to_zhe": {

@@ -45,6 +45,7 @@
   "arsenijevic-starosedelac": 2,
   "basa-furmint": 1,
   "basa-jantar": 1,
+  "basa-morava": 1,
   "basa-tamjanika": 1,
   "belo-brdo-alma-mons": 6,
   "belo-brdo-cabernet-franc": 1,
@@ -642,6 +643,7 @@
   "arsenijevic-starosedelac": 1619,
   "basa-furmint": 3545,
   "basa-jantar": 3398,
+  "basa-morava": 3865,
   "basa-tamjanika": 3700,
   "belo-brdo-alma-mons": 2079,
   "belo-brdo-cabernet-franc": 12600,
@@ -3904,16 +3906,6 @@
    "artikul": "10101431 2022",
    "cena_rsd": 1370.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24002-andrica-vinograd-attache",
-   "magazin": "vinoteka",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "nomer": "26221",
-   "vino": "Baša Morava",
-   "hozyaistvo": "Vinarija Baša",
-   "artikul": "10101511 2021",
-   "cena_rsd": 3865.0,
-   "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26221-basa-morava",
    "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },

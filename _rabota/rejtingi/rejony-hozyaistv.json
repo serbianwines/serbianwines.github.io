@@ -849,17 +849,6 @@
    "istochnik": "ne_ustanovlen",
    "raznoglasie": "",
    "gde": "",
-   "pokazaniya": []
-  },
-  "basha": {
-   "hozyaistvo": "Basha Vino",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
    "pokazaniya": [
     "vivino: Wine of Serbia"
    ]
@@ -1332,19 +1321,6 @@
     "registar: Lipovac, Šumadijski okrug",
     "vivino-adres: Topola",
     "vivino: Šumadija-Great Morava"
-   ]
-  },
-  "chicha": {
-   "hozyaistvo": "Chicha",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "vivino: Central Serbia"
    ]
   },
   "chichateau": {
@@ -1980,6 +1956,7 @@
    "gde": "Ириг, Фрушка гора",
    "pokazaniya": [
     "ivv: Kanjiža, Severno-banatski okrug",
+    "registar: Kanjiža, Severnobanatski okrug",
     "vivino: Vojvodina"
    ]
   },
@@ -5112,7 +5089,6 @@
    "pokazaniya": [
     "decanter: Srem · Fruška Gora",
     "ivv: Veliki Radinci, Sremski okrug",
-    "registar: Veliki Radinci, Sremski okrug",
     "vivino-adres: Srbija",
     "vivino: Central Serbia",
     "wine-trophy: Fruška gora"
@@ -5559,17 +5535,6 @@
     "vivino: Wine of Serbia"
    ]
   },
-  "rudinski": {
-   "hozyaistvo": "Rudinski",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": []
-  },
   "rujevica": {
    "hozyaistvo": "Rujevica",
    "region": null,
@@ -5767,7 +5732,9 @@
    "istochnik": "ne_ustanovlen",
    "raznoglasie": "",
    "gde": "",
-   "pokazaniya": []
+   "pokazaniya": [
+    "vivino: Central Serbia"
+   ]
   },
   "slatina": {
    "hozyaistvo": "Vinarija Slatina",

@@ -160,8 +160,19 @@ def razobrat():
         svoi = medali[k]
         chuzhie = sum(STROGOST.get(z["istochnik"], 1) * stupen(z["mesto"])
                       for z in svoi if z["istochnik"] != "vino.rs")
+        if EKSPERT_S_VINO_RS:
+            # Выбор ушёл к экспертам — в олимпиадном зачёте его больше нет.
+            return chuzhie
         return chuzhie + STROGOST.get("vino.rs", 1) * ochki_vino_rs(
             [z for z in svoi if z["istochnik"] == "vino.rs"])
+
+    # Ранг вина внутри дорожки годового выбора — нужен «согласию трёх»,
+    # чтобы поставить в ряд вино без балла критика.
+    vybor = {v["klyuch"]: ochki_vino_rs(
+                 [z for z in medali[v["klyuch"]] if z["istochnik"] == "vino.rs"])
+             for v in vina}
+    vybor = {k: v for k, v in vybor.items() if v > 0}
+    rang_vino_rs = procentili(vybor)
     # Рејон вина — свой, если конкурс объявил происхождение винограда;
     # иначе рејон дома. Книга о терруаре, и место у вина от лозы.
     rejon = lambda v: v.get("rejon") or (dom.get(v["hozyaistvo"]) or {}).get("rejon")
@@ -182,7 +193,8 @@ def razobrat():
     return dict(vina=vina, dom=dom, vivino=vivino, kritiki=kritiki, medali=medali,
                 ochki=ochki, cena=cena, supermarket=supermarket,
                 polka_supermarketa=polka_svodka,
-                cvet=cvet, po_rejonu=po_rejonu, po_regionu=po_regionu)
+                cvet=cvet, po_rejonu=po_rejonu, po_regionu=po_regionu,
+                rang_vino_rs=rang_vino_rs)
 
 
 def dinarov(skolko):
@@ -242,6 +254,20 @@ def spisok(d, vina, klyuch, godno, cap=2, skolko=SKAMEJKA):
     return itog
 
 
+def ocenka_eksperta(d, k):
+    """Мнение экспертов одним числом — для «согласия трёх».
+
+    Пока выбор `vino.rs` лежит в олимпиадном зачёте, это балл критика.
+    С ключом `--ekspert-s-vino-rs` вино без балла, но с местом в выборе,
+    тоже встаёт в ряд: не пересчётом шкал — так делать нельзя, — а своим
+    рангом внутри дорожки выбора. Число служебное, в таблицы не идёт
+    и нужно только чтобы упорядочить.
+    """
+    if d["kritiki"][k]:
+        return max(d["kritiki"][k])
+    return 80 + 20 * d["rang_vino_rs"].get(k, 0)
+
+
 def procentili(znacheniya):
     poryadok = sorted(znacheniya.values())
     n = len(poryadok) or 1
@@ -250,16 +276,63 @@ def procentili(znacheniya):
 
 def svodnaya(d, vina, skolko=SKAMEJKA):
     """Согласие трёх дорожек: оценка вина — худший из трёх процентилей."""
-    est = [v for v in vina if d["medali"][v["klyuch"]] and d["kritiki"][v["klyuch"]]
+    est = [v for v in vina
+           if d["ochki"](v["klyuch"]) > 0 and est_ekspert(d, v["klyuch"])
            and est_vivino(d, v["klyuch"])]
     if len(est) < 3:
         return []
     m = procentili({v["klyuch"]: d["ochki"](v["klyuch"]) for v in est})
-    k = procentili({v["klyuch"]: max(d["kritiki"][v["klyuch"]]) for v in est})
+    k = procentili({v["klyuch"]: ocenka_eksperta(d, v["klyuch"]) for v in est})
     p = procentili({v["klyuch"]: d["vivino"][v["klyuch"]]["ball"] for v in est})
     ocenka = {v["klyuch"]: min(m[v["klyuch"]], k[v["klyuch"]], p[v["klyuch"]])
               for v in est}
     return spisok(d, est, ocenka.get, lambda kl: kl in ocenka, skolko=skolko)
+
+
+# Куда отнести годовой выбор `vino.rs`. По умолчанию он в олимпиадном
+# зачёте: это награда, а не балл. Ключ `--ekspert-s-vino-rs` переносит
+# его в дорожку «мнение экспертов» — там жюри из сотни профессионалов
+# стоит рядом с баллом критика, а не рядом с медалью.
+#
+# Сложить место и балл прямо нельзя: шкалы разные, и это первое правило
+# `slovar-polej.md`. Складываются процентили — так же, как в «согласии
+# трёх», где три несравнимые дорожки уже сведены этим способом. У вина
+# берётся среднее из тех процентилей, которые для него есть: у 220 вин
+# есть место vino.rs и нет балла критика, у 954 наоборот, и требовать
+# оба голоса значило бы выкинуть и тех, и других.
+EKSPERT_S_VINO_RS = False
+
+
+def ochki_kachestva(d, k):
+    """Очки годового выбора — только по категориям о качестве."""
+    return ochki_vino_rs([z for z in d["medali"][k] if z["istochnik"] == "vino.rs"])
+
+
+def est_ekspert(d, k):
+    if d["kritiki"][k]:
+        return True
+    return EKSPERT_S_VINO_RS and ochki_kachestva(d, k) > 0
+
+
+def mnenie_ekspertov(d, vina, skolko=SKAMEJKA):
+    """Дорожка «мнение экспертов»: балл критика, а с ключом — и место
+    в годовом выборе."""
+    if not EKSPERT_S_VINO_RS:
+        return spisok(d, vina, lambda k: max(d["kritiki"][k]),
+                      lambda k: bool(d["kritiki"][k]), skolko=skolko)
+    est = [v for v in vina if est_ekspert(d, v["klyuch"])]
+    s_ballom = {v["klyuch"]: max(d["kritiki"][v["klyuch"]])
+                for v in est if d["kritiki"][v["klyuch"]]}
+    s_mestom = {v["klyuch"]: ochki_kachestva(d, v["klyuch"])
+                for v in est if ochki_kachestva(d, v["klyuch"]) > 0}
+    pk, pm = procentili(s_ballom), procentili(s_mestom)
+    ocenka = {}
+    for v in est:
+        k = v["klyuch"]
+        golosa = [x for x in (pk.get(k), pm.get(k)) if x is not None]
+        if golosa:
+            ocenka[k] = sum(golosa) / len(golosa)
+    return spisok(d, est, ocenka.get, lambda k: k in ocenka, skolko=skolko)
 
 
 def kachestvo(d, k):
@@ -332,8 +405,7 @@ def po_glavam(d, pech):
         pech("\n## %s\n" % imya)
         dorozhki = [
             ("Олимпиадный зачёт", spisok(d, vina, d["ochki"], lambda k: bool(d["medali"][k]))),
-            ("Мнение экспертов", spisok(d, vina, lambda k: max(d["kritiki"][k]),
-                                        lambda k: bool(d["kritiki"][k]))),
+            ("Мнение экспертов", mnenie_ekspertov(d, vina)),
             ("Vox populi", spisok(d, vina, lambda k: d["vivino"][k]["ball"],
                                   lambda k: est_vivino(d, k))),
             ("Согласие трёх", svodnaya(d, vina)),
@@ -517,7 +589,14 @@ def main():
     razbor = argparse.ArgumentParser()
     razbor.add_argument("--otchet", action="store_true",
                         help="собрать rejtingi.md, а не печатать на экран")
+    razbor.add_argument("--ekspert-s-vino-rs", action="store_true",
+                        help="перенести годовой выбор vino.rs из олимпиадного "
+                             "зачёта в дорожку «мнение экспертов»")
+    razbor.add_argument("--v-fajl", default="rejtingi.md",
+                        help="куда писать отчёт (для сравнения вариантов)")
     kljuchi = razbor.parse_args()
+    global EKSPERT_S_VINO_RS
+    EKSPERT_S_VINO_RS = kljuchi.ekspert_s_vino_rs
     d = razobrat()
     stroki = []
     pech = stroki.append if kljuchi.otchet else print
@@ -530,8 +609,11 @@ def main():
     pech("\n# По главам\n")
     po_glavam(d, pech)
     if kljuchi.otchet:
-        (ZDES / "rejtingi.md").write_text("\n".join(stroki) + "\n", encoding="utf-8")
-        print("собран rejtingi.md")
+        (ZDES / kljuchi.v_fajl).write_text("\n".join(stroki) + "\n",
+                                           encoding="utf-8")
+        print("собран %s%s" % (kljuchi.v_fajl,
+                               " (выбор vino.rs — у экспертов)"
+                               if EKSPERT_S_VINO_RS else ""))
 
 
 if __name__ == "__main__":

@@ -138,7 +138,8 @@
    "raion": null,
    "istochnik": "raspolozhenie",
    "gde": "Лепосавић, север Косова",
-   "gde_pochemu": "Два источника называют место прямо и одинаково: vino.rs — «vinarija Lakićević iz Leposavića na severu Kosova», Wine Style — «paleta vrhunskih vina ove vinarije iz Leposavića». Рејон при этом не ставится: Лепосавић не входит ни в Севернометохијски рејон (Исток, Пећ, Клина), ни в Јужнометохијски (Ђаковица, Ораховац, Призрен, Сува Река), то есть в рејонизацију он не входит вовсе — как и Неузина Николића. «Wine Art Shop» пишет «Kosovsko metohijski rejon», но такого рејона в рејонизацији нет: под этим именем два разных."
+   "gde_pochemu": "Два источника называют место прямо и одинаково: vino.rs — «vinarija Lakićević iz Leposavića na severu Kosova», Wine Style — «paleta vrhunskih vina ove vinarije iz Leposavića». Рејон при этом не ставится: Лепосавић не входит ни в Севернометохијски рејон (Исток, Пећ, Клина), ни в Јужнометохијски (Ђаковица, Ораховац, Призрен, Сува Река), то есть в рејонизацију он не входит вовсе — как и Неузина Николића. «Wine Art Shop» пишет «Kosovsko metohijski rejon», но такого рејона в рејонизацији нет: под этим именем два разных. Регион при этом поставлен решением автора: рејона у Лепосавића нет, но Косово он и есть, и в главе «Косово и Метохија» хозяйству место.",
+   "region": "Kosovo i Metohija"
   },
   "Manastir Bukovo": {
    "raion": "negotin",

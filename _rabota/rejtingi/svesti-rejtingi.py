@@ -35,13 +35,39 @@ STROGOST = {"decanter": 3, "awc-vienna": 2, "iwc": 2, "cmb": 2,
 STUPEN = {"best-in-show": 6, "platina": 5, "dvojno-zlato": 5, "grand-gold": 5,
           "veliko-zlato": 5, "trofej": 5, "zlato": 4, "srebro": 2,
           "bronza": 1, "commended": 0.5}
-# Годовой выбор vino.rs даёт не медаль, а место в десятке. Лестница та же
-# по смыслу: насколько отличие редкое. Первое место в национальном
-# годовом выборе, где участвует около сотни профессионалов, стоит золота;
-# второе и третье — серебра; остальная десятка — как «commended»:
-# замечено, но не отмечено. Это не измерение, а соглашение, и его видно.
-MESTO_V_DESYATKE = {1: 4, 2: 2, 3: 2}
-MESTO_PROCHEE = 0.5
+# Годовой выбор vino.rs даёт не медаль, а место в десятке, и вес ему
+# поставлен измерением, а не на глаз. Мерка одна для всех отличий: какую
+# долю их обладателей другие судьи оценили в 92 балла и выше. «Другие» —
+# обязательно: у медали Decanter балл ставил сам Decanter, и без этой
+# оговорки конкурс мерил бы сам себя.
+#
+#     decanter zlato      74%      место 1–5 у vino.rs   55%
+#     biwc dvojno-zlato   57%      место 6–10            37%
+#     decanter srebro     49%      decanter bronza       38%
+#     biwc zlato          36%      awc zlato             38%
+#
+# Место в первой пятёрке годового выбора предсказывает качество как
+# серебро Decanter (6 очков) или двойное золото BIWC (5); место с шестого
+# по десятое — как бронза Decanter (3) или золото BIWC (4). Отсюда 5,5
+# и 3,5. Дробить пятёрку дальше данные не дают: второе место меряется
+# хуже пятого (36% против 53%), разброс на выборках по полтора десятка
+# вин больше самой разницы.
+MESTO_V_PYATERKE = 5.5
+MESTO_V_DESYATKE = 3.5
+
+# Что из годового выбора вообще считается наградой вину. Дизайн этикетки,
+# маркетинг и «винный бренд» о вине не говорят ничего. «За свои деньги»
+# говорит, но о другом: эти вина дешевле (медиана 1500 динаров против
+# 1834) и по баллу слабее (медиана 90 против 92), зато стоят своих денег
+# — их место в таблицах «за свои деньги», не в олимпиадном зачёте.
+VINO_RS_KACHESTVO = "лучшее"
+VINO_RS_ZA_DENGI = "за свои деньги"
+# Насколько отличие «за свои деньги» двигает вино в наших рядах о цене.
+# Мерка та же — остаток над ожиданием по цене: у всех вин с ценой и
+# баллом медиана остатка 0,0; у отмеченных vino.rs «за свои деньги» —
+# +1,0; у первой тройки таких — +1,7. Столько и прибавляем. Это
+# соглашение, но с числами за спиной; поменять — одна строка.
+BONUS_ZA_DENGI = {"tri": 2.0, "desyat": 1.0}
 
 
 def stupen(mesto):
@@ -49,8 +75,27 @@ def stupen(mesto):
     if mesto in STUPEN:
         return STUPEN[mesto]
     if (mesto or "").isdigit():
-        return MESTO_V_DESYATKE.get(int(mesto), MESTO_PROCHEE)
+        nomer = int(mesto)
+        return MESTO_V_PYATERKE if nomer <= 5 else MESTO_V_DESYATKE
     return 1
+
+
+def ochki_vino_rs(nagrady):
+    """Очки годового выбора: одно вино за один год — одно отличие.
+
+    Общая категория и её дольки — «лучшее красное», «лучшее красное,
+    местные сорта», «лучшее красное, органика» — это один и тот же
+    выбор одного и того же года, нарезанный трижды. Складывать их значит
+    утроить вес ровно тем винам, что попали в узкую дольку: органическому
+    красному из местного сорта. Поэтому за год берётся лучшее место,
+    а не сумма мест.
+    """
+    luchshee = {}
+    for z in nagrady:
+        if not z["kategoriya"].startswith(VINO_RS_KACHESTVO):
+            continue
+        luchshee[z["god"]] = max(luchshee.get(z["god"], 0), stupen(z["mesto"]))
+    return sum(luchshee.values())
 
 # Главы: имя → рејоны действующей рејонизације. Чачанско-краљевачки стоит
 # в Трем Моравама: Западна Морава — одна из трёх Морава, и Трстеник
@@ -71,6 +116,11 @@ GLAVY = [
                    "Leskovački rejon", "Vranjski rejon"]),
     ("Косово и Метохија", ["Južnometohijski rejon", "Severnometohijski rejon"]),
 ]
+# Главы, которые забирают ещё и хозяйства без рејона, но с известным
+# регионом. Пока такая одна: Лакићевић стоит в Лепосавићу, а Лепосавић
+# в рејонизацију не входит — ни в Севернометохијски рејон, ни в
+# Јужнометохијски. Косово он от этого быть не перестаёт.
+REGION_GLAVY = {"Косово и Метохија": "Kosovo i Metohija"}
 CVETA = [("красное", "Красные"), ("белое", "Белые"), ("розе", "Розе")]
 
 
@@ -106,20 +156,33 @@ def razobrat():
     for z in nagrady:
         medali[z["klyuch_vina"]].append(z)
 
-    ochki = lambda k: sum(STROGOST.get(z["istochnik"], 1) * stupen(z["mesto"])
-                          for z in medali[k])
+    def ochki(k):
+        svoi = medali[k]
+        chuzhie = sum(STROGOST.get(z["istochnik"], 1) * stupen(z["mesto"])
+                      for z in svoi if z["istochnik"] != "vino.rs")
+        return chuzhie + STROGOST.get("vino.rs", 1) * ochki_vino_rs(
+            [z for z in svoi if z["istochnik"] == "vino.rs"])
     # Рејон вина — свой, если конкурс объявил происхождение винограда;
     # иначе рејон дома. Книга о терруаре, и место у вина от лозы.
     rejon = lambda v: v.get("rejon") or (dom.get(v["hozyaistvo"]) or {}).get("rejon")
     po_rejonu = collections.defaultdict(list)
+    # Хозяйство бывает в известном месте, но вне рејонизације: Лакићевић
+    # стоит в Лепосавићу, а Лепосавић не входит ни в один из двух
+    # метохијских рејона. Глава о крае от этого не должна его терять,
+    # поэтому вина такого дома собираются по региону.
+    po_regionu = collections.defaultdict(list)
     for v in vina:
         r = rejon(v)
         if r:
             po_rejonu[r].append(v)
+            continue
+        region = (dom.get(v["hozyaistvo"]) or {}).get("region")
+        if region:
+            po_regionu[region].append(v)
     return dict(vina=vina, dom=dom, vivino=vivino, kritiki=kritiki, medali=medali,
                 ochki=ochki, cena=cena, supermarket=supermarket,
                 polka_supermarketa=polka_svodka,
-                cvet=cvet, po_rejonu=po_rejonu)
+                cvet=cvet, po_rejonu=po_rejonu, po_regionu=po_regionu)
 
 
 def dinarov(skolko):
@@ -132,6 +195,28 @@ def dinarov(skolko):
     if 11 <= sto <= 14 or poslednyaya == 0 or poslednyaya >= 5:
         return "%d динаров" % skolko
     return "%d динар%s" % (skolko, "" if poslednyaya == 1 else "а")
+
+
+def mesta_za_dengi(d, k):
+    """Места этого вина в категории «за свои деньги» годового выбора."""
+    return [z for z in d["medali"][k] if z["istochnik"] == "vino.rs"
+            and VINO_RS_ZA_DENGI in z["kategoriya"] and z["mesto"].isdigit()]
+
+
+def bonus_za_dengi(d, k):
+    mesta = [int(z["mesto"]) for z in mesta_za_dengi(d, k)]
+    if not mesta:
+        return 0.0
+    return BONUS_ZA_DENGI["tri" if min(mesta) <= 3 else "desyat"]
+
+
+def za_dengi_pometka(d, k):
+    """Как показать отметку в таблице: лучшее место и его год."""
+    mesta = mesta_za_dengi(d, k)
+    if not mesta:
+        return "—"
+    luchshee = min(mesta, key=lambda z: int(z["mesto"]))
+    return "%s-е, %d" % (luchshee["mesto"], luchshee["god"])
 
 
 def est_vivino(d, k):
@@ -242,6 +327,8 @@ def shapka(cena=False):
 def po_glavam(d, pech):
     for imya, rejony in GLAVY:
         vina = [v for r in rejony for v in d["po_rejonu"].get(r, [])]
+        if imya in REGION_GLAVY:
+            vina += d["po_regionu"].get(REGION_GLAVY[imya], [])
         pech("\n## %s\n" % imya)
         dorozhki = [
             ("Олимпиадный зачёт", spisok(d, vina, d["ochki"], lambda k: bool(d["medali"][k]))),
@@ -329,18 +416,29 @@ def po_strane(d, pech):
              "**в Сербии цена почти не предсказывает качество**, и покупать "
              "по ценнику здесь бессмысленнее, чем где-либо.\n"
              % (m["naklon"] * math.log(2), m["svyaz"], m["vin"], m["razbros"]))
-        pech("| Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |")
-        pech("|---|---|---|---|---|---|")
-        s_ostatkom = lambda v: "| %s | %+.1f | %s" % (
+        pech("Второй голос здесь — сам `vino.rs`: у него есть своя "
+             "категория «за свои деньги», и её отметка вино в ряду "
+             "поднимает. Столбец «vino.rs» показывает лучшее место "
+             "и год; в порядке ряда отметка стоит %+.1f балла остатка "
+             "за первую тройку и %+.1f за прочие места десятки — ровно "
+             "столько, на сколько такие вина в среднем и превышают "
+             "ожидание по цене. Столбец «сверх ожидания» при этом "
+             "остаётся чистым измерением, без надбавки.\n"
+             % (BONUS_ZA_DENGI["tri"], BONUS_ZA_DENGI["desyat"]))
+        pech("| Вино | Сверх ожидания | vino.rs | Критик | Vivino | Медали | Динаров |")
+        pech("|---|---|---|---|---|---|---|")
+        s_ostatkom = lambda v: "| %s | %+.1f | %s | %s" % (
             "%s · %s" % (v["hozyaistvo"], v["vino"]), ostatok[v["klyuch"]],
+            za_dengi_pometka(d, v["klyuch"]),
             stroka_vina(d, v, cena=True).split(" | ", 1)[1])
+        poryadok = {k: v + bonus_za_dengi(d, k) for k, v in ostatok.items()}
         for v in spisok(d, [v for v in s_cenoj if v["klyuch"] in ostatok],
-                        ostatok.get, lambda k: k in ostatok, skolko=10):
+                        poryadok.get, lambda k: k in ostatok, skolko=10):
             pech(s_ostatkom(v))
         pech("\nХвост того же ряда — вино, которое просит больше, чем даёт:\n")
-        pech("| Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |")
-        pech("|---|---|---|---|---|---|")
-        for k in sorted(ostatok, key=ostatok.get)[:5]:
+        pech("| Вино | Сверх ожидания | vino.rs | Критик | Vivino | Медали | Динаров |")
+        pech("|---|---|---|---|---|---|---|")
+        for k in sorted(poryadok, key=poryadok.get)[:5]:
             pech(s_ostatkom(next(x for x in s_cenoj if x["klyuch"] == k)))
 
     dostupnye = [v for v in s_cenoj if d["cena"][v["klyuch"]] <= potolok]

@@ -830,6 +830,11 @@ def main():
     karta = json.load(open(put("raion-hozyaistv.json"), encoding="utf-8"))["hozyaistva"]
     gde_po_klyuchu = {klyuch_hozyaistva(k): v.get("gde", "")
                       for k, v in karta.items()}
+    # Регион, поставленный руками. Нужен там, где место известно, а
+    # рејона у него нет: Лепосавић — Косово, но в рејонизацију он не
+    # входит, и без этого хозяйство осталось бы вне всех глав.
+    region_po_klyuchu = {klyuch_hozyaistva(k): v["region"]
+                         for k, v in karta.items() if v.get("region")}
     imya_po_klyuchu = {}
     for s in open(put("hozyaistva.jsonl"), encoding="utf-8"):
         if s.strip():
@@ -991,7 +996,7 @@ def main():
 
         itog[k] = {
             "hozyaistvo": imya_po_klyuchu.get(k, k),
-            "region": region,
+            "region": region or region_po_klyuchu.get(k),
             "rejon": rejon,
             "vinogorje": vinogorje,
             "gorod": imya_goroda(gde, karty),

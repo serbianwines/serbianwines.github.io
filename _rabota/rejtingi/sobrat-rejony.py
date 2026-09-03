@@ -843,6 +843,13 @@ def main():
     # гасит вывод: пустое поле и «известно, что не оно» — разные вещи.
     net_vinogorja = {klyuch_hozyaistva(k) for k, v in karta.items()
                      if v.get("vinogorje_net")}
+    # Место назначения, поставленное руками. `imya_goroda` берёт самый
+    # точный кусок поля, который **справочник узнаёт**, а справочник знает
+    # только общины и кадастровые общины рејонизације. Мокрин и Сталаћ
+    # в них не входят, и город выходил Кикинда и Ћићевац — общины, а не
+    # места, где стоит подвал. Ехать при этом в Мокрин и в Сталаћ.
+    gorod_rukami = {klyuch_hozyaistva(k): v["gorod"]
+                    for k, v in karta.items() if v.get("gorod")}
     imya_po_klyuchu = {}
     for s in open(put("hozyaistva.jsonl"), encoding="utf-8"):
         if s.strip():
@@ -1009,7 +1016,7 @@ def main():
             "region": region or region_po_klyuchu.get(k),
             "rejon": rejon,
             "vinogorje": vinogorje,
-            "gorod": imya_goroda(gde, karty),
+            "gorod": gorod_rukami.get(k) or imya_goroda(gde, karty),
             "istochnik": istochnik if rejon else "ne_ustanovlen",
             "raznoglasie": raznoglasie,
             "gde": gde,

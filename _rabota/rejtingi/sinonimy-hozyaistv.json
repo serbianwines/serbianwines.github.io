@@ -455,6 +455,22 @@
     "Chicha"
    ],
    "marki_pochemu": "AWC Vienna печатает их вместе и в кавычках: хозяйство «Winery ŠKRBIĆ», вино «\"CHICHA\" Sauvignon Blanc». У Vivino же «Chicha» стоит в поле производителя, а совиньон у него отдельным вином. CHICHA — марка Шкрбића, и в имени вина она стоит впереди."
+  },
+  "Podrum Bačina": {
+   "varianty": [
+    "Bacina vino d.o.o.",
+    "Bacina Vino",
+    "Bacina",
+    "Dolina"
+   ],
+   "dokazatelstvo": "«Dolina» — марка Подрума Бачина, а не второе хозяйство. Собственный сайт (dolina.se, по-шведски) говорит это прямо: «Podrum Bacina – Bacinas vinkällare – ligger i byn Bacina», вина на нём — «Dolina Barrique Cuvée», «Dolina Tre Får», «Dolina Euphonia Gran Reserva», а виноград «odlas på egna vinfält i områdena kring Bacina i vindistriktet Tre Morava». У нас те же вина стояли дважды: за «Bacina vino d.o.o.» — «Dolina Merlot», «Dolina Rizling», «Dolina Rosé», «Dolina Barrique XVII»; за «Dolina» с Vivino — те же без марки в начале: «Barrique Merlot», «Riesling Suvo Belo», «Rosé», «Barrique XIX Reserve». Vivino поставил марку в поле производителя, и из имён вин она выпала. Шведский адрес в карточке Vivino (Borås) — адрес того, кто вино возит: рејон по нему не ставился вовсе, и восемь вин с оценками оставались вне всех глав. Бачина — кадастровая община Темнићког виногорја, Рејон Три Мораве.",
+   "marki": [
+    "Dolina"
+   ],
+   "marki_v_imeni_vina": [
+    "Dolina"
+   ],
+   "marki_pochemu": "В каталоге хозяйства марка стоит первым словом имени вина: «Dolina Barrique Cuvée», «Dolina Tre Får». Значит, у источника, поставившего её в поле производителя, она из имени вина выпала."
   }
  },
  "ne_odno_i_to_zhe": {

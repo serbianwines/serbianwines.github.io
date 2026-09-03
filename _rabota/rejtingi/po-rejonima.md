@@ -353,13 +353,13 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Vojvodina | Potiski rejon | 2 | 19 | 9 | 15 |
 | Centralna Srbija | Rejon Negotinska Krajina | 23 | 64 | 119 | 199 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
-| Centralna Srbija | Rejon Tri Morave | 82 | 232 | 351 | 658 |
+| Centralna Srbija | Rejon Tri Morave | 82 | 235 | 354 | 661 |
 | Vojvodina | Sremski rejon | 92 | 343 | 687 | 1290 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 271 |
 | Centralna Srbija | Šumadijski rejon | 37 | 171 | 303 | 533 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 117 |
 | Centralna Srbija | Vranjski rejon | 3 | 24 | 56 | 87 |
-| — | **рејон не установлен** | 114 | 59 | 34 | 61 |
+| — | **рејон не установлен** | 113 | 56 | 31 | 58 |
 
 **Рејоны, из которых не собралось ни одного хозяйства:** Severnometohijski rejon.
 
@@ -512,7 +512,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 |---|---|---|---|---|
 | Kepul | Kikindsko vinogorje | Iđoš | mesto | — |
 | Vinarija Gnezdo | — | Bečej | konkurs | — |
-| Vinarija Radlović doo | — | Кикинда | mesto | Банат |
+| Vinarija Radlović doo | — | Мокрин | mesto | Банат |
 
 ### Beogradski rejon — Centralna Srbija
 
@@ -680,7 +680,6 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 |---|---|---|---|---|
 | Adora | Jagodinsko vinogorje | Jagodina | mesto | — |
 | Aleksandar Todorović | — | — | vivino | — |
-| Bacina vino d.o.o. | Temnićko vinogorje | Varvarin | mesto | — |
 | Braća Rajković | Župsko vinogorje | Aleksandrovac | mesto | Три Моравы и Жупа |
 | Budimir | Župsko vinogorje | Aleksandrovac | mesto | Три Моравы и Жупа |
 | Cilić | — | Lozovik | prodajavina+vivino+wineart | Три Моравы и Жупа |
@@ -693,7 +692,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Jovac | Jagodinsko vinogorje | Jovac | mesto | Три Моравы и Жупа |
 | Kalem | Trsteničko vinogorje | Velika Drenova | mesto | — |
 | Lastar | Levačko vinogorje | Rekovac | mesto | Три Моравы и Жупа |
-| MV Vinarija | — | Ћићевац | mesto | Три Моравы и Жупа |
+| MV Vinarija | — | Сталаћ | mesto | Три Моравы и Жупа |
 | Marko | Trsteničko vinogorje | Ясиковица | mesto | Шумадия |
 | Milan Nikolić | Jagodinsko vinogorje | — | decanter | — |
 | Milanov Podrum | Župsko vinogorje | Aleksandrovac | mesto | — |
@@ -701,6 +700,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Minić | Župsko vinogorje | Aleksandrovac | mesto | Три Моравы и Жупа |
 | Natural Grape Concept | Župsko vinogorje | Гаревина | mesto | — |
 | Nikad Nije Kasno | Župsko vinogorje | Александровац | mesto | — |
+| Podrum Bačina | Temnićko vinogorje | Varvarin | mesto | — |
 | Podrum Dremina | Paraćinsko vinogorje | Drenovac | mesto | — |
 | Podrum Pevac | Jagodinsko vinogorje | Kragujevac | konkurs | — |
 | Podrum Tošići | Župsko vinogorje | Aleksandrovac | mesto | — |

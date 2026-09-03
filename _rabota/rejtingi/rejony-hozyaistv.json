@@ -767,7 +767,7 @@
    ]
   },
   "bacina": {
-   "hozyaistvo": "Bacina vino d.o.o.",
+   "hozyaistvo": "Podrum Bačina",
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": "Temnićko vinogorje",
@@ -776,9 +776,12 @@
    "raznoglasie": "",
    "gde": "Varvarin, Rasinski okrug",
    "pokazaniya": [
+    "decanter: ",
     "decanter: West Morava · Kruševac",
     "ivv: Varvarin, Rasinski okrug",
-    "registar: Bačina, Rasinski okrug"
+    "registar: Bačina, Rasinski okrug",
+    "vivino-adres: Borås",
+    "vivino: Šumadija-Great Morava"
    ]
   },
   "bada": {
@@ -1772,21 +1775,6 @@
     "vivino: Šumadija-Great Morava",
     "wineart: Šumadija",
     "wineart: Šumadijski rejon"
-   ]
-  },
-  "dolina": {
-   "hozyaistvo": "Dolina",
-   "region": "Centralna Srbija",
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "рејон один из: Beogradski rejon; Mlavski rejon; Rejon Tri Morave; Šumadijski rejon",
-   "gde": "Borås",
-   "pokazaniya": [
-    "decanter: ",
-    "vivino-adres: Borås",
-    "vivino: Šumadija-Great Morava"
    ]
   },
   "dorde": {
@@ -4338,7 +4326,7 @@
    "region": "Centralna Srbija",
    "rejon": "Rejon Tri Morave",
    "vinogorje": null,
-   "gorod": "Ћићевац",
+   "gorod": "Сталаћ",
    "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Сталаћ, Ћићевац",
@@ -5185,7 +5173,7 @@
    "region": "Vojvodina",
    "rejon": "Banatski rejon",
    "vinogorje": null,
-   "gorod": "Кикинда",
+   "gorod": "Мокрин",
    "istochnik": "mesto",
    "raznoglasie": "",
    "gde": "Мокрин, Кикинда",

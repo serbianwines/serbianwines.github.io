@@ -216,17 +216,6 @@ bt-president-vranac-silver,BT Winery,President Vranac Silver,12541527,https://ww
 bt-souteast-prokupac,BT Winery,SoutEast Prokupac,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,
 bt-tam-tam,BT Winery,Tam Tam,11245615,https://www.vivino.com/w/11245615,ocenka_est,921,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
 bt-vranac-red-dry,BT Winery,Vranac Red Dry,13128532,https://www.vivino.com/w/13128532,ocenka_est,203,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
-bacina-dolina,Bacina vino d.o.o.,Dolina,,,net_na_vivino,,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs,красное
-bacina-dolina-barrique-xvii,Bacina vino d.o.o.,Dolina Barrique XVII,,,net_na_vivino,,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs,красное
-bacina-dolina-merlot,Bacina vino d.o.o.,Dolina Merlot,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
-bacina-dolina-rizling,Bacina vino d.o.o.,Dolina Rizling,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
-bacina-dolina-rose,Bacina vino d.o.o.,Dolina Rosé,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
-bacina-dolina-xii,Bacina vino d.o.o.,Dolina XII,,,net_na_vivino,,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs,красное
-bacina-dolina-xix-red,Bacina vino d.o.o.,Dolina XIX red,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
-bacina-dolina-xviii-red,Bacina vino d.o.o.,Dolina XVIII red,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
-bacina-dolina-xx,Bacina vino d.o.o.,Dolina XX,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
-bacina-dolina-red,Bacina vino d.o.o.,Dolina red,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
-bacina-dolina-red-xvii,Bacina vino d.o.o.,Dolina red XVII,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
 bahus-caberlot,Bahus,Caberlot,6719555,https://www.vivino.com/w/6719555,malo_ocenok,26,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo,красное
 bahus-rajnski-rizling,Bahus,Rajnski Rizling,13678514,https://www.vivino.com/w/13678514,malo_ocenok,1,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo,белое
 bahus-rosetto,Bahus,Rosetto,10856923,https://www.vivino.com/w/10856923,malo_ocenok,11,False,False,Južnobanatski rejon,Vršačko vinogorje,hozyaistvo,красное
@@ -663,16 +652,6 @@ doja-rose,Doja,Rose,4192558,https://www.vivino.com/w/4192558,ocenka_est,1431,Fal
 doja-stambolijsko-crveno-special-selection-cabernet-sauvignon,Doja,Stambolijsko Crveno Special Selection Cabernet Sauvignon,6654630,https://www.vivino.com/w/6654630,malo_ocenok,56,False,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,красное
 doja-stambolijsko-rose,Doja,Stambolijsko Rosé,7137560,https://www.vivino.com/w/7137560,malo_ocenok,1,False,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,розе
 doja-tamjanika,Doja,Tamjanika,7231074,https://www.vivino.com/w/7231074,ocenka_est,5457,False,True,Toplički rejon,,konkurs,белое
-dolina-barrique-crveno-suvo,Dolina,Barrique Crveno Suvo,1275805,https://www.vivino.com/w/1275805,ocenka_est,928,False,False,,,,красное
-dolina-barrique-merlot,Dolina,Barrique Merlot,12121853,https://www.vivino.com/w/12121853,malo_ocenok,92,False,False,,,,красное
-dolina-barrique-xix-premium-reserve,Dolina,Barrique XIX Premium Reserve,12960422,https://www.vivino.com/w/12960422,malo_ocenok,76,False,False,,,,красное
-dolina-barrique-xix-reserve,Dolina,Barrique Xix Reserve,,,net_na_vivino,,False,True,,,,красное
-dolina-crveno-suvo,Dolina,Crveno Suvo,3212642,https://www.vivino.com/w/3212642,ocenka_est,626,False,False,,,,красное
-dolina-cuvee-barrique,Dolina,Cuveé Barrique,,,net_na_vivino,,False,True,,,,красное
-dolina-euphonia-gran-reserva,Dolina,Euphonia Gran Reserva,13861935,https://www.vivino.com/w/13861935,malo_ocenok,,False,True,,,,красное
-dolina-riesling-suvo-belo,Dolina,Riesling Suvo Belo,12960388,https://www.vivino.com/w/12960388,malo_ocenok,82,False,False,,,,белое
-dolina-rose,Dolina,Rosé,1985279,https://www.vivino.com/w/1985279,ocenka_est,77,False,False,,,,розе
-dolina-tre-far-cabernet-sauvignon,Dolina,Tre Får Cabernet Sauvignon,13861936,https://www.vivino.com/w/13861936,malo_ocenok,,False,False,,,,красное
 draganic-bard-merlot,Draganić,Bard Merlot,10433169,https://www.vivino.com/w/10433169,ocenka_est,153,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo,красное
 draganic-cavalier-cuvee,Draganić,Cavalier Cuvée,12154983,https://www.vivino.com/w/12154983,ocenka_est,83,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo,красное
 draganic-kontura-chardonnay,Draganić,Kontura Chardonnay,11829855,https://www.vivino.com/w/11829855,malo_ocenok,34,False,False,Šumadijski rejon,Oplenačko vinogorje,hozyaistvo,белое
@@ -1690,6 +1669,26 @@ plavinci-selena-tamjanika,Plavinci,Selena Tamjanika,8803299,https://www.vivino.c
 plavinci-tamjanika-selena-orange,Plavinci,Tamjanika Selena orange,,,net_na_vivino,,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo,
 plavinci-cilibar,Plavinci,Ćilibar,6750233,https://www.vivino.com/w/6750233,ocenka_est,154,False,True,Beogradski rejon,,konkurs,белое
 plavinci-cilibar-organic,Plavinci,Ćilibar Organic,,,net_na_vivino,,False,False,Beogradski rejon,Gročansko vinogorje,hozyaistvo,белое
+bacina-dolina,Podrum Bačina,Dolina,,,net_na_vivino,,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs,красное
+bacina-dolina-barrique-crveno-suvo,Podrum Bačina,Dolina Barrique Crveno Suvo,1275805,https://www.vivino.com/w/1275805,ocenka_est,928,False,False,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-barrique-merlot,Podrum Bačina,Dolina Barrique Merlot,12121853,https://www.vivino.com/w/12121853,malo_ocenok,92,False,False,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-barrique-xix-premium-reserve,Podrum Bačina,Dolina Barrique XIX Premium Reserve,12960422,https://www.vivino.com/w/12960422,malo_ocenok,76,False,False,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-barrique-xvii,Podrum Bačina,Dolina Barrique XVII,,,net_na_vivino,,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs,красное
+bacina-dolina-barrique-xix-reserve,Podrum Bačina,Dolina Barrique Xix Reserve,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-crveno-suvo,Podrum Bačina,Dolina Crveno Suvo,3212642,https://www.vivino.com/w/3212642,ocenka_est,626,False,False,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-cuvee-barrique,Podrum Bačina,Dolina Cuveé Barrique,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-euphonia-gran-reserva,Podrum Bačina,Dolina Euphonia Gran Reserva,13861935,https://www.vivino.com/w/13861935,malo_ocenok,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-merlot,Podrum Bačina,Dolina Merlot,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
+bacina-dolina-riesling-suvo-belo,Podrum Bačina,Dolina Riesling Suvo Belo,12960388,https://www.vivino.com/w/12960388,malo_ocenok,82,False,False,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,белое
+bacina-dolina-rizling,Podrum Bačina,Dolina Rizling,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
+bacina-dolina-rose,Podrum Bačina,Dolina Rosé,1985279,https://www.vivino.com/w/1985279,ocenka_est,77,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,розе
+bacina-dolina-tre-far-cabernet-sauvignon,Podrum Bačina,Dolina Tre Får Cabernet Sauvignon,13861936,https://www.vivino.com/w/13861936,malo_ocenok,,False,False,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,красное
+bacina-dolina-xii,Podrum Bačina,Dolina XII,,,net_na_vivino,,False,True,Rejon Tri Morave,Kruševačko vinogorje,konkurs,красное
+bacina-dolina-xix-red,Podrum Bačina,Dolina XIX red,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
+bacina-dolina-xviii-red,Podrum Bačina,Dolina XVIII red,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
+bacina-dolina-xx,Podrum Bačina,Dolina XX,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
+bacina-dolina-red,Podrum Bačina,Dolina red,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
+bacina-dolina-red-xvii,Podrum Bačina,Dolina red XVII,,,net_na_vivino,,False,True,Rejon Tri Morave,Temnićko vinogorje,hozyaistvo,
 dremina-blanc-coupage,Podrum Dremina,Blanc Coupage,,,net_na_vivino,,False,True,Rejon Tri Morave,Paraćinsko vinogorje,hozyaistvo,
 dremina-cabernet-sauvignon,Podrum Dremina,Cabernet Sauvignon,7830541,https://www.vivino.com/w/7830541,malo_ocenok,61,False,True,Rejon Tri Morave,Paraćinsko vinogorje,hozyaistvo,красное
 dremina-deda-dorde-cabernet-sauvignon,Podrum Dremina,Deda Djordje Cabernet Sauvignon,8138748,https://www.vivino.com/w/8138748,malo_ocenok,17,False,False,Rejon Tri Morave,Paraćinsko vinogorje,hozyaistvo,красное

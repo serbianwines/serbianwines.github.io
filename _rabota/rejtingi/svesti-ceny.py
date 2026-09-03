@@ -117,6 +117,27 @@ def nacenka(po_magazinu, supermarkety):
             "deshevle_v_supermarkete": sum(1 for x in otnosheniya if x < 1)}
 
 
+def u_hozyaistva(po_magazinu, svoj="vinarije"):
+    """Насколько цена у самого хозяйства отличается от лавочной.
+
+    Мерка та же, что у супермаркета, и направление противоположное:
+    в приложении доставки вино дороже полки, в супермаркете дороже
+    винотеки, а у хозяйства — дешевле. Считается только по винам,
+    которые есть и там, и там: иначе сравнивались бы разные вина.
+    """
+    otnosheniya = []
+    for magaziny in po_magazinu.values():
+        svoja = magaziny.get(svoj)
+        lavka = [c for m, c in magaziny.items() if m != svoj]
+        if svoja and lavka:
+            otnosheniya.append(svoja / statistics.median(lavka))
+    if not otnosheniya:
+        return {}
+    return {"vin_i_tam_i_tam": len(otnosheniya),
+            "cena_hozyaistva_k_lavke": round(statistics.median(otnosheniya), 3),
+            "deshevle_u_hozyaistva": sum(1 for x in otnosheniya if x < 1)}
+
+
 def sladost_zapisi_(zapis):
     """«suvo» у одного магазина и «Suvo» у другого — одно и то же.
     Без приведения в таблице стоят обе записи, и счёт по сахару врёт."""
@@ -155,6 +176,37 @@ def cvet_iz_imeni(slova_hvosta):
     return najdeno.pop() if len(najdeno) == 1 else None
 
 
+# Слова, которыми хозяйство отличает старшую линию от базовой. Если
+# разница между нашим именем и именем товара — только они, это не одно
+# вино под двумя написаниями, а два разных вина, и цена старшего встанет
+# младшему. У Јовца «Merlot Grand Reserve» стоит 7800, обычный мерло —
+# 4800; у манастира Буково «Filigran Cabernet Sauvignon Reserve» 3600
+# при 1910 за базовый. Ошибка дорогая вдвойне: она бьёт по пятёрке
+# «лучшее за свои деньги», где цена и есть половина ответа.
+STARSHIE = {"reserve", "reserva", "riserva", "rezerva", "rezerve", "grand",
+            "gran", "premium", "limited", "limitirano", "superior",
+            "icon", "ikona", "magnum", "arhivsko", "archive"}
+# Список нарочно короткий. Первая редакция была вдвое длиннее и включала
+# «single vineyard», «selection», «barrique» — и сразу отняла верную цену:
+# у Јовца «Single Vineyard» не старшая линия, а базовая («Merlot Single
+# Vineyard» 4800 при «Merlot Grand Reserve» 7800), и наш «Merlot» остался
+# вовсе без цены. Слова, которые бывают и в базовом имени, сюда не идут:
+# случай «Trijumf» против «Trijumf Selection» и без них разбирается —
+# оба вина есть у нас, и подходят оба, а два кандидата цену отменяют.
+
+
+def starshaya_liniya(nashe, tovarnoe):
+    """Отличаются ли имена только пометкой старшей линии.
+
+    Сравниваются слова, которых нет у второго имени, — и только у более
+    длинного: короткое имя целиком входит в длинное, иначе сюда бы
+    не дошло.
+    """
+    hvost = (tovarnoe[len(nashe):] if len(tovarnoe) > len(nashe)
+             else nashe[len(tovarnoe):])
+    return bool(hvost) and all(slovo in STARSHIE for slovo in hvost)
+
+
 def slova(st, imya):
     return [c for c in st.klyuch(st.latinicej(imya or "")).split("-") if c]
 
@@ -173,6 +225,12 @@ def main():
                 # и свой набор товаров.
                 ("maxi-cenovnik", "maxi-cenovnik-ceny.json"),
                 ("idea", "idea-ceny.json"),
+                # Собственные магазины хозяйств. Третий канал: не полка
+                # винотеки и не доставка, а цена у производителя. Ради
+                # него всё и затевалось: винотека держит ходовое, а
+                # флагман — «Момент» Веритаса, «Вожд» Александровића —
+                # стоит у самого хозяйства.
+                ("vinarije", "vinarije-ceny.json"),
                 # Цены, снятые автором с экрана там, где машиной не
                 # берётся. В супермаркетный срез не идут: строки Wolt
                 # приходят и из Maxi, и из делекатесной GUSTO, а мерить
@@ -222,11 +280,22 @@ def main():
         "iz_nih_0_75": len(obychnye),
         "mediana_0_75": round(statistics.median(obychnye)) if obychnye else None,
     }
+    # Винотека — это винотека, и только она: ни супермаркет, ни доставка,
+    # ни магазин самого хозяйства. Без этой оговорки медиана «у винотек»
+    # поехала со 1785 на 1680, стоило добавить магазины хозяйств, — а
+    # в тексте она сравнивается с полкой супермаркета, то есть должна
+    # оставаться ценой винотеки.
+    NE_VINOTEKA = SUPERMARKET | {"vinarije", "dostavka"}
     vinoteki = [z["cena_rsd"] for z in syroe["vina"]
-                if z["magazin"] not in SUPERMARKET and z.get("cena_rsd")
+                if z["magazin"] not in NE_VINOTEKA and z.get("cena_rsd")
                 and (z.get("litrov") or 0.75) == 0.75]
     polka_svodka["mediana_vinoteki"] = (round(statistics.median(vinoteki))
                                         if vinoteki else None)
+    u_hozyaistv = [z["cena_rsd"] for z in syroe["vina"]
+                   if z["magazin"] == "vinarije" and z.get("cena_rsd")
+                   and (z.get("litrov") or 0.75) == 0.75]
+    polka_svodka["mediana_u_hozyaistva"] = (round(statistics.median(u_hozyaistv))
+                                            if u_hozyaistv else None)
 
     # Наши вина, разложенные по дому: имя в словах → ключ.
     po_domu = collections.defaultdict(list)
@@ -382,8 +451,9 @@ def main():
             if len(tochno) == 1:
                 return tochno
             return [k for nash, k in indeks[hoz]
-                    if nash[:len(bez_doma)] == bez_doma
-                    or bez_doma[:len(nash)] == nash]
+                    if (nash[:len(bez_doma)] == bez_doma
+                        or bez_doma[:len(nash)] == nash)
+                    and not starshaya_liniya(nash, bez_doma)]
 
         podoshli = podobrat(hvost(imya), po_domu)
         kak = "по началу имени"
@@ -502,6 +572,13 @@ def main():
             # дешевле то же вино, а потому, что там другое вино.
             **nacenka(po_magazinu, SUPERMARKET),
         },
+        # Третий канал: цена у самого хозяйства. Меряется отдельно —
+        # она идёт в другую сторону, чем полка супермаркета и доставка.
+        "u_hozyaistva": u_hozyaistva(po_magazinu),
+        "hozyaistv_s_magazinom": (
+            json.loads((ZDES / "vinarije-ceny.json").read_text(encoding="utf-8"))
+            .get("hozyaistv_s_magazinom")
+            if (ZDES / "vinarije-ceny.json").exists() else None),
         "ceny": cena,
         # Супермаркетов несколько, и цена у них не одна: берётся
         # середина по тем из них, где вино нашлось. Первая редакция

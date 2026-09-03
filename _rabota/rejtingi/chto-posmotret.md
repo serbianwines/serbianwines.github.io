@@ -47,26 +47,32 @@ Falstaff ранжирует около сорока сербских хозяй�
 **Что нужно:** открыть у Falstaff список сербских винарий и сохранить
 страницу (Ctrl+S), как с годовым выбором `vino.rs`.
 
-## 3. Цена у сильных вин: шестидесяти двух не хватает
+## 3. Цена у сильных вин: пятидесяти девяти не хватает
 
-Из 122 вин с баллом 93 и выше цена известна у шестидесяти. Не хватает
-как раз флагманов — тех, о которых в книге и пойдёт речь:
+Из 122 вин с баллом 93 и выше цена известна у 63. Было 60: собственные
+магазины хозяйств добавили полторы сотни цен всего, но флагманов среди
+них мало — их как раз и не выставляют.
 
-Matalj «Kremen Kamen Cabernet Sauvignon» (97), Aleksandrović
+Не хватает: Matalj «Kremen Kamen Cabernet Sauvignon» (97), Aleksandrović
 «Kameničarka Prokupac» (97), Matalj «Zamna Cabernet Sauvignon» (96),
-La Gora «Aria» (96), Ivanović «Prokupac Gaga» (96), Arsenijević
-«Kaberne» (96), Zvonko Bogdan «Icon Campana Rubimus» и оба «Éclater»
-(95), Vinčić «Grand V» и «Grašac Grand Fru» (95), Temet «Tri Morave
-Reserve» и «Tri Morave Belo Reserve» (95), Tarpoš «Prokupac», «Merlot»,
-«Chardonnay Extra Brut» (95), Veritas Ćuković «Momentum» (95).
+La Gora «Aria» (96), Ivanović «Prokupac Gaga» (96), Arsenijević «Kaberne»
+(96), Zvonko Bogdan «Icon Campana Rubimus» и оба «Éclater» (95), Vinčić
+«Grand V» и «Grašac Grand Fru» (95), Temet «Tri Morave Reserve» и «Tri
+Morave Belo Reserve» (95), Tarpoš «Prokupac», «Merlot», «Chardonnay Extra
+Brut» (95), Reljić «Rebus Merlot-Cabernet Sauvignon-Probus» (95), Ralević
+«RaRa Tamjanika PETNAT» (95), Maurer «Kadarka 1880» (95), Matijašević
+«Tri Doline» (95), Erdevik «Marlon Delon» (95), Chichateau «Chi
+Chardonnay» (95).
 
-**Что нужно:** цена и магазин. Поиск в Wolt по имени хозяйства даёт
-сразу несколько вин — так закрылся Грумен.
+**Что нужно:** цена и магазин. Поиск в Wolt по имени хозяйства даёт сразу
+несколько вин — так закрылся Грумен. Второй путь — сайт самого хозяйства:
+у Арсенијевића есть раздел «online-prodavnica-vina», у Думо — «/shop/»,
+но машиной оба не читаются, а глазами читаются за минуту.
 
-**Помнить про наценку:** цена в приложении бывает выше полочной.
-У Легата Wolt показал на 18% дороже, чем сама винотека, у Грумена
-сошлось до динара. Если видно, из какой лавки товар, — это стоит
-записать вместе с ценой.
+**Помнить про канал.** Цена бывает трёх разных родов, и это измерено:
+в приложении доставки она на 18% выше полочной, в супермаркете на 21%
+выше, чем в винотеке, а у самого хозяйства на 9% ниже. Если видно, откуда
+цена, — это стоит записать вместе с ней.
 
 ## 4. Два призрака из поля производителя Decanter
 

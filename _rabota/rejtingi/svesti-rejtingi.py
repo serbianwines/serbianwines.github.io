@@ -127,7 +127,7 @@ CVETA = [("красное", "Красные"), ("белое", "Белые"), ("�
 def chitat():
     jl = lambda imya: [json.loads(s) for s in
                        (ZDES / imya).read_text(encoding="utf-8").splitlines() if s.strip()]
-    cena, supermarket, polka_svodka = {}, {}, {}
+    cena, supermarket, polka_svodka, u_hozyaistva = {}, {}, {}, {}
     put = ZDES / "ceny-vin.json"
     if put.exists():
         d = json.loads(put.read_text(encoding="utf-8"))
@@ -137,12 +137,16 @@ def chitat():
         # считает `svesti-ceny.py`. Здесь они только печатаются:
         # руками вписанное число в тексте устаревает молча.
         polka_svodka = d.get("polka_supermarketa", {})
+        # То же о третьем канале — магазине самого хозяйства.
+        u_hozyaistva = dict(d.get("u_hozyaistva") or {},
+                            hozyaistv=d.get("hozyaistv_s_magazinom"))
     return jl("hozyaistva.jsonl"), jl("vina.jsonl"), jl("ocenki.jsonl"), \
-        jl("nagrady.jsonl"), cena, supermarket, polka_svodka
+        jl("nagrady.jsonl"), cena, supermarket, polka_svodka, u_hozyaistva
 
 
 def razobrat():
-    hozyaistva, vina, ocenki, nagrady, cena, supermarket, polka_svodka = chitat()
+    (hozyaistva, vina, ocenki, nagrady, cena, supermarket,
+     polka_svodka, u_hozyaistva) = chitat()
     # Цвет вина стоит в самой таблице — его сводит `sobrat-tablicy.py`.
     cvet = {v["klyuch"]: v.get("cvet") for v in vina}
     dom = {h["hozyaistvo"]: h for h in hozyaistva}
@@ -193,6 +197,7 @@ def razobrat():
     return dict(vina=vina, dom=dom, vivino=vivino, kritiki=kritiki, medali=medali,
                 ochki=ochki, cena=cena, supermarket=supermarket,
                 polka_supermarketa=polka_svodka,
+                u_hozyaistva=u_hozyaistva,
                 cvet=cvet, po_rejonu=po_rejonu, po_regionu=po_regionu,
                 rang_vino_rs=rang_vino_rs)
 
@@ -557,6 +562,18 @@ def po_strane(d, pech):
                  "скидкой на знакомое вино, а за тем, чего в винотеке нет.\n"
                  % (svodka["vin_v_oboih"], svodka["deshevle_v_supermarkete"],
                     (svodka["nacenka_supermarketa"] - 1) * 100))
+        # Третий канал: магазин самого хозяйства. Он идёт в другую
+        # сторону, чем два первых, и это стоит сказать прямо.
+        uh = d.get("u_hozyaistva") or {}
+        if uh.get("vin_i_tam_i_tam"):
+            pech("А у самого хозяйства то же вино обычно дешевле: из %d вин, "
+                 "которые продаются и в винотеке, и в магазине винодельни, "
+                 "у винодельни дешевле %d — в среднем на %.0f%%. Собственные "
+                 "магазины нашлись у %s хозяйств, и там же стоят флагманы, "
+                 "которых в винотеках нет вовсе.\n"
+                 % (uh["vin_i_tam_i_tam"], uh["deshevle_u_hozyaistva"],
+                    (1 - uh["cena_hozyaistva_k_lavke"]) * 100,
+                    uh.get("hozyaistv") or "нескольких"))
         pech("| Вино | Критик | Vivino | Медали | Динаров |")
         pech("|---|---|---|---|---|")
         for v in sorted(s_ocenkoj,

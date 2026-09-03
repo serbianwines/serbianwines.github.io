@@ -42,6 +42,10 @@ def tablicy():
 # другое к вину не относится: «AKCIJA 2+1 Malča Anonymus» — та же
 # «Anonymus», а «Grand Trianon 1,5L» — тот же «Grand Trianon».
 AKCIYA = re.compile(r"^\s*AKCIJA\b[^A-Za-zČĆŠĐŽčćšđž]*", re.I)
+# Урожай в конце имени — свойство бутылки, а не имя вина: «Aleksić
+# Bonaca 2023» это наша «Bonaca». Ни одно наше имя годом не кончается,
+# так что снимать его безопасно.
+UROZHAJ = re.compile(r"[\s,]*\b(19[5-9]\d|20[0-2]\d)\s*$")
 # Супермаркет зовёт товар по ярлыку полки: «Vino belo Chardonnay
 # Kovacevic 0,75l». Слова «вино», цвет и «стоно» имени вина не называют,
 # а начало имени у нас — как раз то, по чему идёт сведение. Без их снятия
@@ -94,7 +98,7 @@ def bez_yarlykov(imya):
 def chistoe_imya(imya, yarlyk=False):
     """`yarlyk` — снимать ли ярлык полки. Только у супермаркета: в винотеке
     «Rose» в начале имени бывает частью имени, а не цветом на ценнике."""
-    imya = AKCIYA.sub("", imya or "")
+    imya = UROZHAJ.sub("", AKCIYA.sub("", imya or ""))
     # Ярлык снимается по слову: у «Vino blago penusavo belo Una» их четыре
     # подряд, а у «Vinarija Coka» первое слово — имя дома, не ярлык.
     while yarlyk:
@@ -103,6 +107,13 @@ def chistoe_imya(imya, yarlyk=False):
             break
         imya = korotko
     return re.sub(r"\s+", " ", imya).strip()
+
+
+def sladost_zapisi_(zapis):
+    """«suvo» у одного магазина и «Suvo» у другого — одно и то же.
+    Без приведения в таблице стоят обе записи, и счёт по сахару врёт."""
+    zapis = re.sub(r"\s+", " ", (zapis or "").strip())
+    return zapis[:1].upper() + zapis[1:].lower() if zapis else ""
 
 
 def ne_ta_butylka(imya):
@@ -125,6 +136,12 @@ CVET_V_IMENI = [
 ]
 
 
+# Цвет, названный магазином отдельным полем. Это надёжнее, чем слово
+# в имени: «Prodaja vina» пишет его значком товара, а не ярлыком полки.
+CVET_POLYA = {"belo vino": "белое", "crveno vino": "красное",
+              "rose vino": "розе", "roze vino": "розе"}
+
+
 def cvet_iz_imeni(slova_hvosta):
     najdeno = {c for c, nabor in CVET_V_IMENI if nabor & set(slova_hvosta)}
     return najdeno.pop() if len(najdeno) == 1 else None
@@ -139,6 +156,8 @@ def main():
     MAGAZINY = [("vinoteka", "vinoteka-ceny.json"),
                 ("winestars", "winestars-ceny.json"),
                 ("cerpromet", "cerpromet-ceny.json"),
+                ("wineart", "wineart-ceny.json"),
+                ("prodajavina", "prodajavina-ceny.json"),
                 ("maxi", "maxi-ceny.json"),
                 ("idea", "idea-ceny.json")]
     # Супермаркет — не винотека: у него другая полка и другие цены.
@@ -235,6 +254,12 @@ def main():
         if not z.get("cena_rsd"):
             continue
         imya = chistoe_imya(z["vino"], yarlyk=z["magazin"] in SUPERMARKET)
+        # Объём магазин пишет то в имени, то отдельным полем. Поле
+        # надёжнее: в имени его может не быть вовсе.
+        litrov = z.get("litrov")
+        if litrov is not None and abs(litrov - 0.75) > 0.001:
+            schet["не та бутылка (не 0,75)"] += 1
+            continue
         if ne_ta_butylka(imya):
             schet["не та бутылка (не 0,75)"] += 1
             continue
@@ -246,8 +271,8 @@ def main():
         if klyuch in nashi:
             schet["ключ сошёлся точно"] += 1
             po_magazinam[klyuch][z["magazin"]].append(z["cena_rsd"])
-            if z.get("tip_vina"):
-                sladost.setdefault(klyuch, z["tip_vina"])
+            if sladost_zapisi_(z.get("tip_vina")):
+                sladost.setdefault(klyuch, sladost_zapisi_(z.get("tip_vina")))
             continue
         hoz = st.klyuch_hozyaistva(z["hozyaistvo"])
         if hoz not in po_domu:
@@ -315,7 +340,8 @@ def main():
         # дома: супермаркет пишет его ярлыком впереди («Vino crveno
         # Kadarka Tonkovic»), а «Belo Brdo» — хозяйство, и его «belo»
         # цветом считать нельзя.
-        nazvan = cvet_iz_imeni(set(slova(st, z["vino"])) - set(hoz.split("-")))
+        nazvan = (CVET_POLYA.get((z.get("cvet_magazina") or "").lower())
+                  or cvet_iz_imeni(set(slova(st, z["vino"])) - set(hoz.split("-"))))
         if nazvan:
             podoshli = [k for k in podoshli
                         if nash_cvet.get(k) in ("", None, nazvan)
@@ -329,8 +355,8 @@ def main():
                 print("   %-14s %-52s → %s" % (kak, z["vino"][:52], podoshli[0]))
             schet["сошлось по началу имени"] += 1
             po_magazinam[podoshli[0]][z["magazin"]].append(z["cena_rsd"])
-            if z.get("tip_vina"):
-                sladost.setdefault(podoshli[0], z["tip_vina"])
+            if sladost_zapisi_(z.get("tip_vina")):
+                sladost.setdefault(podoshli[0], sladost_zapisi_(z.get("tip_vina")))
         elif podoshli:
             schet["подходит несколько — не ставим"] += 1
             spor.append({**z, "kandidaty": podoshli})

@@ -27,6 +27,8 @@
 | `vinoteka-ceny.json` | 655 сербских вин с розничной ценой в динарах: имя, хозяйство, артикул |
 | `winestars-ceny.json` | 113 сербских вин с ценой у «Wine Stars» |
 | `cerpromet-ceny.json` | 455 вин у «Cerpromet», из них 236 сербских, со свойствами |
+| `prodajavina-ceny.json` | 125 сербских вин у «Prodaja vina»: цена, сорт, цвет, крепость, **рејон** |
+| `wineart-ceny.json` | 187 сербских вин у «Wine Art Shop»: цена, стиль, сорт, **рејон** |
 | `maxi-ceny.json` | 206 позиций винного раздела Maxi: цена, марка, объём, наличие |
 | `idea-ceny.json` | 274 позиции винного раздела Idea: цена, объём, раздел магазина |
 | `ceny-vin.json` | ключ вина → цена (середина по магазинам), разброс и что не свелось |
@@ -67,6 +69,8 @@
 | `vzjat-vinoteku.py` | цены сербских вин из каталога «Vinoteka Beograd» |
 | `vzjat-winestars.py` | то же у «Wine Stars»: второй ценовой источник |
 | `vzjat-cerpromet.py` | «Cerpromet»: цена, страна, сорт, тип вина, крепость, урожай |
+| `vzjat-prodajavina.py` | «Prodaja vina»: сербский раздел, разложенный по рејонима |
+| `vzjat-wineart.py` | «Wine Art Shop»: список и карточки сербских вин |
 | `vzjat-maxi.py` | полка супермаркета из сохранённой страницы Maxi Online |
 | `vzjat-idea.py` | то же у Idea Online: второй супермаркет, шесть страниц раздела |
 | `svesti-ceny.py` | сводит имена магазина с нашими; неточность видна |

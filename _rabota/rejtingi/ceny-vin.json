@@ -1,395 +1,1045 @@
 {
- "chto_eto": "Ключ вина → розничная цена в динарах. Свод имён магазина с нашими; неточности перечислены рядом.",
- "istochnik": "https://www.vinotekabeograd.com/vina-iz-srbije",
- "sobrano": "2026-09-02",
+ "chto_eto": "Ключ вина → розничная цена в динарах, середина по магазинам. Свод имён магазинов с нашими; неточности и разброс цен перечислены рядом.",
+ "istochnik": [
+  "https://www.vinotekabeograd.com/vina-iz-srbije",
+  "https://winestars.rs/category/vina/56/1/srbija"
+ ],
+ "sobrano": "2026-09-03",
+ "magazinov_u_vina": {
+  "100-zena-madame-merlette": 1,
+  "100-zena-mlad-momak-merlot": 1,
+  "100-zena-rose": 1,
+  "100-zena-shao-linda-orange": 1,
+  "100-zena-veliki-decko": 1,
+  "eden-velvet": 1,
+  "novak-crna-tamjanika-black-incense": 1,
+  "stari-hrast-cabernet-merlot": 1,
+  "stari-hrast-chardonnay": 1,
+  "stari-hrast-merlot": 1,
+  "stari-hrast-sauvignon-blanc": 1,
+  "veritas-cukovic-bela-harmonija": 1,
+  "veritas-cukovic-bermet": 1,
+  "aleksandrovic-harizma": 2,
+  "aleksandrovic-oplen": 1,
+  "aleksandrovic-prokupac": 2,
+  "aleksandrovic-regent-reserve": 1,
+  "aleksandrovic-rodoslov-grand-reserve": 1,
+  "aleksandrovic-trijumf": 2,
+  "aleksandrovic-trijumf-gold": 2,
+  "aleksandrovic-trijumf-noir": 1,
+  "aleksandrovic-trijumf-rose": 1,
+  "aleksandrovic-trijumf-terroir": 2,
+  "aleksandrovic-varijanta": 2,
+  "aleksic-amanet": 1,
+  "aleksic-barbara": 1,
+  "aleksic-biser": 1,
+  "aleksic-kardas": 1,
+  "aleksic-kardas-limited": 1,
+  "aleksic-kontra": 1,
+  "aleksic-zuti-cvet": 1,
+  "andrica-vinograd-consul-prokupac-merlot": 1,
+  "arsenijevic-sauvignon-blanc": 1,
+  "arsenijevic-starosedelac": 1,
+  "belo-brdo-alma-mons": 2,
+  "belo-brdo-cabernet-franc": 1,
+  "belo-brdo-chardonnay": 1,
+  "belo-brdo-decade": 1,
+  "belo-brdo-petit-verdot": 1,
+  "bikicki-crna-tamjanika": 1,
+  "bikicki-cu": 1,
+  "bikicki-lily": 1,
+  "bikicki-moma": 1,
+  "bikicki-s-o": 1,
+  "bikicki-sfera": 1,
+  "bikicki-sfera-noir": 1,
+  "bikicki-sfera-orange": 1,
+  "bikicki-uncensored": 1,
+  "bikicki-victor": 1,
+  "bjelica-babaroga": 2,
+  "bjelica-babaroga-crvena": 1,
+  "bjelica-babaroga-penusavac": 1,
+  "bjelica-graffiti-crveno": 1,
+  "bjelica-saga": 1,
+  "botunjac-jagoda-botunjac": 1,
+  "botunjac-pino-svetih-ratnika-reserve-pinot-noir": 1,
+  "botunjac-sveti-gral-prokupac": 1,
+  "breg-grasac": 1,
+  "breg-rose": 1,
+  "breg-sila": 1,
+  "breg-tamjanika": 1,
+  "bt-mister-marselan": 1,
+  "bt-vranac-red-dry": 1,
+  "budimir-i-kao-da-si-andeo": 1,
+  "budimir-lila-prokupac-boje": 1,
+  "budimir-svb-rosa": 1,
+  "bukovo-filigran-cabernet-sauvignon": 1,
+  "bukovo-filigran-crna-tamjanika": 1,
+  "bukovo-filigran-game": 1,
+  "bukovo-filigran-merlot": 1,
+  "chichateau-fabula-lagum": 2,
+  "chichateau-fabula-mala": 1,
+  "chichateau-pink-punk-roze": 2,
+  "cilic-crni-vrh-cabernet-merlot": 1,
+  "cilic-crni-vrh-sauvignon-blanc": 1,
+  "cilic-kasmir": 1,
+  "cilic-manifest-sauvignon-blanc": 1,
+  "cilic-onyx-belo": 2,
+  "radovan-experiment-prokupac": 1,
+  "radovan-experiment-tamjanika": 1,
+  "delena-1903-merlot": 1,
+  "delena-70-30-sauvignon-blanc-semillon": 1,
+  "despotika-krunski-dokaz": 1,
+  "deuric-aksiom-beli": 1,
+  "deuric-aksiom-crveni": 1,
+  "deuric-classic-chardonnay": 2,
+  "deuric-gewurztraminer": 1,
+  "deuric-gorska-tamjanika": 1,
+  "deuric-la-rem-chardonnay": 1,
+  "deuric-la-rem-pinot-noir": 1,
+  "deuric-pinot-noir": 1,
+  "deuric-princeps-merlot": 1,
+  "deuric-princeza-na-zrnu-grasca": 1,
+  "deuric-probus-276": 1,
+  "deuric-sauvignon-blanc": 1,
+  "dibonis-di-franc": 1,
+  "dibonis-di-shiraz": 1,
+  "doja-breg-cabernet-sauvignon": 1,
+  "doja-cabernet-sauvignon-merlot": 1,
+  "doja-prokupac": 2,
+  "doja-breg-prokupac": 2,
+  "doja-tamjanika": 1,
+  "draganic-miracolo-sangiovese": 1,
+  "draganic-profil-palava": 1,
+  "draganic-silueta-sauvignon-blanc": 1,
+  "dragojlovic-husar-chardonnay": 1,
+  "dragojlovic-kolodar-syrah": 1,
+  "dzervin-lozana": 1,
+  "dokovic-chardonnay": 1,
+  "dokovic-syrah": 1,
+  "dordevic-merlot-cabernet-sauvignon": 1,
+  "dordevic-sauvignon-blanc": 1,
+  "durdevica-legat-do-neba-i-nazad-belo": 1,
+  "durdevica-legat-otisak": 1,
+  "durdic-cabernet-franc": 1,
+  "durdic-grasac-beli": 1,
+  "durdic-neoplanta": 1,
+  "durdic-probus": 1,
+  "durdic-traminac": 1,
+  "eden-chardonnay": 1,
+  "eden-genesis": 1,
+  "eden-sauvignon-blanc": 1,
+  "erdevik-bella-novela-sauvignon-blanc": 2,
+  "erdevik-ex-cathedra-sauvignon-blanc": 1,
+  "erdevik-grand-trianon": 2,
+  "erdevik-grand-trianon-deux-mers": 1,
+  "erdevik-kunst-pg": 1,
+  "erdevik-la-grande-bellezza-blanc-de-blancs-extra-brut": 1,
+  "erdevik-marlon-delon": 2,
+  "erdevik-omnibus-lector-chardonnay": 1,
+  "erdevik-roza-nostra": 2,
+  "erdevik-stiflers-mom-shiraz": 2,
+  "erdevik-trianon": 2,
+  "fenek-fenecki-prokupac-phoenician-prokupac": 1,
+  "fragaria-jagoda": 1,
+  "fragaria-red": 1,
+  "fragaria-tajna-veza": 1,
+  "fragaria-tamjanika": 1,
+  "frug-chardonnay-signum": 1,
+  "frug-cuvee": 1,
+  "frug-grasac": 1,
+  "frug-pinot-noir": 1,
+  "frug-sauvignon-blanc": 1,
+  "frug-syrah-signum": 1,
+  "frunza-aglaja-cabernet-sauvignon": 1,
+  "frunza-aglaja-dentelle": 1,
+  "frunza-aglaja-sauvignon-semillon": 1,
+  "grabak-prokupac": 1,
+  "grabak-vivak-prokupac": 1,
+  "ilic-nijemcevic-chardonnay": 1,
+  "ilic-nijemcevic-sauvignon-blanc": 1,
+  "imperator-animus": 1,
+  "imperator-cargras": 1,
+  "imperator-constantivs-cabernet-franc-cabernet-sauvignon": 1,
+  "imperator-decius-pinot-noir": 1,
+  "imperator-gratianus-traminac": 1,
+  "imperator-la-vida": 1,
+  "imperator-maximianvs": 1,
+  "imperator-sila-nika": 1,
+  "imperator-valerius": 1,
+  "ivanovic-jara-pet-nat": 1,
+  "ivanovic-no-1-2": 1,
+  "ivanovic-no-3-4": 1,
+  "ivanovic-prokupac": 1,
+  "ivanovic-tamjanika": 1,
+  "janko-bas-prokupac": 1,
+  "janko-bifora": 1,
+  "janko-jelena-rose": 1,
+  "janko-mesecina-penusavo-belo": 1,
+  "janko-smederevka": 1,
+  "janko-vrtlog": 1,
+  "janko-zapis-crveni": 2,
+  "janko-zapis-testament": 1,
+  "janko-zavet": 2,
+  "janko-stari-zavet": 1,
+  "janko-zlatno-runo-cabernet-sauvignon": 1,
+  "janucic-tamna-tamjanika": 1,
+  "jeremic-kanon": 1,
+  "jeremic-kanon-superior": 1,
+  "jeremic-merlot-terroire": 1,
+  "jovac-cabernet-sauvignon": 1,
+  "jovac-merlot": 1,
+  "jovac-stella-noir": 1,
+  "jovic-cabernet-sauvignon": 1,
+  "jovic-chardonnay": 1,
+  "jovic-vranac-potrkanjski": 1,
+  "karic-adria-belo": 1,
+  "karic-adria-crveno": 1,
+  "katanic-leon-chardonnay": 1,
+  "katanic-oskar": 1,
+  "kepul-morava": 1,
+  "kepul-probus": 1,
+  "kis-bermet": 1,
+  "kis-grasac-beli": 1,
+  "kis-merlot": 1,
+  "kis-misterija": 1,
+  "komuna-chardonnay": 1,
+  "komuna-merlot": 1,
+  "komuna-muscat-petit-grain": 1,
+  "kostic-prokupac-barrique": 1,
+  "kovacevic-amber-cuvee": 1,
+  "kovacevic-aurelius": 2,
+  "kovacevic-edicija-s-aurelius": 2,
+  "kovacevic-bermet": 1,
+  "kovacevic-chardonnay": 2,
+  "kovacevic-fresco-bianco": 1,
+  "kovacevic-fresco-rose": 2,
+  "kovacevic-pro-pro": 1,
+  "kovacevic-sauvignon": 2,
+  "krstasica-konekcija-merlot": 1,
+  "la-gora-bello": 1,
+  "la-gora-lupo": 1,
+  "lakicevic-solaris": 1,
+  "lakicevic-upupa": 1,
+  "madzic-merlot": 1,
+  "magaza-merlot": 1,
+  "malca-anonymous-crna-tamjanika": 1,
+  "malca-carica-jelena": 1,
+  "marko-carine-merlot-cabernet-sauvignon": 1,
+  "marko-doajen-chardonnay": 1,
+  "marko-doajen-prokupac": 1,
+  "marko-doajen-tamjanika": 1,
+  "matalj-cuvee-bukovski": 1,
+  "matalj-kremen-kamen": 2,
+  "matalj-zamna": 1,
+  "matijasevic-belina": 1,
+  "matijasevic-belina-oranz": 1,
+  "matijasevic-cukundeda": 1,
+  "matijasevic-cukundeda-superiore": 1,
+  "matijasevic-tri-doline-merlot": 1,
+  "matijasevic-sovinoa": 2,
+  "matijasevic-sovinoa-fume-blanc": 1,
+  "milanovic-neoplanta": 1,
+  "milanovic-probus": 1,
+  "milanovic-sila": 1,
+  "milicevic-vladavina": 1,
+  "milijan-jelic-kamenicanka-prokupac": 1,
+  "milijan-jelic-mammoth-pinot-noir": 1,
+  "milijan-jelic-millennium": 1,
+  "milijan-jelic-morange": 1,
+  "milijan-jelic-morava": 1,
+  "milosavljevic-vila-vina-jefimija-tamjanika": 1,
+  "milosavljevic-vila-vina-prokupac": 1,
+  "molovin-inat-frankovka": 1,
+  "molovin-inat": 1,
+  "molovin-inat-rajnski-rizling": 1,
+  "molovin-inat-traminac": 1,
+  "mv-kaberne-sf": 1,
+  "mv-tamjanika": 1,
+  "nera-lesa-sila-grasac-malvazija": 1,
+  "nera-panorama": 1,
+  "nikad-nije-kasno-signature": 1,
+  "nikad-nije-kasno-simfonija": 1,
+  "novak-bagrina": 1,
+  "panjkovic-mudrost": 1,
+  "panjkovic-radost": 1,
+  "petra-cuvee": 1,
+  "petra-orange": 1,
+  "petra-pinot-grigio": 1,
+  "petra-pinot-noir-barrique": 1,
+  "petra-pinot-noir": 1,
+  "petra-rose-co": 1,
+  "petra-traminac": 1,
+  "pevac-gust-chardonnay": 1,
+  "pevac-izazov-tamjanika": 1,
+  "pevac-kaberne-fran": 1,
+  "pevac-prokupac": 1,
+  "pevac-tiho-tece-morava": 1,
+  "pevac-tisina-malvazija": 1,
+  "pevac-zagrljaj": 1,
+  "pirg-sauvignon-blanc": 1,
+  "pirg-skriljac": 1,
+  "pirg-tamjanika": 1,
+  "pirg-vranac": 1,
+  "pusula-cabernet-cuvee": 1,
+  "pusula-sauvignon-blanc": 1,
+  "pusula-traminac": 1,
+  "radovan-prokupac": 1,
+  "radovanovic-cabernet-sauvignon-classique": 1,
+  "radovanovic-cabernet-sauvignon-grand-reserva": 1,
+  "radovanovic-reserve-cabernet-sauvignon": 1,
+  "radovanovic-chardonnay-classique": 2,
+  "radovanovic-chardonnay-selekcija": 2,
+  "radovanovic-franc-cabernet-sauvignon": 1,
+  "radovanovic-rose": 1,
+  "vinska-kuca-rajic-chardonnay": 1,
+  "vinska-kuca-rajic-tamjanika": 1,
+  "braca-rajkovic-prince-rskavac": 1,
+  "braca-rajkovic-sofia-cuvee": 1,
+  "braca-rajkovic-sofia-tamjanika": 1,
+  "rnjak-chardonnay": 1,
+  "rnjak-cuvee-de-rgnac": 1,
+  "rnjak-pinot-noir": 1,
+  "rnjak-sauvignon-blanc": 1,
+  "atelje-sapat-atila-cabernet-sauvignon": 1,
+  "atelje-sapat-atila-chardonnay": 1,
+  "atelje-sapat-atila-sauvignon-blanc": 1,
+  "atelje-sapat-bianca": 1,
+  "atelje-sapat-chardonnay": 1,
+  "atelje-sapat-cuvee": 1,
+  "atelje-sapat-magnus": 1,
+  "atelje-sapat-nera": 1,
+  "atelje-sapat-terol-teroldego": 1,
+  "savic-merlot": 1,
+  "savic-prokupac": 1,
+  "savic-tamjanika": 1,
+  "selecta-pinot-grigio": 1,
+  "selecta-pinot-noir": 1,
+  "sijacki-rizling-italijanski": 1,
+  "sijacki-sedusa": 1,
+  "sokolov-zamak-marselan": 1,
+  "sokolov-zamak-merlot": 1,
+  "sokolov-zamak-pinot-noir": 1,
+  "sokolov-zamak-tamjanika": 1,
+  "vinarska-kuca-spasic-despot": 1,
+  "vinarska-kuca-spasic-tamjanika": 2,
+  "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1,
+  "stemina-stephanos": 1,
+  "temet-beli-kamen-morava": 1,
+  "temet-beli-kamen-prokupac": 1,
+  "temet-ergo": 2,
+  "temet-tri-morave": 1,
+  "temet-tri-morave-rezerva-crveno": 1,
+  "the-sparkling-the-blanc-de-noirs": 1,
+  "todorovic-cabernet-sauvignon": 1,
+  "todorovic-chardonnay": 2,
+  "todorovic-merlot": 2,
+  "todorovic-opus": 1,
+  "todorovic-shiraz": 2,
+  "tonkovic-kadarka": 1,
+  "tonkovic-fantazija-kadarka": 1,
+  "tonkovic-rapsodija": 1,
+  "trasko-fucking-fabulous-edicion-limitada": 1,
+  "tri-mede-i-oblak-grasac-beli": 1,
+  "tri-mede-i-oblak-vagabundo": 1,
+  "tri-oraha-500-barrique-barrels": 1,
+  "tri-oraha-750-barrique-barrels": 1,
+  "tri-oraha-cabernet-sauvignon": 1,
+  "tri-oraha-merlot": 1,
+  "fruskogorski-tri-sunca-traminac-kasna-berba": 1,
+  "trivanovic-chardonnay": 1,
+  "veritas-cukovic-cuk-cuvee": 1,
+  "veritas-cukovic-momentum-cabernet-sauvignon": 1,
+  "veritas-cukovic-momentum-mali": 1,
+  "verkat-grasac-beli": 1,
+  "verkat-malvazija": 1,
+  "kis-verus-grasac-beli": 1,
+  "kis-verus-gt": 1,
+  "kis-verus-mister-ja": 1,
+  "vladimir-1-hektar": 1,
+  "vinarium-belos": 1,
+  "vinarium-dedovac": 1,
+  "vinarium-zupljanka": 1,
+  "vincic-grand-fru": 1,
+  "vincic-grasac": 1,
+  "vincic-white-reserve": 1,
+  "vinum-chardonnay": 1,
+  "vinum-dina": 1,
+  "vinum-frankovka": 1,
+  "vinum-grasac-26a": 1,
+  "vinum-grasac-beli": 1,
+  "vinum-mustra": 1,
+  "vinum-sauvignon-blanc": 1,
+  "virtus-credo-beli": 1,
+  "virtus-credo": 1,
+  "virtus-marselan": 1,
+  "virtus-morava": 1,
+  "virtus-pinot-grigio": 1,
+  "virtus-prokupac": 1,
+  "yotta-bonsai-prokupac": 1,
+  "yotta-cabernet-sauvignon": 1,
+  "yotta-hysteresis-tamjanika": 1,
+  "yotta-prokupac": 1,
+  "yotta-tri-boje-belo-tamjanika": 1,
+  "zir-morava": 1,
+  "zmajevac-chardonnay": 2,
+  "zmajevac-cuvee": 2,
+  "zmajevac-prokupac": 1,
+  "zmajevac-tamjanika": 2,
+  "zvonko-bogdan-8-tamburasa": 2,
+  "zvonko-bogdan-chardonnay": 2,
+  "zvonko-bogdan-cuvee-no1": 2,
+  "zvonko-bogdan-merlot": 1,
+  "zvonko-bogdan-pinot-blanc": 2,
+  "zvonko-bogdan-rose-sec": 2,
+  "zvonko-bogdan-tamjanika": 1,
+  "zvonko-bogdan-zivot-tece": 2,
+  "doja-chardonnay-pinot-grigio": 1,
+  "todorovic-sauvignon-blanc": 1,
+  "radovanovic-sauvignon-blanc": 1,
+  "temet-tri-morave-rose": 1,
+  "aleksic-prokupac": 1,
+  "cilic-onyx-rose": 1,
+  "100-zena-monsieur-merlot-premium": 1,
+  "cilic-cabernet-sauvignon": 1,
+  "cilic-fume-blanc": 1,
+  "matalj-terasa-chardonnay": 1,
+  "budimir-tamjanika-zupska": 1,
+  "lastar-tamjanika": 1,
+  "lastar-pinot-noir": 1,
+  "matalj-kremen": 1,
+  "probus-magis": 1,
+  "plavi-perun-rose-pinot-noir": 1,
+  "aleksandrovic-regent": 1,
+  "plavi-perun-chardonnay": 1,
+  "vista-hill-reserve-white": 1,
+  "plavi-perun-pinot-noir": 1,
+  "temet-ergo-white": 1,
+  "radovanovic-cabernet-sauvignon": 1,
+  "aleksandrovic-rodoslov": 1,
+  "braca-rajkovic-33": 1,
+  "aleksic-sevdah": 1,
+  "do-kraja-sveta-aura-rose": 1,
+  "erdevik-tri-roze-koze": 1,
+  "kovacevic-rosetto": 1,
+  "todorovic-rose": 1,
+  "radovanovic-rizling-rajnski": 1,
+  "kovacevic-cuvee-piquant": 1,
+  "do-kraja-sveta-merlot": 1,
+  "aleksandrovic-euforija": 1,
+  "vinarska-kuca-spasic-tamjanika-lekcija": 1,
+  "lastar-chardonnay": 1,
+  "aleksandrovic-vizija": 1,
+  "aleksandrovic-chardonnay": 1,
+  "aleksandrovic-vozd": 1
+ },
  "ceny": {
-  "100-zena-madame-merlette": 4090.0,
-  "100-zena-mlad-momak-merlot": 1025.0,
-  "100-zena-rose": 1635.0,
-  "100-zena-shao-linda-orange": 1635.0,
-  "100-zena-veliki-decko": 1025.0,
-  "eden-velvet": 2940.0,
-  "novak-crna-tamjanika-black-incense": 3910.0,
-  "stari-hrast-cabernet-merlot": 3850.0,
-  "stari-hrast-chardonnay": 3600.0,
-  "stari-hrast-merlot": 3630.0,
-  "stari-hrast-sauvignon-blanc": 3360.0,
-  "veritas-cukovic-bela-harmonija": 3280.0,
-  "veritas-cukovic-bermet": 3070.0,
-  "aleksandrovic-harizma": 1770.0,
-  "aleksandrovic-oplen": 1630.0,
-  "aleksandrovic-prokupac": 1770.0,
-  "aleksandrovic-regent-reserve": 2335.0,
-  "aleksandrovic-rodoslov-grand-reserve": 5025.0,
-  "aleksandrovic-trijumf": 1910.0,
-  "aleksandrovic-trijumf-gold": 2195.0,
-  "aleksandrovic-trijumf-noir": 2480.0,
-  "aleksandrovic-trijumf-rose": 1490.0,
-  "aleksandrovic-trijumf-terroir": 2350.0,
-  "aleksandrovic-varijanta": 1380.0,
-  "aleksic-amanet": 1630.0,
-  "aleksic-barbara": 875.0,
-  "aleksic-biser": 2045.0,
-  "aleksic-kardas": 1050.0,
-  "aleksic-kardas-limited": 1640.0,
-  "aleksic-kontra": 2730.0,
-  "aleksic-zuti-cvet": 1230.0,
-  "andrica-vinograd-consul-prokupac-merlot": 1500.0,
-  "arsenijevic-sauvignon-blanc": 1570.0,
-  "arsenijevic-starosedelac": 1750.0,
-  "belo-brdo-alma-mons": 2305.0,
-  "belo-brdo-cabernet-franc": 12600.0,
-  "belo-brdo-chardonnay": 1675.0,
-  "belo-brdo-decade": 5600.0,
-  "belo-brdo-petit-verdot": 2450.0,
-  "bikicki-crna-tamjanika": 2200.0,
-  "bikicki-cu": 2350.0,
-  "bikicki-lily": 2200.0,
-  "bikicki-moma": 3605.0,
-  "bikicki-s-o": 2350.0,
-  "bikicki-sfera": 1840.0,
-  "bikicki-sfera-noir": 1850.0,
-  "bikicki-sfera-orange": 1840.0,
-  "bikicki-uncensored": 2970.0,
-  "bikicki-victor": 2050.0,
-  "bjelica-babaroga": 5185.0,
-  "bjelica-babaroga-crvena": 6750.0,
-  "bjelica-babaroga-penusavac": 6720.0,
-  "bjelica-graffiti-crveno": 2710.0,
-  "bjelica-saga": 2320.0,
-  "botunjac-jagoda-botunjac": 3625.0,
-  "botunjac-pino-svetih-ratnika-reserve-pinot-noir": 7668.0,
-  "botunjac-sveti-gral-prokupac": 1765.0,
-  "breg-grasac": 1555.0,
-  "breg-rose": 1850.0,
-  "breg-sila": 1555.0,
-  "breg-tamjanika": 1850.0,
-  "bt-mister-marselan": 4740.0,
-  "bt-vranac-red-dry": 935.0,
-  "budimir-i-kao-da-si-andeo": 1680.0,
-  "budimir-lila-prokupac-boje": 2410.0,
-  "budimir-svb-rosa": 4820.0,
-  "bukovo-filigran-cabernet-sauvignon": 1910.0,
-  "bukovo-filigran-crna-tamjanika": 1635.0,
-  "bukovo-filigran-game": 1775.0,
-  "bukovo-filigran-merlot": 1500.0,
-  "chichateau-fabula-lagum": 3500.0,
-  "chichateau-fabula-mala": 1890.0,
-  "chichateau-pink-punk-roze": 1470.0,
-  "cilic-crni-vrh-cabernet-merlot": 1360.0,
-  "cilic-crni-vrh-sauvignon-blanc": 1365.0,
-  "cilic-kasmir": 7615.0,
-  "cilic-manifest-sauvignon-blanc": 9140.0,
-  "cilic-onyx-belo": 3320.0,
-  "radovan-experiment-prokupac": 1700.0,
-  "radovan-experiment-tamjanika": 1385.0,
-  "delena-1903-merlot": 2865.0,
-  "delena-70-30-sauvignon-blanc-semillon": 1775.0,
-  "despotika-krunski-dokaz": 5000.0,
-  "deuric-aksiom-beli": 1700.0,
-  "deuric-aksiom-crveni": 2180.0,
-  "deuric-classic-chardonnay": 1430.0,
-  "deuric-gewurztraminer": 1230.0,
-  "deuric-gorska-tamjanika": 1500.0,
-  "deuric-la-rem-chardonnay": 4090.0,
-  "deuric-la-rem-pinot-noir": 4090.0,
-  "deuric-pinot-noir": 1430.0,
-  "deuric-princeps-merlot": 4975.0,
-  "deuric-princeza-na-zrnu-grasca": 1230.0,
-  "deuric-probus-276": 1770.0,
-  "deuric-sauvignon-blanc": 1230.0,
-  "dibonis-di-franc": 1565.0,
-  "dibonis-di-shiraz": 2350.0,
-  "doja-breg-cabernet-sauvignon": 4955.0,
-  "doja-cabernet-sauvignon-merlot": 1750.0,
-  "doja-prokupac": 1500.0,
-  "doja-breg-prokupac": 4930.0,
-  "doja-tamjanika": 1225.0,
-  "draganic-miracolo-sangiovese": 2250.0,
-  "draganic-profil-palava": 2180.0,
-  "draganic-silueta-sauvignon-blanc": 1750.0,
-  "dragojlovic-husar-chardonnay": 4100.0,
-  "dragojlovic-kolodar-syrah": 4100.0,
-  "dzervin-lozana": 2050.0,
-  "dokovic-chardonnay": 4300.0,
-  "dokovic-syrah": 5050.0,
-  "dordevic-merlot-cabernet-sauvignon": 1375.0,
-  "dordevic-sauvignon-blanc": 1250.0,
-  "durdevica-legat-do-neba-i-nazad-belo": 1570.0,
-  "durdevica-legat-otisak": 2500.0,
-  "durdic-cabernet-franc": 2070.0,
-  "durdic-grasac-beli": 1650.0,
-  "durdic-neoplanta": 1650.0,
-  "durdic-probus": 2350.0,
-  "durdic-traminac": 1650.0,
-  "eden-chardonnay": 1960.0,
-  "eden-genesis": 2250.0,
-  "eden-sauvignon-blanc": 1960.0,
-  "erdevik-bella-novela-sauvignon-blanc": 1500.0,
-  "erdevik-ex-cathedra-sauvignon-blanc": 2660.0,
-  "erdevik-grand-trianon": 3140.0,
-  "erdevik-grand-trianon-deux-mers": 9080.0,
-  "erdevik-kunst-pg": 1500.0,
-  "erdevik-la-grande-bellezza-blanc-de-blancs-extra-brut": 2380.0,
-  "erdevik-marlon-delon": 4900.0,
-  "erdevik-omnibus-lector-chardonnay": 4900.0,
-  "erdevik-roza-nostra": 1540.0,
-  "erdevik-stiflers-mom-shiraz": 4900.0,
-  "erdevik-trianon": 1910.0,
-  "fenek-fenecki-prokupac-phoenician-prokupac": 1360.0,
-  "fragaria-jagoda": 3480.0,
-  "fragaria-red": 4030.0,
-  "fragaria-tajna-veza": 1740.0,
-  "fragaria-tamjanika": 1740.0,
-  "frug-chardonnay-signum": 2695.0,
-  "frug-cuvee": 2030.0,
-  "frug-grasac": 1780.0,
-  "frug-pinot-noir": 2550.0,
-  "frug-sauvignon-blanc": 2040.0,
-  "frug-syrah-signum": 2880.0,
-  "frunza-aglaja-cabernet-sauvignon": 1815.0,
-  "frunza-aglaja-dentelle": 4185.0,
-  "frunza-aglaja-sauvignon-semillon": 1300.0,
-  "grabak-prokupac": 2155.0,
-  "grabak-vivak-prokupac": 15095.0,
-  "ilic-nijemcevic-chardonnay": 1625.0,
-  "ilic-nijemcevic-sauvignon-blanc": 1500.0,
-  "imperator-animus": 2585.0,
-  "imperator-cargras": 1815.0,
-  "imperator-constantivs-cabernet-franc-cabernet-sauvignon": 6720.0,
-  "imperator-decius-pinot-noir": 3910.0,
-  "imperator-gratianus-traminac": 2025.0,
-  "imperator-la-vida": 2655.0,
-  "imperator-maximianvs": 3000.0,
-  "imperator-sila-nika": 1745.0,
-  "imperator-valerius": 2030.0,
-  "ivanovic-jara-pet-nat": 2160.0,
-  "ivanovic-no-1-2": 4500.0,
-  "ivanovic-no-3-4": 3000.0,
-  "ivanovic-prokupac": 1640.0,
-  "ivanovic-tamjanika": 1360.0,
-  "janko-bas-prokupac": 1570.0,
-  "janko-bifora": 4060.0,
-  "janko-jelena-rose": 1120.0,
-  "janko-mesecina-penusavo-belo": 3115.0,
-  "janko-smederevka": 1160.0,
-  "janko-vrtlog": 2035.0,
-  "janko-zapis-crveni": 2035.0,
-  "janko-zapis-testament": 4875.0,
-  "janko-zavet": 1845.0,
-  "janko-stari-zavet": 4205.0,
-  "janko-zlatno-runo-cabernet-sauvignon": 5415.0,
-  "janucic-tamna-tamjanika": 1670.0,
-  "jeremic-kanon": 2050.0,
-  "jeremic-kanon-superior": 3410.0,
-  "jeremic-merlot-terroire": 3400.0,
-  "jovac-cabernet-sauvignon": 5460.0,
-  "jovac-merlot": 4800.0,
-  "jovac-stella-noir": 2810.0,
-  "jovic-cabernet-sauvignon": 1635.0,
-  "jovic-chardonnay": 1100.0,
-  "jovic-vranac-potrkanjski": 1635.0,
-  "karic-adria-belo": 1695.0,
-  "karic-adria-crveno": 1990.0,
-  "katanic-leon-chardonnay": 2285.0,
-  "katanic-oskar": 2285.0,
-  "kepul-morava": 1600.0,
-  "kepul-probus": 2610.0,
-  "kis-bermet": 1515.0,
-  "kis-grasac-beli": 1320.0,
-  "kis-merlot": 1715.0,
-  "kis-misterija": 1335.0,
-  "komuna-chardonnay": 1230.0,
-  "komuna-merlot": 1230.0,
-  "komuna-muscat-petit-grain": 1160.0,
-  "kostic-prokupac-barrique": 2250.0,
-  "kovacevic-amber-cuvee": 2610.0,
-  "kovacevic-aurelius": 1670.0,
-  "kovacevic-edicija-s-aurelius": 2900.0,
-  "kovacevic-bermet": 1525.0,
-  "kovacevic-chardonnay": 1530.0,
-  "kovacevic-fresco-bianco": 1195.0,
-  "kovacevic-fresco-rose": 1195.0,
-  "kovacevic-pro-pro": 2030.0,
-  "kovacevic-sauvignon": 2320.0,
-  "krstasica-konekcija-merlot": 1850.0,
-  "la-gora-bello": 2235.0,
-  "la-gora-lupo": 3550.0,
-  "lakicevic-solaris": 3000.0,
-  "lakicevic-upupa": 2320.0,
-  "madzic-merlot": 1530.0,
-  "magaza-merlot": 1580.0,
-  "malca-anonymous-crna-tamjanika": 2045.0,
-  "malca-carica-jelena": 3570.0,
-  "marko-carine-merlot-cabernet-sauvignon": 2740.0,
-  "marko-doajen-chardonnay": 2730.0,
-  "marko-doajen-prokupac": 4065.0,
-  "marko-doajen-tamjanika": 4090.0,
-  "matalj-cuvee-bukovski": 2045.0,
-  "matalj-kremen-kamen": 12500.0,
-  "matalj-zamna": 3995.0,
-  "matijasevic-belina": 1480.0,
-  "matijasevic-belina-oranz": 2045.0,
-  "matijasevic-cukundeda": 2045.0,
-  "matijasevic-cukundeda-superiore": 22720.0,
-  "matijasevic-tri-doline-merlot": 2250.0,
-  "matijasevic-sovinoa": 2115.0,
-  "matijasevic-sovinoa-fume-blanc": 5700.0,
-  "milanovic-neoplanta": 1650.0,
-  "milanovic-probus": 2280.0,
-  "milanovic-sila": 1845.0,
-  "milicevic-vladavina": 6455.0,
-  "milijan-jelic-kamenicanka-prokupac": 1695.0,
-  "milijan-jelic-mammoth-pinot-noir": 2190.0,
-  "milijan-jelic-millennium": 2190.0,
-  "milijan-jelic-morange": 2015.0,
-  "milijan-jelic-morava": 1695.0,
-  "milosavljevic-vila-vina-jefimija-tamjanika": 1750.0,
-  "milosavljevic-vila-vina-prokupac": 1400.0,
-  "molovin-inat-frankovka": 1785.0,
-  "molovin-inat": 3550.0,
-  "molovin-inat-rajnski-rizling": 2850.0,
-  "molovin-inat-traminac": 1575.0,
-  "mv-kaberne-sf": 2020.0,
-  "mv-tamjanika": 1730.0,
-  "nera-lesa-sila-grasac-malvazija": 1490.0,
-  "nera-panorama": 2170.0,
-  "nikad-nije-kasno-signature": 2720.0,
-  "nikad-nije-kasno-simfonija": 1265.0,
-  "novak-bagrina": 2100.0,
-  "panjkovic-mudrost": 1745.0,
-  "panjkovic-radost": 1430.0,
-  "petra-cuvee": 3295.0,
-  "petra-orange": 2955.0,
-  "petra-pinot-grigio": 1360.0,
-  "petra-pinot-noir-barrique": 3180.0,
-  "petra-pinot-noir": 6250.0,
-  "petra-rose-co": 2045.0,
-  "petra-traminac": 2160.0,
-  "pevac-gust-chardonnay": 1255.0,
-  "pevac-izazov-tamjanika": 1395.0,
-  "pevac-kaberne-fran": 1225.0,
-  "pevac-prokupac": 2100.0,
-  "pevac-tiho-tece-morava": 1400.0,
-  "pevac-tisina-malvazija": 1395.0,
-  "pevac-zagrljaj": 3355.0,
-  "pirg-sauvignon-blanc": 1480.0,
-  "pirg-skriljac": 2730.0,
-  "pirg-tamjanika": 1480.0,
-  "pirg-vranac": 2035.0,
-  "pusula-cabernet-cuvee": 1635.0,
-  "pusula-sauvignon-blanc": 1300.0,
-  "pusula-traminac": 1300.0,
-  "radovan-prokupac": 2870.0,
-  "radovanovic-cabernet-sauvignon-classique": 1595.0,
-  "radovanovic-cabernet-sauvignon-grand-reserva": 10800.0,
-  "radovanovic-reserve-cabernet-sauvignon": 3765.0,
-  "radovanovic-chardonnay-classique": 1595.0,
-  "radovanovic-chardonnay-selekcija": 2390.0,
-  "radovanovic-franc-cabernet-sauvignon": 2160.0,
-  "radovanovic-rose": 1235.0,
-  "vinska-kuca-rajic-chardonnay": 2900.0,
-  "vinska-kuca-rajic-tamjanika": 2370.0,
-  "braca-rajkovic-prince-rskavac": 1490.0,
-  "braca-rajkovic-sofia-cuvee": 1230.0,
-  "braca-rajkovic-sofia-tamjanika": 1300.0,
-  "rnjak-chardonnay": 1360.0,
-  "rnjak-cuvee-de-rgnac": 2050.0,
-  "rnjak-pinot-noir": 2730.0,
-  "rnjak-sauvignon-blanc": 1365.0,
-  "atelje-sapat-atila-cabernet-sauvignon": 6700.0,
-  "atelje-sapat-atila-chardonnay": 6700.0,
-  "atelje-sapat-atila-sauvignon-blanc": 5890.0,
-  "atelje-sapat-bianca": 1540.0,
-  "atelje-sapat-chardonnay": 1680.0,
-  "atelje-sapat-cuvee": 2245.0,
-  "atelje-sapat-magnus": 1960.0,
-  "atelje-sapat-nera": 1890.0,
-  "atelje-sapat-terol-teroldego": 13700.0,
-  "savic-merlot": 3520.0,
-  "savic-prokupac": 1750.0,
-  "savic-tamjanika": 1460.0,
-  "selecta-pinot-grigio": 1120.0,
-  "selecta-pinot-noir": 1750.0,
-  "sijacki-rizling-italijanski": 1170.0,
-  "sijacki-sedusa": 4245.0,
-  "sokolov-zamak-marselan": 1620.0,
-  "sokolov-zamak-merlot": 1290.0,
-  "sokolov-zamak-pinot-noir": 1595.0,
-  "sokolov-zamak-tamjanika": 1450.0,
-  "vinarska-kuca-spasic-despot": 1160.0,
-  "vinarska-kuca-spasic-tamjanika": 1160.0,
-  "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1450.0,
-  "stemina-stephanos": 2000.0,
-  "temet-beli-kamen-morava": 5435.0,
-  "temet-beli-kamen-prokupac": 4795.0,
-  "temet-ergo": 4795.0,
-  "temet-tri-morave": 11900.0,
-  "temet-tri-morave-rezerva-crveno": 9500.0,
-  "the-sparkling-the-blanc-de-noirs": 2180.0,
-  "todorovic-cabernet-sauvignon": 1450.0,
-  "todorovic-chardonnay": 1330.0,
-  "todorovic-merlot": 1440.0,
-  "todorovic-opus": 2310.0,
-  "todorovic-shiraz": 1670.0,
-  "tonkovic-kadarka": 1640.0,
-  "tonkovic-fantazija-kadarka": 1640.0,
-  "tonkovic-rapsodija": 2050.0,
-  "trasko-fucking-fabulous-edicion-limitada": 4075.0,
-  "tri-mede-i-oblak-grasac-beli": 2380.0,
-  "tri-mede-i-oblak-vagabundo": 2660.0,
-  "tri-oraha-500-barrique-barrels": 8995.0,
-  "tri-oraha-750-barrique-barrels": 7365.0,
-  "tri-oraha-cabernet-sauvignon": 4910.0,
-  "tri-oraha-merlot": 6250.0,
-  "fruskogorski-tri-sunca-traminac-kasna-berba": 13005.0,
-  "trivanovic-chardonnay": 2095.0,
-  "veritas-cukovic-cuk-cuvee": 3065.0,
-  "veritas-cukovic-momentum-cabernet-sauvignon": 7200.0,
-  "veritas-cukovic-momentum-mali": 3065.0,
-  "verkat-grasac-beli": 1515.0,
-  "verkat-malvazija": 1700.0,
-  "kis-verus-grasac-beli": 1300.0,
-  "kis-verus-gt": 1590.0,
-  "kis-verus-mister-ja": 1420.0,
-  "vladimir-1-hektar": 5440.0,
-  "vinarium-belos": 1420.0,
-  "vinarium-dedovac": 1690.0,
-  "vinarium-zupljanka": 1280.0,
-  "vincic-grand-fru": 3890.0,
-  "vincic-grasac": 17385.0,
-  "vincic-white-reserve": 8355.0,
-  "vinum-chardonnay": 2540.0,
-  "vinum-dina": 3260.0,
-  "vinum-frankovka": 1400.0,
-  "vinum-grasac-26a": 2910.0,
-  "vinum-grasac-beli": 1630.0,
-  "vinum-mustra": 1400.0,
-  "vinum-sauvignon-blanc": 1660.0,
-  "virtus-credo-beli": 2050.0,
-  "virtus-credo": 2660.0,
-  "virtus-marselan": 1815.0,
-  "virtus-morava": 1300.0,
-  "virtus-pinot-grigio": 1400.0,
-  "virtus-prokupac": 1300.0,
-  "yotta-bonsai-prokupac": 4540.0,
-  "yotta-cabernet-sauvignon": 1900.0,
-  "yotta-hysteresis-tamjanika": 4180.0,
-  "yotta-prokupac": 1790.0,
-  "yotta-tri-boje-belo-tamjanika": 1360.0,
-  "zir-morava": 1865.0,
-  "zmajevac-chardonnay": 1900.0,
-  "zmajevac-cuvee": 2730.0,
-  "zmajevac-prokupac": 2015.0,
-  "zmajevac-tamjanika": 1800.0,
-  "zvonko-bogdan-8-tamburasa": 1395.0,
-  "zvonko-bogdan-chardonnay": 2100.0,
-  "zvonko-bogdan-cuvee-no1": 2800.0,
-  "zvonko-bogdan-merlot": 4200.0,
-  "zvonko-bogdan-pinot-blanc": 2100.0,
-  "zvonko-bogdan-rose-sec": 1680.0,
-  "zvonko-bogdan-tamjanika": 1650.0,
-  "zvonko-bogdan-zivot-tece": 1570.0
+  "100-zena-madame-merlette": 4090,
+  "100-zena-mlad-momak-merlot": 1025,
+  "100-zena-rose": 1635,
+  "100-zena-shao-linda-orange": 1635,
+  "100-zena-veliki-decko": 1025,
+  "eden-velvet": 1470,
+  "novak-crna-tamjanika-black-incense": 1955,
+  "stari-hrast-cabernet-merlot": 1860,
+  "stari-hrast-chardonnay": 1750,
+  "stari-hrast-merlot": 3570,
+  "stari-hrast-sauvignon-blanc": 1570,
+  "veritas-cukovic-bela-harmonija": 3280,
+  "veritas-cukovic-bermet": 3070,
+  "aleksandrovic-harizma": 1775,
+  "aleksandrovic-oplen": 1630,
+  "aleksandrovic-prokupac": 1775,
+  "aleksandrovic-regent-reserve": 2335,
+  "aleksandrovic-rodoslov-grand-reserve": 5025,
+  "aleksandrovic-trijumf": 1988,
+  "aleksandrovic-trijumf-gold": 2202,
+  "aleksandrovic-trijumf-noir": 2480,
+  "aleksandrovic-trijumf-rose": 1490,
+  "aleksandrovic-trijumf-terroir": 2350,
+  "aleksandrovic-varijanta": 1385,
+  "aleksic-amanet": 1630,
+  "aleksic-barbara": 875,
+  "aleksic-biser": 2045,
+  "aleksic-kardas": 1050,
+  "aleksic-kardas-limited": 1640,
+  "aleksic-kontra": 2730,
+  "aleksic-zuti-cvet": 2045,
+  "andrica-vinograd-consul-prokupac-merlot": 1500,
+  "arsenijevic-sauvignon-blanc": 1570,
+  "arsenijevic-starosedelac": 1750,
+  "belo-brdo-alma-mons": 1992,
+  "belo-brdo-cabernet-franc": 12600,
+  "belo-brdo-chardonnay": 1675,
+  "belo-brdo-decade": 5600,
+  "belo-brdo-petit-verdot": 2450,
+  "bikicki-crna-tamjanika": 2200,
+  "bikicki-cu": 2350,
+  "bikicki-lily": 2200,
+  "bikicki-moma": 3605,
+  "bikicki-s-o": 2350,
+  "bikicki-sfera": 1840,
+  "bikicki-sfera-noir": 1850,
+  "bikicki-sfera-orange": 1840,
+  "bikicki-uncensored": 2970,
+  "bikicki-victor": 2050,
+  "bjelica-babaroga": 5358,
+  "bjelica-babaroga-crvena": 6750,
+  "bjelica-babaroga-penusavac": 6720,
+  "bjelica-graffiti-crveno": 2710,
+  "bjelica-saga": 2320,
+  "botunjac-jagoda-botunjac": 3625,
+  "botunjac-pino-svetih-ratnika-reserve-pinot-noir": 7668,
+  "botunjac-sveti-gral-prokupac": 1765,
+  "breg-grasac": 1555,
+  "breg-rose": 1850,
+  "breg-sila": 1555,
+  "breg-tamjanika": 1850,
+  "bt-mister-marselan": 4740,
+  "bt-vranac-red-dry": 935,
+  "budimir-i-kao-da-si-andeo": 1680,
+  "budimir-lila-prokupac-boje": 2410,
+  "budimir-svb-rosa": 4820,
+  "bukovo-filigran-cabernet-sauvignon": 1910,
+  "bukovo-filigran-crna-tamjanika": 1635,
+  "bukovo-filigran-game": 1775,
+  "bukovo-filigran-merlot": 1500,
+  "chichateau-fabula-lagum": 3325,
+  "chichateau-fabula-mala": 1890,
+  "chichateau-pink-punk-roze": 1430,
+  "cilic-crni-vrh-cabernet-merlot": 1360,
+  "cilic-crni-vrh-sauvignon-blanc": 1365,
+  "cilic-kasmir": 7615,
+  "cilic-manifest-sauvignon-blanc": 9140,
+  "cilic-onyx-belo": 4622,
+  "radovan-experiment-prokupac": 1700,
+  "radovan-experiment-tamjanika": 1385,
+  "delena-1903-merlot": 2865,
+  "delena-70-30-sauvignon-blanc-semillon": 1775,
+  "despotika-krunski-dokaz": 5000,
+  "deuric-aksiom-beli": 1700,
+  "deuric-aksiom-crveni": 2180,
+  "deuric-classic-chardonnay": 1330,
+  "deuric-gewurztraminer": 1230,
+  "deuric-gorska-tamjanika": 1500,
+  "deuric-la-rem-chardonnay": 4090,
+  "deuric-la-rem-pinot-noir": 4090,
+  "deuric-pinot-noir": 1430,
+  "deuric-princeps-merlot": 4975,
+  "deuric-princeza-na-zrnu-grasca": 1230,
+  "deuric-probus-276": 1770,
+  "deuric-sauvignon-blanc": 1230,
+  "dibonis-di-franc": 1565,
+  "dibonis-di-shiraz": 2350,
+  "doja-breg-cabernet-sauvignon": 4955,
+  "doja-cabernet-sauvignon-merlot": 1750,
+  "doja-prokupac": 1425,
+  "doja-breg-prokupac": 4700,
+  "doja-tamjanika": 1225,
+  "draganic-miracolo-sangiovese": 2250,
+  "draganic-profil-palava": 2180,
+  "draganic-silueta-sauvignon-blanc": 1750,
+  "dragojlovic-husar-chardonnay": 4100,
+  "dragojlovic-kolodar-syrah": 4100,
+  "dzervin-lozana": 2050,
+  "dokovic-chardonnay": 4300,
+  "dokovic-syrah": 5050,
+  "dordevic-merlot-cabernet-sauvignon": 1375,
+  "dordevic-sauvignon-blanc": 1250,
+  "durdevica-legat-do-neba-i-nazad-belo": 1570,
+  "durdevica-legat-otisak": 2500,
+  "durdic-cabernet-franc": 2070,
+  "durdic-grasac-beli": 1650,
+  "durdic-neoplanta": 1650,
+  "durdic-probus": 2350,
+  "durdic-traminac": 1650,
+  "eden-chardonnay": 1960,
+  "eden-genesis": 2250,
+  "eden-sauvignon-blanc": 1960,
+  "erdevik-bella-novela-sauvignon-blanc": 1425,
+  "erdevik-ex-cathedra-sauvignon-blanc": 2660,
+  "erdevik-grand-trianon": 2995,
+  "erdevik-grand-trianon-deux-mers": 9080,
+  "erdevik-kunst-pg": 1500,
+  "erdevik-la-grande-bellezza-blanc-de-blancs-extra-brut": 2380,
+  "erdevik-marlon-delon": 4700,
+  "erdevik-omnibus-lector-chardonnay": 4900,
+  "erdevik-roza-nostra": 1480,
+  "erdevik-stiflers-mom-shiraz": 4700,
+  "erdevik-trianon": 1680,
+  "fenek-fenecki-prokupac-phoenician-prokupac": 1360,
+  "fragaria-jagoda": 3480,
+  "fragaria-red": 4030,
+  "fragaria-tajna-veza": 1740,
+  "fragaria-tamjanika": 1740,
+  "frug-chardonnay-signum": 2695,
+  "frug-cuvee": 2030,
+  "frug-grasac": 1780,
+  "frug-pinot-noir": 2550,
+  "frug-sauvignon-blanc": 2040,
+  "frug-syrah-signum": 2880,
+  "frunza-aglaja-cabernet-sauvignon": 1815,
+  "frunza-aglaja-dentelle": 4185,
+  "frunza-aglaja-sauvignon-semillon": 1300,
+  "grabak-prokupac": 2155,
+  "grabak-vivak-prokupac": 15095,
+  "ilic-nijemcevic-chardonnay": 1625,
+  "ilic-nijemcevic-sauvignon-blanc": 1500,
+  "imperator-animus": 2585,
+  "imperator-cargras": 1815,
+  "imperator-constantivs-cabernet-franc-cabernet-sauvignon": 6720,
+  "imperator-decius-pinot-noir": 3910,
+  "imperator-gratianus-traminac": 2025,
+  "imperator-la-vida": 2655,
+  "imperator-maximianvs": 3000,
+  "imperator-sila-nika": 1745,
+  "imperator-valerius": 2030,
+  "ivanovic-jara-pet-nat": 2160,
+  "ivanovic-no-1-2": 3820,
+  "ivanovic-no-3-4": 3000,
+  "ivanovic-prokupac": 1640,
+  "ivanovic-tamjanika": 1360,
+  "janko-bas-prokupac": 1570,
+  "janko-bifora": 13539,
+  "janko-jelena-rose": 1120,
+  "janko-mesecina-penusavo-belo": 3115,
+  "janko-smederevka": 1160,
+  "janko-vrtlog": 2035,
+  "janko-zapis-crveni": 1978,
+  "janko-zapis-testament": 4875,
+  "janko-zavet": 1782,
+  "janko-stari-zavet": 4205,
+  "janko-zlatno-runo-cabernet-sauvignon": 5415,
+  "janucic-tamna-tamjanika": 1670,
+  "jeremic-kanon": 2050,
+  "jeremic-kanon-superior": 3410,
+  "jeremic-merlot-terroire": 3400,
+  "jovac-cabernet-sauvignon": 5460,
+  "jovac-merlot": 4800,
+  "jovac-stella-noir": 2810,
+  "jovic-cabernet-sauvignon": 1635,
+  "jovic-chardonnay": 1100,
+  "jovic-vranac-potrkanjski": 1635,
+  "karic-adria-belo": 1695,
+  "karic-adria-crveno": 1990,
+  "katanic-leon-chardonnay": 2285,
+  "katanic-oskar": 2285,
+  "kepul-morava": 1600,
+  "kepul-probus": 2610,
+  "kis-bermet": 1515,
+  "kis-grasac-beli": 1320,
+  "kis-merlot": 1715,
+  "kis-misterija": 1335,
+  "komuna-chardonnay": 1230,
+  "komuna-merlot": 1230,
+  "komuna-muscat-petit-grain": 1160,
+  "kostic-prokupac-barrique": 2250,
+  "kovacevic-amber-cuvee": 2610,
+  "kovacevic-aurelius": 1675,
+  "kovacevic-edicija-s-aurelius": 2910,
+  "kovacevic-bermet": 1310,
+  "kovacevic-chardonnay": 2330,
+  "kovacevic-fresco-bianco": 1195,
+  "kovacevic-fresco-rose": 1148,
+  "kovacevic-pro-pro": 2030,
+  "kovacevic-sauvignon": 2255,
+  "krstasica-konekcija-merlot": 1850,
+  "la-gora-bello": 2235,
+  "la-gora-lupo": 3550,
+  "lakicevic-solaris": 3000,
+  "lakicevic-upupa": 2320,
+  "madzic-merlot": 1530,
+  "magaza-merlot": 1580,
+  "malca-anonymous-crna-tamjanika": 1635,
+  "malca-carica-jelena": 3570,
+  "marko-carine-merlot-cabernet-sauvignon": 2740,
+  "marko-doajen-chardonnay": 2730,
+  "marko-doajen-prokupac": 4065,
+  "marko-doajen-tamjanika": 4090,
+  "matalj-cuvee-bukovski": 2045,
+  "matalj-kremen-kamen": 11085,
+  "matalj-zamna": 3995,
+  "matijasevic-belina": 1480,
+  "matijasevic-belina-oranz": 2045,
+  "matijasevic-cukundeda": 2045,
+  "matijasevic-cukundeda-superiore": 22720,
+  "matijasevic-tri-doline-merlot": 2250,
+  "matijasevic-sovinoa": 2122,
+  "matijasevic-sovinoa-fume-blanc": 5700,
+  "milanovic-neoplanta": 1650,
+  "milanovic-probus": 2280,
+  "milanovic-sila": 1845,
+  "milicevic-vladavina": 6455,
+  "milijan-jelic-kamenicanka-prokupac": 1695,
+  "milijan-jelic-mammoth-pinot-noir": 2190,
+  "milijan-jelic-millennium": 2190,
+  "milijan-jelic-morange": 2015,
+  "milijan-jelic-morava": 1695,
+  "milosavljevic-vila-vina-jefimija-tamjanika": 1750,
+  "milosavljevic-vila-vina-prokupac": 1400,
+  "molovin-inat-frankovka": 1785,
+  "molovin-inat": 3550,
+  "molovin-inat-rajnski-rizling": 2850,
+  "molovin-inat-traminac": 1575,
+  "mv-kaberne-sf": 2020,
+  "mv-tamjanika": 1730,
+  "nera-lesa-sila-grasac-malvazija": 1490,
+  "nera-panorama": 2170,
+  "nikad-nije-kasno-signature": 2720,
+  "nikad-nije-kasno-simfonija": 1265,
+  "novak-bagrina": 2100,
+  "panjkovic-mudrost": 1745,
+  "panjkovic-radost": 1430,
+  "petra-cuvee": 3295,
+  "petra-orange": 2955,
+  "petra-pinot-grigio": 1360,
+  "petra-pinot-noir-barrique": 3180,
+  "petra-pinot-noir": 6250,
+  "petra-rose-co": 2045,
+  "petra-traminac": 2160,
+  "pevac-gust-chardonnay": 1255,
+  "pevac-izazov-tamjanika": 1395,
+  "pevac-kaberne-fran": 1225,
+  "pevac-prokupac": 2100,
+  "pevac-tiho-tece-morava": 1400,
+  "pevac-tisina-malvazija": 1395,
+  "pevac-zagrljaj": 3355,
+  "pirg-sauvignon-blanc": 1480,
+  "pirg-skriljac": 2730,
+  "pirg-tamjanika": 1480,
+  "pirg-vranac": 2035,
+  "pusula-cabernet-cuvee": 1635,
+  "pusula-sauvignon-blanc": 1300,
+  "pusula-traminac": 1300,
+  "radovan-prokupac": 2870,
+  "radovanovic-cabernet-sauvignon-classique": 1595,
+  "radovanovic-cabernet-sauvignon-grand-reserva": 10800,
+  "radovanovic-reserve-cabernet-sauvignon": 4990,
+  "radovanovic-chardonnay-classique": 1598,
+  "radovanovic-chardonnay-selekcija": 2395,
+  "radovanovic-franc-cabernet-sauvignon": 2160,
+  "radovanovic-rose": 1235,
+  "vinska-kuca-rajic-chardonnay": 2900,
+  "vinska-kuca-rajic-tamjanika": 2370,
+  "braca-rajkovic-prince-rskavac": 1490,
+  "braca-rajkovic-sofia-cuvee": 1230,
+  "braca-rajkovic-sofia-tamjanika": 1300,
+  "rnjak-chardonnay": 1360,
+  "rnjak-cuvee-de-rgnac": 2050,
+  "rnjak-pinot-noir": 2730,
+  "rnjak-sauvignon-blanc": 1365,
+  "atelje-sapat-atila-cabernet-sauvignon": 6700,
+  "atelje-sapat-atila-chardonnay": 7300,
+  "atelje-sapat-atila-sauvignon-blanc": 5890,
+  "atelje-sapat-bianca": 1540,
+  "atelje-sapat-chardonnay": 1680,
+  "atelje-sapat-cuvee": 2245,
+  "atelje-sapat-magnus": 1960,
+  "atelje-sapat-nera": 1890,
+  "atelje-sapat-terol-teroldego": 13700,
+  "savic-merlot": 3520,
+  "savic-prokupac": 1750,
+  "savic-tamjanika": 1460,
+  "selecta-pinot-grigio": 1120,
+  "selecta-pinot-noir": 1750,
+  "sijacki-rizling-italijanski": 1170,
+  "sijacki-sedusa": 4245,
+  "sokolov-zamak-marselan": 1620,
+  "sokolov-zamak-merlot": 1290,
+  "sokolov-zamak-pinot-noir": 1595,
+  "sokolov-zamak-tamjanika": 1450,
+  "vinarska-kuca-spasic-despot": 1160,
+  "vinarska-kuca-spasic-tamjanika": 1165,
+  "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1450,
+  "stemina-stephanos": 2000,
+  "temet-beli-kamen-morava": 5435,
+  "temet-beli-kamen-prokupac": 4795,
+  "temet-ergo": 4422,
+  "temet-tri-morave": 11900,
+  "temet-tri-morave-rezerva-crveno": 9500,
+  "the-sparkling-the-blanc-de-noirs": 2180,
+  "todorovic-cabernet-sauvignon": 1450,
+  "todorovic-chardonnay": 1280,
+  "todorovic-merlot": 1385,
+  "todorovic-opus": 2310,
+  "todorovic-shiraz": 1600,
+  "tonkovic-kadarka": 1640,
+  "tonkovic-fantazija-kadarka": 1640,
+  "tonkovic-rapsodija": 2050,
+  "trasko-fucking-fabulous-edicion-limitada": 4075,
+  "tri-mede-i-oblak-grasac-beli": 2380,
+  "tri-mede-i-oblak-vagabundo": 2660,
+  "tri-oraha-500-barrique-barrels": 8995,
+  "tri-oraha-750-barrique-barrels": 7365,
+  "tri-oraha-cabernet-sauvignon": 4910,
+  "tri-oraha-merlot": 6250,
+  "fruskogorski-tri-sunca-traminac-kasna-berba": 13005,
+  "trivanovic-chardonnay": 2095,
+  "veritas-cukovic-cuk-cuvee": 3065,
+  "veritas-cukovic-momentum-cabernet-sauvignon": 7200,
+  "veritas-cukovic-momentum-mali": 3065,
+  "verkat-grasac-beli": 1515,
+  "verkat-malvazija": 1700,
+  "kis-verus-grasac-beli": 1300,
+  "kis-verus-gt": 1590,
+  "kis-verus-mister-ja": 1420,
+  "vladimir-1-hektar": 5440,
+  "vinarium-belos": 1420,
+  "vinarium-dedovac": 1690,
+  "vinarium-zupljanka": 1280,
+  "vincic-grand-fru": 3890,
+  "vincic-grasac": 4900,
+  "vincic-white-reserve": 8355,
+  "vinum-chardonnay": 2540,
+  "vinum-dina": 3260,
+  "vinum-frankovka": 1400,
+  "vinum-grasac-26a": 2910,
+  "vinum-grasac-beli": 1630,
+  "vinum-mustra": 1400,
+  "vinum-sauvignon-blanc": 1660,
+  "virtus-credo-beli": 2050,
+  "virtus-credo": 2660,
+  "virtus-marselan": 1815,
+  "virtus-morava": 1300,
+  "virtus-pinot-grigio": 1400,
+  "virtus-prokupac": 1300,
+  "yotta-bonsai-prokupac": 4540,
+  "yotta-cabernet-sauvignon": 3910,
+  "yotta-hysteresis-tamjanika": 4180,
+  "yotta-prokupac": 3190,
+  "yotta-tri-boje-belo-tamjanika": 1360,
+  "zir-morava": 1865,
+  "zmajevac-chardonnay": 2145,
+  "zmajevac-cuvee": 2765,
+  "zmajevac-prokupac": 2015,
+  "zmajevac-tamjanika": 1795,
+  "zvonko-bogdan-8-tamburasa": 1472,
+  "zvonko-bogdan-chardonnay": 2015,
+  "zvonko-bogdan-cuvee-no1": 2800,
+  "zvonko-bogdan-merlot": 4200,
+  "zvonko-bogdan-pinot-blanc": 2075,
+  "zvonko-bogdan-rose-sec": 1690,
+  "zvonko-bogdan-tamjanika": 1650,
+  "zvonko-bogdan-zivot-tece": 1515,
+  "doja-chardonnay-pinot-grigio": 1100,
+  "todorovic-sauvignon-blanc": 1100,
+  "radovanovic-sauvignon-blanc": 1250,
+  "temet-tri-morave-rose": 1270,
+  "aleksic-prokupac": 1300,
+  "cilic-onyx-rose": 1350,
+  "100-zena-monsieur-merlot-premium": 1440,
+  "cilic-cabernet-sauvignon": 1450,
+  "cilic-fume-blanc": 1450,
+  "matalj-terasa-chardonnay": 1510,
+  "budimir-tamjanika-zupska": 1600,
+  "lastar-tamjanika": 1650,
+  "lastar-pinot-noir": 1790,
+  "matalj-kremen": 1850,
+  "probus-magis": 1950,
+  "plavi-perun-rose-pinot-noir": 2300,
+  "aleksandrovic-regent": 2350,
+  "plavi-perun-chardonnay": 2590,
+  "vista-hill-reserve-white": 3250,
+  "plavi-perun-pinot-noir": 3300,
+  "temet-ergo-white": 3700,
+  "radovanovic-cabernet-sauvignon": 3790,
+  "aleksandrovic-rodoslov": 5050,
+  "braca-rajkovic-33": 5200,
+  "aleksic-sevdah": 580,
+  "do-kraja-sveta-aura-rose": 830,
+  "erdevik-tri-roze-koze": 850,
+  "kovacevic-rosetto": 1020,
+  "todorovic-rose": 1030,
+  "radovanovic-rizling-rajnski": 1100,
+  "kovacevic-cuvee-piquant": 1100,
+  "do-kraja-sveta-merlot": 1265,
+  "aleksandrovic-euforija": 1390,
+  "vinarska-kuca-spasic-tamjanika-lekcija": 1460,
+  "lastar-chardonnay": 1720,
+  "aleksandrovic-vizija": 1780,
+  "aleksandrovic-chardonnay": 2070,
+  "aleksandrovic-vozd": 8520
+ },
+ "po_magazinam": {
+  "aleksandrovic-harizma": {
+   "vinoteka": 1770.0,
+   "winestars": 1780.0
+  },
+  "aleksandrovic-prokupac": {
+   "vinoteka": 1770.0,
+   "winestars": 1780.0
+  },
+  "aleksandrovic-trijumf": {
+   "vinoteka": 2055.0,
+   "winestars": 1920.0
+  },
+  "aleksandrovic-trijumf-gold": {
+   "vinoteka": 2195.0,
+   "winestars": 2210.0
+  },
+  "aleksandrovic-trijumf-terroir": {
+   "vinoteka": 2350.0,
+   "winestars": 2350.0
+  },
+  "aleksandrovic-varijanta": {
+   "vinoteka": 1380.0,
+   "winestars": 1390.0
+  },
+  "belo-brdo-alma-mons": {
+   "vinoteka": 2305.0,
+   "winestars": 1680.0
+  },
+  "bjelica-babaroga": {
+   "vinoteka": 5185.0,
+   "winestars": 5530.0
+  },
+  "chichateau-fabula-lagum": {
+   "vinoteka": 3500.0,
+   "winestars": 3150.0
+  },
+  "chichateau-pink-punk-roze": {
+   "vinoteka": 1470.0,
+   "winestars": 1390.0
+  },
+  "cilic-onyx-belo": {
+   "vinoteka": 4995.0,
+   "winestars": 4250.0
+  },
+  "deuric-classic-chardonnay": {
+   "vinoteka": 1430.0,
+   "winestars": 1230.0
+  },
+  "doja-prokupac": {
+   "vinoteka": 1500.0,
+   "winestars": 1350.0
+  },
+  "doja-breg-prokupac": {
+   "vinoteka": 4930.0,
+   "winestars": 4470.0
+  },
+  "erdevik-bella-novela-sauvignon-blanc": {
+   "vinoteka": 1500.0,
+   "winestars": 1350.0
+  },
+  "erdevik-grand-trianon": {
+   "vinoteka": 3140.0,
+   "winestars": 2850.0
+  },
+  "erdevik-marlon-delon": {
+   "vinoteka": 4900.0,
+   "winestars": 4500.0
+  },
+  "erdevik-roza-nostra": {
+   "vinoteka": 1540.0,
+   "winestars": 1420.0
+  },
+  "erdevik-stiflers-mom-shiraz": {
+   "vinoteka": 4900.0,
+   "winestars": 4500.0
+  },
+  "erdevik-trianon": {
+   "vinoteka": 1910.0,
+   "winestars": 1450.0
+  },
+  "janko-zapis-crveni": {
+   "vinoteka": 2035.0,
+   "winestars": 1920.0
+  },
+  "janko-zavet": {
+   "vinoteka": 1845.0,
+   "winestars": 1720.0
+  },
+  "kovacevic-aurelius": {
+   "vinoteka": 1670.0,
+   "winestars": 1680.0
+  },
+  "kovacevic-edicija-s-aurelius": {
+   "vinoteka": 2900.0,
+   "winestars": 2920.0
+  },
+  "kovacevic-chardonnay": {
+   "vinoteka": 2320.0,
+   "winestars": 2340.0
+  },
+  "kovacevic-fresco-rose": {
+   "vinoteka": 1195.0,
+   "winestars": 1100.0
+  },
+  "kovacevic-sauvignon": {
+   "vinoteka": 2320.0,
+   "winestars": 2190.0
+  },
+  "matalj-kremen-kamen": {
+   "vinoteka": 12500.0,
+   "winestars": 9670.0
+  },
+  "matijasevic-sovinoa": {
+   "vinoteka": 2115.0,
+   "winestars": 2130.0
+  },
+  "radovanovic-chardonnay-classique": {
+   "vinoteka": 1595.0,
+   "winestars": 1600.0
+  },
+  "radovanovic-chardonnay-selekcija": {
+   "vinoteka": 2390.0,
+   "winestars": 2400.0
+  },
+  "vinarska-kuca-spasic-tamjanika": {
+   "vinoteka": 1160.0,
+   "winestars": 1170.0
+  },
+  "temet-ergo": {
+   "vinoteka": 4795.0,
+   "winestars": 4050.0
+  },
+  "todorovic-chardonnay": {
+   "vinoteka": 1330.0,
+   "winestars": 1230.0
+  },
+  "todorovic-merlot": {
+   "vinoteka": 1440.0,
+   "winestars": 1330.0
+  },
+  "todorovic-shiraz": {
+   "vinoteka": 1670.0,
+   "winestars": 1530.0
+  },
+  "zmajevac-chardonnay": {
+   "vinoteka": 2500.0,
+   "winestars": 1790.0
+  },
+  "zmajevac-cuvee": {
+   "vinoteka": 2730.0,
+   "winestars": 2800.0
+  },
+  "zmajevac-tamjanika": {
+   "vinoteka": 1800.0,
+   "winestars": 1790.0
+  },
+  "zvonko-bogdan-8-tamburasa": {
+   "vinoteka": 1395.0,
+   "winestars": 1550.0
+  },
+  "zvonko-bogdan-chardonnay": {
+   "vinoteka": 2100.0,
+   "winestars": 1930.0
+  },
+  "zvonko-bogdan-cuvee-no1": {
+   "vinoteka": 2800.0,
+   "winestars": 2800.0
+  },
+  "zvonko-bogdan-pinot-blanc": {
+   "vinoteka": 2100.0,
+   "winestars": 2050.0
+  },
+  "zvonko-bogdan-rose-sec": {
+   "vinoteka": 1680.0,
+   "winestars": 1700.0
+  },
+  "zvonko-bogdan-zivot-tece": {
+   "vinoteka": 1570.0,
+   "winestars": 1460.0
+  }
  },
  "podhodit_neskolko": [
   {
@@ -399,6 +1049,7 @@
    "artikul": "10104018 2022",
    "cena_rsd": 2055.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21961-aleksandrovic-trijumf-noir-penusavac",
+   "magazin": "vinoteka",
    "kandidaty": [
     "aleksandrovic-trijumf",
     "aleksandrovic-trijumf-noir"
@@ -411,6 +1062,7 @@
    "artikul": "10102298 2023",
    "cena_rsd": 2285.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25044-botunjac-pino",
+   "magazin": "vinoteka",
    "kandidaty": [
     "botunjac-pino-botunjac-pinot-noir",
     "botunjac-pino-svetih-ratnika-reserve-pinot-noir"
@@ -423,6 +1075,7 @@
    "artikul": "10101263 2024",
    "cena_rsd": 1780.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23489-budimir-tamjanika",
+   "magazin": "vinoteka",
    "kandidaty": [
     "budimir-tamjanika-budimir",
     "budimir-tamjanika-slatka-mala",
@@ -436,6 +1089,7 @@
    "artikul": "10101169 2023",
    "cena_rsd": 1635.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22376-chichateau-fabula-mala-a-bela",
+   "magazin": "vinoteka",
    "kandidaty": [
     "chichateau-fabula-mala",
     "chichateau-fabula-mala-a-bela-chardonnay"
@@ -448,6 +1102,7 @@
    "artikul": "10101169 2022",
    "cena_rsd": 1635.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19487-chichateau-fabula-mala-a-bela",
+   "magazin": "vinoteka",
    "kandidaty": [
     "chichateau-fabula-mala",
     "chichateau-fabula-mala-a-bela-chardonnay"
@@ -460,6 +1115,7 @@
    "artikul": "10101382 2023",
    "cena_rsd": 1430.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24086-delena-100-jazz",
+   "magazin": "vinoteka",
    "kandidaty": [
     "delena-100-jazz-gewurztraminer",
     "delena-100-jazz-mirisni-traminac"
@@ -472,6 +1128,7 @@
    "artikul": "10102926 2019",
    "cena_rsd": 3320.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24061-dzervin-trifun-grand",
+   "magazin": "vinoteka",
    "kandidaty": [
     "dzervin-trifun",
     "dzervin-trifun-grand-cabernet-sauvignon"
@@ -484,6 +1141,7 @@
    "artikul": "10101162 2020",
    "cena_rsd": 1910.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22638-janko-misija-barrique",
+   "magazin": "vinoteka",
    "kandidaty": [
     "janko-misija",
     "janko-misija-barrique-chardonnay"
@@ -496,6 +1154,7 @@
    "artikul": "10102708 2019",
    "cena_rsd": 1395.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18782-janucic-vulkan",
+   "magazin": "vinoteka",
    "kandidaty": [
     "janucic-vulkan-game-berba",
     "janucic-vulkan-merlot"
@@ -508,6 +1167,7 @@
    "artikul": "10101001 2025",
    "cena_rsd": 1910.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25666-jeremic-sonata",
+   "magazin": "vinoteka",
    "kandidaty": [
     "jeremic-sonata-icon-sauvignon-blanc",
     "jeremic-sonata-icone",
@@ -521,9 +1181,52 @@
    "artikul": "10101688 2022",
    "cena_rsd": 2380.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26167-pevac-gust-chardonnay-barrique",
+   "magazin": "vinoteka",
    "kandidaty": [
     "pevac-gust",
     "pevac-gust-chardonnay"
+   ]
+  },
+  {
+   "nomer": "1121",
+   "vino": "Allegro Kadarka Vinarija Tonković",
+   "hozyaistvo": "Vinarija Tonković",
+   "artikul": "3353",
+   "kategorii": [],
+   "cena_rsd": 1590.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "kandidaty": [
+    "tonkovic-allegro",
+    "tonkovic-allegro-kadarka-blanc-de-noir"
+   ]
+  },
+  {
+   "nomer": "280",
+   "vino": "Temet Tri Morave crveno",
+   "hozyaistvo": "Temet",
+   "artikul": "5468",
+   "kategorii": [],
+   "cena_rsd": 1620.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "kandidaty": [
+    "temet-tri-morave",
+    "temet-tri-morave-crveno-reserve"
+   ]
+  },
+  {
+   "nomer": "14",
+   "vino": "Aleksandrović Varijanta white",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "13859",
+   "kategorii": [],
+   "cena_rsd": 1390.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-varijanta-white/14/",
+   "magazin": "winestars",
+   "kandidaty": [
+    "aleksandrovic-varijanta",
+    "aleksandrovic-varijanta-white-selection"
    ]
   }
  ],
@@ -535,6 +1238,7 @@
    "artikul": "10101403 2024",
    "cena_rsd": 1490.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24433-p9-nebo-tamjanika",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -544,6 +1248,7 @@
    "artikul": "10101691 2025",
    "cena_rsd": 3960.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26192-akcija-21-malca-anonymus-crna-tamjanika",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -553,6 +1258,7 @@
    "artikul": "10102970 2022",
    "cena_rsd": 3180.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26194-akcija-21-malca-anonymus-crna-tamjanika-crveno",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -562,6 +1268,7 @@
    "artikul": "10102971 2021",
    "cena_rsd": 3440.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26198-akcija-21-malca-anonymus-frankovka",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -571,6 +1278,7 @@
    "artikul": "10101692 2020",
    "cena_rsd": 3440.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26196-akcija-21-malca-anonymus-smederevka",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -580,6 +1288,7 @@
    "artikul": "10101693 2025",
    "cena_rsd": 2110.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26200-akcija-21-malca-anonymus-traminac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -589,6 +1298,7 @@
    "artikul": "10101594 2025",
    "cena_rsd": 3280.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26737-akcija-21-veritas-grasac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -598,6 +1308,7 @@
    "artikul": "10101473 2023",
    "cena_rsd": 1640.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23334-aleksic-sinergija",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -607,6 +1318,7 @@
    "artikul": "10101431 2022",
    "cena_rsd": 1370.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24002-andrica-vinograd-attache",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -616,6 +1328,7 @@
    "artikul": "10101513 2020",
    "cena_rsd": 3545.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21487-basa-furmint",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -625,6 +1338,7 @@
    "artikul": "10101512 2020",
    "cena_rsd": 3398.4,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26848-basa-jantar-pinot-grigio",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -634,6 +1348,7 @@
    "artikul": "10101511 2021",
    "cena_rsd": 3865.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26221-basa-morava",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -643,6 +1358,7 @@
    "artikul": "10101510 2021",
    "cena_rsd": 3700.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25567-basa-tamjanika",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -652,6 +1368,7 @@
    "artikul": "10102854 2018",
    "cena_rsd": 5600.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21112-belo-brdo-cabernet-limited",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -661,6 +1378,7 @@
    "artikul": "10101636 2024",
    "cena_rsd": 2370.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24279-breg-chardonnay-stena",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -670,6 +1388,7 @@
    "artikul": "10102201 2019",
    "cena_rsd": 2000.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26449-budimir-projekat-x",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -679,6 +1398,7 @@
    "artikul": "10102201 2018",
    "cena_rsd": 2000.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24041-budimir-projekat-x",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -688,6 +1408,7 @@
    "artikul": "10102201 2017",
    "cena_rsd": 2000.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19825-budimir-projekat-x",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -697,6 +1418,7 @@
    "artikul": "10101130 2018",
    "cena_rsd": 2410.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22939-budimir-tamjanika-vera",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -706,6 +1428,7 @@
    "artikul": "10101170 2021",
    "cena_rsd": 3500.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22022-chichateau-chichardonnay",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -715,6 +1438,7 @@
    "artikul": "10101196 2024",
    "cena_rsd": 1550.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24752-chichateau-sauvignon-blanc",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -724,6 +1448,7 @@
    "artikul": "10101296 2020",
    "cena_rsd": 2515.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23016-chichateau-sauvignon-blejk",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -733,6 +1458,7 @@
    "artikul": "10102701 2019",
    "cena_rsd": 15230.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18804-cilic-manifest-merlot",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -742,6 +1468,7 @@
    "artikul": "10101260 2021",
    "cena_rsd": 1560.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20938-cilic-morava",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -751,6 +1478,7 @@
    "artikul": "10102451 2019",
    "cena_rsd": 4065.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18289-cilic-nono",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -760,6 +1488,7 @@
    "artikul": "10102410 2022",
    "cena_rsd": 3350.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25438-cilic-onyx-crveno",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -769,6 +1498,7 @@
    "artikul": "10102410 2021",
    "cena_rsd": 3350.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20885-cilic-onyx-crveno",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -778,6 +1508,7 @@
    "artikul": "10102410 2019",
    "cena_rsd": 4990.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/15872-cilic-onyx-crveno",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -787,6 +1518,7 @@
    "artikul": "10102737 2021",
    "cena_rsd": 3410.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25384-delena-376-malbec",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -796,6 +1528,7 @@
    "artikul": "10101357 2025",
    "cena_rsd": 1500.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26558-deuric-morava",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -805,6 +1538,7 @@
    "artikul": "10101357 2024",
    "cena_rsd": 1500.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23993-deuric-morava",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -814,6 +1548,7 @@
    "artikul": "10101357 2023",
    "cena_rsd": 1500.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21982-deuric-morava",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -823,6 +1558,7 @@
    "artikul": "10102015 2021",
    "cena_rsd": 1305.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19853-dibonis-dimerlot",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -832,6 +1568,7 @@
    "artikul": "10102935 2022",
    "cena_rsd": 1635.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24404-dika-crna-dana",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -841,6 +1578,7 @@
    "artikul": "10102867 2022",
    "cena_rsd": 1635.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24058-dika-merlot",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -850,6 +1588,7 @@
    "artikul": "10101514 2022",
    "cena_rsd": 1260.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21493-dika-sauvignon-blanc",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -859,6 +1598,7 @@
    "artikul": "10101683 2025",
    "cena_rsd": 3650.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26101-dragojlovic-rogoz-grasac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -868,6 +1608,7 @@
    "artikul": "10102717 2021",
    "cena_rsd": 1650.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19212-durdjic-bermet-black-knight",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -877,6 +1618,7 @@
    "artikul": "10101576 2024",
    "cena_rsd": 1260.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24383-fenecka-tamjanika",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -886,6 +1628,7 @@
    "artikul": "10102806 2021",
    "cena_rsd": 1840.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25256-fenecki-cabernet-sauvignon",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -895,6 +1638,7 @@
    "artikul": "10102805 2021",
    "cena_rsd": 1365.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24384-fenecki-merlot",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -904,6 +1648,7 @@
    "artikul": "10102779 2025",
    "cena_rsd": 2200.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26738-fleur-d-oranger-frankovka",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -913,6 +1658,7 @@
    "artikul": "10102779 2020",
    "cena_rsd": 2200.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17158-fleur-d-oranger-frankovka",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -922,6 +1668,7 @@
    "artikul": "10101378 2021",
    "cena_rsd": 3630.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23411-fleur-d-oranger-muscat-krokan",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -931,6 +1678,7 @@
    "artikul": "10101379 2019",
    "cena_rsd": 1750.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/15171-fleur-d-oranger-rajnski-rizling",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -940,6 +1688,7 @@
    "artikul": "10101618 2024",
    "cena_rsd": 2790.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24173-frunza-aglaja-bagrina",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -949,6 +1698,7 @@
    "artikul": "10101319 2023",
    "cena_rsd": 2045.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24208-imperator-claudivs-klod",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -958,6 +1708,7 @@
    "artikul": "10102255 2018",
    "cena_rsd": 3070.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/18497-imperator-qvintillvs",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -967,6 +1718,7 @@
    "artikul": "10101650 2023",
    "cena_rsd": 1630.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24714-intuicija",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -976,6 +1728,7 @@
    "artikul": "10101698 2023",
    "cena_rsd": 3140.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26502-jokic-posip-vis",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -985,6 +1738,7 @@
    "artikul": "10101474 2023",
    "cena_rsd": 1800.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24343-jovac-tamnjanika",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -994,6 +1748,7 @@
    "artikul": "10102795 2021",
    "cena_rsd": 2785.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21475-jovic-dionizije",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1003,6 +1758,7 @@
    "artikul": "10101194 2022",
    "cena_rsd": 1095.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25366-jovic-riesling",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1012,6 +1768,7 @@
    "artikul": "10101602 2019",
    "cena_rsd": 1365.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23732-jovic-rizling-potrkanjski",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1021,6 +1778,7 @@
    "artikul": "10102060 2010",
    "cena_rsd": 955.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/755-jovic-visnjica",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1030,6 +1788,7 @@
    "artikul": "10101489 2023",
    "cena_rsd": 1455.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22909-kepul-beli-burgundac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1039,6 +1798,7 @@
    "artikul": "10101703 2025",
    "cena_rsd": 1470.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26631-knezevic-321-cuvee",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1048,6 +1808,7 @@
    "artikul": "10101704 2025",
    "cena_rsd": 1770.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26633-knezevic-grasac",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1057,6 +1818,7 @@
    "artikul": "10102887 2017",
    "cena_rsd": 11510.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22436-kovacevic-cabernet-sauvignon-edicija-r",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1066,6 +1828,7 @@
    "artikul": "10104004 2022",
    "cena_rsd": 2610.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26149-kovacevic-penusavac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1075,6 +1838,7 @@
    "artikul": "10104004 2011",
    "cena_rsd": 2610.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16578-kovacevic-penusavac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1084,6 +1848,7 @@
    "artikul": "10104034 2012",
    "cena_rsd": 3480.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26748-kovacevic-penusavac-r",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1093,6 +1858,7 @@
    "artikul": "10101507 2023",
    "cena_rsd": 1845.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25518-kraljevski-sauvignon-blanc",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1102,6 +1868,7 @@
    "artikul": "10101645 2022",
    "cena_rsd": 1450.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24441-krstasica-konekcija-sauvignon-blanc",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1111,6 +1878,7 @@
    "artikul": "10101617 2019",
    "cena_rsd": 5215.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24067-lakicevic-slobodanka-ice-wine",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1120,6 +1888,7 @@
    "artikul": "10101497 Non-Vintage",
    "cena_rsd": 8800.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20974-larmandier-bernier-champagne-latitude",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1129,6 +1898,7 @@
    "artikul": "10101498 Non-Vintage",
    "cena_rsd": 9960.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20975-larmandier-bernier-champagne-longitude",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1138,6 +1908,7 @@
    "artikul": "10101499 2017",
    "cena_rsd": 14700.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23252-larmandier-bernier-champagne-terre-de-vertus",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1147,6 +1918,7 @@
    "artikul": "10102939 2021",
    "cena_rsd": 1775.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24577-malca-anonymous-frankovka-bariq",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1156,6 +1928,7 @@
    "artikul": "10101648 2020",
    "cena_rsd": 1775.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24585-malca-anonymous-smederevka-bariq",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1165,6 +1938,7 @@
    "artikul": "10102208 2020",
    "cena_rsd": 3570.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25956-malca-konstantin-veliki",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1174,6 +1948,7 @@
    "artikul": "10101674 2024",
    "cena_rsd": 1625.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25715-marko-dualismo-tamjanika",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1183,6 +1958,7 @@
    "artikul": "10103143 2024",
    "cena_rsd": 1355.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25717-marko-rose",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1192,6 +1968,7 @@
    "artikul": "10102895 2020",
    "cena_rsd": 2560.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22806-maurer-aladin",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1201,6 +1978,7 @@
    "artikul": "10101695 2025",
    "cena_rsd": 1640.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26556-maurer-crazy-lud-white",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1210,6 +1988,7 @@
    "artikul": "10101695 2024",
    "cena_rsd": 1640.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26406-maurer-crazy-lud-white",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1219,6 +1998,7 @@
    "artikul": "10101642 2025",
    "cena_rsd": 1220.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25979-milosavljevic-vila-vina-tamjanika",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1228,6 +2008,7 @@
    "artikul": "10102873 2020",
    "cena_rsd": 3200.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21876-mitrovic-imperijum",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1237,6 +2018,7 @@
    "artikul": "10101519 2021",
    "cena_rsd": 2000.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21872-mitrovic-monogram",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1246,6 +2028,7 @@
    "artikul": "10102872 2021",
    "cena_rsd": 2130.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21874-mitrovic-simfonija",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1255,6 +2038,7 @@
    "artikul": "10102924 2023",
    "cena_rsd": 1970.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23905-moja-vinarija-cuvee",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1264,6 +2048,7 @@
    "artikul": "10101608 2023",
    "cena_rsd": 2085.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23907-moja-vinarija-tamjanika",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1273,6 +2058,7 @@
    "artikul": "10102720 2018",
    "cena_rsd": 1700.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/14695-novak-cabernet-sauvignon",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1282,6 +2068,7 @@
    "artikul": "10102760 Non-Vintage",
    "cena_rsd": 3495.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/16670-paraf-cabernet-sauvignon",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1291,6 +2078,7 @@
    "artikul": "10101268 2020",
    "cena_rsd": 1290.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/17050-patkov-knez-miskin",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1300,6 +2088,7 @@
    "artikul": "10101267 2017",
    "cena_rsd": 1220.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/11381-patkov-majstor-i-margarita",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1309,6 +2098,7 @@
    "artikul": "10101654 2023",
    "cena_rsd": 1365.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24794-pearl-petnat",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1318,6 +2108,7 @@
    "artikul": "10102973 2021",
    "cena_rsd": 5455.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26229-pirg-cabernet-sauvignon",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1327,6 +2118,7 @@
    "artikul": "10102972 2021",
    "cena_rsd": 4100.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26227-pirg-merlo",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1336,6 +2128,7 @@
    "artikul": "10101579 2023",
    "cena_rsd": 2280.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25127-pirg-sauvignon-barrique",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1345,6 +2138,7 @@
    "artikul": "10101208 2023",
    "cena_rsd": 2400.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24202-radovan-tamjanika-100",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1354,6 +2148,7 @@
    "artikul": "10101550 2023",
    "cena_rsd": 1440.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23157-radovanovic-pinot-sivi",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1363,6 +2158,7 @@
    "artikul": "10102767 2019",
    "cena_rsd": 8135.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19717-radovanovic-reserve-magnum",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1372,6 +2168,7 @@
    "artikul": "10101179 2025",
    "cena_rsd": 1375.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25578-radovanovic-riesling-rajnski",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1381,6 +2178,7 @@
    "artikul": "10102951 2023",
    "cena_rsd": 4100.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25030-rajkovic-prokupac-nobile",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1390,6 +2188,7 @@
    "artikul": "10101577 2024",
    "cena_rsd": 4100.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25296-rajkovic-tamjanika-nobile",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1399,6 +2198,7 @@
    "artikul": "10101561 2021",
    "cena_rsd": 3485.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26756-sagmeister-furmint-kew",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1408,6 +2208,7 @@
    "artikul": "10101561 2020",
    "cena_rsd": 3485.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23628-sagmeister-furmint-kew",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1417,6 +2218,7 @@
    "artikul": "10102403 2019",
    "cena_rsd": 1815.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/20056-sapat-pi-crveno",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1426,6 +2228,7 @@
    "artikul": "10101318 2019",
    "cena_rsd": 3625.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/19181-spasic-azdaja",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1435,6 +2238,7 @@
    "artikul": "10102946 2021",
    "cena_rsd": 5050.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24733-spasic-rskavac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1444,6 +2248,7 @@
    "artikul": "10102945 2021",
    "cena_rsd": 5050.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24731-spasic-zupan",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1453,6 +2258,7 @@
    "artikul": "10101270 2023",
    "cena_rsd": 1625.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24203-stojanovic-krokan",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1462,6 +2268,7 @@
    "artikul": "10102614 2020",
    "cena_rsd": 2710.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24204-stojanovic-peharnik",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1471,6 +2278,7 @@
    "artikul": "10102055 2022",
    "cena_rsd": 3385.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25364-suveren",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1480,6 +2288,7 @@
    "artikul": "10104010 2023",
    "cena_rsd": 3410.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24056-the-brut-penusavo",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1489,6 +2298,7 @@
    "artikul": "10101663 2023",
    "cena_rsd": 2720.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24997-the-morava-penusavo",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1498,6 +2308,7 @@
    "artikul": "10101590 2023",
    "cena_rsd": 1295.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23538-tomic-igra-650-tamjanika-pinot-grigio",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1507,6 +2318,7 @@
    "artikul": "10102916 2023",
    "cena_rsd": 1295.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23542-tomic-lame-pinot-noir",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1516,6 +2328,7 @@
    "artikul": "10101591 2023",
    "cena_rsd": 1295.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23540-tomic-tete-chardonnay",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1525,6 +2338,7 @@
    "artikul": "10104032 2023",
    "cena_rsd": 1620.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26828-tonkovic-campanella-penusavo",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1534,6 +2348,7 @@
    "artikul": "10104032 2022",
    "cena_rsd": 1845.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26484-tonkovic-campanella-penusavo",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1543,6 +2358,7 @@
    "artikul": "10102866 2022",
    "cena_rsd": 1700.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25564-trasko-fabulos-cabernet-franc",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1552,6 +2368,7 @@
    "artikul": "10102865 2022",
    "cena_rsd": 1700.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25922-trasko-fabulos-cabernet-sauvignon",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1561,6 +2378,7 @@
    "artikul": "10101655 2023",
    "cena_rsd": 1365.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26222-treasure-petnat",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1570,6 +2388,7 @@
    "artikul": "10101442 2025",
    "cena_rsd": 1815.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26557-vencac-legat-1903-muscat",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1579,6 +2398,7 @@
    "artikul": "10101442 2024",
    "cena_rsd": 1815.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24968-vencac-legat-1903-muscat",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1588,6 +2408,7 @@
    "artikul": "10101442 2023",
    "cena_rsd": 1815.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21942-vencac-legat-1903-muscat",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1597,6 +2418,7 @@
    "artikul": "10102938 2023",
    "cena_rsd": 2310.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25373-vencac-legat-1903-pinot-noir",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1606,6 +2428,7 @@
    "artikul": "10101462 2022",
    "cena_rsd": 2950.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21478-vencac-legat-chardonnay",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1615,6 +2438,7 @@
    "artikul": "10101463 2022",
    "cena_rsd": 2725.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/22027-vencac-legat-viognier",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1624,6 +2448,7 @@
    "artikul": "10101505 2023",
    "cena_rsd": 1670.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25872-veritas-grasac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1633,6 +2458,7 @@
    "artikul": "10101505 2022",
    "cena_rsd": 1670.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/21392-veritas-grasac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1642,6 +2468,7 @@
    "artikul": "10102949 2023",
    "cena_rsd": 1560.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25925-verkat-fran-frankova",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1651,6 +2478,7 @@
    "artikul": "10102949 2022",
    "cena_rsd": 1560.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/24790-verkat-fran-frankova",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1660,6 +2488,7 @@
    "artikul": "10101584 2024",
    "cena_rsd": 1395.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23087-verus-biser-beli",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1669,6 +2498,7 @@
    "artikul": "10102909 2025",
    "cena_rsd": 1395.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25433-verus-biser-crni",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1678,6 +2508,7 @@
    "artikul": "10102910 2023",
    "cena_rsd": 1395.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/23097-verus-portugizer",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1687,6 +2518,7 @@
    "artikul": "10101699 2025",
    "cena_rsd": 1535.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26535-vinarium-traminac",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1696,6 +2528,7 @@
    "artikul": "10103120 2025",
    "cena_rsd": 1495.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26430-vincic-pet-nat-pinot-noir",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1705,6 +2538,7 @@
    "artikul": "10105016 2020",
    "cena_rsd": 4335.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/26562-vukoje-malvasia-dubrovacka-teroir",
+   "magazin": "vinoteka",
    "pochemu": "хозяйства нет в наших таблицах"
   },
   {
@@ -1714,6 +2548,7 @@
    "artikul": "10101669 2024",
    "cena_rsd": 1865.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25486-zir-sauvignon-blanc",
+   "magazin": "vinoteka",
    "pochemu": "дом есть, вина нет"
   },
   {
@@ -1723,6 +2558,271 @@
    "artikul": "10102729 2021",
    "cena_rsd": 1730.0,
    "stranica": "https://www.vinotekabeograd.com/vina-iz-srbije/25357-zmajevac-crna-tamjanika",
+   "magazin": "vinoteka",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "916",
+   "vino": "Galerija Merlot Podrum Vukoje",
+   "hozyaistvo": "Podrum Vukoje",
+   "artikul": "a",
+   "kategorii": [],
+   "cena_rsd": 1220.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "nomer": "252",
+   "vino": "Radovanović Roze",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0961",
+   "kategorii": [],
+   "cena_rsd": 1240.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "320",
+   "vino": "Zvonko Bogdan 4 Konja Debela",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "9541",
+   "kategorii": [],
+   "cena_rsd": 1290.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "160",
+   "vino": "Jelić Kameničanka",
+   "hozyaistvo": "Milijan Jelić",
+   "artikul": "5359",
+   "kategorii": [],
+   "cena_rsd": 1350.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "509",
+   "vino": "Bora Šarl Chardonnay",
+   "hozyaistvo": "Vinarija Bora",
+   "artikul": "15903",
+   "kategorii": [],
+   "cena_rsd": 1450.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "249",
+   "vino": "Radovanović Cabernet Classique Sauvignon",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0953",
+   "kategorii": [],
+   "cena_rsd": 1600.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "321",
+   "vino": "Zvonko Bogdan Sauvignon Blanc",
+   "hozyaistvo": "Quinta do Crasto",
+   "artikul": "0188",
+   "kategorii": [],
+   "cena_rsd": 1650.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "nomer": "96",
+   "vino": "Cilić Morava",
+   "hozyaistvo": "Cilić",
+   "artikul": "13705",
+   "kategorii": [],
+   "cena_rsd": 1720.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "65",
+   "vino": "Budimir Projekat iks",
+   "hozyaistvo": "Budimir",
+   "artikul": "1563",
+   "kategorii": [],
+   "cena_rsd": 1800.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "66",
+   "vino": "Budimir Prokupac Lila",
+   "hozyaistvo": "Budimir",
+   "artikul": "8776",
+   "kategorii": [],
+   "cena_rsd": 2150.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "917",
+   "vino": "Vranac Vukoje Reserva Podrum Vukoje",
+   "hozyaistvo": "Podrum Vukoje",
+   "artikul": "a1",
+   "kategorii": [],
+   "cena_rsd": 3020.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "nomer": "1123",
+   "vino": "Fransola Sauvignon Blanc Torres",
+   "hozyaistvo": "Torres",
+   "artikul": "6790",
+   "kategorii": [],
+   "cena_rsd": 3150.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "nomer": "298",
+   "vino": "Tri Oraha",
+   "hozyaistvo": "Tri oraha",
+   "artikul": "9051",
+   "kategorii": [],
+   "cena_rsd": 3500.0,
+   "stranica": "",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "1127",
+   "vino": "Aleksić Bonaca 187ml",
+   "hozyaistvo": "Aleksić",
+   "artikul": "15559",
+   "kategorii": [],
+   "cena_rsd": 180.0,
+   "stranica": "https://winestars.rs/product/aleksic-bonaca-187ml/1127/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "210",
+   "vino": "Matalj Tamjanika",
+   "hozyaistvo": "Matalj",
+   "artikul": "53",
+   "kategorii": [],
+   "cena_rsd": 1440.0,
+   "stranica": "https://winestars.rs/product/matalj-tamjanika/210/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "508",
+   "vino": "Bora Edit Rose",
+   "hozyaistvo": "Vinarija Bora",
+   "artikul": "15902",
+   "kategorii": [],
+   "cena_rsd": 1450.0,
+   "stranica": "https://winestars.rs/product/bora-edit-rose/508/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "162",
+   "vino": "Jelić Morava",
+   "hozyaistvo": "Milijan Jelić",
+   "artikul": "0310",
+   "kategorii": [],
+   "cena_rsd": 1810.0,
+   "stranica": "https://winestars.rs/product/jelic-morava/162/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "247",
+   "vino": "Radovanović Cabernet Franc",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "1454",
+   "kategorii": [],
+   "cena_rsd": 1970.0,
+   "stranica": "https://winestars.rs/product/radovanovic-cabernet-franc/247/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "161",
+   "vino": "Jelić MIllenium",
+   "hozyaistvo": "Milijan Jelić",
+   "artikul": "0314",
+   "kategorii": [],
+   "cena_rsd": 2050.0,
+   "stranica": "https://winestars.rs/product/jelic-millenium/161/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "17",
+   "vino": "Aleksandrović Noir Penušavo",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0162",
+   "kategorii": [],
+   "cena_rsd": 2070.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-noir-penusavo/17/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "690",
+   "vino": "Kovačević Penušac",
+   "hozyaistvo": "Kovačević",
+   "artikul": "16258",
+   "kategorii": [],
+   "cena_rsd": 2630.0,
+   "stranica": "https://winestars.rs/product/kovacevic-penusac/690/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "1068",
+   "vino": "Legat 1903 Chardonnay",
+   "hozyaistvo": "Vinarija Legat 1903",
+   "artikul": "16265",
+   "kategorii": [],
+   "cena_rsd": 2980.0,
+   "stranica": "https://winestars.rs/product/legat-1903-chardonnay/1068/",
+   "magazin": "winestars",
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "nomer": "98",
+   "vino": "Cilić Onyx Crveno",
+   "hozyaistvo": "Cilić",
+   "artikul": "4566",
+   "kategorii": [],
+   "cena_rsd": 2990.0,
+   "stranica": "https://winestars.rs/product/cilic-onyx-crveno/98/",
+   "magazin": "winestars",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "nomer": "549",
+   "vino": "Chichateau ChiChardonnay",
+   "hozyaistvo": "Chichateau",
+   "artikul": "13783",
+   "kategorii": [],
+   "cena_rsd": 3200.0,
+   "stranica": "https://winestars.rs/product/chichateau-chichardonnay/549/",
+   "magazin": "winestars",
    "pochemu": "дом есть, вина нет"
   }
  ]

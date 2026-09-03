@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Свести цены магазина с нашей таблицей вин.
+"""Свести цены магазинов с нашей таблицей вин.
 
-Цены лежат в `vinoteka-ceny.json` сырьём, как их печатает магазин. Свод
+Цены лежат сырьём, как их печатает каждый магазин: `vinoteka-ceny.json`,
+`winestars-ceny.json`. Одного магазина мало — это его ассортимент, а не
+сербская полка, — поэтому источников несколько, а у вина остаётся
+и средняя цена, и разброс между магазинами. Свод
 вынесен отдельно нарочно: он неточен, и его неточность надо видеть,
 а не прятать внутри сборщика.
 
@@ -14,7 +17,7 @@ Novela Sauvignon Blanc», «Janko Mesečina» — «Mesečina Penušavo Belo».
 
 Пишет `ceny-vin.json`: ключ вина → цена, и отдельно список несведённого.
 """
-import importlib.util, json, pathlib, re, sys, collections
+import importlib.util, json, pathlib, re, statistics, sys, collections
 
 ZDES = pathlib.Path(__file__).resolve().parent
 
@@ -58,7 +61,18 @@ def slova(st, imya):
 
 def main():
     st = tablicy()
-    syroe = json.loads((ZDES / "vinoteka-ceny.json").read_text(encoding="utf-8"))
+    MAGAZINY = [("vinoteka", "vinoteka-ceny.json"),
+                ("winestars", "winestars-ceny.json")]
+    syroe = {"vina": [], "istochnik": [], "sobrano": ""}
+    for imya, fajl in MAGAZINY:
+        put = ZDES / fajl
+        if not put.exists():
+            continue
+        d = json.loads(put.read_text(encoding="utf-8"))
+        for z in d["vina"]:
+            syroe["vina"].append({**z, "magazin": imya})
+        syroe["istochnik"].append(d["istochnik"])
+        syroe["sobrano"] = max(syroe["sobrano"], d["sobrano"])
     vina = [json.loads(s) for s in (ZDES / "vina.jsonl").read_text(encoding="utf-8").splitlines() if s.strip()]
 
     # Наши вина, разложенные по дому: имя в словах → ключ.
@@ -84,7 +98,8 @@ def main():
                 return nachalo
         return ""
 
-    cena, spor, netu = {}, [], []
+    po_magazinam = collections.defaultdict(dict)   # ключ вина → магазин → цена
+    spor, netu = [], []
     schet = collections.Counter()
     iz_imeni = 0          # считается отдельно: это не исход, а способ
     for z in syroe["vina"]:
@@ -101,7 +116,7 @@ def main():
         klyuch = st.klyuch_vina(z["hozyaistvo"], imya)
         if klyuch in nashi:
             schet["ключ сошёлся точно"] += 1
-            cena.setdefault(klyuch, z["cena_rsd"])
+            po_magazinam[klyuch][z["magazin"]] = z["cena_rsd"]
             continue
         hoz = st.klyuch_hozyaistva(z["hozyaistvo"])
         if hoz not in po_domu:
@@ -116,7 +131,7 @@ def main():
                     if nash[:len(bez_doma)] == bez_doma or bez_doma[:len(nash)] == nash]
         if len(podoshli) == 1:
             schet["сошлось по началу имени"] += 1
-            cena.setdefault(podoshli[0], z["cena_rsd"])
+            po_magazinam[podoshli[0]][z["magazin"]] = z["cena_rsd"]
         elif podoshli:
             schet["подходит несколько — не ставим"] += 1
             spor.append({**z, "kandidaty": podoshli})
@@ -124,12 +139,21 @@ def main():
             schet["такого вина у нас нет"] += 1
             netu.append({**z, "pochemu": "дом есть, вина нет"})
 
+    # Цена вина — середина по магазинам. Разброс сохраняется рядом:
+    # одна и та же бутылка стоит в двух лавках по-разному, и делать вид,
+    # что цена одна, нельзя.
+    cena = {k: round(statistics.median(v.values()))
+            for k, v in po_magazinam.items()}
+    razbros = {k: v for k, v in po_magazinam.items() if len(v) > 1}
     (ZDES / "ceny-vin.json").write_text(json.dumps({
-        "chto_eto": "Ключ вина → розничная цена в динарах. Свод имён магазина "
-                    "с нашими; неточности перечислены рядом.",
+        "chto_eto": "Ключ вина → розничная цена в динарах, середина по "
+                    "магазинам. Свод имён магазинов с нашими; неточности "
+                    "и разброс цен перечислены рядом.",
         "istochnik": syroe["istochnik"],
         "sobrano": syroe["sobrano"],
+        "magazinov_u_vina": {k: len(v) for k, v in po_magazinam.items()},
         "ceny": cena,
+        "po_magazinam": razbros,
         "podhodit_neskolko": spor,
         "ne_nashlos": netu,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -140,6 +164,10 @@ def main():
     print("   (из них дом взят из имени вина: %d)" % iz_imeni)
     print("\nцена проставлена %d нашим винам из %d → ceny-vin.json"
           % (len(cena), len(vina)))
+    if razbros:
+        raznica = [max(v.values()) / min(v.values()) for v in razbros.values()]
+        print("в двух магазинах сразу: %d вин, крайняя разница цен %.0f%%"
+              % (len(razbros), (max(raznica) - 1) * 100))
 
 
 if __name__ == "__main__":

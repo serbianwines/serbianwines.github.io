@@ -1,0 +1,1024 @@
+{
+ "chto_eto": "Цены сербских вин у «Wine Stars». Розничная, в динарах, на день сбора. Второй ценовой источник рядом с Винотекой Београд.",
+ "istochnik": "https://winestars.rs/category/vina/56/1/srbija",
+ "sobrano": "2026-09-03",
+ "vina": [
+  {
+   "nomer": "114",
+   "vino": "Doja Chardonnay & Pinot Grigio",
+   "hozyaistvo": "Doja",
+   "artikul": "1789",
+   "kategorii": [],
+   "cena_rsd": 1100.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "511",
+   "vino": "Todorović Sauvignon Blanc",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "13835",
+   "kategorii": [],
+   "cena_rsd": 1100.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "275",
+   "vino": "Spasić Tamjanika",
+   "hozyaistvo": "Spasić",
+   "artikul": "0087",
+   "kategorii": [],
+   "cena_rsd": 1170.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "916",
+   "vino": "Galerija Merlot Podrum Vukoje",
+   "hozyaistvo": "Podrum Vukoje",
+   "artikul": "a",
+   "kategorii": [],
+   "cena_rsd": 1220.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "110",
+   "vino": "Deurić Chardonnay Classic",
+   "hozyaistvo": "Deurić",
+   "artikul": "965",
+   "kategorii": [],
+   "cena_rsd": 1230.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "502",
+   "vino": "Todorović Chardonnay",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "15608",
+   "kategorii": [],
+   "cena_rsd": 1230.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "252",
+   "vino": "Radovanović Roze",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0961",
+   "kategorii": [],
+   "cena_rsd": 1240.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "253",
+   "vino": "Radovanović Sauvignon Blanc",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0958",
+   "kategorii": [],
+   "cena_rsd": 1250.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "282",
+   "vino": "Temet Tri Morave Rose",
+   "hozyaistvo": "Temet",
+   "artikul": "3565",
+   "kategorii": [],
+   "cena_rsd": 1270.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "320",
+   "vino": "Zvonko Bogdan 4 Konja Debela",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "9541",
+   "kategorii": [],
+   "cena_rsd": 1290.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "1128",
+   "vino": "Aleksić Prokupac",
+   "hozyaistvo": "Aleksić",
+   "artikul": "17422",
+   "kategorii": [],
+   "cena_rsd": 1300.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "503",
+   "vino": "Todorović Merlot",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "13787",
+   "kategorii": [],
+   "cena_rsd": 1330.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "93",
+   "vino": "Cilić Onyx Rose",
+   "hozyaistvo": "Cilić",
+   "artikul": "13544",
+   "kategorii": [],
+   "cena_rsd": 1350.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "115",
+   "vino": "Doja Prokupac",
+   "hozyaistvo": "Doja",
+   "artikul": "4496",
+   "kategorii": [],
+   "cena_rsd": 1350.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "126",
+   "vino": "Erdevik Bella Novela",
+   "hozyaistvo": "Erdevik",
+   "artikul": "1233",
+   "kategorii": [],
+   "cena_rsd": 1350.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "160",
+   "vino": "Jelić Kameničanka",
+   "hozyaistvo": "Milijan Jelić",
+   "artikul": "5359",
+   "kategorii": [],
+   "cena_rsd": 1350.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "90",
+   "vino": "Chichateau Pink Punk",
+   "hozyaistvo": "Chichateau",
+   "artikul": "16547",
+   "kategorii": [],
+   "cena_rsd": 1390.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "128",
+   "vino": "Erdevik Roza Nostra",
+   "hozyaistvo": "Erdevik",
+   "artikul": "4419",
+   "kategorii": [],
+   "cena_rsd": 1420.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "998",
+   "vino": "100 Žena Monsieur Merlot",
+   "hozyaistvo": "100 Žena",
+   "artikul": "17230",
+   "kategorii": [],
+   "cena_rsd": 1440.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "94",
+   "vino": "Cilić Cabernet Sauvignon & Merlot",
+   "hozyaistvo": "Cilić",
+   "artikul": "0104",
+   "kategorii": [],
+   "cena_rsd": 1450.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "95",
+   "vino": "Cilić Fume Blanc",
+   "hozyaistvo": "Cilić",
+   "artikul": "0107",
+   "kategorii": [],
+   "cena_rsd": 1450.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "509",
+   "vino": "Bora Šarl Chardonnay",
+   "hozyaistvo": "Vinarija Bora",
+   "artikul": "15903",
+   "kategorii": [],
+   "cena_rsd": 1450.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "322",
+   "vino": "Zvonko Bogdan Život Teče",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "0190",
+   "kategorii": [],
+   "cena_rsd": 1460.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "11",
+   "vino": "Aleksandrović Trijumf Roze",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0157",
+   "kategorii": [],
+   "cena_rsd": 1500.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "211",
+   "vino": "Matalj Terasa Chardonnay",
+   "hozyaistvo": "Matalj",
+   "artikul": "13699",
+   "kategorii": [],
+   "cena_rsd": 1510.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "171",
+   "vino": "Kovačević Chardonnay",
+   "hozyaistvo": "Kovačević",
+   "artikul": "0454",
+   "kategorii": [],
+   "cena_rsd": 1530.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "1121",
+   "vino": "Allegro Kadarka Vinarija Tonković",
+   "hozyaistvo": "Vinarija Tonković",
+   "artikul": "3353",
+   "kategorii": [],
+   "cena_rsd": 1590.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "70",
+   "vino": "Budimir Tamjanika Župska",
+   "hozyaistvo": "Budimir",
+   "artikul": "0073",
+   "kategorii": [],
+   "cena_rsd": 1600.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "249",
+   "vino": "Radovanović Cabernet Classique Sauvignon",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0953",
+   "kategorii": [],
+   "cena_rsd": 1600.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "250",
+   "vino": "Radovanović Chardonnay Classique",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0956",
+   "kategorii": [],
+   "cena_rsd": 1600.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "280",
+   "vino": "Temet Tri Morave crveno",
+   "hozyaistvo": "Temet",
+   "artikul": "5468",
+   "kategorii": [],
+   "cena_rsd": 1620.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "321",
+   "vino": "Zvonko Bogdan Sauvignon Blanc",
+   "hozyaistvo": "Quinta do Crasto",
+   "artikul": "0188",
+   "kategorii": [],
+   "cena_rsd": 1650.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "178",
+   "vino": "Lastar Tamjanika",
+   "hozyaistvo": "Lastar",
+   "artikul": "12531",
+   "kategorii": [],
+   "cena_rsd": 1650.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "170",
+   "vino": "Kovačević Aurelius",
+   "hozyaistvo": "Kovačević",
+   "artikul": "0430",
+   "kategorii": [],
+   "cena_rsd": 1680.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "319",
+   "vino": "Zvonko Bogdan Rose Sec",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "8321",
+   "kategorii": [],
+   "cena_rsd": 1700.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "96",
+   "vino": "Cilić Morava",
+   "hozyaistvo": "Cilić",
+   "artikul": "13705",
+   "kategorii": [],
+   "cena_rsd": 1720.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "4",
+   "vino": "Aleksandrović Harizma",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0151",
+   "kategorii": [],
+   "cena_rsd": 1780.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "5",
+   "vino": "Aleksandrović Prokupac",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "15621",
+   "kategorii": [],
+   "cena_rsd": 1780.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "514",
+   "vino": "Zmajevac Chardonnay",
+   "hozyaistvo": "Zmajevac",
+   "artikul": "13843",
+   "kategorii": [],
+   "cena_rsd": 1790.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "515",
+   "vino": "Zmajevac Tamjanika",
+   "hozyaistvo": "Zmajevac",
+   "artikul": "15439",
+   "kategorii": [],
+   "cena_rsd": 1790.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "177",
+   "vino": "Lastar Pinot Noir",
+   "hozyaistvo": "Lastar",
+   "artikul": "225",
+   "kategorii": [],
+   "cena_rsd": 1790.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "65",
+   "vino": "Budimir Projekat iks",
+   "hozyaistvo": "Budimir",
+   "artikul": "1563",
+   "kategorii": [],
+   "cena_rsd": 1800.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "208",
+   "vino": "Matalj Kremen",
+   "hozyaistvo": "Matalj",
+   "artikul": "0381",
+   "kategorii": [],
+   "cena_rsd": 1850.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "8",
+   "vino": "Aleksandrović Trijumf",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0150",
+   "kategorii": [],
+   "cena_rsd": 1920.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "157",
+   "vino": "Janko Crveni Zapis",
+   "hozyaistvo": "Podrum Janko",
+   "artikul": "212",
+   "kategorii": [],
+   "cena_rsd": 1920.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "513",
+   "vino": "Zvonko Bogdan Chardonnay",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "15991",
+   "kategorii": [],
+   "cena_rsd": 1930.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "925",
+   "vino": "Magis Probus Vineyards",
+   "hozyaistvo": "Probus Vineyards",
+   "artikul": "a9",
+   "kategorii": [],
+   "cena_rsd": 1950.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "545",
+   "vino": "Zvonko Bogdan Pinot Blanc",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "0189",
+   "kategorii": [],
+   "cena_rsd": 2050.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "273",
+   "vino": "SoviNoa",
+   "hozyaistvo": "Matijašević",
+   "artikul": "13597",
+   "kategorii": [],
+   "cena_rsd": 2130.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "66",
+   "vino": "Budimir Prokupac Lila",
+   "hozyaistvo": "Budimir",
+   "artikul": "8776",
+   "kategorii": [],
+   "cena_rsd": 2150.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "9",
+   "vino": "Aleksandrović Trijumf Gold",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "8981",
+   "kategorii": [],
+   "cena_rsd": 2210.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "645",
+   "vino": "Rose Pinot Noir Plavi Perun",
+   "hozyaistvo": "Plavi Perun",
+   "artikul": "16524",
+   "kategorii": [],
+   "cena_rsd": 2300.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "687",
+   "vino": "Kovačević Chardonnay Edicija S",
+   "hozyaistvo": "Kovačević",
+   "artikul": "15576",
+   "kategorii": [],
+   "cena_rsd": 2340.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "6",
+   "vino": "Aleksandrović Regent",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "70911",
+   "kategorii": [],
+   "cena_rsd": 2350.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "251",
+   "vino": "Radovanović Chardonnay Selekcija",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0957",
+   "kategorii": [],
+   "cena_rsd": 2400.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "646",
+   "vino": "Chardonnay Plavi Perun",
+   "hozyaistvo": "Plavi Perun",
+   "artikul": "16523",
+   "kategorii": [],
+   "cena_rsd": 2590.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "127",
+   "vino": "Erdevik Grand Trianon",
+   "hozyaistvo": "Erdevik",
+   "artikul": "6254",
+   "kategorii": [],
+   "cena_rsd": 2850.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "686",
+   "vino": "Kovačević Aurelius Edicija S",
+   "hozyaistvo": "Kovačević",
+   "artikul": "15570",
+   "kategorii": [],
+   "cena_rsd": 2920.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "917",
+   "vino": "Vranac Vukoje Reserva Podrum Vukoje",
+   "hozyaistvo": "Podrum Vukoje",
+   "artikul": "a1",
+   "kategorii": [],
+   "cena_rsd": 3020.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "550",
+   "vino": "Chichateau Fabula Lagum",
+   "hozyaistvo": "Chichateau",
+   "artikul": "13785",
+   "kategorii": [],
+   "cena_rsd": 3150.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "1123",
+   "vino": "Fransola Sauvignon Blanc Torres",
+   "hozyaistvo": "Torres",
+   "artikul": "6790",
+   "kategorii": [],
+   "cena_rsd": 3150.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "306",
+   "vino": "Vista Hill white reserve",
+   "hozyaistvo": "Vista Hill",
+   "artikul": "13606",
+   "kategorii": [],
+   "cena_rsd": 3250.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "801",
+   "vino": "Pinot Noir Plavi Perun",
+   "hozyaistvo": "Plavi Perun",
+   "artikul": "16743",
+   "kategorii": [],
+   "cena_rsd": 3300.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "298",
+   "vino": "Tri Oraha",
+   "hozyaistvo": "Tri oraha",
+   "artikul": "9051",
+   "kategorii": [],
+   "cena_rsd": 3500.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "277",
+   "vino": "Temet Ergo beli",
+   "hozyaistvo": "Temet",
+   "artikul": "8569",
+   "kategorii": [],
+   "cena_rsd": 3700.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "248",
+   "vino": "Radovanović Cabernet Sauvignon Reserva",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0955",
+   "kategorii": [],
+   "cena_rsd": 3790.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "278",
+   "vino": "Temet Ergo Crveni",
+   "hozyaistvo": "Temet",
+   "artikul": "1287",
+   "kategorii": [],
+   "cena_rsd": 4050.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "129",
+   "vino": "Erdevik Stifler'S Mom Shiraz",
+   "hozyaistvo": "Erdevik",
+   "artikul": "13632",
+   "kategorii": [],
+   "cena_rsd": 4500.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "506",
+   "vino": "Erdevik Marlon Delon",
+   "hozyaistvo": "Erdevik",
+   "artikul": "15734#",
+   "kategorii": [],
+   "cena_rsd": 4500.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "7",
+   "vino": "Aleksandrović Rodoslov",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0161",
+   "kategorii": [],
+   "cena_rsd": 5050.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "254",
+   "vino": "Rajkovic 33",
+   "hozyaistvo": "Podrum Rajković",
+   "artikul": "13607",
+   "kategorii": [],
+   "cena_rsd": 5200.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "37",
+   "vino": "Babaroga Bjelica",
+   "hozyaistvo": "Bjelica",
+   "artikul": "4756",
+   "kategorii": [],
+   "cena_rsd": 5530.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "209",
+   "vino": "Matalj Kremen Kamen",
+   "hozyaistvo": "Matalj",
+   "artikul": "266",
+   "kategorii": [],
+   "cena_rsd": 9670.0,
+   "stranica": ""
+  },
+  {
+   "nomer": "1127",
+   "vino": "Aleksić Bonaca 187ml",
+   "hozyaistvo": "Aleksić",
+   "artikul": "15559",
+   "kategorii": [],
+   "cena_rsd": 180.0,
+   "stranica": "https://winestars.rs/product/aleksic-bonaca-187ml/1127/"
+  },
+  {
+   "nomer": "18",
+   "vino": "Aleksić Sevdah",
+   "hozyaistvo": "Aleksić",
+   "artikul": "8423",
+   "kategorii": [],
+   "cena_rsd": 580.0,
+   "stranica": "https://winestars.rs/product/aleksic-sevdah/18/"
+  },
+  {
+   "nomer": "112",
+   "vino": "Do Kraja Sveta Aura",
+   "hozyaistvo": "Do kraja sveta",
+   "artikul": "0299",
+   "kategorii": [],
+   "cena_rsd": 830.0,
+   "stranica": "https://winestars.rs/product/do-kraja-sveta-aura/112/"
+  },
+  {
+   "nomer": "507",
+   "vino": "Erdevik Tri Roze Koze",
+   "hozyaistvo": "Erdevik",
+   "artikul": "84",
+   "kategorii": [],
+   "cena_rsd": 850.0,
+   "stranica": "https://winestars.rs/product/erdevik-tri-roze-koze/507/"
+  },
+  {
+   "nomer": "691",
+   "vino": "Kovačević Rosetto",
+   "hozyaistvo": "Kovačević",
+   "artikul": "16067",
+   "kategorii": [],
+   "cena_rsd": 1020.0,
+   "stranica": "https://winestars.rs/product/kovacevic-rosetto/691/"
+  },
+  {
+   "nomer": "504",
+   "vino": "Todorović Rose",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "15875",
+   "kategorii": [],
+   "cena_rsd": 1030.0,
+   "stranica": "https://winestars.rs/product/todorovic-rose/504/"
+  },
+  {
+   "nomer": "546",
+   "vino": "Radovanović Rizling Rajnski",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "0959",
+   "kategorii": [],
+   "cena_rsd": 1100.0,
+   "stranica": "https://winestars.rs/product/radovanovic-rizling-rajnski/546/"
+  },
+  {
+   "nomer": "688",
+   "vino": "Kovačević Cuvee Piquant",
+   "hozyaistvo": "Kovačević",
+   "artikul": "15629#",
+   "kategorii": [],
+   "cena_rsd": 1100.0,
+   "stranica": "https://winestars.rs/product/kovacevic-cuvee-piquant/688/"
+  },
+  {
+   "nomer": "689",
+   "vino": "Fresco Rose",
+   "hozyaistvo": "Kovačević",
+   "artikul": "16066",
+   "kategorii": [],
+   "cena_rsd": 1100.0,
+   "stranica": "https://winestars.rs/product/kovacevic-fresco-rose/689/"
+  },
+  {
+   "nomer": "111",
+   "vino": "Do Kraja Sveta Merlot",
+   "hozyaistvo": "Do kraja sveta",
+   "artikul": "12224",
+   "kategorii": [],
+   "cena_rsd": 1265.0,
+   "stranica": "https://winestars.rs/product/do-kraja-sveta-merlot/111/"
+  },
+  {
+   "nomer": "3",
+   "vino": "Aleksandrović Euforija",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0156",
+   "kategorii": [],
+   "cena_rsd": 1390.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-euforija/3/"
+  },
+  {
+   "nomer": "13",
+   "vino": "Aleksandrović Varijanta",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0155",
+   "kategorii": [],
+   "cena_rsd": 1390.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-varijanta/13/"
+  },
+  {
+   "nomer": "14",
+   "vino": "Aleksandrović Varijanta white",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "13859",
+   "kategorii": [],
+   "cena_rsd": 1390.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-varijanta-white/14/"
+  },
+  {
+   "nomer": "210",
+   "vino": "Matalj Tamjanika",
+   "hozyaistvo": "Matalj",
+   "artikul": "53",
+   "kategorii": [],
+   "cena_rsd": 1440.0,
+   "stranica": "https://winestars.rs/product/matalj-tamjanika/210/"
+  },
+  {
+   "nomer": "130",
+   "vino": "Erdevik Trianon",
+   "hozyaistvo": "Erdevik",
+   "artikul": "55455",
+   "kategorii": [],
+   "cena_rsd": 1450.0,
+   "stranica": "https://winestars.rs/product/erdevik-trianon/130/"
+  },
+  {
+   "nomer": "508",
+   "vino": "Bora Edit Rose",
+   "hozyaistvo": "Vinarija Bora",
+   "artikul": "15902",
+   "kategorii": [],
+   "cena_rsd": 1450.0,
+   "stranica": "https://winestars.rs/product/bora-edit-rose/508/"
+  },
+  {
+   "nomer": "274",
+   "vino": "Spasić Tamjanika Lekcija",
+   "hozyaistvo": "Spasić",
+   "artikul": "15451",
+   "kategorii": [],
+   "cena_rsd": 1460.0,
+   "stranica": "https://winestars.rs/product/spasic-tamjanika-lekcija/274/"
+  },
+  {
+   "nomer": "172",
+   "vino": "Kovačević Sauvignon",
+   "hozyaistvo": "Kovačević",
+   "artikul": "6647",
+   "kategorii": [],
+   "cena_rsd": 1460.0,
+   "stranica": "https://winestars.rs/product/kovacevic-sauvignon/172/"
+  },
+  {
+   "nomer": "512",
+   "vino": "Todorović Shiraz",
+   "hozyaistvo": "Vinarija Todorović",
+   "artikul": "13834",
+   "kategorii": [],
+   "cena_rsd": 1530.0,
+   "stranica": "https://winestars.rs/product/todorovic-merlot/512/"
+  },
+  {
+   "nomer": "317",
+   "vino": "Zvonko Bogdan 8 tamburasa",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "1450",
+   "kategorii": [],
+   "cena_rsd": 1550.0,
+   "stranica": "https://winestars.rs/product/zvonko-bogdan-8-tamburasa/317/"
+  },
+  {
+   "nomer": "52",
+   "vino": "Belo Brdo Alma Mons",
+   "hozyaistvo": "Belo Brdo",
+   "artikul": "1589",
+   "kategorii": [],
+   "cena_rsd": 1680.0,
+   "stranica": "https://winestars.rs/product/belo-brdo-alma-mons/52/"
+  },
+  {
+   "nomer": "159",
+   "vino": "Janko Zavet",
+   "hozyaistvo": "Podrum Janko",
+   "artikul": "0083",
+   "kategorii": [],
+   "cena_rsd": 1720.0,
+   "stranica": "https://winestars.rs/product/janko-zavet/159/"
+  },
+  {
+   "nomer": "176",
+   "vino": "Lastar Chardonnay",
+   "hozyaistvo": "Lastar",
+   "artikul": "7778",
+   "kategorii": [],
+   "cena_rsd": 1720.0,
+   "stranica": "https://winestars.rs/product/lastar-chardonnay/176/"
+  },
+  {
+   "nomer": "15",
+   "vino": "Aleksandrović Vizija",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0159",
+   "kategorii": [],
+   "cena_rsd": 1780.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-vizija/15/"
+  },
+  {
+   "nomer": "162",
+   "vino": "Jelić Morava",
+   "hozyaistvo": "Milijan Jelić",
+   "artikul": "0310",
+   "kategorii": [],
+   "cena_rsd": 1810.0,
+   "stranica": "https://winestars.rs/product/jelic-morava/162/"
+  },
+  {
+   "nomer": "247",
+   "vino": "Radovanović Cabernet Franc",
+   "hozyaistvo": "Podrum Radovanović",
+   "artikul": "1454",
+   "kategorii": [],
+   "cena_rsd": 1970.0,
+   "stranica": "https://winestars.rs/product/radovanovic-cabernet-franc/247/"
+  },
+  {
+   "nomer": "161",
+   "vino": "Jelić MIllenium",
+   "hozyaistvo": "Milijan Jelić",
+   "artikul": "0314",
+   "kategorii": [],
+   "cena_rsd": 2050.0,
+   "stranica": "https://winestars.rs/product/jelic-millenium/161/"
+  },
+  {
+   "nomer": "16",
+   "vino": "Aleksandrović Chardonnay Penušavo",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "13695",
+   "kategorii": [],
+   "cena_rsd": 2070.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-chardonnay-penusavo/16/"
+  },
+  {
+   "nomer": "17",
+   "vino": "Aleksandrović Noir Penušavo",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "0162",
+   "kategorii": [],
+   "cena_rsd": 2070.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-noir-penusavo/17/"
+  },
+  {
+   "nomer": "692",
+   "vino": "Kovačević Sauvignon Edicija S",
+   "hozyaistvo": "Kovačević",
+   "artikul": "16065",
+   "kategorii": [],
+   "cena_rsd": 2190.0,
+   "stranica": "https://winestars.rs/product/kovacevic-sauvignon-edicija-s/692/"
+  },
+  {
+   "nomer": "12",
+   "vino": "Aleksandrović Trijumf Terroir",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "13688",
+   "kategorii": [],
+   "cena_rsd": 2350.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-trijumf-terroir/12/"
+  },
+  {
+   "nomer": "690",
+   "vino": "Kovačević Penušac",
+   "hozyaistvo": "Kovačević",
+   "artikul": "16258",
+   "kategorii": [],
+   "cena_rsd": 2630.0,
+   "stranica": "https://winestars.rs/product/kovacevic-penusac/690/"
+  },
+  {
+   "nomer": "315",
+   "vino": "Zmajevac Cuvee",
+   "hozyaistvo": "Zmajevac",
+   "artikul": "13845",
+   "kategorii": [],
+   "cena_rsd": 2800.0,
+   "stranica": "https://winestars.rs/product/zmajevac-cuvee/315/"
+  },
+  {
+   "nomer": "318",
+   "vino": "Zvonko Bogdan Cuvee No1",
+   "hozyaistvo": "Zvonko Bogdan",
+   "artikul": "7498",
+   "kategorii": [],
+   "cena_rsd": 2800.0,
+   "stranica": "https://winestars.rs/product/zvonko-bogdan-cuvee-no1/318/"
+  },
+  {
+   "nomer": "1068",
+   "vino": "Legat 1903 Chardonnay",
+   "hozyaistvo": "Vinarija Legat 1903",
+   "artikul": "16265",
+   "kategorii": [],
+   "cena_rsd": 2980.0,
+   "stranica": "https://winestars.rs/product/legat-1903-chardonnay/1068/"
+  },
+  {
+   "nomer": "98",
+   "vino": "Cilić Onyx Crveno",
+   "hozyaistvo": "Cilić",
+   "artikul": "4566",
+   "kategorii": [],
+   "cena_rsd": 2990.0,
+   "stranica": "https://winestars.rs/product/cilic-onyx-crveno/98/"
+  },
+  {
+   "nomer": "549",
+   "vino": "Chichateau ChiChardonnay",
+   "hozyaistvo": "Chichateau",
+   "artikul": "13783",
+   "kategorii": [],
+   "cena_rsd": 3200.0,
+   "stranica": "https://winestars.rs/product/chichateau-chichardonnay/549/"
+  },
+  {
+   "nomer": "97",
+   "vino": "Cilić Onyx Belo",
+   "hozyaistvo": "Cilić",
+   "artikul": "555",
+   "kategorii": [],
+   "cena_rsd": 4250.0,
+   "stranica": "https://winestars.rs/product/cilic-onyx-belo/97/"
+  },
+  {
+   "nomer": "116",
+   "vino": "Doja Prokupac Breg",
+   "hozyaistvo": "Doja",
+   "artikul": "3532",
+   "kategorii": [],
+   "cena_rsd": 4470.0,
+   "stranica": "https://winestars.rs/product/doja-prokupac-breg/116/"
+  },
+  {
+   "nomer": "1126",
+   "vino": "Aleksandrović Vožd",
+   "hozyaistvo": "Aleksandrović",
+   "artikul": "13589",
+   "kategorii": [],
+   "cena_rsd": 8520.0,
+   "stranica": "https://winestars.rs/product/aleksandrovic-vozd/1126/"
+  }
+ ]
+}

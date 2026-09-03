@@ -75,9 +75,9 @@ Vivino в стобалльную, когда балла критика не бы
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 | — |
 | Deurić · La Rem Chardonnay | 97 | — | 21 | 4090 |
 | Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 | 4900 |
-| Matalj · Kremen Kamen | 97 | — | 37 | 12500 |
+| Matalj · Kremen Kamen | 97 | — | 37 | 11085 |
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
-| Vinčić · Grašac | 97 | 4.3 | 34 | 17385 |
+| Vinčić · Grašac | 97 | 4.3 | 34 | 4900 |
 | Arsenijević · Kaberne | 96 | — | 5 | — |
 | Bikicki · Uncensored | 96 | 4.0 | 36 | 2970 |
 | Ivanović · Prokupac Gaga | 96 | — | — | — |
@@ -88,7 +88,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 | — |
-| Matalj · Kremen Kamen | 97 | — | 37 | 12500 |
+| Matalj · Kremen Kamen | 97 | — | 37 | 11085 |
 | Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
 | Arsenijević · Kaberne | 96 | — | 5 | — |
 | Aleksandrović · Regent Reserve | 95 | 4.2 | 57 | 2335 |
@@ -99,7 +99,7 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|---|
 | Deurić · La Rem Chardonnay | 97 | — | 21 | 4090 |
 | Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 | 4900 |
-| Vinčić · Grašac | 97 | 4.3 | 34 | 17385 |
+| Vinčić · Grašac | 97 | 4.3 | 34 | 4900 |
 | Bikicki · Uncensored | 96 | 4.0 | 36 | 2970 |
 | La Gora · Aria | 96 | — | 5 | — |
 
@@ -108,7 +108,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
 | Budimir · Svb Rosa | 94 | 4.2 | — | 4820 |
-| Zvonko Bogdan · Rosé Sec | 92 | 4.0 | 18 | 1680 |
+| Zvonko Bogdan · Rosé Sec | 92 | 4.0 | 18 | 1690 |
 | Doja · Rose | 91 | 3.5 | 5 | — |
 | Verkat · Roze | 91 | 3.9 | 8 | — |
 | Vinska Kuća Rajić · Rosé | 91 | — | 9 | — |
@@ -132,47 +132,47 @@ Vivino в стобалльную, когда балла критика не бы
 
 ## Лучше, чем за них просят
 
-Здесь не «дёшево и хорошо», а «дороже своей цены». Цена переводится в ожидаемый балл, и вино оценивается превышением над ожиданием. Ожидание плоское: удвоение цены обещает всего 1.0 балла, связь слабая (коэффициент 0.27 по 228 винам, разброс остатка 2.8 балла). Это и есть главный вывод: **в Сербии цена почти не предсказывает качество**, и покупать по ценнику здесь бессмысленнее, чем где-либо.
+Здесь не «дёшево и хорошо», а «дороже своей цены». Цена переводится в ожидаемый балл, и вино оценивается превышением над ожиданием. Ожидание плоское: удвоение цены обещает всего 0.9 балла, связь слабая (коэффициент 0.25 по 243 винам, разброс остатка 2.8 балла). Это и есть главный вывод: **в Сербии цена почти не предсказывает качество**, и покупать по ценнику здесь бессмысленнее, чем где-либо.
 
 | Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|---|
-| Deurić · La Rem Chardonnay | +5.9 | 97 | — | 21 | 4090 |
-| Erdevik · Omnibus Lector Chardonnay | +5.6 | 97 | 4.3 | 66 | 4900 |
-| Virtus · Morava | +5.5 | 95 | 3.9 | 12 | 1300 |
-| Bikicki · Uncensored | +5.3 | 96 | 4.0 | 36 | 2970 |
-| Doja · Prokupac | +5.3 | 95 | 3.9 | 70 | 1500 |
-| Vinum · Grašac Beli | +5.2 | 95 | 3.9 | 41 | 1630 |
-| Matalj · Cuvée Bukovski | +4.9 | 95 | 4.0 | 42 | 2045 |
-| Zvonko Bogdan · Chardonnay | +4.8 | 95 | 4.0 | 54 | 2100 |
-| Matijašević Vinogradi · SoviNoa | +4.8 | 95 | — | 15 | 2115 |
-| La Gora · Bello | +4.7 | 95 | — | 19 | 2235 |
+| Deurić · La Rem Chardonnay | +6.0 | 97 | — | 21 | 4090 |
+| Erdevik · Omnibus Lector Chardonnay | +5.7 | 97 | 4.3 | 66 | 4900 |
+| Vinčić · Grašac | +5.7 | 97 | 4.3 | 34 | 4900 |
+| Virtus · Morava | +5.4 | 95 | 3.9 | 12 | 1300 |
+| Bikicki · Uncensored | +5.4 | 96 | 4.0 | 36 | 2970 |
+| Doja · Prokupac | +5.3 | 95 | 3.9 | 70 | 1425 |
+| Vinum · Grašac Beli | +5.1 | 95 | 3.9 | 41 | 1630 |
+| Zvonko Bogdan · Chardonnay | +4.9 | 95 | 4.0 | 54 | 2015 |
+| Matalj · Cuvée Bukovski | +4.8 | 95 | 4.0 | 42 | 2045 |
+| Matijašević Vinogradi · SoviNoa | +4.8 | 95 | — | 15 | 2122 |
 
 Хвост того же ряда — вино, которое просит больше, чем даёт:
 
 | Вино | Сверх ожидания | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|---|
-| Fruškogorski · Tri Sunca Traminac Kasna Berba | -8.7 | 84 | — | 2 | 13005 |
+| Fruškogorski · Tri Sunca Traminac Kasna Berba | -8.5 | 84 | — | 2 | 13005 |
 | Lakićević · Upupa | -8.3 | 82 | — | 4 | 2320 |
-| Arsenijević · Starosedelac | -6.9 | 83 | — | 1 | 1750 |
-| Lakićević · Solaris | -6.7 | 84 | 4.2 | 5 | 3000 |
-| Deurić · Princeps Merlot | -6.4 | 85 | — | 2 | 4975 |
+| Arsenijević · Starosedelac | -7.0 | 83 | — | 1 | 1750 |
+| Lakićević · Solaris | -6.6 | 84 | 4.2 | 5 | 3000 |
+| Deurić · Princeps Merlot | -6.3 | 85 | — | 2 | 4975 |
 
 ## Если в кармане 2000 динаров
 
-Другой вопрос и другой ответ: не «что выгодно», а «что взять сегодня». Цена известна у 228 отобранных вин, медиана 2050 динаров.
+Другой вопрос и другой ответ: не «что выгодно», а «что взять сегодня». Цена известна у 243 отобранных вин, медиана 2045 динаров.
 
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
-| Doja · Prokupac | 95 | 3.9 | 70 | 1500 |
+| Doja · Prokupac | 95 | 3.9 | 70 | 1425 |
 | Vinum · Grašac Beli | 95 | 3.9 | 41 | 1630 |
 | Virtus · Morava | 95 | 3.9 | 12 | 1300 |
-| Erdevik · Trianon | 94 | 4.1 | 12 | 1910 |
+| Erdevik · Trianon | 94 | 4.1 | 12 | 1680 |
 | Ivanović · Prokupac | 94 | 3.9 | 32 | 1640 |
 | Jović · Vranac Potrkanjski | 94 | — | 19 | 1635 |
 | Verkat · Malvazija | 94 | 3.8 | 16 | 1700 |
+| Eden · Velvet | 93 | 4.0 | 6 | 1470 |
 | Matijašević Vinogradi · Belina | 93 | 3.9 | 30 | 1480 |
 | Molovin · Inat Frankovka | 93 | 3.9 | 5 | 1785 |
-| Radovan · Experiment Prokupac | 93 | 3.9 | 18 | 1700 |
 
 ## То же, по мнению покупателей
 
@@ -180,14 +180,14 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
-| Aleksandrović · Prokupac | 92 | 4.2 | 17 | 1770 |
+| Aleksandrović · Prokupac | 92 | 4.2 | 17 | 1775 |
 | Draganić · Silueta Sauvignon Blanc | — | 4.2 | — | 1750 |
+| Lastar · Tamjanika | 90 | 4.2 | 21 | 1650 |
 | MV Vinarija · Tamjanika | — | 4.2 | 2 | 1730 |
 | Manastir Bukovo · Filigran Cabernet Sauvignon | 90 | 4.2 | 9 | 1910 |
 | Manastir Bukovo · Filigran Merlot | 87 | 4.2 | 4 | 1500 |
+| Vinarija 100 Žena · Monsieur Merlot Premium | — | 4.2 | — | 1440 |
 | Vinarija DeLena · 70/30 Sauvignon Blanc - Sémillon | 90 | 4.2 | — | 1775 |
-| Yotta · Cabernet Sauvignon | — | 4.2 | — | 1900 |
-| Aleksić · Žuti Cvet | 87 | 4.1 | 8 | 1230 |
 | Bikicki · Sfera Noir | 92 | 4.1 | — | 1850 |
 | Chichateau · Fabula Mala | — | 4.1 | — | 1890 |
 

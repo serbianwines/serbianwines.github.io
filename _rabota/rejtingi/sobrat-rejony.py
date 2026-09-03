@@ -835,6 +835,14 @@ def main():
     # входит, и без этого хозяйство осталось бы вне всех глав.
     region_po_klyuchu = {klyuch_hozyaistva(k): v["region"]
                          for k, v in karta.items() if v.get("region")}
+    # Виногорје, снятое руками. Машина выводит его из общины, а община
+    # бывает шире виногорја: Мокрин — насеље општине Кикинда, но в перечень
+    # кадастровых општина Кикиндског виногорја не входит, там их четыре —
+    # Иђош, Кикинда, Наково, Ново Милошево. Рејон по општини поставить
+    # можно, виногорје по ней — нет. Поле называет причину, а не просто
+    # гасит вывод: пустое поле и «известно, что не оно» — разные вещи.
+    net_vinogorja = {klyuch_hozyaistva(k) for k, v in karta.items()
+                     if v.get("vinogorje_net")}
     imya_po_klyuchu = {}
     for s in open(put("hozyaistva.jsonl"), encoding="utf-8"):
         if s.strip():
@@ -969,6 +977,8 @@ def main():
                                         "виногорје %s — не из этого рејона" % vinogorje) if x)
                 vinogorje = None
         elif vinogorje and not rejon:
+            vinogorje = None
+        if k in net_vinogorja:
             vinogorje = None
 
         # Рејона может не быть, а регион при этом известен: «Banat» —

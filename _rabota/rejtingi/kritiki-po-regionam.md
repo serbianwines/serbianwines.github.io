@@ -161,15 +161,15 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1180, с оценкой критиков — 1063, **с обеими — 346**.
+Вин с оценкой Vivino — 1179, с оценкой критиков — 1062, **с обеими — 347**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
-| Фрушка гора | 233 | 215 | 83 |
+| Фрушка гора | 216 | 215 | 84 |
 | Суботичско-Хоргошская пешчара | 76 | 29 | 17 |
-| Банат | 47 | 22 | 12 |
-| Шумадия | 104 | 106 | 40 |
-| Три Моравы и Жупа | 152 | 102 | 42 |
+| Банат | 48 | 26 | 13 |
+| Шумадия | 104 | 110 | 40 |
+| Три Моравы и Жупа | 154 | 104 | 42 |
 | Неготинска Крайина | 42 | 41 | 16 |
 | Топлица | 22 | 21 | 11 |
 | Юго-восток | 31 | 48 | 13 |
@@ -188,13 +188,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Chichateau · Chi Chardonnay | 2018 | 95 | Falstaff |
 | Veritas Ćuković · Momentum Cabernet Sauvignon | 2017 | 95 | decanter |
 | Erdevik · Stifler's Mom Shiraz | 2017 | 95 | decanter |
-| Šapat · Atila Chardonnay | 2022 | 95 | decanter |
+| Atelje vina Šapat · Atila Chardonnay | 2022 | 95 | decanter |
 | Erdevik · Omnibus Lector Chardonnay | 2019 | 95 | decanter |
 | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot | 2017 | 95 | decanter |
 | Veritas Ćuković · Momentum | 2017 | 95 | decanter |
 | Vinčić · Grasac | 2020 | 95 | biwc |
 | Vinum · Grasac beli | 2019 | 95 | biwc |
-| Šapat · Atila Chardonnay | 2023 | 95 | biwc |
+| Atelje vina Šapat · Atila Chardonnay | 2023 | 95 | biwc |
 | Vinčić · Grand V | 2023 | 95 | biwc |
 | Molovin · Vista Hill Red Reserve | 2010 | 94 | decanter |
 | Erdevik · Trianon | 2018 | 94 | decanter |
@@ -203,14 +203,14 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Erdevik · Omnibus Lector Chardonnay | 2019 | 94 | decanter |
 | Deurić · La Rem Chardonnay | 2023 | 94 | decanter |
 | Erdevik · Stiflers Mom Shiraz | 2020 | 94 | decanter |
-| Šapat · Cuvée | 2022 | 94 | decanter |
+| Atelje vina Šapat · Cuvée | 2022 | 94 | decanter |
 | Vinum · Grašac 26A | 2021 | 94 | biwc |
 | Vinum · Grasac 26a | 2019 | 94 | biwc |
 | Vinum · Chardonnay | 2021 | 94 | biwc |
 | Vinum · Chardonnay | 2019 | 94 | biwc |
 | Verkat · Malvazija | 2023 | 94 | biwc |
 | Vinčić · Grand Fru | 2020 | 94 | biwc |
-| Šapat · Atila Plavi | 2024 | 94 | biwc |
+| Atelje vina Šapat · Atila Plavi | 2024 | 94 | biwc |
 | Vinum · Grašac 26a | 2019 | 93 | Falstaff |
 | Erdevik · Grand Trianon | 2017 | 93 | Falstaff |
 | Molovin · Inat Frankovka | 2019 | 93 | Falstaff |
@@ -219,7 +219,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Veritas Ćuković · Momentum Cabernet Sauvignon | 2017 | 93 | decanter |
 | Deurić · Severna Morava | 2020 | 93 | decanter |
 | Deurić · Severna Morava | 2021 | 93 | decanter |
-| Šapat · Reserve Cabernet Sauvignon | 2020 | 93 | decanter |
+| Atelje vina Šapat · Reserve Cabernet Sauvignon | 2020 | 93 | decanter |
 | Erdevik · Stiflers Mom Shiraz | 2019 | 93 | decanter |
 | Deurić · Aksiom Crveni | 2019 | 93 | decanter |
 | Deurić · Aksiom | 2021 | 93 | decanter |
@@ -228,7 +228,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Belo Brdo · Marselan | 2013 | 93 | awc-vienna |
 | Deurić · Aksiom Beli | 2019 | 92 | Falstaff |
 | Erdevik · Grand Trianon Deux Mers | 2016 | 92 | Falstaff |
-| Bikicki · Sfera Noir (натуральное) | 2021 | 92 | Falstaff |
+| Bikicki · Sfera Noir | 2021 | 92 | Falstaff |
 | Deurić · The Brut | 2018 | 92 | Falstaff |
 | Vinum · Bermet Crveni | 2023 | 92 | awc-vienna |
 | Deurić · Princeps Brut Nature | 2015 | 92 | decanter |
@@ -238,11 +238,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Erdevik · Omnibus Lector Chardonnay | 2021 | 92 | decanter |
 | Chichateau · Chi Chardonnay | 2024 | 92 | decanter |
 | Chichateau · Fabula Lagum | 2021 | 92 | decanter |
-| Šapat · Atila Cabernet Sauvignon | 2023 | 92 | decanter |
+| Atelje vina Šapat · Atila Cabernet Sauvignon | 2023 | 92 | decanter |
 | Deurić · Aksiom | 2022 | 92 | decanter |
 | Trivanović · Ultimo S | 2020 | 92 | decanter |
 | Kovačević · R Edition Brut | 2012 | 92 | decanter |
-| Vinarija Šijački · Superćelijski Grašac | 2023 | 92 | biwc |
+| Šijački · Superćelijski Grašac | 2023 | 92 | biwc |
 | Trivanović · Reserve Shiraz | 2018 | 92 | awc-vienna |
 | Belo Brdo · Cabernet Franc Black Label Limited Edition | 2018 | 92 | awc-vienna |
 | Belo Brdo · Cabernet Franc Black Label | 2017 | 92 | awc-vienna |
@@ -256,7 +256,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Verkat · Malvazija Barrique | 2021 | 91 | decanter |
 | Verkat · Grašac Beli 4.0 | 2021 | 91 | decanter |
 | Veritas Ćuković · Momentum | 2021 | 91 | decanter |
-| Šapat · Bianca Moscato Giallo | 2023 | 91 | decanter |
+| Atelje vina Šapat · Bianca Moscato Giallo | 2023 | 91 | decanter |
 | Chichateau · Blake Sauvignon Blanc | 2023 | 91 | decanter |
 | Deurić · La Rem Morava Amf | 2023 | 91 | decanter |
 | Erdevik · Ex Cathedra Sauvignon Blanc | 2021 | 91 | decanter |
@@ -295,30 +295,30 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Erdevik · Stifles Mom | 2017 | 90 | decanter |
 | Deurić · Aksiom Beli | 2019 | 90 | decanter |
 | Erdevik · Marlon Delon | 2017 | 90 | decanter |
-| Šapat · Magnus | 2020 | 90 | decanter |
+| Atelje vina Šapat · Magnus | 2020 | 90 | decanter |
 | Veritas Ćuković · Monte Karlovci Merlot | 2021 | 90 | decanter |
 | Veritas Ćuković · ćUk | 2021 | 90 | decanter |
 | Erdevik · Ex Cathedra Sauvignon Blanc | 2021 | 90 | decanter |
-| Šapat · šU-šU Blaufrankisch | 2022 | 90 | decanter |
+| Atelje vina Šapat · šU-šU Blaufrankisch | 2022 | 90 | decanter |
 | Deurić · Severna Morava | 2023 | 90 | decanter |
 | Vinčić · Grand Fru | 2023 | 90 | decanter |
 | Deurić · Gorska Tamjanika | 2024 | 90 | decanter |
 | Chichateau · Fabula Lagum Cabernet Sauvignon-Cabernet Franc-Merlot | 2019 | 90 | decanter |
 | Deurić · Aksiom | 2019 | 90 | decanter |
 | Erdevik · Grand Trianon | 2020 | 90 | decanter |
-| Šapat · Terol Teroldego | 2022 | 90 | decanter |
+| Atelje vina Šapat · Terol Teroldego | 2022 | 90 | decanter |
 | Veritas Ćuković · Monte Karlovci | 2022 | 90 | decanter |
-| Šapat · Nera | 2023 | 90 | decanter |
+| Atelje vina Šapat · Nera | 2023 | 90 | decanter |
 | Veritas Ćuković · Momentum Mali | 2023 | 90 | decanter |
 | Kovačević · Chardonnay | 2025 | 90 | decanter |
 | Erdevik · Stifler's Mom Shiraz | 2020 | 90 | decanter |
 | Veritas Ćuković · Bela Harmonija | 2021 | 90 | biwc |
 | Verkat · Malvazija | 2022 | 90 | biwc |
-| Vinarija Djurdjic · Grasac | 2022 | 90 | biwc |
-| Vinarija Šijački · Seduša | 2022 | 90 | biwc |
+| Đurđić · Grasac | 2022 | 90 | biwc |
+| Šijački · Seduša | 2022 | 90 | biwc |
 | Trivanović · Ultimo S | 2020 | 90 | biwc |
 | Trivanović · Toca | 2018 | 90 | biwc |
-| Šapat · Cuvee | 2023 | 90 | biwc |
+| Atelje vina Šapat · Cuvee | 2023 | 90 | biwc |
 | Vinum · Grašac 26a | 2022 | 90 | awc-vienna |
 | Vinum · Grašac 26a | 2021 | 90 | awc-vienna |
 | Trivanović · PINOT GRIGIO | 2023 | 90 | awc-vienna |
@@ -350,15 +350,15 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Bikicki · Uncensored | 2017 | 89 | decanter |
 | Belo Brdo · Black Label Limited Edition Chardonnay | 2020 | 89 | decanter |
 | Erdevik · Grand Trianon | 2016 | 89 | decanter |
-| Šapat · Atila Chardonnay | 2023 | 89 | decanter |
-| Šapat · Chardonnay | 2023 | 89 | decanter |
+| Atelje vina Šapat · Atila Chardonnay | 2023 | 89 | decanter |
+| Atelje vina Šapat · Chardonnay | 2023 | 89 | decanter |
 | Deurić · Pinot Noir | 2018 | 89 | decanter |
 | Erdevik · Omnibus Lector Chardonnay | 2021 | 89 | decanter |
-| Šapat · Atila Cabernet Sauvignon | 2022 | 89 | decanter |
+| Atelje vina Šapat · Atila Cabernet Sauvignon | 2022 | 89 | decanter |
 | Deurić · Sauvignon Blanc | 2024 | 89 | decanter |
 | Veritas Ćuković · Ćuk | 2021 | 89 | decanter |
-| Šapat · Atila Cabernet Sauvignon | 2022 | 89 | decanter |
-| Šapat · Cuvée | 2023 | 89 | decanter |
+| Atelje vina Šapat · Atila Cabernet Sauvignon | 2022 | 89 | decanter |
+| Atelje vina Šapat · Cuvée | 2023 | 89 | decanter |
 | Erdevik · Grand Trianon | 2019 | 89 | decanter |
 | Molovin · Inat Traminac | 2021 | 89 | biwc |
 | Veritas Ćuković · Momentum Mali | 2020 | 89 | biwc |
@@ -371,12 +371,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Vinum · white | 2023 | 89 | biwc |
 | Vinum · Frankovka | 2022 | 89 | biwc |
 | Vinum · Mustra | 2023 | 89 | biwc |
-| Vinarija Djurdjic · Probus | 2020 | 89 | biwc |
+| Đurđić · Probus | 2020 | 89 | biwc |
 | Kiš · Verus GT | 2023 | 89 | biwc |
 | Kiš · Kisov Grasac beli | 2024 | 89 | biwc |
 | Kiš · Verus GT | 2024 | 89 | biwc |
-| Šapat · Atila Cabernet sauvignon | 2023 | 89 | biwc |
-| Šapat · Atila Sauvignon blanc | 2024 | 89 | biwc |
+| Atelje vina Šapat · Atila Cabernet sauvignon | 2023 | 89 | biwc |
+| Atelje vina Šapat · Atila Sauvignon blanc | 2024 | 89 | biwc |
 | Vinum · Grašac 26a | 2023 | 89 | awc-vienna |
 | Trivanović · Reserve Shiraz | 2020 | 89 | awc-vienna |
 | Trivanović · Reserve Cabernet Sauvignon | 2017 | 89 | awc-vienna |
@@ -407,7 +407,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Erdevik · Trianon Merlot-Cabernet Sauvignon-Syrah | 2015 | 88 | decanter |
 | Kovačević · R Edition Aurelius | 2012 | 88 | decanter |
 | Kiš · Misterija Kišova | 2011 | 88 | decanter |
-| Vinarija Djurdjic · Cabernet Franc | 2017 | 88 | decanter |
+| Đurđić · Cabernet Franc | 2017 | 88 | decanter |
 | Erdevik · Roza Nostra | 2019 | 88 | decanter |
 | Kiš · Kišov Grašac Beli | 2019 | 88 | decanter |
 | Deurić · Sauvignon Blanc | 2018 | 88 | decanter |
@@ -424,9 +424,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Vinčić · Grand Fru | 2020 | 88 | decanter |
 | Deurić · The Brut | 2019 | 88 | decanter |
 | Deurić · Pinot Noir | 2020 | 88 | decanter |
-| Šapat · Chardonnay | 2022 | 88 | decanter |
+| Atelje vina Šapat · Chardonnay | 2022 | 88 | decanter |
 | Veritas Ćuković · Bela Harmonija | 2022 | 88 | decanter |
-| Vinarija Djurdjic · Grašac Beli | 2022 | 88 | decanter |
+| Đurđić · Grašac Beli | 2022 | 88 | decanter |
 | Erdevik · Trianon Pinot Blanc-Pinot Grigio-Sauvignon Blanc | 2023 | 88 | decanter |
 | Veritas Ćuković · Cuk Cuvée | 2021 | 88 | decanter |
 | Veritas Ćuković · Momentum | 2021 | 88 | decanter |
@@ -434,8 +434,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Bikicki · Skins | 2022 | 88 | decanter |
 | Deurić · Aksiom | 2021 | 88 | decanter |
 | Chichateau · Chardonnay | 2021 | 88 | decanter |
-| Šapat · Atila Chardonnay | 2024 | 88 | decanter |
-| Šapat · Chardonnay | 2024 | 88 | decanter |
+| Atelje vina Šapat · Atila Chardonnay | 2024 | 88 | decanter |
+| Atelje vina Šapat · Chardonnay | 2024 | 88 | decanter |
 | Verkat · Grašac Beli | 2024 | 88 | decanter |
 | Deurić · Pinot Noir | 2021 | 88 | decanter |
 | Deurić · Probus 276 | 2023 | 88 | decanter |
@@ -445,7 +445,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | The Sparkling Winery · The Extra Brut | 2023 | 88 | decanter |
 | Vinum · Grasac 26a | 2022 | 88 | biwc |
 | Kiš · Biser Bermet crveni | 2024 | 88 | biwc |
-| Šapat · Chardonnay | 2023 | 88 | biwc |
+| Atelje vina Šapat · Chardonnay | 2023 | 88 | biwc |
 | Vinčić · Grand Fru | 2023 | 88 | biwc |
 | Kiš · Kisov Bermet | 2025 | 88 | biwc |
 | Kiš · Kisov Grasac beli | 2025 | 88 | biwc |
@@ -467,7 +467,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Trivanović · OPTIMUS | 2019 | 88 | awc-vienna |
 | Trivanović · SHIRAZ | 2018 | 88 | awc-vienna |
 | Belo Brdo · Decade | 2018 | 88 | awc-vienna |
-| Vinarija Djurdjic · Cabernet Franc | 2017 | 88 | awc-vienna |
+| Đurđić · Cabernet Franc | 2017 | 88 | awc-vienna |
 | Kovačević · Chardonnay | 2018 | 88 | awc-vienna |
 | Belo Brdo · Merlot Black label | 2017 | 88 | awc-vienna |
 | Kiš · Kišova Misterija Riesling | 2016 | 88 | awc-vienna |
@@ -501,7 +501,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Bikicki · S/O | 2020 | 87 | decanter |
 | Vinčić · Grand Fru | 2020 | 87 | decanter |
 | Erdevik · Geronimo | 2021 | 87 | decanter |
-| Šapat · Pi'Crveno Premium | 2019 | 87 | decanter |
+| Atelje vina Šapat · Pi'Crveno Premium | 2019 | 87 | decanter |
 | Bikicki · Cu | 2022 | 87 | decanter |
 | The Sparkling Winery · The Blanc de Noirs | 2023 | 87 | decanter |
 | Molovin · Inat Frankovka | 2020 | 87 | biwc |
@@ -510,10 +510,10 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Vinum · Grasac beli | 2018 | 87 | biwc |
 | Vinum · Dina | 2022 | 87 | biwc |
 | Kiš · Verus Chardonnay | 2023 | 87 | biwc |
-| Vinarija Šijački · Seduša | 2021 | 87 | biwc |
-| Šapat · Atila Caberne | 2022 | 87 | biwc |
+| Šijački · Seduša | 2021 | 87 | biwc |
+| Atelje vina Šapat · Atila Caberne | 2022 | 87 | biwc |
 | Trivanović · Optimus | 2024 | 87 | biwc |
-| Šapat · Atila Chardonnay | 2024 | 87 | biwc |
+| Atelje vina Šapat · Atila Chardonnay | 2024 | 87 | biwc |
 | Trivanović · OPTIMUS | 2023 | 87 | awc-vienna |
 | Verkat · Malvazija | 2022 | 87 | awc-vienna |
 | Veritas Ćuković · Bela Harmonija | 2021 | 87 | awc-vienna |
@@ -554,7 +554,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Trivanović · Reserve Shiraz | 2018 | 86 | biwc |
 | Vinum · Bermet Crveni | 2023 | 86 | biwc |
 | Verkat · Frankovka | 2022 | 86 | biwc |
-| Vinarija Djurdjic · Neoplanta | 2022 | 86 | biwc |
+| Đurđić · Neoplanta | 2022 | 86 | biwc |
 | Kiš · Verus Mister & Ja | 2023 | 86 | biwc |
 | Molovin · Inat Rajnski Rizling | 2021 | 86 | biwc |
 | Trivanović · OPTIMUS | 2023 | 86 | awc-vienna |
@@ -598,9 +598,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Mačkov podrum · Camerlot | 2021 | 85 | biwc |
 | Veritas Ćuković · Domina Rose | 2021 | 85 | biwc |
 | Kiš · Kisova Misterija, black label | 2024 | 85 | biwc |
-| Šapat · Šu-Šu | 2024 | 85 | biwc |
+| Atelje vina Šapat · Šu-Šu | 2024 | 85 | biwc |
 | Kiš · Misterija polusuva | 2025 | 85 | biwc |
-| Šapat · Bianca | 2025 | 85 | biwc |
+| Atelje vina Šapat · Bianca | 2025 | 85 | biwc |
 | Trivanović · ROSE | 2019 | 85 | awc-vienna |
 | Belo Brdo · Riesling Black Label | 2019 | 85 | awc-vienna |
 | Veritas Ćuković · Sauvignon Blanc | 2019 | 85 | awc-vienna |
@@ -621,7 +621,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Veritas Ćuković · Monte Karlovci | 2020 | 84 | biwc |
 | Vinčić · Vincic | 2017 | 84 | biwc |
 | Vinum · Mustra | 2022 | 84 | biwc |
-| Šapat · Nera | 2022 | 84 | biwc |
+| Atelje vina Šapat · Nera | 2022 | 84 | biwc |
 | Trivanović · Shiraz Limited | 2016 | 84 | awc-vienna |
 | Belo Brdo · Rosé | 2016 | 84 | awc-vienna |
 | Belo Brdo · Sauvignon Blanc | 2015 | 84 | awc-vienna |
@@ -631,31 +631,31 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Deurić · Chardonnay | 2015 | 83 | decanter |
 | Erdevik · Roza Nostra | 2015 | 83 | decanter |
 | Kovačević · S Edition Chardonnay | 2015 | 83 | decanter |
-| Vinarija Djurdjic · Simonida Mlada | — | 83 | biwc |
-| Vinarija Djurdjic · Cabernet Franc | 2021 | 83 | biwc |
+| Đurđić · Simonida Mlada | — | 83 | biwc |
+| Đurđić · Cabernet Franc | 2021 | 83 | biwc |
 | Kiš · Misterija Kišova | 2024 | 83 | biwc |
 | Kiš · Biser Bermet beli | 2024 | 83 | biwc |
 | Verkat · Grasac Beli | 2023 | 82 | biwc |
 | Kiš · Kišov Bermet Belo | 2024 | 82 | biwc |
 | Mačkov podrum · Sauvignon blanc | 2024 | 82 | biwc |
-| Šapat · Cuvee | 2022 | 82 | biwc |
+| Atelje vina Šapat · Cuvee | 2022 | 82 | biwc |
 | Trivanović · Trigio Blanc | 2024 | 82 | biwc |
-| Vinarija Djurdjic · Neoplanta | — | 81 | biwc |
+| Đurđić · Neoplanta | — | 81 | biwc |
 | Trivanović · Reserve Cabernet Sauvignon | 2017 | 81 | biwc |
 
 **Награды**
 
 | Год | Категория | Место | Кому |
 |---|---|---|---|
-| 2026 | бронза | bronza | Šapat · Atila Chardonnay 2024 | 
+| 2026 | бронза | bronza | Atelje vina Šapat · Atila Chardonnay 2024 | 
 | 2026 | бронза | bronza | Deurić · Sauvignon Blanc 2024 | 
-| 2026 | бронза | bronza | Šapat · Chardonnay 2024 | 
+| 2026 | бронза | bronza | Atelje vina Šapat · Chardonnay 2024 | 
 | 2026 | бронза | bronza | Verkat · Grašac Beli 2024 | 
 | 2026 | бронза | bronza | Veritas Ćuković · Ćuk 2021 | 
 | 2026 | бронза | bronza | Deurić · Pinot Noir 2021 | 
-| 2026 | бронза | bronza | Šapat · Atila Cabernet Sauvignon 2022 | 
+| 2026 | бронза | bronza | Atelje vina Šapat · Atila Cabernet Sauvignon 2022 | 
 | 2026 | бронза | bronza | Deurić · Probus 276 2023 | 
-| 2026 | бронза | bronza | Šapat · Cuvée 2023 | 
+| 2026 | бронза | bronza | Atelje vina Šapat · Cuvée 2023 | 
 | 2026 | бронза | bronza | Chichateau · Blake Sauvignon Blanc 2023 | 
 | 2026 | бронза | bronza | Erdevik · Grand Trianon 2019 | 
 | 2026 | бронза | bronza | Deurić · La Rem Morava Amf 2023 | 
@@ -663,16 +663,16 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2026 | бронза | bronza | The Sparkling Winery · The Extra Brut 2023 | 
 | 2026 | бронза | bronza | The Sparkling Winery · The Blanc de Noirs 2023 | 
 | 2026 | бронза | bronza | Trivanović · Trigio Blanc 2024 | 
-| 2026 | двойное золото | dvojno-zlato | Šapat · Atila Plavi 2024 | 
+| 2026 | двойное золото | dvojno-zlato | Atelje vina Šapat · Atila Plavi 2024 | 
 | 2026 | золото | zlato | Vinum · Grašac Beli 2025 | 
 | 2026 | золото | zlato | Vinum · Bermet Crveni 2023 | 
 | 2026 | золото | zlato | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 2017 | 
 | 2026 | золото | zlato | Veritas Ćuković · Momentum 2017 | 
 | 2026 | золото | zlato | Trivanović · Ultimo S 2020 | 
 | 2026 | золото | zlato | Trivanović · Toca 2018 | 
-| 2026 | золото | zlato | Šapat · Atila Cabernet sauvignon 2023 | 
-| 2026 | золото | zlato | Šapat · Cuvee 2023 | 
-| 2026 | золото | zlato | Šapat · Atila Sauvignon blanc 2024 | 
+| 2026 | золото | zlato | Atelje vina Šapat · Atila Cabernet sauvignon 2023 | 
+| 2026 | золото | zlato | Atelje vina Šapat · Cuvee 2023 | 
+| 2026 | золото | zlato | Atelje vina Šapat · Atila Sauvignon blanc 2024 | 
 | 2026 | одобрение | approval | Vinum · Grašac 26A 2023 | 
 | 2026 | платина | platina | Deurić · La Rem Chardonnay 2023 | 
 | 2026 | серебро | srebro | Vinum · Chardonnay 2022 | 
@@ -683,9 +683,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2026 | серебро | srebro | Deurić · Aksiom 2021 | 
 | 2026 | серебро | srebro | Chichateau · Fabula Lagum 2021 | 
 | 2026 | серебро | srebro | Veritas Ćuković · Monte Karlovci 2022 | 
-| 2026 | серебро | srebro | Šapat · Nera 2023 | 
+| 2026 | серебро | srebro | Atelje vina Šapat · Nera 2023 | 
 | 2026 | серебро | srebro | Veritas Ćuković · Momentum Mali 2023 | 
-| 2026 | серебро | srebro | Šapat · Atila Cabernet Sauvignon 2023 | 
+| 2026 | серебро | srebro | Atelje vina Šapat · Atila Cabernet Sauvignon 2023 | 
 | 2026 | серебро | srebro | Kovačević · Chardonnay 2025 | 
 | 2026 | серебро | srebro | Deurić · Aksiom 2022 | 
 | 2026 | серебро | srebro | Erdevik · Stifler's Mom Shiraz 2020 | 
@@ -697,12 +697,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2026 | серебро | srebro | Kiš · Misterija polusuva 2025 | 
 | 2026 | серебро | srebro | Kiš · Misterija 2025 | 
 | 2026 | серебро | srebro | Trivanović · Optimus 2024 | 
-| 2026 | серебро | srebro | Šapat · Bianca 2025 | 
-| 2026 | серебро | srebro | Šapat · Atila Chardonnay 2024 | 
-| 2025 | TROPHY DRY WHITE WINE | trofej | Šapat · Atila Chardonnay 2023 | 
+| 2026 | серебро | srebro | Atelje vina Šapat · Bianca 2025 | 
+| 2026 | серебро | srebro | Atelje vina Šapat · Atila Chardonnay 2024 | 
+| 2025 | TROPHY DRY WHITE WINE | trofej | Atelje vina Šapat · Atila Chardonnay 2023 | 
 | 2025 | бронза | bronza | Erdevik · Trianon Pinot Blanc-Pinot Grigio-Sauvignon Blanc 2023 | 
-| 2025 | бронза | bronza | Šapat · Atila Chardonnay 2023 | 
-| 2025 | бронза | bronza | Šapat · Chardonnay 2023 | 
+| 2025 | бронза | bronza | Atelje vina Šapat · Atila Chardonnay 2023 | 
+| 2025 | бронза | bronza | Atelje vina Šapat · Chardonnay 2023 | 
 | 2025 | бронза | bronza | Deurić · Pinot Noir 2018 | 
 | 2025 | бронза | bronza | Veritas Ćuković · Cuk Cuvée 2021 | 
 | 2025 | бронза | bronza | Veritas Ćuković · Momentum 2021 | 
@@ -710,26 +710,30 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | бронза | bronza | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 2020 | 
 | 2025 | бронза | bronza | Bikicki · Skins 2022 | 
 | 2025 | бронза | bronza | Bikicki · Cu 2022 | 
-| 2025 | бронза | bronza | Šapat · Atila Cabernet Sauvignon 2022 | 
+| 2025 | бронза | bronza | Atelje vina Šapat · Atila Cabernet Sauvignon 2022 | 
 | 2025 | бронза | bronza | Deurić · Aksiom 2021 | 
 | 2025 | бронза | bronza | Chichateau · Chardonnay 2021 | 
 | 2025 | бронза | bronza | Kiš · Kišov Bermet Belo 2024 | 
 | 2025 | бронза | bronza | Kiš · Misterija Kišova 2024 | 
 | 2025 | бронза | bronza | Mačkov podrum · Sauvignon blanc 2024 | 
 | 2025 | бронза | bronza | Kiš · Biser Bermet beli 2024 | 
-| 2025 | бронза | bronza | Šapat · Nera 2022 | 
-| 2025 | бронза | bronza | Šapat · Cuvee 2022 | 
-| 2025 | двойное золото | dvojno-zlato | Šapat · Atila Chardonnay 2023 | 
-| 2025 | двойное золото | dvojno-zlato | Šapat · Atila Chardonnay 2023 | 
+| 2025 | бронза | bronza | Atelje vina Šapat · Nera 2022 | 
+| 2025 | бронза | bronza | Atelje vina Šapat · Cuvee 2022 | 
+| 2025 | двойное золото | dvojno-zlato | Atelje vina Šapat · Atila Chardonnay 2023 | 
+| 2025 | двойное золото | dvojno-zlato | Atelje vina Šapat · Atila Chardonnay 2023 | 
 | 2025 | двойное золото | dvojno-zlato | Vinčić · Grand V 2023 | 
+| 2025 | за свои деньги, красное, международные сорта | 1 | Verkat · Frankovka 2023 | 
 | 2025 | золото | zlato | Erdevik · Omnibus Lector Chardonnay 2019 | 
 | 2025 | золото | zlato | Kiš · Kisov Grasac beli 2024 | 
-| 2025 | золото | zlato | Vinarija Šijački · Seduša 2022 | 
-| 2025 | золото | zlato | Vinarija Šijački · Superćelijski Grašac 2023 | 
+| 2025 | золото | zlato | Šijački · Seduša 2022 | 
+| 2025 | золото | zlato | Šijački · Superćelijski Grašac 2023 | 
 | 2025 | золото | zlato | Kiš · Verus GT 2024 | 
 | 2025 | золото | zlato | Vinum · Grašac 26a 2021 | 
 | 2025 | лучшее белое, местные сорта | 1 | Deurić · La Rem Morava 2023 | 
-| 2025 | лучшее красное, органика, международные сорта | 1 | Dukay-Sagmeister · Kew Kadarka 2022 | 
+| 2025 | лучшее игристое, классический метод | 1 | The Sparkling Winery · The 2023 | 
+| 2025 | лучшее игристое, предковый метод, органика | 1 | Bikicki · Victor 2024 | 
+| 2025 | лучшее креплёное | 1 | Kiš · Bermet Crveni 2023 | 
+| 2025 | лучший маркетинг | 1 | Deurić | 
 | 2025 | одобрение | approval | Trivanović · OPTIMUS 2023 | 
 | 2025 | серебро | srebro | Chichateau · Blake Sauvignon Blanc 2023 | 
 | 2025 | серебро | srebro | Deurić · La Rem Morava Amf 2023 | 
@@ -744,14 +748,14 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | серебро | srebro | Erdevik · Stiflers Mom Shiraz 2020 | 
 | 2025 | серебро | srebro | Vinčić · Grand Fru 2020 | 
 | 2025 | серебро | srebro | Bikicki · Uncensored 2022 | 
-| 2025 | серебро | srebro | Šapat · Cuvée 2022 | 
-| 2025 | серебро | srebro | Šapat · Terol Teroldego 2022 | 
+| 2025 | серебро | srebro | Atelje vina Šapat · Cuvée 2022 | 
+| 2025 | серебро | srebro | Atelje vina Šapat · Terol Teroldego 2022 | 
 | 2025 | серебро | srebro | Kiš · Kisova Misterija, black label 2024 | 
 | 2025 | серебро | srebro | Kiš · Biser Bermet crveni 2024 | 
-| 2025 | серебро | srebro | Vinarija Šijački · Seduša 2021 | 
-| 2025 | серебро | srebro | Šapat · Atila Caberne 2022 | 
-| 2025 | серебро | srebro | Šapat · Šu-Šu 2024 | 
-| 2025 | серебро | srebro | Šapat · Chardonnay 2023 | 
+| 2025 | серебро | srebro | Šijački · Seduša 2021 | 
+| 2025 | серебро | srebro | Atelje vina Šapat · Atila Caberne 2022 | 
+| 2025 | серебро | srebro | Atelje vina Šapat · Šu-Šu 2024 | 
+| 2025 | серебро | srebro | Atelje vina Šapat · Chardonnay 2023 | 
 | 2025 | серебро | srebro | Vinčić · Grand Fru 2023 | 
 | 2025 | серебро | srebro | Vinum · Grašac 26a 2023 | 
 | 2025 | серебро | srebro | Vinum · Grašac 26a 2022 | 
@@ -762,13 +766,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | бронза | bronza | Deurić · Pinot Noir 2020 | 
 | 2024 | бронза | bronza | Molovin · Inat Limited Edition Rajnski Rizling 2021 | 
 | 2024 | бронза | bronza | Erdevik · Geronimo 2021 | 
-| 2024 | бронза | bronza | Šapat · Chardonnay 2022 | 
+| 2024 | бронза | bronza | Atelje vina Šapat · Chardonnay 2022 | 
 | 2024 | бронза | bronza | Veritas Ćuković · Bela Harmonija 2022 | 
-| 2024 | бронза | bronza | Vinarija Djurdjic · Grašac Beli 2022 | 
-| 2024 | бронза | bronza | Šapat · Pi'Crveno Premium 2019 | 
+| 2024 | бронза | bronza | Đurđić · Grašac Beli 2022 | 
+| 2024 | бронза | bronza | Atelje vina Šapat · Pi'Crveno Premium 2019 | 
 | 2024 | бронза | bronza | Vinum · Mustra 2022 | 
 | 2024 | бронза | bronza | Verkat · Grasac Beli 2023 | 
-| 2024 | бронза | bronza | Vinarija Djurdjic · Cabernet Franc 2021 | 
+| 2024 | бронза | bronza | Đurđić · Cabernet Franc 2021 | 
 | 2024 | винодельня года | 1 | Kovačević | 
 | 2024 | двойное золото | dvojno-zlato | Vinum · Grasac beli 2019 | 
 | 2024 | двойное золото | dvojno-zlato | Vinum · Grasac 26a 2019 | 
@@ -776,7 +780,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | двойное золото | dvojno-zlato | Vinum · Chardonnay 2019 | 
 | 2024 | двойное золото | dvojno-zlato | Verkat · Malvazija 2023 | 
 | 2024 | двойное золото | dvojno-zlato | Vinčić · Grand Fru 2020 | 
-| 2024 | золото | zlato | Šapat · Atila Chardonnay 2022 | 
+| 2024 | за свои деньги, белое, местные сорта | 1 | Kiš · Grašac Beli 2023 | 
+| 2024 | золото | zlato | Atelje vina Šapat · Atila Chardonnay 2022 | 
 | 2024 | золото | zlato | Vinum · Grasac 26a 2020 | 
 | 2024 | золото | zlato | Vinum · Chardonnay 2020 | 
 | 2024 | золото | zlato | Vinum · Grasac beli 2020 | 
@@ -787,26 +792,31 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | золото | zlato | Vinum · Mustra 2023 | 
 | 2024 | золото | zlato | Verkat · Malvazija 2022 | 
 | 2024 | золото | zlato | Verkat · Roze 2022 | 
-| 2024 | золото | zlato | Vinarija Djurdjic · Grasac 2022 | 
-| 2024 | золото | zlato | Vinarija Djurdjic · Probus 2020 | 
+| 2024 | золото | zlato | Đurđić · Grasac 2022 | 
+| 2024 | золото | zlato | Đurđić · Probus 2020 | 
 | 2024 | золото | zlato | Kiš · Verus Grasac Beli 2023 | 
 | 2024 | золото | zlato | Kiš · Verus GT 2023 | 
 | 2024 | золото | zlato | Kiš · Biser crni | 
 | 2024 | лучшая малая винодельня | 1 | Bikicki | 
 | 2024 | лучшее белое, международные сорта | 1 | Kovačević · Edicija S Sauvignon 2021 | 
-| 2024 | лучшее белое, органика, международные сорта | 1 | Dukay-Sagmeister · Kew Furmint 2020 | 
+| 2024 | лучшее игристое | 1 | Kovačević · Brut 2011 | 
+| 2024 | лучшее креплёное | 1 | Vinum · Bermet Crveni 2023 | 
+| 2024 | лучшее оранж | 1 | Vinčić · Amfora Grašac 2019 | 
+| 2024 | лучшее оранж, органика | 1 | Bikicki · Uncensored 2022 | 
+| 2024 | лучший винный бренд | 1 | Bikicki | 
 | 2024 | одобрение | approval | Verkat · Grašac beli 2023 | 
 | 2024 | одобрение | approval | Verkat · Malvazija 2022 | 
-| 2024 | серебро | srebro | Šapat · Magnus 2020 | 
-| 2024 | серебро | srebro | Šapat · Reserve Cabernet Sauvignon 2020 | 
+| 2024 | особый вклад в сербское виноделие | 1 | Deurić | 
+| 2024 | серебро | srebro | Atelje vina Šapat · Magnus 2020 | 
+| 2024 | серебро | srebro | Atelje vina Šapat · Reserve Cabernet Sauvignon 2020 | 
 | 2024 | серебро | srebro | Veritas Ćuković · Monte Karlovci Merlot 2021 | 
 | 2024 | серебро | srebro | Veritas Ćuković · ćUk 2021 | 
 | 2024 | серебро | srebro | Veritas Ćuković · Momentum 2021 | 
 | 2024 | серебро | srebro | Erdevik · Omnibus Lector Chardonnay 2021 | 
 | 2024 | серебро | srebro | Erdevik · Ex Cathedra Sauvignon Blanc 2021 | 
-| 2024 | серебро | srebro | Šapat · šU-šU Blaufrankisch 2022 | 
+| 2024 | серебро | srebro | Atelje vina Šapat · šU-šU Blaufrankisch 2022 | 
 | 2024 | серебро | srebro | Erdevik · Marlon Delon Cabernet Sauvignon-Merlot 2017 | 
-| 2024 | серебро | srebro | Šapat · Bianca Moscato Giallo 2023 | 
+| 2024 | серебро | srebro | Atelje vina Šapat · Bianca Moscato Giallo 2023 | 
 | 2024 | серебро | srebro | Erdevik · Omnibus Lector Chardonnay 2019 | 
 | 2024 | серебро | srebro | Erdevik · Stiflers Mom Shiraz 2019 | 
 | 2024 | серебро | srebro | Deurić · Aksiom Crveni 2019 | 
@@ -817,7 +827,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | серебро | srebro | Vinum · Dina 2022 | 
 | 2024 | серебро | srebro | Vinum · Bermet Crveni 2023 | 
 | 2024 | серебро | srebro | Verkat · Frankovka 2022 | 
-| 2024 | серебро | srebro | Vinarija Djurdjic · Neoplanta 2022 | 
+| 2024 | серебро | srebro | Đurđić · Neoplanta 2022 | 
 | 2024 | серебро | srebro | Kiš · Verus Mister & Ja 2023 | 
 | 2024 | серебро | srebro | Kiš · Verus Chardonnay 2023 | 
 | 2024 | серебро | srebro | Molovin · Inat Rajnski Rizling 2021 | 
@@ -837,15 +847,24 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | бронза | bronza | Bikicki · S/O 2020 | 
 | 2023 | бронза | bronza | Erdevik · Grand Trianon 2016 | 
 | 2023 | бронза | bronza | Deurić · The Brut 2019 | 
-| 2023 | бронза | bronza | Vinarija Djurdjic · Simonida Mlada | 
-| 2023 | бронза | bronza | Vinarija Djurdjic · Neoplanta | 
+| 2023 | бронза | bronza | Đurđić · Simonida Mlada | 
+| 2023 | бронза | bronza | Đurđić · Neoplanta | 
 | 2023 | бронза | bronza | Veritas Ćuković · Monte Karlovci 2020 | 
 | 2023 | бронза | bronza | Trivanović · Reserve Cabernet Sauvignon 2017 | 
 | 2023 | бронза | bronza | Vinčić · Vincic 2017 | 
 | 2023 | винодельня года | 1 | Erdevik | 
-| 2023 | вклад в винный туризм | 1 | Šapat | 
+| 2023 | винодельня года | 5 | Vinčić | 
+| 2023 | винодельня года | 7 | Deurić | 
+| 2023 | винодельня года | 10 | Chichateau | 
+| 2023 | вклад в винный туризм | 1 | Atelje vina Šapat | 
+| 2023 | вклад в винный туризм | 3 | Erdevik | 
+| 2023 | вклад в винный туризм | 4 | Deurić | 
 | 2023 | двойное золото | dvojno-zlato | Vinčić · Grasac 2020 | 
 | 2023 | двойное золото | dvojno-zlato | Vinum · Grašac 26A 2021 | 
+| 2023 | за свои деньги, белое | 4 | Vinum · Grašac beli 2021 | 
+| 2023 | за свои деньги, красное | 2 | Erdevik · Trianon 2018 | 
+| 2023 | за свои деньги, розе | 3 | Kiš · Rose 2022 | 
+| 2023 | за свои деньги, розе | 5 | Vinum · Rose 2022 | 
 | 2023 | золото | zlato | Erdevik · Stifler's Mom Shiraz 2017 | 
 | 2023 | золото | zlato | Molovin · Inat Traminac 2021 | 
 | 2023 | золото | zlato | Veritas Ćuković · Bela Harmonija 2021 | 
@@ -854,8 +873,39 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | золото | zlato | Trivanović · Reserve Shiraz 2018 | 
 | 2023 | золото | zlato | Molovin · Rajnski Rizling 2021 | 
 | 2023 | золото | zlato | Veritas Ćuković · Monte Karlovci 2020 | 
-| 2023 | лучшее белое | 1 | Erdevik · Ex Cathedra Sauvignon Blanc 2021 | 
-| 2023 | лучшее из местных сортов, белое | 1 | Vinčić · Grašac 2020 | 
+| 2023 | лучшая малая винодельня | 3 | Vinčić | 
+| 2023 | лучшая малая винодельня | 4 | Chichateau | 
+| 2023 | лучшая малая винодельня | 6 | Bikicki | 
+| 2023 | лучшая молодая винодельня | 10 | Veritas Ćuković | 
+| 2023 | лучшее белое | 1 | Erdevik · Ex Cathedra 2021 | 
+| 2023 | лучшее белое | 2 | Vinčić · Grašac beli 2020 | 
+| 2023 | лучшее белое | 5 | Deurić · Gewurztraminer 2022 | 
+| 2023 | лучшее белое | 6 | Chichateau · Sauvignon Blejk 2019 | 
+| 2023 | лучшее белое | 7 | Vinčić · Grand Fru 2020 | 
+| 2023 | лучшее белое, местные сорта | 1 | Vinčić · Grašac 2020 | 
+| 2023 | лучшее белое, местные сорта | 3 | Vinčić · Grand Fru 2020 | 
+| 2023 | лучшее белое, местные сорта | 4 | Vinum · Grašac 26a 2021 | 
+| 2023 | лучшее белое, органика | 7 | Bikicki · Moma 2021 | 
+| 2023 | лучшее игристое | 2 | Deurić · The 2020 | 
+| 2023 | лучшее игристое | 3 | Vinum · Dina 2020 | 
+| 2023 | лучшее красное | 3 | Erdevik · Grand Trianon 2019 | 
+| 2023 | лучшее красное | 4 | Chichateau · Fabula Lagum 2019 | 
+| 2023 | лучшее красное | 6 | Erdevik · Marlon Delon 2017 | 
+| 2023 | лучшее красное | 7 | Deurić · Pinot Noir 2020 | 
+| 2023 | лучшее красное, местные сорта | 9 | Đurđić · Probus 2020 | 
+| 2023 | лучшее креплёное | 1 | Veritas Ćuković · Bermet crveni 2021 | 
+| 2023 | лучшее креплёное | 2 | Đurđić · Crni vitez 2021 | 
+| 2023 | лучшее креплёное | 3 | Kiš · Bermet beli 2023 | 
+| 2023 | лучшее креплёное | 5 | Kovačević · Bermet beli 2023 | 
+| 2023 | лучшее оранж | 2 | Vinčić · Amfora Grašac 2017 | 
+| 2023 | лучшее оранж | 10 | Bikicki · Uncensored Traminac 2021 | 
+| 2023 | лучшее розе | 3 | Trivanović · Lex 2022 | 
+| 2023 | лучшее розе | 5 | Deurić · Urban rose 2021 | 
+| 2023 | лучшее сладкое или полусладкое | 7 | Bikicki · Makana 2018 | 
+| 2023 | лучший винный бренд | 4 | Bikicki | 
+| 2023 | лучший дизайн этикетки | 2 | Đurđić | 
+| 2023 | лучший маркетинг | 2 | Erdevik | 
+| 2023 | лучший маркетинг | 4 | Bikicki | 
 | 2023 | серебро | srebro | Erdevik · Trianon 2018 | 
 | 2023 | серебро | srebro | Deurić · Aksiom Beli 2019 | 
 | 2023 | серебро | srebro | Erdevik · Marlon Delon 2017 | 
@@ -882,13 +932,20 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | бронза | bronza | Erdevik · Omnibus Lector Chardonnay 2016 | 
 | 2022 | бронза | bronza | Mačkov podrum · Chardonnay 2021 | 
 | 2022 | бронза | bronza | Vinčić · Anfora 2017 | 
+| 2022 | винодельня года | 1 | Deurić | 
+| 2022 | вклад в винный туризм | 3 | Deurić | 
+| 2022 | вклад в винный туризм | 10 | Erdevik | 
 | 2022 | двойное золото | dvojno-zlato | Vinum · Grašac 26a 2019 | 
 | 2022 | двойное золото | dvojno-zlato | Vinčić · White Reserve 2012 | 
+| 2022 | за свои деньги, белое | 1 | Trivanović · Pinot Grigio 2021 | 
+| 2022 | за свои деньги, белое | 4 | Veritas Ćuković · Bela Harmonija 2021 | 
+| 2022 | за свои деньги, белое | 5 | Vinum · Grašac beli 2021 | 
+| 2022 | за свои деньги, розе | 4 | Erdevik · Tri roze koze 2021 | 
 | 2022 | золото | zlato | Veritas Ćuković · Momentum Cabernet Sauvignon 2017 | 
 | 2022 | золото | zlato | Verkat · Grašac beli 4.0 2021 | 
 | 2022 | золото | zlato | Verkat · Malvazija 2021 | 
-| 2022 | золото | zlato | Vinarija Djurdjic · Probus 2019 | 
-| 2022 | золото | zlato | Vinarija Djurdjic · Rose Mlada Simonda 2021 | 
+| 2022 | золото | zlato | Đurđić · Probus 2019 | 
+| 2022 | золото | zlato | Đurđić · Rose Mlada Simonda 2021 | 
 | 2022 | золото | zlato | Kiš · Kišov Grašac beli 2021 | 
 | 2022 | золото | zlato | Mačkov podrum · Sauvignon Blanc 2021 | 
 | 2022 | золото | zlato | Vinčić · Grašac Grand Fru 2020 | 
@@ -897,8 +954,37 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | золото | zlato | Belo Brdo · Pinot Noir Black Label Limited Edition 2020 | 
 | 2022 | золото | zlato | Belo Brdo · Bermet Black Label 2020 | 
 | 2022 | золото | zlato | Belo Brdo · Bermet White Label 2020 | 
+| 2022 | лучшая малая винодельня | 7 | Verkat | 
+| 2022 | лучшая молодая винодельня | 4 | Verkat | 
 | 2022 | лучшее белое | 1 | Deurić · Aksiom beli 2019 | 
+| 2022 | лучшее белое | 8 | Trivanović · Pinot Grigio 2021 | 
+| 2022 | лучшее белое | 9 | Verkat · Grašac 4.0 2021 | 
+| 2022 | лучшее белое | 10 | Veritas Ćuković · Bela Harmonija 2021 | 
+| 2022 | лучшее белое, местные сорта | 3 | Verkat · Grašac 4.0 2021 | 
+| 2022 | лучшее белое, местные сорта | 5 | Deurić · Severna Morava 2021 | 
+| 2022 | лучшее белое, местные сорта | 6 | Vinum · Grašac 2021 | 
+| 2022 | лучшее белое, местные сорта | 8 | Milanović · Sila 2020 | 
+| 2022 | лучшее белое, органика | 8 | Bikicki · Moma 2020 | 
 | 2022 | лучшее игристое | 1 | Deurić · The 2019 | 
+| 2022 | лучшее игристое | 3 | Vinum · Dina Brut 2020 | 
+| 2022 | лучшее игристое | 7 | Kovačević · Brut 2011 | 
+| 2022 | лучшее игристое | 9 | Bikicki · Nikka 2020 | 
+| 2022 | лучшее игристое | 10 | Vinčić · Pet Nat Traminac 2021 | 
+| 2022 | лучшее красное, местные сорта | 6 | Milanović · Probus 2020 | 
+| 2022 | лучшее красное, местные сорта | 9 | Đurđić · Probus 2019 | 
+| 2022 | лучшее оранж | 1 | Bojan Basa · Furmint 2019 | 
+| 2022 | лучшее оранж | 5 | Bojan Basa · Jantar 2019 | 
+| 2022 | лучшее оранж | 7 | Bikicki · Uncensored 2020 | 
+| 2022 | лучшее оранж | 8 | Vinčić · Grašac Amfora 2017 | 
+| 2022 | лучшее розе | 2 | Trivanović · Lex 2021 | 
+| 2022 | лучшее розе | 7 | Đurđić · Simonida Mlada 2021 | 
+| 2022 | лучшее розе | 9 | Deurić · Urban Rose 2021 | 
+| 2022 | лучшее сладкое или полусладкое | 4 | Bikicki · Makana Noir 2018 | 
+| 2022 | лучший винный бренд | 4 | Bikicki | 
+| 2022 | лучший дизайн этикетки | 1 | Bikicki | 
+| 2022 | лучший маркетинг | 2 | Bikicki | 
+| 2022 | лучший маркетинг | 3 | Deurić | 
+| 2022 | лучший маркетинг | 4 | Erdevik | 
 | 2022 | одобрение | approval | Trivanović · OPTIMUS 2021 | 
 | 2022 | одобрение | approval | Trivanović · LEX 2021 | 
 | 2022 | одобрение | approval | Molovin · Rajnski Rizling 2019 | 
@@ -909,7 +995,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | серебро | srebro | Erdevik · Trianon 2018 | 
 | 2022 | серебро | srebro | Deurić · Aksiom 2017 | 
 | 2022 | серебро | srebro | Erdevik · Stifles Mom 2017 | 
-| 2022 | серебро | srebro | Vinarija Djurdjic · Neoplanta 2021 | 
+| 2022 | серебро | srebro | Đurđić · Neoplanta 2021 | 
 | 2022 | серебро | srebro | Kiš · Kišov rose 2021 | 
 | 2022 | серебро | srebro | Vinum · Chardonnay 2019 | 
 | 2022 | серебро | srebro | Trivanović · PINOT GRIGIO 2021 | 
@@ -931,27 +1017,63 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | бронза | bronza | Belo Brdo · Limited Edition Cabernet Franc 2018 | 
 | 2021 | бронза | bronza | Belo Brdo · Limited Edition Cabernet Sauvignon 2018 | 
 | 2021 | бронза | bronza | Belo Brdo · Marselan Limited Edition 2018 | 
+| 2021 | винодельня года | 2 | Deurić | 
+| 2021 | винодельня года | 10 | Kovačević | 
+| 2021 | вклад в винный туризм | 1 | Deurić | 
+| 2021 | вклад в винный туризм | 2 | Atelje vina Šapat | 
 | 2021 | двойное золото | dvojno-zlato | Vinum · Chardonnay 2018 | 
 | 2021 | двойное золото | dvojno-zlato | Vinum · Dina Sparkling Grašac 2018 | 
-| 2021 | десятка лучших виноделен | 1 | Dukay-Sagmeister | 
+| 2021 | за свои деньги, белое | 2 | Vinum · Grašac Beli 2020 | 
+| 2021 | за свои деньги, белое | 3 | Kovačević · Rizling 2020 | 
+| 2021 | за свои деньги, розе | 2 | Erdevik · Tri roze koze 2020 | 
 | 2021 | золото | zlato | Bikicki · Uncensored 2018 | 
 | 2021 | золото | zlato | Vinum · Grašac Beli 2019 | 
 | 2021 | золото | zlato | Kiš · Kišov Grašac Beli 2020 | 
 | 2021 | золото | zlato | Kiš · Kišovo Penušavo Vino 2019 | 
 | 2021 | золото | zlato | Kiš · Kišov Bermet 2012 | 
-| 2021 | золото | zlato | Vinarija Djurdjic · Cabernet Franc-Djurdjic 2015 | 
+| 2021 | золото | zlato | Đurđić · Cabernet Franc-Djurdjic 2015 | 
 | 2021 | золото | zlato | Belo Brdo · Petit Verdot Limited Edition 2018 | 
 | 2021 | золото | zlato | Trivanović · Reserve Shiraz 2017 | 
 | 2021 | золото | zlato | Belo Brdo · Limited Edition Decade 2018 | 
 | 2021 | золото | zlato | Belo Brdo · Limited Edition Cabernet Sauvignon 2018 | 
 | 2021 | золото | zlato | Belo Brdo · Marselan Limited Edition 2018 | 
 | 2021 | золото | zlato | Belo Brdo · Petit Verdot Limited Edition 2020 | 
+| 2021 | лучшая молодая винодельня | 9 | Verkat | 
+| 2021 | лучшее белое | 3 | Deurić · Princeps Sauvignon Blanc 2017 | 
+| 2021 | лучшее белое | 7 | Kovačević · Sauvignon Selekcija 2020 | 
+| 2021 | лучшее белое | 8 | Vinum · Chardonnay Barique 2019 | 
+| 2021 | лучшее белое | 9 | Deurić · Chardonnay 2019 | 
+| 2021 | лучшее белое | 10 | Erdevik · Omnibus Lector 2019 | 
+| 2021 | лучшее белое, местные сорта | 1 | Deurić · Severna Morava 2020 | 
+| 2021 | лучшее белое, местные сорта | 7 | Vinum · Grašac beli 2020 | 
+| 2021 | лучшее белое, органика | 3 | Bikicki · Traminac 2017 | 
+| 2021 | лучшее игристое | 1 | Vinum · Dina Brut 2018 | 
+| 2021 | лучшее игристое | 3 | Deurić · The 2018 | 
+| 2021 | лучшее красное, местные сорта | 7 | Đurđić · Probus 2019 | 
+| 2021 | лучшее красное, органика | 9 | Bikicki · Lilly 2018 | 
+| 2021 | лучшее оранж | 4 | Bojan Basa · Tamjanika 2018 | 
+| 2021 | лучшее оранж | 5 | Bikicki · Cu 2019 | 
+| 2021 | лучшее оранж | 6 | Kovačević · Morava 2017 | 
+| 2021 | лучшее розе | 1 | Trivanović · Lex 2020 | 
+| 2021 | лучшее розе | 7 | Erdevik · Roza Nostra 2020 | 
+| 2021 | лучшее розе | 8 | Đurđić · Simonida Mlada 2020 | 
+| 2021 | лучшее сладкое или полусладкое | 2 | Bikicki · Makana 2016 | 
+| 2021 | лучшее сладкое или полусладкое | 4 | Kiš · Bermet Black Label 2018 | 
+| 2021 | лучший винный бренд | 8 | Kovačević | 
+| 2021 | лучший винный бренд | 10 | Bikicki | 
+| 2021 | лучший дизайн этикетки | 4 | Bikicki | 
+| 2021 | лучший дизайн этикетки | 5 | Erdevik | 
+| 2021 | лучший дизайн этикетки | 6 | Chichateau | 
+| 2021 | лучший дизайн этикетки | 7 | Verkat | 
+| 2021 | лучший маркетинг | 1 | Bikicki | 
+| 2021 | лучший маркетинг | 3 | Deurić | 
+| 2021 | лучший маркетинг | 7 | Erdevik | 
 | 2021 | одобрение | approval | Verkat · Grasac beli 2019 | 
 | 2021 | одобрение | approval | Trivanović · OPTIMUS 2020 | 
 | 2021 | серебро | srebro | Deurić · Aksiom 2016 | 
 | 2021 | серебро | srebro | Deurić · Severna Morava 2018 | 
 | 2021 | серебро | srebro | Erdevik · Stifler's Mom Shiraz 2017 | 
-| 2021 | серебро | srebro | Vinarija Djurdjic · Rose Mlada Simonida-Djurdjic 2020 | 
+| 2021 | серебро | srebro | Đurđić · Rose Mlada Simonida-Djurdjic 2020 | 
 | 2021 | серебро | srebro | Mačkov podrum · Sauvignon Blanc 2020 | 
 | 2021 | серебро | srebro | Mačkov podrum · Chardonnay 2020 | 
 | 2021 | серебро | srebro | Kiš · Kišov Chardonnay 2020 | 
@@ -967,7 +1089,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | серебро | srebro | Belo Brdo · Rosé 2020 | 
 | 2020 | Best of Show Serbia | trofej | Veritas Ćuković · Momentum Cabernet Sauvignon 2017 | 
 | 2020 | бронза | bronza | Kiš · Misterija Kišova 2011 | 
-| 2020 | бронза | bronza | Vinarija Djurdjic · Cabernet Franc 2017 | 
+| 2020 | бронза | bronza | Đurđić · Cabernet Franc 2017 | 
 | 2020 | бронза | bronza | Erdevik · Trianon Merlot-Cabernet Sauvignon-Syrah 2016 | 
 | 2020 | бронза | bronza | Deurić · Princeps Probus 2016 | 
 | 2020 | бронза | bronza | Erdevik · Grand Trianon 2016 | 
@@ -981,20 +1103,74 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | бронза | bronza | Kiš · Kišov Chardonnay 2019 | 
 | 2020 | бронза | bronza | Kiš · Kišov Grašac barrique 2019 | 
 | 2020 | бронза | bronza | Verkat · Malvazija 2018 | 
+| 2020 | винодельня года | 2 | Deurić | 
+| 2020 | винодельня года | 5 | Chichateau | 
+| 2020 | винодельня года | 6 | Erdevik | 
+| 2020 | винодельня, от которой ждут взлёта | 3 | Deurić | 
+| 2020 | винодельня, от которой ждут взлёта | 4 | Erdevik | 
+| 2020 | винодельня, от которой ждут взлёта | 9 | Vinum | 
+| 2020 | вклад в винный туризм | 2 | Deurić | 
+| 2020 | вклад в винный туризм | 6 | Vinum | 
+| 2020 | вклад в винный туризм | 7 | Atelje vina Šapat | 
 | 2020 | двойное золото | dvojno-zlato | Veritas Ćuković · Momentum Cabernet Sauvignon 2017 | 
 | 2020 | двойное золото | dvojno-zlato | Deurić · Probus 276 2017 | 
+| 2020 | за свои деньги, белое | 1 | Vinum · Grašac beli 2019 | 
+| 2020 | за свои деньги, белое | 3 | Trivanović · Optimus 2019 | 
+| 2020 | за свои деньги, белое | 6 | Kovačević · Rizling 2019 | 
+| 2020 | за свои деньги, белое | 8 | Šijački · Neoplanta 2019 | 
+| 2020 | за свои деньги, красное | 3 | Trivanović · Shiraz 2018 | 
+| 2020 | за свои деньги, красное | 7 | Šijački · Seduša 2018 | 
+| 2020 | за свои деньги, красное | 8 | Kovačević · Aurelius 2017 | 
+| 2020 | за свои деньги, красное | 9 | Vinum · Frankovka 2019 | 
+| 2020 | за свои деньги, розе | 1 | Erdevik · Tri roze koze 2019 | 
+| 2020 | за свои деньги, розе | 6 | Vinum · Rose 2019 | 
+| 2020 | за свои деньги, розе | 8 | Kiš · Kišov Rose 2019 | 
+| 2020 | за свои деньги, розе | 9 | Kovačević · Rosetto 2019 | 
 | 2020 | золото | zlato | Bikicki · Cu 2018 | 
 | 2020 | золото | zlato | Bikicki · Uncensored 2018 | 
 | 2020 | золото | zlato | Bikicki · Makana 2015 | 
 | 2020 | золото | zlato | Bikicki · Traminac 2017 | 
 | 2020 | золото | zlato | Kiš · Kišov Bermet 2012 | 
 | 2020 | золото | zlato | Vinum · Chardonnay 2017 | 
-| 2020 | золото | zlato | Vinarija Djurdjic · Cabernet Franc 2017 | 
-| 2020 | золото | zlato | Vinarija Djurdjic · Rose Cabernet Sauvignon 2019 | 
+| 2020 | золото | zlato | Đurđić · Cabernet Franc 2017 | 
+| 2020 | золото | zlato | Đurđić · Rose Cabernet Sauvignon 2019 | 
 | 2020 | золото | zlato | Belo Brdo · Cabernet Franc Black Label Limited Edition 2018 | 
 | 2020 | лучшая малая винодельня | 1 | Chichateau | 
+| 2020 | лучшая малая винодельня | 3 | Bikicki | 
+| 2020 | лучшая малая винодельня | 8 | Vinum | 
+| 2020 | лучшая малая винодельня | 9 | Trivanović | 
 | 2020 | лучшая молодая винодельня | 1 | Deurić | 
-| 2020 | лучшее белое | 1 | Chichateau · Chi Chardonnay 2016 | 
+| 2020 | лучшая молодая винодельня | 3 | Bikicki | 
+| 2020 | лучшая молодая винодельня | 5 | Bjelica | 
+| 2020 | лучшее белое | 1 | Chichateau · Chi 2016 | 
+| 2020 | лучшее белое | 4 | Bjelica · Saga 2019 | 
+| 2020 | лучшее белое | 7 | Kovačević · Sauvignon Blanc S Edicija 2018 | 
+| 2020 | лучшее белое, местные сорта | 6 | Vinum · Grašac Beli 2019 | 
+| 2020 | лучшее белое, местные сорта | 10 | Trivanović · Optimus 2019 | 
+| 2020 | лучшее белое, органика | 5 | Bikicki · Sfera 2019 | 
+| 2020 | лучшее красное | 2 | Deurić · Princeps Pinot Noir 2016 | 
+| 2020 | лучшее красное | 7 | Deurić · Princeps Probus 2016 | 
+| 2020 | лучшее красное | 9 | Chichateau · Fabula Lagum 2016 | 
+| 2020 | лучшее красное, местные сорта | 1 | Deurić · Princeps Probus 2016 | 
+| 2020 | лучшее красное, местные сорта | 8 | Deurić · Probus 276 2018 | 
+| 2020 | лучшее красное, органика | 5 | Bikicki · Pinotte 2016 | 
+| 2020 | лучшее красное, органика | 7 | Bikicki · Crna Tamjanika 2017 | 
+| 2020 | лучшее оранж | 2 | Bikicki · S/O 2017 | 
+| 2020 | лучшее оранж | 5 | Kovačević · Orange Riesling R Qvevri 2015 | 
+| 2020 | лучшее оранж | 6 | Kovačević · Orange Chardonnay R 2016 | 
+| 2020 | лучшее оранж | 8 | Bikicki · Uncensored 2018 | 
+| 2020 | лучшее розе | 5 | Erdevik · Roze Nostra 2019 | 
+| 2020 | лучшее розе | 6 | Bikicki · Nadia 2018 | 
+| 2020 | лучшее розе | 8 | Chichateau · Pink Punk 2019 | 
+| 2020 | лучший винный бренд | 7 | Kovačević | 
+| 2020 | лучший винный бренд | 9 | Bikicki | 
+| 2020 | лучший дизайн этикетки | 1 | Erdevik | 
+| 2020 | лучший дизайн этикетки | 3 | Bikicki | 
+| 2020 | лучший дизайн этикетки | 4 | Chichateau | 
+| 2020 | лучший дизайн этикетки | 5 | Bjelica | 
+| 2020 | лучший дизайн этикетки | 6 | Verkat | 
+| 2020 | лучший маркетинг | 1 | Bikicki | 
+| 2020 | лучший маркетинг | 2 | Deurić | 
 | 2020 | одобрение | approval | Trivanović · ROSE 2019 | 
 | 2020 | одобрение | approval | Trivanović · Reserve Shiraz 2017 | 
 | 2020 | одобрение | approval | Belo Brdo · Sauvignon Blanc 2019 | 
@@ -1027,8 +1203,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | серебро | srebro | Veritas Ćuković · Sauvignon Blanc 2019 | 
 | 2020 | серебро | srebro | Vinum · Pinot Noir 2017 | 
 | 2020 | серебро | srebro | Vinum · Rose Pinot Noir 2019 | 
-| 2020 | серебро | srebro | Vinarija Djurdjic · Crni Vitez Bermet 2018 | 
-| 2020 | серебро | srebro | Vinarija Djurdjic · Sauvignon Blanc 2019 | 
+| 2020 | серебро | srebro | Đurđić · Crni Vitez Bermet 2018 | 
+| 2020 | серебро | srebro | Đurđić · Sauvignon Blanc 2019 | 
 | 2020 | серебро | srebro | Deurić · Probus 276 2018 | 
 | 2020 | серебро | srebro | Trivanović · CHARDONNAY BARRIQUE 2018 | 
 | 2020 | серебро | srebro | Trivanović · PINOT GRIGIO 2019 | 
@@ -1043,11 +1219,18 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | серебро | srebro | Belo Brdo · Black Label Cabernet Sauvignon 2018 | 
 | 2020 | серебро | srebro | Belo Brdo · Cabernet Franc Black Label 2018 | 
 | 2020 | серебро | srebro | Belo Brdo · Petit Verdot 2018 | 
-| 2020 | серебро | srebro | Vinarija Djurdjic · Cabernet Franc 2017 | 
+| 2020 | серебро | srebro | Đurđić · Cabernet Franc 2017 | 
 | 2019 | Orange Wine Trophy | trofej | Bikicki · Uncensored 2017 | 
 | 2019 | бронза | bronza | Deurić · The Brut 2015 | 
 | 2019 | бронза | bronza | Deurić · Aksiom 2016 | 
 | 2019 | бронза | bronza | Deurić · Talas crveni 2015 | 
+| 2019 | винодельня года | 4 | Deurić | 
+| 2019 | винодельня, от которой ждут взлёта | 1 | Deurić | 
+| 2019 | винодельня, от которой ждут взлёта | 6 | Kovačević | 
+| 2019 | вклад в винный туризм | 2 | Atelje vina Šapat | 
+| 2019 | вклад в винный туризм | 3 | Kovačević | 
+| 2019 | вклад в винный туризм | 5 | Deurić | 
+| 2019 | за свои деньги | 7 | Trivanović · Optimus 2018 | 
 | 2019 | золото | zlato | Bikicki · Pinotte 2015 | 
 | 2019 | золото | zlato | Bikicki · Cu 2017 | 
 | 2019 | золото | zlato | Deurić · Pinot Noir 2017 | 
@@ -1055,7 +1238,25 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | золото | zlato | Belo Brdo · Chardonnay 2018 | 
 | 2019 | золото | zlato | Belo Brdo · Cabernet Franc Black Label 2017 | 
 | 2019 | лучшая малая винодельня | 1 | Bikicki | 
+| 2019 | лучшая молодая винодельня | 3 | Bikicki | 
 | 2019 | лучшее игристое | 1 | Deurić · Princeps Brut Nature 2015 | 
+| 2019 | лучшее игристое | 3 | Deurić · The 2015 | 
+| 2019 | лучшее красное, местные сорта | 4 | Deurić · Probus 287 2018 | 
+| 2019 | лучшее красное, местные сорта | 9 | Bikicki · Crna Tamjanika 2016 | 
+| 2019 | лучшее органическое | 3 | Bikicki · Uncensored 2016 | 
+| 2019 | лучшее органическое | 6 | Bikicki · Crna Tamjanika 2016 | 
+| 2019 | лучшее розе | 5 | Erdevik · Roza Nostra 2018 | 
+| 2019 | лучшее розе | 7 | Trivanović · Rose 2018 | 
+| 2019 | лучшее розе | 9 | Deurić · Urban Rose 2018 | 
+| 2019 | лучшее сладкое или полусладкое | 5 | Kiš · Bermet crveni 2017 | 
+| 2019 | лучшее сладкое или полусладкое | 6 | Kovačević · Bermet beli 2018 | 
+| 2019 | лучший винный бренд | 4 | Kovačević | 
+| 2019 | лучший винный бренд | 5 | Bikicki | 
+| 2019 | лучший дизайн этикетки | 3 | Bjelica | 
+| 2019 | лучший дизайн этикетки | 6 | Bikicki | 
+| 2019 | лучший маркетинг | 2 | Deurić | 
+| 2019 | лучший маркетинг | 5 | Bikicki | 
+| 2019 | лучший маркетинг | 6 | Kovačević | 
 | 2019 | одобрение | approval | Belo Brdo · Sauvignon Blanc 2018 | 
 | 2019 | одобрение | approval | Belo Brdo · Riesling 2018 | 
 | 2019 | одобрение | approval | Belo Brdo · Riesling Black Label 2018 | 
@@ -1071,16 +1272,16 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | серебро | srebro | Molovin · Vista Hill Red Reserve 2010 | 
 | 2019 | серебро | srebro | Deurić · Princeps Brut Nature 2015 | 
 | 2019 | серебро | srebro | Bikicki · Makana 2016 | 
-| 2019 | серебро | srebro | Vinarija Šijački · Rizling italijanski 2018 | 
-| 2019 | серебро | srebro | Vinarija Šijački · Seduša 2017 | 
+| 2019 | серебро | srebro | Šijački · Rizling italijanski 2018 | 
+| 2019 | серебро | srebro | Šijački · Seduša 2017 | 
 | 2019 | серебро | srebro | Deurić · Probus 276 2017 | 
 | 2019 | серебро | srebro | Deurić · Urban Rose 2018 | 
 | 2019 | серебро | srebro | Deurić · Classic Chardonnay 2018 | 
 | 2019 | серебро | srebro | Deurić · Sauvignon blanc 2017 | 
-| 2019 | серебро | srebro | Vinarija Djurdjic · Sauvignon Blanc 2018 | 
-| 2019 | серебро | srebro | Vinarija Djurdjic · Cabernet Franc 2016 | 
+| 2019 | серебро | srebro | Đurđić · Sauvignon Blanc 2018 | 
+| 2019 | серебро | srebro | Đurđić · Cabernet Franc 2016 | 
 | 2019 | серебро | srebro | Kiš · Bermet 2012 | 
-| 2019 | серебро | srebro | Vinarija Šijački · Neoplanta 2017 | 
+| 2019 | серебро | srebro | Šijački · Neoplanta 2017 | 
 | 2019 | серебро | srebro | Kiš · Rose 2018 | 
 | 2019 | серебро | srebro | Kiš · Bermet 2012 | 
 | 2019 | серебро | srebro | Deurić · Probus 276 2017 | 
@@ -1165,7 +1366,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2017 | бронза | bronza | Deurić · Talas Crveni 2015 | 
 | 2017 | бронза | bronza | Deurić · Merlot 2015 | 
 | 2017 | бронза | bronza | Deurić · Avangarda Sauvignon Blanc 2016 | 
-| 2017 | бронза | bronza | Vinarija Djurdjic · Crni Vitez Bermet 2011 | 
+| 2017 | бронза | bronza | Đurđić · Crni Vitez Bermet 2011 | 
 | 2017 | бронза | bronza | Kiš · Grašac beli 2016 | 
 | 2017 | бронза | bronza | Kovačević · Chardonnay 2016 | 
 | 2017 | бронза | bronza | Trivanović · Pinot Grigio 2016 | 
@@ -1195,7 +1396,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2017 | серебро | srebro | Deurić · Pinot Noir 2015 | 
 | 2017 | серебро | srebro | Deurić · Talas Beli 2015 | 
 | 2017 | серебро | srebro | Deurić · Gewürztraminer 2016 | 
-| 2017 | серебро | srebro | Vinarija Djurdjic · Sauvignon Blanc 2016 | 
+| 2017 | серебро | srebro | Đurđić · Sauvignon Blanc 2016 | 
 | 2017 | серебро | srebro | Kiš · Misterija 2011 | 
 | 2017 | серебро | srebro | Kiš · Bermet Beli | 
 | 2017 | серебро | srebro | Kovačević · Orphe Line 2016 | 
@@ -1425,7 +1626,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | бронза | bronza | Zvonko Bogdan · Merlot 2022 | 
 | 2025 | бронза | bronza | Zvonko Bogdan · Eclater Blanc De Blancs Extra Brut 2020 | 
 | 2025 | золото | zlato | Zvonko Bogdan · Merlot 2023 | 
-| 2025 | лучшее белое, органика, местные сорта | 1 | Maurer · Karom 2023 | 
+| 2025 | лучшее белое, местные сорта, органика | 1 | Maurer · Karom 2023 | 
+| 2025 | лучший винный бренд | 1 | Maurer | 
 | 2025 | одобрение | approval | Vinarija Petra · Rosé 2023 | 
 | 2025 | одобрение | approval | Vinarija Petra · Pinot Noir 2021 | 
 | 2025 | одобрение | approval | Vinarija Petra · Desertni Traminac 2021 | 
@@ -1440,25 +1642,49 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | бронза | bronza | Zvonko Bogdan · Merlot 2022 | 
 | 2024 | бронза | bronza | Tonković · Rapsodija Kadarka 2019 | 
 | 2024 | золото | zlato | Zvonko Bogdan · Eclater Blanc De Blancs Extra Brut 2019 | 
-| 2024 | лучшее красное, органика, местные сорта | 1 | Maurer · Kadarka 1880 2022 | 
+| 2024 | лучшее красное, местные сорта, органика | 1 | Maurer · Kadarka 1880 2022 | 
 | 2024 | серебро | srebro | Zvonko Bogdan · Merlot 2019 | 
 | 2024 | серебро | srebro | Zvonko Bogdan · Eclater Blanc De Blancs Extra Brut 2018 | 
 | 2023 | бронза | bronza | Zvonko Bogdan · Sauvignon Blanc 2021 | 
 | 2023 | бронза | bronza | Zvonko Bogdan · Rosé Sec 2022 | 
-| 2023 | лучшее игристое | 1 | Zvonko Bogdan · Éclater 2018 | 
+| 2023 | винодельня года | 9 | Zvonko Bogdan | 
+| 2023 | лучшее белое | 8 | Zvonko Bogdan · Chardonnay 2022 | 
+| 2023 | лучшее игристое | 1 | Zvonko Bogdan · Eclater 2018 | 
+| 2023 | лучшее красное, местные сорта | 7 | Maurer · Kadarka 1880 2021 | 
+| 2023 | лучшее красное, органика | 6 | Maurer · Kadarka 1880 2021 | 
+| 2023 | лучшее оранж | 4 | Maurer · Orion 2021 | 
+| 2023 | лучшее оранж | 7 | Maurer · Karom 2021 | 
+| 2023 | лучшее розе | 4 | Zvonko Bogdan · Rose Sec 2022 | 
+| 2023 | лучший винный бренд | 5 | Zvonko Bogdan | 
 | 2023 | серебро | srebro | Zvonko Bogdan · Cuvée No.1 2021 | 
 | 2022 | бронза | bronza | Zvonko Bogdan · Merlot 2019 | 
 | 2022 | бронза | bronza | Zvonko Bogdan · Pinot Blanc 2019 | 
 | 2022 | бронза | bronza | Zvonko Bogdan · Chardonnay 2019 | 
+| 2022 | вклад в винный туризм | 5 | Zvonko Bogdan | 
 | 2022 | двойное золото | dvojno-zlato | Zvonko Bogdan · Icon Campana Rubimus 2019 | 
 | 2022 | золото | zlato | Zvonko Bogdan · Icon Campana Albus 2020 | 
 | 2022 | золото | zlato | Zvonko Bogdan · Cuvée No.1 2019 | 
+| 2022 | лучшее белое | 2 | Zvonko Bogdan · Pinot Blanc 2019 | 
+| 2022 | лучшее белое, органика | 6 | Maurer · Tamjanika 2020 | 
+| 2022 | лучшее красное | 9 | Zvonko Bogdan · Merlot 2019 | 
+| 2022 | лучшее красное, местные сорта | 10 | Maurer · Gravitacija 2021 | 
+| 2022 | лучшее красное, органика | 6 | Maurer · Rebel 2020 | 
+| 2022 | лучшее красное, органика | 10 | Maurer · Gravitacija 2021 | 
+| 2022 | лучшее оранж | 3 | Maurer · Mézes Fehér 2020 | 
+| 2022 | лучшее оранж | 6 | Maurer · Fodor 2020 | 
+| 2022 | лучшее оранж | 10 | Maurer · Orion 2020 | 
+| 2022 | лучшее розе | 3 | Zvonko Bogdan · Rose Sec 2021 | 
+| 2022 | лучший винный бренд | 3 | Zvonko Bogdan | 
+| 2022 | лучший маркетинг | 5 | Zvonko Bogdan | 
 | 2022 | серебро | srebro | Zvonko Bogdan · Icon Campana Albus 2020 | 
 | 2022 | серебро | srebro | Zvonko Bogdan · Icon Campana Rubimus 2019 | 
 | 2022 | серебро | srebro | Zvonko Bogdan · Rose Sec 2021 | 
 | 2022 | серебро | srebro | Zvonko Bogdan · Rose sec 2021 | 
+| 2021 | винодельня года | 1 | Zvonko Bogdan | 
+| 2021 | винодельня года | 8 | Maurer | 
+| 2021 | вклад в винный туризм | 9 | Zvonko Bogdan | 
 | 2021 | двойное золото | dvojno-zlato | Zvonko Bogdan · Icon Campana Rubimus 2019 | 
-| 2021 | десятка лучших виноделен | 3 | Maurer | 
+| 2021 | за свои деньги, розе | 3 | Zvonko Bogdan · 4 konja debela 2020 | 
 | 2021 | золото | zlato | Zvonko Bogdan · Cuvée No.1 2019 | 
 | 2021 | золото | zlato | Zvonko Bogdan · Icon Campana Rubimus 2017 | 
 | 2021 | золото | zlato | Zvonko Bogdan · Cuvee No.1 2019 | 
@@ -1468,7 +1694,19 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | золото | zlato | Zvonko Bogdan · Sauvignon Blanc 2020 | 
 | 2021 | золото | zlato | Tonković · Allegro 2020 | 
 | 2021 | золото | zlato | Tonković · Rapsodija 2015 | 
+| 2021 | лучшая малая винодельня | 3 | Maurer | 
 | 2021 | лучшее белое | 1 | Zvonko Bogdan · Icon Campana Albus 2020 | 
+| 2021 | лучшее белое, органика | 4 | Maurer · Ezerjo 2018 | 
+| 2021 | лучшее белое, органика | 8 | Maurer · Karom 2019 | 
+| 2021 | лучшее красное | 3 | Zvonko Bogdan · Icon Campana Rubimus 2019 | 
+| 2021 | лучшее красное | 8 | Zvonko Bogdan · Cuvee No1 2019 | 
+| 2021 | лучшее красное, местные сорта | 3 | Maurer · Gravitacija 2020 | 
+| 2021 | лучшее красное, органика | 2 | Maurer · Gravitacija 2020 | 
+| 2021 | лучшее оранж | 7 | Maurer · Orion 2019 | 
+| 2021 | лучшее розе | 5 | Zvonko Bogdan · Rose Sec 2020 | 
+| 2021 | лучший винный бренд | 3 | Zvonko Bogdan | 
+| 2021 | лучший дизайн этикетки | 8 | Zvonko Bogdan | 
+| 2021 | лучший маркетинг | 8 | Zvonko Bogdan | 
 | 2021 | серебро | srebro | Zvonko Bogdan · Icon Campana Rubimus 2019 | 
 | 2021 | серебро | srebro | Zvonko Bogdan · Merlot 2019 | 
 | 2021 | серебро | srebro | Zvonko Bogdan · Chardonnay 2019 | 
@@ -1479,6 +1717,18 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | бронза | bronza | Zvonko Bogdan · Pinot Blanc 2018 | 
 | 2020 | бронза | bronza | Zvonko Bogdan · Icon Campana Rubimus 2018 | 
 | 2020 | бронза | bronza | Tonković · Rapsodija 2015 | 
+| 2020 | винодельня года | 8 | Maurer | 
+| 2020 | винодельня, от которой ждут взлёта | 7 | Maurer | 
+| 2020 | вклад в винный туризм | 3 | Zvonko Bogdan | 
+| 2020 | лучшая малая винодельня | 2 | Maurer | 
+| 2020 | лучшее белое, органика | 3 | Maurer · Sremska Zelenika 1919 | 
+| 2020 | лучшее красное, местные сорта | 5 | Maurer · Kadarka 1880 2019 | 
+| 2020 | лучшее красное, органика | 2 | Maurer · Kadarka 1880 2019 | 
+| 2020 | лучшее оранж | 1 | Maurer · Orion 2018 | 
+| 2020 | лучшее оранж | 4 | Maurer · Fodor 2018 | 
+| 2020 | лучшее розе | 7 | Zvonko Bogdan · Rose sec 2019 | 
+| 2020 | лучший винный бренд | 4 | Zvonko Bogdan | 
+| 2020 | лучший дизайн этикетки | 10 | Zvonko Bogdan | 
 | 2020 | серебро | srebro | Zvonko Bogdan · Icon Campana Albus 2017 | 
 | 2020 | серебро | srebro | Tonković · Fantazija Kadarka 2015 | 
 | 2020 | серебро | srebro | Tonković · Rapsodija 2015 | 
@@ -1487,8 +1737,28 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | серебро | srebro | Tonković · Fantazija 2015 | 
 | 2019 | бронза | bronza | Zvonko Bogdan · Icon Campana Albus 2017 | 
 | 2019 | бронза | bronza | Zvonko Bogdan · Chardonnay 2017 | 
+| 2019 | винодельня года | 2 | Zvonko Bogdan | 
+| 2019 | винодельня года | 6 | Tonković | 
+| 2019 | винодельня, от которой ждут взлёта | 7 | Maurer | 
+| 2019 | вклад в винный туризм | 4 | Zvonko Bogdan | 
+| 2019 | за свои деньги | 2 | Tonković · Fantazija 2014 | 
+| 2019 | за свои деньги | 10 | Tonković · Rapsodija 2014 | 
 | 2019 | золото | zlato | Zvonko Bogdan · Cuvée No.1 2017 | 
 | 2019 | золото | zlato | Zvonko Bogdan · Icon Campana Rubimus 2017 | 
+| 2019 | лучшее белое | 2 | Zvonko Bogdan · Icon Albus Campana 2017 | 
+| 2019 | лучшее белое | 7 | Zvonko Bogdan · Pinot Blanc 2017 | 
+| 2019 | лучшее красное | 2 | Zvonko Bogdan · Cuvee No.1 2017 | 
+| 2019 | лучшее красное | 7 | Tonković · Fantazija 2014 | 
+| 2019 | лучшее красное, местные сорта | 2 | Tonković · Fantazija 2014 | 
+| 2019 | лучшее красное, местные сорта | 5 | Maurer · Kadarka 1880 2018 | 
+| 2019 | лучшее органическое | 4 | Maurer · Kadarka 1880 2018 | 
+| 2019 | лучшее органическое | 8 | Maurer · Totem 2017 | 
+| 2019 | лучшее розе | 2 | Zvonko Bogdan · Rose Sec 2018 | 
+| 2019 | лучшее розе | 4 | Tonković · Rose Kadarka 2018 | 
+| 2019 | лучшее сладкое или полусладкое | 4 | Maurer · Sott 2018 | 
+| 2019 | лучший винный бренд | 2 | Zvonko Bogdan | 
+| 2019 | лучший дизайн этикетки | 4 | Zvonko Bogdan | 
+| 2019 | лучший маркетинг | 4 | Zvonko Bogdan | 
 | 2019 | серебро | srebro | Zvonko Bogdan · Pinot blanc 2017 | 
 | 2019 | серебро | srebro | Zvonko Bogdan · Život Teče 2017 | 
 | 2018 | бронза | bronza | Zvonko Bogdan · Chardonnay 2015 | 
@@ -1547,6 +1817,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Вино | Урожай | Балл | Источник |
 |---|---|---|---|
 | Vinarija Drašković · Mahago Frankovka | 2019 | 92 | biwc |
+| Vinarija Radlović doo · Cabernet Sauvignon | 2020 | 92 | biwc |
 | Vinarija Drašković · Mahago | 2019 | 90 | decanter |
 | Vinarija Drašković · Beli Pinot | 2020 | 90 | decanter |
 | Vinarija Drašković · Beli Pinot | 2021 | 90 | decanter |
@@ -1557,8 +1828,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Vinarija Drašković · Classic Chardonnay | 2022 | 89 | biwc |
 | Rnjak · PINOT NOIR | 2021 | 89 | biwc |
 | Vinarija Drašković · Burgundac beli Classic | 2021 | 89 | awc-vienna |
+| Vinarija Radlović doo · Cabernet Sauvignon | 2017 | 89 | awc-vienna |
+| Vinarija Radlović doo · Cabernet Sauvignon | 2018 | 89 | awc-vienna |
 | Rnjak · CHARDONNAY | 2016 | 89 | awc-vienna |
 | Vinarija Drašković · Mahago | 2017 | 88 | decanter |
+| Vinarija Radlović doo · Cirkuz Rose | 2022 | 88 | biwc |
 | Vinarija Drašković · Beli Pinot Authentic | 2020 | 88 | awc-vienna |
 | Rnjak · CHARDONNAY | 2018 | 88 | awc-vienna |
 | Vinarija Drašković · Beli Pinot | 2019 | 87 | decanter |
@@ -1567,10 +1841,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Vinarija Drašković · Beli Pinot Authentic | 2020 | 87 | biwc |
 | Vinarija Drašković · Frankovka rezerva | 2018 | 87 | biwc |
 | Rnjak · CRVENI PUŽ | 2019 | 87 | biwc |
+| Vinarija Radlović doo · Chardonnay | 2024 | 87 | biwc |
+| Vinarija Radlović doo · Cirkuz Rose | 2025 | 87 | biwc |
 | Galot · Chardonnay | 2015 | 87 | awc-vienna |
 | Rnjak · PINOT NOIR | 2019 | 86 | biwc |
 | Rnjak · CHARDONNAY | 2023 | 86 | biwc |
 | Vinarija Coka · Muštuluk Crveni | 2022 | 86 | biwc |
+| Vinarija Radlović doo · Morava | 2025 | 86 | biwc |
 | Vinarija Drašković · Ruža Vetrova Muskat Otonel | 2020 | 86 | awc-vienna |
 | Rnjak · SAUVIGNON BLANC | 2018 | 86 | awc-vienna |
 | Rnjak · PINOT NOIR | 2015 | 86 | awc-vienna |
@@ -1594,6 +1871,10 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 | Год | Категория | Место | Кому |
 |---|---|---|---|
+| 2026 | золото | zlato | Vinarija Radlović doo · Cabernet Sauvignon 2020 | 
+| 2026 | серебро | srebro | Vinarija Radlović doo · Morava 2025 | 
+| 2026 | серебро | srebro | Vinarija Radlović doo · Chardonnay 2024 | 
+| 2026 | серебро | srebro | Vinarija Radlović doo · Cirkuz Rose 2025 | 
 | 2025 | бронза | bronza | Vinarija Coka · Grof Lederer CABERNET SAUVIGNON 2022 | 
 | 2025 | серебро | srebro | Vinarija Coka · Muštuluk Crveni 2022 | 
 | 2025 | серебро | srebro | Vinarija Coka · Grof Lederer MERLOT 2022 | 
@@ -1613,6 +1894,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | бронза | bronza | Vinarija Coka · Muštuluk Crveni 2020 | 
 | 2023 | бронза | bronza | Rnjak · CHARDONNAY 2021 | 
 | 2023 | бронза | bronza | Rnjak · SAUVIGNON BLANC 2021 | 
+| 2023 | за свои деньги, красное | 1 | Vinarija Drašković · Frankovka Classic 2021 | 
 | 2023 | золото | zlato | Vinarija Drašković · Classic Chardonnay 2022 | 
 | 2023 | золото | zlato | Vinarija Drašković · Mahago Frankovka 2019 | 
 | 2023 | серебро | srebro | Vinarija Drašković · Mahago 2019 | 
@@ -1620,16 +1902,21 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | серебро | srebro | Vinarija Coka · Grof Lederer CABERNET SAUVIGNON 2020 | 
 | 2023 | серебро | srebro | Vinarija Drašković · Beli Pinot Authentic 2020 | 
 | 2023 | серебро | srebro | Vinarija Drašković · Frankovka rezerva 2018 | 
+| 2023 | серебро | srebro | Vinarija Radlović doo · Cirkuz Rose 2022 | 
 | 2023 | серебро | srebro | Rnjak · CUVEE DE RGNAC 2018 | 
 | 2023 | серебро | srebro | Rnjak · PINOT NOIR 2019 | 
 | 2022 | бронза | bronza | Vinarija Drašković · Beli Pinot Authentic 2020 | 
+| 2022 | вклад в винный туризм | 4 | Vinarija Drašković | 
+| 2022 | золото | zlato | Vinarija Radlović doo · Cabernet Sauvignon 2019 | 
 | 2022 | золото | zlato | Vinarija Drašković · Ruža vetrova 2020 | 
+| 2022 | лучшее игристое | 6 | Galot · Gala 2018 | 
 | 2022 | одобрение | approval | Vinarija Drašković · Ruža Vetrova Muskat Otonel 2020 | 
 | 2022 | серебро | srebro | Vinarija Coka · Grof Lederer Merlot 2020 | 
 | 2022 | серебро | srebro | Vinarija Coka · Grof Lederer Cabernet Sauvignon 2020 | 
 | 2022 | серебро | srebro | Vinarija Coka · Muštuluk 2020 | 
 | 2022 | серебро | srebro | Vinarija Drašković · Burgundac beli Classic 2021 | 
 | 2022 | серебро | srebro | Vinarija Drašković · Classic Chardonnay 2021 | 
+| 2022 | серебро | srebro | Vinarija Radlović doo · Cabernet sauvignon 2019 | 
 | 2022 | серебро | srebro | Vinarija Drašković · Burgundac beli Classic 2021 | 
 | 2022 | серебро | srebro | Vinarija Drašković · Beli Pinot Authentic 2020 | 
 | 2022 | серебро | srebro | Vinarija Drašković · Muskat Otonel 2020 | 
@@ -1638,16 +1925,25 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | бронза | bronza | Vinarija Drašković · Mahago 2017 | 
 | 2021 | бронза | bronza | Vinarija Coka · Grof Lederer Cabernet Sauvignon 2019 | 
 | 2021 | золото | zlato | Vinarija Coka · Grof Lederer Merlot 2019 | 
+| 2021 | золото | zlato | Vinarija Radlović doo · Cabernet Sauvignon 2018 | 
 | 2021 | серебро | srebro | Vinarija Drašković · Beli Pinot 2019 | 
 | 2021 | серебро | srebro | Vinarija Drašković · Ruža Vetrova 2018 | 
 | 2021 | серебро | srebro | Vinarija Drašković · Muskat Otonel 2019 | 
+| 2021 | серебро | srebro | Vinarija Radlović doo · Cabernet Sauvignon 2017 | 
+| 2021 | серебро | srebro | Vinarija Radlović doo · Cabernet Sauvignon 2018 | 
+| 2020 | Red Wine Trophy | trofej | Vinarija Radlović doo · Cabernet Sauvignon 2017 | 
 | 2020 | бронза | bronza | Vinarija Coka · Lederer Merlot 2018 | 
 | 2020 | бронза | bronza | Rnjak · Cabernet Sauvignon 2017 | 
 | 2020 | бронза | bronza | Rnjak · Chardonnay 2018 | 
+| 2020 | за свои деньги, белое | 7 | Vinarija Drašković · Ruža vetrova 2018 | 
+| 2020 | за свои деньги, красное | 6 | Vinarija Drašković · Frankovka 2017 | 
 | 2020 | золото | zlato | Rnjak · Merlot 2017 | 
 | 2020 | золото | zlato | Rnjak · Pinot Noir 2017 | 
+| 2020 | лучшее игристое | 3 | Galot · Gala 2016 | 
+| 2020 | серебро | srebro | Vinarija Radlović doo · Cabernet Sauvignon 2018 | 
 | 2020 | серебро | srebro | Rnjak · Sauvignon blanc 2018 | 
 | 2019 | Best of Show Serbia | trofej | Rnjak · Merlot 2015 | 
+| 2019 | винодельня, от которой ждут взлёта | 9 | Vinarija Drašković | 
 | 2019 | золото | zlato | Rnjak · Cabernet Sauvignon 2015 | 
 | 2019 | золото | zlato | Rnjak · Pinot Noir 2015 | 
 | 2019 | одобрение | approval | Rnjak · SAUVIGNON BLANC 2018 | 
@@ -1741,6 +2037,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Despotika · Beckapaj (Infintiy) Sauvignon Blanc | 2021 | 90 | Falstaff |
 | Despotika · Morava Inoks | 2021 | 90 | Falstaff |
 | Radovanović · Chardonnay Classique | 2020 | 90 | Falstaff |
+| PR Anjino Vino · Anjino Vino | 2024 | 90 | awc-vienna |
 | Aleksandrović · Trijumf Barrique | 2012 | 90 | decanter |
 | Aleksandrović · Rodoslov Grand Reserve | 2009 | 90 | decanter |
 | Despotika · Dokaz | 2015 | 90 | decanter |
@@ -1787,6 +2084,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Despotika · Dokaz | 2019 | 89 | biwc |
 | Despotika · Beskraj | 2023 | 89 | biwc |
 | Tarpoš · Sauvignon Blanc | 2023 | 89 | biwc |
+| PR Anjino Vino · Siesta Merlot Rosé | 2023 | 89 | biwc |
 | Despotika · Nemir | 2024 | 89 | biwc |
 | Despotika · Morava | 2023 | 89 | biwc |
 | Despotika · Morava | 2024 | 89 | biwc |
@@ -1845,10 +2143,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Despotika · Morava | 2022 | 87 | decanter |
 | Tarpoš · Sauvignon Blanc | 2023 | 87 | decanter |
 | Tarpoš · Merlot | 2021 | 87 | decanter |
+| PR Anjino Vino · Suton | 2022 | 87 | decanter |
 | Marko · Doajen Chardonnay | 2024 | 87 | decanter |
 | Eden · Genesis | 2021 | 87 | decanter |
 | Marko · Carine Merlot-Cabernet Sauvignon | 2020 | 87 | decanter |
 | Aleksandrović · Trijumf Noir Brut | 2022 | 87 | decanter |
+| PR Anjino Vino · Suton | 2022 | 87 | biwc |
 | Despotika · Dodir | 2025 | 87 | biwc |
 | Djordjevic Estate Winery · Merlot | 2024 | 87 | biwc |
 | Despotika · Dokaz Šumadija | 2019 | 87 | awc-vienna |
@@ -1901,10 +2201,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Aleksandrović · Trijumf Noir | 2012 | 83 | decanter |
 | Aleksandrović · Trijumf Gold | 2015 | 83 | decanter |
 | Despotika · Krunski Dokaz | 2015 | 83 | decanter |
+| PR Anjino Vino · Zora Chardonnay | 2022 | 83 | biwc |
 | Arsenijević · Starosedelac | 2021 | 83 | biwc |
 | Tarpoš · Syrah | 2022 | 81 | biwc |
 | Despotika · Dodir | 2022 | 81 | biwc |
 | Despotika · Nebo | 2022 | 81 | biwc |
+| PR Anjino Vino · Zora Chardonnay | 2023 | 81 | biwc |
 
 **Награды**
 
@@ -1929,6 +2231,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2026 | одобрение | approval | Despotika · Morava 2023 | 
 | 2026 | платина | platina | Aleksandrović · Kameničarka Prokupac 2022 | 
 | 2026 | платина | platina | Arsenijević · Kaberne 2021 | 
+| 2026 | серебро | srebro | PR Anjino Vino · Anjino Vino 2024 | 
 | 2026 | серебро | srebro | Matijašević Vinogradi · Belina 2022 | 
 | 2026 | серебро | srebro | Eden · Velvet 2020 | 
 | 2026 | серебро | srebro | Despotika · Dodir 2025 | 
@@ -1941,13 +2244,16 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | бронза | bronza | Tarpoš · Merlot 2021 | 
 | 2025 | бронза | bronza | Despotika · Dokaz Cabernet Sauvignon 2021 | 
 | 2025 | бронза | bronza | Aleksandrović · Rodoslov Grand Reserve 2020 | 
+| 2025 | бронза | bronza | PR Anjino Vino · Suton 2022 | 
 | 2025 | бронза | bronza | Tarpoš · Chardonnay Extra Brut 2021 | 
 | 2025 | золото | zlato | Tarpoš · Prokupac 2023 | 
 | 2025 | золото | zlato | Despotika · Krunski Dokaz 2017 | 
 | 2025 | золото | zlato | Despotika · Nemir 2024 | 
 | 2025 | золото | zlato | Despotika · Morava 2023 | 
 | 2025 | золото | zlato | Despotika · Beskraj 2024 | 
-| 2025 | лучшее белое, международные сорта | 1 | Matijašević Vinogradi · SoviNoa Fumé Blanc 2023 | 
+| 2025 | лучшая молодая винодельня | 1 | Matijašević Vinogradi | 
+| 2025 | лучшее белое, международные сорта | 1 | Matijašević Vinogradi · Sovinoa Fumé Blanc 2023 | 
+| 2025 | лучшее оранж | 1 | Marko · Doajen Belo Vino 2023 | 
 | 2025 | серебро | srebro | Aleksandrović · Trijumf Gold 2023 | 
 | 2025 | серебро | srebro | Aleksandrović · Rodoslov Grand Reserve 2019 | 
 | 2025 | серебро | srebro | Aleksandrović · Regent Reserve 2020 | 
@@ -1964,6 +2270,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | бронза | bronza | Tarpoš · Cabernet Sauvignon 2019 | 
 | 2024 | бронза | bronza | Despotika · Dokaz 2019 | 
 | 2024 | бронза | bronza | Despotika · Nemir 2023 | 
+| 2024 | бронза | bronza | PR Anjino Vino · Zora Chardonnay 2023 | 
 | 2024 | двойное золото | dvojno-zlato | Tarpoš · Merlot 2021 | 
 | 2024 | золото | zlato | Aleksandrović · Vožd Cabernet Sauvignon 2017 | 
 | 2024 | золото | zlato | Despotika · Nebo 2023 | 
@@ -1973,11 +2280,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | золото | zlato | Tarpoš · Cabernet Sauvignon 2021 | 
 | 2024 | золото | zlato | Matijašević Vinogradi · Cukundeda 2021 | 
 | 2024 | золото | zlato | Matijašević Vinogradi · 7 hrastova cuvee belo 2022 | 
+| 2024 | золото | zlato | PR Anjino Vino · Siesta Merlot Rosé 2023 | 
 | 2024 | золото | zlato | Despotika · Morava barik 2022 | 
 | 2024 | золото | zlato | Despotika · Dokaz Šumadija 2021 | 
 | 2024 | лучшая молодая винодельня | 1 | Draganić | 
 | 2024 | лучшее красное, международные сорта | 1 | Arsenijević · Cabernet Sauvignon 2020 | 
 | 2024 | лучшее красное, местные сорта | 1 | Marko · Doajen Prokupac 2022 | 
+| 2024 | лучшее розе | 1 | Draganić · L’una 2023 | 
 | 2024 | серебро | srebro | Aleksandrović · Prokupac 2020 | 
 | 2024 | серебро | srebro | Matijašević Vinogradi · Cukundeda Prokupac 2021 | 
 | 2024 | серебро | srebro | Tarpoš · Tamjanika 2023 | 
@@ -1989,6 +2298,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | серебро | srebro | Tarpoš · Tamjanika 2023 | 
 | 2024 | серебро | srebro | Tarpoš · Merlot 2019 | 
 | 2024 | серебро | srebro | Matijašević Vinogradi · Belina 2022 | 
+| 2024 | серебро | srebro | PR Anjino Vino · Suton 2022 | 
 | 2024 | серебро | srebro | Despotika · Morava 2022 | 
 | 2024 | серебро | srebro | Despotika · Morava glina 2022 | 
 | 2024 | серебро | srebro | Despotika · Dokaz Šumadija 2020 | 
@@ -2002,19 +2312,31 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | бронза | bronza | Tarpoš · Merlot 2017 | 
 | 2023 | бронза | bronza | Tarpoš · Chardonnay 2022 | 
 | 2023 | бронза | bronza | Matijašević Vinogradi · 7 Hrastova Cuvée 2021 | 
+| 2023 | бронза | bronza | PR Anjino Vino · Zora Chardonnay 2022 | 
 | 2023 | бронза | bronza | Tarpoš · Syrah 2022 | 
 | 2023 | бронза | bronza | Despotika · Dodir 2022 | 
 | 2023 | бронза | bronza | Despotika · Nebo 2022 | 
 | 2023 | бронза | bronza | Despotika · Morava 2021 | 
 | 2023 | бронза | bronza | Arsenijević · Starosedelac 2021 | 
 | 2023 | бронза | bronza | Arsenijević · Sauvignon Blanc 2022 | 
+| 2023 | вклад в винный туризм | 2 | Aleksandrović | 
 | 2023 | золото | zlato | Matijašević Vinogradi · Tri Doline 2020 | 
 | 2023 | золото | zlato | Matijašević Vinogradi · Sovinoa Fumé Blanc 2021 | 
 | 2023 | золото | zlato | Matijašević Vinogradi · Belina 2021 | 
 | 2023 | золото | zlato | Matijašević Vinogradi · Belina Oranz 2020 | 
 | 2023 | золото | zlato | Despotika · Dokaz 2019 | 
 | 2023 | золото | zlato | Tarpoš · Chardonnay 2022 | 
+| 2023 | лучшая молодая винодельня | 5 | Matijašević Vinogradi | 
+| 2023 | лучшее игристое | 4 | Aleksandrović · Trijumf Rose penušavo 2019 | 
 | 2023 | лучшее красное | 1 | Radovanović · Cabernet Sauvignon Grand Reserva 2017 | 
+| 2023 | лучшее красное, местные сорта | 6 | Matijašević Vinogradi · Čukundeda Superiore 2019 | 
+| 2023 | лучшее оранж | 8 | Matijašević Vinogradi · Belina oranž 2020 | 
+| 2023 | лучшее оранж | 9 | Despotika · Morava oranž 2020 | 
+| 2023 | лучшее розе | 7 | Aleksandrović · Trijumf Rose 2022 | 
+| 2023 | лучшее розе | 8 | Arsenijević · Rose 2022 | 
+| 2023 | лучшее сладкое или полусладкое | 2 | Eden · Semillon Late Harvest 2021 | 
+| 2023 | лучшее сладкое или полусладкое | 4 | Aleksandrović · Trijumf kasna berba 2020 | 
+| 2023 | лучший дизайн этикетки | 5 | Arsenijević | 
 | 2023 | одобрение | approval | Despotika · Morava 2021 | 
 | 2023 | одобрение | approval | Despotika · Morava late harvest 2021 | 
 | 2023 | одобрение | approval | Tarpoš · Syrah 2022 | 
@@ -2041,6 +2363,10 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | бронза | bronza | Tarpoš · Rosé 2021 | 
 | 2022 | бронза | bronza | Matijašević Vinogradi · Rock&Rose 2021 | 
 | 2022 | бронза | bronza | Matijašević Vinogradi · Belina Oranz 2020 | 
+| 2022 | винодельня года | 8 | Aleksandrović | 
+| 2022 | вклад в винный туризм | 6 | Tarpoš | 
+| 2022 | вклад в винный туризм | 7 | Aleksandrović | 
+| 2022 | вклад в винный туризм | 8 | Despotika | 
 | 2022 | двойное золото | dvojno-zlato | Matijašević Vinogradi · Sovinoa Fumé Blanc 2020 | 
 | 2022 | двойное золото | dvojno-zlato | Aleksandrović · Trijumf Noir Brut 2010 | 
 | 2022 | двойное золото | dvojno-zlato | Aleksandrović · Rodoslov Grand Reserve 2016 | 
@@ -2056,6 +2382,18 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | золото | zlato | Despotika · Morava kasna berba 2020 | 
 | 2022 | золото | zlato | Matijašević Vinogradi · Tri doline 2020 | 
 | 2022 | золото | zlato | Despotika · Morava kasna berba 2020 | 
+| 2022 | лучшая молодая винодельня | 3 | Matijašević Vinogradi | 
+| 2022 | лучшая молодая винодельня | 9 | Draganić | 
+| 2022 | лучшее белое | 3 | Matijašević Vinogradi · SoviNoa Fume Blanc 2020 | 
+| 2022 | лучшее белое, местные сорта | 7 | Matijašević Vinogradi · Belina 2020 | 
+| 2022 | лучшее игристое | 4 | Aleksandrović · Trijumf Noir penušavac 2019 | 
+| 2022 | лучшее красное | 4 | Aleksandrović · Regent Reserve 2018 | 
+| 2022 | лучшее красное, местные сорта | 7 | Aleksandrović · Prokupac 2019 | 
+| 2022 | лучшее розе | 10 | Despotika · Nemir 2021 | 
+| 2022 | лучшее сладкое или полусладкое | 5 | Aleksandrović · Trijumf Late Harvest 2020 | 
+| 2022 | лучший винный бренд | 8 | Aleksandrović | 
+| 2022 | лучший дизайн этикетки | 5 | Draganić | 
+| 2022 | лучший маркетинг | 7 | Despotika | 
 | 2022 | одобрение | approval | Despotika · Morava 2020 | 
 | 2022 | одобрение | approval | Despotika · Dokaz Šumadija 2019 | 
 | 2022 | одобрение | approval | Despotika · Beskraj 2021 | 
@@ -2084,6 +2422,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | бронза | bronza | Aleksandrović · Vožd 2017 | 
 | 2021 | бронза | bronza | Aleksandrović · Vožd 2017 | 
 | 2021 | бронза | bronza | Despotika · Krunski Dokaz 2017 | 
+| 2021 | винодельня года | 4 | Aleksandrović | 
+| 2021 | винодельня года | 9 | Despotika | 
+| 2021 | вклад в винный туризм | 3 | Aleksandrović | 
+| 2021 | вклад в винный туризм | 4 | Despotika | 
+| 2021 | вклад в винный туризм | 7 | Eden | 
 | 2021 | двойное золото | dvojno-zlato | Aleksandrović · Prokupac 2018 | 
 | 2021 | золото | zlato | Matijašević Vinogradi · SoviNoa 2019 | 
 | 2021 | золото | zlato | Aleksandrović · Trijumf Selection 2020 | 
@@ -2094,6 +2437,17 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | золото | zlato | Despotika · Nemir 2020 | 
 | 2021 | золото | zlato | Matijašević Vinogradi · Belina 2019 | 
 | 2021 | золото | zlato | Matijašević Vinogradi · Cukundeda 2019 | 
+| 2021 | лучшая молодая винодельня | 2 | Eden | 
+| 2021 | лучшая молодая винодельня | 4 | Matijašević Vinogradi | 
+| 2021 | лучшая молодая винодельня | 5 | Draganić | 
+| 2021 | лучшее игристое | 5 | Aleksandrović · Trijuf Rose Sparkling 2018 | 
+| 2021 | лучшее красное | 1 | Aleksandrović · Rodoslov Grand Reserve 2016 | 
+| 2021 | лучшее розе | 9 | Despotika · Nemir 2020 | 
+| 2021 | лучшее розе | 10 | Aleksandrović · Trijumf selection 2020 | 
+| 2021 | лучшее сладкое или полусладкое | 1 | Eden · Semillon 2018 | 
+| 2021 | лучшее сладкое или полусладкое | 3 | Aleksandrović · Trijumf Late Harvest 2018 | 
+| 2021 | лучшее сладкое или полусладкое | 5 | Despotika · Morava kasna berba 2020 | 
+| 2021 | лучший винный бренд | 6 | Aleksandrović | 
 | 2021 | одобрение | approval | Despotika · Morava 2020 | 
 | 2021 | серебро | srebro | Aleksandrović · Trijumf Noir 2010 | 
 | 2021 | серебро | srebro | Aleksandrović · Trijumf Gold 2019 | 
@@ -2112,13 +2466,29 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | бронза | bronza | Matijašević Vinogradi · Rock & Rose 2019 | 
 | 2020 | бронза | bronza | Matijašević Vinogradi · SoviNoa 2019 | 
 | 2020 | бронза | bronza | Aleksandrović · Trijumf Rose 2019 | 
+| 2020 | винодельня года | 4 | Radovanović | 
+| 2020 | винодельня года | 7 | Aleksandrović | 
+| 2020 | винодельня года | 10 | Despotika | 
+| 2020 | вклад в винный туризм | 1 | Despotika | 
 | 2020 | двойное золото | dvojno-zlato | Aleksandrović · Trijumf Terroir 2018 | 
+| 2020 | за свои деньги, белое | 10 | Despotika · Dodir 2019 | 
 | 2020 | золото | zlato | Despotika · Krunski Dokaz 2015 | 
 | 2020 | золото | zlato | Despotika · Zmajeviti 2017 | 
 | 2020 | золото | zlato | Aleksandrović · Rodoslov Grand Reserve 2016 | 
 | 2020 | золото | zlato | Aleksandrović · Rodoslov Grand Reserve 2009 | 
 | 2020 | золото | zlato | Aleksandrović · Trijumf Gold 2019 | 
+| 2020 | лучшее белое | 3 | Aleksandrović · Trijumf Terroir 2018 | 
+| 2020 | лучшее белое | 8 | Aleksandrović · Trijumf Selection 2019 | 
+| 2020 | лучшее белое, местные сорта | 3 | Despotika · Morava 2019 | 
 | 2020 | лучшее красное | 1 | Radovanović · Rèserve Cabernet Sauvignon 2017 | 
+| 2020 | лучшее красное | 6 | Aleksandrović · Regent Reserve 2016 | 
+| 2020 | лучшее красное, местные сорта | 7 | Aleksandrović · Prokupac 2018 | 
+| 2020 | лучшее розе | 9 | Aleksandrović · Trijumf Rose 2018 | 
+| 2020 | лучшее розе | 10 | Despotika · Nemir 2019 | 
+| 2020 | лучший винный бренд | 5 | Aleksandrović | 
+| 2020 | лучший винный бренд | 6 | Radovanović | 
+| 2020 | лучший маркетинг | 5 | Despotika | 
+| 2020 | лучший маркетинг | 8 | Aleksandrović | 
 | 2020 | отмечено | commended | Despotika · Nebo 2017 | 
 | 2020 | серебро | srebro | Despotika · Trag 2017 | 
 | 2020 | серебро | srebro | Aleksandrović · Vizija Selection 2016 | 
@@ -2129,10 +2499,24 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | серебро | srebro | Aleksandrović · Regent Reserve 2016 | 
 | 2020 | серебро | srebro | Despotika · MORAVA 2019 | 
 | 2020 | серебро | srebro | Despotika · BESKRAJ 2019 | 
+| 2019 | винодельня года | 10 | Aleksandrović | 
+| 2019 | винодельня, от которой ждут взлёта | 8 | Eden | 
+| 2019 | винодельня, от которой ждут взлёта | 10 | Radovanović | 
 | 2019 | двойное золото | dvojno-zlato | Aleksandrović · Trijumf Gold 2018 | 
 | 2019 | двойное золото | dvojno-zlato | Despotika · Dodir 2018 | 
 | 2019 | двойное золото | dvojno-zlato | Despotika · Beskraj 2017 | 
+| 2019 | за свои деньги | 4 | Aleksandrović · Regent Reserve 2015 | 
+| 2019 | лучшее белое | 5 | Despotika · Beskraj 2017 | 
+| 2019 | лучшее белое | 8 | Aleksandrović · Trijumf Gold 2018 | 
+| 2019 | лучшее игристое | 2 | Aleksandrović · Trijumf Chardonnay 2013 | 
+| 2019 | лучшее игристое | 4 | Aleksandrović · Trijumf Penušavac Rose 2015 | 
+| 2019 | лучшее красное | 4 | Aleksandrović · Regent Reserve 2015 | 
+| 2019 | лучшее красное | 8 | Radovanović · Franc Cabernet Sauvignon Barrique 2016 | 
+| 2019 | лучшее розе | 3 | Despotika · Nemir 2018 | 
+| 2019 | лучший винный бренд | 3 | Aleksandrović | 
+| 2019 | лучший винный бренд | 6 | Radovanović | 
 | 2019 | одобрение | approval | Despotika · BESKRAJ Sauvignon Blanc 2017 | 
+| 2019 | самый приятный сюрприз | 6 | Aleksandrović · Prokupac 2017 | 
 | 2019 | серебро | srebro | Despotika · Dokaz 2016 | 
 | 2019 | серебро | srebro | Despotika · Nebo 2018 | 
 | 2018 | бронза | bronza | Despotika · Nebo Riesling-Pinot Blanc 2016 | 
@@ -2267,9 +2651,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Temet · Tamjanika | 2016 | 95 | Falstaff |
 | Temet · Tri Morave Belo Reserve | 2018 | 95 | Falstaff |
 | Temet · Tri Morave Reserve | 2016 | 95 | decanter |
-| Vinarija Jovac · Stella Noir | 2020 | 95 | decanter |
-| Vinarija Jovac · Stella Noir | 2021 | 95 | decanter |
-| Vinarija Jovac · Stella Noir | 2020 | 95 | decanter |
+| Jovac · Stella Noir | 2020 | 95 | decanter |
+| Jovac · Stella Noir | 2021 | 95 | decanter |
+| Jovac · Stella Noir | 2020 | 95 | decanter |
 | Ralević · RaRa Tamjanika PETNAT | 2024 | 95 | biwc |
 | Temet · Tri Morave Crveno Reserve | 2009 | 94 | Falstaff |
 | Ivanović · No 1/2 | 2019 | 94 | vino.rs |
@@ -2277,13 +2661,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Budimir · Svb Rosa | 2009 | 94 | Falstaff |
 | Ivanović · No ½ | 2018 | 94 | Falstaff |
 | Ivanović · Prokupac | 2017 | 94 | Falstaff |
-| Radovan · Prokupac Radovan 100% | 2020 | 94 | Falstaff |
+| Vinarija Radovan · Prokupac Radovan 100% | 2020 | 94 | Falstaff |
 | Temet · Ergo | 2018 | 94 | decanter |
 | Temet · Beli Kamen Merlot | 2019 | 94 | decanter |
 | Ralević · Virgo | 2021 | 94 | biwc |
-| Radovan · 100% Prokupac | 2019 | 93 | Falstaff |
-| Radovan · Tamjanika Radovan 100% | 2022 | 93 | Falstaff |
-| Radovan · Experiment Prokupac | 2019 | 93 | Falstaff |
+| Vinarija Radovan · 100% Prokupac | 2019 | 93 | Falstaff |
+| Vinarija Radovan · Tamjanika Radovan 100% | 2022 | 93 | Falstaff |
+| Vinarija Radovan · Experiment Prokupac | 2019 | 93 | Falstaff |
 | Temet · Tri Morave Reserve | 2018 | 93 | decanter |
 | Spasić · Tamjanika | 2021 | 92 | Falstaff |
 | Cilić · Onyx Blanc | 2019 | 92 | Falstaff |
@@ -2293,28 +2677,29 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Ivanović · Tamjanika | 2022 | 92 | Falstaff |
 | Ivanović · No 3/4 Tamjanika | 2021 | 92 | Falstaff |
 | Ivanović · Prokupac | 2021 | 92 | Falstaff |
-| Radovan · Experiment Prokupac | 2018 | 92 | Falstaff |
-| Radovan · Experiment Tamjanika | 2022 | 92 | Falstaff |
+| Vinarija Radovan · Experiment Prokupac | 2018 | 92 | Falstaff |
+| Vinarija Radovan · Experiment Tamjanika | 2022 | 92 | Falstaff |
 | Lastar · Triangl Pinot Noir | 2017 | 92 | decanter |
 | Rubin · Rubinov Prokupac | 2017 | 92 | decanter |
 | Temet · Ergo | 2018 | 92 | decanter |
-| Radovan · Experiment Prokupac | 2019 | 92 | decanter |
-| Vinarija Jovac · Cabernet Sauvignon | 2020 | 92 | decanter |
+| Vinarija Radovan · Experiment Prokupac | 2019 | 92 | decanter |
+| Jovac · Cabernet Sauvignon | 2020 | 92 | decanter |
 | Ralević · VIRGO Tamjanika | 2024 | 92 | biwc |
 | Ivanović · JARA Pet Nat | 2022 | 91 | Falstaff |
-| Radovan · Experiment Prokupac | 2015 | 91 | decanter |
+| Vinarija Radovan · Experiment Prokupac | 2015 | 91 | decanter |
 | Temet · Ergo | 2016 | 91 | decanter |
 | Lastar · Sofijin Izbor Pinot Noir | 2019 | 91 | decanter |
-| Radovan · 100% Prokupac | 2020 | 91 | decanter |
+| Vinarija Radovan · 100% Prokupac | 2020 | 91 | decanter |
 | Lastar · Cabernet Franc | 2020 | 91 | decanter |
 | Temet · Ergo | 2018 | 91 | decanter |
 | Temet · White Stone Merlot | 2017 | 91 | decanter |
 | Ivanović · Prokupac | 2018 | 91 | awc-vienna |
 | Fragaria · Red Votazi | 2019 | 91 | awc-vienna |
 | Fragaria · Red | 2018 | 91 | awc-vienna |
+| Podrum Zlatanović · Branko Savić | 2025 | 90 | awc-vienna |
 | Rubin · Amante Aurora | 2019 | 90 | gilbert-gaillard |
 | Temet · Tri Morave | 2017 | 90 | decanter |
-| Radovan · Prokupac | 2015 | 90 | decanter |
+| Vinarija Radovan · Prokupac | 2015 | 90 | decanter |
 | Temet · Tri Morave Reserve | 2017 | 90 | decanter |
 | Lastar · Triangl Chardonnay | 2017 | 90 | decanter |
 | Temet · Tri Morave Reserve | 2019 | 90 | decanter |
@@ -2324,11 +2709,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Temet · Tri Morave | 2019 | 90 | decanter |
 | Fragaria · Selekcija | 2019 | 90 | decanter |
 | Temet · Tri Morave Reserve | 2021 | 90 | decanter |
-| Radovan · 100% Prokupac | 2023 | 90 | decanter |
+| Vinarija Radovan · 100% Prokupac | 2023 | 90 | decanter |
 | Temet · Ergo | 2019 | 90 | decanter |
-| Vinarija Jovac · Merlot | 2020 | 90 | decanter |
+| Jovac · Merlot | 2020 | 90 | decanter |
 | Temet · Ergo Rosé | 2019 | 90 | decanter |
 | Ralević · Aurum | 2020 | 90 | biwc |
+| MV Vinarija · Tamjanika – Hope | 2022 | 90 | biwc |
 | Ivanović · Prokupac | 2019 | 90 | awc-vienna |
 | Rubin · Prokupac | 2018 | 90 | awc-vienna |
 | Ivanović · Tamjanika | 2021 | 90 | awc-vienna |
@@ -2344,7 +2730,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Lastar · Tamjanika | 2017 | 90 | awc-vienna |
 | Rubin · Prokupac | 2016 | 90 | awc-vienna |
 | Temet · Rose | 2013 | 90 | awc-vienna |
-| Radovan · Experiment Prokupac | 2016 | 89 | decanter |
+| Vinarija Radovan · Experiment Prokupac | 2016 | 89 | decanter |
 | Temet · Ergo White | 2016 | 89 | decanter |
 | Temet · Tri Morave | 2017 | 89 | decanter |
 | Temet · Tri Morave Brut | 2017 | 89 | decanter |
@@ -2353,7 +2739,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Temet · Ergo | 2017 | 89 | decanter |
 | Fragaria · Fragari Votazi | 2019 | 89 | decanter |
 | Lastar · Triangl Sauvignon-Viognier | 2020 | 89 | decanter |
-| Vinarija Jovac · Cabernet Sauvignon | 2020 | 89 | decanter |
+| Jovac · Cabernet Sauvignon | 2020 | 89 | decanter |
 | Temet · Tri Morave Reserve | 2021 | 89 | decanter |
 | Ivanović · No 1/2 | 2019 | 89 | biwc |
 | Ralević · Vranac | 2020 | 89 | biwc |
@@ -2394,7 +2780,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Ralević · Cabernet sauvignon | 2018 | 88 | biwc |
 | Lastar · Chardonnay | 2024 | 88 | biwc |
 | Lastar · Tamjanika | 2025 | 88 | biwc |
-| Vinska Kuća Minića · LiLi Prokupac Rosé | 2024 | 88 | awc-vienna |
+| Minić · LiLi Prokupac Rosé | 2024 | 88 | awc-vienna |
 | Fragaria · White Jagoda | 2021 | 88 | awc-vienna |
 | Rubin · Prokupac | 2018 | 88 | awc-vienna |
 | Rubin · Chardonnay | 2019 | 88 | awc-vienna |
@@ -2407,7 +2793,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Temet · Tri Morave Red | 2015 | 87 | decanter |
 | Ivanović · Prokupac | 2016 | 87 | decanter |
 | Temet · Tri Morave | 2017 | 87 | decanter |
-| Radovan · Experiment Prokupac | 2017 | 87 | decanter |
+| Vinarija Radovan · Experiment Prokupac | 2017 | 87 | decanter |
 | Rubin · Amante Carmen | 2016 | 87 | decanter |
 | Lastar · Pinot Noir | 2016 | 87 | decanter |
 | Lastar · Triangl Sauvignon-Viognier | 2017 | 87 | decanter |
@@ -2421,16 +2807,17 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Rubin · Sauvignon Blanc | 2019 | 87 | decanter |
 | Temet · Ergo | 2018 | 87 | decanter |
 | Rubin · Prokupac | 2018 | 87 | decanter |
-| Vinarija Jovac · Tamjanika | 2021 | 87 | decanter |
+| Jovac · Tamjanika | 2021 | 87 | decanter |
 | Fragaria · Votazi | 2020 | 87 | decanter |
 | Fragaria · Jagoda | 2022 | 87 | decanter |
 | Rubin · Amante Matea Merlot | 2018 | 87 | decanter |
 | Temet · Beli Kamen Syrah | 2017 | 87 | decanter |
 | Temet · Beli Kamen Prokupac | 2019 | 87 | decanter |
-| Vinarija Jovac · Merlot | 2020 | 87 | decanter |
+| Jovac · Merlot | 2020 | 87 | decanter |
 | Lastar · Sofijin Izbor Pinot Noir | 2023 | 87 | decanter |
 | Temet · Tri Morave Reserve | 2019 | 87 | decanter |
 | Temet · White Stone Syrah | 2017 | 87 | decanter |
+| MV Vinarija · Tamjanika – Hope | 2021 | 87 | biwc |
 | Ralević · RaRa Tamjanika PETNAT | 2025 | 87 | biwc |
 | Ralević · ETER Chardonnay | 2020 | 87 | biwc |
 | Fragaria · WHITE Jagoda | 2023 | 87 | awc-vienna |
@@ -2459,7 +2846,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Lastar · Pinot Noir | 2019 | 86 | decanter |
 | Temet · Beli Kamen Syrah | 2019 | 86 | decanter |
 | Lastar · Triangl Chardonnay | 2020 | 86 | decanter |
-| Vinarija Jovac · Merlot | 2020 | 86 | decanter |
+| Jovac · Merlot | 2020 | 86 | decanter |
 | Lastar · Triangl Sauvignon-Viognier | 2021 | 86 | decanter |
 | Ivanović · No 3/4 | 2023 | 86 | decanter |
 | Ralević · Tamjanika | 2022 | 86 | biwc |
@@ -2475,7 +2862,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Lastar · Triangl Chardonnay | 2015 | 85 | decanter |
 | Temet · Ergo Red | 2015 | 85 | decanter |
 | Lastar · Triangl Chardonnay | 2015 | 85 | decanter |
-| Radovan · 100% Prokupac | 2017 | 85 | decanter |
+| Vinarija Radovan · 100% Prokupac | 2017 | 85 | decanter |
 | Lastar · Triangl Chardonnay | 2016 | 85 | decanter |
 | Lastar · Cabernet Franc | 2021 | 85 | biwc |
 | Lastar · Sofijin izbor | 2021 | 85 | biwc |
@@ -2495,8 +2882,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Rubin · Amante Carmen Prokupac-Marselan-Merlot | 2016 | 84 | decanter |
 | Ralević · VIRGO Sauvignon blanc | 2021 | 84 | biwc |
 | Lastar · rose | 2024 | 84 | biwc |
-| Radovan · 100% Prokupac | 2023 | 84 | biwc |
-| Radovan · 100% Zuplianka | 2023 | 84 | biwc |
+| Vinarija Radovan · 100% Prokupac | 2023 | 84 | biwc |
+| Vinarija Radovan · 100% Zuplianka | 2023 | 84 | biwc |
 | Ivanović · ЦФ | 2025 | 84 | biwc |
 | Fragaria · Rose Fragolina | 2021 | 84 | awc-vienna |
 | Temet · Pinot Grigio | 2014 | 83 | decanter |
@@ -2516,15 +2903,16 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2026 | бронза | bronza | Temet · White Stone Syrah 2017 | 
 | 2026 | бронза | bronza | Ivanović · ЦФ 2025 | 
 | 2026 | двойное золото | dvojno-zlato | Ralević · Virgo 2021 | 
-| 2026 | золото | zlato | Vinarija Jovac · Stella Noir 2020 | 
+| 2026 | золото | zlato | Podrum Zlatanović · Branko Savić 2025 | 
+| 2026 | золото | zlato | Jovac · Stella Noir 2020 | 
 | 2026 | золото | zlato | Ivanović · JARA Pet Nat 2025 | 
 | 2026 | золото | zlato | Ivanović · Prokupac 2024 | 
 | 2026 | золото | zlato | Ivanović · No ½ 2021 | 
 | 2026 | золото | zlato | Ralević · VIRGO Tamjanika 2024 | 
-| 2026 | одобрение | approval | Vinska Kuća Minića · LiLi Prokupac Rosé 2024 | 
+| 2026 | одобрение | approval | Minić · LiLi Prokupac Rosé 2024 | 
 | 2026 | серебро | srebro | Temet · Ergo 2019 | 
-| 2026 | серебро | srebro | Vinarija Jovac · Merlot 2020 | 
-| 2026 | серебро | srebro | Vinarija Jovac · Cabernet Sauvignon 2020 | 
+| 2026 | серебро | srebro | Jovac · Merlot 2020 | 
+| 2026 | серебро | srebro | Jovac · Cabernet Sauvignon 2020 | 
 | 2026 | серебро | srebro | Temet · White Stone Merlot 2017 | 
 | 2026 | серебро | srebro | Temet · Ergo Rosé 2019 | 
 | 2026 | серебро | srebro | Ivanović · Tamjanika 2024 | 
@@ -2532,24 +2920,28 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2026 | серебро | srebro | Lastar · Sofijin Izbor Pinot Noir 2022 | 
 | 2026 | серебро | srebro | Ralević · RaRa Tamjanika PETNAT 2025 | 
 | 2026 | серебро | srebro | Ralević · ETER Chardonnay 2020 | 
+| 2025 | TROPHY ORANGE WINE | trofej | MV Vinarija · Tamjanika – Hope 2022 | 
 | 2025 | бронза | bronza | Ivanović · No 3/4 2023 | 
-| 2025 | бронза | bronza | Vinarija Jovac · Merlot 2020 | 
-| 2025 | бронза | bronza | Vinarija Jovac · Cabernet Sauvignon 2020 | 
+| 2025 | бронза | bronza | Jovac · Merlot 2020 | 
+| 2025 | бронза | bronza | Jovac · Cabernet Sauvignon 2020 | 
 | 2025 | бронза | bronza | Ralević · VIRGO Sauvignon blanc 2021 | 
 | 2025 | бронза | bronza | Lastar · rose 2024 | 
-| 2025 | бронза | bronza | Radovan · 100% Prokupac 2023 | 
-| 2025 | бронза | bronza | Radovan · 100% Zuplianka 2023 | 
+| 2025 | бронза | bronza | Vinarija Radovan · 100% Prokupac 2023 | 
+| 2025 | бронза | bronza | Vinarija Radovan · 100% Zuplianka 2023 | 
 | 2025 | вклад в винный туризм | 1 | Lastar | 
-| 2025 | вклад в сербское виноделие | 1 | Radovan | 
 | 2025 | двойное золото | dvojno-zlato | Ralević · RaRa Tamjanika PETNAT 2024 | 
-| 2025 | золото | zlato | Vinarija Jovac · Stella Noir 2021 | 
+| 2025 | за свои деньги, белое, местные сорта | 1 | Ralević · Virgo Tamajnika 2024 | 
+| 2025 | золото | zlato | Jovac · Stella Noir 2021 | 
+| 2025 | золото | zlato | MV Vinarija · Tamjanika – Hope 2022 | 
 | 2025 | золото | zlato | Ivanović · Tamjanika 2023 | 
 | 2025 | золото | zlato | Ivanović · Prokupac 2022 | 
 | 2025 | золото | zlato | Ivanović · No ½ 2019 | 
 | 2025 | лучшая малая винодельня | 1 | Ralević | 
+| 2025 | лучшее игристое, предковый метод | 1 | Ralević · Ra Ra 2024 | 
 | 2025 | лучшее красное, международные сорта | 1 | Ralević · Aurum 2020 | 
-| 2025 | лучшее красное, органика, местные сорта | 1 | Vujić · Gmitar Prokupac 2021 | 
-| 2025 | серебро | srebro | Radovan · 100% Prokupac 2023 | 
+| 2025 | лучшее красное, местные сорта, органика | 1 | Vujić · Gmitar 2021 | 
+| 2025 | особый вклад в сербское виноделие | 1 | Vinarija Radovan | 
+| 2025 | серебро | srebro | Vinarija Radovan · 100% Prokupac 2023 | 
 | 2025 | серебро | srebro | Ralević · Cabernet sauvignon 2018 | 
 | 2025 | серебро | srebro | Ivanović · No ¾ 2023 | 
 | 2025 | серебро | srebro | Ivanović · No ½ 2020 | 
@@ -2557,7 +2949,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | серебро | srebro | Lastar · Chardonnay 2024 | 
 | 2025 | серебро | srebro | Ralević · Virgo Tamjanika 2024 | 
 | 2024 | бронза | bronza | Fragaria · Votazi 2020 | 
-| 2024 | бронза | bronza | Vinarija Jovac · Merlot 2020 | 
+| 2024 | бронза | bronza | Jovac · Merlot 2020 | 
 | 2024 | бронза | bronza | Lastar · Triangl Sauvignon-Viognier 2021 | 
 | 2024 | бронза | bronza | Fragaria · Jagoda 2022 | 
 | 2024 | бронза | bronza | Rubin · Amante Matea Merlot 2018 | 
@@ -2567,16 +2959,17 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | бронза | bronza | Lastar · Rose 2023 | 
 | 2024 | золото | zlato | Ralević · Eter Chardonnay 2019 | 
 | 2024 | золото | zlato | Ralević · Aurum 2020 | 
-| 2024 | лучшее белое, местные сорта | 1 | Yotta · Hysteresis Tamjanika 2022 | 
-| 2024 | лучшее белое, органика, местные сорта | 1 | Ivanović · No 3/4 2023 | 
+| 2024 | лучшее белое, местные сорта | 1 | Yotta · Hysteresis 2022 | 
+| 2024 | лучшее игристое, органика | 1 | Temet · Tri Morave Penušavo 2021 | 
 | 2024 | одобрение | approval | Fragaria · WHITE Jagoda 2023 | 
 | 2024 | серебро | srebro | Lastar · Cabernet Franc 2020 | 
 | 2024 | серебро | srebro | Temet · Tri Morave Reserve 2021 | 
 | 2024 | серебро | srebro | Temet · Ergo 2018 | 
-| 2024 | серебро | srebro | Radovan · Experiment Prokupac 2019 | 
+| 2024 | серебро | srebro | Vinarija Radovan · Experiment Prokupac 2019 | 
 | 2024 | серебро | srebro | Lastar · Cru 6 | 
 | 2024 | серебро | srebro | Lastar · Chardonnay 2023 | 
-| 2023 | бронза | bronza | Vinarija Jovac · Tamjanika 2021 | 
+| 2024 | серебро | srebro | MV Vinarija · Tamjanika – Hope 2021 | 
+| 2023 | бронза | bronza | Jovac · Tamjanika 2021 | 
 | 2023 | бронза | bronza | Lastar · Pinot Noir 2019 | 
 | 2023 | бронза | bronza | Temet · Tri Morave Reserve 2019 | 
 | 2023 | бронза | bronza | Temet · Beli Kamen Syrah 2019 | 
@@ -2586,9 +2979,22 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | бронза | bronza | Lastar · Triangl Sauvignon-Viognier 2020 | 
 | 2023 | бронза | bronza | Lastar · Chardonnay 2021 | 
 | 2023 | бронза | bronza | Ralević · Chardonnay 2020 | 
-| 2023 | золото | zlato | Vinarija Jovac · Stella Noir 2020 | 
+| 2023 | винодельня года | 8 | Temet | 
+| 2023 | за свои деньги, белое | 2 | Temet · Burgundac sivi 2021 | 
+| 2023 | золото | zlato | Jovac · Stella Noir 2020 | 
 | 2023 | золото | zlato | Ivanović · No 1/2 2019 | 
 | 2023 | золото | zlato | Ralević · Vranac 2020 | 
+| 2023 | лучшая молодая винодельня | 3 | Jovac | 
+| 2023 | лучшее белое | 4 | Temet · Burgundac sivi 2021 | 
+| 2023 | лучшее белое | 10 | Jovac · Sauvignon Blanc Single Vineyard 2021 | 
+| 2023 | лучшее белое, местные сорта | 5 | Vinarija Radovan · Experiment Tamjanika 2022 | 
+| 2023 | лучшее белое, органика | 2 | Temet · Burgundac sivi 2021 | 
+| 2023 | лучшее игристое | 5 | Rubin · Vronsky Rose 2021 | 
+| 2023 | лучшее игристое | 6 | Temet · Tri Morave penušavo 2021 | 
+| 2023 | лучшее красное | 5 | Ivanović · No ½ 2019 | 
+| 2023 | лучшее красное, органика | 8 | MV Vinarija · Fortitude 2019 | 
+| 2023 | лучшее оранж | 6 | MV Vinarija · Hope 2021 | 
+| 2023 | лучшее розе | 6 | Temet · Tri Morave Rose 2022 | 
 | 2023 | одобрение | approval | Rubin · Prokupac 2019 | 
 | 2023 | серебро | srebro | Temet · Ergo 2018 | 
 | 2023 | серебро | srebro | Temet · Tri Morave Reserve 2019 | 
@@ -2597,7 +3003,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | серебро | srebro | Lastar · Sofijin Izbor Pinot Noir 2019 | 
 | 2023 | серебро | srebro | Temet · Beli Kamen Merlot 2019 | 
 | 2023 | серебро | srebro | Fragaria · Selekcija 2019 | 
-| 2023 | серебро | srebro | Radovan · 100% Prokupac 2020 | 
+| 2023 | серебро | srebro | Vinarija Radovan · 100% Prokupac 2020 | 
 | 2023 | серебро | srebro | Lastar · Cabernet Franc 2021 | 
 | 2023 | серебро | srebro | Lastar · Sofijin izbor 2021 | 
 | 2023 | серебро | srebro | Ralević · Tamjanika 2022 | 
@@ -2611,6 +3017,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | бронза | bronza | Rubin · Prokupac 2018 | 
 | 2022 | бронза | bronza | Temet · Ergo 2017 | 
 | 2022 | бронза | bronza | Lastar · Chardonnay 2018 | 
+| 2022 | винодельня года | 3 | Temet | 
+| 2022 | винодельня года | 6 | Braća Rajković | 
+| 2022 | винодельня года | 9 | MV Vinarija | 
+| 2022 | вклад в винный туризм | 9 | Lastar | 
+| 2022 | за свои деньги, красное | 4 | Budimir · Triada crveno 2020 | 
+| 2022 | за свои деньги, розе | 2 | Braća Rajković · Sofia 2021 | 
+| 2022 | за свои деньги, розе | 3 | Budimir · Triada Rose 2021 | 
 | 2022 | золото | zlato | Lastar · Triangl Chardonnay 2018 | 
 | 2022 | золото | zlato | Braća Rajković · Prince 2017 | 
 | 2022 | золото | zlato | Ivanović · Prokupac 2019 | 
@@ -2618,7 +3031,26 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | золото | zlato | Ivanović · No ½ 2018 | 
 | 2022 | золото | zlato | Ivanović · Tamjanika 2021 | 
 | 2022 | золото | zlato | Fragaria · Red Votazi 2020 | 
-| 2022 | лучшее красное | 4 | Budimir · Triada crveno 2020 | 
+| 2022 | лучшая малая винодельня | 3 | MV Vinarija | 
+| 2022 | лучшая малая винодельня | 5 | Vinarija Radovan | 
+| 2022 | лучшая молодая винодельня | 1 | MV Vinarija | 
+| 2022 | лучшее белое | 4 | Temet · Ergo White 2018 | 
+| 2022 | лучшее белое | 7 | Budimir · Margus Margi 2013 | 
+| 2022 | лучшее белое, местные сорта | 4 | Vinarija Radovan · Tamjanika 100% 2021 | 
+| 2022 | лучшее белое, местные сорта | 9 | Braća Rajković · Tamjanika 2020 | 
+| 2022 | лучшее белое, местные сорта | 10 | Lastar · Tamjanika 2021 | 
+| 2022 | лучшее игристое | 2 | Temet · Tri Morave penušavo 2019 | 
+| 2022 | лучшее игристое | 8 | Temet · Ergo Rose Penušavo 2018 | 
+| 2022 | лучшее красное, местные сорта | 1 | Braća Rajković · Prince Rskavac 2018 | 
+| 2022 | лучшее красное, местные сорта | 4 | Yotta · Prokupac Reserve 2017 | 
+| 2022 | лучшее красное, местные сорта | 5 | Vinarija Radovan · prokupac 100% 2019 | 
+| 2022 | лучшее красное, органика | 3 | MV Vinarija · Temperance Special Edition 2020 | 
+| 2022 | лучшее оранж | 2 | MV Vinarija · Tamjanika 2019 | 
+| 2022 | лучшее розе | 1 | Temet · Ergo Rose 2021 | 
+| 2022 | лучшее розе | 6 | Budimir · Triada Rose 2021 | 
+| 2022 | лучшее сладкое или полусладкое | 3 | Budimir · Slatka mala 2019 | 
+| 2022 | лучший винный бренд | 10 | Temet | 
+| 2022 | лучший маркетинг | 8 | Temet | 
 | 2022 | одобрение | approval | Ivanović · No 3/4 2020 | 
 | 2022 | одобрение | approval | Fragaria · Rose Fragolina 2021 | 
 | 2022 | отмечено | commended | Lastar · Pinot Noir 2017 | 
@@ -2630,6 +3062,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | серебро | srebro | Braća Rajković · Prince 2018 | 
 | 2022 | серебро | srebro | Braća Rajković · Sofia Cuvée 2019 | 
 | 2022 | серебро | srebro | Ivanović · No ¾ 2020 | 
+| 2022 | серебро | srebro | MV Vinarija · Tamjanika 2019 | 
 | 2022 | серебро | srebro | Ivanović · Prokupac 2019 | 
 | 2022 | серебро | srebro | Rubin · Prokupac 2018 | 
 | 2022 | серебро | srebro | Ivanović · No 1/2 2018 | 
@@ -2650,8 +3083,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | бронза | bronza | Braća Rajković · Sofia Viognier Barrique 2019 | 
 | 2021 | бронза | bronza | Braća Rajković · Sofia Traminer Late Harvest 2019 | 
 | 2021 | бронза | bronza | Braća Rajković · Sofia Carmenere 2018 | 
+| 2021 | винодельня года | 6 | Cilić | 
+| 2021 | винодельня года | 7 | Temet | 
 | 2021 | двойное золото | dvojno-zlato | Lastar · Chardonnay 2018 | 
 | 2021 | двойное золото | dvojno-zlato | Braća Rajković · Prince Rskavac 2018 | 
+| 2021 | за свои деньги, красное | 3 | Vinarija Radovan · Experiment 2018 | 
+| 2021 | за свои деньги, розе | 1 | Braća Rajković · Sofia Rose 2020 | 
 | 2021 | золото | zlato | Lastar · Triangl Sauvignon - Viognier 2017 | 
 | 2021 | золото | zlato | Lastar · Merlot Cabernet Franc 2017 | 
 | 2021 | золото | zlato | Braća Rajković · Sofia Rose 2020 | 
@@ -2662,6 +3099,25 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | золото | zlato | Rubin · Sauvignon Blanc 2018 | 
 | 2021 | золото | zlato | Fragaria · Red 2019 | 
 | 2021 | золото | zlato | Fragaria · Red Votazi 2019 | 
+| 2021 | лучшая малая винодельня | 6 | MV Vinarija | 
+| 2021 | лучшее белое | 4 | Cilić · Onyx belo 2020 | 
+| 2021 | лучшее белое, местные сорта | 4 | Temet · Tri Morave rezerva belo 2019 | 
+| 2021 | лучшее белое, местные сорта | 9 | Lastar · Tamjanika 2020 | 
+| 2021 | лучшее игристое | 4 | Temet · Tri Morave Brut 2018 | 
+| 2021 | лучшее красное | 2 | Cilić · Manifest 2017 | 
+| 2021 | лучшее красное | 5 | Ivanović · Gaga 2017 | 
+| 2021 | лучшее красное | 10 | Lastar · Pinot Noir 2017 | 
+| 2021 | лучшее красное, местные сорта | 1 | Ivanović · Gaga 2017 | 
+| 2021 | лучшее красное, местные сорта | 8 | Vinarija Radovan · Experiment Prokupac 2018 | 
+| 2021 | лучшее красное, местные сорта | 9 | Budimir · Lila Prokupac Boje 2012 | 
+| 2021 | лучшее оранж | 2 | MV Vinarija · Tamjanika 2019 | 
+| 2021 | лучшее оранж | 9 | MV Vinarija · Chardonnay 2018 | 
+| 2021 | лучшее розе | 2 | Temet · Ergo Rose 2019 | 
+| 2021 | лучшее розе | 3 | Budimir · Triada Rose 2020 | 
+| 2021 | лучшее розе | 4 | Braća Rajković · Sofia 2020 | 
+| 2021 | лучший винный бренд | 5 | Temet | 
+| 2021 | лучший дизайн этикетки | 3 | Temet | 
+| 2021 | лучший маркетинг | 2 | Temet | 
 | 2021 | серебро | srebro | Lastar · Triangl Chardonnay 2017 | 
 | 2021 | серебро | srebro | Rubin · Prokupac 2018 | 
 | 2021 | серебро | srebro | Rubin · Chardonnay 2019 | 
@@ -2683,13 +3139,48 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | бронза | bronza | Rubin · Chardonnay 2018 | 
 | 2020 | бронза | bronza | Rubin · Amante Carmen 2016 | 
 | 2020 | винодельня года | 1 | Temet | 
+| 2020 | винодельня, от которой ждут взлёта | 8 | Fragaria | 
+| 2020 | вклад в винный туризм | 8 | Temet | 
 | 2020 | двойное золото | dvojno-zlato | Braća Rajković · Sofija Tamnjanika Noble Rot Late Harvest 2017 | 
 | 2020 | двойное золото | dvojno-zlato | Braća Rajković · Pinot Rose 2019 | 
+| 2020 | за свои деньги, белое | 5 | Budimir · Tamjanika 2019 | 
+| 2020 | за свои деньги, красное | 1 | Rubin · Merlot 2017 | 
+| 2020 | за свои деньги, красное | 4 | Budimir · Triada 2017 | 
+| 2020 | за свои деньги, красное | 5 | Rubin · Prokupac 2017 | 
+| 2020 | за свои деньги, розе | 3 | Budimir · Triada Rose 2018 | 
 | 2020 | золото | zlato | Braća Rajković · Prince Rskavac 2018 | 
 | 2020 | золото | zlato | Braća Rajković · 33 2016 | 
 | 2020 | золото | zlato | Temet · Ergo red 2017 | 
 | 2020 | золото | zlato | Fragaria · Red 2018 | 
+| 2020 | лучшая малая винодельня | 4 | Vinarija Radovan | 
+| 2020 | лучшая малая винодельня | 5 | Ivanović | 
+| 2020 | лучшая молодая винодельня | 4 | Lastar | 
+| 2020 | лучшая молодая винодельня | 8 | Fragaria | 
+| 2020 | лучшее белое | 2 | Temet · Ergo White 2018 | 
+| 2020 | лучшее белое | 5 | Cilić · Onyx 2018 | 
+| 2020 | лучшее белое | 6 | Temet · Tri Morave Rezerva belo 2017 | 
+| 2020 | лучшее белое | 10 | Lastar · Triangl Sauvignon - Viognier 2017 | 
+| 2020 | лучшее белое, местные сорта | 1 | Temet · Tri Morave rezerva belo 2017 | 
+| 2020 | лучшее белое, местные сорта | 4 | Vinarija Radovan · 100% Tamjanika 2019 | 
+| 2020 | лучшее белое, местные сорта | 5 | Cilić · Morava 2019 | 
+| 2020 | лучшее белое, местные сорта | 9 | Yotta · Hysteresis 2017 | 
+| 2020 | лучшее игристое | 1 | Lastar · Brut Blanc de Blancs 2016 | 
+| 2020 | лучшее игристое | 4 | Temet · Tri Morave Penušavo Belo 2018 | 
+| 2020 | лучшее красное | 3 | Temet · Ergo Red 2017 | 
+| 2020 | лучшее красное | 5 | Temet · Tri Morave rezerva 2017 | 
+| 2020 | лучшее красное, местные сорта | 4 | Temet · Tri Morave crveno 2018 | 
+| 2020 | лучшее красное, органика | 3 | MV Vinarija · Kaberne SF 2018 | 
+| 2020 | лучшее красное, органика | 8 | Vujić · Gmitar 2017 | 
+| 2020 | лучшее оранж | 3 | MV Vinarija · Tamjanika 2018 | 
+| 2020 | лучшее оранж | 7 | MV Vinarija · Šardone 2018 | 
 | 2020 | лучшее розе | 1 | Temet · Ergo Rose 2018 | 
+| 2020 | лучшее розе | 4 | Temet · Tri Morave Rose 2019 | 
+| 2020 | лучшее сладкое или полусладкое | 3 | Minić · Slatka suza 2019 | 
+| 2020 | лучшее сладкое или полусладкое | 5 | Yotta · Bonsai Prokupac 2016 | 
+| 2020 | лучший дизайн этикетки | 2 | Temet | 
+| 2020 | лучший дизайн этикетки | 9 | Lastar | 
+| 2020 | лучший маркетинг | 3 | Temet | 
+| 2020 | лучший маркетинг | 7 | Rubin | 
 | 2020 | одобрение | approval | Rubin · Merlot 2017 | 
 | 2020 | одобрение | approval | Spasić · Tamjanika 2019 | 
 | 2020 | одобрение | approval | Lastar · Riesling 2017 | 
@@ -2724,7 +3215,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | бронза | bronza | Lastar · Pinot Noir 2016 | 
 | 2019 | бронза | bronza | Lastar · Triangl Chardonnay 2016 | 
 | 2019 | бронза | bronza | Temet · Tri Morave 2017 | 
-| 2019 | бронза | bronza | Radovan · Experiment Prokupac 2017 | 
+| 2019 | бронза | bronza | Vinarija Radovan · Experiment Prokupac 2017 | 
 | 2019 | бронза | bronza | Temet · Ergo White 2016 | 
 | 2019 | бронза | bronza | Rubin · Amante Carmen 2016 | 
 | 2019 | бронза | bronza | Lastar · Pinot Noir 2016 | 
@@ -2733,20 +3224,53 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | бронза | bronza | Lastar · Riesling 2017 | 
 | 2019 | бронза | bronza | Temet · Ergo Red 2016 | 
 | 2019 | бронза | bronza | Temet · Tri Morave Red 2017 | 
-| 2019 | винодельня года | 1 | Temet | 
+| 2019 | винодельня года | 5 | Cilić | 
+| 2019 | винодельня года | 8 | Vinarija Radovan | 
+| 2019 | винодельня, от которой ждут взлёта | 2 | Lastar | 
+| 2019 | винодельня, от которой ждут взлёта | 5 | Vinarija Radovan | 
+| 2019 | за свои деньги | 5 | Temet · Tri Morave White 2018 | 
 | 2019 | золото | zlato | Temet · Tri Morave Reserve 2016 | 
 | 2019 | золото | zlato | Lastar · Pinot Noir 2016 | 
 | 2019 | золото | zlato | Temet · Tri Morave sparkling 2017 | 
 | 2019 | золото | zlato | Temet · Ergo white 2016 | 
-| 2019 | лучшее белое | 1 | Cilić · Onyx Belo 2017 | 
-| 2019 | лучшее красное | 1 | Temet · Tri Morave Rezerva Crveno 2016 | 
+| 2019 | лучшая малая винодельня | 8 | Yotta | 
+| 2019 | лучшая молодая винодельня | 2 | Lastar | 
+| 2019 | лучшее белое | 1 | Cilić · Onyx belo 2017 | 
+| 2019 | лучшее белое | 4 | Temet · Tri Morave rezerva belo 2016 | 
+| 2019 | лучшее белое | 6 | Vinarija Radovan · 100% Tamjanika 2018 | 
+| 2019 | лучшее белое, местные сорта | 1 | Temet · Tri Morave Rezerva belo 2016 | 
+| 2019 | лучшее белое, местные сорта | 2 | Vinarija Radovan · 100% Tamjanika 2018 | 
+| 2019 | лучшее белое, местные сорта | 4 | Ivanović · Tamjanika 2018 | 
+| 2019 | лучшее белое, местные сорта | 5 | Vinarija Radovan · Experiment tamjanika 2018 | 
+| 2019 | лучшее белое, местные сорта | 6 | Lastar · Tamjanika 2018 | 
+| 2019 | лучшее белое, местные сорта | 7 | Cilić · Morava 2018 | 
+| 2019 | лучшее белое, местные сорта | 8 | Temet · Tri Morave White 2018 | 
+| 2019 | лучшее белое, местные сорта | 9 | Spasić · Tamjanika Lekcija 2017 | 
+| 2019 | лучшее игристое | 5 | Lastar · Brut 2016 | 
+| 2019 | лучшее красное | 1 | Temet · Tri Morave rezerva crveno 2016 | 
+| 2019 | лучшее красное | 5 | Vinarija Radovan · 100% Prokupac 2017 | 
+| 2019 | лучшее красное | 9 | Cilić · Onyx crveno 2017 | 
+| 2019 | лучшее красное | 10 | Ivanović · Prokupac 2017 | 
+| 2019 | лучшее красное, местные сорта | 1 | Vinarija Radovan · 100% Prokupac 2017 | 
+| 2019 | лучшее красное, местные сорта | 3 | Ivanović · Prokupac 2017 | 
+| 2019 | лучшее розе | 8 | Temet · Tri Morave Rose 2017 | 
+| 2019 | лучшее сладкое или полусладкое | 1 | Ivanović · Zanos 2017 | 
+| 2019 | лучший винный бренд | 8 | Vinarija Radovan | 
+| 2019 | лучший винный бренд | 9 | Lastar | 
+| 2019 | лучший дизайн этикетки | 2 | Temet | 
+| 2019 | лучший дизайн этикетки | 5 | Lastar | 
+| 2019 | лучший маркетинг | 3 | Temet | 
 | 2019 | одобрение | approval | Lastar · Chardonnay 2017 | 
 | 2019 | отмечено | commended | Lastar · Triangl Sauvignon - Viognier 2016 | 
 | 2019 | отмечено | commended | Lastar · Chardonnay 2017 | 
-| 2019 | отмечено | commended | Radovan · 100% Prokupac 2017 | 
+| 2019 | отмечено | commended | Vinarija Radovan · 100% Prokupac 2017 | 
 | 2019 | отмечено | commended | Lastar · Triangl Chardonnay 2016 | 
 | 2019 | отмечено | commended | Lastar · Triangl Sauvignon-Viognier 2016 | 
 | 2019 | отмечено | commended | Ivanović · Prokupac 2016 | 
+| 2019 | самый приятный сюрприз | 1 | Temet · Tri Morave rezerva crveno 2016 | 
+| 2019 | самый приятный сюрприз | 2 | Lastar · Brut 2016 | 
+| 2019 | самый приятный сюрприз | 3 | Temet · Tri Morave Rezerva belo 2016 | 
+| 2019 | самый приятный сюрприз | 10 | Lastar · Triangl Pinot Noir 2017 | 
 | 2019 | серебро | srebro | Rubin · Amante Carmen 2016 | 
 | 2019 | серебро | srebro | Temet · Ergo 2016 | 
 | 2019 | серебро | srebro | Lastar · Triangl Chardonnay 2016 | 
@@ -2773,7 +3297,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2018 | бронза | bronza | Ivanović · No 1/2 2015 | 
 | 2018 | бронза | bronza | Temet · Tri Morave 2016 | 
 | 2018 | бронза | bronza | Temet · Ergo 2016 | 
-| 2018 | бронза | bronza | Radovan · Experiment Prokupac 2016 | 
+| 2018 | бронза | bronza | Vinarija Radovan · Experiment Prokupac 2016 | 
 | 2018 | бронза | bronza | Ivanović · Prokupac 2016 | 
 | 2018 | бронза | bronza | Temet · Tri Morave rose 2017 | 
 | 2018 | бронза | bronza | Temet · Tri Morave red 2016 | 
@@ -2784,7 +3308,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2018 | одобрение | approval | Lastar · Rose 2017 | 
 | 2018 | отмечено | commended | Lastar · Triangl Chardonnay 2015 | 
 | 2018 | серебро | srebro | Temet · Tri Morave 2017 | 
-| 2018 | серебро | srebro | Radovan · Prokupac 2015 | 
+| 2018 | серебро | srebro | Vinarija Radovan · Prokupac 2015 | 
 | 2018 | серебро | srebro | Temet · Tri Morave white 2017 | 
 | 2018 | серебро | srebro | Temet · Dobra Godina 2011 | 
 | 2018 | серебро | srebro | Temet · Ergo red 2016 | 
@@ -2807,8 +3331,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2017 | бронза | bronza | Lastar · Pinot Noir 2015 | 
 | 2017 | бронза | bronza | Spasić · Tamjanika 2016 | 
 | 2017 | бронза | bronza | Spasić · Tamjanika Lekcija 2015 | 
-| 2017 | бронза | bronza | Vinska Kuća Minića · Stota Suza 2014 | 
-| 2017 | бронза | bronza | Vinska Kuća Minića · Tamjanika Kasna berba 2011 | 
+| 2017 | бронза | bronza | Minić · Stota Suza 2014 | 
+| 2017 | бронза | bronza | Minić · Tamjanika Kasna berba 2011 | 
 | 2017 | золото | zlato | Lastar · Chardonnay 2015 | 
 | 2017 | одобрение | approval | Spasić · Tamjanika 2016 | 
 | 2017 | одобрение | approval | Lastar · Rosé 2016 | 
@@ -2816,7 +3340,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2017 | отмечено | commended | Lastar · Triangl Chardonnay 2015 | 
 | 2017 | отмечено | commended | Temet · Ergo Blush 2015 | 
 | 2017 | отмечено | commended | Temet · Ergo Red 2015 | 
-| 2017 | серебро | srebro | Radovan · Experiment Prokupac 2015 | 
+| 2017 | серебро | srebro | Vinarija Radovan · Experiment Prokupac 2015 | 
 | 2017 | серебро | srebro | Lastar · Tamjanika 2016 | 
 | 2017 | серебро | srebro | Spasić · Tamjanika Lekcija 2015 | 
 | 2017 | серебро | srebro | Lastar · Chardonnay 2015 | 
@@ -2966,7 +3490,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | бронза | bronza | Matalj · Terasa Sauvignon Blanc 2024 | 
 | 2025 | бронза | bronza | Matalj · Kremen 2022 | 
 | 2025 | винодельня года | 1 | Matalj | 
+| 2025 | за свои деньги, розе | 1 | Matalj · Dušica 2024 | 
 | 2025 | золото | zlato | Matalj · Cuvée Bukovski 2021 | 
+| 2025 | лучшее игристое, классический метод, органика | 1 | Francuska vinarija · Brut C 2021 | 
 | 2025 | лучшее красное, местные сорта | 1 | Matalj · Cuvée Bukovski 2021 | 
 | 2025 | серебро | srebro | Matalj · Bagrina 2023 | 
 | 2025 | серебро | srebro | Matalj · Zemna Reserva 2021 | 
@@ -2975,6 +3501,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | двойное золото | dvojno-zlato | Matalj · Zamna 2021 | 
 | 2024 | двойное золото | dvojno-zlato | Matalj · Bukovski 2020 | 
 | 2024 | золото | zlato | Matalj · Cuvée Bukovski 2020 | 
+| 2024 | лучшее сладкое или полусладкое | 1 | Matalj · Crna Tamjanika 2023 | 
 | 2024 | серебро | srebro | Matalj · Bukovski Prokupac 2020 | 
 | 2024 | серебро | srebro | Matalj · Zemna Reserva 2021 | 
 | 2024 | серебро | srebro | Matalj · Terasa Chardonnay 2022 | 
@@ -2984,8 +3511,18 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | серебро | srebro | Matalj · Zamna 2021 | 
 | 2023 | бронза | bronza | Matalj · Zamna 2020 | 
 | 2023 | бронза | bronza | Matalj · Kremen 2020 | 
+| 2023 | винодельня года | 6 | Matalj | 
+| 2023 | вклад в винный туризм | 5 | Matalj | 
+| 2023 | за свои деньги, белое | 1 | Raj · Zenit 2022 | 
+| 2023 | за свои деньги, красное | 4 | Raj · Game 2020 | 
 | 2023 | золото | zlato | Matalj · Kremen 2020 | 
-| 2023 | лучшее из местных сортов, красное | 1 | Matalj · Cuvée Bukovski 2019 | 
+| 2023 | лучшая малая винодельня | 10 | Raj | 
+| 2023 | лучшее красное | 10 | Matalj · Zemna Reserva 2020 | 
+| 2023 | лучшее красное, местные сорта | 1 | Matalj · Cuvée Bukovski 2019 | 
+| 2023 | лучшее красное, местные сорта | 5 | Vimmid · Prokupac 2021 | 
+| 2023 | лучшее сладкое или полусладкое | 8 | Vimmid · Crna tamjanika 2022 | 
+| 2023 | лучшее сладкое или полусладкое | 9 | Matalj · Crna tamjanika 2022 | 
+| 2023 | лучший дизайн этикетки | 3 | Raj | 
 | 2023 | серебро | srebro | Matalj · Cuvée Bukovski 2019 | 
 | 2023 | серебро | srebro | Matalj · Terasa Sauvignon Blanc 2022 | 
 | 2023 | серебро | srebro | Matalj · Bagrina Bukovska 2022 | 
@@ -2995,8 +3532,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | бронза | bronza | Matalj · Terasa Chardonnay 2019 | 
 | 2022 | бронза | bronza | Matalj · Cuvée Bukovski 2018 | 
 | 2022 | бронза | bronza | Matalj · Bukovski Cuve 2019 | 
+| 2022 | винодельня года | 5 | Matalj | 
+| 2022 | вклад в винный туризм | 2 | Matalj | 
+| 2022 | за свои деньги, красное | 5 | Manastir Bukovo · Filigran Merlot 2021 | 
 | 2022 | золото | zlato | Matalj · Terasa Chardonnay 2020 | 
-| 2022 | лучшее красное | 5 | Manastir Bukovo · Filigran Merlot 2021 | 
+| 2022 | лучшее белое, органика | 2 | Francuska vinarija · Tajna 2019 | 
+| 2022 | лучшее красное | 1 | Matalj · Kremen Kamen 2019 | 
+| 2022 | лучший винный бренд | 9 | Matalj | 
 | 2022 | серебро | srebro | Matalj · Kremen 2017 | 
 | 2022 | серебро | srebro | Matalj · Crna Tamjanika 2021 | 
 | 2022 | серебро | srebro | Matalj · Terasa Sauvignon Blanc 2021 | 
@@ -3006,7 +3548,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2021 | бронза | bronza | Vimmid · Sauvignon-Semillon 2020 | 
 | 2021 | бронза | bronza | Manastir Bukovo · Filigran Cabernet Sauvignon 2017 | 
 | 2021 | бронза | bronza | Manastir Bukovo · Filigran Merlot 2017 | 
+| 2021 | вклад в винный туризм | 8 | Matalj | 
 | 2021 | золото | zlato | Matalj · Terasa Chardonnay 2020 | 
+| 2021 | лучшее красное | 4 | Matalj · Kremen Kamen 2017 | 
 | 2021 | серебро | srebro | Manastir Bukovo · Filigran Гаме 2017 | 
 | 2021 | серебро | srebro | Matalj · Terasa Sauvignon Blanc 2019 | 
 | 2021 | серебро | srebro | Matalj · Dušica 2019 | 
@@ -3019,11 +3563,15 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | бронза | bronza | Matalj · Terasa Chardonnay 2018 | 
 | 2020 | бронза | bronza | Matalj · Crna Tamjanika 2018 | 
 | 2020 | бронза | bronza | Raj · Game 2017 | 
+| 2020 | вклад в винный туризм | 5 | Matalj | 
+| 2020 | за свои деньги, розе | 2 | Matalj · Dušica 2019 | 
 | 2020 | золото | zlato | Matalj · Kremen Kamen Cabernet Sauvignon 2017 | 
 | 2020 | золото | zlato | Matalj · Kremen Kamen Cabernet Sauvignon 2016 | 
 | 2020 | золото | zlato | Matalj · Kremen 2017 | 
 | 2020 | золото | zlato | Matalj · Terasa Sauvignon Blanc 2019 | 
 | 2020 | золото | zlato | Raj · Sova 2018 | 
+| 2020 | лучшее белое, местные сорта | 2 | Matalj · Bagrina 2019 | 
+| 2020 | лучшее сладкое или полусладкое | 1 | Matalj · Crna Tamjanika 2019 | 
 | 2020 | отмечено | commended | Manastir Bukovo · Filigran Roze 2017 | 
 | 2020 | отмечено | commended | Matalj · Kremen Cabernet Sauvignon 2017 | 
 | 2020 | отмечено | commended | Vimmid · Cabernet Sauvignon 2018 | 
@@ -3040,6 +3588,10 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | бронза | bronza | Matalj · Bagrina 2018 | 
 | 2019 | бронза | bronza | Matalj · Terasa Sauvignon Blanc 2017 | 
 | 2019 | бронза | bronza | Matalj · Crna Tamjanika 2018 | 
+| 2019 | за свои деньги | 9 | Manastir Bukovo · Filigran Merlot 2015 | 
+| 2019 | лучшее красное | 3 | Matalj · Kremen Kamen 2016 | 
+| 2019 | лучшее розе | 6 | Matalj · Dušica Rose 2018 | 
+| 2019 | лучшее сладкое или полусладкое | 3 | Matalj · Crna Tamjanika 2018 | 
 | 2019 | отмечено | commended | Matalj · Kremen 2016 | 
 | 2019 | отмечено | commended | Matalj · Kremen Kamen 2015 | 
 | 2019 | отмечено | commended | Matalj · Terasa Sauvignon Blanc 2017 | 
@@ -3105,28 +3657,28 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Doja · Breg Prokupac | 2019 | 92 | decanter |
 | Doja · Breg Merlot | 2019 | 92 | decanter |
 | Doja · Prokupac | 2020 | 92 | biwc |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 2019 | 92 | awc-vienna |
+| Toplički vinogradi · Epigenia Prokupac | 2019 | 92 | awc-vienna |
 | Doja · Chardonnay Barrique | 2022 | 91 | Falstaff |
 | Doja · Rosé | 2022 | 91 | Falstaff |
 | Doja · Breg Cabernet Sauvignon | 2019 | 91 | decanter |
 | Doja · Prokupac | 2021 | 91 | decanter |
 | Doja · Breg Cabernet Sauvignon | 2020 | 91 | biwc |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 2015 | 91 | awc-vienna |
+| Toplički vinogradi · Epigenia Prokupac | 2015 | 91 | awc-vienna |
 | Doja · Chardonnay & Pinot Grigio | 2022 | 90 | Falstaff |
 | Doja · Prokupac | 2019 | 90 | decanter |
 | Doja · Cabernet & Merlot | 2020 | 90 | biwc |
 | Doja · BREG Prokupac | 2020 | 90 | biwc |
-| Vinarija Toplički Vinogradi · President Vranac | 2020 | 90 | awc-vienna |
-| Vinarija Toplički Vinogradi · President Vranac Barrique | 2017 | 90 | awc-vienna |
-| Vinarija Toplički Vinogradi · Vranac Barrique | 2015 | 90 | awc-vienna |
-| Vinarija Toplički Vinogradi · Virtus | 2015 | 90 | awc-vienna |
+| Toplički vinogradi · President Vranac | 2020 | 90 | awc-vienna |
+| Toplički vinogradi · President Vranac Barrique | 2017 | 90 | awc-vienna |
+| Toplički vinogradi · Vranac Barrique | 2015 | 90 | awc-vienna |
+| Toplički vinogradi · Virtus | 2015 | 90 | awc-vienna |
 | Doja · Tamjanika | 2022 | 89 | Falstaff |
 | Doja · Prokupac | 2017 | 89 | decanter |
 | Doja · Breg Prokupac | 2020 | 89 | biwc |
 | Doja · Prokupac | 2021 | 89 | biwc |
 | Doja · Prokupac | 2017 | 89 | awc-vienna |
 | Doja · Chardonnay & Pinot Grigio | 2019 | 89 | awc-vienna |
-| Vinarija Toplički Vinogradi · Vranac Barrique | 2017 | 89 | awc-vienna |
+| Toplički vinogradi · Vranac Barrique | 2017 | 89 | awc-vienna |
 | Doja · Belo | 2015 | 88 | decanter |
 | Doja · Cabernet Sauvignon - Merlot | 2018 | 88 | decanter |
 | Doja · Cabernet Sauvignon - Merlot | 2021 | 88 | decanter |
@@ -3135,9 +3687,9 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Doja · Chardonnay Barrique | 2022 | 88 | biwc |
 | Doja · Prokupac | 2020 | 88 | biwc |
 | Doja · Tamjanika | 2025 | 88 | biwc |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 2017 | 88 | awc-vienna |
-| Vinarija Toplički Vinogradi · Virtus 70/30 | 2017 | 88 | awc-vienna |
-| Vinarija Toplički Vinogradi · Tribus Villa Prokupac | 2015 | 88 | awc-vienna |
+| Toplički vinogradi · Epigenia Prokupac | 2017 | 88 | awc-vienna |
+| Toplički vinogradi · Virtus 70/30 | 2017 | 88 | awc-vienna |
+| Toplički vinogradi · Tribus Villa Prokupac | 2015 | 88 | awc-vienna |
 | Doja · Prokupac | 2015 | 87 | decanter |
 | Doja · Breg Prokupac-Cabernet | 2017 | 87 | decanter |
 | Doja · Tamjanika | 2020 | 87 | decanter |
@@ -3147,7 +3699,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Doja · Cabernet Sauvignon - Merlot | 2019 | 87 | biwc |
 | Doja · Tamjanika | 2023 | 87 | biwc |
 | Doja · Breg Prokupac | 2021 | 87 | biwc |
-| Vinarija Toplički Vinogradi · Epigenia Prokupac | 2018 | 87 | awc-vienna |
+| Toplički vinogradi · Epigenia Prokupac | 2018 | 87 | awc-vienna |
 | Doja · Prokupac | 2015 | 87 | awc-vienna |
 | Doja · Cabernet Sauvignon - Merlot | 2016 | 86 | decanter |
 | Doja · Chardonnay-Pinot Grigio | 2019 | 86 | decanter |
@@ -3172,9 +3724,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | бронза | bronza | Doja · Tamjanika 2024 | 
 | 2025 | двойное золото | dvojno-zlato | Doja · BREG Cabernet Sauvignon 2020 | 
 | 2025 | золото | zlato | Doja · BREG Prokupac 2020 | 
+| 2025 | лучшее оранж, органика | 1 | Kostić · Tamjanika Oranž 2024 | 
 | 2025 | серебро | srebro | Doja · Prokupac 2020 | 
 | 2024 | бронза | bronza | Doja · Cabernet Sauvignon - Merlot 2021 | 
 | 2024 | вклад в винный туризм | 1 | Doja | 
+| 2024 | за свои деньги, красное, местные сорта | 1 | Doja · Prokupac 2020 | 
 | 2024 | золото | zlato | Doja · Breg Prokupac 2020 | 
 | 2024 | золото | zlato | Doja · Prokupac 2020 | 
 | 2024 | золото | zlato | Doja · Breg Prokupac 2020 | 
@@ -3183,6 +3737,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | серебро | srebro | Doja · Breg Cabernet Sauvignon 2020 | 
 | 2024 | серебро | srebro | Doja · Chardonnay Barrique 2022 | 
 | 2024 | серебро | srebro | Doja · Tamjanika 2023 | 
+| 2023 | лучшее красное, органика | 9 | Kostić · Prokupac 2021 | 
 | 2023 | серебро | srebro | Doja · Prokupac 2019 | 
 | 2023 | серебро | srebro | Doja · Breg Prokupac 2019 | 
 | 2023 | серебро | srebro | Doja · Breg Cabernet Sauvignon 2019 | 
@@ -3195,57 +3750,76 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | золото | zlato | Doja · Tamjanika 2021 | 
 | 2022 | золото | zlato | Doja · Prokupac 2019 | 
 | 2022 | золото | zlato | Doja · Breg Prokupac 2019 | 
+| 2022 | лучшая малая винодельня | 10 | Kostić | 
+| 2022 | лучшее красное | 3 | Doja · Breg Cabernet Sauvignon 2019 | 
+| 2022 | лучшее красное, органика | 9 | Kostić · Prokupac Barrique 2019 | 
 | 2022 | серебро | srebro | Doja · Breg Cabernet Sauvignon 2019 | 
 | 2021 | бронза | bronza | Doja · Chardonnay-Pinot Grigio 2019 | 
 | 2021 | бронза | bronza | Doja · Cabernet Sauvignon - Merlot 2018 | 
 | 2021 | бронза | bronza | Doja · Tamjanika 2020 | 
 | 2021 | бронза | bronza | Doja · Prokupac 2017 | 
 | 2021 | бронза | bronza | Doja · Breg Cabernet Sauvignon 2017 | 
+| 2021 | вклад в винный туризм | 5 | Doja | 
 | 2021 | двойное золото | dvojno-zlato | Doja · Prokupac 2018 | 
-| 2021 | двойное золото | dvojno-zlato | Vinarija Toplički Vinogradi · Epigenia Cabernet sauvignon 2018 | 
+| 2021 | двойное золото | dvojno-zlato | Toplički vinogradi · Epigenia Cabernet sauvignon 2018 | 
+| 2021 | за свои деньги, красное | 2 | Doja · Cabernet-Merlot 2018 | 
 | 2021 | золото | zlato | Doja · Cabernet Sauvignon & Merlot 2018 | 
-| 2021 | золото | zlato | Vinarija Toplički Vinogradi · Epigenia Pinot Noir 2019 | 
-| 2021 | золото | zlato | Vinarija Toplički Vinogradi · Epigenia Merlot 2019 | 
-| 2021 | золото | zlato | Vinarija Toplički Vinogradi · Epigenia Prokupac 2019 | 
-| 2021 | серебро | srebro | Vinarija Toplički Vinogradi · Epigenia Sauvignon blanc 2020 | 
-| 2021 | серебро | srebro | Vinarija Toplički Vinogradi · Epigenia Chardonnay 2020 | 
-| 2021 | серебро | srebro | Vinarija Toplički Vinogradi · Prkos rose 2020 | 
-| 2021 | серебро | srebro | Vinarija Toplički Vinogradi · Epigenia Prokupac 2019 | 
-| 2021 | серебро | srebro | Vinarija Toplički Vinogradi · Gvozdeni puk crveno 2019 | 
+| 2021 | золото | zlato | Toplički vinogradi · Epigenia Pinot Noir 2019 | 
+| 2021 | золото | zlato | Toplički vinogradi · Epigenia Merlot 2019 | 
+| 2021 | золото | zlato | Toplički vinogradi · Epigenia Prokupac 2019 | 
+| 2021 | лучшее белое, местные сорта | 8 | Doja · Tamjanika 2020 | 
+| 2021 | лучшее красное, органика | 7 | Kostić · Prokupac 2018 | 
+| 2021 | лучший дизайн этикетки | 10 | Toplički vinogradi | 
+| 2021 | серебро | srebro | Toplički vinogradi · Epigenia Sauvignon blanc 2020 | 
+| 2021 | серебро | srebro | Toplički vinogradi · Epigenia Chardonnay 2020 | 
+| 2021 | серебро | srebro | Toplički vinogradi · Prkos rose 2020 | 
+| 2021 | серебро | srebro | Toplički vinogradi · Epigenia Prokupac 2019 | 
+| 2021 | серебро | srebro | Toplički vinogradi · Gvozdeni puk crveno 2019 | 
 | 2021 | серебро | srebro | Doja · Chardonnay & Pinot Grigio 2019 | 
 | 2021 | серебро | srebro | Doja · Breg Prokupac 2017 | 
-| 2021 | серебро | srebro | Vinarija Toplički Vinogradi · President Vranac 2020 | 
+| 2021 | серебро | srebro | Toplički vinogradi · President Vranac 2020 | 
 | 2020 | бронза | bronza | Doja · Breg Prokupac-Cabernet 2017 | 
 | 2020 | бронза | bronza | Doja · Prokupac 2017 | 
 | 2020 | бронза | bronza | Doja · Cabernet Sauvignon - Merlot 2016 | 
-| 2020 | бронза | bronza | Vinarija Toplički Vinogradi · Tribus villa Pinot Noir 2017 | 
-| 2020 | бронза | bronza | Vinarija Toplički Vinogradi · Epigenia Chardonnay 2018 | 
-| 2020 | бронза | bronza | Vinarija Toplički Vinogradi · Epigenia Sauvignon Blanc 2018 | 
+| 2020 | бронза | bronza | Toplički vinogradi · Tribus villa Pinot Noir 2017 | 
+| 2020 | бронза | bronza | Toplički vinogradi · Epigenia Chardonnay 2018 | 
+| 2020 | бронза | bronza | Toplički vinogradi · Epigenia Sauvignon Blanc 2018 | 
+| 2020 | винодельня года | 3 | Doja | 
+| 2020 | винодельня, от которой ждут взлёта | 1 | Doja | 
 | 2020 | золото | zlato | Doja · Cabernet Sauvignon & Merlot 2016 | 
-| 2020 | золото | zlato | Vinarija Toplički Vinogradi · Epigenia Cabernet Sauvignon 2015 | 
+| 2020 | золото | zlato | Toplički vinogradi · Epigenia Cabernet Sauvignon 2015 | 
+| 2020 | лучшая молодая винодельня | 2 | Doja | 
+| 2020 | лучшее красное | 4 | Doja · Breg Cabernet Sauvignon 2017 | 
+| 2020 | лучшее красное | 8 | Doja · Breg Prokupac 2017 | 
+| 2020 | лучшее красное | 10 | Kostić · Prokupac 2017 | 
+| 2020 | лучшее красное, местные сорта | 2 | Doja · Breg Prokupac 2017 | 
+| 2020 | лучшее красное, местные сорта | 3 | Kostić · Prokupac 2017 | 
 | 2020 | лучшее красное, органика | 1 | Kostić · Prokupac 2017 | 
-| 2020 | одобрение | approval | Vinarija Toplički Vinogradi · Epigenia Prokupac 2018 | 
+| 2020 | одобрение | approval | Toplički vinogradi · Epigenia Prokupac 2018 | 
 | 2020 | серебро | srebro | Doja · Breg Prokupac 2015 | 
 | 2020 | серебро | srebro | Doja · Prokupac 2017 | 
 | 2020 | серебро | srebro | Doja · Chardonnay & Pinot Grigio 2018 | 
-| 2020 | серебро | srebro | Vinarija Toplički Vinogradi · Tribus villa Pinot Noir 2015 | 
-| 2020 | серебро | srebro | Vinarija Toplički Vinogradi · Epigenia Prokupac 2015 | 
-| 2020 | серебро | srebro | Vinarija Toplički Vinogradi · Gvozdeni Puk crveno 2013 | 
-| 2020 | серебро | srebro | Vinarija Toplički Vinogradi · Prkos 2018 | 
-| 2020 | серебро | srebro | Vinarija Toplički Vinogradi · President Vranac Barrique 2017 | 
+| 2020 | серебро | srebro | Toplički vinogradi · Tribus villa Pinot Noir 2015 | 
+| 2020 | серебро | srebro | Toplički vinogradi · Epigenia Prokupac 2015 | 
+| 2020 | серебро | srebro | Toplički vinogradi · Gvozdeni Puk crveno 2013 | 
+| 2020 | серебро | srebro | Toplički vinogradi · Prkos 2018 | 
+| 2020 | серебро | srebro | Toplički vinogradi · President Vranac Barrique 2017 | 
 | 2020 | серебро | srebro | Doja · Prokupac 2017 | 
 | 2020 | серебро | srebro | Doja · Chardonnay & Pinot Grigio 2019 | 
-| 2019 | серебро | srebro | Vinarija Toplički Vinogradi · Epigenia Prokupac 2017 | 
-| 2019 | серебро | srebro | Vinarija Toplički Vinogradi · Vranac Barrique 2017 | 
-| 2019 | серебро | srebro | Vinarija Toplički Vinogradi · Virtus 70/30 2017 | 
-| 2018 | золото | zlato | Vinarija Toplički Vinogradi · Epigenia Prokupac 2015 | 
-| 2018 | золото | zlato | Vinarija Toplički Vinogradi · Vranac Barrique 2015 | 
+| 2019 | лучшая молодая винодельня | 4 | Doja | 
+| 2019 | лучшее красное, местные сорта | 6 | Doja · Breg 2015 | 
+| 2019 | самый приятный сюрприз | 7 | Kostić · Prokupac 2015 | 
+| 2019 | серебро | srebro | Toplički vinogradi · Epigenia Prokupac 2017 | 
+| 2019 | серебро | srebro | Toplički vinogradi · Vranac Barrique 2017 | 
+| 2019 | серебро | srebro | Toplički vinogradi · Virtus 70/30 2017 | 
+| 2018 | золото | zlato | Toplički vinogradi · Epigenia Prokupac 2015 | 
+| 2018 | золото | zlato | Toplički vinogradi · Vranac Barrique 2015 | 
 | 2018 | отмечено | commended | Doja · Prokupac 2016 | 
 | 2018 | отмечено | commended | Doja · Belo Chardonnay & Pinot Grigio 2016 | 
 | 2018 | отмечено | commended | Doja · Belo Chardonnay-Pinot Grigio 2016 | 
 | 2018 | серебро | srebro | Doja · Rose 2017 | 
 | 2018 | серебро | srebro | Doja · Prokupac 2016 | 
-| 2018 | серебро | srebro | Vinarija Toplički Vinogradi · Virtus 2015 | 
+| 2018 | серебро | srebro | Toplički vinogradi · Virtus 2015 | 
 | 2017 | Best Indigenous Red variety Trophy | trofej | Doja · Prokupac 2015 | 
 | 2017 | бронза | bronza | Doja · Belo 2015 | 
 | 2017 | бронза | bronza | Doja · Prokupac 2015 | 
@@ -3254,7 +3828,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2017 | одобрение | approval | Doja · Prokupac 2015 | 
 | 2017 | одобрение | approval | Doja · Rosé 2015 | 
 | 2017 | отмечено | commended | Doja · Belo 2015 | 
-| 2017 | серебро | srebro | Vinarija Toplički Vinogradi · Tribus Villa Prokupac 2015 | 
+| 2017 | серебро | srebro | Toplički vinogradi · Tribus Villa Prokupac 2015 | 
 
 ## Юго-восток
 
@@ -3264,13 +3838,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Aleksić · Biser Smederevka Extra Brut | 2016 | 95 | decanter |
 | Aleksić · Žuti Cvet Penuśavo Tamnjanika Sec | 2019 | 95 | decanter |
 | Jović · VRANAC POTRKANJSKI | 2021 | 94 | biwc |
-| Dzervin · Lozana | 2021 | 94 | biwc |
+| Džervin · Lozana | 2021 | 94 | biwc |
 | Aleksić · Biser Smederevka Brut | 2014 | 92 | decanter |
 | Aleksić · Kardas Cabernet Sauvignon | 2021 | 92 | decanter |
 | Jović · Vranac Potrkanjski | 2021 | 92 | awc-vienna |
 | Aleksić · Amanet Vranac | 2019 | 92 | awc-vienna |
 | Aleksić · Biser Extra Brut | 2016 | 91 | Falstaff |
-| Dzervin · Trifun Grand Cabernet Sauvignon | 2019 | 91 | decanter |
+| Džervin · Trifun Grand Cabernet Sauvignon | 2019 | 91 | decanter |
 | Aleksić · Žuti Cvet Tamjanika | 2025 | 91 | decanter |
 | Aleksić · Bonaca Limited | 2014 | 90 | decanter |
 | Aleksić · Arno Sauvignon Blanc | 2015 | 90 | decanter |
@@ -3285,11 +3859,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Aleksić · Zuti Cvet Tamjanika | 2018 | 89 | decanter |
 | Aleksić · Zuti Cvet Tamjanika Extra Brut | 2023 | 89 | decanter |
 | Jović · ROSE DIONIZIJE | 2021 | 89 | biwc |
-| Dzervin · Sauvignon | 2023 | 89 | biwc |
-| Dzervin · Cuvee 69 | 2021 | 89 | biwc |
-| Dzervin · Grasac | 2024 | 89 | biwc |
-| Dzervin · Sauvignon | 2025 | 89 | biwc |
-| Dzervin · Dubravka Gold | 2025 | 89 | biwc |
+| Džervin · Sauvignon | 2023 | 89 | biwc |
+| Džervin · Cuvee 69 | 2021 | 89 | biwc |
+| Džervin · Grasac | 2024 | 89 | biwc |
+| Džervin · Sauvignon | 2025 | 89 | biwc |
+| Džervin · Dubravka Gold | 2025 | 89 | biwc |
 | Aleksić · Biser Smederevka | 2015 | 89 | awc-vienna |
 | Aleksić · BISER Smederevka | 2014 | 89 | awc-vienna |
 | Aleksić · Bonaca Chardonnay | 2019 | 88 | awc-vienna |
@@ -3297,7 +3871,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Aleksić · Temperament Merlot | 2015 | 88 | decanter |
 | Aleksić · Amanet Vranac | 2015 | 88 | decanter |
 | Aleksić · Prokupac | 2021 | 88 | decanter |
-| Dzervin · Trifun Grand Cabernet Sauvignon | 2019 | 88 | decanter |
+| Džervin · Trifun Grand Cabernet Sauvignon | 2019 | 88 | decanter |
 | Aleksić · Zuti Cvet Extra Brut | 2022 | 88 | decanter |
 | Aleksić · Morava | 2025 | 88 | decanter |
 | Jović · POTRKANJSKI DIONIZIJE | 2021 | 88 | biwc |
@@ -3311,11 +3885,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Aleksić · Zuti Cvet | 2023 | 87 | decanter |
 | Aleksić · Arno Sauvignon Blanc | 2023 | 87 | decanter |
 | Aleksić · Žuti Cvet Tamjanika | 2024 | 87 | decanter |
-| Dzervin · Trifun Grand Cabernet Sauvignon | 2019 | 87 | decanter |
-| Dzervin · Schlossberg | 2019 | 87 | biwc |
-| Dzervin · Sauvignon | 2024 | 87 | biwc |
-| Dzervin · Nijansa | 2024 | 87 | biwc |
-| Dzervin · Cuvee 69 | 2022 | 87 | biwc |
+| Džervin · Trifun Grand Cabernet Sauvignon | 2019 | 87 | decanter |
+| Džervin · Schlossberg | 2019 | 87 | biwc |
+| Džervin · Sauvignon | 2024 | 87 | biwc |
+| Džervin · Nijansa | 2024 | 87 | biwc |
+| Džervin · Cuvee 69 | 2022 | 87 | biwc |
 | Aleksić · Žuti Cvet Tamjanika | 2021 | 87 | awc-vienna |
 | Aleksić · Kardaš | 2013 | 86 | decanter |
 | Aleksić · Nostalgija | 2017 | 86 | decanter |
@@ -3325,114 +3899,146 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Aleksić · Zuti Cvet Tamjanika | 2021 | 86 | decanter |
 | Aleksić · Kontra | 2020 | 86 | decanter |
 | Aleksić · Zuti Cvet Tamjanika Sec | 2021 | 86 | decanter |
-| Dzervin · Riesling | 2021 | 86 | biwc |
+| Džervin · Riesling | 2021 | 86 | biwc |
 | Podrum Malča · Anonymous Crna Tamjanika | 2021 | 86 | biwc |
 | Jović · Rizling Rajnski Potrkanjski | 2021 | 86 | biwc |
-| Dzervin · Trifun | 2019 | 86 | biwc |
+| Džervin · Trifun | 2019 | 86 | biwc |
 | Podrum Malča · Anonymous Crna Tamjanika | 2021 | 86 | awc-vienna |
 | Jović · Vranac Potrkanjski | 2015 | 86 | awc-vienna |
 | Aleksić · Zuti cvet Tamjanika | 2014 | 86 | awc-vienna |
 | Aleksić · Zuti Cvet Tamjanika | 2013 | 86 | awc-vienna |
 | Aleksić · Arno | 2015 | 85 | decanter |
 | Aleksić · Amanet Vranac | 2012 | 85 | decanter |
-| Dzervin · Sauvignon | 2021 | 85 | biwc |
-| Dzervin · Nijansa | 2023 | 85 | biwc |
-| Dzervin · Lozana | 2023 | 85 | biwc |
+| Džervin · Sauvignon | 2021 | 85 | biwc |
+| Džervin · Nijansa | 2023 | 85 | biwc |
+| Džervin · Lozana | 2023 | 85 | biwc |
 | Podrum Malča · Anonymous Grašac | 2020 | 85 | awc-vienna |
 | Aleksić · Biser Smederevka | 2016 | 85 | awc-vienna |
 | Aleksić · Mozaik Pinot Noir | 2019 | 85 | awc-vienna |
 | Aleksić · Amanet Vranac | 2011 | 85 | awc-vienna |
 | Aleksić · Limited Bonaca Chardonnay | 2017 | 84 | decanter |
 | Aleksić · Arno Sauvignon Blanc | 2017 | 84 | decanter |
-| Dzervin · Dubravka Gold | 2024 | 84 | biwc |
-| Dzervin · Nijansa | 2025 | 84 | biwc |
-| Dzervin · Grašac | 2019 | 84 | awc-vienna |
+| Džervin · Dubravka Gold | 2024 | 84 | biwc |
+| Džervin · Nijansa | 2025 | 84 | biwc |
+| Džervin · Grašac | 2019 | 84 | awc-vienna |
 | Podrum Malča · Anonymous Sauvignon Blanc | 2021 | 83 | biwc |
-| Dzervin · Pinot Noir | 2022 | 82 | biwc |
+| Džervin · Pinot Noir | 2022 | 82 | biwc |
 
 **Награды**
 
 | Год | Категория | Место | Кому |
 |---|---|---|---|
 | 2026 | бронза | bronza | Aleksić · Morava 2025 | 
-| 2026 | бронза | bronza | Dzervin · Trifun Grand Cabernet Sauvignon 2019 | 
+| 2026 | бронза | bronza | Džervin · Trifun Grand Cabernet Sauvignon 2019 | 
 | 2026 | бронза | bronza | Aleksić · Zuti Cvet Tamjanika Extra Brut 2023 | 
-| 2026 | бронза | bronza | Dzervin · Nijansa 2025 | 
-| 2026 | золото | zlato | Dzervin · Grasac 2024 | 
-| 2026 | золото | zlato | Dzervin · Sauvignon 2025 | 
-| 2026 | золото | zlato | Dzervin · Dubravka Gold 2025 | 
+| 2026 | бронза | bronza | Džervin · Nijansa 2025 | 
+| 2026 | золото | zlato | Džervin · Grasac 2024 | 
+| 2026 | золото | zlato | Džervin · Sauvignon 2025 | 
+| 2026 | золото | zlato | Džervin · Dubravka Gold 2025 | 
 | 2026 | серебро | srebro | Aleksić · Žuti Cvet Tamjanika 2025 | 
-| 2026 | серебро | srebro | Dzervin · Lozana 2023 | 
-| 2026 | серебро | srebro | Dzervin · Cuvee 69 2022 | 
+| 2026 | серебро | srebro | Džervin · Lozana 2023 | 
+| 2026 | серебро | srebro | Džervin · Cuvee 69 2022 | 
 | 2025 | бронза | bronza | Aleksić · Žuti Cvet Tamjanika 2024 | 
 | 2025 | бронза | bronza | Aleksić · Zuti Cvet Extra Brut 2022 | 
-| 2025 | бронза | bronza | Dzervin · Dubravka Gold 2024 | 
-| 2025 | золото | zlato | Dzervin · Cuvee 69 2021 | 
+| 2025 | бронза | bronza | Džervin · Dubravka Gold 2024 | 
+| 2025 | за свои деньги, белое, международные сорта | 1 | Džervin · Dubravka Gold 2024 | 
+| 2025 | за свои деньги, красное, местные сорта | 1 | Jović · Vranac Potrkanjski 2022 | 
+| 2025 | золото | zlato | Džervin · Cuvee 69 2021 | 
 | 2025 | золото | zlato | Jović · Vranac Potrkanjski 2021 | 
-| 2025 | серебро | srebro | Dzervin · Trifun Grand Cabernet Sauvignon 2019 | 
+| 2025 | серебро | srebro | Džervin · Trifun Grand Cabernet Sauvignon 2019 | 
 | 2025 | серебро | srebro | Aleksić · Kardas Cabernet Sauvignon 2021 | 
-| 2025 | серебро | srebro | Dzervin · Sauvignon 2024 | 
-| 2025 | серебро | srebro | Dzervin · Nijansa 2024 | 
+| 2025 | серебро | srebro | Džervin · Sauvignon 2024 | 
+| 2025 | серебро | srebro | Džervin · Nijansa 2024 | 
 | 2025 | серебро | srebro | Jović · Rizling Rajnski Potrkanjski 2021 | 
 | 2024 | бронза | bronza | Aleksić · Prokupac 2021 | 
 | 2024 | бронза | bronza | Aleksić · Zuti Cvet 2023 | 
 | 2024 | бронза | bronza | Aleksić · Arno Sauvignon Blanc 2023 | 
-| 2024 | бронза | bronza | Dzervin · Trifun Grand Cabernet Sauvignon 2019 | 
+| 2024 | бронза | bronza | Džervin · Trifun Grand Cabernet Sauvignon 2019 | 
 | 2024 | двойное золото | dvojno-zlato | Jović · VRANAC POTRKANJSKI 2021 | 
-| 2024 | двойное золото | dvojno-zlato | Dzervin · Lozana 2021 | 
+| 2024 | двойное золото | dvojno-zlato | Džervin · Lozana 2021 | 
+| 2024 | за свои деньги, белое, международные сорта | 1 | Džervin · Sauvignon 2023 | 
 | 2024 | золото | zlato | Jović · ROSE DIONIZIJE 2021 | 
-| 2024 | золото | zlato | Dzervin · Sauvignon 2023 | 
+| 2024 | золото | zlato | Džervin · Sauvignon 2023 | 
 | 2024 | серебро | srebro | Aleksić · Limited Kardaš Cabernet Sauvignon 2021 | 
 | 2024 | серебро | srebro | Jović · POTRKANJSKI DIONIZIJE 2021 | 
 | 2024 | серебро | srebro | Jović · Rizling Rajnski Potrkanjski 2021 | 
-| 2024 | серебро | srebro | Dzervin · Nijansa 2023 | 
-| 2024 | серебро | srebro | Dzervin · Trifun 2019 | 
+| 2024 | серебро | srebro | Džervin · Nijansa 2023 | 
+| 2024 | серебро | srebro | Džervin · Trifun 2019 | 
 | 2023 | бронза | bronza | Aleksić · Prokupac 2021 | 
 | 2023 | бронза | bronza | Aleksić · Kontra 2020 | 
 | 2023 | бронза | bronza | Aleksić · Zuti Cvet Tamjanika Sec 2021 | 
-| 2023 | бронза | bronza | Dzervin · Pinot Noir 2022 | 
+| 2023 | бронза | bronza | Džervin · Pinot Noir 2022 | 
 | 2023 | бронза | bronza | Podrum Malča · Anonymous Sauvignon Blanc 2021 | 
+| 2023 | винодельня года | 2 | Jović | 
+| 2023 | за свои деньги, белое | 3 | Jović · Chardonnay 2021 | 
+| 2023 | за свои деньги, красное | 3 | Jović · Vranac Potrkanjski 2021 | 
+| 2023 | за свои деньги, красное | 5 | Džervin · Cabernet Sauvignon 2019 | 
+| 2023 | за свои деньги, розе | 2 | Jović · Rose Dionizije 2021 | 
 | 2023 | лучшая малая винодельня | 1 | Jović | 
+| 2023 | лучшее белое, органика | 4 | Jović · Chardonnay 2021 | 
+| 2023 | лучшее белое, органика | 9 | Jović · Rajnski rizling 2020 | 
+| 2023 | лучшее игристое | 8 | Aleksić · Biser 2018 | 
+| 2023 | лучшее игристое | 9 | Jović · Moša Brut 2020 | 
+| 2023 | лучшее красное, местные сорта | 2 | Jović · Dionizije 2019 | 
+| 2023 | лучшее красное, органика | 1 | Jović · Dionizije 2019 | 
+| 2023 | лучшее розе | 9 | Jović · Rose Dionizije 2021 | 
+| 2023 | лучшее розе | 10 | Aleksić · Code 2022 | 
 | 2023 | одобрение | approval | Podrum Malča · Anonymous Grašac 2020 | 
 | 2023 | одобрение | approval | Podrum Malča · Anonymous Crna Tamjanika 2021 | 
-| 2023 | серебро | srebro | Dzervin · Riesling 2021 | 
-| 2023 | серебро | srebro | Dzervin · Sauvignon 2021 | 
-| 2023 | серебро | srebro | Dzervin · Schlossberg 2019 | 
+| 2023 | серебро | srebro | Džervin · Riesling 2021 | 
+| 2023 | серебро | srebro | Džervin · Sauvignon 2021 | 
+| 2023 | серебро | srebro | Džervin · Schlossberg 2019 | 
 | 2023 | серебро | srebro | Podrum Malča · Anonymous Crna Tamjanika 2021 | 
 | 2022 | бронза | bronza | Aleksić · Bonaca Chardonnay 2021 | 
 | 2022 | бронза | bronza | Aleksić · Zuti Cvet Tamjanika 2021 | 
+| 2022 | вклад в винный туризм | 1 | Podrum Malča | 
+| 2022 | за свои деньги, белое | 2 | Jović · Rizling Rajnski Potrkanjski 2018 | 
+| 2022 | за свои деньги, розе | 1 | Džervin · Rose Pinot 2021 | 
 | 2022 | золото | zlato | Aleksić · Amanet Vranac 2019 | 
 | 2022 | золото | zlato | Aleksić · Biser Smederevka Extra Brut 2016 | 
 | 2022 | золото | zlato | Aleksić · Žuti Cvet Penuśavo Tamnjanika Sec 2019 | 
-| 2022 | золото | zlato | Dzervin · Sauvignon 2020 | 
-| 2022 | золото | zlato | Dzervin · Rose Pinot 2021 | 
+| 2022 | золото | zlato | Džervin · Sauvignon 2020 | 
+| 2022 | золото | zlato | Džervin · Rose Pinot 2021 | 
 | 2022 | золото | zlato | Aleksić · Tamjanika zuti cvet penusavac 2019 | 
 | 2022 | золото | zlato | Aleksić · Amanet Vranac 2019 | 
+| 2022 | лучшее игристое | 5 | Aleksić · Biser 2016 | 
 | 2022 | одобрение | approval | Aleksić · Biser Smederevka 2016 | 
 | 2022 | серебро | srebro | Aleksić · Cabernet Franc 2020 | 
-| 2022 | серебро | srebro | Dzervin · Schlossberg 2019 | 
+| 2022 | серебро | srebro | Džervin · Schlossberg 2019 | 
 | 2022 | серебро | srebro | Aleksić · Žuti Cvet Tamjanika 2021 | 
 | 2021 | бронза | bronza | Aleksić · Temperament Merlot 2015 | 
-| 2021 | одобрение | approval | Dzervin · Grašac 2019 | 
+| 2021 | вклад в винный туризм | 6 | Podrum Malča | 
+| 2021 | за свои деньги, белое | 1 | Jović · Rizling Rajnski Potrkanjski 2017 | 
+| 2021 | лучшее белое | 6 | Jović · Rizling Rajnski Potrkanjski 2017 | 
+| 2021 | лучшее красное, местные сорта | 5 | Jović · Vranac potrkanjski 2018 | 
+| 2021 | лучшее красное, органика | 5 | Jović · Vranac Potrkanjski 2018 | 
+| 2021 | одобрение | approval | Džervin · Grašac 2019 | 
 | 2021 | серебро | srebro | Aleksić · Žuti Cvet Tamjanika Dry 2019 | 
-| 2021 | серебро | srebro | Dzervin · Grasac 2019 | 
-| 2021 | серебро | srebro | Dzervin · Sauvignon blanc 2020 | 
-| 2021 | серебро | srebro | Dzervin · Rose Pinot 2019 | 
+| 2021 | серебро | srebro | Džervin · Grasac 2019 | 
+| 2021 | серебро | srebro | Džervin · Sauvignon blanc 2020 | 
+| 2021 | серебро | srebro | Džervin · Rose Pinot 2019 | 
 | 2020 | бронза | bronza | Aleksić · Kardaš Cabernet Sauvignon 2017 | 
 | 2020 | бронза | bronza | Aleksić · Zuti Cvet Tamjanika 2019 | 
 | 2020 | бронза | bronza | Aleksić · Arno Sauvignon Blanc 2019 | 
 | 2020 | бронза | bronza | Aleksić · Limited Kardaš Cabernet Sauvignon 2015 | 
+| 2020 | за свои деньги, белое | 4 | Jović · Chardonnay Potrkanjski 2019 | 
+| 2020 | за свои деньги, белое | 9 | Džervin · Dubravka 2018 | 
+| 2020 | за свои деньги, красное | 2 | Jović · Vranac Potrkanjski 2017 | 
+| 2020 | за свои деньги, розе | 4 | Jović · Potrkanjski rose Dionizije 2019 | 
 | 2020 | золото | zlato | Aleksić · Amanet 2015 | 
 | 2020 | золото | zlato | Aleksić · Biser 2015 | 
 | 2020 | золото | zlato | Jović · Chardonnay Potrkanjski 2019 | 
 | 2020 | золото | zlato | Jović · Vranac Potrkanjski 2016 | 
+| 2020 | лучшее белое, органика | 2 | Jović · Chardonnay Potrkanjski 2019 | 
+| 2020 | лучшее игристое | 5 | Aleksić · Žuti cvet 2016 | 
+| 2020 | лучшее красное, органика | 6 | Jović · Dionizije Potrkanjski 2017 | 
 | 2020 | одобрение | approval | Aleksić · Mozaik Pinot Noir 2019 | 
 | 2020 | серебро | srebro | Aleksić · Bonaca Chardonnay 2019 | 
 | 2020 | серебро | srebro | Aleksić · Limited Bonaca Chardonnay 2018 | 
 | 2020 | серебро | srebro | Aleksić · Barbara 2019 | 
-| 2020 | серебро | srebro | Dzervin · Schlossberg 2017 | 
-| 2020 | серебро | srebro | Dzervin · Sauvignon blanc 2018 | 
-| 2020 | серебро | srebro | Dzervin · Riesling 2017 | 
+| 2020 | серебро | srebro | Džervin · Schlossberg 2017 | 
+| 2020 | серебро | srebro | Džervin · Sauvignon blanc 2018 | 
+| 2020 | серебро | srebro | Džervin · Riesling 2017 | 
 | 2020 | серебро | srebro | Jović · Potrkanjski Dionizije 2017 | 
 | 2020 | серебро | srebro | Aleksić · Biser Smederevka 2015 | 
 | 2019 | бронза | bronza | Aleksić · Nostalgija 2017 | 
@@ -3440,10 +4046,10 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | бронза | bronza | Aleksić · Temperament Merlot 2015 | 
 | 2019 | бронза | bronza | Aleksić · Amanet Vranac 2015 | 
 | 2019 | бронза | bronza | Aleksić · Zuti Cvet Penusavo 2015 | 
-| 2019 | бронза | bronza | Dzervin · Sauvignon Blanc 2017 | 
-| 2019 | бронза | bronza | Dzervin · Riesling 2017 | 
+| 2019 | бронза | bronza | Džervin · Sauvignon Blanc 2017 | 
+| 2019 | бронза | bronza | Džervin · Riesling 2017 | 
 | 2019 | серебро | srebro | Aleksić · Zuti Cvet 2018 | 
-| 2019 | серебро | srebro | Dzervin · Schlossberg 2016 | 
+| 2019 | серебро | srebro | Džervin · Schlossberg 2016 | 
 | 2018 | одобрение | approval | Jović · Vranac Potrkanjski 2015 | 
 | 2018 | отмечено | commended | Aleksić · Limited Bonaca Chardonnay 2017 | 
 | 2018 | отмечено | commended | Aleksić · Arno Sauvignon Blanc 2017 | 
@@ -3566,16 +4172,26 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | серебро | srebro | Janko · Stari Zavet Cabernet Sauvignon, Merlot & Cabernet Franc 2017 | 
 | 2023 | серебро | srebro | Janko · Stari Zavet 2017 | 
 | 2022 | бронза | bronza | Janko · Zavet 2019 | 
+| 2022 | винодельня года | 10 | Janko | 
 | 2022 | золото | zlato | Janko · Stari Zavet 2016 | 
+| 2022 | лучшее красное | 6 | Janko · Bifora 2017 | 
 | 2022 | серебро | srebro | Janko · Stari Zavet 2017 | 
 | 2021 | бронза | bronza | Janko · Bifora 2017 | 
 | 2021 | серебро | srebro | Janko · Stari Zavet 2017 | 
 | 2021 | серебро | srebro | Janko · Stari Zavet 2016 | 
+| 2020 | винодельня года | 9 | Janko | 
+| 2020 | винодельня, от которой ждут взлёта | 2 | Janko | 
 | 2020 | золото | zlato | Janko · Stari Zavet 2016 | 
+| 2020 | лучшее игристое | 2 | Janko · Mesečina 2017 | 
+| 2020 | лучшее красное, местные сорта | 10 | Janko · Baš prokupac 2018 | 
+| 2020 | лучший винный бренд | 10 | Janko | 
 | 2020 | отмечено | commended | Винарија Тришић (Vinarija Trišić) · Trisino 2013 | 
 | 2019 | бронза | bronza | Janko · Zapis Testament 2016 | 
+| 2019 | винодельня года | 3 | Janko | 
+| 2019 | лучшее игристое | 6 | Janko · Mesečina | 
 | 2019 | отмечено | commended | Janko · Misija 2016 | 
 | 2019 | отмечено | commended | Винарија Тришић (Vinarija Trišić) · Trisino 2013 | 
+| 2019 | самый приятный сюрприз | 4 | Janko · Bifora 2016 | 
 | 2019 | серебро | srebro | Janko · Stari Zavet 2016 | 
 | 2019 | серебро | srebro | Винарија Тришић (Vinarija Trišić) · Dimasid 2013 | 
 | 2019 | серебро | srebro | Janko · Stari Zavet 2016 | 
@@ -3640,8 +4256,11 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2025 | золото | zlato | Lakićević · PARUS 2022 | 
 | 2025 | золото | zlato | Lakićević · PICUS 2023 | 
 | 2025 | золото | zlato | Lakićević · ORIOLUS 2022 | 
-| 2025 | лучшее белое, органика, международные сорта | 1 | Lakićević · Parus 2022 | 
-| 2024 | лучшее красное, органика, международные сорта | 1 | Lakićević · Corvus Cabernet Franc 2021 | 
+| 2025 | лучшее белое, международные сорта, органика | 1 | Lakićević · Parus 2022 | 
+| 2025 | лучшее розе, органика | 1 | Lakićević · Rose Syrah 2024 | 
+| 2024 | лучшее красное, международные сорта, органика | 1 | Lakićević · Corvus Cabernet Franc 2021 | 
+| 2024 | лучшее розе, органика | 1 | Lakićević · Rose 2023 | 
+| 2024 | лучший маркетинг | 1 | Lakićević | 
 | 2023 | бронза | bronza | Lakićević · MERULA 2020 | 
 | 2023 | бронза | bronza | Lakićević · PICUS 2022 | 
 | 2023 | бронза | bronza | Lakićević · UPUPA 2022 | 
@@ -3649,6 +4268,10 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | золото | zlato | Lakićević · MERULA Selection 2020 | 
 | 2023 | золото | zlato | Lakićević · ORIOLUS 2020 | 
 | 2023 | лучшая молодая винодельня | 1 | Lakićević | 
+| 2023 | лучшее белое, органика | 6 | Lakićević · Picus 2021 | 
+| 2023 | лучшее красное, органика | 3 | Lakićević · Merula 2019 | 
+| 2023 | лучшее сладкое или полусладкое | 6 | Lakićević · Tamjanika Slobodanka Ice Wine 2019 | 
+| 2023 | лучший маркетинг | 5 | Lakićević | 
 | 2023 | серебро | srebro | Lakićević · PARUS 2020 | 
 | 2023 | серебро | srebro | Lakićević · PICUS Selection 2020 | 
 | 2022 | бронза | bronza | Lakićević · UPUPA 2020 | 
@@ -3684,7 +4307,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Dolina · Cuveé Barrique 2019 — 93 [decanter]
 - DiBonis Winery · Di Icewine 2020 — 93 [awc-vienna]
 - Vinarija DeLena · 1903 Merlot 2017 — 92 [Falstaff]
-- Vinarija Jeremić · Kanon Merlot Cabernet Sauvignon 2020 — 92 [Falstaff]
+- Jeremić · Kanon Merlot Cabernet Sauvignon 2020 — 92 [Falstaff]
 - Josic Winery · Zmajevac Tamjanika 2020 — 92 [Falstaff]
 - Josic Winery · Zmajevac Prokupac 2018 — 92 [Falstaff]
 - Virtus · Credo 2013 — 92 [decanter]
@@ -3702,11 +4325,10 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Grabak · Prokupac 2020 — 92 [decanter]
 - Gora · White Blend 2024 — 92 [biwc]
 - La Gora · Chardonnay 2025 — 92 [biwc]
-- Vinarija Radlović doo · Cabernet Sauvignon 2020 — 92 [biwc]
 - Podrum Pevac · Red wine Zagrljaj 2020 — 92 [awc-vienna]
 - Vinarija Milićević · VLADAVINA Merlot 2021 — 92 [awc-vienna]
 - PIK OPLENAC · Monarh Immortal S 2017 — 91 [Falstaff]
-- Vinarija Jeremić · Sonata Sauvignon Blanc 2021 — 91 [Falstaff]
+- Jeremić · Sonata Sauvignon Blanc 2021 — 91 [Falstaff]
 - Vinarija Fleur D'Oranger · Grof Muskat Krokan 2019 — 91 [Falstaff]
 - Virtus · Prokupac 2016 — 91 [decanter]
 - Vinarija Aven · Merlot 2019 — 91 [decanter]
@@ -3749,8 +4371,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarija DeLena · 70/30 Sauvignon Blanc /Semillon 2020 — 90 [Falstaff]
 - AURUS Winery & Distillery · Cabernet 2022 — 90 [awc-vienna]
 - Podrum Dremina · Cabernet Sauvignon 2023 — 90 [awc-vienna]
-- PR Anjino Vino · Anjino Vino 2024 — 90 [awc-vienna]
-- Podrum Zlatanović · Branko Savić 2025 — 90 [awc-vienna]
 - Vinarija Dumo · Pinot Noir 2015 — 90 [decanter]
 - Virtus · Pinot Grigio 2017 — 90 [decanter]
 - Virtus · Credo 2013 — 90 [decanter]
@@ -3759,8 +4379,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Virtus · Prokupac 2016 — 90 [decanter]
 - Virtus · Marselan 2016 — 90 [decanter]
 - Virtus · Prokupac 733  — 90 [decanter]
-- Zmajevac · Cuvée 2017 — 90 [decanter]
-- Zmajevac · Prokupac 2018 — 90 [decanter]
+- Vinarija Zmajevac · Cuvée 2017 — 90 [decanter]
+- Vinarija Zmajevac · Prokupac 2018 — 90 [decanter]
 - Vinarija Sokolov Zamak · Marselan 2020 — 90 [decanter]
 - Virtus · 733 2017 — 90 [decanter]
 - Grabak · Sojka 2021 — 90 [decanter]
@@ -3799,7 +4419,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarija Gamanović · Grasac Beli 2020 — 90 [biwc]
 - Rakicevic · Blagoslov 2020 — 90 [biwc]
 - Podrum Pevac · KABERNE FRAN 2023 — 90 [biwc]
-- MV Vinarija · Tamjanika Hope 2022 — 90 [biwc]
 - Vinarija Frug · Grašac 2024 — 90 [biwc]
 - Vinarija Frug · Chardonnay Signum 2023 — 90 [biwc]
 - Vinarija Frug · Cuvee 2022 — 90 [biwc]
@@ -3888,7 +4507,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarija Blagojević · Probus M barik 2021 — 89 [biwc]
 - Château Prince · Shiraz Premium 2021 — 89 [biwc]
 - Vinarija VRT · pesak kvarcni 2023 — 89 [biwc]
-- PR Anjino Vino · Siesta 2023 — 89 [biwc]
 - Château Prince · Cuvee 2021 — 89 [biwc]
 - Château Prince · Princess 2021 — 89 [biwc]
 - Château Prince · Velika 2023 — 89 [biwc]
@@ -3928,8 +4546,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Bacina vino d.o.o. · Dolina red 2018 — 89 [awc-vienna]
 - Vinarija Praška · Cabernet Sauvignon 2021 — 89 [awc-vienna]
 - Vinarija Komazec · Rosé Vinarije 2021 — 89 [awc-vienna]
-- Vinarija Radlović doo · Cabernet Sauvignon 2017 — 89 [awc-vienna]
-- Vinarija Radlović doo · Cabernet Sauvignon 2018 — 89 [awc-vienna]
 - Vista Hill · White 2019 — 89 [awc-vienna]
 - Vista Hill · Reserve White 2012 — 89 [awc-vienna]
 - BT Winery · King Supreme Marselan 2018 — 89 [awc-vienna]
@@ -4015,7 +4631,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarija Zorča · Mali Ratnik Cabernet Sauvignon 2020 — 88 [decanter]
 - Vinarija Baza · Barre 2021 — 88 [biwc]
 - Vinarija Komazec · Palava 2022 — 88 [biwc]
-- Vinarija Radlović doo · Cirkuz Rose 2022 — 88 [biwc]
 - Podrum Šukac · Merlot 2019 — 88 [biwc]
 - Vinarija VRT · pesak beli 2023 — 88 [biwc]
 - Gora · Grašac 2024 — 88 [biwc]
@@ -4088,13 +4703,13 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Virtus · W Prokupac 2017 — 87 [decanter]
 - Virtus · Pinot Noir 2017 — 87 [decanter]
 - Vinarija Janucic · Vulkan Merlot 2017 — 87 [decanter]
-- Zmajevac · Prokupac 2017 — 87 [decanter]
+- Vinarija Zmajevac · Prokupac 2017 — 87 [decanter]
 - Virtus · Pinot Grigio 2019 — 87 [decanter]
 - PIK OPLENAC · Monarh Immortal Cuvée 2015 — 87 [decanter]
 - Vinarija Aven · Merlot 2018 — 87 [decanter]
-- Zmajevac · Chardonnay 2019 — 87 [decanter]
+- Vinarija Zmajevac · Chardonnay 2019 — 87 [decanter]
 - Virtus · Marselan 2017 — 87 [decanter]
-- Zmajevac · Cuvée 2017 — 87 [decanter]
+- Vinarija Zmajevac · Cuvée 2017 — 87 [decanter]
 - Virtus · Pinot Grigio 2020 — 87 [decanter]
 - BT Winery · King Supreme Marselan 2020 — 87 [decanter]
 - Virtus · Gewurztraminer 2021 — 87 [decanter]
@@ -4125,7 +4740,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Virtus · Prokupac 2020 — 87 [decanter]
 - Драгић Винарија (Vina Dragic) · Carski Drum Rajnski Rizling 2020 — 87 [decanter]
 - Vinarija Frug · Syrah Signum 2022 — 87 [decanter]
-- PR Anjino Vino · Suton Merlot 2022 — 87 [decanter]
 - La Grande Bellezza · Blanc De Blancs Extra Brut 2021 — 87 [decanter]
 - Château Prince · Charm Chardonnay-Morava 2024 — 87 [decanter]
 - Драгић Винарија (Vina Dragic) · Carski Drum Manzoni 2024 — 87 [decanter]
@@ -4150,16 +4764,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Château Prince · CUVEE 2021 — 87 [biwc]
 - Vinska Kuća Rajić · RAJIĆ 2023 — 87 [biwc]
 - Vinarija Unikat · Cabernet Sauvignon 2020 — 87 [biwc]
-- MV Vinarija · Tamjanika – Hope 2021 — 87 [biwc]
-- PR Anjino Vino · Suton 2022 — 87 [biwc]
 - Bajilo · Grasac 2021 — 87 [biwc]
 - Lutak winery · Merlo 2022 — 87 [biwc]
 - Grabak · Bela golubica 2024 — 87 [biwc]
 - Vinarija Gamanović · Samotok 2022 — 87 [biwc]
 - Vinarija Slatina · Tamjanika 2025 — 87 [biwc]
 - Vinarija 100 Žena · Roze 2025 — 87 [biwc]
-- Vinarija Radlović doo · Chardonnay 2024 — 87 [biwc]
-- Vinarija Radlović doo · Cirkuz Rose 2025 — 87 [biwc]
 - Hrusija d.o.o. Leskovac · Simfonija - Prokupac 65%, Kaberne sovinjon 20%, Merlot 15% 2021 — 87 [awc-vienna]
 - Vinarija VRT · pesak plavi 2024 — 87 [awc-vienna]
 - Vinarija Gamanović · Grasac beli 2020 — 87 [awc-vienna]
@@ -4207,7 +4817,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Prokupac · Prokupac 2018 — 86 [decanter]
 - Pusula Winery · Cabernet 2017 — 86 [decanter]
 - Grabak · Modrovrana 2017 — 86 [decanter]
-- Zmajevac · Cuvée Reserve 2017 — 86 [decanter]
+- Vinarija Zmajevac · Cuvée Reserve 2017 — 86 [decanter]
 - Vinarija Komazec · Rose 2021 — 86 [decanter]
 - Grabak · Prokupac 2019 — 86 [decanter]
 - Vinarija Đurđevića Legat · Otisak 2020 — 86 [decanter]
@@ -4239,7 +4849,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Château Prince · Velika 2024 — 86 [biwc]
 - La Gora · Sauvignon Blanc 2025 — 86 [biwc]
 - Vinarija Milićević · Sauvignon Blanc 2025 — 86 [biwc]
-- Vinarija Radlović doo · Morava 2025 — 86 [biwc]
 - Vinarija Pet Hrastova · Rosé 2023 — 86 [awc-vienna]
 - Vinarija Ilić-Nijemčević · Cabernet Sauvignon 2018 — 86 [awc-vienna]
 - Bacina vino d.o.o. · Dolina Rosé 2021 — 86 [awc-vienna]
@@ -4342,7 +4951,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Podrum Pevac · IZAZOV 2022 — 83 [biwc]
 - Podrum Pevac · Prokupac Penusavo vino 2022 — 83 [biwc]
 - Milanov Podrum · Lutka 2022 — 83 [biwc]
-- PR Anjino Vino · Zora 2022 — 83 [biwc]
 - Vinarija Unikat · Cabernet Sauvignon 2020 — 83 [biwc]
 - Podrum Pevac · GUŠT (Barik) 2022 — 83 [biwc]
 - Vinarija Blagojević · Petit Arvin M 2022 — 83 [biwc]
@@ -4365,7 +4973,6 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Vinarium winery · Merlot 2020 — 81 [biwc]
 - Podrum Pevac · IZAZOV 2023 — 81 [biwc]
 - Vinarija Gnezdo · Muskat Krokan 2022 — 81 [biwc]
-- PR Anjino Vino · Zora 2023 — 81 [biwc]
 - Vinarija Milićević · VladaVina 2024 — 81 [biwc]
 - Vinska Kuća Rajić · Rosé 2024 — 81 [biwc]
 - Vinarija Gnezdo · Krokan 2024 — 81 [biwc]

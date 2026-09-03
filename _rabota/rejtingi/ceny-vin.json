@@ -9,7 +9,7 @@
   "maxi.rs, раздел «Пиће, кафа и чај → Вино», сохранённая страница",
   "maxi.rs/cenovnici, гипермаркеты «Mega Maxi», ценовник за 02-09-2026",
   "online.idea.rs, раздел «Вино», сохранённые страницы",
-  "Wolt, поиск «grumen» и «LEGAT 1903», снимки экрана автора 3 сентября 2026"
+  "Wolt, поиск «grumen», «LEGAT 1903», «baša» и «MV Vinarija», снимки экрана автора 3 сентября 2026"
  ],
  "sobrano": "2026-09-03",
  "magazinov_u_vina": {
@@ -43,10 +43,10 @@
   "andrica-vinograd-consul-prokupac-merlot": 2,
   "arsenijevic-sauvignon-blanc": 1,
   "arsenijevic-starosedelac": 2,
-  "basa-furmint": 1,
-  "basa-jantar": 1,
-  "basa-morava": 1,
-  "basa-tamjanika": 1,
+  "bojan-basa-furmint": 1,
+  "bojan-basa-jantar": 1,
+  "bojan-basa-morava": 1,
+  "bojan-basa-tamjanika": 1,
   "belo-brdo-alma-mons": 6,
   "belo-brdo-cabernet-franc": 1,
   "belo-brdo-chardonnay": 5,
@@ -593,7 +593,8 @@
   "rubin-rose": 1,
   "molovin-rose": 1,
   "grumen-morava": 1,
-  "grumen-selekcija-chardonnay": 1
+  "grumen-selekcija-chardonnay": 1,
+  "mv-prudence-special-edition-prokupac": 1
  },
  "polka_supermarketa": {
   "magaziny": [
@@ -604,7 +605,7 @@
   "pozicij_s_cenoj": 1090,
   "iz_nih_0_75": 887,
   "mediana_0_75": 1350,
-  "mediana_vinoteki": 1782,
+  "mediana_vinoteki": 1785,
   "tolko_v_supermarkete": 62,
   "vin_v_oboih": 79,
   "nacenka_supermarketa": 1.191,
@@ -641,10 +642,10 @@
   "andrica-vinograd-consul-prokupac-merlot": 1443,
   "arsenijevic-sauvignon-blanc": 1570,
   "arsenijevic-starosedelac": 1619,
-  "basa-furmint": 3545,
-  "basa-jantar": 3398,
-  "basa-morava": 3865,
-  "basa-tamjanika": 3700,
+  "bojan-basa-furmint": 3545,
+  "bojan-basa-jantar": 3398,
+  "bojan-basa-morava": 3865,
+  "bojan-basa-tamjanika": 3700,
   "belo-brdo-alma-mons": 2079,
   "belo-brdo-cabernet-franc": 12600,
   "belo-brdo-chardonnay": 1675,
@@ -1191,7 +1192,8 @@
   "rubin-rose": 465,
   "molovin-rose": 560,
   "grumen-morava": 1768,
-  "grumen-selekcija-chardonnay": 2189
+  "grumen-selekcija-chardonnay": 2189,
+  "mv-prudence-special-edition-prokupac": 2500
  },
  "supermarket": {
   "100-zena-veliki-decko": 1199,

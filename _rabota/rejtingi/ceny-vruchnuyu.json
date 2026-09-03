@@ -1,6 +1,6 @@
 {
  "chto_eto": "Цены, снятые автором вручную с экрана — там, где машиной не берётся. Каждая строка называет, где и когда увидена.",
- "istochnik": "Wolt, поиск «grumen» и «LEGAT 1903», снимки экрана автора 3 сентября 2026",
+ "istochnik": "Wolt, поиск «grumen», «LEGAT 1903», «baša» и «MV Vinarija», снимки экрана автора 3 сентября 2026",
  "sobrano": "2026-09-03",
  "pochemu_vruchnuyu": "Wolt отвечает 429 на всё подряд, а часть вин стоит в лавках, которых у нас нет ни одним источником: «Morava» и «Chardonnay Selekcija» Грумена — в делекатесной GUSTO.",
  "vina": [
@@ -93,7 +93,82 @@
    "kanal": "dostavka",
    "magazin": "Vinoteka Beograd",
    "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Bojan Baša Morava",
+   "hozyaistvo": "Bojan Baša",
+   "cena_rsd": 3890.0,
+   "litrov": null,
+   "v_prodazhe": null,
+   "kanal": "dostavka",
+   "magazin": "Kunst Wine Bar",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Bojan Baša Jantar Pinot Grigio",
+   "hozyaistvo": "Bojan Baša",
+   "cena_rsd": 3890.0,
+   "litrov": null,
+   "v_prodazhe": null,
+   "kanal": "dostavka",
+   "magazin": "Kunst Wine Bar",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Bojan Baša Tamjanika",
+   "hozyaistvo": "Bojan Baša",
+   "cena_rsd": 3890.0,
+   "litrov": null,
+   "v_prodazhe": null,
+   "kanal": "dostavka",
+   "magazin": "Kunst Wine Bar",
+   "stranica": "Wolt, снимок экрана 03.09.2026"
+  },
+  {
+   "vino": "Bojan Baša Furmint",
+   "hozyaistvo": "Bojan Baša",
+   "cena_rsd": 3890.0,
+   "litrov": null,
+   "v_prodazhe": null,
+   "kanal": "dostavka",
+   "magazin": "Kunst Wine Bar",
+   "stranica": "Wolt, снимок экрана 03.09.2026",
+   "urozhaj": 2020
+  },
+  {
+   "vino": "MV Chardonnay Justice",
+   "hozyaistvo": "MV Vinarija",
+   "cena_rsd": 2150.0,
+   "litrov": null,
+   "v_prodazhe": false,
+   "kanal": "dostavka",
+   "magazin": "Vinoteka Tipsy",
+   "stranica": "Wolt, снимок экрана 03.09.2026",
+   "urozhaj": 2021
+  },
+  {
+   "vino": "MV Tamjanika Hope",
+   "hozyaistvo": "MV Vinarija",
+   "cena_rsd": 2150.0,
+   "litrov": null,
+   "v_prodazhe": false,
+   "kanal": "dostavka",
+   "magazin": "Vinoteka Tipsy",
+   "stranica": "Wolt, снимок экрана 03.09.2026",
+   "urozhaj": 2022
+  },
+  {
+   "vino": "MV Prudence Prokupac",
+   "hozyaistvo": "MV Vinarija",
+   "cena_rsd": 2500.0,
+   "litrov": null,
+   "v_prodazhe": true,
+   "kanal": "dostavka",
+   "magazin": "Vinoteka Tipsy",
+   "stranica": "Wolt, снимок экрана 03.09.2026",
+   "urozhaj": 2022
   }
  ],
- "pro_nacenku": "Wolt показывает не всегда полочную цену, и это измерено. Две строки Грумена из Maxi сходятся с обязательным ценовником до динара — 1279 и 1119. А четыре строки Легата, которые Wolt продаёт из «Vinoteka Beograd», стоят у самой винотеки 2725, 1815, 2950 и 2310: три из четырёх дороже ровно на восемнадцать процентов, четвёртая совпадает. Поэтому у каждой строки стоит `kanal`: «polka» — цена, сверенная с полкой, «dostavka» — цена в приложении, которая может нести наценку. Строки доставки идут в счёт только там, где другой цены нет вовсе."
+ "pro_nacenku": "Wolt показывает не всегда полочную цену, и это измерено. Две строки Грумена из Maxi сходятся с обязательным ценовником до динара — 1279 и 1119. А четыре строки Легата, которые Wolt продаёт из «Vinoteka Beograd», стоят у самой винотеки 2725, 1815, 2950 и 2310: три из четырёх дороже ровно на восемнадцать процентов, четвёртая совпадает. Поэтому у каждой строки стоит `kanal`: «polka» — цена, сверенная с полкой, «dostavka» — цена в приложении, которая может нести наценку. Строки доставки идут в счёт только там, где другой цены нет вовсе.",
+ "pro_prodazhu": "Поле `v_prodazhe`: `false` — на карточке стоит SOLD OUT, такая строка в цену не идёт; `null` — из снимка не видно. У четырёх вин Баше из «Kunst Wine Bar» два помечены SOLD OUT, но какие именно, со снимка не записано, поэтому у всех четырёх стоит `null`. На счёт это не влияет: у всех четырёх есть полочная цена «Vinoteka Beograd», и строки доставки при ней отодвигаются."
 }

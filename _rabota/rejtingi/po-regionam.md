@@ -29,7 +29,7 @@
 <!-- правьте vivino-zapisi.jsonl и перегенерируйте.          -->
 
 Порог 25 отзывов · вес недоверия 50 · потолок 2 вина на хозяйство.
-Средняя, к которой идёт сдвиг, — **3.85** по 1176 винам, прошедшим порог.
+Средняя, к которой идёт сдвиг, — **3.85** по 1175 винам, прошедшим порог.
 
 ## Фрушка гора
 
@@ -66,8 +66,8 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 | 1 | Vinarija Drašković · Muskat Otonel | 4.1 | 317 | 4.07 |
 | 2 | Galot · Balerina | 4.1 | 297 | 4.06 |
 | 3 | Rnjak · Merlot Limited Edition | 4.2 | 32 | 3.99 |
-| 4 | Vinarija Coka · Kupianovo Vino | 4.0 | 186 | 3.97 |
-| 5 | Rnjak · Pinot Noir | 4.0 | 127 | 3.96 |
+| 4 | Vinarija Radlović doo · Cabernet Sauvignon | 4.2 | 28 | 3.98 |
+| 5 | Vinarija Coka · Kupianovo Vino | 4.0 | 186 | 3.97 |
 
 ## Шумадия
 
@@ -105,9 +105,9 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 |---|---|---|---|---|
 | 1 | Doja · Breg Cabernet Sauvignon | 4.3 | 139 | 4.18 |
 | 2 | Kostić · Prokupac Barrique | 4.2 | 246 | 4.14 |
-| 3 | Vinarija Toplički Vinogradi · Гвоздени Пук Ирьено (Gvozdeni Puk Ryeno) | 4.4 | 48 | 4.12 |
+| 3 | Toplički vinogradi · Гвоздени Пук Ирьено (Gvozdeni Puk Ryeno) | 4.4 | 48 | 4.12 |
 | 4 | Doja · Breg Prokupac | 4.1 | 519 | 4.08 |
-| 5 | Kostić · Cuvée | 4.0 | 28 | 3.91 |
+| 5 | Kostić · Cuvée | 4.0 | 28 | 3.90 |
 
 ## Юго-восток
 
@@ -117,7 +117,7 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 | 2 | Aleksić · Limited Bonaca Chardonnay | 4.1 | 215 | 4.05 |
 | 3 | Jović · Vranac | 4.0 | 516 | 3.99 |
 | 4 | Jović · Petrkanjski Roze | 4.0 | 32 | 3.91 |
-| 5 | Dzervin · Sauvignon | 3.9 | 62 | 3.88 |
+| 5 | Džervin · Sauvignon | 3.9 | 62 | 3.88 |
 
 ## Подунавье и Белградский район
 
@@ -157,11 +157,12 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Vinarija Dajic · Gamay Barrique — 4.4 (51)
 - Virtus · Prokupac 733 — 4.3 (36)
 - Virtus · Cuvée Virtus Credo — 4.3 (349)
-- Vinarija Jeremić · Kanon Superior Merlot - Cabernet Sauvignon — 4.3 (118)
+- Jeremić · Kanon Superior Merlot - Cabernet Sauvignon — 4.3 (118)
+- Dukay-Sagmeister · ZZ Zero — 4.3 (25)
 - Tri Oraha · Single Vineyard Grand Reserve — 4.3 (65)
 - Podrum Stari Hrast · Selekcija Merlot — 4.3 (79)
 - BT Winery · King Supreme Limited Edition Marselan — 4.3 (58)
-- Zmajevac · Cuvée — 4.3 (70)
+- Vinarija Zmajevac · Cuvée — 4.3 (70)
 - Nikad Nije Kasno · Signature — 4.3 (263)
 - Изба Јовановић (Izba Jovanovic) · Žetva — 4.3 (58)
 - Vinarija Frug · Chardonnay Signum — 4.3 (93)
@@ -171,10 +172,11 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Manufaktura Spasić · Tamjanika — 4.3 (58)
 - Vinarija Fleur D'Oranger · Гроф — 4.3 (102)
 - Три Планине (Vinarija Tri Planine) · Заборављена Бајка (A Forgotten Fairy Tale) — 4.3 (32)
-- Basha Vino · Tamjanika Prva — 4.3 (66)
+- Dukay-Sagmeister · Kanias Kadarka — 4.2 (89)
 - Virtus · Credo Beli — 4.2 (127)
 - Vinis · Merlot - Cabernet Sauvignon — 4.2 (106)
-- Vinarija Jeremić · Sonata Icon Sauvignon Blanc — 4.2 (53)
+- Jeremić · Sonata Icon Sauvignon Blanc — 4.2 (53)
+- Dukay-Sagmeister · Furmintis Zero — 4.2 (35)
 - Vinarija Imperator · Constantivs Cabernet Franc- Cabernet Sauvignon — 4.2 (28)
 - Vinarija 100 Žena · Monsieur Merlot Premium — 4.2 (124)
 - Vinarija DeLena · 70/30 Sauvignon Blanc - Sémillon — 4.2 (255)
@@ -198,38 +200,39 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Манастир Студеница (Manastir Studenica) · 1186 Cabernet Sauvignon — 4.2 (146)
 - Vinarija Đurđevića Legat · Otisak Merlot - Cabernet Sauvignon Crveno — 4.2 (149)
 - Vista Hill · Reserve White — 4.2 (49)
-- Miletic · Impresija Cuvée — 4.2 (46)
+- Miletić · Impresija Cuvée — 4.2 (46)
 - Pruna · Cabernet Sauvignon — 4.2 (108)
 - Reljić Vinarija · Rebus Crveno — 4.2 (114)
 - Katanic · Oskar — 4.2 (106)
-- MV Vinarija · Tamjanika — 4.2 (37)
 - Salaxia · Burlesque Crveno — 4.2 (30)
 - Три Планине (Vinarija Tri Planine) · Два Другара (Two Friends) — 4.2 (25)
-- Basha Vino · Furmint — 4.2 (40)
-- Vinarija Radlović doo · Cabernet Sauvignon — 4.2 (28)
+- Dukay-Sagmeister · Kanias Furmint — 4.1 (286)
+- Dukay-Sagmeister · Breton Cabernet Franc — 4.1 (99)
 - Virtus · Pinot Noir — 4.1 (286)
 - Milijan Jelić · Nebiolo — 4.1 (33)
 - Vinis · Merlot — 4.1 (34)
 - Grabak · Vivak Prokupac — 4.1 (44)
 - Grabak · Siva Vrana — 4.1 (37)
-- Vinarija Jeremić · Merlot Terroire — 4.1 (126)
-- Vinarija Jeremić · Kanon Merlot - Cabernet Sauvignon — 4.1 (785)
+- Jeremić · Merlot Terroire — 4.1 (126)
+- Jeremić · Kanon Merlot - Cabernet Sauvignon — 4.1 (785)
 - Art Wine · Argument Cabernet Sauvignon — 4.1 (32)
 - Брояница (Brojanica) · Kadarka — 4.1 (2842)
 - Брояница (Brojanica) · Изабелла Красное Полусладкое (Isabella Red Semi-Sweet) — 4.1 (342)
 - Брояница (Brojanica) · Kagor — 4.1 (45)
 - Milijan Jelić · Millennium — 4.1 (188)
 - Milijan Jelić · Millennium Barrique — 4.1 (178)
+- Dukay-Sagmeister · Sauvignon Blanc Zero — 4.1 (80)
+- Dukay-Sagmeister · Kew Kadarka — 4.1 (26)
 - Vinarija Imperator · Quintillus Malbec - Merlot — 4.1 (134)
 - Vinarija Imperator · Animus — 4.1 (36)
 - Vinarija 100 Žena · Rosé — 4.1 (180)
 - Vinarija 100 Žena · Tamjanika — 4.1 (164)
-- Botunjac · Pino Svetih Ratnika Reserve Pinot Noir — 4.1 (80)
+- Vinarija Botunjac · Pino Svetih Ratnika Reserve Pinot Noir — 4.1 (80)
 - Vinarija DeLena · 100 Jazz Mirisni Traminac — 4.1 (108)
 - Quet · Merlot 18+ Edition — 4.1 (116)
 - BT Winery · Mister Marselan — 4.1 (71)
-- Zmajevac · Tamjanika — 4.1 (228)
-- Zmajevac · Prokupac — 4.1 (148)
+- Vinarija Zmajevac · Tamjanika — 4.1 (228)
+- Vinarija Zmajevac · Prokupac — 4.1 (148)
 - Nikad Nije Kasno · Simfonija — 4.1 (154)
 - Château Prince · Velika Morava — 4.1 (93)
 - Vinarija Frug · Pinot Noir — 4.1 (60)
@@ -260,9 +263,15 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Митровиђ Винарија · Monogram — 4.1 (25)
 - Intuicija · Tamjanika - Morava — 4.1 (32)
 - Vinarija Timacvm Minvs · Cabernet Sauvignon — 4.1 (25)
+- Dukay-Sagmeister · Kanias Pinot Noir — 4.0 (203)
+- Dukay-Sagmeister · Zero Kadarka — 4.0 (43)
+- Dukay-Sagmeister · Szigeti Furmint — 4.0 (52)
 - Virtus · Marselan — 4.0 (650)
 - Art Wine · Tangenta Chardonnay — 4.0 (30)
 - PIK OPLENAC · Monarh S — 4.0 (115)
+- Dukay-Sagmeister · Devas Kadarka — 4.0 (244)
+- Dukay-Sagmeister · Kew Furmint — 4.0 (126)
+- Dukay-Sagmeister · Pellenger Pinot Noir — 4.0 (40)
 - Vinarija Imperator · Maximianvs — 4.0 (204)
 - Vinarija Imperator · Gratianus Traminac — 4.0 (93)
 - Vinarija Imperator · Grašac — 4.0 (66)
@@ -298,12 +307,11 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Vinarija Đurđevića Legat · Do Neba i Nazad Belo — 4.0 (53)
 - Serbika Wine · Sunce Rizling — 4.0 (27)
 - Vinarija Dumo · Blanc de Noir Pinot Noir — 4.0 (27)
-- Miletic · Impresija Sauvignon Blanc — 4.0 (31)
+- Miletić · Impresija Sauvignon Blanc — 4.0 (31)
 - Reljić Vinarija · Rebus Belo — 4.0 (39)
 - Vilimonovic · Tamjanika — 4.0 (105)
 - Katanic · Leon Chardonnay — 4.0 (44)
 - Tenuta Est Winery · Nera Crna Tamjanika — 4.0 (35)
-- MV Vinarija · Hope Special Edition Organic — 4.0 (66)
 - Stari Dani · Dert Cabernet Sauvignon - Merlot — 4.0 (98)
 - Petica · Tvrđava Cabernet Sauvignon — 4.0 (131)
 - Dalia · Splet Gamay - Vranac — 4.0 (65)
@@ -311,8 +319,8 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Dalia · Gaamez Gamay — 4.0 (29)
 - Vinarija Sokolov Zamak · Tamjanika — 4.0 (43)
 - Vinarija Savic · Tamjanika — 4.0 (41)
-- Chicha · Zlatna Reserva Cabernet Sauvignon — 4.0 (54)
-- Chicha · Reserva Cabernet Sauvignon — 4.0 (35)
+- Winery ŠKRBIĆ · Chicha Zlatna Reserva Cabernet Sauvignon — 4.0 (54)
+- Winery ŠKRBIĆ · Chicha Reserva Cabernet Sauvignon — 4.0 (35)
 - ВИНАРИЈА СТОЈАНОВИЋ (Vinarija Stojanović) · Krokan — 4.0 (73)
 - Podrum Panajotovic · Victor Barrique — 4.0 (47)
 - Vert · Rhine Riesling — 4.0 (41)
@@ -333,13 +341,16 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Milijan Jelić · Mammoth Pinot Noir — 3.9 (277)
 - PIK OPLENAC · Constanta Muse Rosé — 3.9 (143)
 - PIK OPLENAC · Monarh Cabernet Sauvignon — 3.9 (62)
+- Dukay-Sagmeister · Devas Furmint — 3.9 (153)
+- Dukay-Sagmeister · β Furmintis — 3.9 (59)
+- Dukay-Sagmeister · Szigeti Kadarka — 3.9 (42)
 - Kalem · 1892 Dominant Prokupac — 3.9 (27)
 - Vinarija Imperator · Valerius Rajnski Rizling — 3.9 (207)
 - Vinarija Imperator · Cargraš Grašac — 3.9 (33)
 - Vinarija 100 Žena · Shao Linda Orange — 3.9 (74)
 - Tri Oraha · Classic — 3.9 (35)
-- Botunjac · Pino Botunjac Pinot Noir — 3.9 (366)
-- Botunjac · Sveti Gral Prokupac — 3.9 (202)
+- Vinarija Botunjac · Pino Botunjac Pinot Noir — 3.9 (366)
+- Vinarija Botunjac · Sveti Gral Prokupac — 3.9 (202)
 - Vila Vina · Barrique Cabernet Sauvignon — 3.9 (65)
 - Vinarija Komuna PR · Muscat Petit Grain — 3.9 (250)
 - Quet · Pinot Noir — 3.9 (43)
@@ -398,8 +409,8 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Milijan Jelić · Morava — 3.8 (852)
 - Milijan Jelić · Morange — 3.8 (178)
 - Grabak · Prva Lasta — 3.8 (36)
-- Vinarija Jeremić · Rondo Rosé — 3.8 (48)
-- Vinarija Jeremić · Sonata Sauvignon Blanc — 3.8 (488)
+- Jeremić · Rondo Rosé — 3.8 (48)
+- Jeremić · Sonata Sauvignon Blanc — 3.8 (488)
 - Vinarija Panjković · Radost — 3.8 (29)
 - Milijan Jelić · Slovenski San Kameničanka — 3.8 (59)
 - PIK OPLENAC · Monarh Immortal S — 3.8 (404)
@@ -409,7 +420,7 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - PIK OPLENAC · Constanta Muse Sauvignon Blanc — 3.8 (89)
 - PIK OPLENAC · Villa Nota Chardonnay — 3.8 (62)
 - PIK OPLENAC · Monarh Immortal Merlot — 3.8 (40)
-- Vinarija Jeremić · Duetto Smederevka - Tamnjanika — 3.8 (57)
+- Jeremić · Duetto Smederevka - Tamnjanika — 3.8 (57)
 - Vinarija Imperator · Sila Nika — 3.8 (56)
 - Vinarija 100 Žena · Veliki Dečko — 3.8 (206)
 - Vinarija 100 Žena · Crna Ovca Franc - Cabernet Franc — 3.8 (83)
@@ -426,7 +437,7 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Vinarija Grumen · Chardonnay — 3.8 (105)
 - Vinarija Grumen · Merlot — 3.8 (63)
 - BT Winery · Vranac Red Dry — 3.8 (63)
-- Zmajevac · Chardonnay — 3.8 (54)
+- Vinarija Zmajevac · Chardonnay — 3.8 (54)
 - Vinarija Todorović · Vranac — 3.8 (51)
 - Vinarija Todorović · Opus — 3.8 (29)
 - Château Prince · CharM — 3.8 (88)
@@ -443,7 +454,7 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Tenuta Est Winery · Bianco Chardonnay — 3.8 (40)
 - Damjanovic · Gar Barrique Cabernet Sauvignon - Merlot — 3.8 (72)
 - Vinarija Savic · Prokupac — 3.8 (42)
-- Chicha · Reserva Merlot — 3.8 (37)
+- Winery ŠKRBIĆ · Chicha Reserva Merlot — 3.8 (37)
 - Три Планине (Vinarija Tri Planine) · Боjа Зоре (Dawn Color) — 3.8 (28)
 - Podrum Tošići · Ponoc Cabernet Sauvignon — 3.8 (49)
 - Podrum Tošići · Nesanica Tamjanika — 3.8 (37)
@@ -456,6 +467,8 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Nelt · Doba Cabernet Franc — 3.8 (40)
 - M. Dubrana - N. Scheidt · Exode Blanc — 3.8 (27)
 - Мали Подрум Гајић - Mali Podrum Gajić · Црвени Витез (Crveni Vite) — 3.8 (35)
+- Dukay-Sagmeister · Furmint — 3.7 (71)
+- Dukay-Sagmeister · Burgundac Crni Pinot Noir — 3.7 (50)
 - Grabak · Grabak Prokupac — 3.7 (70)
 - Grabak · Bela golubica — 3.7 (61)
 - Art Wine · Sumarum Merlot — 3.7 (50)
@@ -470,7 +483,7 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Kalem · Poluslatko Roze — 3.7 (100)
 - Kalem · Rosé — 3.7 (56)
 - Vinarija Imperator · Claudius Sauvignon Blanc — 3.7 (43)
-- Botunjac · Rasplet Riesling Italico — 3.7 (36)
+- Vinarija Botunjac · Rasplet Riesling Italico — 3.7 (36)
 - Vila Vina · Prokupac — 3.7 (225)
 - Podrum Stari Hrast · Cabernet - Merlot — 3.7 (188)
 - Château Prince · Dobra Vila Tamjanika — 3.7 (46)
@@ -487,14 +500,14 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - The Collective Presents · Szerémi Kékfrankos — 3.7 (125)
 - Vinarija Ilić-Nijemčević · Chardonnay — 3.7 (56)
 - Vinarija Ilić-Nijemčević · Sauvignon Blanc — 3.7 (50)
-- Miletic · Impresija Cabernet Sauvignon — 3.7 (42)
+- Miletić · Impresija Cabernet Sauvignon — 3.7 (42)
 - Damjanovic · Dry Red — 3.7 (65)
 - Podrum Petrović · Sila — 3.7 (63)
 - Vinarija Piano · Cabernet Sauvignon - Merlot — 3.7 (58)
 - Mikić · Cuvée I — 3.7 (34)
 - Vinarija VRT · Vrt Pesak Žuti — 3.7 (25)
 - Vinarija Vrbica · Barrique — 3.7 (35)
-- Patkov Vinograd · Majstor i Margarita — 3.7 (36)
+- Vinarija Patkov vinograd · Majstor i Margarita — 3.7 (36)
 - Probus Vineyards · Sremski Karlovci Venera — 3.7 (32)
 - Vinarija ĐORĐE · Freska Bela — 3.7 (25)
 - Andrića Vinograd · Consul Prokupac - Merlot — 3.7 (48)
@@ -506,11 +519,11 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - PIK OPLENAC · Tron Cabernet Sauvignon — 3.6 (53)
 - PIK OPLENAC · Villa Nota Traminac — 3.6 (40)
 - PIK OPLENAC · Villa Sauvignon Blanc — 3.6 (25)
-- Vinarija Jeremić · Duet Beli Smederevka - Sauvignon Blanc — 3.6 (28)
+- Jeremić · Duet Beli Smederevka - Sauvignon Blanc — 3.6 (28)
 - Kalem · Rizling — 3.6 (730)
 - Kalem · Vranac — 3.6 (511)
 - Kalem · Impuls Vranac — 3.6 (172)
-- Botunjac · Jagoda Botunjac — 3.6 (258)
+- Vinarija Botunjac · Jagoda Botunjac — 3.6 (258)
 - Vila Vina · Sauvignon Blanc — 3.6 (38)
 - DiBonis Winery · Di Franc — 3.6 (66)
 - Pusula Winery · Sauvignon Blanc — 3.6 (109)
@@ -520,12 +533,12 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Vista Hill · Selection White — 3.6 (32)
 - Boemi · Sauvignon Blanc — 3.6 (128)
 - Vinarija Ilić-Nijemčević · Frankovka — 3.6 (46)
-- Miletic · Impresija Merlot — 3.6 (36)
+- Miletić · Impresija Merlot — 3.6 (36)
 - Vinski Dvor · Bermet Crni — 3.6 (27)
 - Подрум вина Рашковић - (Rašković Winery) · Tamjanika — 3.6 (27)
 - Vinarija VRT · Pesak Sivi — 3.6 (31)
 - Milisavljević · Karo Nero Pinot Noir — 3.6 (33)
-- Patkov Vinograd · Князь Мышкин — 3.6 (49)
+- Vinarija Patkov vinograd · Князь Мышкин — 3.6 (49)
 - Vinarija Salaš Naš · Chardonnay — 3.6 (32)
 - Ukusi Moga Kraja · Prokupac — 3.6 (45)
 - Robert Rudinski · Rizling — 3.6 (62)

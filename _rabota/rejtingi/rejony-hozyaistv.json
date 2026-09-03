@@ -547,13 +547,13 @@
   },
   "anjino": {
    "hozyaistvo": "PR Anjino Vino",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Šumadijski rejon",
    "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "gorod": "Велика Плана",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Велика Плана",
    "pokazaniya": [
     "decanter: ",
     "vivino: Wine of Serbia"
@@ -838,19 +838,6 @@
    "gde": "",
    "pokazaniya": [
     "vinarijesrbije: Potiski rejon"
-   ]
-  },
-  "basa": {
-   "hozyaistvo": "Baša",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
-   "raznoglasie": "",
-   "gde": "",
-   "pokazaniya": [
-    "vivino: Wine of Serbia"
    ]
   },
   "baza": {
@@ -4348,13 +4335,13 @@
   },
   "mv": {
    "hozyaistvo": "MV Vinarija",
-   "region": null,
-   "rejon": null,
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
    "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "gorod": "Ћићевац",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Сталаћ, Ћићевац",
    "pokazaniya": [
     "vivino: Central Serbia",
     "vivino: Wine of Serbia"
@@ -5195,13 +5182,13 @@
   },
   "radlovic": {
    "hozyaistvo": "Vinarija Radlović doo",
-   "region": null,
-   "rejon": null,
+   "region": "Vojvodina",
+   "rejon": "Banatski rejon",
    "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "gorod": "Кикинда",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "Mokrin, Severnobanatski okrug",
+   "gde": "Мокрин, Кикинда",
    "pokazaniya": [
     "registar: Mokrin, Severnobanatski okrug",
     "vivino: Wine of Serbia"
@@ -7778,13 +7765,13 @@
   },
   "zlatanovic": {
    "hozyaistvo": "Podrum Zlatanović",
-   "region": null,
-   "rejon": null,
-   "vinogorje": null,
-   "gorod": "",
-   "istochnik": "ne_ustanovlen",
+   "region": "Centralna Srbija",
+   "rejon": "Rejon Tri Morave",
+   "vinogorje": "Paraćinsko vinogorje",
+   "gorod": "Ћуприја",
+   "istochnik": "mesto",
    "raznoglasie": "",
-   "gde": "",
+   "gde": "Ћуприја",
    "pokazaniya": []
   },
   "zlatar": {

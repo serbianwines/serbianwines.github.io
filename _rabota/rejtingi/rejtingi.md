@@ -178,7 +178,7 @@ Vivino в стобалльную, когда балла критика не бы
 
 ## Что взять в супермаркете
 
-Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 на полках Idea и Maxi — 1350 динаров против 1782 у винотек. Из 887 обычных бутылок с нашими таблицами сошлись 141, и 62 из этих 141 в винотеке нет вовсе. Вот те, о которых есть что сказать.
+Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 на полках Idea и Maxi — 1350 динаров против 1785 у винотек. Из 887 обычных бутылок с нашими таблицами сошлись 141, и 62 из этих 141 в винотеке нет вовсе. Вот те, о которых есть что сказать.
 
 Дешевле там, однако, не то же вино, а другое. Из 79 вин, которые продаются и в супермаркете, и в винотеке, дешевле в супермаркете 4: одна и та же бутылка на полке стоит в среднем на 19% дороже. В супермаркет идут не за скидкой на знакомое вино, а за тем, чего в винотеке нет.
 
@@ -259,10 +259,10 @@ Vivino в стобалльную, когда балла критика не бы
 | Veritas Ćuković · Momentum Cabernet Sauvignon | 95 | 4.4 | 36 |
 | Atelje vina Šapat · Atila Chardonnay | 95 | 4.3 | 35 |
 | BT Winery · King Supreme Limited Edition Marselan | 95 | 4.3 | 12 |
+| Bojan Basa · Tamjanika Prva | — | 4.3 | — |
 | Dukay-Sagmeister · ZZ Zero | — | 4.3 | — |
 | Erdevik · Grand Trianon | 93 | 4.3 | 15 |
 | Erdevik · Marlon Delon Cabernet Sauvignon - Merlot | 95 | 4.3 | 24 |
-| Manufaktura Spasić · Tamjanika | — | 4.3 | — |
 
 **Согласие трёх**
 
@@ -408,6 +408,7 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
+| Vinarija Radlović doo · Cabernet Sauvignon | 92 | 4.2 | 29 |
 | Vinarija Gnezdo · Belo | 90 | — | 21 |
 | Rnjak · Chardonnay | 89 | 3.7 | 17 |
 | Vinarija Drašković · Beli Pinot | 90 | 3.6 | 17 |
@@ -417,7 +418,6 @@ Vivino в стобалльную, когда балла критика не бы
 | Vinarija Drašković · Mahago | 90 | 3.7 | 10 |
 | Vinska Kuća Rajić · Rosé | 91 | — | 9 |
 | Vinarija Sočanski · Classique Spiritoso Rizling Rajnski | 84 | — | 8 |
-| Vinarija Coka · Grof Lederer Cabernet Sauvignon | 85 | — | 8 |
 
 **Мнение экспертов**
 
@@ -426,19 +426,20 @@ Vivino в стобалльную, когда балла критика не бы
 | Galot · Gala | — | — | 0 |
 | Vinarija Gnezdo · Sovinjon Kis | 94 | — | 5 |
 | Vinarija Drašković · Mahago Frankovka | 92 | — | 7 |
+| Vinarija Radlović doo · Cabernet Sauvignon | 92 | 4.2 | 29 |
 | Vinarija Tri Tachke · Rezonanca | 91 | — | 4 |
 | Vinska Kuća Rajić · Rosé | 91 | — | 9 |
 | Vinarija Fleur D'Oranger · Grof Muskat Krokan | 91 | — | 6 |
 | Rnjak · CUVEE DE RGNAC | 90 | — | 6 |
 | Vinarija Drašković · Beli Pinot | 90 | 3.6 | 17 |
 | Vinarija Gnezdo · Belo | 90 | — | 21 |
-| Драгић Винарија (Vina Dragic) · Nemirac | 90 | — | 6 |
 
 **Vox populi**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Rnjak · Merlot Limited Edition | — | 4.2 | — |
+| Vinarija Radlović doo · Cabernet Sauvignon | 92 | 4.2 | 29 |
 | Galot · Balerina | — | 4.1 | — |
 | Vinarija Drašković · Muskat Otonel | 90 | 4.1 | 6 |
 | Galot · Chardonnay | 87 | 4.0 | 2 |
@@ -447,12 +448,12 @@ Vivino в стобалльную, когда балла критика не бы
 | Vršački Vinogradi · Kvalitetno Muskat Ottonel | — | 4.0 | — |
 | Vršački Vinogradi · Вршачкн Брег Вранац | — | 4.0 | — |
 | Vinarija Coka · Kupianovo Vino | — | 4.0 | — |
-| Vinarija Coka · Ždrepčeva Krv Forever | — | 4.0 | — |
 
 **Согласие трёх**
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
+| Vinarija Radlović doo · Cabernet Sauvignon | 92 | 4.2 | 29 |
 | Rnjak · Pinot Noir | 89 | 4.0 | 16 |
 | Vinska Kuća Rajić · Tamjanika | 89 | 4.0 | 11 |
 | Vinarija Drašković · Muskat Otonel | 90 | 4.1 | 6 |
@@ -468,10 +469,10 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Vinarija Drašković · Mahago Frankovka | 92 | — | 7 |
+| Vinarija Radlović doo · Cabernet Sauvignon | 92 | 4.2 | 29 |
 | Vinarija Tri Tachke · Rezonanca | 91 | — | 4 |
 | Rnjak · CUVEE DE RGNAC | 90 | — | 6 |
 | Vinarija Drašković · Frankovka Rezerva | 90 | — | 8 |
-| Vinarija Gnezdo · Kadarka | 90 | — | 7 |
 
 **Белые: тройка и запас**
 
@@ -490,6 +491,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Vinska Kuća Rajić · Rosé | 91 | — | 9 |
 | Драгић Винарија (Vina Dragic) · Randes | 89 | — | 6 |
 | Vinarija ĐORĐE · Freska Rose | 88 | — | 6 |
+| Vinarija Radlović doo · Cirkuz Rose | 88 | — | 4 |
 | Vinarija Gnezdo · Roze | 84 | — | 2 |
 
 
@@ -545,6 +547,7 @@ Vivino в стобалльную, когда балла критика не бы
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
 | Ivanović · Prokupac Gaga | 96 | — | — |
+| MV Vinarija · Tamjanika | — | 4.2 | 2 |
 | Temet · Tri Morave rezerva belo | — | — | 0 |
 | Grabak · Vivak Prokupac | 95 | 4.1 | 17 |
 | Jovac · Stella Noir | 95 | — | 36 |
@@ -553,7 +556,6 @@ Vivino в стобалльную, когда балла критика не бы
 | Budimir · Svb Rosa | 94 | 4.2 | — |
 | Podrum Pevac · GUŠT BARIK | 94 | — | 6 |
 | Ralević · Virgo | 94 | — | 5 |
-| Stemina winery · Draga | 94 | 4.5 | 6 |
 
 **Vox populi**
 
@@ -704,9 +706,9 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|
 | Despotika · Nemir | 89 | — | 20 |
 | PIK OPLENAC · Constanta Muse Rosé | 89 | 3.9 | — |
+| PR Anjino Vino · Siesta Merlot Rosé | 89 | — | 4 |
 | Radovanović · Rosé | 89 | 3.9 | 4 |
 | Djordjevic Estate Winery · Rosé | 88 | — | 2 |
-| Matijašević Vinogradi · Rock & Rose | 87 | 4.0 | 7 |
 
 
 ## Неготинска Крајина

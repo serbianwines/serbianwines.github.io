@@ -25,7 +25,6 @@ BT Winery,bt,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,decanter,,,ne_usta
 Bacina vino d.o.o.,bacina,Centralna Srbija,Rejon Tri Morave,Temnićko vinogorje,Varvarin,mesto,,,ne_ustanovlen,"Varvarin, Rasinski okrug",True,False,"['Bacina vino d.o.o.', 'Podrum Bačina', 'Bacina Vino', 'Bacina']",,,0
 Bahus,bahus,Vojvodina,Južnobanatski rejon,Vršačko vinogorje,Gudurica,mesto,,,ne_ustanovlen,"Gudurica, Južnobanatski okrug",True,False,['Bahus'],,,5
 Bajilo,bajilo,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,,,ne_ustanovlen,"Sremski Karlovci, Južno-bački okrug",True,False,"['Bajilo', 'SZR PODRUM BAJILO', 'Podrum Bajilo']",,,14
-Baša,basa,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,"['Baša', 'Basha Vino']",,,3
 Belgrade,belgrade,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Belgrade'],,,1
 Belo Brdo,belo-brdo,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,"Срем, по данным Vivino",True,False,['Belo Brdo'],,,25
 Benišek Veselinović,benisek-veselinovic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremski Karlovci,mesto,"по месту Sremski rejon, у источников Rejon Bačka ×2; Sremski rejon ×1",,ne_ustanovlen,Sremski Karlovci,True,False,['Benišek Veselinović'],,,2
@@ -33,7 +32,7 @@ Bikicki,bikicki,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,
 Bjelica,bjelica,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,mesto,,fruska,raspolozhenie,Фрушка гора,True,False,"['Bjelica', 'VINARIJA BJELICA', 'Vinarija Bjelica', 'Bjelica winery']",,,7
 Boemi,boemi,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Boemi'],,,5
 Bogdanovic,bogdanovic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Bogdanovic'],,,3
-Bojan Basa,bojan-basa,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Сремски Карловци,mesto,,fruska,raspolozhenie,"Матеј, Сремски Карловци",True,False,['Bojan Basa'],,3,4
+Bojan Basa,bojan-basa,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Сремски Карловци,mesto,,fruska,raspolozhenie,"Матеј, Сремски Карловци",True,False,"['Bojan Basa', 'Basha Vino', 'Baša']",,3,4
 Braća Rajković,braca-rajkovic,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,morave,kniga,"Gornje Zleginje, Aleksandrovac, Rasinski okrug",True,True,"['Braća Rajković', 'Vinarija Braca Rajkovic', 'Vinarija Braća Rajković', 'Braca Rajkovic', 'Rajkovic']",,,10
 Breg,breg,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Janda,mesto,,,ne_ustanovlen,Janda,True,False,['Breg'],,,3
 Budimir,budimir,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,"по месту Rejon Tri Morave, у источников Rejon Tri Morave ×13; Sremski rejon ×1",morave,kniga,"Aleksandrovac, Rasinski okrug",True,True,"['Budimir', 'Vino Budimir']",,,19
@@ -117,7 +116,7 @@ Lastar,lastar,Centralna Srbija,Rejon Tri Morave,Levačko vinogorje,Rekovac,mesto
 Legat,legat,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Banja,mesto,,,raspolozhenie,"Banja, Aranđelovac",True,False,['Legat'],,,4
 Lutak winery,lutak,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Чортановци,mesto,,,raspolozhenie,"Чортановци, Инђија",True,False,"['Lutak winery', 'Lutak']",,,0
 M. Dubrana - N. Scheidt,m-dubrana-n-scheidt,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['M. Dubrana - N. Scheidt'],,,3
-MV Vinarija,mv,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,"['MV Vinarija', 'MV vinarija', 'MV Winery', 'Mv']",,,12
+MV Vinarija,mv,Centralna Srbija,Rejon Tri Morave,,Ћићевац,mesto,,morave,raspolozhenie,"Сталаћ, Ћићевац",True,False,"['MV Vinarija', 'MV vinarija', 'MV Winery', 'Mv']",,,12
 Majetić,majetic,,,,,ne_ustanovlen,,,ne_ustanovlen,Belgrade,True,False,['Majetić'],,,5
 Mali Podrum Stamenković,mali-stamenkovic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Mali Podrum Stamenković'],,,2
 Mali Šareni Podrum,mali-sareni,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Mali Šareni Podrum'],,,3
@@ -158,7 +157,7 @@ Nikolas,nikolas,Centralna Srbija,Knjaževački rejon,Zaječarsko vinogorje,Zvezd
 ODPF-Radmilovac,odpf-radmilovac,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['ODPF-Radmilovac'],,,2
 Orvin,orvin,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Orvin'],,,3
 PIK OPLENAC,pik-oplenac,Centralna Srbija,Šumadijski rejon,Oplenačko vinogorje,Topola,mesto,,,ne_ustanovlen,"Topola (Varošica), Šumadijski okrug",True,False,"['PIK OPLENAC', 'PIK Oplenac', 'Pik Oplenac']",,,29
-PR Anjino Vino,anjino,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,"['PR Anjino Vino', 'Poljoprivredno Gazdinstvo Anja Dzipkovic', 'Poljoprivredno Gazdinstvo Anja Džipković', 'Pr Anjino Vino', 'Anjino Vino']",,,2
+PR Anjino Vino,anjino,Centralna Srbija,Šumadijski rejon,,Велика Плана,mesto,,sumadija,raspolozhenie,Велика Плана,True,False,"['PR Anjino Vino', 'Poljoprivredno Gazdinstvo Anja Dzipkovic', 'Poljoprivredno Gazdinstvo Anja Džipković', 'Pr Anjino Vino', 'Anjino Vino']",,,2
 Pannonian,pannonian,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Pannonian'],,,2
 Perla,perla,Vojvodina,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Perla'],,,1
 Perun Wine,perun,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Perun Wine'],,,2
@@ -188,7 +187,7 @@ Podrum Stričević,stricevic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Pod
 Podrum Tosic,tosic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Podrum Tosic'],,,1
 Podrum Tošići,tosici,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,,ne_ustanovlen,"Aleksandrovac, Rasinski okrug",True,False,['Podrum Tošići'],,,5
 Podrum Zagorac,zagorac,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Podrum Zagorac'],,,3
-Podrum Zlatanović,zlatanovic,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Podrum Zlatanović'],,,0
+Podrum Zlatanović,zlatanovic,Centralna Srbija,Rejon Tri Morave,Paraćinsko vinogorje,Ћуприја,mesto,,morave,raspolozhenie,Ћуприја,True,False,['Podrum Zlatanović'],,,0
 Podrum Šukac,sukac,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Sremska Kamenica,mesto,,,ne_ustanovlen,"Sremska Kamenica, Južnobački okrug",True,False,"['Podrum Šukac', 'Šukac']",,,5
 Porodična Vinarija Stanimirović,porodicna-stanimirovic,Vojvodina,Južnobanatski rejon,,,mesto,"по месту Južnobanatski rejon, у источников Subotički rejon ×7",,ne_ustanovlen,"Jabuka, Južnobanatski okrug",True,False,['Porodična Vinarija Stanimirović'],,,7
 Prima,prima,Centralna Srbija,Leskovački rejon,,Donja Lokošnica,mesto,,,ne_ustanovlen,Donja Lokošnica,True,False,['Prima'],,,1
@@ -328,7 +327,7 @@ Vinarija Piano,piano,Centralna Srbija,Rejon Tri Morave,Jagodinsko vinogorje,Jago
 Vinarija Podrum Danguba,danguba,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Šid,mesto,,,ne_ustanovlen,"Šid, Sremski okrug",True,False,"['Vinarija Podrum Danguba', 'PODRUM DANGUBA', 'Podrum Danguba', 'Danguba']",,,4
 Vinarija Porta,porta,Centralna Srbija,Rejon Negotinska Krajina,,,vivino,,,ne_ustanovlen,,True,False,['Vinarija Porta'],,,2
 Vinarija Praška,praska,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Bačka Palanka,mesto,,,ne_ustanovlen,"Bačka Palanka, Južnobački okrug",True,False,"['Vinarija Praška', 'Praška']",,,1
-Vinarija Radlović doo,radlovic,,,,,ne_ustanovlen,,,ne_ustanovlen,"Mokrin, Severnobanatski okrug",True,False,"['Vinarija Radlović doo', 'Vinarija Radlovic DOO Mokrin', 'Vinarija Radlovic doo', 'Vinarija Radlovic', 'Vinarija Radlović', 'Radlović vinery', 'Winery Radlović', 'Radlovic']",,,4
+Vinarija Radlović doo,radlovic,Vojvodina,Banatski rejon,,Кикинда,mesto,,banat,raspolozhenie,"Мокрин, Кикинда",True,False,"['Vinarija Radlović doo', 'Vinarija Radlovic DOO Mokrin', 'Vinarija Radlovic doo', 'Vinarija Radlovic', 'Vinarija Radlović', 'Radlović vinery', 'Winery Radlović', 'Radlovic']",,,4
 Vinarija Radovan,radovan,Centralna Srbija,Rejon Tri Morave,Kruševačko vinogorje,,mesto,,morave,kniga,Старци; на Vivino и у Decanter — под прежним именем Čokot,True,True,"['Vinarija Radovan', 'Vinarija Čokot', 'Podrum Cokot', 'Podrum Čokot', 'Podrum čOkot', 'Čokot']",,,5
 Vinarija Rajić,rajic,Centralna Srbija,Rejon Tri Morave,Paraćinsko vinogorje,Glavica,mesto,"по месту Rejon Tri Morave, у источников Južnobanatski rejon ×1",,ne_ustanovlen,"Glavica, Pomoravski okrug",True,False,"['Vinarija Rajić', 'Rajić']",,,4
 Vinarija Rudež,rudez,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Vinarija Rudež'],,,1

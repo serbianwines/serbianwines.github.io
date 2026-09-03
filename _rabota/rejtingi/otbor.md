@@ -141,33 +141,33 @@ Boemi, — и на них приходится больше четырёхсот
 
 | | Вин |
 |---|---|
-| балл критика 90+ | 378 |
-| Vivino 4,0+ | 361 |
-| три источника и больше | 102 |
-| строгая награда | 18 |
-| **всего** | **859** у 190 хозяйств |
+| балл критика 90+ | 354 |
+| Vivino 4,0+ | 354 |
+| три источника и больше | 151 |
+| строгая награда | 15 |
+| **всего** | **874** у 189 хозяйств |
 
-У прошедших медиана Vivino 4.10; ниже 3,7 остаётся 9 из 564.
+У прошедших медиана Vivino 4.10; ниже 3,7 остаётся 12 из 574.
 
 ## По рејонима — хватит ли на пятёрку
 
 | Рејон | Прошло вин | Хозяйств |
 |---|---|---|
-| Sremski rejon | 262 | 52 |
-| Rejon Tri Morave | 162 | 37 |
-| Šumadijski rejon | 148 | 21 |
+| Sremski rejon | 270 | 52 |
+| Rejon Tri Morave | 169 | 39 |
+| Šumadijski rejon | 153 | 24 |
 | Subotički rejon | 58 | 9 |
-| Rejon Negotinska Krajina | 48 | 12 |
-| рејон не установлен | 46 | 20 |
-| Beogradski rejon | 29 | 8 |
+| Rejon Negotinska Krajina | 56 | 13 |
+| Beogradski rejon | 31 | 8 |
+| рејон не установлен | 28 | 12 |
 | Toplički rejon | 21 | 3 |
 | Vranjski rejon | 18 | 2 |
 | Mlavski rejon | 17 | 4 |
 | Južnobanatski rejon | 16 | 6 |
-| Knjaževački rejon | 8 | 3 |
-| Pocersko Valjevski Rejon | 8 | 4 |
+| Knjaževački rejon | 9 | 3 |
+| Pocersko Valjevski Rejon | 9 | 4 |
 | Niški rejon | 8 | 3 |
-| Banatski rejon | 3 | 1 |
+| Banatski rejon | 4 | 2 |
 | Potiski rejon | 2 | 1 |
 | Nišavski rejon | 2 | 1 |
 | Južnometohijski rejon | 1 | 1 |
@@ -178,108 +178,157 @@ Boemi, — и на них приходится больше четырёхсот
 
 | Хозяйство | Вино | Vivino | Балл критика | Источники |
 |---|---|---|---|---|
+| Doja | Prokupac | 3.9 | 95 | awc-vienna, biwc, decanter, falstaff, iwc, vino.rs |
 | Radovanović | Rèserve Cabernet Sauvignon | 4.3 | 91 | cmb, decanter, falstaff, tastings, vino.rs, wine-searcher |
-| Doja | Prokupac | 3.9 | 95 | awc-vienna, biwc, decanter, falstaff, iwc |
+| Zvonko Bogdan | Cuvée No.1 | 4.1 | 95 | biwc, decanter, falstaff, vino.rs, wine-searcher |
+| Zvonko Bogdan | Icon Campana Rubimus | 4.3 | 95 | biwc, decanter, falstaff, iwc, vino.rs |
+| Aleksandrović | Rodoslov Grand Reserve | 4.4 | 94 | biwc, decanter, falstaff, iwc, vino.rs |
+| Aleksandrović | Trijumf Gold | 4.2 | 94 | biwc, decanter, falstaff, iwc, vino.rs |
 | Ivanović | No 1/2 | 4.3 | 94 | awc-vienna, biwc, decanter, falstaff, vino.rs |
+| Ivanović | Prokupac | 3.9 | 94 | awc-vienna, biwc, decanter, falstaff, vino.rs |
+| Aleksandrović | Trijumf Selection | 4.1 | 93 | biwc, decanter, falstaff, iwc, vino.rs |
+| Zvonko Bogdan | Pinot Blanc | 3.8 | 93 | awc-vienna, biwc, decanter, falstaff, vino.rs |
 | Matalj | Kremen | — | 92 | awc-vienna, biwc, decanter, falstaff, iwc |
+| Despotika | Morava | — | 91 | awc-vienna, biwc, decanter, falstaff, vino.rs |
+| Lastar | Tamjanika | 4.2 | 90 | awc-vienna, biwc, decanter, iwc, vino.rs |
+| Lastar | Pinot Noir | 3.7 | 89 | awc-vienna, biwc, decanter, iwc, vino.rs |
+| Matalj | Kremen Kamen | — | 97 | biwc, decanter, iwc, vino.rs |
 | Matijašević Vinogradi | Sovinoa Fumé Blanc | 4.3 | 96 | biwc, decanter, falstaff, vino.rs |
+| Aleksandrović | Regent Reserve | 4.2 | 95 | biwc, decanter, iwc, vino.rs |
+| Doja | Breg Prokupac | 4.1 | 95 | biwc, decanter, falstaff, vino.rs |
 | Matalj | Cuvée Bukovski | 4 | 95 | awc-vienna, biwc, decanter, vino.rs |
-| Zvonko Bogdan | Cuvée No.1 | 4.1 | 95 | biwc, decanter, falstaff, wine-searcher |
-| Zvonko Bogdan | Icon Campana Rubimus | 4.3 | 95 | biwc, decanter, falstaff, iwc |
-| Aleksandrović | Rodoslov Grand Reserve | 4.4 | 94 | biwc, decanter, falstaff, iwc |
-| Aleksandrović | Trijumf Gold | 4.2 | 94 | biwc, decanter, falstaff, iwc |
-| Ivanović | Prokupac | 3.9 | 94 | awc-vienna, biwc, decanter, falstaff |
-| Aleksandrović | Trijumf Selection | 4.1 | 93 | biwc, decanter, falstaff, iwc |
+| Zvonko Bogdan | Chardonnay | 4 | 95 | biwc, decanter, falstaff, vino.rs |
+| Doja | Breg Cabernet Sauvignon | 4.3 | 94 | biwc, decanter, falstaff, vino.rs |
+| Vinum | Grašac 26a | 4 | 94 | awc-vienna, biwc, falstaff, vino.rs |
+| Aleksandrović | Trijumf Terroir | 4.1 | 93 | biwc, decanter, falstaff, vino.rs |
+| Erdevik | Grand Trianon | 4.3 | 93 | decanter, falstaff, vino.rs, wine-searcher |
+| Matijašević Vinogradi | Belina | 3.9 | 93 | biwc, decanter, falstaff, vino.rs |
+| Vinarija Radovan | 100% Prokupac | — | 93 | biwc, decanter, falstaff, vino.rs |
+| Virtus | Pinot Grigio | 3.8 | 93 | awc-vienna, biwc, decanter, vino.rs |
 | Zvonko Bogdan | Icon Campana Albus | 4.1 | 93 | biwc, decanter, falstaff, vino.rs |
-| Zvonko Bogdan | Pinot Blanc | 3.8 | 93 | awc-vienna, biwc, decanter, falstaff |
+| Aleksandrović | Prokupac | 4.2 | 92 | biwc, decanter, falstaff, vino.rs |
+| Ivanović | Tamjanika | 3.9 | 92 | awc-vienna, biwc, falstaff, vino.rs |
+| Matalj | Crna Tamjanika | 4 | 92 | biwc, decanter, falstaff, vino.rs |
 | Matalj | Terasa Sauvignon Blanc | 3.9 | 92 | biwc, decanter, falstaff, iwc |
-| Despotika | Morava | — | 91 | awc-vienna, biwc, decanter, falstaff |
+| Zvonko Bogdan | Rosé Sec | 4 | 92 | biwc, decanter, falstaff, vino.rs |
 | Zvonko Bogdan | Sauvignon Blanc | 3.8 | 91 | awc-vienna, biwc, decanter, falstaff |
+| Deurić | Probus 276 | 4 | 90 | awc-vienna, biwc, decanter, vino.rs |
 | Doja | Chardonnay-Pinot Grigio | — | 90 | awc-vienna, biwc, decanter, falstaff |
-| Lastar | Tamjanika | 4.2 | 90 | awc-vienna, biwc, decanter, iwc |
 | Nikad Nije Kasno | Signature | 4.3 | 90 | awc-vienna, biwc, cmb, decanter |
 | Podrum Stari Hrast | Sauvignon Blanc | 3.8 | 90 | awc-vienna, biwc, decanter, wine-trophy |
+| Rubin | Merlot | 3.6 | 90 | awc-vienna, biwc, decanter, vino.rs |
+| Veritas Ćuković | Bela Harmonija | — | 90 | awc-vienna, biwc, decanter, vino.rs |
+| Vinum | Frankovka | 3.9 | 90 | awc-vienna, biwc, decanter, vino.rs |
+| Despotika | Nemir | — | 89 | biwc, decanter, falstaff, vino.rs |
+| Doja | Tamjanika | 3.9 | 89 | biwc, decanter, falstaff, vino.rs |
+| Kovačević | Brut | 3.9 | 89 | awc-vienna, biwc, decanter, vino.rs |
 | Lastar | Chardonnay | 3.8 | 89 | awc-vienna, biwc, decanter, iwc |
-| Lastar | Pinot Noir | 3.7 | 89 | awc-vienna, biwc, decanter, iwc |
+| Lastar | Triangl Sauvignon - Viognier | 4.1 | 89 | biwc, decanter, iwc, vino.rs |
+| Kiš | Kišov Rosé | 3.6 | 88 | awc-vienna, biwc, decanter, vino.rs |
 | Rubin | Amante Carmen | 3.7 | 88 | biwc, cmb, decanter, gilbert-gaillard |
-| Ivanović | No 3/4 | — | 87 | awc-vienna, biwc, decanter, vino.rs |
-| Matalj | Kremen Kamen | — | 97 | biwc, decanter, iwc |
+| Aleksić | Žuti Cvet | 4.1 | 87 | biwc, decanter, iwc, vino.rs |
+| Braća Rajković | Prince Rskavac | 3.5 | 87 | awc-vienna, biwc, decanter, vino.rs |
 | Matalj | Kremen Kamen Cabernet Sauvignon | 4.5 | 97 | decanter, falstaff, wine-searcher |
 | Vinčić | Grašac | 4.3 | 97 | biwc, decanter, vino.rs |
-| Aleksandrović | Regent Reserve | 4.2 | 95 | biwc, decanter, iwc |
-| Chichateau | Chi Chardonnay | 4.2 | 95 | decanter, falstaff, vino.rs |
-| Doja | Breg Prokupac | 4.1 | 95 | biwc, decanter, falstaff |
+| Bikicki | Uncensored | 4 | 96 | biwc, decanter, vino.rs |
 | Tarpoš | Merlot | 4 | 95 | awc-vienna, biwc, decanter |
-| Zvonko Bogdan | Chardonnay | 4 | 95 | biwc, decanter, falstaff |
-| Doja | Breg Cabernet Sauvignon | 4.3 | 94 | biwc, decanter, falstaff |
+| Vinum | Grašac Beli | 3.9 | 95 | awc-vienna, biwc, vino.rs |
+| Zvonko Bogdan | Merlot | 4.1 | 95 | biwc, decanter, vino.rs |
+| DiBonis Winery | Di Icewine | — | 94 | awc-vienna, decanter, vino.rs |
+| Erdevik | Trianon | 4.1 | 94 | decanter, vino.rs, wine-searcher |
+| Grabak | Prokupac | — | 94 | biwc, decanter, vino.rs |
+| Jović | Vranac Potrkanjski | — | 94 | awc-vienna, biwc, vino.rs |
 | Matalj | Zamna | — | 94 | awc-vienna, biwc, decanter |
-| Vinum | Grašac 26a | 4 | 94 | awc-vienna, biwc, falstaff |
+| Vinarija Gamanović | Grašac Beli | 3.9 | 94 | awc-vienna, biwc, vino.rs |
+| Vinčić | Grand Fru | 4 | 94 | biwc, decanter, vino.rs |
 | Aleksandrović | Trijumf Noir | 4 | 93 | biwc, decanter, iwc |
-| Aleksandrović | Trijumf Terroir | 4.1 | 93 | biwc, decanter, falstaff |
 | Aleksandrović | Vožd | — | 93 | biwc, decanter, falstaff |
 | Despotika | Morava Barik | — | 93 | awc-vienna, decanter, falstaff |
-| Erdevik | Grand Trianon | 4.3 | 93 | decanter, falstaff, wine-searcher |
-| Matijašević Vinogradi | Belina | 3.9 | 93 | biwc, decanter, falstaff |
 | Molovin | Inat Frankovka | 3.9 | 93 | biwc, decanter, falstaff |
-| Radovan | 100% Prokupac | — | 93 | biwc, decanter, falstaff |
-| Virtus | Pinot Grigio | 3.8 | 93 | awc-vienna, biwc, decanter |
-| Aleksandrović | Prokupac | 4.2 | 92 | biwc, decanter, falstaff |
+| Vinarija Radovan | Experiment Prokupac | 3.9 | 93 | decanter, falstaff, vino.rs |
 | Aleksandrović | Trijumf Noir Brut | 4.1 | 92 | biwc, decanter, falstaff |
+| Bikicki | S/O | 3.9 | 92 | biwc, decanter, vino.rs |
 | Deurić | Aksiom Beli | 3.9 | 92 | decanter, falstaff, vino.rs |
 | Deurić | Princeps Brut Nature | — | 92 | awc-vienna, decanter, vino.rs |
 | Doja | Cabernet Sauvignon - Merlot | 3.9 | 92 | biwc, decanter, falstaff |
-| Ivanović | Tamjanika | 3.9 | 92 | awc-vienna, biwc, falstaff |
 | Janko | Stari Zavet | — | 92 | awc-vienna, biwc, decanter |
-| Matalj | Crna Tamjanika | 4 | 92 | biwc, decanter, falstaff |
+| Lastar | Triangl Pinot Noir | 4 | 92 | decanter, iwc, vino.rs |
 | Matalj | Terasa Chardonnay | — | 92 | biwc, decanter, falstaff |
 | Spasić | Tamjanika | — | 92 | awc-vienna, biwc, falstaff |
-| Zvonko Bogdan | Rosé Sec | 4 | 92 | biwc, decanter, falstaff |
+| Tonković | Rapsodija | — | 92 | biwc, decanter, vino.rs |
+| Vinum | Bermet Crveni | — | 92 | awc-vienna, biwc, vino.rs |
 | Despotika | Morava Glina | — | 91 | awc-vienna, biwc, falstaff |
 | Despotika | Zmajeviti Prokupac | — | 91 | awc-vienna, biwc, falstaff |
 | Doja | Rose | 3.5 | 91 | awc-vienna, biwc, falstaff |
+| Kovačević | Rizling | 3.7 | 91 | awc-vienna, decanter, vino.rs |
+| Matalj | Bagrina | 4.1 | 91 | biwc, decanter, vino.rs |
 | PIK OPLENAC | Monarh Immortal S | 3.8 | 91 | decanter, falstaff, iwc |
 | Podrum Petrović | Grašac | — | 91 | awc-vienna, biwc, decanter |
+| Podrum Pevac | Prokupac | 3.6 | 91 | biwc, decanter, vino.rs |
+| Tonković | Fantazija | — | 91 | biwc, decanter, vino.rs |
 | Virtus | Gewürztraminer | 3.9 | 91 | awc-vienna, biwc, decanter |
 | Virtus | Marselan | 4 | 91 | awc-vienna, biwc, decanter |
+| Virtus | Prokupac | 3.8 | 91 | awc-vienna, decanter, vino.rs |
+| Château Prince | Velika Morava | 4.1 | 90 | biwc, decanter, vino.rs |
+| Despotika | Beskraj | — | 90 | awc-vienna, biwc, vino.rs |
+| Despotika | Morava kasna berba | — | 90 | awc-vienna, biwc, vino.rs |
 | Deurić | Probus | — | 90 | awc-vienna, biwc, decanter |
-| Deurić | Probus 276 | 4 | 90 | awc-vienna, biwc, decanter |
 | Kovačević | Chardonnay | 3.9 | 90 | awc-vienna, biwc, decanter |
 | Kovačević | Edicija S Aurelius | — | 90 | decanter, falstaff, wine-searcher |
 | Lastar | Triangl Chardonnay | 4 | 90 | biwc, decanter, iwc |
 | Podrum Pevac | Zagrljaj | — | 90 | biwc, cmb, decanter |
 | Pusula Winery | Traminac | 4 | 90 | awc-vienna, biwc, decanter |
-| Rubin | Merlot | 3.6 | 90 | awc-vienna, biwc, decanter |
+| Rubin | Prokupac | — | 90 | awc-vienna, decanter, vino.rs |
 | Tarpoš | Cabernet Sauvignon | 4.1 | 90 | awc-vienna, biwc, decanter |
 | Tarpoš | Chardonnay | — | 90 | awc-vienna, biwc, decanter |
 | Tarpoš | Sauvignon Blanc | 4.1 | 90 | awc-vienna, biwc, decanter |
 | Tarpoš | Tamjanika | 3.9 | 90 | awc-vienna, biwc, decanter |
 | Temet | Ergo Rosé | — | 90 | biwc, decanter, vino.rs |
-| Veritas Ćuković | Bela Harmonija | — | 90 | awc-vienna, biwc, decanter |
+| Trivanović | Optimus | 3.7 | 90 | awc-vienna, biwc, vino.rs |
+| Trivanović | Pinot Grigio | 3.8 | 90 | awc-vienna, biwc, vino.rs |
 | Veritas Ćuković | Monte Karlovci | — | 90 | awc-vienna, biwc, decanter |
 | Vinarija Dumo | Pinot Noir | 3.9 | 90 | awc-vienna, biwc, decanter |
-| Vinum | Frankovka | 3.9 | 90 | awc-vienna, biwc, decanter |
-| Despotika | Nemir | — | 89 | biwc, decanter, falstaff |
-| Doja | Tamjanika | 3.9 | 89 | biwc, decanter, falstaff |
+| Château Prince | Shiraz Premium | 4 | 89 | biwc, decanter, vino.rs |
+| Deurić | Pinot Noir | 3.7 | 89 | biwc, decanter, vino.rs |
 | Kiš | Kišov Grašac Beli | — | 89 | awc-vienna, biwc, decanter |
-| Kovačević | Brut | 3.9 | 89 | awc-vienna, biwc, decanter |
-| Lastar | Triangl Sauvignon - Viognier | 4.1 | 89 | biwc, decanter, iwc |
+| Kovačević | Aurelius | 3.9 | 89 | awc-vienna, decanter, vino.rs |
+| Matalj | Dušica Rose | 3.8 | 89 | biwc, falstaff, vino.rs |
 | Nikad Nije Kasno | Simfonija | 4.1 | 89 | awc-vienna, biwc, decanter |
 | PIK OPLENAC | Constanta Muse Sauvignon Blanc | 3.8 | 89 | biwc, decanter, falstaff |
+| Pusula Winery | Rose | 3.4 | 89 | awc-vienna, biwc, vino.rs |
+| Temet | Ergo White | 4 | 89 | biwc, decanter, vino.rs |
+| Vinarium winery | Pinoranž | 3.7 | 89 | awc-vienna, biwc, vino.rs |
 | Vinska Kuća Rajić | Tamjanika | 4 | 89 | awc-vienna, biwc, decanter |
 | Aleksić | Kardas Limited | — | 88 | biwc, decanter, iwc |
+| Bikicki | Makana | 4 | 88 | biwc, decanter, vino.rs |
 | Doja | Belo | — | 88 | biwc, decanter, iwc |
 | Fruškogorski | Quet Grašac | — | 88 | awc-vienna, biwc, decanter |
-| Kiš | Kišov Rosé | 3.6 | 88 | awc-vienna, biwc, decanter |
+| Jović | Rizling Rajnski Potrkanjski | — | 88 | awc-vienna, biwc, vino.rs |
 | Probus Vineyards | Magis | — | 88 | biwc, decanter, wine-trophy |
 | Probus Vineyards | Traminac | 4.1 | 88 | biwc, decanter, wine-trophy |
 | Verkat | Grašac Beli | 3.8 | 88 | awc-vienna, biwc, decanter |
-| Vinarija Djurdjic | Cabernet Franc | 4 | 88 | awc-vienna, biwc, decanter |
-| Aleksić | Žuti Cvet | 4.1 | 87 | biwc, decanter, iwc |
-| Braća Rajković | Prince Rskavac | 3.5 | 87 | awc-vienna, biwc, decanter |
+| Vinum | Rosé | 3.8 | 88 | awc-vienna, biwc, vino.rs |
+| Đurđić | Cabernet Franc | 4 | 88 | awc-vienna, biwc, decanter |
+| Bikicki | Cu | 3.8 | 87 | biwc, decanter, vino.rs |
 | Deurić | Enigma | — | 87 | awc-vienna, biwc, decanter |
+| Deurić | Urban Rosé | 3.7 | 87 | biwc, decanter, vino.rs |
+| Ivanović | No 3/4 | — | 87 | awc-vienna, biwc, decanter |
 | Lastar | Merlot - Cabernet Franc | 3.9 | 87 | biwc, decanter, iwc |
+| Probus Vineyards | Belim | — | 87 | biwc, decanter, vino.rs |
+| Spasić | Tamjanika Lekcija | — | 87 | awc-vienna, biwc, vino.rs |
+| Temet | Tri Morave Rosé | 3.6 | 87 | biwc, decanter, vino.rs |
+| Trivanović | Rose | — | 87 | awc-vienna, biwc, vino.rs |
+| Plavinci | Ćilibar | 3.9 | 86 | biwc, vino.rs, wine-trophy |
+| Temet | Tri Morave White | — | 86 | biwc, decanter, vino.rs |
+| Temet | Ergo Red | 4 | 85 | biwc, decanter, vino.rs |
+| Deurić | Chardonnay | 4 | 84 | biwc, decanter, vino.rs |
+| Deurić | Gewürztraminer | 3.7 | 84 | biwc, decanter, vino.rs |
 | Aleksandrović | Rodoslov | — | — | biwc, decanter, iwc |
+| Aleksandrović | Trijumf Rosé | 3.9 | — | biwc, iwc, vino.rs |
 | Aleksić | Amanet | — | — | biwc, decanter, iwc |
+| Bjelica | Saga | 4.1 | — | biwc, decanter, vino.rs |
+| Kovačević | Rosetto | 3.5 | — | biwc, decanter, vino.rs |
+| Plavinci | Selena | — | — | biwc, vino.rs, wine-trophy |
 
 ## Громкие немые: полка, которую жюри не судило ни разу
 
@@ -308,72 +357,71 @@ Boemi, — и на них приходится больше четырёхсот
 
 ## Отсеяно вопреки медали
 
-Вин с медалью, которые правило не пропускает, — 750 из 1262. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 112 вин, и оно вот чьё: biwc — 121, wine-trophy — 9, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
+Вин с медалью, которые правило не пропускает, — 919 из 1472. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 107 вин, и оно вот чьё: biwc — 115, wine-trophy — 7, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
 
 | Хозяйство | Вино | Vivino | Награды |
 |---|---|---|---|
-| Aleksandrović | Trijumf Rosé | 3.9 | отмечено, бронза |
 | Aleksić | Morava | 3.9 | бронза |
 | Belo Brdo | Cabernet Franc | 3.9 | бронза, серебро |
-| Bikicki | Crna Tamjanika | 3.9 | золото, серебро |
+| Bikicki | Crna Tamjanika | 3.9 | золото, серебро, лучшее красное, местные сорта |
+| Bikicki | Sfera | 3.9 | лучшее белое, органика |
 | Château Prince | Château Shiraz | 3.9 | бронза, золото |
 | Despotika | Trag Merlot | 3.9 | бронза, серебро |
 | Deurić | Avangarda | 3.9 | отмечено, золото, бронза |
-| Deurić | The | 3.9 | лучшее игристое, серебро |
+| Deurić | The | 3.9 | лучшее игристое×4, серебро |
 | Djordjevic Estate Winery | Chardonnay | 3.9 | серебро, одобрение |
-| Dzervin | Sauvignon | 3.9 | золото×3, серебро×2 |
+| Džervin | Sauvignon | 3.9 | золото×3, серебро×2, за свои деньги, белое, международные сорта |
 | Grabak | Modrovrana | 3.9 | бронза×2 |
-| Janko | Bas Prokupac | 3.9 | серебро |
+| Janko | Bas Prokupac | 3.9 | серебро, лучшее красное, местные сорта |
 | Janko | Misija Barrique Chardonnay | 3.9 | бронза |
 | Janko | Zavet | 3.9 | бронза×3 |
 | Karić Vinarija | Adria Belo | 3.9 | бронза×2, серебро |
 | Kiš | Misterija Polusuva | 3.9 | серебро |
-| Kovačević | Aurelius | 3.9 | бронза×2, серебро |
 | Kovačević | Sauvignon | 3.9 | серебро×2, отмечено |
+| Lastar | Brut | 3.9 | лучшее игристое, самый приятный сюрприз |
 | Lastar | Riesling | 3.9 | бронза, одобрение |
+| Maurer | Fodor | 3.9 | лучшее оранж×2 |
+| Maurer | Mézes Fehér | 3.9 | лучшее оранж |
 | Mcculloch Wines | Traminac | 3.9 | бронза |
 | Nikad Nije Kasno | Melodija | 3.9 | серебро |
-| Plavinci | Ćilibar | 3.9 | серебро×2, золото |
 | Radovanović | Rosé | 3.9 | серебро |
 | Rnjak | Cabernet Sauvignon | 3.9 | серебро, золото, бронза |
 | Rnjak | Sauvignon Blanc | 3.9 | серебро×2, одобрение×2, бронза |
+| Stemina winery | Minna Rosé | 3.9 | за свои деньги, розе |
 | Stemina winery | Panta Rei Chardonnay | 3.9 | бронза |
 | Tri Medje I Oblak | Vagabundo Belo | 3.9 | серебро |
 | Vimmid | Cabernet Sauvignon | 3.9 | отмечено×3, бронза, серебро |
-| Vinarija Djurdjic | Neoplanta | 3.9 | серебро×2, бронза |
-| Vinarija Djurdjic | Simonida Mlada | 3.9 | бронза |
 | Vinarija Gamanović | Cabernet Sauvignon | 3.9 | бронза×2 |
 | Vinarija Grumen | Petit Verdot | 3.9 | золото |
 | Vinarija Mrdjanin | Cabernet Sauvignon | 3.9 | серебро |
 | Vinarija Todorović | Cabernet Sauvignon | 3.9 | золото×2 |
 | Vinarija Todorović | Chardonnay | 3.9 | золото |
 | Vinarija VRT | Pesak Plavi | 3.9 | серебро×2, одобрение |
+| Vinčić | Amfora Grašac | 3.9 | лучшее оранж×2 |
 | Vista Hill | Selection Red | 3.9 | отмечено |
-| Винарија Ступови (Vinarija Stupovi) | Cabernet Sauvignon | 3.9 | серебро |
-| Aleksić | Prokupac | 3.8 | бронза×2 |
-| Arsenijević | Sauvignon | 3.8 | золото |
+| Đurđić | Neoplanta | 3.9 | серебро×2, бронза |
+| Đurđić | Simonida Mlada | 3.9 | лучшее розе×2, бронза |
 
-Показаны сорок из 750 — остальные так же.
+Показаны сорок из 919 — остальные так же.
 
 ## Что меняет порог: 4,0 против 4,1
 
-Три верхние двери — три источника, балл критика, строгая награда — от порога не зависят вовсе: по ним проходит 498 вин, и они остаются при любом решении. Спор идёт только о четвёртой двери.
+Три верхние двери — три источника, балл критика, строгая награда — от порога не зависят вовсе: по ним проходит 520 вин, и они остаются при любом решении. Спор идёт только о четвёртой двери.
 
 | Порог | Всего проходит | Хозяйств |
 |---|---|---|
-| 4.0 | 859 | 190 |
-| 4.1 | 704 | 168 |
+| 4.0 | 874 | 189 |
+| 4.1 | 723 | 167 |
 
-Между ними стоят 155 вин с оценкой ровно 4,0 — их и решает выбор. Ни у одного из них нет ни балла критика от 90, ни строгой награды, ни трёх источников: за них говорят только покупатели.
+Между ними стоят 151 вин с оценкой ровно 4,0 — их и решает выбор. Ни у одного из них нет ни балла критика от 90, ни строгой награды, ни трёх источников: за них говорят только покупатели.
 
 Хозяйств, которые при пороге 4,1 выпадают из книги целиком, — 22.
 
 | Хозяйство | Рејон | Вин на 4,0 |
 |---|---|---|
 | Bajilo | Sremski rejon | 1 |
-| Chicha | — | 2 |
 | Dalia | Rejon Negotinska Krajina | 3 |
-| Francuska Vinarija - Estelle et Cyrille Bongiraud | Rejon Negotinska Krajina | 2 |
+| Francuska vinarija | Rejon Negotinska Krajina | 2 |
 | Podrum Madžić | Šumadijski rejon | 2 |
 | Podrum Panajotovic | — | 1 |
 | Serbika Wine | — | 1 |
@@ -389,13 +437,14 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Grumen | Sremski rejon | 1 |
 | Vinarija Todorović | Knjaževački rejon | 3 |
 | Vršački Vinogradi | Južnobanatski rejon | 2 |
+| Winery ŠKRBIĆ | — | 2 |
 | Амбелос Винарија (Ambelos Winery) | Šumadijski rejon | 1 |
 | Винарија Живковића (Vinarija Živkovića-Tržac) | Rejon Tri Morave | 1 |
 | Краљвеска Винарија (Royal Winery) | Beogradski rejon | 1 |
 
 ## Хозяйства, которые правило вычёркивает целиком
 
-Хозяйств, о которых что-то известно, но ни одно вино не проходит, — 99.
+Хозяйств, о которых что-то известно, но ни одно вино не проходит, — 101.
 
 | Хозяйство | Рејон | Лучшая Vivino | Медалей |
 |---|---|---|---|
@@ -415,8 +464,10 @@ Boemi, — и на них приходится больше четырёхсот
 | Gardijan | — | — | 1 |
 | HUP MIHAJLOVAC | Pocersko Valjevski Rejon | — | 4 |
 | Hrusija d.o.o. Leskovac | Leskovački rejon | — | 1 |
+| In | — | — | 1 |
 | Jelena Munizaba PR Radnja za proizvodnju grozdja i vina, turizam i ugostiteljstvo. | Subotički rejon | — | 1 |
 | Jelenac organic | Šumadijski rejon | — | 1 |
+| Jelić | Rejon Tri Morave | — | 1 |
 | Kalem | Rejon Tri Morave | 3.9 | 0 |
 | Koreni 1934 | Šumadijski rejon | — | 1 |
 | Kuća Vina Jokić | — | — | 1 |
@@ -424,13 +475,13 @@ Boemi, — и на них приходится больше четырёхсот
 | Langov Podrum | Sremski rejon | — | 4 |
 | Lutak winery | Sremski rejon | — | 5 |
 | M. Dubrana - N. Scheidt | — | 3.8 | 0 |
-| Marko | Rejon Tri Morave | — | 3 |
+| Marko | Rejon Tri Morave | — | 4 |
 | Marselan | — | — | 1 |
 | Max-Ex Doo | Subotički rejon | — | 1 |
 | Mačkov podrum | Sremski rejon | 3.6 | 6 |
 | Milan Nikolić | Rejon Tri Morave | — | 1 |
 | Milanov Podrum | Rejon Tri Morave | — | 3 |
-| Milanović | Sremski rejon | 3.8 | 0 |
+| Milanović | Sremski rejon | 3.8 | 2 |
 | Milisavljević | Rejon Telečka | 3.6 | 0 |
 | Mister | Sremski rejon | — | 1 |
 | Moderato | — | 3.6 | 0 |
@@ -439,17 +490,17 @@ Boemi, — и на них приходится больше четырёхсот
 | Nelt | — | 3.8 | 0 |
 | Nikolas | Knjaževački rejon | 3.4 | 0 |
 | ODPF-Radmilovac | — | 3.5 | 0 |
-| Patkov Vinograd | Sremski rejon | 3.7 | 1 |
 | Perun Wine | — | 3.5 | 0 |
 | Podrum Malča | Niški rejon | 3.9 | 4 |
 | Podrum Tošići | Rejon Tri Morave | 3.8 | 0 |
+| Probus Vineyard | — | — | 1 |
 | Prokupac | — | — | 1 |
 | Rajković wine office | Rejon Tri Morave | — | 1 |
-| Robert Rudinski | — | 3.6 | 0 |
+| Robert Rudinski | — | 3.6 | 2 |
 | Rogan | Šumadijski rejon | 3.9 | 0 |
 | Sava Minić | — | 3.4 | 0 |
 | Sunčani Breg | — | 3.4 | 0 |
-| The Sparkling Winery | Sremski rejon | — | 2 |
+| The Sparkling Winery | Sremski rejon | — | 3 |
 | Tody | Toplički rejon | — | 1 |
 | Ukusi Moga Kraja | — | 3.6 | 0 |
 | Vertiz | Rejon Tri Morave | — | 1 |
@@ -463,6 +514,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Mira | Sremski rejon | — | 1 |
 | Vinarija Novak (Новак) | Rejon Negotinska Krajina | 3.9 | 0 |
 | Vinarija Panjković | Beogradski rejon | 3.9 | 0 |
+| Vinarija Patkov vinograd | Sremski rejon | 3.7 | 4 |
 | Vinarija Piano | Rejon Tri Morave | 3.7 | 0 |
 | Vinarija Praška | Sremski rejon | — | 3 |
 | Vinarija Salaš Naš | Subotički rejon | 3.6 | 0 |
@@ -480,7 +532,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Ždrnja | Rejon Bačka | — | 1 |
 | Vindulo d.o.o. | Rejon Bačka | — | 5 |
 | Vinex Grozd | Rejon Tri Morave | 2.9 | 0 |
-| Vinograd Hopovo | Sremski rejon | — | 4 |
+| Vinograd Hopovo | Sremski rejon | — | 6 |
 | Vinogradi Nikolic | — | 3.8 | 0 |
 | Vinogradi Veličković Vinarija | Šumadijski rejon | 3.6 | 5 |
 | Vinogradi i vinarija Miletić | Rejon Tri Morave | — | 1 |
@@ -488,8 +540,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinski Dvor | Subotički rejon | 3.6 | 0 |
 | WOW Winery | Subotički rejon | — | 8 |
 | WinEco | — | 3.5 | 0 |
-| Winery Milosavljevic | Rejon Tri Morave | — | 3 |
-| Winery ŠKRBIĆ | — | — | 1 |
+| Winery Milosavljevic | Rejon Tri Morave | — | 6 |
 | Zupa | Rejon Tri Morave | 4.1 | 0 |
 | Živanović | Sremski rejon | 3.8 | 0 |
 | Брояница (Brojanica) | — | 4.1 | 0 |
@@ -497,4 +548,4 @@ Boemi, — и на них приходится больше четырёхсот
 | Мали Подрум Гајић - Mali Podrum Gajić | Rejon Tri Morave | 3.8 | 0 |
 | Орлић Породична Винарија - Orlić Family Winery | Južnobanatski rejon | — | 1 |
 | Подрум вина Рашковић - (Rašković Winery) | Rejon Tri Morave | 3.9 | 0 |
-| Трилогия Винария - Vinarija Trilogija | Šumadijski rejon | — | 4 |
+| Трилогия Винария - Vinarija Trilogija | Šumadijski rejon | — | 5 |

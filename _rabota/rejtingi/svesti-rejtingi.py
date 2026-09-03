@@ -341,18 +341,33 @@ def po_strane(d, pech):
         s_ocenkoj = [v for v in polka if kachestvo(d, v["klyuch"]) > 0
                      or est_vivino(d, v["klyuch"])]
         svodka = d.get("polka_supermarketa") or {}
-        MAGAZIN = {"maxi": "Maxi", "idea": "Idea"}
+        MAGAZIN = {"maxi": "Maxi", "maxi-cenovnik": "Maxi", "idea": "Idea"}
         pech("\n## Что взять в супермаркете\n")
+        # Одна сеть попадает в список дважды — витриной интернет-магазина
+        # и обязательным ценовником, — а зовётся одинаково. Имена
+        # склеиваются, иначе выходит «Maxi и Maxi».
+        seti = list(dict.fromkeys(MAGAZIN.get(m, m)
+                                  for m in svodka.get("magaziny", [])))
         pech("Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 "
-             "в винных разделах %s — %s против %s у винотек. Из %d позиций "
+             "на полках %s — %s против %s у винотек. Из %d обычных бутылок "
              "с нашими таблицами сошлись %d, и %d из этих %d в винотеке нет "
              "вовсе. Вот те, о которых есть что сказать.\n" % (
-                 " и ".join(MAGAZIN.get(m, m)
-                            for m in svodka.get("magaziny", [])),
+                 " и ".join(seti),
                  dinarov(svodka.get("mediana_0_75")),
                  svodka.get("mediana_vinoteki"),
                  svodka.get("iz_nih_0_75", 0), len(d["supermarket"]),
                  svodka.get("tolko_v_supermarkete", 0), len(d["supermarket"])))
+        # Полка супермаркета дешевле в целом — и дороже на каждой
+        # отдельной бутылке. Это не противоречие, а разный вопрос:
+        # ассортимент против одного и того же вина.
+        if svodka.get("vin_v_oboih"):
+            pech("Дешевле там, однако, не то же вино, а другое. Из %d вин, "
+                 "которые продаются и в супермаркете, и в винотеке, дешевле "
+                 "в супермаркете %d: одна и та же бутылка на полке стоит "
+                 "в среднем на %.0f%% дороже. В супермаркет идут не за "
+                 "скидкой на знакомое вино, а за тем, чего в винотеке нет.\n"
+                 % (svodka["vin_v_oboih"], svodka["deshevle_v_supermarkete"],
+                    (svodka["nacenka_supermarketa"] - 1) * 100))
         pech("| Вино | Критик | Vivino | Медали | Динаров |")
         pech("|---|---|---|---|---|")
         for v in sorted(s_ocenkoj,

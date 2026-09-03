@@ -109,6 +109,21 @@ def chistoe_imya(imya, yarlyk=False):
     return re.sub(r"\s+", " ", imya).strip()
 
 
+def nacenka(po_magazinu, supermarkety):
+    """Насколько супермаркет дороже винотеки на одном и том же вине."""
+    otnosheniya = []
+    for magaziny in po_magazinu.values():
+        polka = [c for m, c in magaziny.items() if m in supermarkety]
+        lavka = [c for m, c in magaziny.items() if m not in supermarkety]
+        if polka and lavka:
+            otnosheniya.append(statistics.median(polka) / statistics.median(lavka))
+    if not otnosheniya:
+        return {}
+    return {"vin_v_oboih": len(otnosheniya),
+            "nacenka_supermarketa": round(statistics.median(otnosheniya), 3),
+            "deshevle_v_supermarkete": sum(1 for x in otnosheniya if x < 1)}
+
+
 def sladost_zapisi_(zapis):
     """«suvo» у одного магазина и «Suvo» у другого — одно и то же.
     Без приведения в таблице стоят обе записи, и счёт по сахару врёт."""
@@ -159,11 +174,16 @@ def main():
                 ("wineart", "wineart-ceny.json"),
                 ("prodajavina", "prodajavina-ceny.json"),
                 ("maxi", "maxi-ceny.json"),
+                # Обязательный ценовник той же сети — другой срез, не
+                # витрина интернет-магазина, а полка гипермаркета.
+                # Держится отдельным источником: у него своя цена
+                # и свой набор товаров.
+                ("maxi-cenovnik", "maxi-cenovnik-ceny.json"),
                 ("idea", "idea-ceny.json")]
     # Супермаркет — не винотека: у него другая полка и другие цены.
     # Разделение нужно, чтобы можно было спросить отдельно «что взять
     # в супермаркете», а не усреднять две разные торговли в одну.
-    SUPERMARKET = {"maxi", "idea"}
+    SUPERMARKET = {"maxi", "maxi-cenovnik", "idea"}
     syroe = {"vina": [], "istochnik": [], "sobrano": ""}
     for imya, fajl in MAGAZINY:
         put = ZDES / fajl
@@ -420,6 +440,10 @@ def main():
                 1 for k, v in po_magazinu.items()
                 if any(m in SUPERMARKET for m in v)
                 and not any(m not in SUPERMARKET for m in v)),
+            # Одна и та же бутылка в супермаркете и в винотеке. Полка
+            # супермаркета дешевле в целом — но не потому, что там
+            # дешевле то же вино, а потому, что там другое вино.
+            **nacenka(po_magazinu, SUPERMARKET),
         },
         "ceny": cena,
         # Супермаркетов несколько, и цена у них не одна: берётся

@@ -214,6 +214,15 @@ def dinarov(skolko):
     return "%d динар%s" % (skolko, "" if poslednyaya == 1 else "а")
 
 
+def perechislit(slova):
+    """«Idea, Roda и Maxi»: запятые между всеми, «и» перед последним.
+    Без этого выходило «Idea и Roda и Mercator и Maxi»."""
+    slova = list(slova)
+    if len(slova) < 2:
+        return "".join(slova)
+    return ", ".join(slova[:-1]) + " и " + slova[-1]
+
+
 def vin_shtuk(skolko):
     """«63 вин», «81 вина», «22 вина». Падеж считается, а не вписывается:
     в отчёте число берётся из данных и меняется от прогона к прогону."""
@@ -544,18 +553,22 @@ def po_strane(d, pech):
         s_ocenkoj = [v for v in polka if kachestvo(d, v["klyuch"]) > 0
                      or est_vivino(d, v["klyuch"])]
         svodka = d.get("polka_supermarketa") or {}
-        MAGAZIN = {"maxi": "Maxi", "maxi-cenovnik": "Maxi", "idea": "Idea"}
+        # Один источник бывает сразу несколькими сетями: обязательный
+        # ценовник группы покрывает и Roda, и Mercator, и IDEA.
+        MAGAZIN = {"maxi": ["Maxi"], "maxi-cenovnik": ["Maxi"],
+                   "idea": ["Idea"], "idea-cenovnik": ["Roda", "Mercator"]}
         pech("\n## Что взять в супермаркете\n")
         # Одна сеть попадает в список дважды — витриной интернет-магазина
         # и обязательным ценовником, — а зовётся одинаково. Имена
         # склеиваются, иначе выходит «Maxi и Maxi».
-        seti = list(dict.fromkeys(MAGAZIN.get(m, m)
-                                  for m in svodka.get("magaziny", [])))
+        seti = list(dict.fromkeys(
+            imya for m in svodka.get("magaziny", [])
+            for imya in MAGAZIN.get(m, [m])))
         pech("Полка супермаркета — не полка винотеки. Медиана бутылки 0,75 "
              "на полках %s — %s против %s у винотек. Из %d обычных бутылок "
              "с нашими таблицами сошлись %d, и %d из этих %d в винотеке нет "
              "вовсе. Вот те, о которых есть что сказать.\n" % (
-                 " и ".join(seti),
+                 perechislit(seti),
                  dinarov(svodka.get("mediana_0_75")),
                  svodka.get("mediana_vinoteki"),
                  svodka.get("iz_nih_0_75", 0), len(d["supermarket"]),

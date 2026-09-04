@@ -1,0 +1,6929 @@
+{
+ "chto_eto": "Винные строки обязательных ценовников группы IDEA — Roda — Mercator: цена, цена по акции, штрихкод, марка. Полка сети, а не витрина интернет-магазина.",
+ "istochnik": "roda.rs/cenovnici, файл за 2026-09-04; крупные магазины сети",
+ "sobrano": "2026-09-04",
+ "magazinov": 44,
+ "vina": [
+  {
+   "vino": "VINO SAUVIGN VIOGNIER TRIANGL 0.75L",
+   "hozyaistvo": "LASTAR",
+   "shtrihkod": "8606108332092",
+   "cena_rsd": 3684.99,
+   "cena_akcii": 2700.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MUŠTULUK TAMJANIKA 0.75L ČOKA",
+   "hozyaistvo": "ČOKA",
+   "shtrihkod": "8606107899923",
+   "cena_rsd": 1639.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RIZLING 1L DRAŠKOVIĆ",
+   "hozyaistvo": "VRŠAČKI VINOGRADI",
+   "shtrihkod": "8600107012290",
+   "cena_rsd": 549.99,
+   "cena_akcii": 350.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE ROMANSA 1L DZERVIN",
+   "hozyaistvo": "DŽERVIN",
+   "shtrihkod": "8606107880129",
+   "cena_rsd": 549.99,
+   "cena_akcii": 499.99,
+   "magazinov": 26,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV DESPOT 1L DZERVIN",
+   "hozyaistvo": "DŽERVIN",
+   "shtrihkod": "8606107880136",
+   "cena_rsd": 539.99,
+   "cena_akcii": 499.99,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN MUMM ROSE 0,75L",
+   "hozyaistvo": "MUMM",
+   "shtrihkod": "3043700104330",
+   "cena_rsd": 8389.99,
+   "cena_akcii": 5800.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LILLET BLANC 0,75L",
+   "hozyaistvo": "LILLET",
+   "shtrihkod": "3163934314173",
+   "cena_rsd": 2649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SOUPCON DE FRUIT ROSE DE 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3176780037714",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 899.99,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FRENCH L VERMENTINO COL 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3263280118675",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 41,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH VLADIKA 0,75L PLANTAŽE",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001308",
+   "cena_rsd": 2119.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CASA CAMPO CAB SAUV 0,75L",
+   "hozyaistvo": "CASA DE CAMPO",
+   "shtrihkod": "7804661041234",
+   "cena_rsd": 1097.99,
+   "cena_akcii": 20.0,
+   "magazinov": 36,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV GRAND SUD CABERNET 1L T",
+   "hozyaistvo": "GRAND SUD",
+   "shtrihkod": "3263280104975",
+   "cena_rsd": 849.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO FRESCHELLO 0,75L CALDIROL",
+   "hozyaistvo": "FRESCHELLO",
+   "shtrihkod": "8008900060331",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 30,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PAPALE PRIMITIVO 0.75L VARVAGL",
+   "hozyaistvo": "VARVAGLIONE",
+   "shtrihkod": "8031303000123",
+   "cena_rsd": 1829.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO AMANTE CARMEN 0.75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111804",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN LUC BELAIRE LUXE 0,75L",
+   "hozyaistvo": "LUC BELAIRE",
+   "shtrihkod": "0813497005577",
+   "cena_rsd": 4789.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SMEDEREVKA 1L PLANTAŽE",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002244",
+   "cena_rsd": 489.99,
+   "cena_akcii": 20.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0.75L GRUMEN",
+   "hozyaistvo": "GRUMEN",
+   "shtrihkod": "8607000312670",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 22,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH VRANAC 0,75L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001001",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO EL EMPER SAUVIGNO 0,75L",
+   "hozyaistvo": "EL EMPERADOR",
+   "shtrihkod": "7804661041210",
+   "cena_rsd": 1054.99,
+   "cena_akcii": 999.99,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MUSCAT ARIA 0,75L",
+   "hozyaistvo": "KATSAROS",
+   "shtrihkod": "5202227500201",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO CIELO 0.2L",
+   "hozyaistvo": "CIELO E TERRA",
+   "shtrihkod": "8008900007701",
+   "cena_rsd": 499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CUVEE ŽIVOT TEČE 0,75L ZB",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090061",
+   "cena_rsd": 1789.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ZMAJEVIT PROKUPAC 0,75L DESPOT",
+   "hozyaistvo": "DESPOTIKA",
+   "shtrihkod": "8606107067261",
+   "cena_rsd": 1779.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE NEMIR 0.75L DESPOTIKA",
+   "hozyaistvo": "DESPOTIKA",
+   "shtrihkod": "8606107067599",
+   "cena_rsd": 1534.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE 0.75L MIRAVAL",
+   "hozyaistvo": "MIRAVAL",
+   "shtrihkod": "3296180004250",
+   "cena_rsd": 3719.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO PROBUS 0,75L DEURIĆ",
+   "hozyaistvo": "VINARIJA DEURIĆ",
+   "shtrihkod": "8607000207501",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO AMANET 0.75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362021",
+   "cena_rsd": 1849.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV SMEDEREVKA 0,75L TIKVE",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008005514",
+   "cena_rsd": 684.99,
+   "cena_akcii": 20.0,
+   "magazinov": 36,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MORAVA 0,75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362700",
+   "cena_rsd": 949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 22,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT 0,75L PEŠIĆ",
+   "hozyaistvo": "VINARIJA PEŠIĆ",
+   "shtrihkod": "8606109035022",
+   "cena_rsd": 649.99,
+   "cena_akcii": 521.99,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH VRAN PRO CO 0,75L",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001018",
+   "cena_rsd": 1139.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN LUC BELAIRE ROSE 0,75L",
+   "hozyaistvo": "LUC BELAIRE",
+   "shtrihkod": "0813497005607",
+   "cena_rsd": 4789.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ŽDREPČEVA KRV 0,75L ČOKA",
+   "hozyaistvo": "ŽDREPČEVA KRV",
+   "shtrihkod": "8600102938083",
+   "cena_rsd": 559.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TORO LOCO SUPERIOR 0.75L",
+   "hozyaistvo": "TORO LOCO",
+   "shtrihkod": "3469891135166",
+   "cena_rsd": 699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 39,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TORO LOCO RESERVA 0.75L",
+   "hozyaistvo": "TORO LOCO",
+   "shtrihkod": "3469891135043",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PRIMITIVO TRULLI 0.75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052432831501",
+   "cena_rsd": 2549.99,
+   "cena_akcii": 2119.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SHIRAZ 0,75L TODOROVIĆ",
+   "hozyaistvo": "VINARIJA TODOROVIĆ",
+   "shtrihkod": "8606109554226",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MOSCATO 0.75L CASTEL PIETRA",
+   "hozyaistvo": "CASTEL PIETRA",
+   "shtrihkod": "8004305094742",
+   "cena_rsd": 949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINOT GRIGIO 0.75L CASTEL PIET",
+   "hozyaistvo": "CASTEL PIETRA",
+   "shtrihkod": "8004305095466",
+   "cena_rsd": 859.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROSECCO BRUT 18K GOLD 0.75L",
+   "hozyaistvo": "SENSI",
+   "shtrihkod": "8002477177553",
+   "cena_rsd": 2299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GRAŠEVINA 1L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074110487",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH GRAŠEVINA GOLDB 0,75L",
+   "hozyaistvo": "VINA BELJE",
+   "shtrihkod": "3850257019396",
+   "cena_rsd": 2899.99,
+   "cena_akcii": 2200.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO 0,75L CALDIROLA",
+   "hozyaistvo": "CALDIROLA",
+   "shtrihkod": "8004300030608",
+   "cena_rsd": 1299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABERNET MERLOT ĐORĐEVIĆ 0.75L",
+   "hozyaistvo": "VINARIJA ĐORĐEVIĆ",
+   "shtrihkod": "8606106286656",
+   "cena_rsd": 1849.99,
+   "cena_akcii": 1300.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO 3 PASSO ORGANIC 0,75L",
+   "hozyaistvo": "3 PASSO",
+   "shtrihkod": "8008900007473",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 1299.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PRIMITIVO PUGLIA MAESTRO 0,75L",
+   "hozyaistvo": "MAESTRO",
+   "shtrihkod": "8008900006797",
+   "cena_rsd": 1269.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV LEDERER CHARDONN 0,75L",
+   "hozyaistvo": "LEDERER",
+   "shtrihkod": "8606107899275",
+   "cena_rsd": 779.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "OSV EL KOMPLET KUVANO VINO 19ML AW",
+   "hozyaistvo": "AIR WICK",
+   "shtrihkod": "5999109541451",
+   "cena_rsd": 699.99,
+   "cena_akcii": 330.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRU 6 0.75L LASTAR",
+   "hozyaistvo": "LASTAR",
+   "shtrihkod": "8606108332306",
+   "cena_rsd": 1139.99,
+   "cena_akcii": 920.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TRAMINAC MOMA 0,75L BIKICKI",
+   "hozyaistvo": "BIKICKI",
+   "shtrihkod": "8607000307522",
+   "cena_rsd": 3849.99,
+   "cena_akcii": 3000.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MOJE ROSE 1L 13 JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003004019",
+   "cena_rsd": 459.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO ZAVET 0,75L JANKO",
+   "hozyaistvo": "JANKO",
+   "shtrihkod": "8606104792067",
+   "cena_rsd": 2229.99,
+   "cena_akcii": 20.0,
+   "magazinov": 24,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CORVEZZO CABERN SAUV 0.75L",
+   "hozyaistvo": "CORVEZZO",
+   "shtrihkod": "8051764723713",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 1519.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV LA TRAVERSATA PRIMIT 0.75L",
+   "hozyaistvo": "CORVEZZO",
+   "shtrihkod": "8051764723300",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 1500.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN CORVEZZO PROSEC BRUT 0.75L",
+   "hozyaistvo": "CORVEZZO",
+   "shtrihkod": "8051764723188",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 1519.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "ČOKOLADA NŽ B VINO PAN COT100G ŠTAR",
+   "hozyaistvo": "NAJLEPŠE ŽELJE",
+   "shtrihkod": "8600939334140",
+   "cena_rsd": 168.91,
+   "cena_akcii": 85.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONNAY 0,75L KOVAČE",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498128",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 1399.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA 0,75L LEDERER",
+   "hozyaistvo": "LEDERER",
+   "shtrihkod": "8606113173048",
+   "cena_rsd": 849.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ALEKSIĆ SEVDAH 0.75L",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8607000073373",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 30,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO KALČA EDICIJA 1L STA",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8606106029062",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV MUŠTULUK 0,75L ČOKA",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8600102938311",
+   "cena_rsd": 1749.99,
+   "cena_akcii": 1400.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GRAND SUD CHARDONN 0,25L",
+   "hozyaistvo": "GRAND SUD",
+   "shtrihkod": "3263286350178",
+   "cena_rsd": 324.99,
+   "cena_akcii": 295.99,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SLATKI MUŠKAT 0,75L VINAKOPER",
+   "hozyaistvo": "VINAKOPER",
+   "shtrihkod": "3830000700337",
+   "cena_rsd": 1469.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO HUM CABERN SAUV 0,75L M TVRDOŠ",
+   "hozyaistvo": "MANASTIR TVRDOŠ",
+   "shtrihkod": "3871734000140",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BOTTER TOR DEL COLLE 0.75L",
+   "hozyaistvo": "BOTTER SPA",
+   "shtrihkod": "8008863036695",
+   "cena_rsd": 1054.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH KRSTAČ 0,187L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003003043",
+   "cena_rsd": 279.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO FRONTERA CHARDONNAY 0,75L",
+   "hozyaistvo": "FRONTERA",
+   "shtrihkod": "7804320642277",
+   "cena_rsd": 969.99,
+   "cena_akcii": 809.99,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV FRONTERA CAB SAUV 0,75L PE",
+   "hozyaistvo": "FRONTERA",
+   "shtrihkod": "7804320559001",
+   "cena_rsd": 969.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SALAŠ NAŠ SAUVIGN BLANC 0,75L",
+   "hozyaistvo": "SIMEX",
+   "shtrihkod": "8607000303609",
+   "cena_rsd": 669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SALAŠ NAŠ MERLOT 0,75L",
+   "hozyaistvo": "SIMEX",
+   "shtrihkod": "8607000303623",
+   "cena_rsd": 669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO NOBILE DI MONTEPULCIANO 0.75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8006630841909",
+   "cena_rsd": 1769.99,
+   "cena_akcii": 1100.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SAUVIGNON 0.75L FANTINEL",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8009663102061",
+   "cena_rsd": 2529.99,
+   "cena_akcii": 1600.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TAMJANIKA 0,75L PEŠIĆ",
+   "hozyaistvo": "VINARIJA PEŠIĆ",
+   "shtrihkod": "8606109035244",
+   "cena_rsd": 799.99,
+   "cena_akcii": 669.99,
+   "magazinov": 36,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KARDAŠ LIMITED 0.75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362038",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ERGO CRVENI 0.75L TEMET",
+   "hozyaistvo": "TEMET",
+   "shtrihkod": "8606015740133",
+   "cena_rsd": 4629.99,
+   "cena_akcii": 3200.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KREMEN KAMEN 0,75L MATALJ",
+   "hozyaistvo": "MATALJ",
+   "shtrihkod": "8606101788261",
+   "cena_rsd": 10699.99,
+   "cena_akcii": 6800.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO PIOT NOIR 0.75L BELO BR",
+   "hozyaistvo": "BELO BRDO",
+   "shtrihkod": "8606106791266",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ERGO BELI 0.75L TEMET",
+   "hozyaistvo": "TEMET",
+   "shtrihkod": "8606015740126",
+   "cena_rsd": 4249.99,
+   "cena_akcii": 2700.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO BONACA 0,75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8607000073328",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MUSKAT15 11,5% 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111491",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO DOC BP 0,75L MION",
+   "hozyaistvo": "MIONETTO",
+   "shtrihkod": "8006220001669",
+   "cena_rsd": 1769.99,
+   "cena_akcii": 20.0,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KUPINOVO 0,75L ŽUPA",
+   "hozyaistvo": "VINO ŽUPA",
+   "shtrihkod": "8600133104211",
+   "cena_rsd": 629.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "GIN 0.1L VINO ŽUPA",
+   "hozyaistvo": "VINO ŽUPA",
+   "shtrihkod": "8600133113695",
+   "cena_rsd": 124.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GAVI DOCG 0,75L S",
+   "hozyaistvo": "SCANAVINO",
+   "shtrihkod": "8002083123715",
+   "cena_rsd": 1132.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VRANEC LUDA MARA 0.75L TIKVEŠ",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008005033",
+   "cena_rsd": 1389.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GRAŠEVINA 1L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008006245",
+   "cena_rsd": 654.99,
+   "cena_akcii": 20.0,
+   "magazinov": 30,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PATA NEGRA RE 0,75L GARCIA",
+   "hozyaistvo": "JW GARCIA CARRION",
+   "shtrihkod": "8410415370728",
+   "cena_rsd": 719.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV NEGRA RIOJA 0,75L PATA NEG",
+   "hozyaistvo": "JW GARCIA CARRION",
+   "shtrihkod": "8410261112008",
+   "cena_rsd": 1069.99,
+   "cena_akcii": 20.0,
+   "magazinov": 22,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARD SELECT 0.75L KOVAČE",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498548",
+   "cena_rsd": 2519.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV AURELIUS SELECT 0.75L KOVA",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498524",
+   "cena_rsd": 3049.99,
+   "cena_akcii": 2699.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ORFELIN 3L BAG IN BOX",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498449",
+   "cena_rsd": 1854.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ORFELIN 3L BAG IN BOX",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498463",
+   "cena_rsd": 1854.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE ORFELIN 3L BAG IN BOX",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498456",
+   "cena_rsd": 1854.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR PRIM DEL SALENTO 12 M 0.75",
+   "hozyaistvo": "12 E MEZZO",
+   "shtrihkod": "8031303003421",
+   "cena_rsd": 1284.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV. VALPOLICELLA 0.75L ALLEGR",
+   "hozyaistvo": "ALLEGRINI",
+   "shtrihkod": "8015822010481",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TALAS BELI 0.75 L DEURIĆ",
+   "hozyaistvo": "VINARIJA DEURIĆ",
+   "shtrihkod": "8607000059551",
+   "cena_rsd": 899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV. TALAS CRVENI 0.75L DEURIĆ",
+   "hozyaistvo": "VINARIJA DEURIĆ",
+   "shtrihkod": "8607000059537",
+   "cena_rsd": 1049.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ZL ITAL RIZLING 0,75L VIN",
+   "hozyaistvo": "VINUM",
+   "shtrihkod": "8600103811040",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO BERMET 0,5L KIŠ",
+   "hozyaistvo": "VINARIJA KIŠ",
+   "shtrihkod": "8606103942029",
+   "cena_rsd": 1669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 30,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO BERMET 0,5L KIŠ",
+   "hozyaistvo": "VINARIJA KIŠ",
+   "shtrihkod": "8606103942043",
+   "cena_rsd": 1669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 33,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MARINA CVETIĆ CHARD 0.75L",
+   "hozyaistvo": "MARINA CVETIĆ",
+   "shtrihkod": "8033140750650",
+   "cena_rsd": 5949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO TVRDOŠ METOH 0,75",
+   "hozyaistvo": "MANASTIR TVRDOŠ",
+   "shtrihkod": "3871734000348",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT RUBICONE BIOLOGIC 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8011510025348",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO ICY VILA L 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052049651219",
+   "cena_rsd": 1299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KRATOŠIJA 1L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008006061",
+   "cena_rsd": 549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 31,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN FRESCO BIANCO 0.75L KOVAČE",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498692",
+   "cena_rsd": 1369.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VILA ANTINORI IGT 0,75L",
+   "hozyaistvo": "ANTINORI",
+   "shtrihkod": "8001935353201",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 1629.99,
+   "magazinov": 23,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR VILA ANTINORI IGT TOS 0,75L",
+   "hozyaistvo": "ANTINORI",
+   "shtrihkod": "8001935221401",
+   "cena_rsd": 2999.99,
+   "cena_akcii": 2399.99,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN VRONSKY 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074150001",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 1300.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV JP CHENET MERLOT 0,75L T",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263286328993",
+   "cena_rsd": 882.99,
+   "cena_akcii": 799.99,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABER MERLO 0.75L STARI HRAST",
+   "hozyaistvo": "STARI HRAST",
+   "shtrihkod": "8607000174209",
+   "cena_rsd": 2199.99,
+   "cena_akcii": 1300.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH CHARDONNAY 0,75L 13.J",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002015",
+   "cena_rsd": 669.99,
+   "cena_akcii": 459.99,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SAUVIGNON BLANC 0,75L MUR",
+   "hozyaistvo": "MUREDA",
+   "shtrihkod": "8437008496238",
+   "cena_rsd": 699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO RAJNSKI RIZLING 0.75L RAD",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8606101559045",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MADEM COMEDIE BORDEAUX 0,75L",
+   "hozyaistvo": "CHATEAUX FONFROIDE",
+   "shtrihkod": "3500610095436",
+   "cena_rsd": 849.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN FRESCO ROSE 0.75L KOVAČEVI",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498715",
+   "cena_rsd": 1369.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CILIĆ CABERNET&MERLOT 0,75L",
+   "hozyaistvo": "CILIĆ VINARIJA",
+   "shtrihkod": "3500610083099",
+   "cena_rsd": 1974.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BJELICA BABAROGA 750ML ALLEGRI",
+   "hozyaistvo": "BJELICA",
+   "shtrihkod": "8607000175534",
+   "cena_rsd": 6299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FANTINI DON CAMILLO 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873677532",
+   "cena_rsd": 2399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO EDIZIONE BIANCO 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873134004",
+   "cena_rsd": 3999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KRSTAŠ 1L PLANTAŽE",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002336",
+   "cena_rsd": 459.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PENUŠAVO LEDERER 0.75L",
+   "hozyaistvo": "LEDERER",
+   "shtrihkod": "8600102938298",
+   "cena_rsd": 799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KUPINOVO 0,187L ČOKA",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8606106842036",
+   "cena_rsd": 269.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MALVAZIJA BENVENUTI 0,75L",
+   "hozyaistvo": "BENVENUTI",
+   "shtrihkod": "3857500050106",
+   "cena_rsd": 2069.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FRENCH LIFE CARIGNAN SYR 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3263280118682",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 40,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BELO FRESCHELLO 0.75L",
+   "hozyaistvo": "CIELO E TERRA",
+   "shtrihkod": "8008900006247",
+   "cena_rsd": 999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE PROSECO 0.75L T SANTOME",
+   "hozyaistvo": "TENUTA SANTOME",
+   "shtrihkod": "8032862060351",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO 3 PASSO BIO 0,75L",
+   "hozyaistvo": "3 PASSO",
+   "shtrihkod": "8008900009323",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 1299.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VICTORIE L AUDACIEUSE 0.75L",
+   "hozyaistvo": "3 PASSO",
+   "shtrihkod": "3500610144806",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV JP CHENET RES MER GP 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263289999961",
+   "cena_rsd": 1677.99,
+   "cena_akcii": 20.0,
+   "magazinov": 24,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0.75L 100 ŽENA",
+   "hozyaistvo": "100 ŽENA",
+   "shtrihkod": "8607000342226",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SMEDEREVKA PET 2L NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750299",
+   "cena_rsd": 474.99,
+   "cena_akcii": 454.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VRANAC PET 2L NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750282",
+   "cena_rsd": 509.99,
+   "cena_akcii": 459.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA 0.75L 100 ŽENA",
+   "hozyaistvo": "100 ŽENA",
+   "shtrihkod": "8607000342257",
+   "cena_rsd": 2199.0,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MONSIEUR MERLOT 0.75L 100 ŽENA",
+   "hozyaistvo": "100 ŽENA",
+   "shtrihkod": "8607000342264",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ŽDREPČEVA KRV 0,187L ČOKA",
+   "hozyaistvo": "ŽDREPČEVA KRV",
+   "shtrihkod": "8606107899558",
+   "cena_rsd": 239.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PINOT NOIR 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074130805",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SREBR RADG PENINA MUŠKAT 0.75L",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000344074",
+   "cena_rsd": 1539.99,
+   "cena_akcii": 900.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GIOVINELLO PINOT GRIGIO 0,75L",
+   "hozyaistvo": "VIALA",
+   "shtrihkod": "5998623530514",
+   "cena_rsd": 827.99,
+   "cena_akcii": 659.99,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GALATHEO BIANCO 0,75L",
+   "hozyaistvo": "GALATHEO",
+   "shtrihkod": "4006542075014",
+   "cena_rsd": 679.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO HILANDAR 0.75L+POKLON KALENDAR",
+   "hozyaistvo": "HILANDAR",
+   "shtrihkod": "8606108817162",
+   "cena_rsd": 1559.99,
+   "cena_akcii": 1010.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MACEDON MUSCAT TEMJ 0,75L STOB",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991251243",
+   "cena_rsd": 1399.0,
+   "cena_akcii": 800.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT 0,75L TODOROVIĆ",
+   "hozyaistvo": "VINARIJA TODOROVIĆ",
+   "shtrihkod": "8606109554011",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0,75L TODOROVIĆ",
+   "hozyaistvo": "VINARIJA TODOROVIĆ",
+   "shtrihkod": "8606109554288",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA 0,75L JUNGIĆ",
+   "hozyaistvo": "JUNGIĆ",
+   "shtrihkod": "3877000075126",
+   "cena_rsd": 2424.0,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VR PRO COR 0,75L GP 13 JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003006051",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PLAVAC 0,75L SKARAMUČA",
+   "hozyaistvo": "SKARAMUČA",
+   "shtrihkod": "3859888214026",
+   "cena_rsd": 989.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHENET ICE ROSE 0.75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610093708",
+   "cena_rsd": 1162.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO HARIZMA 0,75L ALEKSANDROV",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294145",
+   "cena_rsd": 2049.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TRIJUMF 0,75L ALEKSANDROV",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294015",
+   "cena_rsd": 2229.99,
+   "cena_akcii": 20.0,
+   "magazinov": 34,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CHEMIN DES PAPES 0,75L",
+   "hozyaistvo": "COTES DU RHONE",
+   "shtrihkod": "3250670001716",
+   "cena_rsd": 859.99,
+   "cena_akcii": 600.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARD HELENE 0,75L KO ART",
+   "hozyaistvo": "HELENE DANJOU",
+   "shtrihkod": "3258880848435",
+   "cena_rsd": 669.99,
+   "cena_akcii": 450.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GAZIRANO LAMBRUSC 0.75L CALDIR",
+   "hozyaistvo": "LA CACCIATORA",
+   "shtrihkod": "8004300011669",
+   "cena_rsd": 549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO BAROLO RISERVA CASA 0.75",
+   "hozyaistvo": "MARCHESI DI BAROLO",
+   "shtrihkod": "8004910223087",
+   "cena_rsd": 19699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0.75L LEDERER",
+   "hozyaistvo": "LEDERER",
+   "shtrihkod": "8606102329647",
+   "cena_rsd": 779.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "PP VINA VOĆNA 3X0.187L VINARIJA ČOK",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8606102329982",
+   "cena_rsd": 629.99,
+   "cena_akcii": 20.0,
+   "magazinov": 41,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROKUPAC 0.75L NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750015",
+   "cena_rsd": 659.99,
+   "cena_akcii": 520.99,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABERNET VENETO 0.75L BELLA SE",
+   "hozyaistvo": "SELECT",
+   "shtrihkod": "8720726311373",
+   "cena_rsd": 569.99,
+   "cena_akcii": 360.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINOT G PUGLIA 0.75L BELLA SER",
+   "hozyaistvo": "SELECT",
+   "shtrihkod": "8720726311366",
+   "cena_rsd": 569.99,
+   "cena_akcii": 360.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SPUMANTE BRUT 0.75L BELLA SE",
+   "hozyaistvo": "SELECT",
+   "shtrihkod": "8720726311427",
+   "cena_rsd": 649.99,
+   "cena_akcii": 400.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MAR SP BELO SLA LIKE .0.75LCVC",
+   "hozyaistvo": "CALDIROLA",
+   "shtrihkod": "8004300102596",
+   "cena_rsd": 899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINOT GRIGIO 0.7L ZVONKO BOGD",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090528",
+   "cena_rsd": 1929.99,
+   "cena_akcii": 1600.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PENUŠAVO ROSE BISER 0,75L RADG",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000344234",
+   "cena_rsd": 619.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHABLIS 1ER C FOUR0.75",
+   "hozyaistvo": "CHABLIS",
+   "shtrihkod": "3269390084015",
+   "cena_rsd": 6249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE EUFORIJA 0,75L ALEKSANDRO",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294299",
+   "cena_rsd": 1679.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TEMA 0,75L ALEKSANDROVIĆ",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294381",
+   "cena_rsd": 1829.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO VRANAC 1L ČOKA",
+   "hozyaistvo": "VRANAC",
+   "shtrihkod": "8600102938069",
+   "cena_rsd": 519.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV GRAŠEVINA 0,75L ILOČKI",
+   "hozyaistvo": "ILOČKI PODRUMI",
+   "shtrihkod": "3859889556453",
+   "cena_rsd": 1049.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH ŽILAVKA 0,75L VUKOJE",
+   "hozyaistvo": "VUKOJE",
+   "shtrihkod": "3872153000025",
+   "cena_rsd": 2349.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV BYB CAMPO VIEJO TEMPRANILL",
+   "hozyaistvo": "BYB",
+   "shtrihkod": "8410302106300",
+   "cena_rsd": 1449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO CARICA M 0,75L RUB",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111392",
+   "cena_rsd": 474.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO FRIULANO 0.75L FANTINEL",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8009663102047",
+   "cena_rsd": 2529.99,
+   "cena_akcii": 1600.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GRAPE ANGEL PINOT GRIS 0.75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "4840403007819",
+   "cena_rsd": 699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TORRES VINA ESMERALDA 0.75L",
+   "hozyaistvo": "TORRES",
+   "shtrihkod": "8410113001122",
+   "cena_rsd": 1389.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TORRES ESMERALDA SPARKIL 0.75L",
+   "hozyaistvo": "TORRES",
+   "shtrihkod": "8410113555618",
+   "cena_rsd": 1914.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TORRES SANGRE DE TORO TE 0.75L",
+   "hozyaistvo": "TORRES",
+   "shtrihkod": "8410113003614",
+   "cena_rsd": 1259.99,
+   "cena_akcii": 800.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY PREM 0.75L NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750138",
+   "cena_rsd": 659.99,
+   "cena_akcii": 510.49,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN LA ROUVIERE BRUT 0,75L",
+   "hozyaistvo": "LA ROUVIERE",
+   "shtrihkod": "3500610141874",
+   "cena_rsd": 1329.99,
+   "cena_akcii": 999.99,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROSECCO DOC ROSE MILLE 0,75L",
+   "hozyaistvo": "TAITTINGER",
+   "shtrihkod": "8006805232020",
+   "cena_rsd": 1239.99,
+   "cena_akcii": 800.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LA GIOIOSA BIANCO FRIZZ 0,75L",
+   "hozyaistvo": "LA GIOIOSA",
+   "shtrihkod": "8006805152687",
+   "cena_rsd": 599.99,
+   "cena_akcii": 350.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LA GIOIOSA ROSATO FRIZZ 0,75L",
+   "hozyaistvo": "LA GIOIOSA",
+   "shtrihkod": "8006805058019",
+   "cena_rsd": 599.99,
+   "cena_akcii": 350.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ALLURE PINK PINOT GRIGIO 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "4006542077308",
+   "cena_rsd": 879.99,
+   "cena_akcii": 20.0,
+   "magazinov": 41,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VIOGNIER 0,75L LEGAT 1903",
+   "hozyaistvo": "LEGAT",
+   "shtrihkod": "8606111821026",
+   "cena_rsd": 3199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MUSCAT PETIT GRAIN 0,75L LEGAT",
+   "hozyaistvo": "LEGAT",
+   "shtrihkod": "8606111821002",
+   "cena_rsd": 2199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA 0,75L PIRG",
+   "hozyaistvo": "PIRG",
+   "shtrihkod": "8606111873100",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAUVIGNON BLANC 0,75L PIRG",
+   "hozyaistvo": "PIRG",
+   "shtrihkod": "8606111873087",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO NERA MERLOT 0,75L ŠAPAT",
+   "hozyaistvo": "ŠAPAT",
+   "shtrihkod": "8606107736617",
+   "cena_rsd": 2399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ŠU ŠU ROSE 0,75L ŠAPAT",
+   "hozyaistvo": "ŠAPAT",
+   "shtrihkod": "8606107736518",
+   "cena_rsd": 1749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0,75L ŠAPAT",
+   "hozyaistvo": "ŠAPAT",
+   "shtrihkod": "8606107736549",
+   "cena_rsd": 2199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GRAŠAC 0,75L FRUG",
+   "hozyaistvo": "FRUG",
+   "shtrihkod": "8606111966178",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0,75L FRUG",
+   "hozyaistvo": "FRUG",
+   "shtrihkod": "8606111966192",
+   "cena_rsd": 2299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SYRAH 0,75L FRUG",
+   "hozyaistvo": "FRUG",
+   "shtrihkod": "8606111966208",
+   "cena_rsd": 3199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MASTRI VERN MARZEM 0,75L CAVIT",
+   "hozyaistvo": "CAVIT",
+   "shtrihkod": "8007890115441",
+   "cena_rsd": 1399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MASTRI VERN GEWURZ 0,75L CAVIT",
+   "hozyaistvo": "CAVIT",
+   "shtrihkod": "8007890216643",
+   "cena_rsd": 1799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MASTRI VERN MUL TH 0,75L CAVIT",
+   "hozyaistvo": "CAVIT",
+   "shtrihkod": "8007890217046",
+   "cena_rsd": 1399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO NENSI FRANKOVKA 0,75L BORA",
+   "hozyaistvo": "BORA",
+   "shtrihkod": "8607000296055",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ŠARL CHARDONNAY 0,75L BORA",
+   "hozyaistvo": "BORA",
+   "shtrihkod": "8607000296017",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO EDIT ROSE 0,75L BORA",
+   "hozyaistvo": "BORA",
+   "shtrihkod": "8607000296000",
+   "cena_rsd": 1399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV ALEKSANDRIA 0,75L TIKV",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008007280",
+   "cena_rsd": 819.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LE SAINT ES DE COS LABOR 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3500610151620",
+   "cena_rsd": 4499.99,
+   "cena_akcii": 2500.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LABASTIDE DAUZAC MARGAUX 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3760249952245",
+   "cena_rsd": 5749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RAYMOND HUET SAI EMILION 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3500610066849",
+   "cena_rsd": 3499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHATEAU SEGUALA CUVEE IC 0.75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3500610140167",
+   "cena_rsd": 5149.99,
+   "cena_akcii": 2900.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE CHATEAU GIGERY 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3500610135934",
+   "cena_rsd": 2199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MALVAZIJA ISTARSKA 0,75 KABOLA",
+   "hozyaistvo": "KABOLA",
+   "shtrihkod": "8607000145759",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 1700.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO REGENT 0,75L ALEKSANDRO",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294411",
+   "cena_rsd": 2569.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO VIZIJA 0,75L ALEKSANDRO",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294176",
+   "cena_rsd": 2049.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR BYB CAMPO VIEJO RESER 0,75L",
+   "hozyaistvo": "BYB",
+   "shtrihkod": "8410302107697",
+   "cena_rsd": 2299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV TRIANON 0,7L ERDEVIK",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267630",
+   "cena_rsd": 1869.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAUVIGNON BLANC 0.75L GRUMEN",
+   "hozyaistvo": "GRUMEN",
+   "shtrihkod": "8607000312601",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VRANAC 1L GROZD",
+   "hozyaistvo": "GROZD",
+   "shtrihkod": "8606109488026",
+   "cena_rsd": 404.99,
+   "cena_akcii": 260.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SANTA CRISTINA 0,75L ANTI",
+   "hozyaistvo": "SANTA CRISTINA",
+   "shtrihkod": "8001935004158",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA CHATEAU PRINC 0.75L",
+   "hozyaistvo": "ZLATNI PELIN",
+   "shtrihkod": "8606110891228",
+   "cena_rsd": 1239.99,
+   "cena_akcii": 810.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRANAC 0,75L ČOKA",
+   "hozyaistvo": "VRANAC",
+   "shtrihkod": "8600102938090",
+   "cena_rsd": 519.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TRI CRVENE KOZE 0.75L ERDEVIK",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267951",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 26,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SOVINOA 0.75L MATIJAŠEVIC",
+   "hozyaistvo": "MATIJAŠEVIĆ",
+   "shtrihkod": "8606109860006",
+   "cena_rsd": 2499.99,
+   "cena_akcii": 1600.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MATALJ TERASE CHARDONNAY 0,75L",
+   "hozyaistvo": "MATALJ",
+   "shtrihkod": "8606101788216",
+   "cena_rsd": 1749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV VRANAC 1L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991251755",
+   "cena_rsd": 489.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV SMEDEREVKA 1L ST",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991251786",
+   "cena_rsd": 489.99,
+   "cena_akcii": 20.0,
+   "magazinov": 41,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO ALMA MONS BARIQUE 0,75L Z",
+   "hozyaistvo": "BELO BRDO",
+   "shtrihkod": "8606106791273",
+   "cena_rsd": 2619.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO MONTEPULCIANO 0,75L TOR D",
+   "hozyaistvo": "TOR DEL COLLE",
+   "shtrihkod": "8008863024654",
+   "cena_rsd": 1169.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE TEMET 0,75L TEMET",
+   "hozyaistvo": "TEMET",
+   "shtrihkod": "8606015740041",
+   "cena_rsd": 2019.99,
+   "cena_akcii": 1400.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO TEMPRANILLO 0,75L SOLDEPE",
+   "hozyaistvo": "SOLDEPENAS",
+   "shtrihkod": "8410702002370",
+   "cena_rsd": 359.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN FREIXENET CARTA NEVA 0,75L",
+   "hozyaistvo": "FREIXENET",
+   "shtrihkod": "8410036002015",
+   "cena_rsd": 1762.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0.5L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008005934",
+   "cena_rsd": 389.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SMEDEREVKA 0.5L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008005910",
+   "cena_rsd": 394.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FABULA MALA 0,75L CHICHATEAU",
+   "hozyaistvo": "CHICHATEAU",
+   "shtrihkod": "8607000099205",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN ŽUTI CVET 0,75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362175",
+   "cena_rsd": 2129.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BISER 0.75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362151",
+   "cena_rsd": 2149.99,
+   "cena_akcii": 1300.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNA TAMJANIKA 0,5L MATALJ",
+   "hozyaistvo": "MATALJ",
+   "shtrihkod": "8606101788278",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TRAG MERLOT 0.75L DESPOTIKA",
+   "hozyaistvo": "DESPOTIKA",
+   "shtrihkod": "8606107067063",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ZLATNA PENINA ROSE 0.75L RADGON",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000341042",
+   "cena_rsd": 3099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ZLATNA PENINA EX.SUHA 0.75L RAD",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000341028",
+   "cena_rsd": 2899.99,
+   "cena_akcii": 1800.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SREBRNA PENINA SU 0.75 RAD GOR",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000341127",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 950.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SREBRNA PENINA POLUSUHA0.75 RAD",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000341110",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 800.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MARCEL CABELIER LA CO 39 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3570590109515",
+   "cena_rsd": 3249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RESERVE CRUSE 6EME GENER 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3452130039110",
+   "cena_rsd": 2599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE SUVO SIRTAKI 0,75L",
+   "hozyaistvo": "DIONISOS",
+   "shtrihkod": "8606110826206",
+   "cena_rsd": 499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SUVO SIRTAKI 0,75L",
+   "hozyaistvo": "DIONISOS",
+   "shtrihkod": "8606110826190",
+   "cena_rsd": 499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO SUVO SIRTAKI 0,75L",
+   "hozyaistvo": "DIONISOS",
+   "shtrihkod": "8606110826213",
+   "cena_rsd": 499.99,
+   "cena_akcii": 320.99,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO VITAČ 1L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008006047",
+   "cena_rsd": 589.99,
+   "cena_akcii": 350.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN HENKELL TROCKEN 0,2L TODY",
+   "hozyaistvo": "HENKELL TROCKEN",
+   "shtrihkod": "4003310012363",
+   "cena_rsd": 412.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TAMJANIKA 0,75L BUDIMIR",
+   "hozyaistvo": "VINARIJA BUDIMIR",
+   "shtrihkod": "8606106598049",
+   "cena_rsd": 1849.0,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PORTO CRUZ TAWNY 0,75L TIM",
+   "hozyaistvo": "PORTO CRUZ",
+   "shtrihkod": "3147690089704",
+   "cena_rsd": 1929.99,
+   "cena_akcii": 20.0,
+   "magazinov": 28,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE KV 1L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991251779",
+   "cena_rsd": 489.99,
+   "cena_akcii": 20.0,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT CABERNET 0.75L LASTAR",
+   "hozyaistvo": "LASTAR",
+   "shtrihkod": "8606108332191",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RUŽA VETROVA 0.75L DRAŠ",
+   "hozyaistvo": "VRŠAČKI VINOGRADI",
+   "shtrihkod": "8600107052067",
+   "cena_rsd": 1759.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ALLURE SAUVIGNON BLANC 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "4006542077315",
+   "cena_rsd": 879.99,
+   "cena_akcii": 20.0,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINOT GRIGIO ALTO BELLO 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "4006542073317",
+   "cena_rsd": 829.99,
+   "cena_akcii": 20.0,
+   "magazinov": 21,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GRAND TRIANON 0.75L ERDEVIK",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267654",
+   "cena_rsd": 3299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TRIJUMF GOLD 0,75L PR AL",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294930",
+   "cena_rsd": 2469.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PEPPOLI CH 0,75L ANTINORI",
+   "hozyaistvo": "ANTINORI",
+   "shtrihkod": "8001935294504",
+   "cena_rsd": 3399.99,
+   "cena_akcii": 2000.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PENUŠAVO JP CHENET WHITE 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610085338",
+   "cena_rsd": 1067.99,
+   "cena_akcii": 799.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 1L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111279",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHATEAUNEUF DU PAPE CALV 0.75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3159560700107",
+   "cena_rsd": 5199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHATEAU MAS SEGUALA TERR 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3500610101137",
+   "cena_rsd": 749.99,
+   "cena_akcii": 599.99,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SALAŠ NAŠ CABERNET SAUV 0,75L",
+   "hozyaistvo": "SIMEX",
+   "shtrihkod": "8607000303630",
+   "cena_rsd": 669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SALAŠ NAŠ CHARDONNAY 0,75L",
+   "hozyaistvo": "SIMEX",
+   "shtrihkod": "8607000303616",
+   "cena_rsd": 669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV ALEKSANDRIA 0,75L TIKVE",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008007150",
+   "cena_rsd": 819.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GRECO DI TUFO 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052432830658",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO RIESLING 1L IMAKO",
+   "hozyaistvo": "IMAKO",
+   "shtrihkod": "5319990807144",
+   "cena_rsd": 494.99,
+   "cena_akcii": 422.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO VRANAC 1L IMAKO",
+   "hozyaistvo": "IMAKO",
+   "shtrihkod": "5310140009845",
+   "cena_rsd": 504.99,
+   "cena_akcii": 478.49,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO UNITY CHARDONNAY 0,75L IMAKO",
+   "hozyaistvo": "IMAKO",
+   "shtrihkod": "5310140009968",
+   "cena_rsd": 584.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO UNITY CABERN SAUV 0,75L IMAKO",
+   "hozyaistvo": "IMAKO",
+   "shtrihkod": "5310140009999",
+   "cena_rsd": 584.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GALATHEO ROSSO 0,75L",
+   "hozyaistvo": "GALATHEO",
+   "shtrihkod": "4006542075007",
+   "cena_rsd": 679.99,
+   "cena_akcii": 20.0,
+   "magazinov": 34,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CASILLERO CHARDONN 0,75L",
+   "hozyaistvo": "CASILLERO",
+   "shtrihkod": "7804320256900",
+   "cena_rsd": 1489.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CASILLERO SAUV BLAN 0,75L",
+   "hozyaistvo": "CASILLERO",
+   "shtrihkod": "7804320301174",
+   "cena_rsd": 1489.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CASILLERO CABER SAUV 0,75L",
+   "hozyaistvo": "CASILLERO",
+   "shtrihkod": "7804320303178",
+   "cena_rsd": 1489.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO KANON 0,75L JEREMIĆ",
+   "hozyaistvo": "VINARIJA JEREMIĆ",
+   "shtrihkod": "8607000032233",
+   "cena_rsd": 2494.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BOTTEGA GOLD 0.75L",
+   "hozyaistvo": "BOTTEGA",
+   "shtrihkod": "8005829230333",
+   "cena_rsd": 4772.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BOTTEGA ROSE 0.75L",
+   "hozyaistvo": "BOTTEGA",
+   "shtrihkod": "8005829230388",
+   "cena_rsd": 4679.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KUPINOVO 0,75L UMK",
+   "hozyaistvo": "UKUSI MOGA KRAJA",
+   "shtrihkod": "8605002334423",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO UPUPA TAMJANIKA 0.75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3906995560055",
+   "cena_rsd": 2699.0,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE KV 0,75L 13. JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003004002",
+   "cena_rsd": 749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAUVIGNON BLANC 0,75L DEURIĆ",
+   "hozyaistvo": "VINARIJA DEURIĆ",
+   "shtrihkod": "8607000059599",
+   "cena_rsd": 1359.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHEVROTIN CHARDONNAY 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3120581438256",
+   "cena_rsd": 779.99,
+   "cena_akcii": 649.99,
+   "magazinov": 36,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO TREVISO 0,75L",
+   "hozyaistvo": "KRISTAL",
+   "shtrihkod": "8007391003032",
+   "cena_rsd": 1199.99,
+   "cena_akcii": 860.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ERROIR LA BAUME SAINT P 0.75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3500610089701",
+   "cena_rsd": 769.99,
+   "cena_akcii": 550.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO OMBRE ROSE 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3500610106989",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO POLUPENUŠAVO 0.75LHUGO",
+   "hozyaistvo": "HUGO PIJACE",
+   "shtrihkod": "3830000343190",
+   "cena_rsd": 1079.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CAB SAUV RADOVANOV 0,75L",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8606101559014",
+   "cena_rsd": 1799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 39,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ANTIGONA WHITE 0.75L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319992073110",
+   "cena_rsd": 709.99,
+   "cena_akcii": 579.99,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ANTIGONA ROSE 0.75L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319992073127",
+   "cena_rsd": 709.99,
+   "cena_akcii": 20.0,
+   "magazinov": 30,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CAB SAUVIGNON 0,75L LA DEL",
+   "hozyaistvo": "LA DELIZIA",
+   "shtrihkod": "8002006960311",
+   "cena_rsd": 599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV MERLOT 0,75L LA DELIZIA",
+   "hozyaistvo": "LA DELIZIA",
+   "shtrihkod": "8002006960298",
+   "cena_rsd": 604.99,
+   "cena_akcii": 20.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONNAY 0,75L LA DELIZ",
+   "hozyaistvo": "LA DELIZIA",
+   "shtrihkod": "8002006960137",
+   "cena_rsd": 604.99,
+   "cena_akcii": 20.0,
+   "magazinov": 36,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR CABER SAUVIGNON 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074141757",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONAY 0,75L KOMUNA",
+   "hozyaistvo": "VINARIJA KOMUNA",
+   "shtrihkod": "8607000164033",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KADARKA FANTAZI 0,75L TONKOVIĆ",
+   "hozyaistvo": "VINARIJA TONKOVIĆ",
+   "shtrihkod": "8607000070419",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BRUT DARGENT CHARDON 0,75L",
+   "hozyaistvo": "BRUT DARGENT",
+   "shtrihkod": "3263287626029",
+   "cena_rsd": 1199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BLANC DE MOI 0.75L",
+   "hozyaistvo": "VINA LAGUNA",
+   "shtrihkod": "3858881197107",
+   "cena_rsd": 2874.99,
+   "cena_akcii": 1800.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MALVAZIJA FESTIGIA 0,75L LAGUN",
+   "hozyaistvo": "VINA LAGUNA",
+   "shtrihkod": "3858881191914",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CASTELLO FESTIGIA 0,75L LAGUNA",
+   "hozyaistvo": "VINA LAGUNA",
+   "shtrihkod": "3858881191990",
+   "cena_rsd": 2274.99,
+   "cena_akcii": 1400.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO LUDA MARA CUVEE 0.75L",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008007808",
+   "cena_rsd": 1239.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO LUDA MARA CUVEE 0.75L",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008007785",
+   "cena_rsd": 1239.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KUTJEVO ROSE KVALITETNO 0.75L",
+   "hozyaistvo": "KUTJEVO",
+   "shtrihkod": "3850156001072",
+   "cena_rsd": 949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHEN 24C GOLD 0.75L BOX",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500611231161",
+   "cena_rsd": 2129.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RETSINA MALAMATINA 0,5L",
+   "hozyaistvo": "RETSINA",
+   "shtrihkod": "5201625001587",
+   "cena_rsd": 379.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT 0,75L DEURIĆ",
+   "hozyaistvo": "VINARIJA DEURIĆ",
+   "shtrihkod": "8607000288517",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MUSCAT PETIT GRAIN 0,75L KOMUN",
+   "hozyaistvo": "VINARIJA KOMUNA",
+   "shtrihkod": "8607000164002",
+   "cena_rsd": 1299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FILIGR TAMJANIKA CRN 0,75L BUK",
+   "hozyaistvo": "MANASTIR BUKOVO",
+   "shtrihkod": "8606108951088",
+   "cena_rsd": 1399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FILIGR CABERNET SAUV 0,75L BUK",
+   "hozyaistvo": "MANASTIR BUKOVO",
+   "shtrihkod": "8606108951040",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABERN SAUV 1186 0,75L STUDENI",
+   "hozyaistvo": "MANASTIR STUDENICA",
+   "shtrihkod": "8607000198908",
+   "cena_rsd": 1609.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FILIGRAN CHARDO 0,75L M BUKOVO",
+   "hozyaistvo": "MANASTIR BUKOVO",
+   "shtrihkod": "8606108951026",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MALVAZIJA 0,75L VINAKOPER",
+   "hozyaistvo": "VINAKOPER",
+   "shtrihkod": "3830000700122",
+   "cena_rsd": 1469.99,
+   "cena_akcii": 20.0,
+   "magazinov": 31,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TRI MORAVE 0,75L TEMET",
+   "hozyaistvo": "TEMET",
+   "shtrihkod": "8606015740010",
+   "cena_rsd": 2379.99,
+   "cena_akcii": 1600.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO BURGUNDAC SIVI 0,75L TEME",
+   "hozyaistvo": "TEMET",
+   "shtrihkod": "8606015740027",
+   "cena_rsd": 2669.99,
+   "cena_akcii": 1900.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO S BL SONATA 0,75L JEREMIĆ",
+   "hozyaistvo": "VINARIJA JEREMIĆ",
+   "shtrihkod": "8607000032202",
+   "cena_rsd": 1874.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "PRALINE MARC ŠLJIVA VINO 220G ANT",
+   "hozyaistvo": "ANTHON BERG",
+   "shtrihkod": "5774540984155",
+   "cena_rsd": 1049.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV JACOBS RESERVE SHIRAZ 0,75",
+   "hozyaistvo": "JACOBS CREEK",
+   "shtrihkod": "9300727004048",
+   "cena_rsd": 2149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BDB GRAND CUVEE BRUT 0,75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "4840441002029",
+   "cena_rsd": 699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CABERNET SAUV FRANC 0,75L",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8606101559076",
+   "cena_rsd": 2519.99,
+   "cena_akcii": 20.0,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO RUINITTE 0.2L",
+   "hozyaistvo": "CANTINE RIUNITE",
+   "shtrihkod": "8002550504764",
+   "cena_rsd": 349.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN ARALDI DEMI 0,75 MORANDO",
+   "hozyaistvo": "MORANDO",
+   "shtrihkod": "8007531111146",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO MERLOT 0,75L CASTEL",
+   "hozyaistvo": "CASTEL",
+   "shtrihkod": "3211201046460",
+   "cena_rsd": 999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 21,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE BARBARA 0,75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8607000073359",
+   "cena_rsd": 929.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO NOVI DAN 0.75L PLANTAŽE",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002275",
+   "cena_rsd": 1159.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE U SVITANJE 0.75L PLANTAŽE",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003004071",
+   "cena_rsd": 1159.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR JEDNE NOĆI 0,75L PLANTAŽE",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001698",
+   "cena_rsd": 1159.99,
+   "cena_akcii": 20.0,
+   "magazinov": 24,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CLASSIC CHARDONNAY 0.75L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319992073455",
+   "cena_rsd": 594.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROKUPAC 0.75L UMK",
+   "hozyaistvo": "UKUSI MOGA KRAJA",
+   "shtrihkod": "8605028603831",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ORFELIN 0,75L KOVAČEVIĆ",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498319",
+   "cena_rsd": 719.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO OSAM 0,75L Z B",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090375",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN LA MARCHESINA 0,75L CALDIR",
+   "hozyaistvo": "BELLAVITA",
+   "shtrihkod": "8004300588048",
+   "cena_rsd": 599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ŽDREPČEVA KRV 0,75L+ 2ČAŠE ČOK",
+   "hozyaistvo": "ŽDREPČEVA KRV",
+   "shtrihkod": "8606102329876",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 800.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV ŽILAVKA 1L ČITLUK",
+   "hozyaistvo": "ŽILAVKA",
+   "shtrihkod": "3870083000658",
+   "cena_rsd": 539.99,
+   "cena_akcii": 473.99,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV BLATINA 1L ČITLUK",
+   "hozyaistvo": "BLATINA",
+   "shtrihkod": "3870083000559",
+   "cena_rsd": 549.99,
+   "cena_akcii": 479.99,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE CASAL MENDES 0.75L",
+   "hozyaistvo": "CASAL MENDES",
+   "shtrihkod": "5601213184867",
+   "cena_rsd": 899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MALVAZIJA 0,75L CORONICA",
+   "hozyaistvo": "CORONICA",
+   "shtrihkod": "3859893281006",
+   "cena_rsd": 2999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FENEČKI MERLO 0.75L FENEK",
+   "hozyaistvo": "VINARIJA FENEK",
+   "shtrihkod": "8607000292750",
+   "cena_rsd": 1299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 1L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008006054",
+   "cena_rsd": 524.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RIPORTA ROSATO IGT 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8033237520807",
+   "cena_rsd": 1119.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHENET SPRITZ SLE 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610156274",
+   "cena_rsd": 1164.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JP CHENET FIZZY RASPB H 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610171048",
+   "cena_rsd": 914.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JP CHENET FIZZY MANGO P 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610171055",
+   "cena_rsd": 914.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO JP COL CHARD 0,187L TODY",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263286350598",
+   "cena_rsd": 329.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV JP CHENET CAB SYR 0,187L T",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263286350611",
+   "cena_rsd": 319.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TRIJUMF BARRIQUE 0,75L AL",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294039",
+   "cena_rsd": 2569.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO OD VIŠNJE 0.75L VINARIJA ČOKA",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8606107899510",
+   "cena_rsd": 589.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO OD ARONIJE 0.75L VINARIJA ČOKA",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8606107899435",
+   "cena_rsd": 639.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KADARKA ROSE 0.75L TONKOVIĆ",
+   "hozyaistvo": "VINARIJA TONKOVIĆ",
+   "shtrihkod": "8607000070433",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RAPSODIJA 0.75L TONKOVIĆ",
+   "hozyaistvo": "VINARIJA TONKOVIĆ",
+   "shtrihkod": "8607000070426",
+   "cena_rsd": 2389.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VLADIKA 0.75L KK PLANTAŽE",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003006129",
+   "cena_rsd": 2299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111835",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ALPHA XINOMAVRO RESERVE 0,75L",
+   "hozyaistvo": "ALFA",
+   "shtrihkod": "5205243320693",
+   "cena_rsd": 3399.99,
+   "cena_akcii": 3199.99,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ALPHA ROSE 0,75L",
+   "hozyaistvo": "ALFA",
+   "shtrihkod": "5205243322901",
+   "cena_rsd": 2599.99,
+   "cena_akcii": 1500.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SANTORINI SIGALAS 0,75L",
+   "hozyaistvo": "KTIMA KIR-YANNI",
+   "shtrihkod": "5203133111116",
+   "cena_rsd": 4199.99,
+   "cena_akcii": 3826.99,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA 0,75L ĐORĐEVIĆ",
+   "hozyaistvo": "VINARIJA ĐORĐEVIĆ",
+   "shtrihkod": "8606106286625",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BEL TRI MEĐE I OBL VAGAB 0.75L",
+   "hozyaistvo": "TRI MEĐE I OBLAK",
+   "shtrihkod": "8607000223501",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LA DELIZIA ROSE PROSECCO 0,75L",
+   "hozyaistvo": "LA DELIZIA",
+   "shtrihkod": "8002006960410",
+   "cena_rsd": 1329.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VERTIZ ROSE 0,75L",
+   "hozyaistvo": "VERTIZ",
+   "shtrihkod": "8607000374661",
+   "cena_rsd": 2499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CAPRIS MUŠKAT 0.75L VINAKOPER",
+   "hozyaistvo": "VINAKOPER",
+   "shtrihkod": "3830000705202",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CAPRIS ROZE 0.75L VINAKOPER",
+   "hozyaistvo": "VINAKOPER",
+   "shtrihkod": "3830000705097",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO COLORES SANT CAB SAU SHI 0,75L",
+   "hozyaistvo": "CASA DE CAMPO",
+   "shtrihkod": "7804661040596",
+   "cena_rsd": 1547.99,
+   "cena_akcii": 850.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO COLORES SANT SAUV CHARD 0,75L",
+   "hozyaistvo": "CASA DE CAMPO",
+   "shtrihkod": "7804661040961",
+   "cena_rsd": 1547.99,
+   "cena_akcii": 840.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JP CH MEDIUM SWEET ROUGE 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610033346",
+   "cena_rsd": 882.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VRH VRANAC RESERVE 0,75L 13.JU",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001056",
+   "cena_rsd": 4449.99,
+   "cena_akcii": 3000.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO PROKUPAC 0,75L IVANOVIĆ",
+   "hozyaistvo": "IVANOVIĆ",
+   "shtrihkod": "8606102431159",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TAMNJANIKA 0,75L SPASIĆ",
+   "hozyaistvo": "SPASIĆ",
+   "shtrihkod": "8606104719019",
+   "cena_rsd": 1449.0,
+   "cena_akcii": 20.0,
+   "magazinov": 34,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MORAVA 0,75L JELIĆ",
+   "hozyaistvo": "VINARIJA JELIĆ",
+   "shtrihkod": "8606104270060",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 1500.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO HILANDAR 0.75L",
+   "hozyaistvo": "HILANDAR",
+   "shtrihkod": "5206949000100",
+   "cena_rsd": 1799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 40,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV MEDVEĐA KRV 0,187L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111477",
+   "cena_rsd": 192.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE SEC 0,75L ZVONKO BOGDAN",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090412",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO DUBRAVKA 1L DZERVIN",
+   "hozyaistvo": "DŽERVIN",
+   "shtrihkod": "8606107880112",
+   "cena_rsd": 549.99,
+   "cena_akcii": 499.99,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV EPOHA 0,75L 13JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001469",
+   "cena_rsd": 1624.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ALLURE PRIMITIVO 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "4006542077926",
+   "cena_rsd": 879.99,
+   "cena_akcii": 20.0,
+   "magazinov": 24,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ALLURE CHARDONNAY 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "4006542076042",
+   "cena_rsd": 879.99,
+   "cena_akcii": 20.0,
+   "magazinov": 24,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHATEAU GAILLARTEAU BORD 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3500610154461",
+   "cena_rsd": 749.99,
+   "cena_akcii": 599.99,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELLINI CIPRIANI 0.75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052278320399",
+   "cena_rsd": 3199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO D BRUT CIPR 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052278320290",
+   "cena_rsd": 2799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CANCELLO DELLA LUNA CHAR 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052278320092",
+   "cena_rsd": 2499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CANCELLO DEL SOLE CABERN 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052278320139",
+   "cena_rsd": 2499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CANCELLO DELL ALBA ROSE 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8052278320177",
+   "cena_rsd": 2499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROSECCO ANDREA DI PEC 0.75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "8015957250189",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VILLA QUATRO P PRIMITIVO 0,75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "8006870012770",
+   "cena_rsd": 1524.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VILLA QUATTRO ROSSO VERO 0,75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "8006870013333",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO D BARRIQ SAU BL 0.75L RUB",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111903",
+   "cena_rsd": 2874.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KALČA KUTIJA 0,75L STATUS",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8606106029758",
+   "cena_rsd": 594.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO DOJA BREG 0.75L PROKUPA",
+   "hozyaistvo": "DOJA",
+   "shtrihkod": "8607000131899",
+   "cena_rsd": 5299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO DODIR DESPOTIKA 0.75L",
+   "hozyaistvo": "DESPOTIKA",
+   "shtrihkod": "8606107067148",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 26,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT AMANTE MATEA 0.75L",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111866",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KURTATSCH MERLOT CABERNE 0.75L",
+   "hozyaistvo": "SELECT",
+   "shtrihkod": "8000861750955",
+   "cena_rsd": 2629.99,
+   "cena_akcii": 1900.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KURTATSCH SOVINJON ALT 0.75L",
+   "hozyaistvo": "SELECT",
+   "shtrihkod": "8000861750191",
+   "cena_rsd": 2529.99,
+   "cena_akcii": 1900.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KURTATSCH PINOT GRIGIO 0.75L",
+   "hozyaistvo": "SELECT",
+   "shtrihkod": "8000861750764",
+   "cena_rsd": 2299.99,
+   "cena_akcii": 1600.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHENET ICE WH 1.5L MAGN",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610108501",
+   "cena_rsd": 2117.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHENET ICE ROSE 1.5L MA",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610110238",
+   "cena_rsd": 2147.99,
+   "cena_akcii": 1979.99,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BURGUNDAC BELI 0,75L DRAŠKOVIĆ",
+   "hozyaistvo": "VRŠAČKI VINOGRADI",
+   "shtrihkod": "8600107051008",
+   "cena_rsd": 1069.99,
+   "cena_akcii": 480.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH ŽILAVKA ČITLUK 0,75L",
+   "hozyaistvo": "ŽILAVKA",
+   "shtrihkod": "3870083000351",
+   "cena_rsd": 999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH BLATINA 0,75L ČITLUK",
+   "hozyaistvo": "BLATINA",
+   "shtrihkod": "3870083000146",
+   "cena_rsd": 1289.99,
+   "cena_akcii": 20.0,
+   "magazinov": 25,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0.75L LASTAR",
+   "hozyaistvo": "LASTAR",
+   "shtrihkod": "8606108332115",
+   "cena_rsd": 1399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA 0.75L NIKOLAS WINES",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750145",
+   "cena_rsd": 699.99,
+   "cena_akcii": 499.99,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ŽUTI CVET 0.187L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362120",
+   "cena_rsd": 259.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR NOSTALGIJA 0.187L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362083",
+   "cena_rsd": 244.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0,75L NATARA CUVEE TISAC",
+   "hozyaistvo": "TISACOOP",
+   "shtrihkod": "5998816764450",
+   "cena_rsd": 299.99,
+   "cena_akcii": 150.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV SANTA CRISTINA 0,75L ANTIN",
+   "hozyaistvo": "SANTA CRISTINA",
+   "shtrihkod": "8001935361404",
+   "cena_rsd": 1669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH SAUVIGNON 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074141894",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO FREIXENET PINOT GRI 0,75l",
+   "hozyaistvo": "FREIXENET",
+   "shtrihkod": "8410036808433",
+   "cena_rsd": 1559.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE FREIXENET 0,75L",
+   "hozyaistvo": "FREIXENET",
+   "shtrihkod": "8410036808396",
+   "cena_rsd": 1559.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO FREIXENET CHIANTI 0,75L",
+   "hozyaistvo": "FREIXENET",
+   "shtrihkod": "8410036808419",
+   "cena_rsd": 1559.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE BARBARA 0.187L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8606107362106",
+   "cena_rsd": 244.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA KARMA 0.75L",
+   "hozyaistvo": "KARMA",
+   "shtrihkod": "8606108906149",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 1000.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MUSKAT TAMJANIKA 0,75L BOVIN",
+   "hozyaistvo": "TORA",
+   "shtrihkod": "5319990221278",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABERNET SAUVIGNON 0.75L BOVIN",
+   "hozyaistvo": "TORA",
+   "shtrihkod": "5319990221018",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0,75L BOVIN",
+   "hozyaistvo": "TORA",
+   "shtrihkod": "5319990221131",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO POLIGRAF 0,75L MOLOVIN",
+   "hozyaistvo": "VINARIJA MOLOVIN",
+   "shtrihkod": "8607000344022",
+   "cena_rsd": 729.99,
+   "cena_akcii": 559.99,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TRAMINAC INAT 0,75L MOLOVIN",
+   "hozyaistvo": "VINARIJA MOLOVIN",
+   "shtrihkod": "8607000035845",
+   "cena_rsd": 1349.99,
+   "cena_akcii": 20.0,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FRANKOVKA INAT 0,75L MOLOVIN",
+   "hozyaistvo": "VINARIJA MOLOVIN",
+   "shtrihkod": "8607000035869",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "POKLON PAKET CRNO VINO 0,75L+2ČAŠE",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750459",
+   "cena_rsd": 979.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CUVEE NO.1 ZVONKO B 0.75L",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090016",
+   "cena_rsd": 3799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0.75L VINAKOPER",
+   "hozyaistvo": "VINAKOPER",
+   "shtrihkod": "3830000700139",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VIŠNJA 0,75L UMK",
+   "hozyaistvo": "UKUSI MOGA KRAJA",
+   "shtrihkod": "8605028613427",
+   "cena_rsd": 449.99,
+   "cena_akcii": 320.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MALINA 0,75L UMK",
+   "hozyaistvo": "UKUSI MOGA KRAJA",
+   "shtrihkod": "8605028613441",
+   "cena_rsd": 449.99,
+   "cena_akcii": 320.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDOO RESER AMFORA 0.75L IMP",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "4840403008854",
+   "cena_rsd": 769.99,
+   "cena_akcii": 699.99,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH SAUVIGNON 0,75L 13.JU",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002022",
+   "cena_rsd": 729.99,
+   "cena_akcii": 529.99,
+   "magazinov": 33,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MUŠTULUK 0,75L ČOKA",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8600102938410",
+   "cena_rsd": 1619.99,
+   "cena_akcii": 1300.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN HENCKEL ROSE 0,75L TODY",
+   "hozyaistvo": "HENKELL TROCKEN",
+   "shtrihkod": "4003310012028",
+   "cena_rsd": 1289.99,
+   "cena_akcii": 980.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JACOB'S CREEK SP CH 0,75L",
+   "hozyaistvo": "JACOBS CREEK",
+   "shtrihkod": "9300727839114",
+   "cena_rsd": 1459.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV VRANAC BARRIQUE 0,75L",
+   "hozyaistvo": "VRANAC",
+   "shtrihkod": "8606102329340",
+   "cena_rsd": 829.99,
+   "cena_akcii": 600.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KAŠTEL 0,75L ČOKA",
+   "hozyaistvo": "KAŠTEL",
+   "shtrihkod": "8606102329111",
+   "cena_rsd": 559.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH VRANAC PRO CORD 0,187L",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003003067",
+   "cena_rsd": 359.99,
+   "cena_akcii": 20.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE TRIJUMF 0,75L ALEKSANDROV",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294855",
+   "cena_rsd": 1749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR ORPHELINE 0.75L KOVAČEVIĆ",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498326",
+   "cena_rsd": 719.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ŽETVA 0,75L IZBA JOVANOVIĆ",
+   "hozyaistvo": "IZBA JOVANOVIĆ",
+   "shtrihkod": "8607000135033",
+   "cena_rsd": 5299.99,
+   "cena_akcii": 3300.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT 0,75L IZBA JOVANOVIĆ",
+   "hozyaistvo": "IZBA JOVANOVIĆ",
+   "shtrihkod": "8607000135026",
+   "cena_rsd": 2069.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ERDEVIK EX CATEDRA 0,75L",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267814",
+   "cena_rsd": 3449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PRINC RSK PROK 0,75L RAJKOVIĆ",
+   "hozyaistvo": "RAJKOVIĆ",
+   "shtrihkod": "8606105303019",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 1400.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH PRO ANIMA 0.75L",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002190",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GOLDEN GRAPE CHARDONNAY 0.75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "4840403009394",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN ROSE TORLEY 0.75L",
+   "hozyaistvo": "TORLEY",
+   "shtrihkod": "5998815750669",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN CHARMANT TORLEY 0.75L",
+   "hozyaistvo": "TORLEY",
+   "shtrihkod": "5998815750638",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN GALA TORLEY 0.75L",
+   "hozyaistvo": "TORLEY",
+   "shtrihkod": "5998815750607",
+   "cena_rsd": 699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH CABERNET 0,75L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001032",
+   "cena_rsd": 689.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV GRAŠEVINA 1L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991251762",
+   "cena_rsd": 459.99,
+   "cena_akcii": 290.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV TEMJANIKA 0.75L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991646216",
+   "cena_rsd": 829.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN TRIJUMF 0,75L ALEKSANDROVI",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294756",
+   "cena_rsd": 2349.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 4 KONJA DEBELA 0.75L Z B",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090191",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 40,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BARON DE ROTHBE BRUT 0,75L",
+   "hozyaistvo": "BARON DE ROTHBERG",
+   "shtrihkod": "3500610005992",
+   "cena_rsd": 599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHEVROTIN MERLOT 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3120581438355",
+   "cena_rsd": 779.99,
+   "cena_akcii": 649.99,
+   "magazinov": 36,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMNJANIKA 0.75L KOZARAK",
+   "hozyaistvo": "GROZD",
+   "shtrihkod": "8606109488484",
+   "cena_rsd": 829.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO EXPERIMENT PROKUPAC 0.75L",
+   "hozyaistvo": "PODRUM ČOKOT",
+   "shtrihkod": "8607000216206",
+   "cena_rsd": 2579.99,
+   "cena_akcii": 1500.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH CHIANTI 0,75L CALDIROL",
+   "hozyaistvo": "CONTE LORENZO  SORMANI",
+   "shtrihkod": "8004300128145",
+   "cena_rsd": 899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GRAŠEVINA VRH.0.75 KUTJEVO",
+   "hozyaistvo": "KUTJEVO",
+   "shtrihkod": "3850156001003",
+   "cena_rsd": 1339.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV CHARDONNAY 0,75L TIKVE",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008007259",
+   "cena_rsd": 649.99,
+   "cena_akcii": 569.99,
+   "magazinov": 41,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE 0.75L JOKIĆ",
+   "hozyaistvo": "VINARIJA JOKIĆ",
+   "shtrihkod": "3859892833053",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 1000.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO JP CHENET CO CHA 0,75",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263286346683",
+   "cena_rsd": 882.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO KARDAŠ 0,75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8607000073304",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ŽDREPČEVA KRV EX PAC 0,75L",
+   "hozyaistvo": "ŽDREPČEVA KRV",
+   "shtrihkod": "8600102938229",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV CAB SAUV EX PACK 0,75L",
+   "hozyaistvo": "SAUVIGNON",
+   "shtrihkod": "8600102938267",
+   "cena_rsd": 739.99,
+   "cena_akcii": 500.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH KRSTAČ 0,75L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002008",
+   "cena_rsd": 649.99,
+   "cena_akcii": 459.99,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PRIMITIVO ALTO BELLO 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "4006542073324",
+   "cena_rsd": 829.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO COTE D BOEUF SYRAH 0.75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3500610115370",
+   "cena_rsd": 1074.99,
+   "cena_akcii": 750.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO DOPFF&IRION PRESTIG BRUT 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3039120002592",
+   "cena_rsd": 2749.99,
+   "cena_akcii": 1800.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO CAR LAZAR 0,75L RUB",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111378",
+   "cena_rsd": 474.99,
+   "cena_akcii": 20.0,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VINO ZA DVOJE 0,75L",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8600103343312",
+   "cena_rsd": 459.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO DONNAFUG ANTHIL 0,75L",
+   "hozyaistvo": "DONNA FUGATA",
+   "shtrihkod": "8000852000113",
+   "cena_rsd": 1964.99,
+   "cena_akcii": 1400.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV JP CHENET CAB SYR 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263286301323",
+   "cena_rsd": 882.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH MEDUN 0,5L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001162",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VERO PINOT GRIGIO BE 0,75L",
+   "hozyaistvo": "BOTTER SPA",
+   "shtrihkod": "8008863043426",
+   "cena_rsd": 499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 24,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ANTINORI MARCHE 0,75L TODY",
+   "hozyaistvo": "ANTINORI",
+   "shtrihkod": "8001935114505",
+   "cena_rsd": 6799.99,
+   "cena_akcii": 3900.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN CAFE DE P HUGO 0,7L PERNOD",
+   "hozyaistvo": "CAFE DE PARIS",
+   "shtrihkod": "3013010243845",
+   "cena_rsd": 1279.99,
+   "cena_akcii": 850.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CHATEAU FONFROIDE 0,75L TI",
+   "hozyaistvo": "CHATEAUX FONFROIDE",
+   "shtrihkod": "3500610035630",
+   "cena_rsd": 1097.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SAUV BLANC TERASA 0,75L",
+   "hozyaistvo": "PODRUM MATALJ",
+   "shtrihkod": "8606101788254",
+   "cena_rsd": 1299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO ŽDREBAC 1L ČOKA",
+   "hozyaistvo": "ŽDREBAC",
+   "shtrihkod": "8600102938014",
+   "cena_rsd": 429.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR PORTUGIZER 0,75L MAČ PODRUM",
+   "hozyaistvo": "MAČKOV PODRUM",
+   "shtrihkod": "8606104828650",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 700.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "SIR SINFONIA AL VINO ROSSO 150G FIO",
+   "hozyaistvo": "FIOR DI MASO",
+   "shtrihkod": "8011425115271",
+   "cena_rsd": 749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV VRANAC 1L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001070",
+   "cena_rsd": 459.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO JACOB'S CREEK CHARD 0,75L",
+   "hozyaistvo": "JACOBS CREEK",
+   "shtrihkod": "9300727406538",
+   "cena_rsd": 1389.99,
+   "cena_akcii": 1100.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SAUVIGNON 0,75L KOVAČEVIĆ",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498173",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO PINOT GRIGIO 0,75L CALDIR",
+   "hozyaistvo": "CALDIROLA",
+   "shtrihkod": "8004300661642",
+   "cena_rsd": 679.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MOSCATO 0,75L ELIO PERONE",
+   "hozyaistvo": "ELIO PERRONE",
+   "shtrihkod": "8606104996427",
+   "cena_rsd": 1879.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHIANTI 0,75L SENSI",
+   "hozyaistvo": "SENSI",
+   "shtrihkod": "8002477075408",
+   "cena_rsd": 639.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONNAY 0,75L RADOVANO",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8606101559021",
+   "cena_rsd": 1799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN HENCKEL TROCKEN 1,5L TODY",
+   "hozyaistvo": "HENKELL TROCKEN",
+   "shtrihkod": "4003310011908",
+   "cena_rsd": 2969.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV DULONG SUPERIEUR RED 0,75L",
+   "hozyaistvo": "DULONG",
+   "shtrihkod": "3272810159170",
+   "cena_rsd": 1212.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CASA CAMPO SAUV BL 0,75L",
+   "hozyaistvo": "CASA DE CAMPO",
+   "shtrihkod": "7804661041111",
+   "cena_rsd": 1054.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV.RARE ROSE 0,75L    LUC BELA",
+   "hozyaistvo": "LUC BELAIRE",
+   "shtrihkod": "0813497005904",
+   "cena_rsd": 4699.99,
+   "cena_akcii": 3200.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV T’GA ZA JUG 0,187L TIKV",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008000335",
+   "cena_rsd": 259.99,
+   "cena_akcii": 180.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV ALEKSANDR 0,187L TIKVEŠ",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008004814",
+   "cena_rsd": 259.99,
+   "cena_akcii": 180.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CASA CAMPO CARMEN 0,75L TI",
+   "hozyaistvo": "CASA DE CAMPO",
+   "shtrihkod": "7804661041104",
+   "cena_rsd": 1074.99,
+   "cena_akcii": 800.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHICHATEAU FABULA LAGUM 0.75L",
+   "hozyaistvo": "CHICHATEAU",
+   "shtrihkod": "8607000099236",
+   "cena_rsd": 3499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VESELI LALA 1L",
+   "hozyaistvo": "SIMEX",
+   "shtrihkod": "8607000475207",
+   "cena_rsd": 419.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO VESELI LALA 1L",
+   "hozyaistvo": "SIMEX",
+   "shtrihkod": "8607000475214",
+   "cena_rsd": 419.99,
+   "cena_akcii": 20.0,
+   "magazinov": 21,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE VESELI LALA 1L",
+   "hozyaistvo": "SIMEX",
+   "shtrihkod": "8607000475221",
+   "cena_rsd": 419.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TRIADA BELA 0,75L BUDIMIR",
+   "hozyaistvo": "VINARIJA BUDIMIR",
+   "shtrihkod": "8606106598018",
+   "cena_rsd": 1349.99,
+   "cena_akcii": 850.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ŽDREBAC ROSE 1L ČOKA",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8606102329852",
+   "cena_rsd": 429.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV MALVAZIJA 0,75L AGROLA",
+   "hozyaistvo": "VINA LAGUNA",
+   "shtrihkod": "3858881190443",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SMEDEREVKA 1L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008006016",
+   "cena_rsd": 524.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE MATEUS 0.75L",
+   "hozyaistvo": "MATEUS",
+   "shtrihkod": "5601012011500",
+   "cena_rsd": 999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ŽDREBAC 1L ČOKA",
+   "hozyaistvo": "ŽDREPČEVA KRV",
+   "shtrihkod": "8600102938595",
+   "cena_rsd": 429.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE KV 0.75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111583",
+   "cena_rsd": 669.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO STRADIV CAB SAUV 750ML GARLING",
+   "hozyaistvo": "GARLING",
+   "shtrihkod": "4840044006790",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GAN PRO DOC ROSE ED 0.75L EFES",
+   "hozyaistvo": "EFES",
+   "shtrihkod": "8000420019158",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0,75L TIKVEŠ",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008005750",
+   "cena_rsd": 609.99,
+   "cena_akcii": 539.99,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE PINOT 0,75L DŽERVIN",
+   "hozyaistvo": "DŽERVIN",
+   "shtrihkod": "8606107880372",
+   "cena_rsd": 1159.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV SEI ANIME 0,75L INVITTO",
+   "hozyaistvo": "CIGNOMORO",
+   "shtrihkod": "8058964010131",
+   "cena_rsd": 3299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV 80 VECCHIE VIGNE 0,75L IN",
+   "hozyaistvo": "CIGNOMORO",
+   "shtrihkod": "8058964010100",
+   "cena_rsd": 4149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE ROZA NOSTRA 0,75L",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267616",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 26,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ŽUTI CVET 0,75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8607000073335",
+   "cena_rsd": 1349.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SAUV BLANC 0,75L VIRTUS",
+   "hozyaistvo": "VIRTUS",
+   "shtrihkod": "8607000097805",
+   "cena_rsd": 1589.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GEWURZTRAM 0,75L VIRTUS",
+   "hozyaistvo": "VIRTUS",
+   "shtrihkod": "8607000097836",
+   "cena_rsd": 1449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV MARSELAN 0,75L VIRTUS",
+   "hozyaistvo": "VIRTUS",
+   "shtrihkod": "8607000097850",
+   "cena_rsd": 1969.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TRAMINEC 0.75L RADGONSKE G",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000340212",
+   "cena_rsd": 1569.99,
+   "cena_akcii": 20.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO JANŽEVEC 1L RADGONSKE GORI",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000340052",
+   "cena_rsd": 859.99,
+   "cena_akcii": 550.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO RIESLING GREEN LEAF 0.75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "4002301423324",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 440.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROSECCO COL SANDAGO DOC 0,75L",
+   "hozyaistvo": "HAUSBRANDT",
+   "shtrihkod": "8017802133050",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO KUTJEVO CRNI CUVEE 0.75L",
+   "hozyaistvo": "LIBERO",
+   "shtrihkod": "3850156006121",
+   "cena_rsd": 1319.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAINTE MARG SYMPH ROSE 0.75L",
+   "hozyaistvo": "SAINTE MARGUERITE SYMPHONIE",
+   "shtrihkod": "3332380127501",
+   "cena_rsd": 3319.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHATEAU D'ES WHISP ANGEL 0.75L",
+   "hozyaistvo": "MOET",
+   "shtrihkod": "3666140040183",
+   "cena_rsd": 4109.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHATEAU D'ESCL THE PALE 0.75L",
+   "hozyaistvo": "MOET",
+   "shtrihkod": "3666140011916",
+   "cena_rsd": 2589.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RIPORTA PINOT GRIGIO IGT 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873024015",
+   "cena_rsd": 1219.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RIPORTA PRIMITIVO IGP 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873925145",
+   "cena_rsd": 1269.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH  MERLOT 0,75L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001025",
+   "cena_rsd": 689.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN LUC BELAIRE GOLD 0,75L",
+   "hozyaistvo": "LUC BELAIRE",
+   "shtrihkod": "0813497007083",
+   "cena_rsd": 4789.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FRENCH L GRENACHE MERLOT 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3263280118712",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE TRI ROZE KOZE 0,7L ERDEVI",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267593",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO SIG GIUS SPU 0,7L",
+   "hozyaistvo": "SIGNORE GIUSEPPE",
+   "shtrihkod": "3263280114509",
+   "cena_rsd": 1139.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SIRTAKI RETSINA 0,5L",
+   "hozyaistvo": "RETSINA",
+   "shtrihkod": "8607000173455",
+   "cena_rsd": 409.99,
+   "cena_akcii": 20.0,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO BRILLA 0.75L",
+   "hozyaistvo": "BOTTER SPA",
+   "shtrihkod": "8008863057836",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 32,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO DOJA TAMJANIKA 0.75L",
+   "hozyaistvo": "DOJA",
+   "shtrihkod": "8607000225918",
+   "cena_rsd": 1299.0,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BLANC DE BLAN J.P.CH BRUT 0.75",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610034589",
+   "cena_rsd": 1006.49,
+   "cena_akcii": 966.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO STRADIVARI SAUVIGN BLANC 0.75L",
+   "hozyaistvo": "GARLING",
+   "shtrihkod": "4840044008121",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV KRATOŠIJA 0,75L TIKVEŠ",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008005712",
+   "cena_rsd": 614.99,
+   "cena_akcii": 539.99,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV T'GA ZA JUG 0,75L TIKVE",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008007129",
+   "cena_rsd": 819.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABERNE RESER AMFORA 0.75L IMP",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "4840403007666",
+   "cena_rsd": 769.99,
+   "cena_akcii": 694.99,
+   "magazinov": 28,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PENU PENINA GOLD 0,75L RAD GOR",
+   "hozyaistvo": "RADGONSKE GORICE",
+   "shtrihkod": "3830000341813",
+   "cena_rsd": 4629.99,
+   "cena_akcii": 3100.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO PROKUPAC 12 0.75L  RUBI",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111446",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 26,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR RODOSLOV 0.75L PODRUM AL",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294053",
+   "cena_rsd": 5349.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE ROSETO 0.75L KOVAČEVIĆ",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498043",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO TAPAZ TEMPRANILLO 0.75L",
+   "hozyaistvo": "BRUT DARGENT",
+   "shtrihkod": "8436576360798",
+   "cena_rsd": 529.99,
+   "cena_akcii": 459.99,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TAPAZ MACABEO 0.75L",
+   "hozyaistvo": "BRUT DARGENT",
+   "shtrihkod": "8436576360804",
+   "cena_rsd": 529.99,
+   "cena_akcii": 529.99,
+   "magazinov": 18,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN CALVET CR EXTRA BRUT 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3500610168024",
+   "cena_rsd": 2199.99,
+   "cena_akcii": 1794.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CALVET CHARDONNAY 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3159560603804",
+   "cena_rsd": 949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CALVET CABERN SAUVIGNON 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3159560603286",
+   "cena_rsd": 949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 36,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VELIKI DEČKO 0,75L 100ŽENA",
+   "hozyaistvo": "100 ŽENA",
+   "shtrihkod": "8606112369039",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO BERMET 0.5L KUT P.G. MIL",
+   "hozyaistvo": "MILAN TODOROV",
+   "shtrihkod": "8606101767952",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 1300.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PROKUPAC DOJA 0,75L",
+   "hozyaistvo": "DOJA",
+   "shtrihkod": "8607000131820",
+   "cena_rsd": 1579.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO CUVEE 7 HRASTOVA 0,75L",
+   "hozyaistvo": "MATIJAŠEVIĆ",
+   "shtrihkod": "8606109860044",
+   "cena_rsd": 1349.99,
+   "cena_akcii": 850.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CUVEE 7 HRASTOVA 0,75L",
+   "hozyaistvo": "MATIJAŠEVIĆ",
+   "shtrihkod": "8606109860051",
+   "cena_rsd": 1319.99,
+   "cena_akcii": 850.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SOVINJON 0.75L KOZARAK",
+   "hozyaistvo": "KOZARAK",
+   "shtrihkod": "8606109488392",
+   "cena_rsd": 722.99,
+   "cena_akcii": 420.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN FASH STRAWBERRY 0,2L JP CH",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610127397",
+   "cena_rsd": 507.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN D GOLD MUSCAT 0,75L JP CH",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610134432",
+   "cena_rsd": 1944.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABERNET SHIRAZ MAG 1.5L JP CH",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263289993112",
+   "cena_rsd": 1451.49,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO OPTIMUS 0,75L TRIVANOVIĆ",
+   "hozyaistvo": "TRIVANOVIĆ",
+   "shtrihkod": "8607000053252",
+   "cena_rsd": 1379.99,
+   "cena_akcii": 1100.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO BAROCCO 0.75L",
+   "hozyaistvo": "BOTTER SPA",
+   "shtrihkod": "8008863027587",
+   "cena_rsd": 1349.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO PINOT BOTTER CARLO 0,75L",
+   "hozyaistvo": "BOTTER SPA",
+   "shtrihkod": "8008863008180",
+   "cena_rsd": 1069.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE ROMANSA ZL 0.75L DŽERVIN",
+   "hozyaistvo": "DŽERVIN",
+   "shtrihkod": "8606107880303",
+   "cena_rsd": 603.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO 0,75L MARTINI",
+   "hozyaistvo": "MARTINI",
+   "shtrihkod": "8000570552505",
+   "cena_rsd": 1759.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO DUBRAVKA ZL 0.75L DŽERVIN",
+   "hozyaistvo": "DŽERVIN",
+   "shtrihkod": "8606107880297",
+   "cena_rsd": 619.99,
+   "cena_akcii": 380.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO DESPOT ZL 0.75L DŽERVIN",
+   "hozyaistvo": "DŽERVIN",
+   "shtrihkod": "8606107880310",
+   "cena_rsd": 617.49,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSÉ&ROSE 0.75L MATIJAŠEVIĆ",
+   "hozyaistvo": "MATIJAŠEVIĆ",
+   "shtrihkod": "8606109860037",
+   "cena_rsd": 1399.99,
+   "cena_akcii": 900.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO AROMAT SANGRIA 1L ČOKA",
+   "hozyaistvo": "SANGRIA",
+   "shtrihkod": "8600102938144",
+   "cena_rsd": 529.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV EL EMPER CABERNET 0,75L",
+   "hozyaistvo": "EL EMPERADOR",
+   "shtrihkod": "7804661040732",
+   "cena_rsd": 1054.99,
+   "cena_akcii": 969.99,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE BAR D'ARIGNAC 0,75L LGCF",
+   "hozyaistvo": "BARON D ARIGNAC",
+   "shtrihkod": "3500610051111",
+   "cena_rsd": 672.99,
+   "cena_akcii": 619.99,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE DOJA 0,75L TODY",
+   "hozyaistvo": "DOJA",
+   "shtrihkod": "8607000131813",
+   "cena_rsd": 1069.99,
+   "cena_akcii": 20.0,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV LEDERER CAB SAUV 0,75L",
+   "hozyaistvo": "LEDERER",
+   "shtrihkod": "8606107899305",
+   "cena_rsd": 779.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV LEDERER MERLOT 0,75L ČO",
+   "hozyaistvo": "LEDERER",
+   "shtrihkod": "8606107899299",
+   "cena_rsd": 779.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TRI BELE KOZE 0.75 L ERDE",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267777",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 28,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MALVAZIJA 0,75L 13JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002213",
+   "cena_rsd": 1349.99,
+   "cena_akcii": 20.0,
+   "magazinov": 31,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONNAY BIO 0.75L",
+   "hozyaistvo": "BIO",
+   "shtrihkod": "8011510015714",
+   "cena_rsd": 1379.99,
+   "cena_akcii": 1142.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CAB SAUV BIO 0.75L",
+   "hozyaistvo": "BIO",
+   "shtrihkod": "8011510015707",
+   "cena_rsd": 1379.99,
+   "cena_akcii": 1168.99,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PRIMITIVO BIO 0.75L",
+   "hozyaistvo": "BIO",
+   "shtrihkod": "8011510015820",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 1299.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO DIONISOS 0.75L",
+   "hozyaistvo": "DIONISOS",
+   "shtrihkod": "5202628020209",
+   "cena_rsd": 749.99,
+   "cena_akcii": 490.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV CHARDONNAY 0,75L ILOČK",
+   "hozyaistvo": "ILOČKI PODRUMI",
+   "shtrihkod": "3859889556552",
+   "cena_rsd": 1049.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JP CHENET FASHION STRAWBERRY R",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610102493",
+   "cena_rsd": 1007.99,
+   "cena_akcii": 20.0,
+   "magazinov": 30,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JP CHENET FASHION PEACH 0,75",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610057144",
+   "cena_rsd": 1007.99,
+   "cena_akcii": 899.99,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JP CHENET FASHION CASSIS 0,75",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610057137",
+   "cena_rsd": 1059.99,
+   "cena_akcii": 999.99,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ŽDREPČEVA KRV 1L ČO",
+   "hozyaistvo": "ŽDREPČEVA KRV",
+   "shtrihkod": "8600102938076",
+   "cena_rsd": 429.99,
+   "cena_akcii": 369.99,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FANTINI CALALENTA PECORI 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873714008",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FANTINI DON CAMILLO ROS 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873824257",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 1100.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BANFI LE RIME TOSCANA 0.75L",
+   "hozyaistvo": "CASTELLO BANFI",
+   "shtrihkod": "8015674910069",
+   "cena_rsd": 1349.99,
+   "cena_akcii": 880.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MOJE BIJELO 1L 13 JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002091",
+   "cena_rsd": 459.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO EL MIRACLE WHITE NO.3 0.75L",
+   "hozyaistvo": "EL MIRACLE",
+   "shtrihkod": "8410310617317",
+   "cena_rsd": 1299.99,
+   "cena_akcii": 1100.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV PETIT VERDOT 0.75L GRUMEN",
+   "hozyaistvo": "GRUMEN",
+   "shtrihkod": "8607000312625",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 1400.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SHIRAZ RESERV 0,75L TRIVANOVIĆ",
+   "hozyaistvo": "TRIVANOVIĆ",
+   "shtrihkod": "8607000053290",
+   "cena_rsd": 2379.99,
+   "cena_akcii": 1600.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO MERLOT 0.75L GRUMEN",
+   "hozyaistvo": "GRUMEN",
+   "shtrihkod": "8607000312618",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MORAVA 0,75L DESPOTIKA",
+   "hozyaistvo": "DESPOTIKA",
+   "shtrihkod": "8606107067162",
+   "cena_rsd": 1819.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONNAY 0,75L PEŠIĆ",
+   "hozyaistvo": "VINARIJA PEŠIĆ",
+   "shtrihkod": "8606109035077",
+   "cena_rsd": 679.99,
+   "cena_akcii": 547.99,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN ROSE PROSECCO SIG GI 0.75L",
+   "hozyaistvo": "SIGNORE GIUSEPPE",
+   "shtrihkod": "8052783851272",
+   "cena_rsd": 1259.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MALAGOUZIA 0,75L",
+   "hozyaistvo": "COMBO",
+   "shtrihkod": "5205243317075",
+   "cena_rsd": 1799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV RUFFINO CH RISERVA 0,75L",
+   "hozyaistvo": "RUFFINO",
+   "shtrihkod": "8001660109753",
+   "cena_rsd": 3219.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE KV ALEKS CUVEE 0,75L",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008005323",
+   "cena_rsd": 1449.99,
+   "cena_akcii": 950.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV ALEKS CUVEE 0,75L TIKVE",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008005330",
+   "cena_rsd": 1449.99,
+   "cena_akcii": 1129.99,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ALEKS CUVEE 0,75L TIKVEŠ",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008005316",
+   "cena_rsd": 1449.99,
+   "cena_akcii": 1129.99,
+   "magazinov": 30,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ZVONKO BOGDAN CHAR 0,75L",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090368",
+   "cena_rsd": 2469.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV JACOBS SAUVIGNON 0,75L OW",
+   "hozyaistvo": "JACOBS CREEK",
+   "shtrihkod": "9300727513212",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE JACOBS CREEK ROSE 0,75L O",
+   "hozyaistvo": "JACOBS CREEK",
+   "shtrihkod": "9300727618016",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO JACOBS SAUVIG BLANC 0,75L",
+   "hozyaistvo": "JACOBS CREEK",
+   "shtrihkod": "9300727008640",
+   "cena_rsd": 1444.99,
+   "cena_akcii": 950.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO BAROLO 0.75L BORGOGNO",
+   "hozyaistvo": "BAROLO",
+   "shtrihkod": "8003807003146",
+   "cena_rsd": 9999.99,
+   "cena_akcii": 7700.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO ITAL RIZLING 1L STATUS",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8600103343480",
+   "cena_rsd": 389.99,
+   "cena_akcii": 20.0,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PREM BELA TAMJANIKA 0.75L+2 ČA",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750985",
+   "cena_rsd": 1379.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAM TAM TAMJANIKA 0.75L BT WIN",
+   "hozyaistvo": "BT WINERY",
+   "shtrihkod": "8606110836069",
+   "cena_rsd": 1224.0,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAUVIG BLANC 0.75L STARI HRAST",
+   "hozyaistvo": "STARI HRAST",
+   "shtrihkod": "8607000174254",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SPUMANTE PIGNOLETTO 0.75L",
+   "hozyaistvo": "ZLATNI PELIN",
+   "shtrihkod": "8003325603750",
+   "cena_rsd": 1209.99,
+   "cena_akcii": 700.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PRIMITIVO PUGLIA 0.75L MONTEVE",
+   "hozyaistvo": "VINARIJA MONTEVERDI",
+   "shtrihkod": "8006366002087",
+   "cena_rsd": 2069.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV BARON D'ARIGNAC 0,75L KO A",
+   "hozyaistvo": "BARON D ARIGNAC",
+   "shtrihkod": "3263286314989",
+   "cena_rsd": 672.99,
+   "cena_akcii": 622.99,
+   "magazinov": 26,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO BARON D'ARIGNAC 0,75L KO",
+   "hozyaistvo": "BARON D ARIGNAC",
+   "shtrihkod": "3263286314996",
+   "cena_rsd": 682.99,
+   "cena_akcii": 634.99,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO DOC 0,75L TIM 99",
+   "hozyaistvo": "SCANAVINO",
+   "shtrihkod": "8002083124378",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 999.99,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHENET ICE 0% 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610172748",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MOJE CRVENO 1L 13 JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001230",
+   "cena_rsd": 459.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV MEDVEĐA KRV 1L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111453",
+   "cena_rsd": 429.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO CAB SAUV KREMEN 0,75L",
+   "hozyaistvo": "MATALJ",
+   "shtrihkod": "8606101788223",
+   "cena_rsd": 2299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TAMNJANI STOTA SUZA 0,75L",
+   "hozyaistvo": "MINIĆ",
+   "shtrihkod": "8606105716024",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 32,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR SANTA CRISTINA CHIA 0,75L",
+   "hozyaistvo": "SANTA CRISTINA",
+   "shtrihkod": "8001935002789",
+   "cena_rsd": 2199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO PINILLA SYRAH 0.75 S.COOP",
+   "hozyaistvo": "MOSTOS",
+   "shtrihkod": "8437001185726",
+   "cena_rsd": 799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV TIKVEŠKO 3L TIKVEŠ",
+   "hozyaistvo": "STANDARD",
+   "shtrihkod": "5310008006948",
+   "cena_rsd": 1389.99,
+   "cena_akcii": 850.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CASILLERO CARMENERE 0,75L",
+   "hozyaistvo": "CASILLERO",
+   "shtrihkod": "7804320087016",
+   "cena_rsd": 1529.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PERLINO PROSECCO DOC 0,375L",
+   "hozyaistvo": "PERLINO",
+   "shtrihkod": "8000428032401",
+   "cena_rsd": 722.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JP CHENET FASH PINEAPPLE 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610136009",
+   "cena_rsd": 939.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PETER WEINBACH RIESLING 0,75L",
+   "hozyaistvo": "PETER WEINBACH",
+   "shtrihkod": "4049366003542",
+   "cena_rsd": 918.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO HAUT MEDOC 0,75L DONJON DE LAM",
+   "hozyaistvo": "DONJON DE LAMARQUISE",
+   "shtrihkod": "3586253000921",
+   "cena_rsd": 2944.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VIRTUS PINOT GRIGIO 0,75L",
+   "hozyaistvo": "VIRTUS",
+   "shtrihkod": "8607000097812",
+   "cena_rsd": 1479.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHENET ICE 0.2L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610096662",
+   "cena_rsd": 442.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN JP CHENET ICE ROSE 0.2L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3500610096655",
+   "cena_rsd": 442.99,
+   "cena_akcii": 20.0,
+   "magazinov": 27,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VOĆ RIBIZLA 0.75L VINARIJA ČOK",
+   "hozyaistvo": "VINARIJA ČOKA",
+   "shtrihkod": "8606107899961",
+   "cena_rsd": 639.99,
+   "cena_akcii": 380.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV DOKAZ 0,75L DESPOTIKA",
+   "hozyaistvo": "DESPOTIKA",
+   "shtrihkod": "8606107067056",
+   "cena_rsd": 2219.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CUVEE PIQUANT 0,75L KOVAČ",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498371",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROKUPAC KAMENIČARKA 0,75L ALE",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294619",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ZMAJEVAC CUVEE 0,75L",
+   "hozyaistvo": "ZMAJEVAC",
+   "shtrihkod": "8607000205262",
+   "cena_rsd": 3199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MALVAZIJA 0,75L VERKAT",
+   "hozyaistvo": "VERKAT",
+   "shtrihkod": "8607000226908",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO STARI GRAD 1L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111873",
+   "cena_rsd": 477.49,
+   "cena_akcii": 290.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MUSKAT OTONEL 0,75L DRAŠKOVIĆ",
+   "hozyaistvo": "VRŠAČKI VINOGRADI",
+   "shtrihkod": "8600107051015",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 779.99,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SANGRIA WHITE 1L ČOKA",
+   "hozyaistvo": "SANGRIA",
+   "shtrihkod": "8600102938519",
+   "cena_rsd": 529.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO PINOT BLANC 0,75L ZVONKO",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090221",
+   "cena_rsd": 2469.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO SAUVIG BLANC 0,75L ZVONKO",
+   "hozyaistvo": "ZVONKO BOGDAN",
+   "shtrihkod": "8606015090207",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV KRSTAČ 1L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003002039",
+   "cena_rsd": 429.99,
+   "cena_akcii": 300.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE VARIJANTA 0,75L ALEKSAN",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294046",
+   "cena_rsd": 1699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV SAVINO P 0,75L HILANDAR",
+   "hozyaistvo": "SAVINO POLJE",
+   "shtrihkod": "5206949000575",
+   "cena_rsd": 2799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VRANAC PET 3L NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750275",
+   "cena_rsd": 699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SMEDEREVKA PET 3L NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750305",
+   "cena_rsd": 689.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LUCCARELLI PRIMIT PUGLIA 0,75L",
+   "hozyaistvo": "LUCCARELLI",
+   "shtrihkod": "8019873924650",
+   "cena_rsd": 1329.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO DOJA CHARDONNAY BARRIQUE 0,75L",
+   "hozyaistvo": "DOJA",
+   "shtrihkod": "8607000131875",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO DOJA MERLOT&CABER SAUVIG 0,75L",
+   "hozyaistvo": "DOJA",
+   "shtrihkod": "8607000131882",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN BRUT DARGENT ICE CHA 0,75L",
+   "hozyaistvo": "BRUT DARGENT",
+   "shtrihkod": "3570590109386",
+   "cena_rsd": 999.99,
+   "cena_akcii": 700.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GRAND SUD CHARD 1L T",
+   "hozyaistvo": "GRAND SUD",
+   "shtrihkod": "3263286350161",
+   "cena_rsd": 827.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV GRAND SUD MERLOT 1L TIM 99",
+   "hozyaistvo": "GRAND SUD",
+   "shtrihkod": "3263286345518",
+   "cena_rsd": 849.99,
+   "cena_akcii": 20.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV GRAND SUD MERLOT 0,25L TIM",
+   "hozyaistvo": "GRAND SUD",
+   "shtrihkod": "3263286349226",
+   "cena_rsd": 324.99,
+   "cena_akcii": 299.99,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GROF 0.75L",
+   "hozyaistvo": "FLEUR D'ORANGER",
+   "shtrihkod": "8606111080119",
+   "cena_rsd": 2799.99,
+   "cena_akcii": 1800.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSSO NOBILE AL CIOCCOL 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3263280124362",
+   "cena_rsd": 949.99,
+   "cena_akcii": 640.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO POŠIP 0,75L VIN JOKIĆ",
+   "hozyaistvo": "VINARIJA JOKIĆ",
+   "shtrihkod": "3859892833015",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MARAŠTINA 0,75L VIN JOKIĆ",
+   "hozyaistvo": "VINARIJA JOKIĆ",
+   "shtrihkod": "3859892833022",
+   "cena_rsd": 1799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CABERNET SAUVIGN RES 0,75L",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8606101559069",
+   "cena_rsd": 4519.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDON SELECT 0,75L RADO",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8606101559083",
+   "cena_rsd": 2799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0,75L RADOVANOVIĆ",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8606101559038",
+   "cena_rsd": 1429.99,
+   "cena_akcii": 20.0,
+   "magazinov": 32,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MALVAZIJA 0,75L KOZLOVIĆ",
+   "hozyaistvo": "KOZLOVIĆ",
+   "shtrihkod": "2504501054657",
+   "cena_rsd": 2874.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MALVAZIJA ISTARSKA 0,75L PILAT",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3859889192019",
+   "cena_rsd": 2099.99,
+   "cena_akcii": 1799.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN CAVA BRUT 0,75L TORO LOCO",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3469891131939",
+   "cena_rsd": 1319.99,
+   "cena_akcii": 1099.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO CHARTON ROUGE 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3500610033407",
+   "cena_rsd": 669.99,
+   "cena_akcii": 360.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARTON BLANC 0,75L",
+   "hozyaistvo": "TRAMPEX",
+   "shtrihkod": "3500610033414",
+   "cena_rsd": 669.99,
+   "cena_akcii": 360.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO UNITY TEMJANIKA 0,75L IMAKO",
+   "hozyaistvo": "IMAKO",
+   "shtrihkod": "5310140000200",
+   "cena_rsd": 719.99,
+   "cena_akcii": 590.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MAJESTIC TEMJANIKA 0,75L IMAKO",
+   "hozyaistvo": "IMAKO",
+   "shtrihkod": "5310140009616",
+   "cena_rsd": 979.99,
+   "cena_akcii": 20.0,
+   "magazinov": 11,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BRAVURA 0,75L ĐORĐEVIĆ",
+   "hozyaistvo": "VINARIJA ĐORĐEVIĆ",
+   "shtrihkod": "8606106286588",
+   "cena_rsd": 3169.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CABER SAUVIG PREM 0.75L JUNGIĆ",
+   "hozyaistvo": "JUNGIĆ",
+   "shtrihkod": "3877000075379",
+   "cena_rsd": 6199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO RADOVAN 100% PROKUPAC 0.75L",
+   "hozyaistvo": "RADOVANOVIĆ",
+   "shtrihkod": "8607000216220",
+   "cena_rsd": 3199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ERDEVIK STIFLER’S MOM 0,75L",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267906",
+   "cena_rsd": 5199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ERDEVIK NJOPI ĐORGI 0,75L",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8607000364532",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAUVIGN BLEJK 0,75L CHICHATEAU",
+   "hozyaistvo": "CHICHATEAU",
+   "shtrihkod": "8607000099281",
+   "cena_rsd": 2599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHICHARDONNAY 0,75L CHICHATEAU",
+   "hozyaistvo": "CHICHATEAU",
+   "shtrihkod": "8607000099267",
+   "cena_rsd": 3499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CLASSIC 0,75L TRI ORAHA",
+   "hozyaistvo": "TRI ORAHA",
+   "shtrihkod": "8607000137181",
+   "cena_rsd": 2499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ROSSO DI MONTALCINO 0.75L",
+   "hozyaistvo": "CASTELLO BANFI",
+   "shtrihkod": "8015674840960",
+   "cena_rsd": 2799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV ANONYMUS 0.75L STATUS",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8606106029833",
+   "cena_rsd": 1219.99,
+   "cena_akcii": 1100.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO AROMAT SANGRIA 1L STATUS",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8606106029857",
+   "cena_rsd": 444.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111286",
+   "cena_rsd": 464.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GOLDEN GRAPE CABERN SAU 0.75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "4840403009387",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN LAUR PER CUVEE ROSE 0,75L",
+   "hozyaistvo": "LAURENT PERRIER",
+   "shtrihkod": "3258438000001",
+   "cena_rsd": 14039.99,
+   "cena_akcii": 11000.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA 0.75L UMK",
+   "hozyaistvo": "UKUSI MOGA KRAJA",
+   "shtrihkod": "8605028603824",
+   "cena_rsd": 999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRANAC 1L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111019",
+   "cena_rsd": 444.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CAR LAZAR 1L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111361",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CARICA MILICA 1L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111385",
+   "cena_rsd": 449.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO DOJA CHARDON&PINOT 0,75L",
+   "hozyaistvo": "DOJA",
+   "shtrihkod": "8607000131806",
+   "cena_rsd": 1249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE ALEKSANDRIA 0,75L TIKVEŠ",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008005859",
+   "cena_rsd": 819.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRANAC 0,187L ČOKA",
+   "hozyaistvo": "VRANAC",
+   "shtrihkod": "8606107899312",
+   "cena_rsd": 219.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV NOSTALGIJA 0,75L ALEKSIĆ",
+   "hozyaistvo": "VINARIJA ALEKSIĆ",
+   "shtrihkod": "8607000073397",
+   "cena_rsd": 649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "SIR SINFONIA AL VINO ROSSO FIOR DI",
+   "hozyaistvo": "FIOR DI MASO",
+   "shtrihkod": "0000002718718",
+   "cena_rsd": 4299.9,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PENUŠAVO 0,75L TOKAI",
+   "hozyaistvo": "TOKAI",
+   "shtrihkod": "5990500777203",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 969.99,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV MUSKAT 0,75L JULIANUS",
+   "hozyaistvo": "TOKAI",
+   "shtrihkod": "5995103067546",
+   "cena_rsd": 924.99,
+   "cena_akcii": 809.99,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV CHARDONNAY SPEC 0,75L",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008005095",
+   "cena_rsd": 1179.99,
+   "cena_akcii": 800.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO B KV TEMJANIKA LUDA MARA 0,75L",
+   "hozyaistvo": "PREMIUM",
+   "shtrihkod": "5310008005088",
+   "cena_rsd": 1499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 39,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELLA NOVELA 0,75L ERDEVIK",
+   "hozyaistvo": "ERDEVIK",
+   "shtrihkod": "8606107267791",
+   "cena_rsd": 1549.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0.75L VINAKOPER",
+   "hozyaistvo": "VINAKOPER",
+   "shtrihkod": "3830000700108",
+   "cena_rsd": 1469.99,
+   "cena_akcii": 20.0,
+   "magazinov": 22,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0,75L OPERA PRIMA",
+   "hozyaistvo": "OPERA PRIMA",
+   "shtrihkod": "8410261101118",
+   "cena_rsd": 579.99,
+   "cena_akcii": 20.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MERLOT NO ALC 0,75L GRAND ENVI",
+   "hozyaistvo": "GRAND ENVIE",
+   "shtrihkod": "3175529649300",
+   "cena_rsd": 949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CUVEE COTES DE PROV ROSE 0,75L",
+   "hozyaistvo": "CHATEAU CHEVALIER",
+   "shtrihkod": "3211209987550",
+   "cena_rsd": 2299.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARD BURGUNDY 0,75L LOUIS GIR",
+   "hozyaistvo": "LOUIS GIRARD",
+   "shtrihkod": "3211209219569",
+   "cena_rsd": 2689.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINOT NOIR BURGUND 0,75L LOUIS",
+   "hozyaistvo": "LOUIS GIRARD",
+   "shtrihkod": "3211209219590",
+   "cena_rsd": 3249.99,
+   "cena_akcii": 20.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAUVIGNON BLANC 0,75L CASTEL",
+   "hozyaistvo": "CASTEL",
+   "shtrihkod": "3211201046521",
+   "cena_rsd": 969.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAMOS VIN DE LIQUEUR 0,5L",
+   "hozyaistvo": "COMBO",
+   "shtrihkod": "8606110826114",
+   "cena_rsd": 1199.99,
+   "cena_akcii": 999.99,
+   "magazinov": 15,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE MUSCAT ARIA 0,75L",
+   "hozyaistvo": "KATSAROS",
+   "shtrihkod": "5202227500249",
+   "cena_rsd": 1224.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROSECCO 0.75L ZONIN",
+   "hozyaistvo": "ZONIN",
+   "shtrihkod": "8002235835053",
+   "cena_rsd": 1749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO CHIANTI 0.75L ZONIN",
+   "hozyaistvo": "ZONIN",
+   "shtrihkod": "8002235020862",
+   "cena_rsd": 1444.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINOT GRIGIO FRIUL 0.75L ZONIN",
+   "hozyaistvo": "ZONIN",
+   "shtrihkod": "8002235212557",
+   "cena_rsd": 1419.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MAESTRI CANTI 1L BRIK CAL",
+   "hozyaistvo": "MAESTRI CANTINIERI",
+   "shtrihkod": "8004300014479",
+   "cena_rsd": 364.99,
+   "cena_akcii": 339.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CAMPO MARINA MALVASIA N 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873724779",
+   "cena_rsd": 1819.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO EDIZIONE CINQUE AUTOCTON 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8019873924407",
+   "cena_rsd": 4099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MUSKAT KROKAN 0,75L",
+   "hozyaistvo": "N1",
+   "shtrihkod": "8606111080034",
+   "cena_rsd": 3399.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PROSECCO VILA SANDI BRUT 0,75L",
+   "hozyaistvo": "FANTINI",
+   "shtrihkod": "8017494738014",
+   "cena_rsd": 1779.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VARIJANTA BELA 0.75L ALEKSANDR",
+   "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
+   "shtrihkod": "8606100294473",
+   "cena_rsd": 1509.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDON LASTAR 0,75L",
+   "hozyaistvo": "LASTAR",
+   "shtrihkod": "8606108332078",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR PINOT NOIR LASTAR 0,75L",
+   "hozyaistvo": "LASTAR",
+   "shtrihkod": "8606108332122",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TAMJANIKA LASTAR 0,75L",
+   "hozyaistvo": "LASTAR",
+   "shtrihkod": "8606108332108",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CALVET MERLOT 0,75L",
+   "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
+   "shtrihkod": "3159560603279",
+   "cena_rsd": 949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN CUVEE LA CACCAIATORA 0,75L",
+   "hozyaistvo": "CALDIROLA",
+   "shtrihkod": "8004300362303",
+   "cena_rsd": 749.99,
+   "cena_akcii": 20.0,
+   "magazinov": 43,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV JACOB'S CREEK SHIRAZ 0,75L",
+   "hozyaistvo": "JACOBS CREEK",
+   "shtrihkod": "9300727488275",
+   "cena_rsd": 1459.99,
+   "cena_akcii": 1069.99,
+   "magazinov": 17,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO OD KUPINE 0,75L ČOKA",
+   "hozyaistvo": "ČOKA",
+   "shtrihkod": "8606106842012",
+   "cena_rsd": 609.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PRIMIT DI MAND GRAN MAES 0.75L",
+   "hozyaistvo": "CIELO E TERRA",
+   "shtrihkod": "8008900009187",
+   "cena_rsd": 2049.99,
+   "cena_akcii": 1639.99,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINILLA CHARDONNAY 0.75L",
+   "hozyaistvo": "MOSTOS",
+   "shtrihkod": "8437016230794",
+   "cena_rsd": 799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINILLA SAUVIGNON 0.75L",
+   "hozyaistvo": "MOSTOS",
+   "shtrihkod": "8437016230763",
+   "cena_rsd": 799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 21,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHARDONNAY 0.75L DEURIĆ",
+   "hozyaistvo": "VINARIJA DEURIĆ",
+   "shtrihkod": "8607000214530",
+   "cena_rsd": 1649.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PINOT NOIR 0.75L DEURIĆ",
+   "hozyaistvo": "VINARIJA DEURIĆ",
+   "shtrihkod": "8607000168505",
+   "cena_rsd": 1759.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROZE FRAJLA 0.75L MAČKOV PODR",
+   "hozyaistvo": "MAČKOV PODRUM",
+   "shtrihkod": "8606104828780",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 710.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO TVRDOŠ 0,75L TVRDOŠ",
+   "hozyaistvo": "MANASTIR TVRDOŠ",
+   "shtrihkod": "3871734000034",
+   "cena_rsd": 1899.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE ORFELIN 0,75L KOVAČEVIĆ",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498333",
+   "cena_rsd": 719.99,
+   "cena_akcii": 20.0,
+   "magazinov": 38,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE JP CHENET 0,75L TODY",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263286301385",
+   "cena_rsd": 882.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE CLOUD CHAS 0,75L",
+   "hozyaistvo": "CLOUD CHASER",
+   "shtrihkod": "0001349700405",
+   "cena_rsd": 2549.99,
+   "cena_akcii": 1800.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO MAGIJA 0.75L CHATEAU PRINCE",
+   "hozyaistvo": "VINARIJA CHATEAU PRINCE",
+   "shtrihkod": "8606110891198",
+   "cena_rsd": 1289.99,
+   "cena_akcii": 840.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CR DULONG PREM MER CAB 0,75L",
+   "hozyaistvo": "DULONG",
+   "shtrihkod": "3500610044601",
+   "cena_rsd": 1192.99,
+   "cena_akcii": 20.0,
+   "magazinov": 12,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSE 0.75L-TANUTA SANT",
+   "hozyaistvo": "TENUTA SANTOME",
+   "shtrihkod": "8606103299147",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE MATALJ 0.75L",
+   "hozyaistvo": "MATALJ",
+   "shtrihkod": "8606101788209",
+   "cena_rsd": 1179.99,
+   "cena_akcii": 800.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV MEDVEĐA KRV 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074111460",
+   "cena_rsd": 514.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV ANTIGO 0,75L STOB",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991251441",
+   "cena_rsd": 709.99,
+   "cena_akcii": 569.99,
+   "magazinov": 31,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV KV PINOT NOIR 0,75L STOBI",
+   "hozyaistvo": "STOBI",
+   "shtrihkod": "5319991251328",
+   "cena_rsd": 709.99,
+   "cena_akcii": 420.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN HENCKEL TROCKEN 0,75L",
+   "hozyaistvo": "HENKELL TROCKEN",
+   "shtrihkod": "4003310011625",
+   "cena_rsd": 1179.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO PINOT GRIGIO 0.75L TRIVAN",
+   "hozyaistvo": "TRIVANOVIĆ",
+   "shtrihkod": "8607000053214",
+   "cena_rsd": 1519.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV CAB SAUV 0.75L TRIVANOVIĆ",
+   "hozyaistvo": "TRIVANOVIĆ",
+   "shtrihkod": "8607000053207",
+   "cena_rsd": 1619.99,
+   "cena_akcii": 1000.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV SHIRAZ 0.75L TRIVANOVIĆ",
+   "hozyaistvo": "TRIVANOVIĆ",
+   "shtrihkod": "8607000053238",
+   "cena_rsd": 1519.99,
+   "cena_akcii": 1200.0,
+   "magazinov": 7,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CORVUS TOKAJI FURM BELO 0.75L",
+   "hozyaistvo": "CORVUS",
+   "shtrihkod": "5999884265504",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 26,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO TRAPICHE MALBEC CRVENO 0,75L",
+   "hozyaistvo": "TRAPICHE",
+   "shtrihkod": "7790240017045",
+   "cena_rsd": 999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 24,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONNAY 0,75L BELO BRD",
+   "hozyaistvo": "BELO BRDO",
+   "shtrihkod": "8606106791013",
+   "cena_rsd": 1949.99,
+   "cena_akcii": 20.0,
+   "magazinov": 22,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO GAVI DI GAVI 0,75L MAGDA",
+   "hozyaistvo": "MAGDA PEDRINI",
+   "shtrihkod": "8054188980540",
+   "cena_rsd": 1999.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO LAMPO DOC 0.75L",
+   "hozyaistvo": "BORGOLUCE",
+   "shtrihkod": "8056737645009",
+   "cena_rsd": 1679.99,
+   "cena_akcii": 1300.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO BORGOLUCE 0.75L",
+   "hozyaistvo": "BORGOLUCE",
+   "shtrihkod": "8056737645054",
+   "cena_rsd": 1969.99,
+   "cena_akcii": 20.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO TRI MORAVE 0,75L TEMET",
+   "hozyaistvo": "TEMET",
+   "shtrihkod": "8606015740096",
+   "cena_rsd": 2519.99,
+   "cena_akcii": 1800.0,
+   "magazinov": 20,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO CHARDONNAY 0,75L MUREDA",
+   "hozyaistvo": "MUREDA",
+   "shtrihkod": "8437008496320",
+   "cena_rsd": 699.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRNO CABERNET SOUV 0,75L MURED",
+   "hozyaistvo": "MUREDA",
+   "shtrihkod": "8437008496337",
+   "cena_rsd": 719.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO TEMPRANILLO 0.75L MUREDA",
+   "hozyaistvo": "MUREDA",
+   "shtrihkod": "8437008496245",
+   "cena_rsd": 670.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH VRANAC BARRIQUE 0,75L",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003001131",
+   "cena_rsd": 2499.99,
+   "cena_akcii": 20.0,
+   "magazinov": 32,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRV VRH VRANAC 0,187L 13.JUL",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003003012",
+   "cena_rsd": 279.99,
+   "cena_akcii": 20.0,
+   "magazinov": 16,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH CHARDONNAY 0,187L 13.",
+   "hozyaistvo": "13 JUL PLANTAŽE",
+   "shtrihkod": "3899003003029",
+   "cena_rsd": 279.99,
+   "cena_akcii": 20.0,
+   "magazinov": 13,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SMEDEREVKA 1L BALON NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750930",
+   "cena_rsd": 489.99,
+   "cena_akcii": 454.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE 1L BALON NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750954",
+   "cena_rsd": 499.99,
+   "cena_akcii": 459.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO FELIXOVA KRV 1L BALON NIKOLAS",
+   "hozyaistvo": "NIKOLAS WINES",
+   "shtrihkod": "8606101750961",
+   "cena_rsd": 509.99,
+   "cena_akcii": 454.99,
+   "magazinov": 10,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO BANATSKI RIZLING 1L",
+   "hozyaistvo": "VRŠAČKI VINOGRADI",
+   "shtrihkod": "8600107012160",
+   "cena_rsd": 504.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ŽDREPČEVA KRV WHITE 1L ČOKA",
+   "hozyaistvo": "ČOKA",
+   "shtrihkod": "8600102938649",
+   "cena_rsd": 569.99,
+   "cena_akcii": 20.0,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ANONYMOUS FRANKOVKA BARR 0,75L",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8600103343473",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ANONYMOUS SOVINJON BELI 0,75L",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8606106029352",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ANONYMOUS GRAŠAC 0,75L",
+   "hozyaistvo": "STATUS",
+   "shtrihkod": "8600103343862",
+   "cena_rsd": 1099.0,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO PEN PROSECCO ROMEO&JULIE 0,75L",
+   "hozyaistvo": "CIELO E TERRA",
+   "shtrihkod": "8008900007541",
+   "cena_rsd": 1339.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO ROSE POLIGRAF 0,75L MOLOVIN",
+   "hozyaistvo": "VINARIJA MOLOVIN",
+   "shtrihkod": "8607000344008",
+   "cena_rsd": 679.99,
+   "cena_akcii": 559.99,
+   "magazinov": 35,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO POLIGRAF 0,75L MOLOVIN",
+   "hozyaistvo": "VINARIJA MOLOVIN",
+   "shtrihkod": "8607000109881",
+   "cena_rsd": 699.99,
+   "cena_akcii": 559.99,
+   "magazinov": 42,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VILLA BAGLIO AL SOLE PRI 0,75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "8006870010165",
+   "cena_rsd": 1179.99,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BAGLIO AL SOLE SYRAH 0.75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "8006870010240",
+   "cena_rsd": 1074.0,
+   "cena_akcii": 20.0,
+   "magazinov": 4,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VILLA CABERNET SAUVIGNON 0,75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "8006870011162",
+   "cena_rsd": 1099.0,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BAGLIO AL SOLE PINOT GRI 0,75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "8006870011209",
+   "cena_rsd": 1149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "DŽEM JAGODA VINO 230G SPECIAL MOMEN",
+   "hozyaistvo": "SPECIAL MOMENTS",
+   "shtrihkod": "3850334437273",
+   "cena_rsd": 199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO VOTAŽI 0,75L FRAGARIA",
+   "hozyaistvo": "FRAGARIA",
+   "shtrihkod": "8607000282041",
+   "cena_rsd": 2149.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO SAUVIGNON BLANC 0,75L FRAGARIA",
+   "hozyaistvo": "FRAGARIA",
+   "shtrihkod": "8607000282010",
+   "cena_rsd": 1599.99,
+   "cena_akcii": 1000.0,
+   "magazinov": 5,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO JAGODA 0,75L FRAGARIA",
+   "hozyaistvo": "FRAGARIA",
+   "shtrihkod": "8607000282003",
+   "cena_rsd": 3799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO LEX ROSE 0,75L TRIVANOVIĆ",
+   "hozyaistvo": "TRIVANOVIĆ",
+   "shtrihkod": "8607000194559",
+   "cena_rsd": 1579.99,
+   "cena_akcii": 1000.0,
+   "magazinov": 8,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV TEMJANIKA 0,75L TIKVEŠ",
+   "hozyaistvo": "CLASSIC",
+   "shtrihkod": "5310008007273",
+   "cena_rsd": 924.99,
+   "cena_akcii": 759.99,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CRVENO AURELIUS 0,75L KOVAČEV",
+   "hozyaistvo": "VINARIJA KOVAČEVIĆ",
+   "shtrihkod": "8600103498166",
+   "cena_rsd": 1799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO CHABLIS GRAND CRU LAMBLIN 0,75",
+   "hozyaistvo": "LAMBLIN",
+   "shtrihkod": "3269390234014",
+   "cena_rsd": 11199.99,
+   "cena_akcii": 20.0,
+   "magazinov": 6,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO TAMJA0.75L VI IVANOVIĆ",
+   "hozyaistvo": "IVANOVIĆ",
+   "shtrihkod": "8606102431135",
+   "cena_rsd": 1699.0,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO KV TRAMI 0,75L ILOČKI",
+   "hozyaistvo": "ILOČKI PODRUMI",
+   "shtrihkod": "3859889556538",
+   "cena_rsd": 1049.99,
+   "cena_akcii": 20.0,
+   "magazinov": 37,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO GRAPE ANGEL MERLOT RAR N 0.75L",
+   "hozyaistvo": "IMPERIAL",
+   "shtrihkod": "4840403008632",
+   "cena_rsd": 799.99,
+   "cena_akcii": 20.0,
+   "magazinov": 9,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO VRH CHARDONN 0,75L RUBIN",
+   "hozyaistvo": "RUBIN",
+   "shtrihkod": "8600074130829",
+   "cena_rsd": 659.99,
+   "cena_akcii": 20.0,
+   "magazinov": 44,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO MISIJA 0,75L JANKO",
+   "hozyaistvo": "JANKO",
+   "shtrihkod": "8606104792036",
+   "cena_rsd": 1579.99,
+   "cena_akcii": 20.0,
+   "magazinov": 23,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO PINOT GRIGIO 0,75L LA DEL",
+   "hozyaistvo": "LA DELIZIA",
+   "shtrihkod": "8002006960175",
+   "cena_rsd": 599.99,
+   "cena_akcii": 20.0,
+   "magazinov": 14,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "G VINO PEN PROSECCO 0,75L LA DELI",
+   "hozyaistvo": "LA DELIZIA",
+   "shtrihkod": "8002006960373",
+   "cena_rsd": 1099.99,
+   "cena_akcii": 20.0,
+   "magazinov": 29,
+   "v_prodazhe": true
+  },
+  {
+   "vino": "VINO BELO JP CHENET MED SWE 0,75L",
+   "hozyaistvo": "JP CHENET",
+   "shtrihkod": "3263286321284",
+   "cena_rsd": 882.99,
+   "cena_akcii": 20.0,
+   "magazinov": 19,
+   "v_prodazhe": true
+  }
+ ]
+}

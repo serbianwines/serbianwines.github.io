@@ -225,6 +225,11 @@ def main():
                 # и свой набор товаров.
                 ("maxi-cenovnik", "maxi-cenovnik-ceny.json"),
                 ("idea", "idea-ceny.json"),
+                # Обязательные ценовники второй сети — группы IDEA —
+                # Roda — Mercator. Другая полка: «Kameničarka»
+                # Александровића стоит в белградском гипермаркете
+                # Mercator'а, а у Maxi её нет вовсе.
+                ("idea-cenovnik", "idea-cenovnik-ceny.json"),
                 # Собственные магазины хозяйств. Третий канал: не полка
                 # винотеки и не доставка, а цена у производителя. Ради
                 # него всё и затевалось: винотека держит ходовое, а
@@ -239,7 +244,7 @@ def main():
     # Супермаркет — не винотека: у него другая полка и другие цены.
     # Разделение нужно, чтобы можно было спросить отдельно «что взять
     # в супермаркете», а не усреднять две разные торговли в одну.
-    SUPERMARKET = {"maxi", "maxi-cenovnik", "idea"}
+    SUPERMARKET = {"maxi", "maxi-cenovnik", "idea", "idea-cenovnik"}
     syroe = {"vina": [], "istochnik": [], "sobrano": ""}
     for imya, fajl in MAGAZINY:
         put = ZDES / fajl
@@ -434,6 +439,26 @@ def main():
             slova_doma = set(hoz.split("-"))
             while polnyj and polnyj[0] in slova_doma:
                 polnyj.pop(0)
+            # Обязательный ценовник режет имя товара по ширине поля,
+            # и в хвосте остаётся огрызок имени дома: «VINO PROKUPAC
+            # KAMENIČARKA 0,75L ALE» — это Александровић. Огрызок
+            # снимается, только если он начало слова дома и не короче
+            # трёх букв: «ale» от «aleksandrovic» снимается, «rose» —
+            # ни от чего, и остаётся именем вина.
+            while (len(polnyj) > 1 and len(polnyj[-1]) >= 3
+                   and any(s.startswith(polnyj[-1]) and s != polnyj[-1]
+                           for s in slova_doma)):
+                polnyj.pop()
+            # Объём в хвосте: «0,75L» ключ делит на «0» и «75l». Имя вина
+            # он не называет никогда, а совпадению мешает — «PROKUPAC
+            # KAMENIČARKA 0,75L» не сходилось с нашим «Kameničarka
+            # Prokupac» и доставалось базовому «Prokupac». Снимается
+            # только пара «число + число с буквой l»: одиночное число
+            # в конце бывает именем — «Probus 276», «Cuvée 21».
+            if len(polnyj) > 1 and re.match(r"^\d*[.,]?\d+l$", polnyj[-1]):
+                polnyj.pop()
+                if len(polnyj) > 1 and re.match(r"^\d+$", polnyj[-1]):
+                    polnyj.pop()
             return polnyj
 
         def podobrat(bez_doma, indeks):
@@ -469,6 +494,15 @@ def main():
 
         podoshli = podobrat(hvost(imya), po_domu)
         kak = "по началу имени"
+        # Разбор одной строки: `SVESTI_CENY_SLED=каменичарка` печатает,
+        # во что превратилось имя товара и с чем оно сошлось. Нужно там,
+        # где цена не встала, а почему — не видно: у «PROKUPAC
+        # KAMENIČARKA 0,75L ALE» мешал объём в хвосте, и цена доставалась
+        # базовому «Prokupac» вместо каменичарки.
+        sled = os.environ.get("SVESTI_CENY_SLED")
+        if sled and sled.lower() in imya.lower():
+            print("след: %-46s дом %-16s хвост %s → %s"
+                  % (imya[:46], hoz, hvost(imya), podoshli))
         # Обычное имя пары не дало — пробуем вычищенное. Магазин пишет
         # на ценнике то, чего в имени вина нет: объём («Erdevik vino
         # bella novela 0,75l») и слова полки посреди имени («Aleksić

@@ -27,6 +27,7 @@
 | `vinoteka-ceny.json` | 655 сербских вин с розничной ценой в динарах: имя, хозяйство, артикул |
 | `winestars-ceny.json` | 113 сербских вин с ценой у «Wine Stars» |
 | `vinarije-ceny.json` | 922 позиций из магазинов самих хозяйств, у 638 цена в динарах |
+| `idea-cenovnik-ceny.json` | 769 винных товаров из обязательных ценовников Roda и Mercator |
 | `sverka-adresov.json` | сверка места 128 хозяйств с адресом на их сайтах |
 | `cerpromet-ceny.json` | 455 вин у «Cerpromet», из них 236 сербских, со свойствами |
 | `prodajavina-ceny.json` | 125 сербских вин у «Prodaja vina»: цена, сорт, цвет, крепость, **рејон** |
@@ -83,6 +84,7 @@
 | `vzjat-maxi.py` | полка супермаркета из сохранённой страницы Maxi Online |
 | `vzjat-idea.py` | то же у Idea Online: второй супермаркет, шесть страниц раздела |
 | `vzjat-cenovnike.py` | обязательные ценовники Maxi: полка сети, а не витрина магазина |
+| `vzjat-cenovnike-idea.py` | то же у группы IDEA — Roda — Mercator: 44 крупных магазина |
 | `vzjat-vinarije.py` | собственные магазины хозяйств: Store API WooCommerce и Shopify, 60 магазинов |
 | `vzjat-winestyle.py` | годовые списки «Wine Style»: сербский голос, но не балл |
 | `vzjat-vino-rs.py` | годовой выбор `vino.rs` из сохранённых страниц: сербская дорожка |

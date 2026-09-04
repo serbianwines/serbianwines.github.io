@@ -1009,6 +1009,7 @@
   "deuric-la-rem-probus": 1,
   "deuric-la-rem-morava": 1,
   "deuric-la-rem-marselan": 1,
+  "deuric-the": 1,
   "deuric-dolce-vita-gewurztraminer": 1,
   "deuric-odbaceni-crna-ovca": 1,
   "jovac-single-vineyard-stella-noir": 1,
@@ -1145,6 +1146,7 @@
   "despotika-nemir-rose": 1,
   "despotika-zmajeviti-prokupac": 1,
   "deuric-enigma": 1,
+  "deuric-the-blanc-de-noirs": 1,
   "deuric-the-brut": 1,
   "dibonis-dicabernet": 1,
   "vinum-dina-grasac-beli-brut": 1,
@@ -1428,7 +1430,7 @@
   "deshevle_u_hozyaistva": 79
  },
  "dostavka": {
-  "vin_tolko_iz_dostavki": 335,
+  "vin_tolko_iz_dostavki": 336,
   "vin_i_tam_i_tam": 767,
   "nacenka_dostavki": 1.106,
   "lavok": 68
@@ -2425,6 +2427,7 @@
   "deuric-la-rem-probus": 3600,
   "deuric-la-rem-morava": 3600,
   "deuric-la-rem-marselan": 3600,
+  "deuric-the": 3000,
   "deuric-dolce-vita-gewurztraminer": 1500,
   "deuric-odbaceni-crna-ovca": 2400,
   "jovac-single-vineyard-stella-noir": 2600,
@@ -2561,6 +2564,7 @@
   "despotika-nemir-rose": 1390,
   "despotika-zmajeviti-prokupac": 1542,
   "deuric-enigma": 994,
+  "deuric-the-blanc-de-noirs": 2440,
   "deuric-the-brut": 3410,
   "dibonis-dicabernet": 1488,
   "vinum-dina-grasac-beli-brut": 3990,
@@ -7622,6 +7626,21 @@
    ]
   },
   {
+   "vino": "THE BLANC DE NOIRS (Pinot Noir)",
+   "hozyaistvo": "Vinarija Deurić",
+   "cena_rsd": 1920.0,
+   "valyuta": "RSD",
+   "v_prodazhe": true,
+   "razdel": "THE SPARKLING WINERY",
+   "kanal": "hozyaistvo",
+   "magazin": "vinarije",
+   "stranica": "https://shop.vinarijadeuric.com/proizvod/the-blanc-de-noirs-pinot-noir/",
+   "kandidaty": [
+    "deuric-the",
+    "deuric-the-blanc-de-noirs"
+   ]
+  },
+  {
    "vino": "Тамњаника „Стота суза“ 0.75",
    "hozyaistvo": "Vinska Kuća Minića",
    "cena_rsd": 1020.0,
@@ -8266,6 +8285,22 @@
    "kandidaty": [
     "despotika-trag",
     "despotika-trag-merlot"
+   ]
+  },
+  {
+   "vino": "Deurić \"The\" Blanc de Noirs penušavo 0,75 L",
+   "napisanij": 1,
+   "cena_rsd": 2246.0,
+   "litrov": 0.75,
+   "magazin": "dostavka",
+   "gorod": "Belgrade",
+   "magazinov": 1,
+   "kanal": "dostavka",
+   "v_prodazhe": true,
+   "hozyaistvo": "Deurić",
+   "kandidaty": [
+    "deuric-the",
+    "deuric-the-blanc-de-noirs"
    ]
   },
   {
@@ -11516,19 +11551,8 @@
   },
   {
    "klyuch_vina": "deuric-the",
-   "magazin": "vinarije",
-   "ceny": [
-    1920.0,
-    3000.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
-  },
-  {
-   "klyuch_vina": "deuric-the",
    "magazin": "dostavka",
    "ceny": [
-    2246.0,
-    2440.0,
     3200.0,
     3510.0,
     3960.0,

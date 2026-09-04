@@ -577,7 +577,7 @@ deuric-severna-morava,Deurić,Severna Morava,9057103,https://www.vivino.com/w/90
 deuric-talas-beli,Deurić,Talas Beli,5367192,https://www.vivino.com/w/5367192,ocenka_est,262,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
 deuric-talas-crveni,Deurić,Talas Crveni,3764686,https://www.vivino.com/w/3764686,ocenka_est,429,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,красное
 deuric-the,Deurić,The,7727611,https://www.vivino.com/w/7727611,ocenka_est,195,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-deuric-the-blanc-de-noir,Deurić,The Blanc de Noir,13693987,https://www.vivino.com/w/13693987,malo_ocenok,20,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,игристое
+deuric-the-blanc-de-noirs,Deurić,The Blanc de Noirs,13693987,https://www.vivino.com/w/13693987,malo_ocenok,20,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,игристое
 deuric-the-brut,Deurić,The Brut,,,net_na_vivino,,True,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,белое
 deuric-the-morava,Deurić,The Morava,13940334,https://www.vivino.com/w/13940334,malo_ocenok,1,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
 deuric-urban-rose,Deurić,Urban Rosé,4750215,https://www.vivino.com/w/4750215,ocenka_est,1419,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,розе
@@ -1047,8 +1047,7 @@ koreni-1934-vinary-koreni-1934-merlot,Koreni 1934,Vinary Koreni 1934 Merlot,,,ne
 kostic-cuvee,Kostić,Cuvée,8924009,https://www.vivino.com/w/8924009,ocenka_est,145,False,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,красное
 kostic-prokupac,Kostić,Prokupac,,,net_na_vivino,,False,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,красное
 kostic-prokupac-barrique,Kostić,Prokupac Barrique,7727115,https://www.vivino.com/w/7727115,ocenka_est,626,False,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,красное
-kostic-tamjanika-oranz,Kostić,Tamjanika Oranž,,,net_na_vivino,,True,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,
-kostic-tamjanika-oranz-orange,Kostić,Tamjanika Оранж (Orange),13857999,https://www.vivino.com/w/13857999,malo_ocenok,3,True,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,белое
+kostic-tamjanika-oranz,Kostić,Tamjanika Oranž,13857999,https://www.vivino.com/w/13857999,malo_ocenok,3,True,False,Toplički rejon,Prokupačko vinogorje,hozyaistvo,белое
 kovacevic-amber-cuvee,Kovačević,Amber Cuvée,12696523,https://www.vivino.com/w/12696523,malo_ocenok,40,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
 kovacevic-aurelius,Kovačević,Aurelius,1222956,https://www.vivino.com/w/1222956,ocenka_est,25240,True,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,красное
 kovacevic-aurelius-barrique,Kovačević,Aurelius Barrique,1399821,https://www.vivino.com/w/1399821,ocenka_est,197,True,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное

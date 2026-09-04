@@ -161,15 +161,15 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1179, с оценкой критиков — 1061, **с обеими — 352**.
+Вин с оценкой Vivino — 1178, с оценкой критиков — 1060, **с обеими — 354**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
 | Фрушка гора | 216 | 215 | 84 |
 | Суботичско-Хоргошская пешчара | 76 | 29 | 17 |
 | Банат | 48 | 26 | 13 |
-| Шумадия | 104 | 110 | 40 |
-| Три Моравы и Жупа | 154 | 104 | 42 |
+| Шумадия | 103 | 110 | 40 |
+| Три Моравы и Жупа | 154 | 103 | 43 |
 | Неготинска Крайина | 42 | 40 | 16 |
 | Топлица | 22 | 21 | 11 |
 | Юго-восток | 31 | 48 | 13 |
@@ -975,7 +975,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | лучшее оранж | 1 | Bojan Basa · Furmint 2019 | 
 | 2022 | лучшее оранж | 5 | Bojan Basa · Jantar 2019 | 
 | 2022 | лучшее оранж | 7 | Bikicki · Uncensored 2020 | 
-| 2022 | лучшее оранж | 8 | Vinčić · Grašac Amfora 2017 | 
+| 2022 | лучшее оранж | 8 | Vinčić · Amfora Grašac 2017 | 
 | 2022 | лучшее розе | 2 | Trivanović · Lex 2021 | 
 | 2022 | лучшее розе | 7 | Đurđić · Simonida Mlada 2021 | 
 | 2022 | лучшее розе | 9 | Deurić · Urban Rose 2021 | 
@@ -1745,7 +1745,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | за свои деньги | 10 | Tonković · Rapsodija 2014 | 
 | 2019 | золото | zlato | Zvonko Bogdan · Cuvée No.1 2017 | 
 | 2019 | золото | zlato | Zvonko Bogdan · Icon Campana Rubimus 2017 | 
-| 2019 | лучшее белое | 2 | Zvonko Bogdan · Icon Albus Campana 2017 | 
+| 2019 | лучшее белое | 2 | Zvonko Bogdan · Icon Campana Albus 2017 | 
 | 2019 | лучшее белое | 7 | Zvonko Bogdan · Pinot Blanc 2017 | 
 | 2019 | лучшее красное | 2 | Zvonko Bogdan · Cuvee No.1 2017 | 
 | 2019 | лучшее красное | 7 | Tonković · Fantazija 2014 | 
@@ -1754,7 +1754,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | лучшее органическое | 4 | Maurer · Kadarka 1880 2018 | 
 | 2019 | лучшее органическое | 8 | Maurer · Totem 2017 | 
 | 2019 | лучшее розе | 2 | Zvonko Bogdan · Rose Sec 2018 | 
-| 2019 | лучшее розе | 4 | Tonković · Rose Kadarka 2018 | 
+| 2019 | лучшее розе | 4 | Tonković · Kadarka Rosé 2018 | 
 | 2019 | лучшее сладкое или полусладкое | 4 | Maurer · Sott 2018 | 
 | 2019 | лучший винный бренд | 2 | Zvonko Bogdan | 
 | 2019 | лучший дизайн этикетки | 4 | Zvonko Bogdan | 
@@ -2661,12 +2661,12 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Budimir · Svb Rosa | 2009 | 94 | Falstaff |
 | Ivanović · No ½ | 2018 | 94 | Falstaff |
 | Ivanović · Prokupac | 2017 | 94 | Falstaff |
-| Vinarija Radovan · Prokupac Radovan 100% | 2020 | 94 | Falstaff |
+| Vinarija Radovan · 100% Prokupac | 2020 | 94 | Falstaff |
 | Temet · Ergo | 2018 | 94 | decanter |
 | Temet · Beli Kamen Merlot | 2019 | 94 | decanter |
 | Ralević · Virgo | 2021 | 94 | biwc |
 | Vinarija Radovan · 100% Prokupac | 2019 | 93 | Falstaff |
-| Vinarija Radovan · Tamjanika Radovan 100% | 2022 | 93 | Falstaff |
+| Vinarija Radovan · 100% Tamjanika | 2022 | 93 | Falstaff |
 | Vinarija Radovan · Experiment Prokupac | 2019 | 93 | Falstaff |
 | Temet · Tri Morave Reserve | 2018 | 93 | decanter |
 | Spasić · Tamjanika | 2021 | 92 | Falstaff |
@@ -3036,14 +3036,14 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2022 | лучшая молодая винодельня | 1 | MV Vinarija | 
 | 2022 | лучшее белое | 4 | Temet · Ergo White 2018 | 
 | 2022 | лучшее белое | 7 | Budimir · Margus Margi 2013 | 
-| 2022 | лучшее белое, местные сорта | 4 | Vinarija Radovan · Tamjanika 100% 2021 | 
+| 2022 | лучшее белое, местные сорта | 4 | Vinarija Radovan · 100% Tamjanika 2021 | 
 | 2022 | лучшее белое, местные сорта | 9 | Braća Rajković · Tamjanika 2020 | 
 | 2022 | лучшее белое, местные сорта | 10 | Lastar · Tamjanika 2021 | 
 | 2022 | лучшее игристое | 2 | Temet · Tri Morave penušavo 2019 | 
 | 2022 | лучшее игристое | 8 | Temet · Ergo Rose Penušavo 2018 | 
 | 2022 | лучшее красное, местные сорта | 1 | Braća Rajković · Prince Rskavac 2018 | 
-| 2022 | лучшее красное, местные сорта | 4 | Yotta · Prokupac Reserve 2017 | 
-| 2022 | лучшее красное, местные сорта | 5 | Vinarija Radovan · prokupac 100% 2019 | 
+| 2022 | лучшее красное, местные сорта | 4 | Yotta · Reserve Prokupac 2017 | 
+| 2022 | лучшее красное, местные сорта | 5 | Vinarija Radovan · 100% Prokupac 2019 | 
 | 2022 | лучшее красное, органика | 3 | MV Vinarija · Temperance Special Edition 2020 | 
 | 2022 | лучшее оранж | 2 | MV Vinarija · Tamjanika 2019 | 
 | 2022 | лучшее розе | 1 | Temet · Ergo Rose 2021 | 
@@ -3874,7 +3874,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Džervin · Trifun Grand Cabernet Sauvignon | 2019 | 88 | decanter |
 | Aleksić · Zuti Cvet Extra Brut | 2022 | 88 | decanter |
 | Aleksić · Morava | 2025 | 88 | decanter |
-| Jović · POTRKANJSKI DIONIZIJE | 2021 | 88 | biwc |
+| Jović · Dionizije Potrkanjski | 2021 | 88 | biwc |
 | Jović · Rizling Rajnski Potrkanjski | 2021 | 88 | awc-vienna |
 | Aleksić · Limited Bonaca Chardonnay | 2018 | 87 | awc-vienna |
 | Aleksić · Zuti Cvet Penusavo | 2015 | 87 | decanter |
@@ -3960,7 +3960,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2024 | золото | zlato | Jović · ROSE DIONIZIJE 2021 | 
 | 2024 | золото | zlato | Džervin · Sauvignon 2023 | 
 | 2024 | серебро | srebro | Aleksić · Limited Kardaš Cabernet Sauvignon 2021 | 
-| 2024 | серебро | srebro | Jović · POTRKANJSKI DIONIZIJE 2021 | 
+| 2024 | серебро | srebro | Jović · Dionizije Potrkanjski 2021 | 
 | 2024 | серебро | srebro | Jović · Rizling Rajnski Potrkanjski 2021 | 
 | 2024 | серебро | srebro | Džervin · Nijansa 2023 | 
 | 2024 | серебро | srebro | Džervin · Trifun 2019 | 
@@ -3976,7 +3976,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2023 | за свои деньги, розе | 2 | Jović · Rose Dionizije 2021 | 
 | 2023 | лучшая малая винодельня | 1 | Jović | 
 | 2023 | лучшее белое, органика | 4 | Jović · Chardonnay 2021 | 
-| 2023 | лучшее белое, органика | 9 | Jović · Rajnski rizling 2020 | 
+| 2023 | лучшее белое, органика | 9 | Jović · Rizling Rajnski 2020 | 
 | 2023 | лучшее игристое | 8 | Aleksić · Biser 2018 | 
 | 2023 | лучшее игристое | 9 | Jović · Moša Brut 2020 | 
 | 2023 | лучшее красное, местные сорта | 2 | Jović · Dionizije 2019 | 
@@ -4039,7 +4039,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | серебро | srebro | Džervin · Schlossberg 2017 | 
 | 2020 | серебро | srebro | Džervin · Sauvignon blanc 2018 | 
 | 2020 | серебро | srebro | Džervin · Riesling 2017 | 
-| 2020 | серебро | srebro | Jović · Potrkanjski Dionizije 2017 | 
+| 2020 | серебро | srebro | Jović · Dionizije Potrkanjski 2017 | 
 | 2020 | серебро | srebro | Aleksić · Biser Smederevka 2015 | 
 | 2019 | бронза | bronza | Aleksić · Nostalgija 2017 | 
 | 2019 | бронза | bronza | Aleksić · Zuti Cvet Tamjanika 2018 | 

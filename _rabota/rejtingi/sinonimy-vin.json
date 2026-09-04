@@ -1,7 +1,7 @@
 {
  "chto_eto": "Имена, под которыми одно и то же вино встречается у разных источников. Список ведётся руками: каждая пара просмотрена глазами перед тем, как попасть сюда. Ключ — написание с Vivino: у него есть номер позиции каталога, и это имя стоит на бутылке.",
  "kak_chitat": "Внутри хозяйства: имя, которое остаётся, и список имён, которые к нему сводятся. Сюда идут только доказуемые расхождения трёх разрядов: то же имя другим письмом или на другом языке («Sovinjon» и «Sauvignon», «Vagabundo Red» и «Vagabundo Crveno»); те же слова, переставленные местами («Bukovska Bagrina» и «Bagrina Bukovska»); опечатка в одну букву («Berment» вместо «Bermet»); те же буквы, иначе поделённые на слова («Pino As» и «Pinoas», «Sovi Noa» и «Sovinoa»). Разница в целом слове сюда не входит: «Trijumf» и «Trijumf Selection» — разные вина, и таких пар в данных две сотни. Единственное исключение — приписка, которую источник снял или добавил сам: сорт, цвет или имя линейки («Siesta» и «Siesta Merlot Rosé», «Prudence Prokupac» и «Prudence Special Edition Prokupac»). Оно принимается не по виду пары, а по перечню вин хозяйства: только там, где вино с таким именем у него ровно одно. Без перечня пара остаётся несведённой — «Trijumf» и «Trijumf Selection» у Александровића существуют оба. Обычно за главное берётся написание с Vivino — это имя с бутылки. Но если у Vivino как раз опечатка, главным остаётся верное написание: «Kišov Rosé», а не «Kison Rose»; «Triangl», а не «Triagl»; «голубица», а не «галубица». Отдельно стоит случай, когда внутри имени вина стоит имя самого дома: обычно его снимает ключ, но у хозяйства, зовущегося двумя словами, голая фамилия с ключом не совпадает — «RAJIĆ TAMJANIKA» у Винске куће Рајић. Такие пары сводятся здесь, и причина названа прямо.",
- "vin": 182,
+ "vin": 221,
  "vina": {
   "Aleksandar Todorović": {
    "Župljanka": {
@@ -146,6 +146,12 @@
      "Prokupac boje lila"
     ],
     "pochemu": "те же слова, переставленные местами"
+   },
+   "Tamjanika": {
+    "varianty": [
+     "Tamjanika Budimir"
+    ],
+    "pochemu": "имя вина повторяет имя хозяйства: у Vivino «Tamjanika Budimir», на этикетке — «Tamjanika». Главным взято короткое: под заголовком хозяйства имя дома в имени вина не нужно."
    }
   },
   "Chichateau": {
@@ -322,6 +328,30 @@
      "Kadarka Kew"
     ],
     "pochemu": "те же слова, переставленные местами"
+   },
+   "Devas Furmint": {
+    "varianty": [
+     "Furmint Devas"
+    ],
+    "pochemu": "те же слова, переставленные местами; главным взято написание Vivino — как у уже сведённых «Kew Furmint» и «Kew Kadarka» того же дома, где имя линейки стоит впереди сорта."
+   },
+   "Devas Kadarka": {
+    "varianty": [
+     "Kadarka Devas"
+    ],
+    "pochemu": "те же слова, переставленные местами; имя линейки впереди сорта, как у «Kew Kadarka»."
+   },
+   "Kanias Furmint": {
+    "varianty": [
+     "Furmint Kanias"
+    ],
+    "pochemu": "те же слова, переставленные местами; имя линейки впереди сорта, как у «Kew Furmint»."
+   },
+   "Kanias Kadarka": {
+    "varianty": [
+     "Kadarka Kanias"
+    ],
+    "pochemu": "те же слова, переставленные местами; имя линейки впереди сорта, как у «Kew Kadarka»."
    }
   },
   "Erdevik": {
@@ -355,6 +385,12 @@
      "Bela Galubica"
     ],
     "pochemu": "опечатка в одну букву"
+   },
+   "Prokupac": {
+    "varianty": [
+     "Grabak Prokupac"
+    ],
+    "pochemu": "имя вина повторяет имя хозяйства: у Vivino «Grabak Prokupac», у Decanter и балканского конкурса — «Prokupac»."
    }
   },
   "Ivanović": {
@@ -383,6 +419,18 @@
      "RAJNSKI RIZLING POTRKANJSKI"
     ],
     "pochemu": "те же слова, переставленные местами"
+   },
+   "Rizling Rajnski": {
+    "varianty": [
+     "Rajnski rizling"
+    ],
+    "pochemu": "те же слова, переставленные местами; главным взято написание Vivino — как у уже сведённого «Rizling Rajnski Potrkanjski» того же дома."
+   },
+   "Dionizije Potrkanjski": {
+    "varianty": [
+     "Potrkanjski Dionizije"
+    ],
+    "pochemu": "те же слова, переставленные местами. Vivino нет ни у одного написания; главным взято то, где определение стоит после имени, как в «Rizling Rajnski Potrkanjski»."
    }
   },
   "Kiš": {
@@ -633,6 +681,12 @@
      "Chardonay"
     ],
     "pochemu": "опечатка в одну букву"
+   },
+   "Selekcija Merlot": {
+    "varianty": [
+     "Merlot Selekcija"
+    ],
+    "pochemu": "те же слова, переставленные местами; у «Selekcija Merlot» и Vivino, и Decanter."
    }
   },
   "Radovan": {
@@ -647,12 +701,6 @@
      "Tamjanika Experiment"
     ],
     "pochemu": "те же слова, переставленные местами"
-   },
-   "Tamjanika Radovan 100%": {
-    "varianty": [
-     "Tamjanika Radovon 100%"
-    ],
-    "pochemu": "опечатка в одну букву"
    }
   },
   "Radovanović": {
@@ -769,6 +817,12 @@
      "Kadarka Rapsodija"
     ],
     "pochemu": "те же слова, переставленные местами"
+   },
+   "Kadarka Rosé": {
+    "varianty": [
+     "Rose Kadarka"
+    ],
+    "pochemu": "те же слова, переставленные местами; у «Kadarka Rosé» запись Vivino с девятьюстами этикетками."
    }
   },
   "Traško Vinarija": {
@@ -915,6 +969,12 @@
      "Pinot Noir Blanc de Noir"
     ],
     "pochemu": "те же слова, переставленные местами"
+   },
+   "Pinot Noir Rosé": {
+    "varianty": [
+     "Rose Pinot Noir"
+    ],
+    "pochemu": "те же слова, переставленные местами; у «Pinot Noir Rosé» запись Vivino."
    }
   },
   "Vinarija Frug": {
@@ -1132,6 +1192,12 @@
      "White reserva"
     ],
     "pochemu": "опечатка в одну букву"
+   },
+   "Amfora Grašac": {
+    "varianty": [
+     "Grašac Amfora"
+    ],
+    "pochemu": "те же слова, переставленные местами; у «Amfora Grašac» запись Vivino."
    }
   },
   "Virtus": {
@@ -1189,6 +1255,18 @@
      "Cuvée No. 1"
     ],
     "pochemu": "то же имя другим письмом или на другом языке"
+   },
+   "4 konja debela": {
+    "varianty": [
+     "Zvonko 4 Bogdan Konja Debela"
+    ],
+    "pochemu": "имя хозяйства вставлено внутрь имени вина: у Vivino «Zvonko 4 Bogdan Konja Debela», а вино зовётся «4 konja debela» — четыре толстых коня."
+   },
+   "Icon Campana Albus": {
+    "varianty": [
+     "Icon Albus Campana"
+    ],
+    "pochemu": "те же слова, переставленные местами; у «Icon Campana Albus» три источника — Vivino, Decanter, Falstaff."
    }
   },
   "Šapat": {
@@ -1275,12 +1353,61 @@
     ],
     "pochemu": "Та же приписка линейки, снятая лавкой. В перечне вин хозяйства и Prudence одно, и прокупац один."
    }
+  },
+  "Tarpoš": {
+   "Merlot": {
+    "varianty": [
+     "Tarpos Merlot"
+    ],
+    "pochemu": "имя вина повторяет имя хозяйства. У «Merlot» четыре источника — Vivino, Decanter, AWC, балканский конкурс, — у «Tarpos Merlot» одна запись Vivino без этикеток."
+   }
+  },
+  "Vinarija Radovan": {
+   "Prokupac": {
+    "varianty": [
+     "Radovan Prokupac"
+    ],
+    "pochemu": "имя вина повторяет имя хозяйства: у Vivino «Radovan Prokupac», у Decanter — «Prokupac»."
+   },
+   "100% Prokupac": {
+    "varianty": [
+     "Prokupac Radovan 100%",
+     "prokupac 100%"
+    ],
+    "pochemu": "те же слова, переставленные местами, и у одного написания к ним добавлено имя хозяйства. Vivino нет ни у одного; главным взято написание с тремя источниками — балканский конкурс, Decanter, Falstaff."
+   },
+   "100% Tamjanika": {
+    "varianty": [
+     "Tamjanika 100%",
+     "Tamjanika Radovan 100%",
+     "Tamjanika Radovon 100%"
+    ],
+    "pochemu": "то же: переставленные слова плюс имя хозяйства в одном из написаний. Сюда же переехала опечатка «Tamjanika Radovon 100%»: прежде она сводилась к «Tamjanika Radovan 100%», а то само оказалось написанием этого вина, и цепочка обрывалась на середине — вино оставалось двумя строками."
+   }
+  },
+  "Šijački": {
+   "Rizling italijanski": {
+    "varianty": [
+     "Rizling Italijanski Sijacki"
+    ],
+    "pochemu": "имя вина повторяет имя хозяйства, у Vivino оно ещё и без диакритики."
+   }
+  },
+  "Yotta": {
+   "Reserve Prokupac": {
+    "varianty": [
+     "Prokupac Reserve"
+    ],
+    "pochemu": "те же слова, переставленные местами; у «Reserve Prokupac» запись Vivino."
+   }
   }
  },
  "ne_svedeno": {
   "Vinarija Coka: Mustuluk Beli / Muštuluk White": "У Vivino это две позиции каталога с разными номерами (5089128 и 11118421) и разными выборками отзывов. Свести их значило бы решить за Vivino, что это одно вино, и потерять одну из двух оценок покупателей.",
   "Vinarija Imperator: Decius Pinot Noir / Decivs Pinot Noir": "То же: две записи Vivino (13753168 и 9236487). «Decivs» — латинское написание через V, и это похоже на одно вино, но доказательства нет, а цена ошибки — потерянная выборка.",
   "Vinarija Vrbica: Barrique / Barriques": "Две записи Vivino (2055966 и 1607489), у обеих оценка и около сотни этикеток.",
-  "Vinum: Bermet / Bermut": "Две записи Vivino (10279695 и 8016536). Бермет и вермут — разные напитки, и одна буква здесь может быть не опечаткой, а разницей по существу."
+  "Vinum: Bermet / Bermut": "Две записи Vivino (10279695 и 8016536). Бермет и вермут — разные напитки, и одна буква здесь может быть не опечаткой, а разницей по существу.",
+  "Mcculloch Wines: Cabernet Franc-Cabernet Sauvignon / Cabernet Sauvignon - Cabernet Franc": "Не сведены. Порядок сортов в имени купажа называет главный сорт, а не порядок слов: «каберне фран — каберне совиньон» и «каберне совиньон — каберне фран» это разные вина, если дом делает оба. У Vivino запись есть только у второго, с двадцатью шестью этикетками, и решить по ней нельзя.",
+  "Vimmid: Prokupac / Прокупац (Aglaja Prokupac)": "Не сведены. У записи Vivino в скобках стоит «Aglaja» — это может быть именем самого вина, а не пометкой каталога. Пока не проверено по этикетке, сведение отняло бы имя."
  }
 }

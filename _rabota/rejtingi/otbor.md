@@ -141,11 +141,11 @@ Boemi, — и на них приходится больше четырёхсот
 
 | | Вин |
 |---|---|
-| балл критика 90+ | 354 |
-| Vivino 4,0+ | 353 |
+| балл критика 90+ | 353 |
+| Vivino 4,0+ | 351 |
 | три источника и больше | 150 |
 | строгая награда | 15 |
-| **всего** | **872** у 187 хозяйств |
+| **всего** | **869** у 187 хозяйств |
 
 У прошедших медиана Vivino 4.10; ниже 3,7 остаётся 12 из 574.
 
@@ -154,8 +154,8 @@ Boemi, — и на них приходится больше четырёхсот
 | Рејон | Прошло вин | Хозяйств |
 |---|---|---|
 | Sremski rejon | 269 | 51 |
-| Rejon Tri Morave | 175 | 40 |
-| Šumadijski rejon | 150 | 23 |
+| Rejon Tri Morave | 173 | 40 |
+| Šumadijski rejon | 149 | 23 |
 | Subotički rejon | 58 | 9 |
 | Rejon Negotinska Krajina | 55 | 13 |
 | Beogradski rejon | 31 | 8 |
@@ -199,11 +199,11 @@ Boemi, — и на них приходится больше четырёхсот
 | Matalj | Cuvée Bukovski | 4 | 95 | awc-vienna, biwc, decanter, vino.rs |
 | Zvonko Bogdan | Chardonnay | 4 | 95 | biwc, decanter, falstaff, vino.rs |
 | Doja | Breg Cabernet Sauvignon | 4.3 | 94 | biwc, decanter, falstaff, vino.rs |
+| Vinarija Radovan | 100% Prokupac | — | 94 | biwc, decanter, falstaff, vino.rs |
 | Vinum | Grašac 26a | 4 | 94 | awc-vienna, biwc, falstaff, vino.rs |
 | Aleksandrović | Trijumf Terroir | 4.1 | 93 | biwc, decanter, falstaff, vino.rs |
 | Erdevik | Grand Trianon | 4.3 | 93 | decanter, falstaff, vino.rs, wine-searcher |
 | Matijašević Vinogradi | Belina | 3.9 | 93 | biwc, decanter, falstaff, vino.rs |
-| Vinarija Radovan | 100% Prokupac | — | 93 | biwc, decanter, falstaff, vino.rs |
 | Virtus | Pinot Grigio | 3.8 | 93 | awc-vienna, biwc, decanter, vino.rs |
 | Zvonko Bogdan | Icon Campana Albus | 4.1 | 93 | biwc, decanter, falstaff, vino.rs |
 | Aleksandrović | Prokupac | 4.2 | 92 | biwc, decanter, falstaff, vino.rs |
@@ -230,12 +230,12 @@ Boemi, — и на них приходится больше четырёхсот
 | Braća Rajković | Prince Rskavac | 3.5 | 87 | awc-vienna, biwc, decanter, vino.rs |
 | Vinčić | Grašac | 4.3 | 97 | biwc, decanter, vino.rs |
 | Bikicki | Uncensored | 4 | 96 | biwc, decanter, vino.rs |
-| Tarpoš | Merlot | 4 | 95 | awc-vienna, biwc, decanter |
+| Tarpoš | Merlot | 4.0 | 95 | awc-vienna, biwc, decanter |
 | Vinum | Grašac Beli | 3.9 | 95 | awc-vienna, biwc, vino.rs |
 | Zvonko Bogdan | Merlot | 4.1 | 95 | biwc, decanter, vino.rs |
 | DiBonis Winery | Di Icewine | — | 94 | awc-vienna, decanter, vino.rs |
 | Erdevik | Trianon | 4.1 | 94 | decanter, vino.rs, wine-searcher |
-| Grabak | Prokupac | — | 94 | biwc, decanter, vino.rs |
+| Grabak | Prokupac | 3.7 | 94 | biwc, decanter, vino.rs |
 | Jović | Vranac Potrkanjski | — | 94 | awc-vienna, biwc, vino.rs |
 | Matalj | Zamna | — | 94 | awc-vienna, biwc, decanter |
 | Vinarija Gamanović | Grašac Beli | 3.9 | 94 | awc-vienna, biwc, vino.rs |
@@ -356,7 +356,7 @@ Boemi, — и на них приходится больше четырёхсот
 
 ## Отсеяно вопреки медали
 
-Вин с медалью, которые правило не пропускает, — 916 из 1470. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 107 вин, и оно вот чьё: biwc — 115, wine-trophy — 7, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
+Вин с медалью, которые правило не пропускает, — 904 из 1463. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 107 вин, и оно вот чьё: biwc — 115, wine-trophy — 7, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
 
 | Хозяйство | Вино | Vivino | Награды |
 |---|---|---|---|
@@ -364,11 +364,13 @@ Boemi, — и на них приходится больше четырёхсот
 | Belo Brdo | Cabernet Franc | 3.9 | бронза, серебро |
 | Bikicki | Crna Tamjanika | 3.9 | золото, серебро, лучшее красное, местные сорта |
 | Bikicki | Sfera | 3.9 | лучшее белое, органика |
+| Budimir | Tamjanika | 3.9 | за свои деньги, белое |
 | Château Prince | Château Shiraz | 3.9 | бронза, золото |
 | Despotika | Trag Merlot | 3.9 | бронза, серебро |
 | Deurić | Avangarda | 3.9 | отмечено, золото, бронза |
 | Deurić | The | 3.9 | лучшее игристое×4, серебро |
 | Djordjevic Estate Winery | Chardonnay | 3.9 | серебро, одобрение |
+| Dukay-Sagmeister | Devas Furmint | 3.9 | лучшее белое, органика |
 | Džervin | Sauvignon | 3.9 | золото×3, серебро×2, за свои деньги, белое, международные сорта |
 | Fruškogorski | Quet Pinot Noir | 3.9 | отмечено, серебро |
 | Grabak | Modrovrana | 3.9 | бронза×2 |
@@ -397,22 +399,20 @@ Boemi, — и на них приходится больше четырёхсот
 | Vinarija Todorović | Cabernet Sauvignon | 3.9 | золото×2 |
 | Vinarija Todorović | Chardonnay | 3.9 | золото |
 | Vinarija VRT | Pesak Plavi | 3.9 | серебро×2, одобрение |
-| Vinčić | Amfora Grašac | 3.9 | лучшее оранж×2 |
-| Vista Hill | Selection Red | 3.9 | отмечено |
-| Đurđić | Neoplanta | 3.9 | серебро×2, бронза |
+| Vinčić | Amfora Grašac | 3.9 | лучшее оранж×3 |
 
-Показаны сорок из 916 — остальные так же.
+Показаны сорок из 904 — остальные так же.
 
 ## Что меняет порог: 4,0 против 4,1
 
-Три верхние двери — три источника, балл критика, строгая награда — от порога не зависят вовсе: по ним проходит 519 вин, и они остаются при любом решении. Спор идёт только о четвёртой двери.
+Три верхние двери — три источника, балл критика, строгая награда — от порога не зависят вовсе: по ним проходит 518 вин, и они остаются при любом решении. Спор идёт только о четвёртой двери.
 
 | Порог | Всего проходит | Хозяйств |
 |---|---|---|
-| 4.0 | 872 | 187 |
-| 4.1 | 721 | 165 |
+| 4.0 | 869 | 187 |
+| 4.1 | 719 | 165 |
 
-Между ними стоят 151 вин с оценкой ровно 4,0 — их и решает выбор. Ни у одного из них нет ни балла критика от 90, ни строгой награды, ни трёх источников: за них говорят только покупатели.
+Между ними стоят 150 вин с оценкой ровно 4,0 — их и решает выбор. Ни у одного из них нет ни балла критика от 90, ни строгой награды, ни трёх источников: за них говорят только покупатели.
 
 Хозяйств, которые при пороге 4,1 выпадают из книги целиком, — 22.
 

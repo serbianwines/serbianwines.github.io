@@ -29,7 +29,7 @@
 <!-- правьте vivino-zapisi.jsonl и перегенерируйте.          -->
 
 Порог 25 отзывов · вес недоверия 50 · потолок 2 вина на хозяйство.
-Средняя, к которой идёт сдвиг, — **3.85** по 1175 винам, прошедшим порог.
+Средняя, к которой идёт сдвиг, — **3.85** по 1174 винам, прошедшим порог.
 
 ## Фрушка гора
 
@@ -469,7 +469,7 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 - Мали Подрум Гајић - Mali Podrum Gajić · Црвени Витез (Crveni Vite) — 3.8 (35)
 - Dukay-Sagmeister · Furmint — 3.7 (71)
 - Dukay-Sagmeister · Burgundac Crni Pinot Noir — 3.7 (50)
-- Grabak · Grabak Prokupac — 3.7 (70)
+- Grabak · Prokupac — 3.7 (70)
 - Grabak · Bela golubica — 3.7 (61)
 - Art Wine · Sumarum Merlot — 3.7 (50)
 - Брояница (Brojanica) · Рислинг (Riesling) — 3.7 (1024)

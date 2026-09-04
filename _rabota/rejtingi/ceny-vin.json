@@ -85,7 +85,7 @@
   "budimir-i-kao-da-si-andeo": 3,
   "budimir-lila-prokupac-boje": 4,
   "budimir-svb-rosa": 4,
-  "budimir-tamjanika": 5,
+  "budimir-tamjanika": 4,
   "budimir-vera-tamjanika": 2,
   "bukovo-filigran-cabernet-sauvignon": 1,
   "bukovo-filigran-crna-tamjanika": 2,
@@ -304,8 +304,8 @@
   "pusula-cabernet-cuvee": 1,
   "pusula-sauvignon-blanc": 2,
   "pusula-traminac": 3,
-  "radovan-prokupac-100": 1,
-  "radovan-tamjanika-100": 1,
+  "radovan-100-prokupac": 3,
+  "radovan-100-tamjanika": 2,
   "radovanovic-cabernet-sauvignon-classique": 3,
   "radovanovic-cabernet-sauvignon-grand-reserva": 3,
   "radovanovic-reserve-cabernet-sauvignon": 1,
@@ -346,7 +346,7 @@
   "vinarska-kuca-spasic-despot": 2,
   "vinarska-kuca-spasic-tamjanika": 8,
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 2,
-  "stari-hrast-merlot-selekcija": 2,
+  "stari-hrast-selekcija-merlot": 2,
   "stemina-stephanos": 1,
   "temet-beli-kamen-morava": 1,
   "temet-beli-kamen-prokupac": 1,
@@ -380,7 +380,7 @@
   "vinarium-zupljanka": 2,
   "vincic-grand-fru": 1,
   "vincic-grasac": 1,
-  "vincic-grasac-amfora": 1,
+  "vincic-amfora-grasac": 1,
   "vincic-white-reserve": 1,
   "vinum-chardonnay": 2,
   "vinum-dina": 1,
@@ -400,7 +400,7 @@
   "yotta-reserve-cabernet-sauvignon": 1,
   "yotta-hysteresis": 1,
   "yotta-prokupac": 1,
-  "yotta-prokupac-reserve": 1,
+  "yotta-reserve-prokupac": 1,
   "yotta-tri-boje-belo-tamjanika": 1,
   "zir-morava": 2,
   "zmajevac-chardonnay": 1,
@@ -459,7 +459,6 @@
   "aleksandrovic-chardonnay": 1,
   "legat-chardonnay": 2,
   "aleksandrovic-vozd": 2,
-  "tonkovic-rose-kadarka": 1,
   "cilic-onyx": 1,
   "petra-pinot-noir": 1,
   "petra-rose": 1,
@@ -507,7 +506,6 @@
   "botunjac-sveti-gral-prokupac": 1,
   "arsenijevic-rose": 1,
   "budimir-triada": 1,
-  "budimir-tamjanika-budimir": 1,
   "kovacevic-brut": 2,
   "radovanovic-pino-sivi": 1,
   "vinum-grasac": 2,
@@ -533,8 +531,6 @@
   "virtus-gewurztraminer": 2,
   "lastar-merlot-cabernet-franc": 6,
   "erdevik-tri-bele-koze-blanc": 5,
-  "radovan-100-prokupac": 2,
-  "radovan-100-tamjanika": 1,
   "bjelica-babaroga-chardonnay": 1,
   "aleksic-arno": 2,
   "matalj-dusica-rose": 1,
@@ -936,7 +932,7 @@
   "dremina-tamjanika": 1,
   "dukay-sagmeister-pinot-noir": 1,
   "dukay-sagmeister-kew-kadarka": 1,
-  "dumo-rose-pinot-noir": 1,
+  "dumo-pinot-noir-rose": 1,
   "dzervin-schlossberg": 1,
   "eden-merlot": 1,
   "eden-rose": 1,
@@ -993,7 +989,7 @@
   "jeremic-sonata-sauvignon-blanc": 1,
   "jovic-rizling-rajnski-potrkanjski": 1,
   "jovic-mosa-brut": 1,
-  "jovic-rajnski-rizling": 1,
+  "jovic-rizling-rajnski": 1,
   "maurer-karom": 1,
   "katanic-ester-extra-brut": 1,
   "kis-misterija-kisova": 1,
@@ -1270,7 +1266,6 @@
   "maurer-oszkar-karom": 1,
   "tenuta-est-stara-ruzica": 1,
   "todorovic-tod-grasac": 1,
-  "vincic-amfora-grasac": 1,
   "mv-prudence-special-edition-prokupac": 1
  },
  "polka_supermarketa": {
@@ -1296,8 +1291,8 @@
   "deshevle_u_hozyaistva": 73
  },
  "dostavka": {
-  "vin_tolko_iz_dostavki": 468,
-  "vin_i_tam_i_tam": 637,
+  "vin_tolko_iz_dostavki": 467,
+  "vin_i_tam_i_tam": 635,
   "nacenka_dostavki": 1.07,
   "lavok": 68
  },
@@ -1372,7 +1367,7 @@
   "budimir-i-kao-da-si-andeo": 1465,
   "budimir-lila-prokupac-boje": 2205,
   "budimir-svb-rosa": 4410,
-  "budimir-tamjanika": 1780,
+  "budimir-tamjanika": 1742,
   "budimir-vera-tamjanika": 2360,
   "bukovo-filigran-cabernet-sauvignon": 1910,
   "bukovo-filigran-crna-tamjanika": 1538,
@@ -1591,8 +1586,8 @@
   "pusula-cabernet-cuvee": 1635,
   "pusula-sauvignon-blanc": 1211,
   "pusula-traminac": 1122,
-  "radovan-prokupac-100": 2870,
-  "radovan-tamjanika-100": 2400,
+  "radovan-100-prokupac": 2870,
+  "radovan-100-tamjanika": 2355,
   "radovanovic-cabernet-sauvignon-classique": 1595,
   "radovanovic-cabernet-sauvignon-grand-reserva": 9900,
   "radovanovic-reserve-cabernet-sauvignon": 3120,
@@ -1633,7 +1628,7 @@
   "vinarska-kuca-spasic-despot": 1055,
   "vinarska-kuca-spasic-tamjanika": 1108,
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1345,
-  "stari-hrast-merlot-selekcija": 3945,
+  "stari-hrast-selekcija-merlot": 3945,
   "stemina-stephanos": 2000,
   "temet-beli-kamen-morava": 5435,
   "temet-beli-kamen-prokupac": 4795,
@@ -1667,7 +1662,7 @@
   "vinarium-zupljanka": 1050,
   "vincic-grand-fru": 3890,
   "vincic-grasac": 17385,
-  "vincic-grasac-amfora": 4900,
+  "vincic-amfora-grasac": 4900,
   "vincic-white-reserve": 8355,
   "vinum-chardonnay": 2470,
   "vinum-dina": 3260,
@@ -1687,7 +1682,7 @@
   "yotta-reserve-cabernet-sauvignon": 3910,
   "yotta-hysteresis": 4180,
   "yotta-prokupac": 1790,
-  "yotta-prokupac-reserve": 3190,
+  "yotta-reserve-prokupac": 3190,
   "yotta-tri-boje-belo-tamjanika": 1360,
   "zir-morava": 1668,
   "zmajevac-chardonnay": 1790,
@@ -1746,7 +1741,6 @@
   "aleksandrovic-chardonnay": 2070,
   "legat-chardonnay": 2838,
   "aleksandrovic-vozd": 8225,
-  "tonkovic-rose-kadarka": 1040,
   "cilic-onyx": 2755,
   "petra-pinot-noir": 2650,
   "petra-rose": 1680,
@@ -1794,7 +1788,6 @@
   "botunjac-sveti-gral-prokupac": 1530,
   "arsenijevic-rose": 1135,
   "budimir-triada": 1080,
-  "budimir-tamjanika-budimir": 1550,
   "kovacevic-brut": 2346,
   "radovanovic-pino-sivi": 1320,
   "vinum-grasac": 1754,
@@ -1820,8 +1813,6 @@
   "virtus-gewurztraminer": 1260,
   "lastar-merlot-cabernet-franc": 1869,
   "erdevik-tri-bele-koze-blanc": 900,
-  "radovan-100-prokupac": 2986,
-  "radovan-100-tamjanika": 2310,
   "bjelica-babaroga-chardonnay": 5016,
   "aleksic-arno": 930,
   "matalj-dusica-rose": 960,
@@ -2223,7 +2214,7 @@
   "dremina-tamjanika": 1683,
   "dukay-sagmeister-pinot-noir": 2475,
   "dukay-sagmeister-kew-kadarka": 5785,
-  "dumo-rose-pinot-noir": 1404,
+  "dumo-pinot-noir-rose": 1404,
   "dzervin-schlossberg": 980,
   "eden-merlot": 3058,
   "eden-rose": 1404,
@@ -2280,7 +2271,7 @@
   "jeremic-sonata-sauvignon-blanc": 2052,
   "jovic-rizling-rajnski-potrkanjski": 1330,
   "jovic-mosa-brut": 2106,
-  "jovic-rajnski-rizling": 1123,
+  "jovic-rizling-rajnski": 1390,
   "maurer-karom": 3380,
   "katanic-ester-extra-brut": 2630,
   "kis-misterija-kisova": 1820,
@@ -2557,7 +2548,6 @@
   "maurer-oszkar-karom": 3790,
   "tenuta-est-stara-ruzica": 2150,
   "todorovic-tod-grasac": 1500,
-  "vincic-amfora-grasac": 6250,
   "mv-prudence-special-edition-prokupac": 2500
  },
  "supermarket": {
@@ -2606,6 +2596,7 @@
   "molovin-inat-traminac": 1350,
   "pirg-sauvignon-blanc": 2100,
   "pirg-tamjanika": 2100,
+  "radovan-100-prokupac": 3200,
   "radovanovic-chardonnay-classique": 1800,
   "radovanovic-franc-cabernet-sauvignon": 2520,
   "braca-rajkovic-sofia-tamjanika": 1542,
@@ -2679,7 +2670,6 @@
   "deuric-probus": 2050,
   "lastar-merlot-cabernet-franc": 1934,
   "erdevik-tri-bele-koze-blanc": 900,
-  "radovan-100-prokupac": 3200,
   "janko-misija": 1580,
   "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 480,
   "coka-kastel": 544,
@@ -2788,7 +2778,6 @@
  "sahar": {
   "todorovic-sauvignon-blanc": "Suvo",
   "erdevik-marlon-delon": "Suvo",
-  "tonkovic-rose-kadarka": "Suvo",
   "virtus-marselan": "Suvo",
   "virtus-credo-beli": "Suvo",
   "virtus-credo": "Suvo",
@@ -2915,7 +2904,6 @@
   "budimir-tamjanika": "Suvo",
   "budimir-triada": "Suvo",
   "budimir-svb-rosa": "Suvo",
-  "budimir-tamjanika-budimir": "Suvo",
   "budimir-lila-prokupac-boje": "Suvo",
   "kovacevic-rosetto": "Suvo",
   "kovacevic-sauvignon": "Suvo",
@@ -3230,7 +3218,6 @@
   },
   "budimir-tamjanika": {
    "vinoteka": 1780,
-   "cerpromet": 2100,
    "wineart": 1703,
    "prodajavina": 1540,
    "idea-cenovnik": 1849
@@ -3775,6 +3762,15 @@
    "cerpromet": 1020,
    "wineart": 1122
   },
+  "radovan-100-prokupac": {
+   "vinoteka": 2870,
+   "wineart": 2772,
+   "idea-cenovnik": 3200
+  },
+  "radovan-100-tamjanika": {
+   "vinoteka": 2400,
+   "wineart": 2310
+  },
   "radovanovic-cabernet-sauvignon-classique": {
    "vinoteka": 1595,
    "winestars": 1600,
@@ -3877,7 +3873,7 @@
    "vinoteka": 1450,
    "prodajavina": 1240
   },
-  "stari-hrast-merlot-selekcija": {
+  "stari-hrast-selekcija-merlot": {
    "vinoteka": 3570,
    "vinarije": 4320
   },
@@ -4438,10 +4434,6 @@
    "maxi": 900,
    "maxi-cenovnik": 900,
    "idea-cenovnik": 1150
-  },
-  "radovan-100-prokupac": {
-   "wineart": 2772,
-   "idea-cenovnik": 3200
   },
   "aleksic-arno": {
    "prodajavina": 930,
@@ -6980,38 +6972,6 @@
    ]
   },
   {
-   "vino": "Radovan Tamjanika 100% 0.75l",
-   "napisanij": 3,
-   "cena_rsd": 2541.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 3,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Radovan",
-   "kandidaty": [
-    "radovan-tamjanika-100",
-    "radovan-tamjanika-radovan-100"
-   ]
-  },
-  {
-   "vino": "Radovan Tamjanika 2023",
-   "napisanij": 1,
-   "cena_rsd": 2400.0,
-   "litrov": null,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Radovan",
-   "kandidaty": [
-    "radovan-tamjanika-100",
-    "radovan-tamjanika-radovan-100"
-   ]
-  },
-  {
    "vino": "Radovanović cabernet sauvignon classique crveno vino 0,75l",
    "napisanij": 2,
    "cena_rsd": 1799.99,
@@ -7718,6 +7678,15 @@
    "ceny": [
     1230.0,
     2045.0
+   ],
+   "pochemu": "у магазина несколько разных вин на одну нашу строку"
+  },
+  {
+   "klyuch_vina": "budimir-tamjanika",
+   "magazin": "cerpromet",
+   "ceny": [
+    1550,
+    2100
    ],
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
@@ -9621,6 +9590,21 @@
    "hozyaistvo": "Vinarija Kovacevic",
    "urozhaj": "",
    "stranica": "https://cerpromet.com/proizvod/aurelijus_s_kovačevic",
+   "magazin": "cerpromet",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Rose Tonković 0.75 l",
+   "cena_rsd": 1040,
+   "valyuta": "RSD",
+   "opisanie": "Rose Tonkovic, suvo rose vino od autohtone sorte grozdja 100% kadarka. Vino sa Palica, sever Backe. Rucno branje selektovanog grozdja, proizvodi se u najboljim godinama. Veoma pitko i sveze vino.\nRegija. Suboticko-horgosko\nVinogorje: Palicko\nMiris: herbalan, jagoda, malina\nUkus: svez, mineralan\nServiranje: 8 - 10 c\nAlk. 14 %\nVinarija Tonkovic osnovana je 2006 godine u Backim vingradima kod Palica. Poseduje u svom vlasnistvu imaju 9 hektara vinograda u okolini Palickog jezera. U zasadu poseduju sorte grozdja: kadarku, kevedinku.",
+   "strana": "Srbija",
+   "sorta": "Kadarka",
+   "tip_vina": "Suvo",
+   "alkohol": "13.5",
+   "hozyaistvo": "Vinarija Tonkovic",
+   "urozhaj": "",
+   "stranica": "https://cerpromet.com/proizvod/rose_tonkovic",
    "magazin": "cerpromet",
    "pochemu": "дом есть, вина нет"
   },
@@ -79206,6 +79190,32 @@
    "pochemu": "дом есть, вина нет"
   },
   {
+   "vino": "Jović Rajnski Rizling (Riesling) 0,75 L",
+   "napisanij": 1,
+   "cena_rsd": 1123.0,
+   "litrov": 0.75,
+   "magazin": "dostavka",
+   "gorod": "Belgrade",
+   "magazinov": 1,
+   "kanal": "dostavka",
+   "v_prodazhe": true,
+   "hozyaistvo": "Jović",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Jović Rajnski Rizling (Riesling) Potrkanjski 0,75 L",
+   "napisanij": 1,
+   "cena_rsd": 1123.0,
+   "litrov": 0.75,
+   "magazin": "dostavka",
+   "gorod": "Belgrade",
+   "magazinov": 1,
+   "kanal": "dostavka",
+   "v_prodazhe": true,
+   "hozyaistvo": "Jović",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
    "vino": "Jović Riesling 2022",
    "napisanij": 1,
    "cena_rsd": 1095.0,
@@ -113214,6 +113224,19 @@
    "pochemu": "дом есть, вина нет"
   },
   {
+   "vino": "Radovan Tamjanika 2023",
+   "napisanij": 1,
+   "cena_rsd": 2400.0,
+   "litrov": null,
+   "magazin": "dostavka",
+   "gorod": "Belgrade",
+   "magazinov": 1,
+   "kanal": "dostavka",
+   "v_prodazhe": true,
+   "hozyaistvo": "Radovan",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
    "vino": "Radovan Tamjanika, Vinarija Radovan, Starci - Aleksandrovac Župa",
    "napisanij": 1,
    "cena_rsd": 1390.0,
@@ -127134,6 +127157,19 @@
    "kanal": "dostavka",
    "v_prodazhe": true,
    "hozyaistvo": "vinogradi, Palić",
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Tonković Rose 0.75l",
+   "napisanij": 2,
+   "cena_rsd": 1379.5,
+   "litrov": 0.75,
+   "magazin": "dostavka",
+   "gorod": "Belgrade",
+   "magazinov": 2,
+   "kanal": "dostavka",
+   "v_prodazhe": true,
+   "hozyaistvo": "Tonković",
    "pochemu": "дом есть, вина нет"
   },
   {

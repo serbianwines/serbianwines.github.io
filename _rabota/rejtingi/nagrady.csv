@@ -1564,7 +1564,7 @@ deuric-classic-chardonnay,Deurić,Classic Chardonnay,biwc,2020,серебро,sr
 deuric-sauvignon-blanc,Deurić,Sauvignon blanc,biwc,2020,серебро,srebro,2018,white,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
 doja-prokupac,Doja,Prokupac,biwc,2020,серебро,srebro,2017,red,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
 doja-chardonnay-pinot-grigio,Doja,Chardonnay & Pinot Grigio,biwc,2020,серебро,srebro,2018,white,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
-jovic-potrkanjski-dionizije,Jović,Potrkanjski Dionizije,biwc,2020,серебро,srebro,2017,red,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
+jovic-dionizije-potrkanjski,Jović,Dionizije Potrkanjski,biwc,2020,серебро,srebro,2017,red,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
 kis-kisov-rose,Kiš,Kišov Rose,biwc,2020,серебро,srebro,2019,rose,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
 kis-kisovo-penusavo-vino,Kiš,Kišovo Penušavo Vino,biwc,2020,серебро,srebro,2019,sparkling,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
 kis-kisov-chardonnay-barrique,Kiš,Kišov Chardonnay barrique,biwc,2020,серебро,srebro,2019,white,"balkanswine.eu/competition/results-2020/, BIWC 2020",2026-08-28
@@ -2048,7 +2048,7 @@ despotika-dokaz,Despotika,Dokaz,biwc,2024,серебро,srebro,2021,red,"balkan
 rnjak-crveni-puz,Rnjak,CRVENI PUŽ,biwc,2024,серебро,srebro,2019,red,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
 rnjak-chardonnay,Rnjak,CHARDONNAY,biwc,2024,серебро,srebro,2023,white,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
 verkat-frankovka,Verkat,Frankovka,biwc,2024,серебро,srebro,2022,red,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
-jovic-potrkanjski-dionizije,Jović,POTRKANJSKI DIONIZIJE,biwc,2024,серебро,srebro,2021,red,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
+jovic-dionizije-potrkanjski,Jović,Dionizije Potrkanjski,biwc,2024,серебро,srebro,2021,red,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
 jovic-rizling-rajnski-potrkanjski,Jović,Rizling Rajnski Potrkanjski,biwc,2024,серебро,srebro,2021,white,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
 doja-breg-cabernet-sauvignon,Doja,Breg Cabernet Sauvignon,biwc,2024,серебро,srebro,2020,red,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
 doja-chardonnay-barrique,Doja,Chardonnay Barrique,biwc,2024,серебро,srebro,2022,white,"balkanswine.eu/competition/results-2024/, BIWC 2024",2026-08-28
@@ -2880,7 +2880,7 @@ radovanovic-franc-cabernet-sauvignon-barrique,Radovanović,Franc Cabernet Sauvig
 cilic-onyx-crveno,Cilić,Onyx crveno,vino.rs,2019,лучшее красное,9,2017,red,"vino.rs, годовой тест 2019",2026-08-28
 ivanovic-prokupac,Ivanović,Prokupac,vino.rs,2019,лучшее красное,10,2017,red,"vino.rs, годовой тест 2019",2026-08-28
 cilic-onyx-belo,Cilić,Onyx belo,vino.rs,2019,лучшее белое,1,2017,white,"vino.rs, годовой тест 2019",2026-08-28
-zvonko-bogdan-icon-albus-campana,Zvonko Bogdan,Icon Albus Campana,vino.rs,2019,лучшее белое,2,2017,white,"vino.rs, годовой тест 2019",2026-08-28
+zvonko-bogdan-icon-campana-albus,Zvonko Bogdan,Icon Campana Albus,vino.rs,2019,лучшее белое,2,2017,white,"vino.rs, годовой тест 2019",2026-08-28
 dukay-sagmeister-kew-furmint,Dukay-Sagmeister,Kew Furmint,vino.rs,2019,лучшее белое,3,2016,white,"vino.rs, годовой тест 2019",2026-08-28
 temet-tri-morave-rezerva-belo,Temet,Tri Morave rezerva belo,vino.rs,2019,лучшее белое,4,2016,white,"vino.rs, годовой тест 2019",2026-08-28
 despotika-beskraj,Despotika,Beskraj,vino.rs,2019,лучшее белое,5,2017,white,"vino.rs, годовой тест 2019",2026-08-28
@@ -2892,7 +2892,7 @@ jelic-morava,Jelić,Morava,vino.rs,2019,лучшее белое,10,2018,white,"v
 vista-hill-premium-rose,Vista Hill,Premium Rosé,vino.rs,2019,лучшее розе,1,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
 zvonko-bogdan-rose-sec,Zvonko Bogdan,Rose Sec,vino.rs,2019,лучшее розе,2,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
 despotika-nemir,Despotika,Nemir,vino.rs,2019,лучшее розе,3,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
-tonkovic-rose-kadarka,Tonković,Rose Kadarka,vino.rs,2019,лучшее розе,4,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
+tonkovic-kadarka-rose,Tonković,Kadarka Rosé,vino.rs,2019,лучшее розе,4,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
 erdevik-roza-nostra,Erdevik,Roza Nostra,vino.rs,2019,лучшее розе,5,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
 matalj-dusica-rose,Matalj,Dušica Rose,vino.rs,2019,лучшее розе,6,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
 trivanovic-rose,Trivanović,Rose,vino.rs,2019,лучшее розе,7,2018,rose,"vino.rs, годовой тест 2019",2026-08-28
@@ -3216,8 +3216,8 @@ cilic-manifest,Cilić,Manifest,vino.rs,2021,лучшее красное,2,2017,r
 zvonko-bogdan-icon-campana-rubimus,Zvonko Bogdan,Icon Campana Rubimus,vino.rs,2021,лучшее красное,3,2019,red,"vino.rs, годовой тест 2021",2026-08-28
 matalj-kremen-kamen,Matalj,Kremen Kamen,vino.rs,2021,лучшее красное,4,2017,red,"vino.rs, годовой тест 2021",2026-08-28
 ivanovic-gaga,Ivanović,Gaga,vino.rs,2021,лучшее красное,5,2017,red,"vino.rs, годовой тест 2021",2026-08-28
-dukay-sagmeister-kadarka-kanias,Dukay-Sagmeister,Kadarka Kanias,vino.rs,2021,лучшее красное,6,2017,red,"vino.rs, годовой тест 2021",2026-08-28
-stari-hrast-merlot-selekcija,Podrum Stari Hrast,Merlot Selekcija,vino.rs,2021,лучшее красное,7,2017,red,"vino.rs, годовой тест 2021",2026-08-28
+dukay-sagmeister-kanias-kadarka,Dukay-Sagmeister,Kanias Kadarka,vino.rs,2021,лучшее красное,6,2017,red,"vino.rs, годовой тест 2021",2026-08-28
+stari-hrast-selekcija-merlot,Podrum Stari Hrast,Selekcija Merlot,vino.rs,2021,лучшее красное,7,2017,red,"vino.rs, годовой тест 2021",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvee No1,vino.rs,2021,лучшее красное,8,2019,red,"vino.rs, годовой тест 2021",2026-08-28
 vinis-merlot,Vinis,Merlot,vino.rs,2021,лучшее красное,9,2016,red,"vino.rs, годовой тест 2021",2026-08-28
 lastar-pinot-noir,Lastar,Pinot Noir,vino.rs,2021,лучшее красное,10,2017,red,"vino.rs, годовой тест 2021",2026-08-28
@@ -3252,7 +3252,7 @@ aleksandrovic-trijumf-late-harvest,Aleksandrović,Trijumf Late Harvest,vino.rs,2
 kis-bermet-black-label,Kiš,Bermet Black Label,vino.rs,2021,лучшее сладкое или полусладкое,4,2018,,"vino.rs, годовой тест 2021",2026-08-28
 despotika-morava-kasna-berba,Despotika,Morava kasna berba,vino.rs,2021,лучшее сладкое или полусладкое,5,2020,,"vino.rs, годовой тест 2021",2026-08-28
 ivanovic-gaga,Ivanović,Gaga,vino.rs,2021,"лучшее красное, местные сорта",1,2017,red,"vino.rs, годовой тест 2021",2026-08-28
-dukay-sagmeister-kadarka-kanias,Dukay-Sagmeister,Kadarka Kanias,vino.rs,2021,"лучшее красное, местные сорта",2,2017,red,"vino.rs, годовой тест 2021",2026-08-28
+dukay-sagmeister-kanias-kadarka,Dukay-Sagmeister,Kanias Kadarka,vino.rs,2021,"лучшее красное, местные сорта",2,2017,red,"vino.rs, годовой тест 2021",2026-08-28
 maurer-gravitacija,Maurer,Gravitacija,vino.rs,2021,"лучшее красное, местные сорта",3,2020,red,"vino.rs, годовой тест 2021",2026-08-28
 dukay-sagmeister-kew-kadarka,Dukay-Sagmeister,Kew Kadarka,vino.rs,2021,"лучшее красное, местные сорта",4,2017,red,"vino.rs, годовой тест 2021",2026-08-28
 jovic-vranac-potrkanjski,Jović,Vranac potrkanjski,vino.rs,2021,"лучшее красное, местные сорта",5,2018,red,"vino.rs, годовой тест 2021",2026-08-28
@@ -3265,13 +3265,13 @@ deuric-severna-morava,Deurić,Severna Morava,vino.rs,2021,"лучшее бело
 dukay-sagmeister-kew-furmint,Dukay-Sagmeister,Kew Furmint,vino.rs,2021,"лучшее белое, местные сорта",2,2017,white,"vino.rs, годовой тест 2021",2026-08-28
 miletic-impresija,Miletić,Impresija,vino.rs,2021,"лучшее белое, местные сорта",3,2019,white,"vino.rs, годовой тест 2021",2026-08-28
 temet-tri-morave-rezerva-belo,Temet,Tri Morave rezerva belo,vino.rs,2021,"лучшее белое, местные сорта",4,2019,white,"vino.rs, годовой тест 2021",2026-08-28
-dukay-sagmeister-furmint-kanias,Dukay-Sagmeister,Furmint Kanias,vino.rs,2021,"лучшее белое, местные сорта",5,2017,white,"vino.rs, годовой тест 2021",2026-08-28
+dukay-sagmeister-kanias-furmint,Dukay-Sagmeister,Kanias Furmint,vino.rs,2021,"лучшее белое, местные сорта",5,2017,white,"vino.rs, годовой тест 2021",2026-08-28
 milijan-jelic-morava,Milijan Jelić,Morava,vino.rs,2021,"лучшее белое, местные сорта",6,2019,white,"vino.rs, годовой тест 2021",2026-08-28
 vinum-grasac-beli,Vinum,Grašac beli,vino.rs,2021,"лучшее белое, местные сорта",7,2020,white,"vino.rs, годовой тест 2021",2026-08-28
 doja-tamjanika,Doja,Tamjanika,vino.rs,2021,"лучшее белое, местные сорта",8,2020,white,"vino.rs, годовой тест 2021",2026-08-28
 lastar-tamjanika,Lastar,Tamjanika,vino.rs,2021,"лучшее белое, местные сорта",9,2020,white,"vino.rs, годовой тест 2021",2026-08-28
 aleksandar-todorovic-carolija,Aleksandar Todorović,Čarolija,vino.rs,2021,"лучшее белое, местные сорта",10,2018,white,"vino.rs, годовой тест 2021",2026-08-28
-dukay-sagmeister-kadarka-kanias,Dukay-Sagmeister,Kadarka Kanias,vino.rs,2021,"лучшее красное, органика",1,2017,red,"vino.rs, годовой тест 2021",2026-08-28
+dukay-sagmeister-kanias-kadarka,Dukay-Sagmeister,Kanias Kadarka,vino.rs,2021,"лучшее красное, органика",1,2017,red,"vino.rs, годовой тест 2021",2026-08-28
 maurer-gravitacija,Maurer,Gravitacija,vino.rs,2021,"лучшее красное, органика",2,2020,red,"vino.rs, годовой тест 2021",2026-08-28
 imperator-maximianvs,Vinarija Imperator,Maximianvs,vino.rs,2021,"лучшее красное, органика",3,2017,red,"vino.rs, годовой тест 2021",2026-08-28
 dukay-sagmeister-kew-kadarka,Dukay-Sagmeister,Kew Kadarka,vino.rs,2021,"лучшее красное, органика",4,2017,red,"vino.rs, годовой тест 2021",2026-08-28
@@ -3285,7 +3285,7 @@ imperator-valerius,Vinarija Imperator,Valerius,vino.rs,2021,"лучшее бел
 dukay-sagmeister-kew-furmint,Dukay-Sagmeister,Kew Furmint,vino.rs,2021,"лучшее белое, органика",2,2017,white,"vino.rs, годовой тест 2021",2026-08-28
 bikicki-traminac,Bikicki,Traminac,vino.rs,2021,"лучшее белое, органика",3,2017,white,"vino.rs, годовой тест 2021",2026-08-28
 maurer-ezerjo,Maurer,Ezerjo,vino.rs,2021,"лучшее белое, органика",4,2018,white,"vino.rs, годовой тест 2021",2026-08-28
-dukay-sagmeister-furmint-kanias,Dukay-Sagmeister,Furmint Kanias,vino.rs,2021,"лучшее белое, органика",5,2017,white,"vino.rs, годовой тест 2021",2026-08-28
+dukay-sagmeister-kanias-furmint,Dukay-Sagmeister,Kanias Furmint,vino.rs,2021,"лучшее белое, органика",5,2017,white,"vino.rs, годовой тест 2021",2026-08-28
 aleksandar-todorovic-carolija,Aleksandar Todorović,Čarolija,vino.rs,2021,"лучшее белое, органика",6,2018,white,"vino.rs, годовой тест 2021",2026-08-28
 plavinci-selena,Plavinci,Selena,vino.rs,2021,"лучшее белое, органика",7,2020,white,"vino.rs, годовой тест 2021",2026-08-28
 maurer-karom,Maurer,Karom,vino.rs,2021,"лучшее белое, органика",8,2019,white,"vino.rs, годовой тест 2021",2026-08-28
@@ -3389,7 +3389,7 @@ deuric-aksiom-beli,Deurić,Aksiom beli,vino.rs,2022,лучшее белое,1,20
 zvonko-bogdan-pinot-blanc,Zvonko Bogdan,Pinot Blanc,vino.rs,2022,лучшее белое,2,2019,white,"vino.rs, годовой тест 2022",2026-08-28
 matijasevic-sovinoa-fume-blanc,Matijašević Vinogradi,SoviNoa Fume Blanc,vino.rs,2022,лучшее белое,3,2020,white,"vino.rs, годовой тест 2022",2026-08-28
 temet-ergo-white,Temet,Ergo White,vino.rs,2022,лучшее белое,4,2018,white,"vino.rs, годовой тест 2022",2026-08-28
-dukay-sagmeister-furmint-kanias,Dukay-Sagmeister,Furmint Kanias,vino.rs,2022,лучшее белое,5,2019,white,"vino.rs, годовой тест 2022",2026-08-28
+dukay-sagmeister-kanias-furmint,Dukay-Sagmeister,Kanias Furmint,vino.rs,2022,лучшее белое,5,2019,white,"vino.rs, годовой тест 2022",2026-08-28
 chateau-prince-velika-morava,Château Prince,Velika Morava,vino.rs,2022,лучшее белое,6,2021,white,"vino.rs, годовой тест 2022",2026-08-28
 budimir-margus-margi,Budimir,Margus Margi,vino.rs,2022,лучшее белое,7,2013,white,"vino.rs, годовой тест 2022",2026-08-28
 trivanovic-pinot-grigio,Trivanović,Pinot Grigio,vino.rs,2022,лучшее белое,8,2021,white,"vino.rs, годовой тест 2022",2026-08-28
@@ -3399,7 +3399,7 @@ temet-ergo-rose,Temet,Ergo Rose,vino.rs,2022,лучшее розе,1,2021,rose,"
 trivanovic-lex,Trivanović,Lex,vino.rs,2022,лучшее розе,2,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
 zvonko-bogdan-rose-sec,Zvonko Bogdan,Rose Sec,vino.rs,2022,лучшее розе,3,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
 stemina-mina,Stemina winery,Mina,vino.rs,2022,лучшее розе,4,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
-dumo-rose-pinot-noir,Vinarija Dumo,Rose Pinot Noir,vino.rs,2022,лучшее розе,5,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
+dumo-pinot-noir-rose,Vinarija Dumo,Pinot Noir Rosé,vino.rs,2022,лучшее розе,5,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
 budimir-triada-rose,Budimir,Triada Rose,vino.rs,2022,лучшее розе,6,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
 durdic-simonida-mlada,Đurđić,Simonida Mlada,vino.rs,2022,лучшее розе,7,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
 tri-mede-i-oblak-pagan-rose,Tri Medje I Oblak,Pagan Rose,vino.rs,2022,лучшее розе,8,2021,rose,"vino.rs, годовой тест 2022",2026-08-28
@@ -3423,17 +3423,17 @@ aleksandrovic-trijumf-late-harvest,Aleksandrović,Trijumf Late Harvest,vino.rs,2
 braca-rajkovic-prince-rskavac,Braća Rajković,Prince Rskavac,vino.rs,2022,"лучшее красное, местные сорта",1,2018,red,"vino.rs, годовой тест 2022",2026-08-28
 dukay-sagmeister-kew-kadarka,Dukay-Sagmeister,Kew Kadarka,vino.rs,2022,"лучшее красное, местные сорта",2,2019,red,"vino.rs, годовой тест 2022",2026-08-28
 virtus-prokupac-733,Virtus,Prokupac 733,vino.rs,2022,"лучшее красное, местные сорта",3,2017,red,"vino.rs, годовой тест 2022",2026-08-28
-yotta-prokupac-reserve,Yotta,Prokupac Reserve,vino.rs,2022,"лучшее красное, местные сорта",4,2017,red,"vino.rs, годовой тест 2022",2026-08-28
-radovan-prokupac-100,Vinarija Radovan,prokupac 100%,vino.rs,2022,"лучшее красное, местные сорта",5,2019,red,"vino.rs, годовой тест 2022",2026-08-28
+yotta-reserve-prokupac,Yotta,Reserve Prokupac,vino.rs,2022,"лучшее красное, местные сорта",4,2017,red,"vino.rs, годовой тест 2022",2026-08-28
+radovan-100-prokupac,Vinarija Radovan,100% Prokupac,vino.rs,2022,"лучшее красное, местные сорта",5,2019,red,"vino.rs, годовой тест 2022",2026-08-28
 milanovic-probus,Milanović,Probus,vino.rs,2022,"лучшее красное, местные сорта",6,2020,red,"vino.rs, годовой тест 2022",2026-08-28
 aleksandrovic-prokupac,Aleksandrović,Prokupac,vino.rs,2022,"лучшее красное, местные сорта",7,2019,red,"vino.rs, годовой тест 2022",2026-08-28
-dukay-sagmeister-kadarka-devas,Dukay-Sagmeister,Kadarka Devas,vino.rs,2022,"лучшее красное, местные сорта",8,2019,red,"vino.rs, годовой тест 2022",2026-08-28
+dukay-sagmeister-devas-kadarka,Dukay-Sagmeister,Devas Kadarka,vino.rs,2022,"лучшее красное, местные сорта",8,2019,red,"vino.rs, годовой тест 2022",2026-08-28
 durdic-probus,Đurđić,Probus,vino.rs,2022,"лучшее красное, местные сорта",9,2019,red,"vino.rs, годовой тест 2022",2026-08-28
 maurer-gravitacija,Maurer,Gravitacija,vino.rs,2022,"лучшее красное, местные сорта",10,2021,red,"vino.rs, годовой тест 2022",2026-08-28
 chateau-prince-velika-morava,Château Prince,Velika Morava,vino.rs,2022,"лучшее белое, местные сорта",1,2021,white,"vino.rs, годовой тест 2022",2026-08-28
-dukay-sagmeister-furmint-kanias,Dukay-Sagmeister,Furmint Kanias,vino.rs,2022,"лучшее белое, местные сорта",2,2019,white,"vino.rs, годовой тест 2022",2026-08-28
+dukay-sagmeister-kanias-furmint,Dukay-Sagmeister,Kanias Furmint,vino.rs,2022,"лучшее белое, местные сорта",2,2019,white,"vino.rs, годовой тест 2022",2026-08-28
 verkat-grasac-40,Verkat,Grašac 4.0,vino.rs,2022,"лучшее белое, местные сорта",3,2021,white,"vino.rs, годовой тест 2022",2026-08-28
-radovan-tamjanika-100,Vinarija Radovan,Tamjanika 100%,vino.rs,2022,"лучшее белое, местные сорта",4,2021,white,"vino.rs, годовой тест 2022",2026-08-28
+radovan-100-tamjanika,Vinarija Radovan,100% Tamjanika,vino.rs,2022,"лучшее белое, местные сорта",4,2021,white,"vino.rs, годовой тест 2022",2026-08-28
 deuric-severna-morava,Deurić,Severna Morava,vino.rs,2022,"лучшее белое, местные сорта",5,2021,white,"vino.rs, годовой тест 2022",2026-08-28
 vinum-grasac,Vinum,Grašac,vino.rs,2022,"лучшее белое, местные сорта",6,2021,white,"vino.rs, годовой тест 2022",2026-08-28
 matijasevic-belina,Matijašević Vinogradi,Belina,vino.rs,2022,"лучшее белое, местные сорта",7,2020,white,"vino.rs, годовой тест 2022",2026-08-28
@@ -3452,9 +3452,9 @@ kostic-prokupac-barrique,Kostić,Prokupac Barrique,vino.rs,2022,"лучшее к
 maurer-gravitacija,Maurer,Gravitacija,vino.rs,2022,"лучшее красное, органика",10,2021,red,"vino.rs, годовой тест 2022",2026-08-28
 imperator-gratianus,Vinarija Imperator,Gratianus,vino.rs,2022,"лучшее белое, органика",1,2018,white,"vino.rs, годовой тест 2022",2026-08-28
 francuska-estelle-et-cyrille-bongiraud-tajna,Francuska vinarija,Tajna,vino.rs,2022,"лучшее белое, органика",2,2019,white,"vino.rs, годовой тест 2022",2026-08-28
-dukay-sagmeister-furmint-kanias,Dukay-Sagmeister,Furmint Kanias,vino.rs,2022,"лучшее белое, органика",3,2019,white,"vino.rs, годовой тест 2022",2026-08-28
+dukay-sagmeister-kanias-furmint,Dukay-Sagmeister,Kanias Furmint,vino.rs,2022,"лучшее белое, органика",3,2019,white,"vino.rs, годовой тест 2022",2026-08-28
 robert-rudinski-rizling,Robert Rudinski,Rizling,vino.rs,2022,"лучшее белое, органика",4,2018,white,"vino.rs, годовой тест 2022",2026-08-28
-dukay-sagmeister-furmint-devas,Dukay-Sagmeister,Furmint Devas,vino.rs,2022,"лучшее белое, органика",5,2018,white,"vino.rs, годовой тест 2022",2026-08-28
+dukay-sagmeister-devas-furmint,Dukay-Sagmeister,Devas Furmint,vino.rs,2022,"лучшее белое, органика",5,2018,white,"vino.rs, годовой тест 2022",2026-08-28
 maurer-tamjanika,Maurer,Tamjanika,vino.rs,2022,"лучшее белое, органика",6,2020,white,"vino.rs, годовой тест 2022",2026-08-28
 aleksandar-todorovic-tamjanika,Aleksandar Todorović,Tamjanika,vino.rs,2022,"лучшее белое, органика",7,2021,white,"vino.rs, годовой тест 2022",2026-08-28
 bikicki-moma,Bikicki,Moma,vino.rs,2022,"лучшее белое, органика",8,2020,white,"vino.rs, годовой тест 2022",2026-08-28
@@ -3467,7 +3467,7 @@ dukay-sagmeister-lh-zero,Dukay-Sagmeister,LH Zero,vino.rs,2022,лучшее ор
 bojan-basa-jantar,Bojan Basa,Jantar,vino.rs,2022,лучшее оранж,5,2019,,"vino.rs, годовой тест 2022",2026-08-28
 maurer-fodor,Maurer,Fodor,vino.rs,2022,лучшее оранж,6,2020,,"vino.rs, годовой тест 2022",2026-08-28
 bikicki-uncensored,Bikicki,Uncensored,vino.rs,2022,лучшее оранж,7,2020,,"vino.rs, годовой тест 2022",2026-08-28
-vincic-grasac-amfora,Vinčić,Grašac Amfora,vino.rs,2022,лучшее оранж,8,2017,,"vino.rs, годовой тест 2022",2026-08-28
+vincic-amfora-grasac,Vinčić,Amfora Grašac,vino.rs,2022,лучшее оранж,8,2017,,"vino.rs, годовой тест 2022",2026-08-28
 aleksandar-todorovic-333,Aleksandar Todorović,333,vino.rs,2022,лучшее оранж,9,2020,,"vino.rs, годовой тест 2022",2026-08-28
 maurer-orion,Maurer,Orion,vino.rs,2022,лучшее оранж,10,2020,,"vino.rs, годовой тест 2022",2026-08-28
 zarkovic-merlot,Žarković,Merlot,vino.rs,2022,"за свои деньги, красное",1,2019,red,"vino.rs, годовой тест 2022",2026-08-28
@@ -3622,7 +3622,7 @@ dukay-sagmeister-furmintus,Dukay-Sagmeister,Furmintus,vino.rs,2023,"лучшее
 lakicevic-picus,Lakićević,Picus,vino.rs,2023,"лучшее белое, органика",6,2021,white,"vino.rs, годовой тест 2023",2026-08-28
 bikicki-moma,Bikicki,Moma,vino.rs,2023,"лучшее белое, органика",7,2021,white,"vino.rs, годовой тест 2023",2026-08-28
 dalia-trac,Dalia,Trač,vino.rs,2023,"лучшее белое, органика",8,2022,white,"vino.rs, годовой тест 2023",2026-08-28
-jovic-rajnski-rizling,Jović,Rajnski rizling,vino.rs,2023,"лучшее белое, органика",9,2020,white,"vino.rs, годовой тест 2023",2026-08-28
+jovic-rizling-rajnski,Jović,Rizling Rajnski,vino.rs,2023,"лучшее белое, органика",9,2020,white,"vino.rs, годовой тест 2023",2026-08-28
 tenuta-est-chardonnay,Tenuta Est Winery,Chardonnay,vino.rs,2023,"лучшее белое, органика",10,2021,white,"vino.rs, годовой тест 2023",2026-08-28
 milijan-jelic-morange,Milijan Jelić,Morange,vino.rs,2023,лучшее оранж,1,2018,,"vino.rs, годовой тест 2023",2026-08-28
 vincic-amfora-grasac,Vinčić,Amfora Grašac,vino.rs,2023,лучшее оранж,2,2017,,"vino.rs, годовой тест 2023",2026-08-28

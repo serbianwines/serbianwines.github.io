@@ -217,12 +217,17 @@ def tovary(slag, razdel):
 
 
 def litrov(imya):
-    """Объём из имени: «0.75l», «1L», «500 ml». Нет — значит нет."""
+    """Объём из имени: «0.75l», «1L», «500 ml», «0,75». Нет — значит нет.
+
+    Запись без буквы читается только в узком виде — «0,5», «0.75»,
+    «1,5»: одиночное число в имени бывает и не объёмом («Probus 276»).
+    """
     sovpalo = OBEM.search(imya or "")
-    if not sovpalo:
-        return None
-    chislo = float(sovpalo.group(1).replace(",", "."))
-    return chislo / 1000 if sovpalo.group(2).lower() == "ml" else chislo
+    if sovpalo:
+        chislo = float(sovpalo.group(1).replace(",", "."))
+        return chislo / 1000 if sovpalo.group(2).lower() == "ml" else chislo
+    goloe = BEZ_BUKVY.search(imya or "")
+    return float(goloe.group(1).replace(",", ".")) if goloe else None
 
 
 def vina_ploshchadki(slag, lavka):
@@ -251,12 +256,49 @@ def vina_ploshchadki(slag, lavka):
 
 DIAKRITIKA = str.maketrans({"č": "c", "ć": "c", "š": "s", "ž": "z", "đ": "dj",
                             "Č": "c", "Ć": "c", "Š": "s", "Ž": "z", "Đ": "dj"})
+# Объём и урожай в имени товара: свойства бутылки, не имя вина.
+# Объём пишут и без буквы — «Burma Probus 0.75», — и такую запись надо
+# снимать тоже, иначе то же вино с «0.75l» остаётся другим товаром.
+BUTYLKA = re.compile(r"\b\d+(?:[.,]\d+)?\s*(?:l|ml|cl)\b|"
+                     r"\b(?:19[5-9]\d|20[0-2]\d)\b|"
+                     r"\b(?:0[.,]\d+|1[.,]5)\b", re.I)
+# Объём без буквы: та же запись, но прочитанная как литры.
+BEZ_BUKVY = re.compile(r"\b(0[.,]\d+|1[.,]5)\b")
 
 
 def prosto(s):
     """Имя без регистра, диакритики и знаков: для грубого сравнения."""
     return re.sub(r"[^a-z0-9]+", " ",
                   (s or "").lower().translate(DIAKRITIKA)).strip()
+
+
+def klyuch_tovara(imya):
+    """Ключ одного вина: слова имени, без порядка, объёма и урожая.
+
+    Лавки пишут одно вино по-разному: «Matalj Crna Tamjanika 0.75 l»,
+    «Matalj - Crna tamjanika», «Crna Tamjanika Matalj», «Vino Matalj
+    crna tamjanika 0,75». Ключом сырого имени они остаются семью
+    разными товарами, и дальше, в сведении, предохранитель видит семь
+    цен на одну нашу строку, принимает разброс лавок за разные вина
+    и снимает цену вовсе. Так пропали двадцать шесть цен, стоявших
+    прежде, — «Crna Tamjanika» Маталя, «Morava» Грумена, «Cabernet
+    Sauvignon» Арсенијевића.
+
+    У Maxi ту же работу делает штрихкод, у винотек его нет. Порядок
+    слов отбрасывается нарочно: «Merlot Barrique» и «Barrique Merlot» —
+    одно вино, и это же правило уже действует в `svesti-ceny.py`.
+    Цвет и сорт при этом остаются словами имени и вина различают.
+    """
+    ochishchennoe = BUTYLKA.sub(" ", imya or "")
+    slova = sorted(set(prosto(ochishchennoe).split()))
+    # Объём снят из слов, но в ключ входит: полубутылка — другой товар
+    # и другая цена. Первая редакция ключа его отбрасывала, и «Imperator
+    # Livian» слился с «Imperator Livian 0,5l», а «Kiš Bermet Beli» —
+    # с десятью написаниями полулитровой бутылки; обе строки после этого
+    # отсеивались правилом «не та бутылка», и цена пропадала.
+    # Имя без объёма считается обычной бутылкой: так же читает объём
+    # и сведение (`litrov or 0.75`).
+    return "%s|%s" % (" ".join(slova), litrov(imya) or 0.75)
 
 
 def nashi_doma():
@@ -316,13 +358,17 @@ def main():
     # ключом служить не может.
     po_imeni = collections.defaultdict(list)
     for zapis in stroki:
-        po_imeni[zapis["vino"]].append(zapis)
+        po_imeni[klyuch_tovara(zapis["vino"])].append(zapis)
     vina = []
-    for imya, spisok in po_imeni.items():
+    for _, spisok in po_imeni.items():
+        # Показывается то написание, которым лавки зовут вино чаще
+        # всего: оно же обычно и самое полное.
+        imya = collections.Counter(z["vino"] for z in spisok).most_common(1)[0][0]
         ceny = [z["cena_rsd"] for z in spisok if z["cena_rsd"]]
         obrazec = spisok[0]
         vina.append({
             "vino": imya,
+            "napisanij": len({z["vino"] for z in spisok}),
             "cena_rsd": round(statistics.median(ceny), 2) if ceny else None,
             "litrov": obrazec["litrov"],
             "magazin": obrazec["magazin"],

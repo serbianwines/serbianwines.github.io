@@ -838,10 +838,13 @@
   "aleksandrovic-trijumf-noir-brut": 1,
   "aleksandrovic-aberdar-superior": 1,
   "aleksandrovic-finesa-rose": 1,
+  "aleksic-amanet-vranac": 1,
+  "aleksic-arno-sauvignon-blanc": 1,
   "aleksic-bonaca-chardonnay": 1,
-  "aleksic-bonaca-limited": 1,
+  "aleksic-limited-bonaca-chardonnay": 1,
   "aleksic-kardas-cabernet-sauvignon": 1,
   "aleksic-mozaik-rose": 1,
+  "aleksic-sevdah-smederevka-sauvignon-blanc": 1,
   "aleksic-temperament-merlot": 1,
   "aleksic-zuti-cvet-penusavo": 1,
   "aleksic-zuti-cvet-tamjanika": 1,
@@ -860,7 +863,9 @@
   "belo-brdo-pinot-noir-black-label-limited-edition": 1,
   "belo-brdo-riesling-black-label-limited-edition": 1,
   "belo-brdo-cabernet-franc": 1,
+  "belo-brdo-cabernet-franc-black-label": 1,
   "belo-brdo-cabernet-sauvignon": 1,
+  "belo-brdo-marselan-black-label": 1,
   "belo-brdo-limited-edition-merlot": 1,
   "belo-brdo-pinot-noir": 1,
   "belo-brdo-riesling": 1,
@@ -874,6 +879,7 @@
   "bora-frenk": 1,
   "braca-rajkovic-prince": 1,
   "braca-rajkovic-sofia": 1,
+  "braca-rajkovic-tamjanika-kasna-berba": 1,
   "budimir-margvs-margi-riesling": 1,
   "burma-fruska-gora-neoplanta": 1,
   "cvetkovic-ferdinand": 1,
@@ -881,6 +887,7 @@
   "komazec-cabernet-franc": 1,
   "matalj-kremen-cabernet-sauvignon": 1,
   "probus-chardonnay": 1,
+  "chateau-prince-princess-chardonnay": 1,
   "chateau-prince-shiraz-premium": 1,
   "chateau-prince-velika-morava": 1,
   "chichateau-chi-chardonnay": 1,
@@ -896,8 +903,10 @@
   "delena-sweet-lena": 1,
   "despotika-beskraj-sauvignon-blanc": 1,
   "despotika-dodir-tamjanika": 1,
+  "despotika-dodir-muscat-ottonel-tamjanika": 1,
   "despotika-dokaz-cabernet-sauvignon": 1,
   "despotika-krunski-dokaz-cabernet-sauvignon": 1,
+  "despotika-nebo-riesling-pinot-blanc": 1,
   "despotika-nemir-rose": 1,
   "despotika-zmajeviti-prokupac": 1,
   "deuric-enigma": 1,
@@ -914,10 +923,12 @@
   "do-kraja-sveta-mlad-mesec-belo": 1,
   "do-kraja-sveta-sauvignon-blanc": 1,
   "do-kraja-sveta-sansa": 1,
+  "doja-breg-merlot": 1,
   "a-rajkovic-domine-crtam": 1,
   "aleksandar-todorovic-doodle-white": 1,
   "draganic-cavalier-cuvee": 1,
   "draganic-kontura-chardonnay": 1,
+  "draganic-miracolo-sangiovese-superiore": 1,
   "draganic-trivina": 1,
   "draskovic-beli-pinot": 1,
   "dremina-blanc-coupage": 1,
@@ -935,6 +946,7 @@
   "fragaria-white-jagoda": 1,
   "fleur-doranger-rajnski-rizling": 1,
   "maurer-fodor": 1,
+  "fragaria-red-votazi": 1,
   "draskovic-frankovka": 1,
   "frug-cabernet-sauvignon-signum": 1,
   "frug-rose": 1,
@@ -953,6 +965,7 @@
   "sijacki-supercelijski-grasac": 1,
   "imperator-grasac": 1,
   "grumen-beli": 1,
+  "grumen-selekcija-chardonnay": 1,
   "grumen-morava": 1,
   "grumen-petit-verdot-rezerva": 1,
   "grumen-rhine-riesling": 1,
@@ -974,6 +987,8 @@
   "ivanovic-gaga": 1,
   "jovic-sauvignon": 1,
   "janko-sauvignon-blanc": 1,
+  "jeremic-kanon-merlot-cabernet-sauvignon": 1,
+  "jeremic-kanon-superior-merlot-cabernet-sauvignon": 1,
   "jeremic-sonata-icone": 1,
   "jeremic-sonata-sauvignon-blanc": 1,
   "jovic-rizling-rajnski-potrkanjski": 1,
@@ -1015,7 +1030,10 @@
   "matalj-crna-tamjanika": 1,
   "matalj-terasa": 1,
   "matijasevic-tri-doline": 1,
+  "matijasevic-7-hrastova-cuvee-belo": 1,
   "matijasevic-sedam-hrastova-cuvee-crveno": 1,
+  "matijasevic-sovinoa-sauvignon-blanc": 1,
+  "matijasevic-cukundeda-prokupac": 1,
   "mcculloch-cabernet-franc-cabernet-sauvignon": 1,
   "mcculloch-coupage": 1,
   "mcculloch-merlot-malbec": 1,
@@ -1039,6 +1057,7 @@
   "mira-la-baba-morava": 1,
   "virtus-mlavac-crveni": 1,
   "molovin-inat-rose": 1,
+  "molovin-plavi-princip": 1,
   "mrdanin-probus": 1,
   "mrdanin-sila": 1,
   "pik-oplenac-monarh-s": 1,
@@ -1066,6 +1085,7 @@
   "plavinci-ramonda": 1,
   "plavinci-selena": 1,
   "janko-misija-barrique-chardonnay": 1,
+  "janko-misija-chardonnay": 1,
   "stari-hrast-cabernet-sauvignon": 1,
   "tosici-ponoc-cabernet-sauvignon": 1,
   "burma-fruska-gora-portugizer": 1,
@@ -1084,6 +1104,7 @@
   "raj-crna-tamjanika": 1,
   "raj-game": 1,
   "raj-plot": 1,
+  "raj-zenit-semillon": 1,
   "braca-rajkovic-sofia-rose": 1,
   "rakicevic-blagoslov": 1,
   "ralevic-cabernet-sauvignon": 1,
@@ -1121,11 +1142,15 @@
   "tarpos-rose": 1,
   "tarpos-sauvignon-blanc": 1,
   "tarpos-tamjanika": 1,
+  "temet-beli-kamen-merlot": 1,
+  "temet-beli-kamen-syrah": 1,
   "temet-dobra-godina": 1,
   "temet-ergo-burgundac-sivi": 1,
   "temet-ergo-rose": 1,
+  "temet-ergo-rose-penusavo": 1,
   "temet-pinot-grigio": 1,
   "temet-rose": 1,
+  "temet-tri-morave-penusavo": 1,
   "temet-tri-morave-reserve": 1,
   "temet-tri-morave-prokupac": 1,
   "todor-prokupac": 1,
@@ -1137,6 +1162,7 @@
   "trasko-bagrina": 1,
   "trasko-fabulous-cabernet-franc": 1,
   "tri-mede-i-oblak-vagabundo-sauvignon-blanc": 1,
+  "tri-mede-i-oblak-vagabundo-belo": 1,
   "temet-tri-morave-rezerva": 1,
   "tri-oraha-chardonnay": 1,
   "tri-oraha-grand-reserve": 1,
@@ -1169,7 +1195,6 @@
   "vinis-chardonnay": 1,
   "vinis-merlot": 1,
   "vinis-rose": 1,
-  "aleksic-amanet-vranac": 1,
   "aleksic-code": 1,
   "botunjac-pino-botunjac-pinot-noir": 1,
   "braca-rajkovic-dina-barrique": 1,
@@ -1182,27 +1207,32 @@
   "dzervin-sauvignon": 1,
   "jovic-rose-dionizije": 1,
   "milovanovic-koliba-rose": 1,
+  "molovin-princip": 1,
   "vrt-pesak-plavi": 1,
   "vrt-rido": 1,
   "cosic-cabernet-sauvignon": 1,
+  "vincic-grasac-grand-fru": 1,
   "vincic-red-reserve": 1,
-  "virtus-733": 1,
+  "virtus-prokupac-733": 1,
   "virtus-mlavac-beli-white": 1,
   "vista-hill-reserve-red": 1,
-  "vista-hill-red": 1,
+  "vista-hill-selection-red": 1,
   "vista-hill-premium-rose": 1,
-  "vista-hill-white": 1,
+  "vista-hill-selection-white": 1,
   "pesic-vranac": 1,
   "vrt-pesak-beli": 1,
   "zmajevac-rose": 1,
   "zorca-mali-ratnik-cabernet-sauvignon": 1,
   "zorca-velika-dusa-merlot": 1,
   "zvonko-bogdan-icon-campana-rubimus": 1,
+  "zvonko-bogdan-icon-campana-albus": 1,
+  "coka-grof-lederer-chardonnay": 1,
   "dorde-freska-bela": 1,
   "dorde-freska-crvena": 1,
   "dorde-freska-rose": 1,
   "dorde-portugizer-blauer-portugieser": 1,
   "dorde-sovinjon-beli": 1,
+  "dorde-traminac-mirisni-gewurztraminer": 1,
   "durdevica-legat-sestre-rose": 1,
   "durdevica-legat-otisak-vremena": 1,
   "durdevica-legat-pinot-grigio": 1,
@@ -1241,7 +1271,6 @@
   "tenuta-est-stara-ruzica": 1,
   "todorovic-tod-grasac": 1,
   "vincic-amfora-grasac": 1,
-  "grumen-selekcija-chardonnay": 1,
   "mv-prudence-special-edition-prokupac": 1
  },
  "polka_supermarketa": {
@@ -1267,9 +1296,9 @@
   "deshevle_u_hozyaistva": 73
  },
  "dostavka": {
-  "vin_tolko_iz_dostavki": 440,
-  "vin_i_tam_i_tam": 622,
-  "nacenka_dostavki": 1.072,
+  "vin_tolko_iz_dostavki": 468,
+  "vin_i_tam_i_tam": 637,
+  "nacenka_dostavki": 1.07,
   "lavok": 68
  },
  "hozyaistv_s_magazinom": 60,
@@ -2096,10 +2125,13 @@
   "aleksandrovic-trijumf-noir-brut": 2170,
   "aleksandrovic-aberdar-superior": 4940,
   "aleksandrovic-finesa-rose": 1474,
+  "aleksic-amanet-vranac": 1738,
+  "aleksic-arno-sauvignon-blanc": 1390,
   "aleksic-bonaca-chardonnay": 1081,
-  "aleksic-bonaca-limited": 1390,
+  "aleksic-limited-bonaca-chardonnay": 1390,
   "aleksic-kardas-cabernet-sauvignon": 1020,
   "aleksic-mozaik-rose": 590,
+  "aleksic-sevdah-smederevka-sauvignon-blanc": 590,
   "aleksic-temperament-merlot": 3535,
   "aleksic-zuti-cvet-penusavo": 2255,
   "aleksic-zuti-cvet-tamjanika": 1400,
@@ -2118,7 +2150,9 @@
   "belo-brdo-pinot-noir-black-label-limited-edition": 2457,
   "belo-brdo-riesling-black-label-limited-edition": 1966,
   "belo-brdo-cabernet-franc": 2844,
+  "belo-brdo-cabernet-franc-black-label": 2457,
   "belo-brdo-cabernet-sauvignon": 1685,
+  "belo-brdo-marselan-black-label": 2808,
   "belo-brdo-limited-edition-merlot": 2808,
   "belo-brdo-pinot-noir": 1264,
   "belo-brdo-riesling": 1953,
@@ -2132,6 +2166,7 @@
   "bora-frenk": 3270,
   "braca-rajkovic-prince": 1748,
   "braca-rajkovic-sofia": 1245,
+  "braca-rajkovic-tamjanika-kasna-berba": 2106,
   "budimir-margvs-margi-riesling": 2090,
   "burma-fruska-gora-neoplanta": 2065,
   "cvetkovic-ferdinand": 2700,
@@ -2139,6 +2174,7 @@
   "komazec-cabernet-franc": 1700,
   "matalj-kremen-cabernet-sauvignon": 1930,
   "probus-chardonnay": 1920,
+  "chateau-prince-princess-chardonnay": 1437,
   "chateau-prince-shiraz-premium": 1966,
   "chateau-prince-velika-morava": 1538,
   "chichateau-chi-chardonnay": 3400,
@@ -2154,8 +2190,10 @@
   "delena-sweet-lena": 2948,
   "despotika-beskraj-sauvignon-blanc": 1327,
   "despotika-dodir-tamjanika": 1518,
+  "despotika-dodir-muscat-ottonel-tamjanika": 1544,
   "despotika-dokaz-cabernet-sauvignon": 1848,
   "despotika-krunski-dokaz-cabernet-sauvignon": 4274,
+  "despotika-nebo-riesling-pinot-blanc": 1334,
   "despotika-nemir-rose": 1390,
   "despotika-zmajeviti-prokupac": 1542,
   "deuric-enigma": 994,
@@ -2172,10 +2210,12 @@
   "do-kraja-sveta-mlad-mesec-belo": 842,
   "do-kraja-sveta-sauvignon-blanc": 1123,
   "do-kraja-sveta-sansa": 911,
+  "doja-breg-merlot": 4984,
   "a-rajkovic-domine-crtam": 1900,
   "aleksandar-todorovic-doodle-white": 1750,
   "draganic-cavalier-cuvee": 2303,
   "draganic-kontura-chardonnay": 1685,
+  "draganic-miracolo-sangiovese-superiore": 7020,
   "draganic-trivina": 983,
   "draskovic-beli-pinot": 1620,
   "dremina-blanc-coupage": 1581,
@@ -2193,6 +2233,7 @@
   "fragaria-white-jagoda": 4145,
   "fleur-doranger-rajnski-rizling": 1752,
   "maurer-fodor": 3240,
+  "fragaria-red-votazi": 2246,
   "draskovic-frankovka": 970,
   "frug-cabernet-sauvignon-signum": 5450,
   "frug-rose": 1549,
@@ -2211,6 +2252,7 @@
   "sijacki-supercelijski-grasac": 3850,
   "imperator-grasac": 1700,
   "grumen-beli": 1334,
+  "grumen-selekcija-chardonnay": 2007,
   "grumen-morava": 1621,
   "grumen-petit-verdot-rezerva": 2390,
   "grumen-rhine-riesling": 1560,
@@ -2232,6 +2274,8 @@
   "ivanovic-gaga": 7718,
   "jovic-sauvignon": 1241,
   "janko-sauvignon-blanc": 1334,
+  "jeremic-kanon-merlot-cabernet-sauvignon": 2040,
+  "jeremic-kanon-superior-merlot-cabernet-sauvignon": 3510,
   "jeremic-sonata-icone": 2732,
   "jeremic-sonata-sauvignon-blanc": 2052,
   "jovic-rizling-rajnski-potrkanjski": 1330,
@@ -2273,7 +2317,10 @@
   "matalj-crna-tamjanika": 1357,
   "matalj-terasa": 1415,
   "matijasevic-tri-doline": 2490,
+  "matijasevic-7-hrastova-cuvee-belo": 1290,
   "matijasevic-sedam-hrastova-cuvee-crveno": 1310,
+  "matijasevic-sovinoa-sauvignon-blanc": 2176,
+  "matijasevic-cukundeda-prokupac": 2298,
   "mcculloch-cabernet-franc-cabernet-sauvignon": 2160,
   "mcculloch-coupage": 2160,
   "mcculloch-merlot-malbec": 2160,
@@ -2297,6 +2344,7 @@
   "mira-la-baba-morava": 1800,
   "virtus-mlavac-crveni": 935,
   "molovin-inat-rose": 1525,
+  "molovin-plavi-princip": 1170,
   "mrdanin-probus": 2106,
   "mrdanin-sila": 1123,
   "pik-oplenac-monarh-s": 2574,
@@ -2324,6 +2372,7 @@
   "plavinci-ramonda": 1400,
   "plavinci-selena": 2000,
   "janko-misija-barrique-chardonnay": 1966,
+  "janko-misija-chardonnay": 1376,
   "stari-hrast-cabernet-sauvignon": 1650,
   "tosici-ponoc-cabernet-sauvignon": 2360,
   "burma-fruska-gora-portugizer": 1750,
@@ -2342,6 +2391,7 @@
   "raj-crna-tamjanika": 1404,
   "raj-game": 2084,
   "raj-plot": 1916,
+  "raj-zenit-semillon": 772,
   "braca-rajkovic-sofia-rose": 1265,
   "rakicevic-blagoslov": 1600,
   "ralevic-cabernet-sauvignon": 2900,
@@ -2379,11 +2429,15 @@
   "tarpos-rose": 1938,
   "tarpos-sauvignon-blanc": 2046,
   "tarpos-tamjanika": 1966,
+  "temet-beli-kamen-merlot": 7020,
+  "temet-beli-kamen-syrah": 7020,
   "temet-dobra-godina": 21499,
   "temet-ergo-burgundac-sivi": 1440,
   "temet-ergo-rose": 2633,
+  "temet-ergo-rose-penusavo": 5265,
   "temet-pinot-grigio": 2105,
   "temet-rose": 1490,
+  "temet-tri-morave-penusavo": 3142,
   "temet-tri-morave-reserve": 9175,
   "temet-tri-morave-prokupac": 2016,
   "todor-prokupac": 1800,
@@ -2395,6 +2449,7 @@
   "trasko-bagrina": 2760,
   "trasko-fabulous-cabernet-franc": 1502,
   "tri-mede-i-oblak-vagabundo-sauvignon-blanc": 1837,
+  "tri-mede-i-oblak-vagabundo-belo": 1825,
   "temet-tri-morave-rezerva": 9135,
   "tri-oraha-chardonnay": 772,
   "tri-oraha-grand-reserve": 5320,
@@ -2427,7 +2482,6 @@
   "vinis-chardonnay": 1210,
   "vinis-merlot": 2362,
   "vinis-rose": 935,
-  "aleksic-amanet-vranac": 1790,
   "aleksic-code": 1270,
   "botunjac-pino-botunjac-pinot-noir": 2020,
   "braca-rajkovic-dina-barrique": 580,
@@ -2440,27 +2494,32 @@
   "dzervin-sauvignon": 1095,
   "jovic-rose-dionizije": 1100,
   "milovanovic-koliba-rose": 740,
+  "molovin-princip": 470,
   "vrt-pesak-plavi": 1390,
   "vrt-rido": 1390,
   "cosic-cabernet-sauvignon": 1180,
+  "vincic-grasac-grand-fru": 4914,
   "vincic-red-reserve": 7363,
-  "virtus-733": 5265,
+  "virtus-prokupac-733": 5265,
   "virtus-mlavac-beli-white": 770,
   "vista-hill-reserve-red": 7301,
-  "vista-hill-red": 1544,
+  "vista-hill-selection-red": 1544,
   "vista-hill-premium-rose": 1755,
-  "vista-hill-white": 1376,
+  "vista-hill-selection-white": 1376,
   "pesic-vranac": 520,
   "vrt-pesak-beli": 1210,
   "zmajevac-rose": 1404,
   "zorca-mali-ratnik-cabernet-sauvignon": 3600,
   "zorca-velika-dusa-merlot": 2150,
   "zvonko-bogdan-icon-campana-rubimus": 8415,
+  "zvonko-bogdan-icon-campana-albus": 3510,
+  "coka-grof-lederer-chardonnay": 541,
   "dorde-freska-bela": 1053,
   "dorde-freska-crvena": 913,
   "dorde-freska-rose": 842,
   "dorde-portugizer-blauer-portugieser": 702,
   "dorde-sovinjon-beli": 842,
+  "dorde-traminac-mirisni-gewurztraminer": 842,
   "durdevica-legat-sestre-rose": 1802,
   "durdevica-legat-otisak-vremena": 5270,
   "durdevica-legat-pinot-grigio": 1938,
@@ -2499,7 +2558,6 @@
   "tenuta-est-stara-ruzica": 2150,
   "todorovic-tod-grasac": 1500,
   "vincic-amfora-grasac": 6250,
-  "grumen-selekcija-chardonnay": 2189,
   "mv-prudence-special-edition-prokupac": 2500
  },
  "supermarket": {
@@ -5495,22 +5553,6 @@
    ]
   },
   {
-   "vino": "Aleksandrović Oplen Riesling 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 1615.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Aleksandrović",
-   "kandidaty": [
-    "aleksandrovic-oplen",
-    "aleksandrovic-oplen-riesling"
-   ]
-  },
-  {
    "vino": "Aleksandrović Tema 0.75l",
    "napisanij": 2,
    "cena_rsd": 1619.0,
@@ -5640,22 +5682,6 @@
    ]
   },
   {
-   "vino": "Aleksandrović Vožd Cabernet Sauvignon 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 8354.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Aleksandrović",
-   "kandidaty": [
-    "aleksandrovic-vozd",
-    "aleksandrovic-vozd-cabernet-sauvignon"
-   ]
-  },
-  {
    "vino": "Aleksandrović harizma selection vino 0,75l",
    "napisanij": 1,
    "cena_rsd": 2049.99,
@@ -5720,22 +5746,6 @@
    ]
   },
   {
-   "vino": "Aleksić Amanet Vranac 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 1685.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Aleksić",
-   "kandidaty": [
-    "aleksic-amanet",
-    "aleksic-amanet-vranac"
-   ]
-  },
-  {
    "vino": "Aleksić Amanet Vranac – crveno vino 0.75l",
    "napisanij": 1,
    "cena_rsd": 1920.0,
@@ -5768,22 +5778,6 @@
    ]
   },
   {
-   "vino": "Aleksić Arno Sauvignon Blanc 0,75 L",
-   "napisanij": 3,
-   "cena_rsd": 1390.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Aleksić",
-   "kandidaty": [
-    "aleksic-arno",
-    "aleksic-arno-sauvignon-blanc"
-   ]
-  },
-  {
    "vino": "Aleksić Bonaca 0.75 l",
    "napisanij": 3,
    "cena_rsd": 1070.0,
@@ -5813,23 +5807,6 @@
    "kandidaty": [
     "aleksic-kardas",
     "aleksic-kardas-cabernet-sauvignon"
-   ]
-  },
-  {
-   "vino": "Aleksić Sevdah Smederevka & Sauvignon Blanc 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 590.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Aleksić",
-   "kandidaty": [
-    "aleksic-sevdah",
-    "aleksic-sevdah-smederevka",
-    "aleksic-sevdah-smederevka-sauvignon-blanc"
    ]
   },
   {
@@ -5934,38 +5911,6 @@
    ]
   },
   {
-   "vino": "Belo Brdo Cabernet Franc Black Label 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 2457.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Belo Brdo",
-   "kandidaty": [
-    "belo-brdo-cabernet-franc",
-    "belo-brdo-cabernet-franc-black-label"
-   ]
-  },
-  {
-   "vino": "Belo Brdo Marselan Black Label 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 2808.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Belo Brdo",
-   "kandidaty": [
-    "belo-brdo-marselan",
-    "belo-brdo-marselan-black-label"
-   ]
-  },
-  {
    "vino": "Bikicki Sfera Noir (Pinot Noir ) 0,75 L",
    "napisanij": 1,
    "cena_rsd": 1825.0,
@@ -5995,38 +5940,6 @@
    "kandidaty": [
     "botunjac-pino-botunjac-pinot-noir",
     "botunjac-pino-svetih-ratnika-reserve-pinot-noir"
-   ]
-  },
-  {
-   "vino": "Braća Rajković Tamjanika Kasna Berba 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 2106.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Braća Rajković",
-   "kandidaty": [
-    "braca-rajkovic-tamjanika",
-    "braca-rajkovic-tamjanika-kasna-berba"
-   ]
-  },
-  {
-   "vino": "Budimir Tamjanika Župska 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 1548.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Budimir",
-   "kandidaty": [
-    "budimir-tamjanika",
-    "budimir-tamjanika-zupska"
    ]
   },
   {
@@ -6062,22 +5975,6 @@
     "radovanovic-chardonnay-classique",
     "radovanovic-chardonnay-selekcija",
     "radovanovic-chardonnay-zdravica-za-vitezove-zdravija"
-   ]
-  },
-  {
-   "vino": "Chateau Prince Princess Chardonnay 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 1437.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Chateau Prince",
-   "kandidaty": [
-    "chateau-prince-princess",
-    "chateau-prince-princess-chardonnay"
    ]
   },
   {
@@ -6174,22 +6071,6 @@
    "kandidaty": [
     "delena-100-jazz-gewurztraminer",
     "delena-100-jazz-mirisni-traminac"
-   ]
-  },
-  {
-   "vino": "Despotika Dodir Tamjanika-Muscat Ottonel 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 1544.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Despotika",
-   "kandidaty": [
-    "despotika-dodir",
-    "despotika-dodir-tamjanika"
    ]
   },
   {
@@ -6321,22 +6202,6 @@
    ]
   },
   {
-   "vino": "Doja Breg Merlot 0,75 L",
-   "napisanij": 5,
-   "cena_rsd": 4984.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 5,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Doja",
-   "kandidaty": [
-    "doja-breg",
-    "doja-breg-merlot"
-   ]
-  },
-  {
    "vino": "Doja Breg Merlot – crveno vino 0.75l",
    "napisanij": 1,
    "cena_rsd": 5700.0,
@@ -6369,22 +6234,6 @@
    ]
   },
   {
-   "vino": "Draganić L’una Rose 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 1392.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Draganić",
-   "kandidaty": [
-    "draganic-luna-rose",
-    "draganic-luna"
-   ]
-  },
-  {
    "vino": "Draganić Miracolo 0.75 l",
    "napisanij": 1,
    "cena_rsd": 2596.0,
@@ -6398,38 +6247,6 @@
    "kandidaty": [
     "draganic-miracolo-sangiovese",
     "draganic-miracolo-sangiovese-superiore"
-   ]
-  },
-  {
-   "vino": "Draganić Miracolo Sangiovese Superiore 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 7020.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Draganić",
-   "kandidaty": [
-    "draganic-miracolo-sangiovese",
-    "draganic-miracolo-sangiovese-superiore"
-   ]
-  },
-  {
-   "vino": "Fragaria Red Votaži 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 2246.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Fragaria",
-   "kandidaty": [
-    "fragaria-red",
-    "fragaria-red-votazi"
    ]
   },
   {
@@ -6598,54 +6415,6 @@
    ]
   },
   {
-   "vino": "Jeremić Kanon Merlot-Cabernet Sauvignon 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 2040.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Jeremić",
-   "kandidaty": [
-    "jeremic-kanon",
-    "jeremic-kanon-merlot-cabernet-sauvignon"
-   ]
-  },
-  {
-   "vino": "Jeremić Kanon Superior Merlot-Cabernet Sauvignon 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 3510.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Jeremić",
-   "kandidaty": [
-    "jeremic-kanon-superior",
-    "jeremic-kanon-superior-merlot-cabernet-sauvignon"
-   ]
-  },
-  {
-   "vino": "Jeremić Merlot Terroire 0,75 L",
-   "napisanij": 4,
-   "cena_rsd": 3400.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Jeremić",
-   "kandidaty": [
-    "jeremic-merlot",
-    "jeremic-merlot-terroire"
-   ]
-  },
-  {
    "vino": "Jeremić Sonata, Sauvignon Blanc, Vinarija Jeremić, Smederevo – Jugovo",
    "napisanij": 1,
    "cena_rsd": 1750.0,
@@ -6675,22 +6444,6 @@
    "kandidaty": [
     "jovic-dionizije",
     "jovic-dionizije-potrkanjski"
-   ]
-  },
-  {
-   "vino": "Jović Vranac Potrkanjski 0,75 L",
-   "napisanij": 3,
-   "cena_rsd": 1685.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 3,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Jović",
-   "kandidaty": [
-    "jovic-vranac",
-    "jovic-vranac-potrkanjski"
    ]
   },
   {
@@ -6787,22 +6540,6 @@
    "kandidaty": [
     "lakicevic-upupa",
     "lakicevic-upupa-tamjanika"
-   ]
-  },
-  {
-   "vino": "Lastar \"Sofijin Izbor\" Pinot Noir 0,75 L",
-   "napisanij": 3,
-   "cena_rsd": 2960.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 3,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Lastar",
-   "kandidaty": [
-    "lastar-sofijin-izbor-pinot-noir",
-    "lastar-sofijin-izbor"
    ]
   },
   {
@@ -6983,38 +6720,6 @@
    ]
   },
   {
-   "vino": "Matijašević 7 Hrastova Cuvee Belo 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 1290.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Matijašević",
-   "kandidaty": [
-    "matijasevic-7-hrastova-cuvee",
-    "matijasevic-7-hrastova-cuvee-belo"
-   ]
-  },
-  {
-   "vino": "Matijašević SoviNoa Sauvignon Blanc 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 2176.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Matijašević",
-   "kandidaty": [
-    "matijasevic-sovinoa",
-    "matijasevic-sovinoa-sauvignon-blanc"
-   ]
-  },
-  {
    "vino": "Matijašević Sovinoa Fume Blanc, Matijašević Vinogradi, Šumadijski region",
    "napisanij": 1,
    "cena_rsd": 5950.0,
@@ -7047,22 +6752,6 @@
    ]
   },
   {
-   "vino": "Matijašević Tri Doline Merlot 0,75 L",
-   "napisanij": 4,
-   "cena_rsd": 2398.5,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 4,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Matijašević",
-   "kandidaty": [
-    "matijasevic-tri-doline",
-    "matijasevic-tri-doline-merlot"
-   ]
-  },
-  {
    "vino": "Matijašević Tri doline Merlot – crveno vino 0.75l",
    "napisanij": 1,
    "cena_rsd": 2630.0,
@@ -7076,22 +6765,6 @@
    "kandidaty": [
     "matijasevic-tri-doline",
     "matijasevic-tri-doline-merlot"
-   ]
-  },
-  {
-   "vino": "Matijašević Čukundeda Prokupac 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 2298.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Matijašević",
-   "kandidaty": [
-    "matijasevic-cukundeda",
-    "matijasevic-cukundeda-prokupac"
    ]
   },
   {
@@ -7159,22 +6832,6 @@
    ]
   },
   {
-   "vino": "Molovin Inat Frankovka 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 1758.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Molovin",
-   "kandidaty": [
-    "molovin-inat",
-    "molovin-inat-frankovka"
-   ]
-  },
-  {
    "vino": "Molovin Inat Rajnski rizling (Riesling) 0,75 L",
    "napisanij": 1,
    "cena_rsd": 2780.0,
@@ -7188,22 +6845,6 @@
    "kandidaty": [
     "molovin-inat",
     "molovin-inat-rajnski-rizling"
-   ]
-  },
-  {
-   "vino": "Petra Pinot Grigio Orange 0,75 L",
-   "napisanij": 3,
-   "cena_rsd": 3042.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 3,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Petra",
-   "kandidaty": [
-    "petra-pinot-grigio",
-    "petra-pinot-grigio-orange"
    ]
   },
   {
@@ -7270,22 +6911,6 @@
    "kandidaty": [
     "plavinci-indigo",
     "plavinci-indigo-regent"
-   ]
-  },
-  {
-   "vino": "Podrum Janko Misija Chardonnay 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 1376.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Podrum Janko",
-   "kandidaty": [
-    "janko-misija",
-    "janko-misija-chardonnay"
    ]
   },
   {
@@ -7403,22 +7028,6 @@
    ]
   },
   {
-   "vino": "Raj Zenit Semillon 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 772.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Raj",
-   "kandidaty": [
-    "raj-zenit",
-    "raj-zenit-semillon"
-   ]
-  },
-  {
    "vino": "Reljić - Rebus 0.75L",
    "napisanij": 1,
    "cena_rsd": 2297.0,
@@ -7523,38 +7132,6 @@
    ]
   },
   {
-   "vino": "Temet Ergo Rose Penušavo 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 5265.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Temet",
-   "kandidaty": [
-    "temet-ergo-rose-penusavo",
-    "temet-ergo-rose"
-   ]
-  },
-  {
-   "vino": "Temet Tri Morave Penušavo 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 3142.5,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Temet",
-   "kandidaty": [
-    "temet-tri-morave",
-    "temet-tri-morave-penusavo"
-   ]
-  },
-  {
    "vino": "Tonković Kadarka Rose 2 + 1 gratis",
    "napisanij": 1,
    "cena_rsd": 3440.0,
@@ -7587,22 +7164,6 @@
    ]
   },
   {
-   "vino": "Tri Međe i Oblak Vagabundo Belo 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 1825.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Tri Međe i Oblak",
-   "kandidaty": [
-    "tri-mede-i-oblak-vagabundo",
-    "tri-mede-i-oblak-vagabundo-belo"
-   ]
-  },
-  {
    "vino": "Trijumf Selection - belo Aleksandrović ❄️",
    "napisanij": 2,
    "cena_rsd": 1890.0,
@@ -7619,22 +7180,6 @@
    ]
   },
   {
-   "vino": "Trivanović Chardonnay Barrique 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 2106.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Trivanović",
-   "kandidaty": [
-    "trivanovic-chardonnay-barrique",
-    "trivanovic-chardonnay"
-   ]
-  },
-  {
    "vino": "Trivanović Trigio Blanc – belo vino 0.75l",
    "napisanij": 1,
    "cena_rsd": 1660.0,
@@ -7648,22 +7193,6 @@
    "kandidaty": [
     "trivanovic-trigio",
     "trivanovic-trigio-blanc"
-   ]
-  },
-  {
-   "vino": "Veritas Momentum Cabernet Sauvignon 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 6759.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Veritas",
-   "kandidaty": [
-    "veritas-cukovic-momentum",
-    "veritas-cukovic-momentum-cabernet-sauvignon"
    ]
   },
   {
@@ -7881,38 +7410,6 @@
    ]
   },
   {
-   "vino": "Vinum Bermet Crveni 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 1170.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Vinum",
-   "kandidaty": [
-    "vinum-bermet",
-    "vinum-bermet-crveni"
-   ]
-  },
-  {
-   "vino": "Vinum Grašac 26a 0,75 L",
-   "napisanij": 2,
-   "cena_rsd": 2859.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 2,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Vinum",
-   "kandidaty": [
-    "vinum-grasac",
-    "vinum-grasac-26a"
-   ]
-  },
-  {
    "vino": "Vinum Grašac Beli Brut Penušavo vino 0,75 L",
    "napisanij": 1,
    "cena_rsd": 3276.0,
@@ -7977,22 +7474,6 @@
    ]
   },
   {
-   "vino": "Zvonko Bogdan Icon Campana Albus 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 3510.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Zvonko Bogdan",
-   "kandidaty": [
-    "zvonko-bogdan-icon-campana",
-    "zvonko-bogdan-icon-campana-albus"
-   ]
-  },
-  {
    "vino": "Zvonko Bogdan Rose Sec, Merlot, Vinarija Zvonko Bogdan, Subotičko - horgoški reg",
    "napisanij": 1,
    "cena_rsd": 1780.0,
@@ -8025,22 +7506,6 @@
    ]
   },
   {
-   "vino": "Čoka Grof Lederer Chardonnay 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 541.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Čoka",
-   "kandidaty": [
-    "coka-grof-lederer",
-    "coka-grof-lederer-chardonnay"
-   ]
-  },
-  {
    "vino": "Čoka ždrepčeva krv",
    "napisanij": 1,
    "cena_rsd": 450.0,
@@ -8059,22 +7524,6 @@
     "coka-zdrepceva-krv-rotwein-lieblich",
     "coka-zdrepceva-krv-semi-sweet-red",
     "coka-zdrepceva-krv-zdrebac-dry-red"
-   ]
-  },
-  {
-   "vino": "Đorđe Traminac Mirisni (Gewurztraminer) 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 842.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Đorđe",
-   "kandidaty": [
-    "dorde-traminac-mirisni",
-    "dorde-traminac-mirisni-gewurztraminer"
    ]
   },
   {
@@ -8642,15 +8091,6 @@
    "ceny": [
     580.0,
     3550.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
-  },
-  {
-   "klyuch_vina": "molovin-princip",
-   "magazin": "dostavka",
-   "ceny": [
-    470.0,
-    1170.0
    ],
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
@@ -124691,45 +124131,6 @@
    "kanal": "dostavka",
    "v_prodazhe": true,
    "hozyaistvo": "Temet -",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Temet Beli Kamen Merlot 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 7020.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Temet",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Temet Beli Kamen Morava 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 5265.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Temet",
-   "pochemu": "дом есть, вина нет"
-  },
-  {
-   "vino": "Temet Beli Kamen Syrah 0,75 L",
-   "napisanij": 1,
-   "cena_rsd": 7020.0,
-   "litrov": 0.75,
-   "magazin": "dostavka",
-   "gorod": "Belgrade",
-   "magazinov": 1,
-   "kanal": "dostavka",
-   "v_prodazhe": true,
-   "hozyaistvo": "Temet",
    "pochemu": "дом есть, вина нет"
   },
   {

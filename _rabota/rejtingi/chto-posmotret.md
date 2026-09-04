@@ -55,36 +55,63 @@ Falstaff ранжирует около сорока сербских хозяй�
 **Что нужно:** открыть у Falstaff список сербских винарий и сохранить
 страницу (Ctrl+S), как с годовым выбором `vino.rs`.
 
-## 3. Цена у сильных вин: осталось сорок шесть
+## 3. Цена у сильных вин: осталось сорок
 
-Из 121 вина с баллом 93 и выше цена известна у 75. Скачок дала доставка:
-винотеки Wolt отдают ассортимент по открытому адресу, и это подняло
-число вин с ценой с 811 до 1227. Раньше здесь было записано, что Wolt
-закрыт и берётся только снимками экрана; это была моя ошибка, разбор —
-в `istochniki-dostup.md`.
+Из 121 вина с баллом 93 и выше цена известна у 81, и это уже две трети.
+Всего цена стоит у 1256 вин из 3650; в книге — у 133 из 253. Скачок дала
+доставка: витрины Wolt подняли счёт с 811, и ещё три десятка добрала
+починка сведения.
 
-**Как искать оставшихся.** Ниже список по хозяйствам, сверху те, у кого
-балл выше и вин больше; в скобках — балл критика. Имена даны так, как их
-пишет этикетка; если поиск молчит, стоит попробовать вариант без
-диакритики. Все 68 площадок вино отдали — пустых больше нет.
+**Что мешает оставшимся сорока — разобрано поимённо.**
+
+*Пять* стоят в лавке, но цену им не поставили нарочно: магазинное имя
+подходит двум нашим строкам сразу. Это не про поиск, а про состав
+таблицы, и решать автору: «Rebus» Рељића подходит пяти нашим «Rebus»,
+«Atila» Шапата — семи, «Graffiti» Бјелице — двум («Graffiti» и
+«Graffiti Crveno»), «Tamjanika Radovan 100%» — двум, «Virgo»
+Ралевића — двум.
+
+*Пятнадцать* стоят в лавке под именем, которое сведение не берёт.
+Каждый случай свой: «Lozana Grand» Џервина против нашей «Lozana» —
+магазин назвал старшую линию, а у нас в таблице только базовая;
+«Quet Tri Sunca Traminac» против нашего «Tri sunca» — марка впереди
+имени, и какое из двух «Tri Sunca» дома имел в виду критик, по имени
+не решить; «Pinot Noir MMXXI» — MMXXI это урожай римскими цифрами,
+и наша строка «MMXXI» похоже вовсе не вино, а год.
+
+*Двадцать* в лавках нет вовсе, хотя дом там есть и продаётся широко:
+«Zamna» Маталя, «Prokupac Gaga» Ивановића, оба «Éclater» Звонка
+Богдана, обе «Tri Morave Reserve» Темета, «Marlon Delon» Ердевика.
+Это не изъян сбора: вино такого разбора выпускают малой партией,
+и в розницу оно не доходит. У пятнадцати из них есть собственный
+магазин хозяйства, и он у нас собран — значит и там его нет.
+
+**Где ещё искать, если понадобится.** Не пробовано: Glovo (вторая
+служба доставки), обязательные ценовники прочих сетей (Univerexport,
+DIS, Lidl, Aman, Gomex — по закону публикуют все крупные), витрины
+супермаркетов в самом Wolt (мы взяли только винотеки и два
+гипермаркета), цены Vivino. Но ни один из этих каналов не отвечает
+на главный вопрос: малотиражный флагман не лежит ни в сети, ни
+в доставке. Его цену знает хозяйство, и берётся она письмом или
+страницей самого хозяйства.
 
 - **Arsenijević** — «Kaberne» (96)
 - **Ivanović** — «Prokupac Gaga» (96)
 - **Matalj** — «Zamna Cabernet Sauvignon» (96)
-- **Zvonko Bogdan** — «Éclater Blanc de Blancs Brut Nature» (95); «Eclater Blanc De Blancs Extra Brut» (95); «Merlot Single Vineyard» (94); «Icon Campana Albus» (93)
-- **Temet** — «Tri Morave Belo Reserve» (95); «Tri Morave Crveno Reserve» (94); «Beli Kamen Merlot» (94)
+- **Zvonko Bogdan** — «Éclater Blanc de Blancs Brut Nature» (95); «Eclater Blanc De Blancs Extra Brut» (95); «Merlot Single Vineyard» (94)
 - **Aleksić** — «Žuti Cvet Penuśavo Tamnjanika Sec» (95); «Biser Smederevka Extra Brut» (95)
 - **Ralević** — «RaRa Tamjanika PETNAT» (95); «Virgo» (94)
 - **Tarpoš** — «Prokupac» (95); «Chardonnay Extra Brut» (95)
-- **Vinčić** — «Grašac Grand Fru» (95); «Grand V» (95)
+- **Temet** — «Tri Morave Belo Reserve» (95); «Tri Morave Crveno Reserve» (94)
 - **BT Winery** — «King Supreme Limited Edition Marselan» (95)
 - **Erdevik** — «Marlon Delon Cabernet Sauvignon - Merlot» (95)
 - **Maurer** — «Kadarka 1880 (натуральное)» (95)
 - **Reljić Vinarija** — «Rebus Merlot-Cabernet Sauvignon-Probus» (95)
-- **Doja** — «Cabernet Sauvigon Breg» (94); «Breg Merlot» (93)
+- **Vinčić** — «Grand V» (95)
 - **Vinarija Radovan** — «Prokupac Radovan 100%» (94); «Tamjanika Radovan 100%» (93)
 - **Atelje vina Šapat** — «Atila Plavi» (94)
 - **DiBonis Winery** — «Di Icewine» (94)
+- **Doja** — «Cabernet Sauvigon Breg» (94)
 - **Džervin** — «Lozana» (94)
 - **Molovin** — «Vista Hill Red Reserve» (94)
 - **Podrum Pevac** — «GUŠT BARIK» (94)
@@ -95,7 +122,6 @@ Falstaff ранжирует около сорока сербских хозяй�
 - **Драгић Винарија (Vina Dragic)** — «Crni Biser» (94)
 - **Aleksandrović** — «Trijumf Selection Sauvignon Blanc» (93); «Trijumf Chardonnay Brut» (93)
 - **Belo Brdo** — «Marselan Limited Edition» (93); «Limited Edition Cabernet Sauvignon» (93)
-- **Matijašević Vinogradi** — «Čukundeda Prokupac» (93); «Sovinoa Sauvignon Blanc» (93)
 - **Bjelica** — «Graffiti» (93)
 - **Despotika** — «Krunski Dokas (The Key Evidence) Grand Reserve» (93)
 - **Fruškogorski** — «Tri sunca» (93)
@@ -106,34 +132,18 @@ Falstaff ранжирует около сорока сербских хозяй�
 измерены — в приложении доставки на 7% выше полочной, в супермаркете
 на 21% выше, чем в винотеке, у самого хозяйства на 11% ниже, а розница
 над оптом с НДС — примерно на 31%. Наценка доставки прежде считалась
-восемнадцатью процентами по четырём бутылкам Легата; теперь она измерена
-на 622 винах, у которых известны обе цены, и вышла вдвое с лишним меньше.
-Это не правило: у Грумена из Maxi и у каменичарки из Mercator'а
-приложение показало ровно полочную цену. Наценку ставит магазин
-в своей выкладке.
+восемнадцатью процентами по четырём бутылкам Легата; теперь она
+измерена на 637 винах, у которых известны обе цены. Это не правило:
+у Грумена из Maxi и у каменичарки из Mercator'а приложение показало
+ровно полочную цену.
 
-**Три имени, о которых машина решить не может.** Во всех трёх лавка
-назвала вино короче, чем оно называется у нас, и короткое имя подошло бы
-единственному нашему, — но у хозяйства есть и другое вино с тем же
-началом. Цену им не поставили ни одному.
-
-- **Molovin «Inat»** (580) — у Моловина есть «Inat Traminac», «Inat
-  Frankovka», «Inat Rajnski Rizling»; какая из них шла без сорта,
-  по имени не видно.
-- **Vinčić «Pet Nat»** (1860) — те же лавки продают «Pet Nat Pinot
-  Noir» по 1495–2650.
-- **«Arsenijević Kaberne Limit»** (1730) — у нас есть и «Kaberne»,
-  и «Cabernet Sauvignon Limited Edition».
-
-**Два вина названы у нас дважды, и это видно по цене.** У Темета одно
-вино лежит под именами «Tri Morave Reserve», «Tri Morave rezerva»,
-«Tri Morave reserve red», «Tri Morave rezerva crveno» и «Three Morave
-Rezerva (Три Мораве Резерва)» — по-сербски, по-английски и кириллицей,
-из разных источников; двойника выдало то, что первым двум досталась
-почти одна цена. У Sagmeister'а то же с порядком слов: «Devas Kadarka»
-и «Kadarka Devas», «Devas Furmint» и «Furmint Devas» — цена встала
-одному имени из пары, второе осталось без неё. Свести их — решение
-о составе таблицы, а не правка, и потому оставлено автору.
+**Двойники в нашей таблице, найденные ценой.** Одно вино стоит у нас
+под двумя именами, и выдаёт это цена, вставшая одному из пары: у Темета
+«Tri Morave Reserve» и «Tri Morave rezerva» (и ещё три написания
+кириллицей и по-английски), у Sagmeister'а «Devas Kadarka» и «Kadarka
+Devas», «Devas Furmint» и «Furmint Devas», у Виртуса «733» и «Prokupac
+733», у Vista Hill «Red Reserve» и «Reserve Red» — и так же White.
+Свести их — решение о составе таблицы, а не правка.
 
 **Оптовый ценовник годится и сам по себе.** Присланный лист «Wine &
 Pleasure» (это та же компания, что «Vinoteka Beograd») сербских вин

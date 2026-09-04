@@ -358,6 +358,14 @@ def main():
             (slova(st, bez_yarlykov(v["vino"])), v["klyuch"]))
     nashi = {v["klyuch"] for v in vina}
     nash_cvet = {v["klyuch"]: v.get("cvet") for v in vina}
+    # Цвет, названный в имени самого нашего вина. Нужен предохранителю
+    # цвета: у Темета есть «Beli Kamen Merlot» — «Бели камен» это
+    # виноградник, «Белый камень», а не цвет вина. Магазинное имя
+    # «Temet Beli Kamen Merlot» читается как белое, наше мерло —
+    # красное, и цена 7020 отбрасывалась молча. Слово стоит и у нас,
+    # значит противоречия нет.
+    nash_cvet_v_imeni = {v["klyuch"]: cvet_iz_imeni(slova(st, v.get("vino")))
+                         for v in vina}
 
     # Сорт узнаётся по ключу, а не по написанию: у «vino prokupac»
     # служебное слово ключом снимается, и остаётся «prokupac» — тот самый
@@ -516,6 +524,18 @@ def main():
                 if len(polnyj) > 2 and re.match(r"^\d+$", polnyj[-2]):
                     polnyj.pop()
                     polnyj.pop()
+                    # Дробная часть объёма приходит отдельным словом:
+                    # «0,75 L» это «0», «75» и «l». Снять два последних
+                    # мало — остаётся «0», и хвост «breg merlot 0» уже
+                    # не равен нашему «breg merlot». Точное совпадение
+                    # слово в слово от этого не срабатывало, оставались
+                    # два кандидата по началу имени, и цена не ставилась
+                    # вовсе: так теряли цену «Doja Breg Merlot»,
+                    # «Matijašević Čukundeda Prokupac», «Zvonko Bogdan
+                    # Icon Campana Albus» — вина с баллом 93 и выше,
+                    # стоящие в лавке под полным именем.
+                    if len(polnyj) > 1 and polnyj[-1] in ("0", "1"):
+                        polnyj.pop()
             # Объём вовсе без единицы: «Vino Molovin Inat 0,75» даёт
             # в хвосте «0» и «75». Снимается только пара, читающаяся
             # объёмом бутылки, — «0 75», «0 375», «1 5»: одиночное
@@ -595,7 +615,8 @@ def main():
         if nazvan:
             podoshli = [k for k in podoshli
                         if nash_cvet.get(k) in ("", None, nazvan)
-                        or nash_cvet.get(k) not in ("белое", "красное", "розе")]
+                        or nash_cvet.get(k) not in ("белое", "красное", "розе")
+                        or nash_cvet_v_imeni.get(k) == nazvan]
         if len(podoshli) == 1:
             # Сведение по началу имени — единственное место, где решение
             # принимается не точным ключом, а похожестью. Пары печатаются

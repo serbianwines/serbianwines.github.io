@@ -1275,8 +1275,7 @@ matalj-kamen,Matalj,Kamen,,,net_na_vivino,,False,False,Rejon Negotinska Krajina,
 matalj-kremen,Matalj,Kremen,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,,konkurs,красное
 matalj-kremen-cabernet-merlot,Matalj,Kremen Cabernet - Merlot,12313157,https://www.vivino.com/w/12313157,ocenka_est,707,True,True,Rejon Negotinska Krajina,,konkurs,красное
 matalj-kremen-cabernet-sauvignon,Matalj,Kremen Cabernet Sauvignon,1420528,https://www.vivino.com/w/1420528,ocenka_est,6075,True,True,Rejon Negotinska Krajina,,konkurs,красное
-matalj-kremen-kamen,Matalj,Kremen Kamen,,,net_na_vivino,,True,True,Rejon Negotinska Krajina,,konkurs,красное
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,2115277,https://www.vivino.com/w/2115277,ocenka_est,2808,True,True,Rejon Negotinska Krajina,,konkurs,красное
+matalj-kremen-kamen,Matalj,Kremen Kamen,2115277,https://www.vivino.com/w/2115277,ocenka_est,2808,True,True,Rejon Negotinska Krajina,,konkurs,красное
 matalj-kremen-kremenjaca,Matalj,Kremen Kremenjača,13198817,https://www.vivino.com/w/13198817,ocenka_est,1065,True,False,Rejon Negotinska Krajina,,hozyaistvo,красное
 matalj-terasa,Matalj,Terasa,,,net_na_vivino,,False,False,Rejon Negotinska Krajina,,konkurs,белое
 matalj-terasa-12-chardonnay,Matalj,Terasa 12 Chardonnay,2654477,https://www.vivino.com/w/2654477,ocenka_est,1308,False,False,Rejon Negotinska Krajina,,hozyaistvo,белое

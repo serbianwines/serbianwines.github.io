@@ -75,23 +75,23 @@ Vivino в стобалльную, когда балла критика не бы
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 | 2100 |
 | Deurić · La Rem Chardonnay | 97 | — | 21 | 3960 |
 | Erdevik · Omnibus Lector Chardonnay | 97 | 4.3 | 66 | 4550 |
-| Matalj · Kremen Kamen | 97 | — | 37 | 9191 |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 | 9191 |
 | Vinčić · Grašac | 97 | 4.3 | 33 | 17385 |
 | Arsenijević · Kaberne | 96 | — | 5 | — |
 | Bikicki · Uncensored | 96 | 4.0 | 36 | 2871 |
 | Ivanović · Prokupac Gaga | 96 | — | — | — |
 | La Gora · Aria | 96 | — | 5 | — |
+| Matalj · Zamna Cabernet Sauvignon | 96 | — | — | — |
 
 ## Красные: пятёрка страны
 
 | Вино | Критик | Vivino | Медали | Динаров |
 |---|---|---|---|---|
 | Aleksandrović · Kameničarka Prokupac | 97 | — | 15 | 2100 |
-| Matalj · Kremen Kamen | 97 | — | 37 | 9191 |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 | 9191 |
 | Arsenijević · Kaberne | 96 | — | 5 | — |
 | Aleksandrović · Regent Reserve | 95 | 4.2 | 57 | 2442 |
+| Aleksić · Amanet Vranac | 95 | 4.0 | 36 | — |
 
 ## Белые: пятёрка страны
 
@@ -121,7 +121,7 @@ Vivino в стобалльную, когда балла критика не бы
 |---|---|---|---|---|
 | Vinis · Crveno Vino | 84 | 4.6 | 2 | — |
 | Aleksandrović · Vožd Cabernet Sauvignon | 95 | 4.5 | 18 | 8650 |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 | — |
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 | 9191 |
 | Stemina winery · Draga | 94 | 4.5 | 6 | — |
 | Tri Oraha · 750 Barrique Barrels | — | 4.5 | — | 7365 |
 | Aleksandrović · Rodoslov Grand Reserve | 94 | 4.4 | 58 | 5025 |
@@ -720,8 +720,8 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 |
 | Matalj · Kremen | 92 | — | 52 |
-| Matalj · Terasa Chardonnay | 92 | — | 42 |
 | Vinarija Gamanović · Grašac Beli | 94 | 3.9 | 13 |
 | Vimmid · Cabernet Sauvignon | 89 | 3.9 | 10 |
 | Manastir Bukovo · Filigran Cabernet Sauvignon | 90 | 4.2 | 9 |
@@ -735,8 +735,8 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 |
-| Matalj · Kremen Kamen | 97 | — | 37 |
+| Matalj · Zamna Cabernet Sauvignon | 96 | — | — |
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 |
 | Manastir Bukovo · Chardonnay Oaked | 92 | — | — |
 | Manastir Bukovo · Filigran Гаме | 92 | — | 9 |
 | Traško Vinarija · Bagrina Edición Limitada | 92 | 3.9 | 6 |
@@ -750,7 +750,7 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 |
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 |
 | Tri Oraha · 750 Barrique Barrels | — | 4.5 | — |
 | Tri Oraha · 500 Barrique Barrels | — | 4.4 | — |
 | Vinarija Dajic · Gamay Barrique | — | 4.4 | — |
@@ -765,7 +765,7 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 |
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 |
 | Matalj · Zemna Reserva | 92 | 4.2 | 12 |
 | Manastir Bukovo · Filigran Cabernet Sauvignon | 90 | 4.2 | 9 |
 | Traško Vinarija · Fabulous Cabernet Franc | 90 | 4.1 | 9 |
@@ -779,8 +779,8 @@ Vivino в стобалльную, когда балла критика не бы
 
 | Вино | Критик | Vivino | Медали |
 |---|---|---|---|
-| Matalj · Kremen Kamen | 97 | — | 37 |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 97 | 4.5 | 33 |
+| Matalj · Kremen Kamen | 97 | 4.5 | 70 |
+| Matalj · Cuvée Bukovski | 95 | 4.0 | 40 |
 | Manastir Bukovo · Filigran Гаме | 92 | — | 9 |
 | Vimmid · Dentelle | 92 | — | 6 |
 | Manastir Bukovo · Filigran Reserve Cabernet Sauvignon | 91 | — | — |

@@ -28,6 +28,7 @@
 | `winestars-ceny.json` | 113 сербских вин с ценой у «Wine Stars» |
 | `vinarije-ceny.json` | 922 позиций из магазинов самих хозяйств, у 638 цена в динарах |
 | `idea-cenovnik-ceny.json` | 769 винных товаров из обязательных ценовников Roda и Mercator |
+| `veleprodaja-vinoteka.json` | сербский раздел оптового ценовника «Wine & Pleasure»: 13 вин и мерка наценки розницы |
 | `sverka-adresov.json` | сверка места 128 хозяйств с адресом на их сайтах |
 | `cerpromet-ceny.json` | 455 вин у «Cerpromet», из них 236 сербских, со свойствами |
 | `prodajavina-ceny.json` | 125 сербских вин у «Prodaja vina»: цена, сорт, цвет, крепость, **рејон** |

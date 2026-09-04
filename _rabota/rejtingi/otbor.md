@@ -143,9 +143,9 @@ Boemi, — и на них приходится больше четырёхсот
 |---|---|
 | балл критика 90+ | 354 |
 | Vivino 4,0+ | 353 |
-| три источника и больше | 151 |
+| три источника и больше | 150 |
 | строгая награда | 15 |
-| **всего** | **873** у 187 хозяйств |
+| **всего** | **872** у 187 хозяйств |
 
 У прошедших медиана Vivino 4.10; ниже 3,7 остаётся 12 из 574.
 
@@ -157,7 +157,7 @@ Boemi, — и на них приходится больше четырёхсот
 | Rejon Tri Morave | 175 | 40 |
 | Šumadijski rejon | 150 | 23 |
 | Subotički rejon | 58 | 9 |
-| Rejon Negotinska Krajina | 56 | 13 |
+| Rejon Negotinska Krajina | 55 | 13 |
 | Beogradski rejon | 31 | 8 |
 | рејон не установлен | 25 | 11 |
 | Toplički rejon | 21 | 3 |
@@ -178,6 +178,7 @@ Boemi, — и на них приходится больше четырёхсот
 
 | Хозяйство | Вино | Vivino | Балл критика | Источники |
 |---|---|---|---|---|
+| Matalj | Kremen Kamen | 4.5 | 97 | biwc, decanter, falstaff, iwc, vino.rs, wine-searcher |
 | Doja | Prokupac | 3.9 | 95 | awc-vienna, biwc, decanter, falstaff, iwc, vino.rs |
 | Radovanović | Rèserve Cabernet Sauvignon | 4.3 | 91 | cmb, decanter, falstaff, tastings, vino.rs, wine-searcher |
 | Zvonko Bogdan | Cuvée No.1 | 4.1 | 95 | biwc, decanter, falstaff, vino.rs, wine-searcher |
@@ -192,7 +193,6 @@ Boemi, — и на них приходится больше четырёхсот
 | Despotika | Morava | — | 91 | awc-vienna, biwc, decanter, falstaff, vino.rs |
 | Lastar | Tamjanika | 4.2 | 90 | awc-vienna, biwc, decanter, iwc, vino.rs |
 | Lastar | Pinot Noir | 3.7 | 89 | awc-vienna, biwc, decanter, iwc, vino.rs |
-| Matalj | Kremen Kamen | — | 97 | biwc, decanter, iwc, vino.rs |
 | Matijašević Vinogradi | Sovinoa Fumé Blanc | 4.3 | 96 | biwc, decanter, falstaff, vino.rs |
 | Aleksandrović | Regent Reserve | 4.2 | 95 | biwc, decanter, iwc, vino.rs |
 | Doja | Breg Prokupac | 4.1 | 95 | biwc, decanter, falstaff, vino.rs |
@@ -228,7 +228,6 @@ Boemi, — и на них приходится больше четырёхсот
 | Rubin | Amante Carmen | 3.7 | 88 | biwc, cmb, decanter, gilbert-gaillard |
 | Aleksić | Žuti Cvet | 4.1 | 87 | biwc, decanter, iwc, vino.rs |
 | Braća Rajković | Prince Rskavac | 3.5 | 87 | awc-vienna, biwc, decanter, vino.rs |
-| Matalj | Kremen Kamen Cabernet Sauvignon | 4.5 | 97 | decanter, falstaff, wine-searcher |
 | Vinčić | Grašac | 4.3 | 97 | biwc, decanter, vino.rs |
 | Bikicki | Uncensored | 4 | 96 | biwc, decanter, vino.rs |
 | Tarpoš | Merlot | 4 | 95 | awc-vienna, biwc, decanter |
@@ -357,7 +356,7 @@ Boemi, — и на них приходится больше четырёхсот
 
 ## Отсеяно вопреки медали
 
-Вин с медалью, которые правило не пропускает, — 916 из 1471. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 107 вин, и оно вот чьё: biwc — 115, wine-trophy — 7, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
+Вин с медалью, которые правило не пропускает, — 916 из 1470. Это медали ниже золота либо золото щедрых конкурсов, и оценка Vivino у них не дотянула до 4.0. Золото среди отсеянных есть — у 107 вин, и оно вот чьё: biwc — 115, wine-trophy — 7, cmb — 1. Золота Decanter среди них нет: оно открывает дверь само.
 
 | Хозяйство | Вино | Vivino | Награды |
 |---|---|---|---|
@@ -406,12 +405,12 @@ Boemi, — и на них приходится больше четырёхсот
 
 ## Что меняет порог: 4,0 против 4,1
 
-Три верхние двери — три источника, балл критика, строгая награда — от порога не зависят вовсе: по ним проходит 520 вин, и они остаются при любом решении. Спор идёт только о четвёртой двери.
+Три верхние двери — три источника, балл критика, строгая награда — от порога не зависят вовсе: по ним проходит 519 вин, и они остаются при любом решении. Спор идёт только о четвёртой двери.
 
 | Порог | Всего проходит | Хозяйств |
 |---|---|---|
-| 4.0 | 873 | 187 |
-| 4.1 | 722 | 165 |
+| 4.0 | 872 | 187 |
+| 4.1 | 721 | 165 |
 
 Между ними стоят 151 вин с оценкой ровно 4,0 — их и решает выбор. Ни у одного из них нет ни балла критика от 90, ни строгой награды, ни трёх источников: за них говорят только покупатели.
 

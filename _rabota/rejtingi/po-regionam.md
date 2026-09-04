@@ -93,7 +93,7 @@ Zvonko Bogdan · Nebo Tamjanika 4.0.
 
 | # | Вино | Vivino | Отзывов | После сдвига |
 |---|---|---|---|---|
-| 1 | Matalj · Kremen Kamen Cabernet Sauvignon | 4.5 | 865 | 4.46 |
+| 1 | Matalj · Kremen Kamen | 4.5 | 865 | 4.46 |
 | 2 | Manastir Bukovo · Filigran Cabernet Sauvignon | 4.2 | 236 | 4.14 |
 | 3 | Matalj · Zemna Reserva | 4.2 | 142 | 4.11 |
 | 4 | Vimmid · Аглаjа Dentelle Cabernet Sauvignon | 4.3 | 64 | 4.10 |

@@ -177,7 +177,7 @@ jovac-single-vineyard-stella-noir,Jovac,Single Vineyard Stella Noir,vivino,5,4.3
 jovac-single-vineyard-selection-chardonnay,Jovac,Single Vineyard Selection Chardonnay,vivino,5,4.3,39,False,,,,,https://www.vivino.com/w/9833124,2026-08-28
 jovac-single-vineyard-selection-tamjanika,Jovac,Single Vineyard Selection Tamjanika,vivino,5,4.2,123,False,,,,,https://www.vivino.com/w/10263439,2026-08-28
 jovac-single-vineyard-selection-sauvignon-blanc,Jovac,Single Vineyard Selection Sauvignon Blanc,vivino,5,4,50,False,,,,,https://www.vivino.com/w/10472538,2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,vivino,5,4.5,865,False,,,,,https://www.vivino.com/w/2115277,2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,vivino,5,4.5,865,False,,,,,https://www.vivino.com/w/2115277,2026-08-28
 matalj-zemna-reserva,Matalj,Zemna Reserva,vivino,5,4.2,142,False,,,,,https://www.vivino.com/w/12146741,2026-08-28
 matalj-kremen-cabernet-merlot,Matalj,Kremen Cabernet - Merlot,vivino,5,4.1,140,False,,,,,https://www.vivino.com/w/12313157,2026-08-28
 matalj-zacinak-bukovski,Matalj,Začinak Bukovski,vivino,5,4.1,118,False,,,,,https://www.vivino.com/w/7282084,2026-08-28
@@ -1188,7 +1188,7 @@ radovan-tamjanika-radovan-100,Vinarija Radovan,Tamjanika Radovan 100%,falstaff,1
 vinum-grasac-26a,Vinum,Grašac 26a,falstaff,100,93,,False,2019,,,,"falstaff, список белых",2026-08-28
 erdevik-grand-trianon,Erdevik,Grand Trianon,falstaff,100,93,,False,2017,,,,falstaff.com/en/wines/vinarija-erdevik-2017-grand-trianon,2026-08-28
 aleksandrovic-rodoslov-reserve,Aleksandrović,Rodoslov Reserve,wine-searcher,100,91,,False,,,,,find/podrumi+aleksandrovic+rodoslov+rsrv+oplenac+central+serbia,2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,wine-searcher,100,92,,False,,,,,"wine-searcher, страница вина",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,wine-searcher,100,92,,False,,,,,"wine-searcher, страница вина",2026-08-28
 kovacevic-edicija-s-aurelius,Kovačević,Edicija S Aurelius,wine-searcher,100,86,,False,,,,,"wine-searcher, страница вина",2026-08-28
 radovanovic-reserve-cabernet-sauvignon,Radovanović,Réserve Cabernet Sauvignon,wine-searcher,100,90,,False,,,,,find/podrumi+radovanovic+cab+sauv+rsrv+sumadija+serbia,2026-08-28
 erdevik-grand-trianon,Erdevik,Grand Trianon,wine-searcher,100,91,,False,,,,,find/erdevik+grand+trianon+fruska+gora+vojvodina+serbia,2026-08-28
@@ -1208,7 +1208,7 @@ maurer-kadarka-1880-naturalnoe,Maurer,Kadarka 1880 (натуральное),fals
 ivanovic-no-1-2,Ivanović,No 1/2,vino.rs,100,94,,False,2019,,,,vino.rs/blog/zoran-rapajic/item/5626 · Зоран Рапајић,2026-08-28
 chichateau-chi-chardonnay,Chichateau,Chi Chardonnay,falstaff,100,95,,False,2018,,,,"falstaff, список белых",2026-08-28
 temet-tri-morave-belo-reserve,Temet,Tri Morave Belo Reserve,falstaff,100,95,,False,2018,,,,"falstaff, список белых",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,falstaff,100,95,,False,2016,,,,"falstaff, список красных",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,falstaff,100,95,,False,2016,,,,"falstaff, список красных",2026-08-28
 matijasevic-sovinoa-fume-blanc,Matijašević Vinogradi,SoviNoa Fumé Blanc,falstaff,100,94,,False,2020,,,,"falstaff, список белых",2026-08-28
 temet-tri-morave-crveno-reserve,Temet,Tri Morave Crveno Reserve,falstaff,100,94,,False,2019,,,,"falstaff, список красных",2026-08-28
 matijasevic-sovinoa-sauvignon-blanc,Matijašević Vinogradi,SoviNoa Sauvignon Blanc,falstaff,100,93,,False,2021,,,,"falstaff, список белых",2026-08-28
@@ -1273,7 +1273,7 @@ jeremic-sonata-sauvignon-blanc,Jeremić,Sonata Sauvignon Blanc,falstaff,100,91,,
 despotika-beckapaj-infintiy-sauvignon-blanc,Despotika,Beckapaj (Infintiy) Sauvignon Blanc,falstaff,100,90,,False,2021,,,,"falstaff, Шумадия-Велика Морава · белое, 13%",2026-08-28
 despotika-morava-inoks,Despotika,Morava Inoks,falstaff,100,90,,False,2021,,,,"falstaff, Шумадия-Велика Морава · белое, 14%",2026-08-28
 pik-oplenac-constanta-muse-sauvignon-blanc,PIK OPLENAC,Constanta Muse Sauvignon Blanc,falstaff,100,89,,False,2021,,,,"falstaff, поиск по Сербии · белое, совиньон блан, 13%",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,falstaff,100,96,,False,2020,,,,"falstaff, поиск по Сербии · красное",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,falstaff,100,96,,False,2020,,,,"falstaff, поиск по Сербии · красное",2026-08-28
 matalj-zamna-cabernet-sauvignon,Matalj,Zamna Cabernet Sauvignon,falstaff,100,96,,False,2020,,,,"falstaff, поиск по Сербии · красное, 15%",2026-08-28
 zvonko-bogdan-icon-campana-albus,Zvonko Bogdan,Icon Campana Albus,falstaff,100,93,,False,2020,,,,"falstaff, Суботица-Хоргош · белое",2026-08-28
 matijasevic-tri-doline-merlot,Matijašević Vinogradi,Tri Doline Merlot,falstaff,100,93,,False,2020,,,,"falstaff, Шумадия-Велика Морава · красное, 15%",2026-08-28
@@ -1298,7 +1298,7 @@ radovanovic-chardonnay-classique,Radovanović,Chardonnay Classique,falstaff,100,
 delena-70-30-sauvignon-blanc-semillon,Vinarija DeLena,70/30 Sauvignon Blanc /Semillon,falstaff,100,90,,False,2020,,,,"falstaff, поиск по Сербии · белое, 13,5%",2026-08-28
 bukovo-cabernet-sauvignon,Manastir Bukovo,Cabernet Sauvignon,falstaff,100,89,,False,2020,,,,"falstaff, поиск по Сербии · красное",2026-08-28
 bukovo-filigran-gamay,Manastir Bukovo,Filigran Gamay,falstaff,100,89,,False,2020,,,,"falstaff, поиск по Сербии · красное, 15%",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,falstaff,100,97,,False,2019,,,,"falstaff, поиск по Сербии · красное, 15%",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,falstaff,100,97,,False,2019,,,,"falstaff, поиск по Сербии · красное, 15%",2026-08-28
 doja-breg-prokupac,Doja,Breg Prokupac,falstaff,100,95,,False,2019,,,,"falstaff, поиск по Сербии · красное, 14,5%",2026-08-28
 doja-cabernet-sauvigon-breg,Doja,Cabernet Sauvigon Breg,falstaff,100,94,,False,2019,,,,"falstaff, поиск по Сербии · красное, 15,5%",2026-08-28
 zvonko-bogdan-cuvee-no1,Zvonko Bogdan,Cuvée No.1,falstaff,100,94,,False,2019,,,,"falstaff, Суботица-Хоргош · красное · вторая запись Falstaff «Zvonko Bogdan Cuvée No.1» — 93",2026-08-28
@@ -1335,7 +1335,7 @@ radovan-prokupac-radovan-100,Vinarija Radovan,Prokupac Radovan 100%,falstaff,100
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,falstaff,100,94,,False,2019,,,,"falstaff, Шумадия-Велика Морава · красное",2026-08-28
 aleksandrovic-rodoslov-grand-reserve,Aleksandrović,Rodoslov Grand Reserve,falstaff,100,93,,False,2018,,,,"falstaff, поиск по Сербии · красное, 14,5%",2026-08-28
 ivanovic-prokupac-gaga,Ivanović,Prokupac Gaga,falstaff,100,96,,False,2017,,,,"falstaff, поиск по Сербии · красное, 14,5%",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,falstaff,100,95,,False,2017,,,,"falstaff, поиск по Сербии · красное, 15%",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,falstaff,100,95,,False,2017,,,,"falstaff, поиск по Сербии · красное, 15%",2026-08-28
 fruskogorski-tri-sunca,Fruškogorski,Tri SuncA,gilbert-gaillard,100,93,,False,2015,,,,https://www.gilbertgaillard.com/en/resultats/tri-sunca-2015-273477,2026-08-28
 aurus-distillery-chardonnay,AURUS Winery & Distillery,Chardonnay,awc-vienna,100,87,,False,2023,2026,,,awc-online.awc-vienna.at/wine/232997,2026-08-28
 mikic-chardonnay,Mikić,Chardonnay,awc-vienna,100,89,,False,2025,2026,,,awc-online.awc-vienna.at/wine/236389,2026-08-28
@@ -1403,7 +1403,7 @@ aleksic-bonaca-limited,Aleksić,Bonaca Limited,decanter,100,90,,False,2014,2016,
 kis-misterija,Kiš,Misterija,decanter,100,85,,False,2011,2016,white,,"awards.decanter.com, DWWA 2016, вино 560556",2026-08-28
 temet-tri-morave-belo-penusavo-brut,Temet,Tri Morave Belo Penušavo Brut,decanter,100,85,,False,2014,2016,white,,"awards.decanter.com, DWWA 2016, вино 547671",2026-08-28
 matalj-terasa-chardonnay,Matalj,Terasa Chardonnay,decanter,100,92,,False,2013,2017,white,,"awards.decanter.com, DWWA 2017, вино 531241",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,decanter,100,90,,False,2013,2017,red,,"awards.decanter.com, DWWA 2017, вино 531242",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,decanter,100,90,,False,2013,2017,red,,"awards.decanter.com, DWWA 2017, вино 531242",2026-08-28
 bukovo-filigran-cabernet-sauvignon,Manastir Bukovo,Filigran Cabernet Sauvignon,decanter,100,90,,False,2013,2017,red,,"awards.decanter.com, DWWA 2017, вино 558475",2026-08-28
 tonkovic-rapsodija,Tonković,Rapsodija,decanter,100,87,,False,2013,2017,red,,"awards.decanter.com, DWWA 2017, вино 531270",2026-08-28
 virtus-credo,Virtus,Credo,decanter,100,92,,False,2013,2017,red,,"awards.decanter.com, DWWA 2017, вино 526308",2026-08-28
@@ -1578,7 +1578,7 @@ aleksic-zuti-cvet-tamjanika,Aleksić,Zuti Cvet Tamjanika,decanter,100,89,,False,
 bukovo-filigran-game,Manastir Bukovo,Filigran Гаме,decanter,100,88,,False,2015,2019,red,,"awards.decanter.com, DWWA 2019, вино 596546",2026-08-28
 aleksic-temperament-merlot,Aleksić,Temperament Merlot,decanter,100,88,,False,2015,2019,red,,"awards.decanter.com, DWWA 2019, вино 570695",2026-08-28
 aleksic-amanet-vranac,Aleksić,Amanet Vranac,decanter,100,88,,False,2015,2019,red,,"awards.decanter.com, DWWA 2019, вино 570703",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,decanter,100,89,,False,2015,2019,red,,"awards.decanter.com, DWWA 2019, вино 599686",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,decanter,100,89,,False,2015,2019,red,,"awards.decanter.com, DWWA 2019, вино 599686",2026-08-28
 temet-tri-morave,Temet,Tri Morave,decanter,100,88,,False,2018,2019,white,,"awards.decanter.com, DWWA 2019, вино 571842",2026-08-28
 temet-tri-morave,Temet,Tri Morave,decanter,100,89,,False,2017,2019,white,,"awards.decanter.com, DWWA 2019, вино 571848",2026-08-28
 aleksic-zuti-cvet-penusavo,Aleksić,Zuti Cvet Penusavo,decanter,100,87,,False,2015,2019,white,,"awards.decanter.com, DWWA 2019, вино 570756",2026-08-28
@@ -1614,7 +1614,7 @@ virtus-credo,Virtus,Credo,decanter,100,86,,False,2017,2020,red,,"awards.decanter
 bukovo-filigran-roze,Manastir Bukovo,Filigran Roze,decanter,100,85,,False,2017,2020,rosé,,"awards.decanter.com, DWWA 2020, вино 580248",2026-08-28
 doja-breg-prokupac-cabernet,Doja,Breg Prokupac-Cabernet,decanter,100,87,,False,2017,2020,red,,"awards.decanter.com, DWWA 2020, вино 584999",2026-08-28
 janucic-vulkan-merlot,Vinarija Janucic,Vulkan Merlot,decanter,100,87,,False,2017,2020,red,,"awards.decanter.com, DWWA 2020, вино 583936",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,decanter,100,95,,False,2017,2020,red,,"awards.decanter.com, DWWA 2020, вино 580345",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,decanter,100,95,,False,2017,2020,red,,"awards.decanter.com, DWWA 2020, вино 580345",2026-08-28
 matalj-kremen-cabernet-sauvignon,Matalj,Kremen Cabernet Sauvignon,decanter,100,85,,False,2017,2020,red,,"awards.decanter.com, DWWA 2020, вино 582505",2026-08-28
 zmajevac-cuvee,Vinarija Zmajevac,Cuvée,decanter,100,90,,False,2017,2020,red,,"awards.decanter.com, DWWA 2020, вино 580349",2026-08-28
 dumo-pinot-noir,Vinarija Dumo,Pinot Noir,decanter,100,88,,False,2017,2020,red,,"awards.decanter.com, DWWA 2020, вино 582478",2026-08-28
@@ -1628,7 +1628,7 @@ aleksandrovic-vizija-selection,Aleksandrović,Vizija Selection,decanter,100,91,,
 bukovo-filigran-pinot-noir,Manastir Bukovo,Filigran Pinot Noir,decanter,100,88,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 580249",2026-08-28
 delena-1903-merlot,Vinarija DeLena,1903 Merlot,decanter,100,88,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 573327",2026-08-28
 doja-cabernet-sauvignon-merlot,Doja,Cabernet Sauvignon - Merlot,decanter,100,86,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 582513",2026-08-28
-matalj-kremen-kamen-cabernet-sauvignon,Matalj,Kremen Kamen Cabernet Sauvignon,decanter,100,95,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 582508",2026-08-28
+matalj-kremen-kamen,Matalj,Kremen Kamen,decanter,100,95,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 582508",2026-08-28
 matalj-kremen-cabernet-sauvignon,Matalj,Kremen Cabernet Sauvignon,decanter,100,87,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 580365",2026-08-28
 frunza-aglaja-dentelle,Vimmid,Dentelle,decanter,100,92,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 584486",2026-08-28
 erdevik-trianon-merlot-cabernet-sauvignon-syrah,Erdevik,Trianon Merlot-Cabernet Sauvignon-Syrah,decanter,100,87,,False,2016,2020,red,,"awards.decanter.com, DWWA 2020, вино 581257",2026-08-28

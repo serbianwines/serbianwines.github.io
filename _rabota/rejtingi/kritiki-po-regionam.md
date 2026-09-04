@@ -161,7 +161,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1179, с оценкой критиков — 1062, **с обеими — 352**.
+Вин с оценкой Vivino — 1179, с оценкой критиков — 1061, **с обеими — 352**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
@@ -170,7 +170,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Банат | 48 | 26 | 13 |
 | Шумадия | 104 | 110 | 40 |
 | Три Моравы и Жупа | 154 | 104 | 42 |
-| Неготинска Крайина | 42 | 41 | 16 |
+| Неготинска Крайина | 42 | 40 | 16 |
 | Топлица | 22 | 21 | 11 |
 | Юго-восток | 31 | 48 | 13 |
 | Подунавье и Белградский район | 17 | 28 | 6 |
@@ -3386,19 +3386,19 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 | Вино | Урожай | Балл | Источник |
 |---|---|---|---|
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2019 | 97 | Falstaff |
+| Matalj · Kremen Kamen | 2019 | 97 | Falstaff |
 | Matalj · Kremen Kamen | 2021 | 97 | decanter |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2020 | 96 | Falstaff |
+| Matalj · Kremen Kamen | 2020 | 96 | Falstaff |
 | Matalj · Zamna Cabernet Sauvignon | 2020 | 96 | Falstaff |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2016 | 95 | Falstaff |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2017 | 95 | Falstaff |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2017 | 95 | decanter |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2016 | 95 | decanter |
+| Matalj · Kremen Kamen | 2016 | 95 | Falstaff |
+| Matalj · Kremen Kamen | 2017 | 95 | Falstaff |
+| Matalj · Kremen Kamen | 2017 | 95 | decanter |
+| Matalj · Kremen Kamen | 2016 | 95 | decanter |
 | Matalj · Cuvée Bukovski | 2021 | 95 | decanter |
 | Matalj · Bagrina Bukovska | 2022 | 94 | Falstaff |
 | Matalj · Zamna | 2021 | 94 | biwc |
 | Matalj · Bukovski | 2020 | 94 | biwc |
-| Matalj · Kremen Kamen Cabernet Sauvignon | — | 92 | Wine-Searcher |
+| Matalj · Kremen Kamen | — | 92 | Wine-Searcher |
 | Matalj · Crna Tamjanika | 2022 | 92 | Falstaff |
 | Matalj · Terasa Sauvignon Blanc | 2022 | 92 | Falstaff |
 | Manastir Bukovo · Chardonnay Oaked | 2021 | 92 | Falstaff |
@@ -3419,7 +3419,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Manastir Bukovo · Filigran Chardonnay | 2022 | 90 | Falstaff |
 | Matalj · Bukovski | 2020 | 90 | Falstaff |
 | Manastir Bukovo · Вез | 2018 | 90 | Falstaff |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2013 | 90 | decanter |
+| Matalj · Kremen Kamen | 2013 | 90 | decanter |
 | Manastir Bukovo · Filigran Cabernet Sauvignon | 2013 | 90 | decanter |
 | Manastir Bukovo · Merlot | 2015 | 90 | decanter |
 | Matalj · Kremen | 2017 | 90 | decanter |
@@ -3434,7 +3434,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | Manastir Bukovo · Filigran Gamay | 2020 | 89 | Falstaff |
 | Manastir Bukovo · Filigran Reserve Merlot | 2019 | 89 | Falstaff |
 | Vimmid · Cabernet Sauvignon | 2015 | 89 | decanter |
-| Matalj · Kremen Kamen Cabernet Sauvignon | 2015 | 89 | decanter |
+| Matalj · Kremen Kamen | 2015 | 89 | decanter |
 | Matalj · Cuvée Bukovski | 2018 | 89 | decanter |
 | Matalj · Bukovski Prokupac-Začinak | 2021 | 89 | decanter |
 | Matalj · Terasa Sauvignon Blanc | 2024 | 89 | decanter |
@@ -3565,8 +3565,8 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2020 | бронза | bronza | Raj · Game 2017 | 
 | 2020 | вклад в винный туризм | 5 | Matalj | 
 | 2020 | за свои деньги, розе | 2 | Matalj · Dušica 2019 | 
-| 2020 | золото | zlato | Matalj · Kremen Kamen Cabernet Sauvignon 2017 | 
-| 2020 | золото | zlato | Matalj · Kremen Kamen Cabernet Sauvignon 2016 | 
+| 2020 | золото | zlato | Matalj · Kremen Kamen 2017 | 
+| 2020 | золото | zlato | Matalj · Kremen Kamen 2016 | 
 | 2020 | золото | zlato | Matalj · Kremen 2017 | 
 | 2020 | золото | zlato | Matalj · Terasa Sauvignon Blanc 2019 | 
 | 2020 | золото | zlato | Raj · Sova 2018 | 
@@ -3584,7 +3584,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2019 | бронза | bronza | Vimmid · Dantelle Cabernet Sauvignon 2016 | 
 | 2019 | бронза | bronza | Matalj · Kremen Cabernet Sauvignon 2016 | 
 | 2019 | бронза | bronza | Manastir Bukovo · Filigran Гаме 2015 | 
-| 2019 | бронза | bronza | Matalj · Kremen Kamen Cabernet Sauvignon 2015 | 
+| 2019 | бронза | bronza | Matalj · Kremen Kamen 2015 | 
 | 2019 | бронза | bronza | Matalj · Bagrina 2018 | 
 | 2019 | бронза | bronza | Matalj · Terasa Sauvignon Blanc 2017 | 
 | 2019 | бронза | bronza | Matalj · Crna Tamjanika 2018 | 
@@ -3612,7 +3612,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 | 2017 | золото | zlato | Matalj · Kremen Kamen 2013 | 
 | 2017 | отмечено | commended | Matalj · Terasa Sauvignon Blanc 2015 | 
 | 2017 | серебро | srebro | Matalj · Terasa Chardonnay 2013 | 
-| 2017 | серебро | srebro | Matalj · Kremen Kamen Cabernet Sauvignon 2013 | 
+| 2017 | серебро | srebro | Matalj · Kremen Kamen 2013 | 
 | 2017 | серебро | srebro | Manastir Bukovo · Filigran Cabernet Sauvignon 2013 | 
 | 2017 | серебро | srebro | Matalj · Dusica 2015 | 
 | 2017 | серебро | srebro | Matalj · Crna Tamjanika 2015 | 

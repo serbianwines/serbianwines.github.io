@@ -264,6 +264,12 @@ def main():
                 # Александровића стоит в белградском гипермаркете
                 # Mercator'а, а у Maxi её нет вовсе.
                 ("idea-cenovnik", "idea-cenovnik-ceny.json"),
+                # Обязательные ценовники всех прочих сетей — с портала
+                # открытых данных. Тридцать четыре торговца одним
+                # разбором: Univerexport, Aman, DIS, Gomex, METRO,
+                # Cash & Carry, Veropoulos и региональные. Полка та же,
+                # что у Maxi и Idea, поэтому и разряд тот же.
+                ("portal-cenovnik", "portal-cenovnik-ceny.json"),
                 # Собственные магазины хозяйств. Третий канал: не полка
                 # винотеки и не доставка, а цена у производителя. Ради
                 # него всё и затевалось: винотека держит ходовое, а
@@ -284,7 +290,8 @@ def main():
     # Супермаркет — не винотека: у него другая полка и другие цены.
     # Разделение нужно, чтобы можно было спросить отдельно «что взять
     # в супермаркете», а не усреднять две разные торговли в одну.
-    SUPERMARKET = {"maxi", "maxi-cenovnik", "idea", "idea-cenovnik"}
+    SUPERMARKET = {"maxi", "maxi-cenovnik", "idea", "idea-cenovnik",
+                   "portal-cenovnik"}
     syroe = {"vina": [], "istochnik": [], "sobrano": ""}
     for imya, fajl in MAGAZINY:
         put = ZDES / fajl
@@ -387,6 +394,22 @@ def main():
         # Имя дома стоит и в конце: Maxi пишет «Vino belo Sauvignon Blanc
         # Djurdjic 0.75l». Хвост пробуется первым — он вернее начала:
         # в начале обычно сорт.
+        # Сеть дописывает после имени дома свой код: «VINO CRVENO
+        # MERLOT 075L VINARIJA TARPOŠ F71». Хвост от этого перестаёт
+        # быть именем дома, и строка отбрасывалась как «хозяйства нет
+        # в наших таблицах» — при том что рядом та же бутылка без кода
+        # находилась. У Тарпоша так пропало второе мерло за 1399,90,
+        # и первое, за 3499,90, встало нашей строке одно, хотя вместе
+        # они разошлись бы в два с половиной раза и цена снялась бы.
+        # Поэтому пробуется не только сам хвост, но и отступ от него
+        # на слово-другое.
+        # Снимается только короткий код сети — буква с цифрами вроде
+        # «F71», — а не любое слово: отступ в целое слово находит дом
+        # и там, где за ним стоит имя другого вина, и цена «Резервы»
+        # Радовановића вставала базовому каберне.
+        while len(chasti) > 2 and re.fullmatch(r"[A-Za-zČĆŠĐŽ]?\d{1,4}[A-Za-z]?",
+                                               chasti[-1]):
+            chasti = chasti[:-1]
         for skolko in range(min(4, len(chasti) - 1), 0, -1):
             konec = " ".join(chasti[-skolko:])
             klyuch = st.klyuch_hozyaistva(konec)
@@ -671,9 +694,6 @@ def main():
         # доставки было бы неправдой.
         "lavok": lavok_dostavki(),
     }
-    for k, magaziny in list(po_magazinam.items()):
-        if len(magaziny) > 1 and "dostavka" in magaziny:
-            magaziny.pop("dostavka")
 
     cena, razbros, po_magazinu = {}, {}, {}
     for k, magaziny in po_magazinam.items():
@@ -694,11 +714,41 @@ def main():
         # у одного 1795, у другого 11 900, потому что там «Rezerva».
         # Такому вину цену не ставим вовсе.
         if len(chistye) > 1 and max(chistye.values()) / min(chistye.values()) > 2:
-            spor.append({"klyuch_vina": k,
-                         "ceny": {m: round(c) for m, c in chistye.items()},
-                         "pochemu": "магазины расходятся в разы — похоже, "
-                                    "это разные вина"})
-            continue
+            # Пока магазинов было четыре, расхождение в разы означало,
+            # что это разные вина, и цену снимали вовсе. С ценовниками
+            # сорока сетей так терялось вино, о котором семеро согласны,
+            # а восьмой выбивается: «Barbara» Алексића стоит 770–930
+            # у всех и 200 у одной сети — там либо мини-бутылка, либо
+            # ошибка. Поэтому сперва пробуется большинство: если,
+            # отбросив выбивающихся, остаётся не меньше двух магазинов
+            # и они сходятся, берётся их середина, а отброшенное
+            # записывается в спорные — глазами оно всё равно нужно.
+            seredina = statistics.median(chistye.values())
+            soglasny = {m: c for m, c in chistye.items()
+                        if 0.5 <= c / seredina <= 2}
+            vybilis = {m: round(c) for m, c in chistye.items()
+                       if m not in soglasny}
+            if (len(soglasny) >= 2
+                    and max(soglasny.values()) / min(soglasny.values()) <= 2):
+                spor.append({"klyuch_vina": k,
+                             "ceny": {m: round(c) for m, c in chistye.items()},
+                             "otbrosheno": vybilis,
+                             "pochemu": "магазин выбивается из ряда — "
+                                        "отброшен, цена по большинству"})
+                chistye = soglasny
+            else:
+                spor.append({"klyuch_vina": k,
+                             "ceny": {m: round(c) for m, c in chistye.items()},
+                             "pochemu": "магазины расходятся в разы — похоже, "
+                                        "это разные вина"})
+                continue
+        # Строка доставки отодвигается только теперь, когда ясно, что
+        # полочная цена выжила. Прежде она снималась раньше проверок:
+        # у «Merlot» Тарпоша полочная цена пришла двумя разными и была
+        # отброшена, а доставка к тому времени уже была выкинута —
+        # и вино с баллом 95 осталось вовсе без цены.
+        if len(chistye) > 1 and "dostavka" in chistye:
+            chistye.pop("dostavka")
         cena[k] = round(statistics.median(chistye.values()))
         po_magazinu[k] = {m: round(c) for m, c in chistye.items()}
         if len(chistye) > 1:

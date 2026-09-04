@@ -72,8 +72,21 @@ NE_EDA = re.compile(r"books|hemij|veterinar|moto|dexy|metalac|kids|"
                     r"drogerie|conditors|lupus", re.I)
 
 VINO = re.compile(r"\bvin[oa]\b", re.I)
+# Слово «вино» стоит и там, где вина нет: сок «Vino Župa», освежитель
+# воздуха «kuvano vino», салфетки «vino i grožđe», свечи, ароматы.
+# У Maxi и Idea этого не было — там винный раздел; здесь ценовник всей
+# лавки, и отсев нужен строже.
 NE_VINO = re.compile(r"sir[cć]e|sirce|vinjak|rakij|pivo|spricer|špricer|"
-                     r"kobasic|sos\b|[cč]okolad|bombon|paste", re.I)
+                     r"kobasic|sos\b|[cč]okolad|bombon|paste|"
+                     r"\bsok\b|osve[zž]iva|salvet|ubrus|sve[cć]a|miris|"
+                     r"\bčaj\b|\bcaj\b|grozd|kompot|d[zž]em|"
+                     r"vino[- ]?[zž]upa|kuvano vino", re.I)
+# Объём из имени товара: «0,75L», «075L», «1L», «750ML», «0.75 l».
+# Колонка «Jedinica mere» здесь не число, как у Maxi, а слово («kom»),
+# и объём из неё не берётся вовсе. Без объёма двухлитровый пакет
+# считался бы обычной бутылкой: медиана полки от этого падала с 1334
+# до 970 динаров.
+OBEM = re.compile(r"(?<![\d,.])(\d{1,4})[,.]?(\d{0,3})\s*(l|ml)\b", re.I)
 
 
 def vzjat(imya, adres, dvoichnoe=False):
@@ -146,6 +159,28 @@ def chislo(zapis):
         return None
 
 
+def litrov(imya):
+    """«0,75L» → 0.75, «075L» → 0.75, «2L» → 2, «750ML» → 0.75.
+
+    Написание без запятой — «075L», «0 75 L» — у сетей обычное дело:
+    точка теряется при выгрузке. Три цифры, начинающиеся с нуля, — это
+    доли литра, а не семьдесят пять литров.
+    """
+    sovpalo = OBEM.search(imya or "")
+    if not sovpalo:
+        return None
+    celoe, drobnoe, edinica = sovpalo.groups()
+    if drobnoe:
+        chislo = float("%s.%s" % (celoe, drobnoe))
+    elif len(celoe) >= 3 and celoe.startswith("0"):
+        chislo = float("0." + celoe[1:])
+    else:
+        chislo = float(celoe)
+    if edinica.lower() == "ml":
+        chislo /= 1000
+    return chislo if 0.03 <= chislo <= 20 else None
+
+
 def polya(stroka):
     """Имена колонок у сетей в разном регистре; сводим к одному виду."""
     return {re.sub(r"\s+", " ", (k or "").strip().lower()): v
@@ -159,13 +194,25 @@ def vinnye_stroki(tekst, torgovec):
         imya = (z.get("naziv proizvoda") or "").strip()
         if not imya or not VINO.search(imya) or NE_VINO.search(imya):
             continue
+        # «RM NIJE DEFINISANA» — не марка, а признак, что марку
+        # не заполнили. Оставленная как есть, она выдаёт себя за
+        # хозяйство, и строка отбрасывается с пометкой «хозяйства нет
+        # в наших таблицах», хотя имя дома стоит в имени товара:
+        # «VINO CRVENO MERLOT 075L VINARIJA TARPOŠ». Так пропало второе
+        # мерло Тарпоша за 1399,90, а первое, за 3499,90, осталось одно
+        # и встало нашей строке — при том что вместе они разошлись бы
+        # в два с половиной раза и предохранитель снял бы цену вовсе.
+        marka = (z.get("robna marka") or "").strip()
+        if re.fullmatch(r"RM\s+NIJE\s+DEFINISANA|NIJE\s+DEFINISANO|N/?A",
+                        marka, re.I):
+            marka = ""
         najdeno.append({
             "vino": imya,
-            "hozyaistvo": (z.get("robna marka") or "").strip(),
+            "hozyaistvo": marka,
             "shtrihkod": (z.get("barkod proizvoda") or "").strip(),
             "cena_rsd": chislo(z.get("redovna cena")),
             "cena_akcii": chislo(z.get("snižena cena") or z.get("snizena cena")),
-            "litrov": chislo(z.get("jedinica mere")),
+            "litrov": litrov(imya),
             "format": (z.get("naziv trgovca - formata") or "").strip(),
             "torgovec": torgovec,
         })

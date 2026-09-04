@@ -354,7 +354,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Centralna Srbija | Rejon Negotinska Krajina | 23 | 64 | 119 | 199 |
 | Vojvodina | Rejon Telečka | 3 | 2 | 2 | 2 |
 | Centralna Srbija | Rejon Tri Morave | 83 | 240 | 361 | 668 |
-| Vojvodina | Sremski rejon | 92 | 343 | 687 | 1290 |
+| Vojvodina | Sremski rejon | 91 | 343 | 687 | 1290 |
 | Vojvodina | Subotički rejon | 18 | 94 | 148 | 271 |
 | Centralna Srbija | Šumadijski rejon | 36 | 166 | 296 | 526 |
 | Centralna Srbija | Toplički rejon | 5 | 22 | 67 | 117 |
@@ -472,7 +472,7 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Rejon Tri Morave | Župsko vinogorje | 40 |
 | Rejon Tri Morave | Ražanjsko vinogorje | — |
 | Rejon Tri Morave | *виногорје не установлено* | 14 |
-| Sremski rejon | Fruškogorsko vinogorje | 92 |
+| Sremski rejon | Fruškogorsko vinogorje | 91 |
 | Subotički rejon | Riđičko vinogorje | 5 |
 | Subotički rejon | Palićko vinogorje | 6 |
 | Subotički rejon | Horgoško vinogorje | 1 |
@@ -813,7 +813,6 @@ Podrum, — и **у всех четырёх ноль вин и ноль отзы
 | Podrum Stojković | Fruškogorsko vinogorje | Banoštor | mesto | — |
 | Podrum Šukac | Fruškogorsko vinogorje | Sremska Kamenica | mesto | — |
 | Probus Vineyards | Fruškogorsko vinogorje | — | mesto | — |
-| Quet | Fruškogorsko vinogorje | — | decanter | — |
 | Radošević | Fruškogorsko vinogorje | Banoštor | mesto | — |
 | Rittium | Fruškogorsko vinogorje | — | vivino | — |
 | Salaxia | Fruškogorsko vinogorje | Rakovac | vivino | — |

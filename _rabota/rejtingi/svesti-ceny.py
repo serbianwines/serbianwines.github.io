@@ -450,6 +450,18 @@ def main():
             tochno = [k for nash, k in indeks[hoz] if nash == bez_doma]
             if len(tochno) == 1:
                 return tochno
+            # Те же слова, переставленные местами: ценовник Maxi пишет
+            # «Vino belo Grasac Quet», а у нас вино зовётся «Quet Grašac».
+            # Совпадение слово в слово, только порядок другой, — это одно
+            # имя, и по началу оно не сходится ни в ту, ни в другую
+            # сторону. Проверяется набором, и набор должен совпасть
+            # целиком: «Merlot Barrique» и «Barrique Merlot» — одно вино,
+            # а «Merlot» и «Merlot Barrique» — разные, и их этот заход
+            # не тронет.
+            perestavleno = [k for nash, k in indeks[hoz]
+                            if sorted(nash) == sorted(bez_doma)]
+            if len(perestavleno) == 1:
+                return perestavleno
             return [k for nash, k in indeks[hoz]
                     if (nash[:len(bez_doma)] == bez_doma
                         or bez_doma[:len(nash)] == nash)

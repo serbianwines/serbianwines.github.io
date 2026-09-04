@@ -48,15 +48,18 @@
   },
   "Fruškogorski": {
    "varianty": [
-    "Tri SuncA"
+    "Tri SuncA",
+    "Quet"
    ],
-   "dokazatelstvo": "То же: Gilbert & Gaillard записал в хозяйство марку. «Три сунца» — линейка Фрушкогорског: у него «Tri Sunca Grašac» и «Tri Sunca Traminac Kasna Berba». Отдельного производителя с таким именем нет ни в Винарском регистру, ни у Vivino. Марка стоит в начале имён линейки — «Tri Sunca Grašac», «Tri Sunca Traminac Kasna Berba», — поэтому в имя вина она возвращается.",
+   "dokazatelstvo": "То же: Gilbert & Gaillard записал в хозяйство марку. «Три сунца» — линейка Фрушкогорског: у него «Tri Sunca Grašac» и «Tri Sunca Traminac Kasna Berba». Отдельного производителя с таким именем нет ни в Винарском регистру, ни у Vivino. Марка стоит в начале имён линейки — «Tri Sunca Grašac», «Tri Sunca Traminac Kasna Berba», — поэтому в имя вина она возвращается. Тем же способом сюда попал «Quet» — вторая марка того же дома. Конкурсы печатают её с ним вместе: «Fruskogorski vinogradi doo — Quet Pinot Noir» и «Quet Grašac» у Decanter, «FRUŠKOGORSKI VINOGRADI D.O.O. — Quet Grašac», «Fruškogorski vinogradi — Quet Traminac» и «Quet Cuvee Limited Edition» у балканского конкурса, «Fruškogorski vinogradi DOO — Quet Grašac» и «Quet Traminac» у AWC. У Vivino же «Quet» стоит в поле производителя, и оттуда пришли те же вина без марки: «Chardonnay», «Grašac», «Traminac», «Pinot Noir», «Merlot 18+ Edition», «Cuvée». Сайт у обеих записей Vivino один — fruvin.com, причём у «Quet» это прямо страница «about us» Фрушкогорских винограда.",
    "marki": [
-    "Tri SuncA"
+    "Tri SuncA",
+    "Quet"
    ],
-   "marki_pochemu": "Линейка хозяйства, а не его имя.",
+   "marki_pochemu": "Линейки хозяйства, а не его имя, и обе стоят первым словом имени вина.",
    "marki_v_imeni_vina": [
-    "Tri SuncA"
+    "Tri SuncA",
+    "Quet"
    ]
   },
   "Ivanović": {
@@ -471,6 +474,12 @@
     "Dolina"
    ],
    "marki_pochemu": "В каталоге хозяйства марка стоит первым словом имени вина: «Dolina Barrique Cuvée», «Dolina Tre Får». Значит, у источника, поставившего её в поле производителя, она из имени вина выпала."
+  },
+  "Perla": {
+   "varianty": [
+    "Tisa Pearl"
+   ],
+   "dokazatelstvo": "Две записи Vivino на одно хозяйство: «Perla» (слаг perla-vojvodina) и «Tisa Pearl» (слаг tisa-pearl), сайт у обеих один — tiskaperla.rs. «Tisa Pearl» — английское написание «Тиске перле», «Perla» — короткое. У обеих по одному вину. Область Vivino расходится (Vojvodina и Central Serbia), но она у него и так плоская, и рејона ни одной из записей не даёт."
   }
  },
  "ne_odno_i_to_zhe": {
@@ -487,7 +496,8 @@
   "Vinarija Mihailović / Vinarija Mihajlović": "Разные. У нашего Mihailović единственное вино «Луг (Lug)» с районом Vivino «Šumadija-Great Morava», а Mihajlović из справочника vinarijesrbije стоит в Књажевцу, это Зајечарски округ.",
   "Vinarija Milojević / Подрум Милојевић": "Не сведены, хотя имя одно: линейки не пересекаются. У «Vinarija Milojević» это Giletou — Beli Front, Crni Front, Chardonnay; у «Подрум Милојевић» — Видик, Лана, Мцма, и у каждого вина свой номер Vivino. Рејон у первого Београдски, а единственный Милојевић в регистру — запись № 5062, «Milan Milojević PR „PORODIČNA VINARIJA MILOJEVIĆ“, Ostrikovac», Поморавски округ. Совпадение фамилии доказательством не считается.",
   "Vinogradi Nikolic / Николић Неузински": "Не сведены: доказательства нет. В Винарском регистру Николић один — запись № 6029, «Vinogradi Nikolić Neuzinski doo Novi Sad», — и она подходит обоим именам. Но линейки не пересекаются ни одним вином: у первого «Прокупац», «Прзница», «Црвено», у второго «Монах», «Santa Maria», «Тамјаника». Совпадение фамилии доказательством не считается.",
-  "Vinogradi i vinarija Miletić / Miletic": "Не сведены. Милетића в регистре тоже два: «PODRUM MILETIĆ, Laćisled» и «Vinogradi i vinarija Miletić, Oparić»."
+  "Vinogradi i vinarija Miletić / Miletic": "Не сведены. Милетића в регистре тоже два: «PODRUM MILETIĆ, Laćisled» и «Vinogradi i vinarija Miletić, Oparić».",
+  "Enigma / Doja": "Не сведены: доказательства мало. У Vivino «Enigma» — отдельный производитель с тремя винами (Red, Rosé, White) и 141 отзывом, и сайтом у него записан `doja.rs/enigma-eng/`, то есть страница на домене Доје. Это похоже на линейку Доје, записанную вторым производителем, — так уже было с «Quet» и «Dolina». Но легло всё на одно поле одной записи, страница по этому адресу сегодня отвечает 404, а линейки не пересекаются ни одним именем: у Доје «Belo», «Rose», «Prokupac», «Breg», у «Enigma» — «Red», «White», «Rosé». Сводить на этом нельзя: сведение перенесло бы три вина в главу «Топлица». Мешает и однофамилец: «Enigma» — ещё и вино Винарије Деурић, с бронзой Decanter и серебром AWC, и оно уже привязано к Деурићу правильно. Спрашивается одним письмом хозяйству."
  },
  "ne_privyazano": {
   "Aranđelović": "Хозяйство книги, о котором нет ни одной оценки и ни одной награды: «Прокупље, четвёртое хозяйство района, замыкающее винный путь Топлице». Ни у Vivino, ни у конкурсов, ни в Винарском регистру его нет.",

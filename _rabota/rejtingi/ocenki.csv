@@ -800,12 +800,12 @@ stari-hrast-cabernet-merlot,Podrum Stari Hrast,Cabernet - Merlot,vivino,5,3.7,18
 stari-hrast-selekcija-merlot,Podrum Stari Hrast,Selekcija Merlot,vivino,5,4.3,79,False,,,,,https://www.vivino.com/w/8763659,2026-08-28
 stari-hrast-chardonnay,Podrum Stari Hrast,Chardonnay,vivino,5,3.8,61,False,,,,,https://www.vivino.com/w/4229274,2026-08-28
 stari-hrast-merlot,Podrum Stari Hrast,Merlot,vivino,5,3.8,60,False,,,,,https://www.vivino.com/w/7544716,2026-08-28
-quet-grasac,Quet,Grašac,vivino,5,4.2,150,False,,,,,https://www.vivino.com/w/6755825,2026-08-28
-quet-merlot-18-edition,Quet,Merlot 18+ Edition,vivino,5,4.1,116,False,,,,,https://www.vivino.com/w/4735505,2026-08-28
-quet-cuvee,Quet,Cuvée,vivino,5,4,88,False,,,,,https://www.vivino.com/w/7902281,2026-08-28
-quet-traminac,Quet,Traminac,vivino,5,4,57,False,,,,,https://www.vivino.com/w/1790025,2026-08-28
-quet-pinot-noir,Quet,Pinot Noir,vivino,5,3.9,43,False,,,,,https://www.vivino.com/w/5312733,2026-08-28
-quet-pinot-noir-rose,Quet,Pinot Noir Rosé,vivino,5,3.8,29,False,,,,,https://www.vivino.com/w/5312727,2026-08-28
+fruskogorski-quet-grasac,Fruškogorski,Quet Grašac,vivino,5,4.2,150,False,,,,,https://www.vivino.com/w/6755825,2026-08-28
+fruskogorski-quet-merlot-18-edition,Fruškogorski,Quet Merlot 18+ Edition,vivino,5,4.1,116,False,,,,,https://www.vivino.com/w/4735505,2026-08-28
+fruskogorski-quet-cuvee,Fruškogorski,Quet Cuvée,vivino,5,4,88,False,,,,,https://www.vivino.com/w/7902281,2026-08-28
+fruskogorski-quet-traminac,Fruškogorski,Quet Traminac,vivino,5,4,57,False,,,,,https://www.vivino.com/w/1790025,2026-08-28
+fruskogorski-quet-pinot-noir,Fruškogorski,Quet Pinot Noir,vivino,5,3.9,43,False,,,,,https://www.vivino.com/w/5312733,2026-08-28
+fruskogorski-quet-pinot-noir-rose,Fruškogorski,Quet Pinot Noir Rosé,vivino,5,3.8,29,False,,,,,https://www.vivino.com/w/5312727,2026-08-28
 grumen-sauvignon-blanc,Vinarija Grumen,Sauvignon Blanc,vivino,5,3.8,185,False,,,,,https://www.vivino.com/w/8744756,2026-08-28
 grumen-petit-verdot,Vinarija Grumen,Petit Verdot,vivino,5,3.9,193,False,,,,,https://www.vivino.com/w/9271717,2026-08-28
 grumen-chardonnay,Vinarija Grumen,Chardonnay,vivino,5,3.8,105,False,,,,,https://www.vivino.com/w/8806299,2026-08-28
@@ -1573,7 +1573,7 @@ lastar-pinot-noir,Lastar,Pinot Noir,decanter,100,87,,False,2016,2019,red,,"award
 molovin-vista-hill-red-reserve,Molovin,Vista Hill Red Reserve,decanter,100,94,,False,2010,2019,red,,"awards.decanter.com, DWWA 2019, вино 570382",2026-08-28
 trisic-dimasid,Винарија Тришић (Vinarija Trišić),Dimasid,decanter,100,94,,False,2013,2019,red,,"awards.decanter.com, DWWA 2019, вино 600113",2026-08-28
 trisic-trisino,Винарија Тришић (Vinarija Trišić),Trisino,decanter,100,85,,False,2013,2019,red,,"awards.decanter.com, DWWA 2019, вино 597373",2026-08-28
-quet-13-15-merlot,Quet,13/15 Merlot,decanter,100,83,,False,,2019,red,,"awards.decanter.com, DWWA 2019, вино 601501",2026-08-28
+fruskogorski-quet-13-15-merlot,Fruškogorski,Quet 13/15 Merlot,decanter,100,83,,False,,2019,red,,"awards.decanter.com, DWWA 2019, вино 601501",2026-08-28
 aleksic-zuti-cvet-tamjanika,Aleksić,Zuti Cvet Tamjanika,decanter,100,89,,False,2018,2019,white,,"awards.decanter.com, DWWA 2019, вино 570692",2026-08-28
 bukovo-filigran-game,Manastir Bukovo,Filigran Гаме,decanter,100,88,,False,2015,2019,red,,"awards.decanter.com, DWWA 2019, вино 596546",2026-08-28
 aleksic-temperament-merlot,Aleksić,Temperament Merlot,decanter,100,88,,False,2015,2019,red,,"awards.decanter.com, DWWA 2019, вино 570695",2026-08-28

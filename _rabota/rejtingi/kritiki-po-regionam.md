@@ -161,7 +161,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 
 ## Где две дорожки пересекаются
 
-Вин с оценкой Vivino — 1179, с оценкой критиков — 1062, **с обеими — 348**.
+Вин с оценкой Vivino — 1179, с оценкой критиков — 1062, **с обеими — 352**.
 
 | Район | Vivino | Критики | И то и другое |
 |---|---|---|---|
@@ -4945,7 +4945,7 @@ Plavinac у Gilbert & Gaillard. На Vivino район не представле
 - Pusula Winery · TRAMINAC 2013 — 84 [awc-vienna]
 - Virtus · Marselan 2014 — 83 [decanter]
 - Tody · Doja Belo 2014 — 83 [decanter]
-- Quet · 13/15 Merlot  — 83 [decanter]
+- Fruškogorski · Quet 13/15 Merlot  — 83 [decanter]
 - Virtus · W Gewurztraminer 2019 — 83 [decanter]
 - Château Prince · Morava M 2022 — 83 [biwc]
 - Podrum Pevac · IZAZOV 2022 — 83 [biwc]

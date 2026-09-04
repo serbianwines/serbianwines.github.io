@@ -804,14 +804,22 @@ fruskogorski-fruskac-beli,Fruškogorski,Fruškać Beli,7257040,https://www.vivin
 fruskogorski-fruskac-crveni,Fruškogorski,Fruškać Crveni,6254316,https://www.vivino.com/w/6254316,ocenka_est,517,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
 fruskogorski-fruskac-roze,Fruškogorski,Fruškać Roze,5676134,https://www.vivino.com/w/5676134,malo_ocenok,152,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,розе
 fruskogorski-gusti-mora,Fruškogorski,Gusti Mora,10268944,https://www.vivino.com/w/10268944,malo_ocenok,2,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-fruskogorski-quet-chardonnay,Fruškogorski,Quet Chardonnay,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,
+fruskogorski-quet-13-15-merlot,Fruškogorski,Quet 13/15 Merlot,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,красное
+fruskogorski-quet-chardonnay,Fruškogorski,Quet Chardonnay,1512722,https://www.vivino.com/w/1512722,malo_ocenok,171,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
 fruskogorski-quet-cuvee-limited-edition,Fruškogorski,Quet Cuvee Limited Edition,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
-fruskogorski-quet-grasac,Fruškogorski,Quet Grašac,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,белое
+fruskogorski-quet-cuvee,Fruškogorski,Quet Cuvée,7902281,https://www.vivino.com/w/7902281,ocenka_est,820,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
+fruskogorski-quet-cuvee-blanc,Fruškogorski,Quet Cuvée Blanc,13853458,https://www.vivino.com/w/13853458,malo_ocenok,2,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
+fruskogorski-quet-grasac,Fruškogorski,Quet Grašac,6755825,https://www.vivino.com/w/6755825,ocenka_est,854,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,белое
+fruskogorski-quet-italijanski-rizling,Fruškogorski,Quet Italijanski Rizling,2657379,https://www.vivino.com/w/2657379,malo_ocenok,46,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
 fruskogorski-quet-merlot,Fruškogorski,Quet Merlot,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,
 fruskogorski-quet-merlot-18,Fruškogorski,Quet Merlot 18+,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,
-fruskogorski-quet-merlot-18-edition,Fruškogorski,Quet Merlot 18+ edition,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,
-fruskogorski-quet-pinot-noir,Fruškogorski,Quet Pinot Noir,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,красное
-fruskogorski-quet-traminac,Fruškogorski,Quet Traminac,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
+fruskogorski-quet-merlot-18-edition,Fruškogorski,Quet Merlot 18+ Edition,4735505,https://www.vivino.com/w/4735505,ocenka_est,685,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
+fruskogorski-quet-pinot-blanc,Fruškogorski,Quet Pinot Blanc,5312717,https://www.vivino.com/w/5312717,malo_ocenok,64,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
+fruskogorski-quet-pinot-noir,Fruškogorski,Quet Pinot Noir,5312733,https://www.vivino.com/w/5312733,ocenka_est,261,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,красное
+fruskogorski-quet-pinot-noir-rose,Fruškogorski,Quet Pinot Noir Rosé,5312727,https://www.vivino.com/w/5312727,ocenka_est,111,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,розе
+fruskogorski-quet-probus-rose,Fruškogorski,Quet Probus Rosé,10227836,https://www.vivino.com/w/10227836,malo_ocenok,110,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,розе
+fruskogorski-quet-sauvignon-blanc,Fruškogorski,Quet Sauvignon Blanc,5312716,https://www.vivino.com/w/5312716,malo_ocenok,139,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
+fruskogorski-quet-traminac,Fruškogorski,Quet Traminac,1790025,https://www.vivino.com/w/1790025,ocenka_est,322,False,True,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
 fruskogorski-traminac,Fruškogorski,Traminac,,,net_na_vivino,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
 fruskogorski-tri-sunca-grasac,Fruškogorski,Tri Sunca Grašac,13813015,https://www.vivino.com/w/13813015,malo_ocenok,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,десертное
 fruskogorski-tri-sunca-traminac-kasna-berba,Fruškogorski,Tri Sunca Traminac Kasna Berba,6213937,https://www.vivino.com/w/6213937,malo_ocenok,25,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,десертное
@@ -1889,20 +1897,6 @@ pusula-rose,Pusula Winery,Rose,2285292,https://www.vivino.com/w/2285292,ocenka_e
 pusula-sauvignon-blanc,Pusula Winery,Sauvignon Blanc,2660419,https://www.vivino.com/w/2660419,ocenka_est,275,False,True,Pocersko Valjevski Rejon,,konkurs,белое
 pusula-semper-bene-cabernet-sauvignon,Pusula Winery,Semper Bene Cabernet Sauvignon,1966576,https://www.vivino.com/w/1966576,malo_ocenok,54,False,False,Pocersko Valjevski Rejon,Podgorsko vinogorje,hozyaistvo,красное
 pusula-traminac,Pusula Winery,Traminac,4812477,https://www.vivino.com/w/4812477,ocenka_est,202,False,True,Pocersko Valjevski Rejon,,konkurs,белое
-quet-13-15-merlot,Quet,13/15 Merlot,,,net_na_vivino,,False,True,Sremski rejon,Fruškogorsko vinogorje,konkurs,красное
-quet-chardonnay,Quet,Chardonnay,1512722,https://www.vivino.com/w/1512722,malo_ocenok,171,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-quet-cuvee,Quet,Cuvée,7902281,https://www.vivino.com/w/7902281,ocenka_est,820,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
-quet-cuvee-blanc,Quet,Cuvée Blanc,13853458,https://www.vivino.com/w/13853458,malo_ocenok,2,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-quet-grasac,Quet,Grašac,6755825,https://www.vivino.com/w/6755825,ocenka_est,854,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-quet-italijanski-rizling,Quet,Italijanski Rizling,2657379,https://www.vivino.com/w/2657379,malo_ocenok,46,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-quet-merlot-18-edition,Quet,Merlot 18+ Edition,4735505,https://www.vivino.com/w/4735505,ocenka_est,685,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
-quet-pinot-blanc,Quet,Pinot Blanc,5312717,https://www.vivino.com/w/5312717,malo_ocenok,64,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-quet-pinot-noir,Quet,Pinot Noir,5312733,https://www.vivino.com/w/5312733,ocenka_est,261,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,красное
-quet-pinot-noir-rose,Quet,Pinot Noir Rosé,5312727,https://www.vivino.com/w/5312727,ocenka_est,111,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,розе
-quet-probus-rose,Quet,Probus Rosé,10227836,https://www.vivino.com/w/10227836,malo_ocenok,110,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,розе
-quet-sauvignon-blanc,Quet,Sauvignon Blanc,5312716,https://www.vivino.com/w/5312716,malo_ocenok,139,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-quet-traminac,Quet,Traminac,1790025,https://www.vivino.com/w/1790025,ocenka_est,322,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,белое
-quet-tri-sunca-traminac-late-harvest,Quet,Tri sunca Traminac Late Harvest,,,net_na_vivino,,False,False,Sremski rejon,Fruškogorsko vinogorje,hozyaistvo,
 radosavljevic-ognjiste,Radosavljevic,Ognjište,10780351,https://www.vivino.com/w/10780351,malo_ocenok,4,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo,красное
 radosavljevic-rosa,Radosavljevic,Rosa,10821063,https://www.vivino.com/w/10821063,malo_ocenok,5,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo,розе
 radosavljevic-sauvignon,Radosavljevic,Sauvignon,13463292,https://www.vivino.com/w/13463292,malo_ocenok,,False,False,Rejon Tri Morave,Kruševačko vinogorje,hozyaistvo,белое

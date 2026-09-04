@@ -67,7 +67,7 @@ Erdevik,erdevik,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Erdevik,mesto,,f
 Fekete,fekete,Vojvodina,Rejon Bačka,,,vivino,,,ne_ustanovlen,,True,False,['Fekete'],,,1
 Fragaria,fragaria,Centralna Srbija,Rejon Tri Morave,Župsko vinogorje,Aleksandrovac,mesto,,morave,kniga,"Aleksandrovac, Rasinski okrug",True,True,"['Fragaria', 'Boutique Vinarija Fragaria', 'Vinarija Fragaria']",,,8
 Francuska vinarija,francuska-estelle-et-cyrille-bongiraud,Centralna Srbija,Rejon Negotinska Krajina,Rogljevačko-rajačko vinogorje,Rogljevo,mesto,,negotin,kniga,Rogljevo,True,True,"['Francuska vinarija', 'Francuska Vinarija - Estelle et Cyrille Bongiraud', 'Francuska Vinarija']",,,14
-Fruškogorski,fruskogorski,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,,ne_ustanovlen,"Banoštor, Južno-bački okrug",True,False,"['Fruškogorski', 'FRUŠKOGORSKI VINOGRADI D.O.O.', 'Fruskogorski vinogradi doo', 'Fruškogorski vinogradi DOO', 'Fruskogorski Vinogradi', 'Fruškogorski Vinogradi', 'Fruškogorski vinogradi', 'Tri SuncA']",,,9
+Fruškogorski,fruskogorski,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,,ne_ustanovlen,"Banoštor, Južno-bački okrug",True,False,"['Fruškogorski', 'FRUŠKOGORSKI VINOGRADI D.O.O.', 'Fruskogorski vinogradi doo', 'Fruškogorski vinogradi DOO', 'Fruskogorski Vinogradi', 'Fruškogorski Vinogradi', 'Fruškogorski vinogradi', 'Tri SuncA', 'Quet']",,,21
 Galot,galot,Vojvodina,Južnobanatski rejon,Vinogorje Deliblatske peščare,Banatski Karlovac,mesto,"по месту Južnobanatski rejon, у источников Banatski rejon ×1",banat,kniga,Banatski Karlovac,True,True,['Galot'],,,17
 Gardijan,gardijan,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Gardijan'],,,0
 Gora,gora,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,decanter,,,ne_ustanovlen,,True,False,['Gora'],,,0
@@ -196,7 +196,6 @@ Prokupac,prokupac,,,,,ne_ustanovlen,,,ne_ustanovlen,,True,False,['Prokupac'],,,0
 Pruna,pruna,Centralna Srbija,Mlavski rejon,,Vuković,mesto,,,ne_ustanovlen,Vuković,True,False,['Pruna'],,,5
 Puce,puce,Centralna Srbija,Pocersko Valjevski Rejon,Podgorsko vinogorje,Miličinica,mesto,,,ne_ustanovlen,"Miličinica, Kolubarski okrug",True,False,['Puce'],,,3
 Pusula Winery,pusula,Centralna Srbija,Pocersko Valjevski Rejon,Podgorsko vinogorje,Miličinica,mesto,"по месту Pocersko Valjevski Rejon, у источников Pocersko Valjevski Rejon ×9; Rejon Tri Morave ×4",,ne_ustanovlen,Miličinica,True,False,"['Pusula Winery', 'PUSULA WINERY (ASTRA ITB doo)', 'Pusula winery', 'Pusula']",,,10
-Quet,quet,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,,decanter,,,ne_ustanovlen,,True,False,['Quet'],,,12
 Radosavljevic,radosavljevic,Centralna Srbija,Rejon Tri Morave,Kruševačko vinogorje,Kruševac,mesto,,,ne_ustanovlen,"Kruševac, Rasinski okrug",True,False,['Radosavljevic'],,,3
 Radovanović,radovanovic,Centralna Srbija,Šumadijski rejon,Krnjevačko vinogorje,Krnjevo,mesto,,sumadija,kniga,"Krnjevo, Podunavski okrug",True,True,"['Radovanović', 'Podrum Radovanovic Doo', 'Vinarija Radovanović', 'Podrum Radovanovic', 'Podrum Radovanović', 'Podrum Radovanovič', 'Radovanovic']",,,20
 Radošević,radosevic,Vojvodina,Sremski rejon,Fruškogorsko vinogorje,Banoštor,mesto,,,ne_ustanovlen,"Banoštor, Južno-bački okrug",True,False,['Radošević'],,,6

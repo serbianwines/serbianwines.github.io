@@ -90,7 +90,10 @@ GOLOVA = 700_000
 # сидят лавки при хозяйствах.
 VINNAYA = re.compile(r"vinotek|vino-|-vino|^vino|wine|vinarij|podrum", re.I)
 # Названы иначе, а торгуют вином. Список ведётся руками и с проверкой.
-IMENEM_NE_VIDNO = ("ours",)
+# Оба гипермаркета Mercator'а зовутся просто «hipermarket-beograd» и
+# «hipermarket-novi-sad», без имени сети: по слову «mercator» они
+# не находятся вовсе, а именно в белградском автор нашёл «Каменичарку».
+IMENEM_NE_VIDNO = ("ours", "hipermarket-beograd", "hipermarket-novi-sad")
 # Набор бутылок, а не бутылка.
 NABOR = re.compile(r"\bpaket|\bboc[ae]\b|\bbo[cč]a\b|\bset\b|\bkutij|"
                    r"\d\s*[x×]\s*0[.,]\d+", re.I)
@@ -164,11 +167,33 @@ def yarlyk(slag, adres):
 
 
 def razdely(slag):
+    """Все разделы площадки, включая вложенные.
+
+    Раздел бывает не листом, а полкой из полок: у «Mercator Hipermarket»
+    раздел «VINO» товаров не держит вовсе, они лежат в «belo-vino-83»,
+    «crveno-vino-84», «penusavo-vino-85» и «rose-86». Первая редакция
+    обходила только верхний уровень, и такая площадка отвечала пустотой:
+    восемь винотек и оба гипермаркета я записал в «не отдают вино», хотя
+    вино у них есть, просто уровнем ниже. Подразделы есть у двадцати
+    семи площадок из шестидесяти шести, и у иных их полторы сотни.
+    """
     tekst = vzjat("razdely-%s.json" % slag, API % slag)
     try:
-        return json.loads(tekst).get("categories") or []
+        verhnie = json.loads(tekst).get("categories") or []
     except ValueError:
         return []
+    vse, ochered = [], list(verhnie)
+    vidennye = set()
+    while ochered:
+        razdel = ochered.pop(0)
+        slug = razdel.get("slug")
+        if not slug or slug in vidennye:
+            continue
+        vidennye.add(slug)
+        vse.append(razdel)
+        ochered += [x for x in (razdel.get("subcategories") or [])
+                    if isinstance(x, dict)]
+    return vse
 
 
 def tovary(slag, razdel):

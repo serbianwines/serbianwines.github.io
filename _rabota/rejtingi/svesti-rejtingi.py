@@ -128,6 +128,7 @@ def chitat():
     jl = lambda imya: [json.loads(s) for s in
                        (ZDES / imya).read_text(encoding="utf-8").splitlines() if s.strip()]
     cena, supermarket, polka_svodka, u_hozyaistva = {}, {}, {}, {}
+    dostavka = {}
     put = ZDES / "ceny-vin.json"
     if put.exists():
         d = json.loads(put.read_text(encoding="utf-8"))
@@ -140,13 +141,16 @@ def chitat():
         # То же о третьем канале — магазине самого хозяйства.
         u_hozyaistva = dict(d.get("u_hozyaistva") or {},
                             hozyaistv=d.get("hozyaistv_s_magazinom"))
+        # И о четвёртом — витрине доставки.
+        dostavka = d.get("dostavka") or {}
     return jl("hozyaistva.jsonl"), jl("vina.jsonl"), jl("ocenki.jsonl"), \
-        jl("nagrady.jsonl"), cena, supermarket, polka_svodka, u_hozyaistva
+        jl("nagrady.jsonl"), cena, supermarket, polka_svodka, \
+        u_hozyaistva, dostavka
 
 
 def razobrat():
     (hozyaistva, vina, ocenki, nagrady, cena, supermarket,
-     polka_svodka, u_hozyaistva) = chitat()
+     polka_svodka, u_hozyaistva, dostavka) = chitat()
     # Цвет вина стоит в самой таблице — его сводит `sobrat-tablicy.py`.
     cvet = {v["klyuch"]: v.get("cvet") for v in vina}
     dom = {h["hozyaistvo"]: h for h in hozyaistva}
@@ -198,6 +202,7 @@ def razobrat():
                 ochki=ochki, cena=cena, supermarket=supermarket,
                 polka_supermarketa=polka_svodka,
                 u_hozyaistva=u_hozyaistva,
+                dostavka=dostavka,
                 cvet=cvet, po_rejonu=po_rejonu, po_regionu=po_regionu,
                 rang_vino_rs=rang_vino_rs)
 
@@ -613,6 +618,24 @@ def po_strane(d, pech):
                     vin_shtuk(uh["vin_i_tam_i_tam"]),
                     uh["deshevle_u_hozyaistva"],
                     uh.get("hozyaistv") or "нескольких"))
+
+        # Четвёртая полка — витрина доставки. Она дороже всех, и потому
+        # идёт в счёт последней; но лавок в ней больше, чем во всех
+        # остальных источниках вместе, и цену трёхсот вин знаем только
+        # оттуда.
+        dost = d.get("dostavka") or {}
+        if dost.get("nacenka_dostavki"):
+            pech("Четвёртая — витрина доставки: %s винотек в Wolt. Она "
+                 "дороже полки, и насколько, теперь измерено на %s, "
+                 "а не на четырёх бутылках: середина отношения %.2f, "
+                 "то есть примерно %.0f%% сверху. Строка доставки идёт "
+                 "в счёт только там, где полочной цены нет вовсе, — "
+                 "а таких %s.\n"
+                 % (dost.get("lavok") or "нескольких",
+                    vin_shtuk(dost["vin_i_tam_i_tam"]),
+                    dost["nacenka_dostavki"],
+                    (dost["nacenka_dostavki"] - 1) * 100,
+                    vin_shtuk(dost["vin_tolko_iz_dostavki"])))
 
     # Доступное вино редко ездит на конкурс, и ряд выше молчит как раз
     # о самых ходовых бутылках: у «Sfera» Бикицког 308 отзывов и ни

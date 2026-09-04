@@ -184,7 +184,7 @@ def cvet_iz_imeni(slova_hvosta):
 # при 1910 за базовый. Ошибка дорогая вдвойне: она бьёт по пятёрке
 # «лучшее за свои деньги», где цена и есть половина ответа.
 STARSHIE = {"reserve", "reserva", "riserva", "rezerva", "rezerve", "grand",
-            "gran", "premium", "limited", "limitirano", "superior",
+            "gran", "premium", "limited", "limitirano", "limit", "superior",
             "icon", "ikona", "magnum", "arhivsko", "archive"}
 # Список нарочно короткий. Первая редакция была вдвое длиннее и включала
 # «single vineyard», «selection», «barrique» — и сразу отняла верную цену:
@@ -193,6 +193,11 @@ STARSHIE = {"reserve", "reserva", "riserva", "rezerva", "rezerve", "grand",
 # вовсе без цены. Слова, которые бывают и в базовом имени, сюда не идут:
 # случай «Trijumf» против «Trijumf Selection» и без них разбирается —
 # оба вина есть у нас, и подходят оба, а два кандидата цену отменяют.
+# «limit» добавлен отдельно от «limited»: винотека Etiketa пишет
+# «Arsenijević Kaberne Limit», и это встало на нашу «Kaberne» — при том
+# что отдельной строкой у нас стоит «Cabernet Sauvignon Limited
+# Edition». Какая из двух — по имени товара не решить, и цены лучше
+# не ставить вовсе.
 
 
 def starshaya_liniya(nashe, tovarnoe):
@@ -202,13 +207,42 @@ def starshaya_liniya(nashe, tovarnoe):
     длинного: короткое имя целиком входит в длинное, иначе сюда бы
     не дошло.
     """
-    hvost = (tovarnoe[len(nashe):] if len(tovarnoe) > len(nashe)
+    dlinnee_tovarnoe = len(tovarnoe) > len(nashe)
+    hvost = (tovarnoe[len(nashe):] if dlinnee_tovarnoe
              else nashe[len(tovarnoe):])
+    if dlinnee_tovarnoe:
+        # Приписал магазин. Хватает одного старшего слова, а не всех:
+        # «Temet Tri Morave Reserva Crveno» давало хвост ['reserva',
+        # 'crveno'], и «все слова старшие» не выполнялось из-за цвета —
+        # цена резервы, восемь тысяч восемьсот, вставала базовому
+        # «Tri Morave» при его собственных двух с половиной тысячах.
+        # Если магазин назвал резерву, а наше имя её не называет, это
+        # не наше вино, что бы ни стояло в хвосте рядом.
+        return any(slovo in STARSHIE for slovo in hvost)
+    # Приписали мы. Тут наоборот: магазин зовёт вина короче нас, и
+    # лишние слова у нашего имени — обычное дело. Отказывать надо,
+    # только когда всё лишнее и есть пометка старшей линии: у Јовца
+    # наш «Merlot Grand Reserve» против магазинного «Merlot». А наш
+    # «Pino Svetih Ratnika Reserve Pinot Noir» против магазинного
+    # «Pino Svetih Ratnika» — то же вино, просто названное короче,
+    # и строгое правило отняло у него цену.
     return bool(hvost) and all(slovo in STARSHIE for slovo in hvost)
 
 
 def slova(st, imya):
     return [c for c in st.klyuch(st.latinicej(imya or "")).split("-") if c]
+
+
+def lavok_dostavki():
+    """Сколько винотек Wolt отдали хоть одно вино."""
+    put = ZDES / "wolt-ceny.json"
+    if not put.exists():
+        return None
+    d = json.loads(put.read_text(encoding="utf-8"))
+    vsego = d.get("ploshchadok")
+    if not vsego:
+        return None
+    return vsego - len(d.get("ploshchadok_bez_vina") or [])
 
 
 def main():
@@ -375,6 +409,11 @@ def main():
     for z in syroe["vina"]:
         if not z.get("cena_rsd"):
             continue
+        # Марку товара держат не все источники: у винотек Wolt дом стоит
+        # только в имени вина, отдельного поля нет вовсе. Такая строка
+        # идёт дальше с пустым домом, и дом достаётся из имени тем же
+        # разбором, что и у Maxi, когда марка чужая.
+        z = {**z, "hozyaistvo": z.get("hozyaistvo") or ""}
         imya = chistoe_imya(z["vino"], yarlyk=z["magazin"] in SUPERMARKET)
         # Объём магазин пишет то в имени, то отдельным полем. Поле
         # надёжнее: в имени его может не быть вовсе.
@@ -461,10 +500,31 @@ def main():
             # Prokupac» и доставалось базовому «Prokupac». Снимается
             # только пара «число + число с буквой l»: одиночное число
             # в конце бывает именем — «Probus 276», «Cuvée 21».
-            if len(polnyj) > 1 and re.match(r"^\d*[.,]?\d+l$", polnyj[-1]):
+            if len(polnyj) > 1 and re.match(r"^\d*[.,]?\d+[mc]?l$", polnyj[-1]):
                 polnyj.pop()
                 if len(polnyj) > 1 and re.match(r"^\d+$", polnyj[-1]):
                     polnyj.pop()
+            # Тот же объём, написанный с пробелом: «0.75 l» даёт слова
+            # «075» и «l» по отдельности. Правило выше их не снимало,
+            # и «Arsenijević Kaberne Limit 0.75 l» шло с хвостом
+            # ['kaberne', 'limit', '075', 'l']. Предохранитель старшей
+            # линии требует, чтобы старшими были все слова хвоста, —
+            # а «075» и «l» словами линии не были, и цена «Kaberne
+            # Limit» встала на нашу «Kaberne», при том что отдельной
+            # строкой у нас есть «Cabernet Sauvignon Limited Edition».
+            if len(polnyj) > 1 and polnyj[-1] in ("l", "ml", "cl"):
+                if len(polnyj) > 2 and re.match(r"^\d+$", polnyj[-2]):
+                    polnyj.pop()
+                    polnyj.pop()
+            # Объём вовсе без единицы: «Vino Molovin Inat 0,75» даёт
+            # в хвосте «0» и «75». Снимается только пара, читающаяся
+            # объёмом бутылки, — «0 75», «0 375», «1 5»: одиночное
+            # число именем бывает («Probus 276», «Cuvée 21»), а такая
+            # пара — нет.
+            if (len(polnyj) > 2 and polnyj[-2] in ("0", "1")
+                    and polnyj[-1] in ("75", "375", "5", "50", "7")):
+                polnyj.pop()
+                polnyj.pop()
             return polnyj
 
         def podobrat(bez_doma, indeks):
@@ -568,6 +628,28 @@ def main():
     # сама винотека. Поэтому такая строка идёт в счёт только там, где
     # другой цены нет вовсе: лучше цена с наценкой, чем никакой, но хуже
     # полочной.
+    # Наценка доставки — величина измеряемая, и мерить её надо до того,
+    # как строка доставки отодвинута: после сравнивать будет не с чем.
+    otnosheniya_dostavki = []
+    for magaziny in po_magazinam.values():
+        if len(magaziny) > 1 and "dostavka" in magaziny:
+            polka_cen = [c for m, spisok in magaziny.items()
+                         if m != "dostavka" for c in spisok]
+            if polka_cen and magaziny["dostavka"]:
+                otnosheniya_dostavki.append(
+                    statistics.median(magaziny["dostavka"])
+                    / statistics.median(polka_cen))
+    dostavka_svodka = {
+        "vin_tolko_iz_dostavki": sum(1 for m in po_magazinam.values()
+                                     if list(m) == ["dostavka"]),
+        "vin_i_tam_i_tam": len(otnosheniya_dostavki),
+        "nacenka_dostavki": (round(statistics.median(otnosheniya_dostavki), 3)
+                             if otnosheniya_dostavki else None),
+        # Лавки считаются те, что вино отдали: из шестидесяти шести
+        # опрошенных восемь не отдали ничего, и называть их винотеками
+        # доставки было бы неправдой.
+        "lavok": lavok_dostavki(),
+    }
     for k, magaziny in list(po_magazinam.items()):
         if len(magaziny) > 1 and "dostavka" in magaziny:
             magaziny.pop("dostavka")
@@ -627,6 +709,9 @@ def main():
         # Третий канал: цена у самого хозяйства. Меряется отдельно —
         # она идёт в другую сторону, чем полка супермаркета и доставка.
         "u_hozyaistva": u_hozyaistva(po_magazinu),
+        # Четвёртый: витрина доставки. Считается до того, как её строки
+        # отодвинуты полочными, — иначе наценку не с чем сравнивать.
+        "dostavka": dostavka_svodka,
         "hozyaistv_s_magazinom": (
             json.loads((ZDES / "vinarije-ceny.json").read_text(encoding="utf-8"))
             .get("hozyaistv_s_magazinom")

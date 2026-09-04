@@ -57,10 +57,12 @@
 с наценкой — измерено на Легате, восемнадцать процентов, — и в сведении
 такая строка идёт в счёт только там, где полочной нет вовсе.
 
-Пишет `wolt-ceny.json`. Кеш — в `kesh-wolt/`.
+Пишет `wolt-ceny.json`, а описания вин наших хозяйств —
+отдельно, в `wolt-opisaniya.json`. Кеш — в `kesh-wolt/`.
 """
 import argparse
 import collections
+import html
 import json
 import pathlib
 import re
@@ -93,6 +95,11 @@ IMENEM_NE_VIDNO = ("ours",)
 NABOR = re.compile(r"\bpaket|\bboc[ae]\b|\bbo[cč]a\b|\bset\b|\bkutij|"
                    r"\d\s*[x×]\s*0[.,]\d+", re.I)
 OBEM = re.compile(r"(\d+(?:[.,]\d+)?)\s*(l|ml)\b", re.I)
+# Лавка украшает имя в выкладке: «*** Vino Deurić Aksiom beli 0.75l ***»,
+# «***Aleksandrović Harizma Chardonnay*** 0.75 l». Звёздочки — выделение
+# в списке, а не часть имени, и в сведении они мешают: имя перестаёт
+# начинаться с имени дома.
+UKRASHENIE = re.compile(r"^[\s*•!]+|[\s*]+$")
 
 
 def vzjat(imya, adres, golova=None):
@@ -147,7 +154,10 @@ def yarlyk(slag, adres):
             continue
         if zapis.get("@type") == "Store":
             adres_lavki = zapis.get("address") or {}
-            return {"magazin": zapis.get("name") or slag,
+            # Имя лавки приходит с экранированными знаками: «The BOX -
+            # Wine &amp; Spirit shop». В имени магазина мнемоника видна
+            # глазами, и её надо снять здесь, а не в отчёте.
+            return {"magazin": html.unescape(zapis.get("name") or slag),
                     "gorod": adres_lavki.get("addressLocality"),
                     "ulica": adres_lavki.get("streetAddress")}
     return {"magazin": slag, "gorod": None, "ulica": None}
@@ -196,7 +206,8 @@ def vina_ploshchadki(slag, lavka):
         for tovar in tovary(slag, razdel.get("slug") or ""):
             if "WINE" not in (tovar.get("product_hierarchy_tags") or []):
                 continue
-            imya = (tovar.get("name") or "").strip()
+            imya = UKRASHENIE.sub("", html.unescape(tovar.get("name") or ""))
+            imya = re.sub(r"\s+", " ", imya).strip()
             if not imya or NABOR.search(imya):
                 continue
             cena = tovar.get("price")
@@ -211,6 +222,43 @@ def vina_ploshchadki(slag, lavka):
                 **lavka,
             })
     return najdeno
+
+
+DIAKRITIKA = str.maketrans({"č": "c", "ć": "c", "š": "s", "ž": "z", "đ": "dj",
+                            "Č": "c", "Ć": "c", "Š": "s", "Ž": "z", "Đ": "dj"})
+
+
+def prosto(s):
+    """Имя без регистра, диакритики и знаков: для грубого сравнения."""
+    return re.sub(r"[^a-z0-9]+", " ",
+                  (s or "").lower().translate(DIAKRITIKA)).strip()
+
+
+def nashi_doma():
+    """Имена наших хозяйств — грубо, для отбора описаний.
+
+    Описание пишет продавец или само хозяйство, и в нём бывает место:
+    «Serbia/Fruška Gora/Probus», «vinograd na Venčacu». Это тот же
+    материал, что закрыл место пятерым по карточкам «Vinoteka Beograd»,
+    и терять его жалко. Но описаний семь с половиной тысяч, и почти все
+    — у чужих вин: итальянских, французских, испанских. Поэтому
+    в отдельный файл идут только те, чьё имя называет наш дом.
+    """
+    imena = set()
+    put = ZDES / "hozyaistva.jsonl"
+    if not put.exists():
+        return imena
+    for stroka in put.read_text(encoding="utf-8").splitlines():
+        if not stroka.strip():
+            continue
+        zapis = json.loads(stroka)
+        for imya in [zapis.get("hozyaistvo")] + (zapis.get("imena") or []):
+            korotko = prosto(imya)
+            # Односложные и короткие имена («117», «Doja») ловят пол-
+            # выдачи чужими словами; берутся имена от пяти знаков.
+            if korotko and len(korotko) >= 5:
+                imena.add(korotko)
+    return imena
 
 
 def main():
@@ -263,6 +311,21 @@ def main():
     vina.sort(key=lambda z: z["vino"])
     s_cenoj = sum(1 for z in vina if z["cena_rsd"])
 
+    # Описания уходят отдельным файлом и только у наших хозяйств:
+    # в цене они не нужны, а в файле цен весили бы вдвое больше самих
+    # цен. Читать их — когда встанет вопрос о месте хозяйства.
+    doma = nashi_doma()
+    opisaniya = []
+    for zapis in vina:
+        opisanie = zapis.pop("opisanie", None)
+        if not opisanie:
+            continue
+        imya = prosto(zapis["vino"])
+        if any(dom in imya for dom in doma):
+            opisaniya.append({"vino": zapis["vino"],
+                              "magazin": zapis["magazin"],
+                              "opisanie": opisanie})
+
     (ZDES / "wolt-ceny.json").write_text(json.dumps({
         "chto_eto": "Вина сербских винотек в доставке Wolt: имя товара, "
                     "цена в динарах, лавка и город. Цена в приложении "
@@ -275,8 +338,20 @@ def main():
         "ploshchadok_bez_vina": pusto,
         "vina": vina,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
+    (ZDES / "wolt-opisaniya.json").write_text(json.dumps({
+        "chto_eto": "Описания вин наших хозяйств из выкладки Wolt. Пишет их "
+                    "продавец или само хозяйство, и в них бывает место: "
+                    "виноградник, гора, село. Читать, когда место "
+                    "хозяйства неизвестно.",
+        "istochnik": "поле `description` карточки товара",
+        "sobrano": time.strftime("%Y-%m-%d"),
+        "opisaniya": opisaniya,
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
+
     print("\nстрок %d, разных вин %d, с ценой %d → wolt-ceny.json"
           % (len(stroki), len(vina), s_cenoj))
+    print("описаний у наших хозяйств %d → wolt-opisaniya.json"
+          % len(opisaniya))
     if pusto:
         print("без вина: %s" % ", ".join(pusto))
 

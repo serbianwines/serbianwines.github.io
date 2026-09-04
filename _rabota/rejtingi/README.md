@@ -29,6 +29,8 @@
 | `vinarije-ceny.json` | 922 позиций из магазинов самих хозяйств, у 638 цена в динарах |
 | `idea-cenovnik-ceny.json` | 769 винных товаров из обязательных ценовников Roda и Mercator |
 | `portal-cenovnik-ceny.json` | 2554 винных товаров из обязательных ценовников 35 сетей: портал открытых данных |
+| `lavki-ceny.json` | 4504 позиций из 9 специализированных винных лавок: их собственные сайты |
+| `lavki-spisok.json` | перечень лавок с открытым каталогом и тех, что закрыты |
 | `wolt-ceny.json` | 12482 вин из витрин 68 площадок Wolt: цена, лавка, город |
 | `wolt-opisaniya.json` | 2445 описаний вин наших хозяйств оттуда же: в них бывает место |
 | `veleprodaja-vinoteka.json` | сербский раздел оптового ценовника «Wine & Pleasure»: 13 вин и мерка наценки розницы |
@@ -90,6 +92,7 @@
 | `vzjat-cenovnike.py` | обязательные ценовники Maxi: полка сети, а не витрина магазина |
 | `vzjat-cenovnike-idea.py` | то же у группы IDEA — Roda — Mercator: 44 крупных магазина |
 | `vzjat-cenovnike-portal.py` | ценовники всех прочих сетей с `data.gov.rs`: один разбор на всех |
+| `vzjat-lavki.py` | винные лавки со своих сайтов: Store API WooCommerce и Shopify |
 | `vzjat-vinarije.py` | собственные магазины хозяйств: Store API WooCommerce и Shopify, 60 магазинов |
 | `vzjat-wolt.py` | витрины Wolt: 66 винотек и оба гипермаркета Mercator, ассортимент по открытому API |
 | `vzjat-winestyle.py` | годовые списки «Wine Style»: сербский голос, но не балл |

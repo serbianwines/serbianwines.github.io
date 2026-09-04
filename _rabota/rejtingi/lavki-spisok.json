@@ -1,0 +1,53 @@
+{
+ "chto_eto": "Специализированные винные лавки, чей каталог открыт машине. Список ведётся руками: сайт лавки берётся из её карточки в Wolt (поле `sameAs` в schema.org/Store), потом проверяется, отвечает ли Store API.",
+ "kak_iskat": "В кеше `kesh-wolt/zavedenie-*.html` у каждой площадки стоит её собственный сайт. Из шестидесяти восьми винотек его указали пятьдесят четыре, но у части это страница в Instagram или сам Wolt. Из оставшихся тридцати доменов каталог машине отдают восемь. Адрес пишется с https и с тем www, с которым сайт отвечает: здешний прокси пропускает только https, и «Vinoteka Chianti» по http молчала.",
+ "chego_net": "Закрыты: ours.rs, theboxshop.rs, supernovawine.rs, atlasvinoteka.com, baltasar.rs, casadetodo.rs, devinos.net, vinoitakoto.com, candelabra.bar, amaronevinoteka.com, podrumivukoje1982.com, winedropclub.com, ediskont.rs. У enotekapremier.rs — Cloudflare. Витрины этих лавок в Wolt всё равно взяты `vzjat-wolt.py`.",
+ "uzhe_beryom_inache": "vinotekabeograd.com, winestars.rs, wineart.rs, cerpromet.com, prodajavina.rs — у каждой свой сборщик, разбирающий вёрстку.",
+ "lavki": [
+  {
+   "imya": "Izaberi vino",
+   "adres": "https://izaberivino.com",
+   "gde": "Београд, витрина в Wolt — «vino-barshop»"
+  },
+  {
+   "imya": "Vinoteka Barrique",
+   "adres": "https://www.barriquenis.rs",
+   "gde": "Ниш, витрина в Wolt — «vinoteka-barrique-wine-fine»"
+  },
+  {
+   "imya": "Vinoteka Berba",
+   "adres": "https://www.berba.rs",
+   "gde": "Београд, витрина в Wolt — «vinoteka-berba-wine»"
+  },
+  {
+   "imya": "Vinoteka Chianti",
+   "adres": "https://www.dan-company.com",
+   "gde": "Београд, витрина в Wolt — «vinoteka-chianti»; адрес только по https и только с www"
+  },
+  {
+   "imya": "Vinoteka i Bar Svetski Putnik",
+   "adres": "https://vinotekaibar.rs",
+   "gde": "Београд, Панчево и Врање — три витрины в Wolt"
+  },
+  {
+   "imya": "Vinoteka Tipsy",
+   "adres": "https://tipsy.rs",
+   "gde": "Београд, витрина в Wolt — «vinoteka-tipsy»; Shopify"
+  },
+  {
+   "imya": "Probar",
+   "adres": "https://probar.rs",
+   "gde": "дисконт напитков с доставкой по всей Сербии"
+  },
+  {
+   "imya": "Winebar",
+   "adres": "https://winebar.rs",
+   "gde": "онлайн-винотека, доставка по Београду"
+  },
+  {
+   "imya": "Delicent Wine & Deli",
+   "adres": "https://delicent.com",
+   "gde": "Београд, витрина в Wolt — «delicent-wine-deli»"
+  }
+ ]
+}

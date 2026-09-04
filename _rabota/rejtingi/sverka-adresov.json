@@ -1,0 +1,1920 @@
+{
+ "chto_eto": "Сверка места хозяйства с адресом на его собственном сайте. Расхождение — повод посмотреть глазами, а не править машиной.",
+ "sobrano": "2026-09-04",
+ "hozyaistv": 128,
+ "sverka": [
+  {
+   "hozyaistvo": "Adora",
+   "sajt": "https://www.vinarija-nd.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Jagodina",
+   "registr": "registar: Dobra Voda, Pomoravski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "35218 Duboka, Jagodina"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "35218 Duboka, Jagodina",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Jagodinsko vinogorje",
+     "po_kusku": "Jagodina"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Aleksandrović",
+   "sajt": "https://vinarijaaleksandrovic.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Vinča",
+   "registr": "registar: Vinča, Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Vinča, Topola – Oplenac,34310 Republika Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Vinča, Topola – Oplenac,34310 Republika Srbija",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": "Oplenačko vinogorje",
+     "po_kusku": "Topola"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Arsenijević",
+   "sajt": "https://www.vinarijaarsenijevic.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Topola",
+   "registr": "registar: Vinča, Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "34310 Topola, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "34310 Topola, Srbija",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": "Oplenačko vinogorje",
+     "po_kusku": "Topola"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Art Wine",
+   "sajt": "https://www.artwine.co.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Kragujevac",
+   "registr": "registar: Grošnica, Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "34202 Grošnica, Kragujevac"
+    ],
+    [
+     "индекс",
+     "Nićifora Novakovića 13a, 34202 Grošnica, Kragujevac"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "34202 Grošnica, Kragujevac",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": null,
+     "po_kusku": "Kragujevac"
+    },
+    {
+     "kak": "индекс",
+     "mesto": "Nićifora Novakovića 13a, 34202 Grošnica, Kragujevac",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": null,
+     "po_kusku": "Kragujevac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Ačanski",
+   "sajt": "https://podrum-acanski.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Banoštor",
+   "registr": "registar: Banoštor, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Bajilo",
+   "sajt": "https://vinarijabajilo.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "21205 Sremski Karlovci"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "21205 Sremski Karlovci",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Sremski Karlovci"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Bikicki",
+   "sajt": "https://www.bikicki.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Banoštor",
+   "registr": "registar: Veliki Radinci, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Bjelica",
+   "sajt": "https://www.vinarijabjelica.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Adresa: Dobrilovačka 1, Banstol, Sremski Karlovci 21205"
+    ],
+    [
+     "строка адреса",
+     "a: Dobrilovačka 1, Banstol, Sremski Karlovci 21205"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Adresa: Dobrilovačka 1, Banstol, Sremski Karlovci 21205",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Sremski Karlovci"
+    },
+    {
+     "kak": "строка адреса",
+     "mesto": "a: Dobrilovačka 1, Banstol, Sremski Karlovci 21205",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Sremski Karlovci"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Breg",
+   "sajt": "https://vinarijabreg.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Janda",
+   "registr": "registar: Krčedin, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Budimir",
+   "sajt": "https://www.vinobudimir.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Aleksandrovac, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Château Prince",
+   "sajt": "https://winerychateauprince.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Topola",
+   "registr": "registar: Lipovac, Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Lipovac bb, 34310 Topola"
+    ],
+    [
+     "строка адреса",
+     "a i kontakt"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Lipovac bb, 34310 Topola",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": "Oplenačko vinogorje",
+     "po_kusku": "Topola"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Despotika",
+   "sajt": "https://www.vinarijadespotika.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Vlaški Do",
+   "registr": "registar: Vlaški Do, Podunavski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Смедеревски пут 10Б, 11423"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "DiBonis Winery",
+   "sajt": "https://www.dibonis.rs",
+   "nash_rejon": "Subotički rejon",
+   "nash_gorod": "Subotica",
+   "registr": "registar: Subotica, Severnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Djordjevic Estate Winery",
+   "sajt": "https://podrumdjordjevic.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Горњи Ступањ",
+   "registr": "registar: Lapovo (varošica), Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "37240 Aleksandrovac, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "37240 Aleksandrovac, Srbija",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Aleksandrovac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Draganić",
+   "sajt": "https://www.vladimirjovanovic.com",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Lipovac",
+   "registr": "registar: Lipovac, Šumadijski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Dukay",
+   "sajt": "https://dukaywinery.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Ириг",
+   "registr": "registar: Kanjiža, Severnobanatski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Dulka",
+   "sajt": "https://vinarijadulka.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "21205 Sremski Karlovci, Serbia"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "21205 Sremski Karlovci, Serbia",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Sremski Karlovci"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Džervin",
+   "sajt": "https://www.dzervin.eu",
+   "nash_rejon": "Knjaževački rejon",
+   "nash_gorod": "Knjaževac",
+   "registr": "registar: Knjaževac, Zaječarski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Karađorđeva 128, 19350 Knjaževac"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Karađorđeva 128, 19350 Knjaževac",
+     "rejon": "Knjaževački rejon",
+     "vinogorje": "Potrkanjsko vinogorje",
+     "po_kusku": "Knjaževac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Erdevik",
+   "sajt": "https://www.podrumerdevik.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Erdevik",
+   "registr": "registar: Erdevik, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Fragaria",
+   "sajt": "https://www.fragaria-wine.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Drenča, Rasinski okrug",
+   "najdeno": [
+    [
+     "schema",
+     "Drenča"
+    ],
+    [
+     "индекс",
+     "+43 664 933 75488"
+    ],
+    [
+     "индекс",
+     "Lupoglavska 11, Drenča, 37230 Aleksandrovac, Srbija"
+    ],
+    [
+     "строка адреса",
+     "u i u njima uživati kod kuće"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "schema",
+     "mesto": "Drenča",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Drenča"
+    },
+    {
+     "kak": "индекс",
+     "mesto": "Lupoglavska 11, Drenča, 37230 Aleksandrovac, Srbija",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Drenča"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Francuska vinarija",
+   "sajt": "https://www.lesbongiraud.com",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Rogljevo",
+   "registr": "registar: Rogljevo, Borski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Galot",
+   "sajt": "https://vinarijagalot.com",
+   "nash_rejon": "Južnobanatski rejon",
+   "nash_gorod": "Banatski Karlovac",
+   "registr": "registar: Banatski Karlovac, Južnobanatski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Grabak",
+   "sajt": "https://vinarijagrabak.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Vrnjačka Banja",
+   "registr": "registar: Vrnjačka Banja, Raški okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Hadži Popović",
+   "sajt": "https://vinarijahadzipopovic.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Stari Slankamen",
+   "registr": "registar: Stari Slankamen, Sremski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Vinogradarska 167, 22329 Stari Slankamen, RS"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Vinogradarska 167, 22329 Stari Slankamen, RS",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Stari Slankamen"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Janko",
+   "sajt": "https://www.podrumjanko.com",
+   "nash_rejon": "Beogradski rejon",
+   "nash_gorod": "Smederevo",
+   "registr": "registar: Smederevo, Podunavski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "888 อาคารเอเซีย ชั้น 12 ถนนพระราม 9 แขวงห้วยขวาง เขตห้วยขวาง กรุงเทพมหานคร 10310"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Jeremić",
+   "sajt": "https://www.vinarijajeremic.rs",
+   "nash_rejon": "Beogradski rejon",
+   "nash_gorod": "Smederevo",
+   "registr": "registar: Smederevo, Podunavski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Jovac",
+   "sajt": "https://jovac.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Jovac",
+   "registr": "registar: Jovac, Pomoravski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Kralja Aleksandra 103, Jovac, 35205 Ćuprija, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Kralja Aleksandra 103, Jovac, 35205 Ćuprija, Srbija",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": null,
+     "po_kusku": "Jovac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Kalem",
+   "sajt": "https://vino-kalem.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Velika Drenova",
+   "registr": "registar: Velika Drenova, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Katanic",
+   "sajt": "https://www.vinarijakatanic.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Kamenica",
+   "registr": "registar: Kragujevac, Šumadijski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Kiš",
+   "sajt": "https://vinarijakis.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Kovačević",
+   "sajt": "https://vinarijakovacevic.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Irig",
+   "registr": "registar: Irig, Sremski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Vojvode Putnika 78, 22406 Irig, Srbija"
+    ],
+    [
+     "индекс",
+     "Kralja Petra 221, 22406 Irig, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Vojvode Putnika 78, 22406 Irig, Srbija",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Irig"
+    },
+    {
+     "kak": "индекс",
+     "mesto": "Kralja Petra 221, 22406 Irig, Srbija",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Irig"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Krstašica Doo",
+   "sajt": "https://krstasica.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Irig",
+   "registr": "registar: Irig, Sremski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Adama Monasterlije 9, 22406 Irig"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Adama Monasterlije 9, 22406 Irig",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Irig"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Lastar",
+   "sajt": "https://vinarijalastar.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Rekovac",
+   "registr": "registar: Sekurič, Pomoravski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Sekurička 30, Belušić 35263"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Sekurička 30, Belušić 35263",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Levačko vinogorje",
+     "po_kusku": "Belušić"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Legat",
+   "sajt": "https://www.vinarijalegat1903.com",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Banja",
+   "registr": "registar: Banja, Šumadijski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Manastir Bukovo",
+   "sajt": "https://manastirbukovoprodavnica.com",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Negotin",
+   "registr": "registar: Negotin, Borski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Matalj",
+   "sajt": "https://www.mataljvinarija.rs",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "",
+   "registr": "registar: Negotin, Borski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Mcculloch Wines",
+   "sajt": "https://www.mccullochwines.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Novi Sad",
+   "registr": "registar: Novi Sad, Južnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "22230 Erdevik, Serbia"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "22230 Erdevik, Serbia",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Erdevik"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Mikić",
+   "sajt": "https://www.vinarija-mikic.com",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Rečka",
+   "registr": "registar: Rečka, Borski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "19313 Negotin"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "19313 Negotin",
+     "rejon": "Rejon Negotinska Krajina",
+     "vinogorje": "Negotinsko vinogorje",
+     "po_kusku": "Negotin"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Milanov Podrum",
+   "sajt": "https://www.milanovpodrum.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Lopušnik, Braničevski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Milisavljević",
+   "sajt": "https://www.vinarijamilisavljevic.com",
+   "nash_rejon": "Rejon Telečka",
+   "nash_gorod": "Kula",
+   "registr": "registar: Kula, Zapadnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Lenjinova 15, 25230 Kula, Vojvodina, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Lenjinova 15, 25230 Kula, Vojvodina, Srbija",
+     "rejon": "Rejon Telečka",
+     "vinogorje": "Zapadnotelečko vinogorje",
+     "po_kusku": "Kula"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Minić",
+   "sajt": "https://www.vinskakucaminica.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Tržac, Rasinski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "37230 Тржац, Александровац"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "37230 Тржац, Александровац",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Александровац"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Molovin",
+   "sajt": "https://www.molowinery.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Моловин",
+   "registr": "registar: Šid, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Navip",
+   "sajt": "https://www.navip.co.rs",
+   "nash_rejon": "Vranjski rejon",
+   "nash_gorod": "Vranje",
+   "registr": "registar: Vranje, Pčinjski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Nikolas",
+   "sajt": "https://www.nikolas.co.rs",
+   "nash_rejon": "Knjaževački rejon",
+   "nash_gorod": "Zvezdan",
+   "registr": "registar: Zvezdan, Zaječarski okrug",
+   "najdeno": [
+    [
+     "строка адреса",
+     "a: Nikole Pašića 324"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "PIK OPLENAC",
+   "sajt": "https://pik-oplenac.com",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Topola",
+   "registr": "registar: Topola (Varošica), Šumadijski okrug",
+   "najdeno": [
+    [
+     "строка адреса",
+     "a: Bulevar kralja Aleksandra 57, Topola, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "строка адреса",
+     "mesto": "a: Bulevar kralja Aleksandra 57, Topola, Srbija",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": "Oplenačko vinogorje",
+     "po_kusku": "Topola"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Plavinac",
+   "sajt": "https://plavinac.rs",
+   "nash_rejon": "Beogradski rejon",
+   "nash_gorod": "Smederevo",
+   "registr": "registar: Smederevo, Podunavski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Plavinci",
+   "sajt": "https://prodavnica.plavinci.rs",
+   "nash_rejon": "Beogradski rejon",
+   "nash_gorod": "Zaklopača",
+   "registr": "registar: Zaklopača, Beograd okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Podrum Bačina",
+   "sajt": "https://www.dolina.se",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Varvarin",
+   "registr": "registar: Bačina, Rasinski okrug",
+   "najdeno": [
+    [
+     "schema",
+     "Borås"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Podrum Dremina",
+   "sajt": "https://www.dremina.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Drenovac",
+   "registr": "registar: Drenovac, Pomoravski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Nikole Tesle bb, 35257 Drenovac"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Podrum Malča",
+   "sajt": "https://www.podrummalca.com",
+   "nash_rejon": "Niški rejon",
+   "nash_gorod": "Малча",
+   "registr": "registar: Malča, Nišavski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "18207 Malča"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "18207 Malča",
+     "rejon": "Niški rejon",
+     "vinogorje": "Čegarsko vinogorje",
+     "po_kusku": "Malča"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Podrum Stari Hrast",
+   "sajt": "https://www.podrumstarihrast.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Žirovnica",
+   "registr": "registar: Žirovnica, Šumadijski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Podrum Stojković",
+   "sajt": "https://dvasunca.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Banoštor",
+   "registr": "registar: Banoštor, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Podrum Šukac",
+   "sajt": "https://podrumsukac.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremska Kamenica",
+   "registr": "registar: Sremska Kamenica, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Raj",
+   "sajt": "https://www.vinarija-raj.com",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Negotin",
+   "registr": "registar: Rajac, Borski okrug",
+   "najdeno": [
+    [
+     "schema",
+     "Rajac"
+    ],
+    [
+     "индекс",
+     "Rajac, Negotin bb 19314"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Rajac, Negotin bb 19314",
+     "rejon": "Rejon Negotinska Krajina",
+     "vinogorje": null,
+     "po_kusku": "Negotin"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Rnjak",
+   "sajt": "https://www.vinarijarnjak.com",
+   "nash_rejon": "Južnobanatski rejon",
+   "nash_gorod": "Gudurica",
+   "registr": "registar: Gudurica, Južnobanatski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "10200"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Rubin",
+   "sajt": "https://www.rubin.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Крушевац",
+   "registr": "registar: Kruševac, Rasinski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "37000 Kruševac, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "37000 Kruševac, Srbija",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Kruševačko vinogorje",
+     "po_kusku": "Kruševac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Saboss",
+   "sajt": "https://www.saboss.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Aleksandrovac, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Stari Dani",
+   "sajt": "https://staridani.com",
+   "nash_rejon": "Vranjski rejon",
+   "nash_gorod": "Rakovac",
+   "registr": "registar: Rakovac, Pčinjski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "BUJANOVAC, 17520 RS"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "BUJANOVAC, 17520 RS",
+     "rejon": "Vranjski rejon",
+     "vinogorje": null,
+     "po_kusku": "BUJANOVAC"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Stari Oplenac",
+   "sajt": "https://vinarijaoplenac.co.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Topola",
+   "registr": "registar: Topola (Varošica), Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Oplenačka bb, 34310 Topola"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Oplenačka bb, 34310 Topola",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": "Oplenačko vinogorje",
+     "po_kusku": "Topola"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Tarpoš",
+   "sajt": "https://vinarijatarpos.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Arandjelovac",
+   "registr": "registar: Aranđelovac, Šumadijski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Temet",
+   "sajt": "https://www.temet.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Lozovik",
+   "registr": "registar: Jagodina, Pomoravski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "35000 Јагодина, Србија"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "35000 Јагодина, Србија",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Jagodinsko vinogorje",
+     "po_kusku": "Јагодина"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Toplički vinogradi",
+   "sajt": "https://www.toplickivinogradi.com",
+   "nash_rejon": "Toplički rejon",
+   "nash_gorod": "Gojinovac",
+   "registr": "registar: Gojinovac, Toplički okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Traško Vinarija",
+   "sajt": "https://trasko.rs",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Negotin",
+   "registr": "registar: Negotin, Borski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "53 Rue de Venteille, 33185 Le Haillan"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Tri Medje I Oblak",
+   "sajt": "https://trimedjeioblak.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Neštin",
+   "registr": "registar: Neštin, Južnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Dunavska bb, 21314 Neštin, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Dunavska bb, 21314 Neštin, Srbija",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Neštin"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "VINARIJA STANKOVIĆ",
+   "sajt": "https://vinarijastankovic.com",
+   "nash_rejon": "Mlavski rejon",
+   "nash_gorod": "Rabrovo",
+   "registr": "registar: Rabrovo, Braničevski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Varina",
+   "sajt": "https://www.varina.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "",
+   "registr": "registar: Venčac, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Veritas Ćuković",
+   "sajt": "https://vinarijaveritas.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Verkat",
+   "sajt": "https://vinarijaverkat.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Čerević",
+   "registr": "registar: Čerević, Južnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "21311 Čerević"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "21311 Čerević",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Čerević"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vilimonovic",
+   "sajt": "https://www.vilimonovicwinery.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Medveđa",
+   "registr": "registar: Medveđa, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vina Jelenković",
+   "sajt": "https://vinajelenkovic.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Stubal",
+   "registr": "registar: Stubal, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija 100 Žena",
+   "sajt": "https://100women.wine",
+   "nash_rejon": "Niški rejon",
+   "nash_gorod": "Vele Polje",
+   "registr": "registar: Vele Polje, Nišavski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "18202"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija A. Rajković",
+   "sajt": "https://www.vinarijaarajkovic.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Gornja Zleginja",
+   "registr": "registar: Gornja Zleginja, Rasinski okrug",
+   "najdeno": [
+    [
+     "schema",
+     "Gornja Zleginja"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "schema",
+     "mesto": "Gornja Zleginja",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Gornja Zleginja"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Acumincum",
+   "sajt": "https://www.vinarija-acumincum.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Сремски Карловци",
+   "registr": "registar: Stari Slankamen, Sremski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "22329 Stari Slankamen"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "22329 Stari Slankamen",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Stari Slankamen"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Aquila",
+   "sajt": "https://vinarijaaquila.rs",
+   "nash_rejon": "Leskovački rejon",
+   "nash_gorod": "Leskovac",
+   "registr": "registar: Bogojevce, Jablanički okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Aven",
+   "sajt": "https://www.vinarijaaven.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Inđija",
+   "registr": "registar: Inđija, Sremski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Petra Kočića 29, Inđija 22320, Republika Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Petra Kočića 29, Inđija 22320, Republika Srbija",
+     "rejon": "Sremski rejon",
+     "vinogorje": null,
+     "po_kusku": "Inđija"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Boierescu",
+   "sajt": "https://www.vinarijaboierescu.com",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Negotin",
+   "registr": "registar: Negotin, Borski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Botunjac",
+   "sajt": "https://vinabotunjac.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Donja Zleginja, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Brestovački",
+   "sajt": "https://vinarija-brestovacki.business.site",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Erdevik",
+   "registr": "registar: Erdevik, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Coka",
+   "sajt": "https://www.vinarijacoka.rs",
+   "nash_rejon": "Potiski rejon",
+   "nash_gorod": "Чока",
+   "registr": "registar: Subotica, Severnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Palih boraca 47, 23320 Čoka"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Palih boraca 47, 23320 Čoka",
+     "rejon": "Potiski rejon",
+     "vinogorje": "Severnopotisko vinogorje",
+     "po_kusku": "Čoka"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija DeLena",
+   "sajt": "https://www.vinarijadelena.com",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Topola",
+   "registr": "registar: Lipovac, Šumadijski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Dumo",
+   "sajt": "https://www.vinarijadumo.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Rakovac",
+   "registr": "registar: Rakovac, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Fleur D'Oranger",
+   "sajt": "https://vinarijafleurdoranger.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Novi Sad",
+   "registr": "registar: Novi Sad, Južnobački okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "21000 NOVI SAD"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "21000 NOVI SAD",
+     "rejon": "Sremski rejon",
+     "vinogorje": null,
+     "po_kusku": "NOVI SAD"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Janucic",
+   "sajt": "https://www.janucic.com",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Veljkovo",
+   "registr": "registar: Veljkovo, Borski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Komuna PR",
+   "sajt": "https://www.vinarijakomuna.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Rivica",
+   "registr": "registar: Irig, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Levač",
+   "sajt": "https://vinarijalevac.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Rekovac",
+   "registr": "registar: Rekovac, Pomoravski okrug",
+   "najdeno": [
+    [
+     "строка адреса",
+     "a (obavezno)"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija MK Kosović",
+   "sajt": "https://www.vinarijakosovic.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Milojević",
+   "sajt": "https://podrummilojevic.rs",
+   "nash_rejon": "Beogradski rejon",
+   "nash_gorod": "Lazarevac",
+   "registr": "registar: Ostrikovac, Pomoravski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Mrdjanin",
+   "sajt": "https://www.vinarija-mrdjanin.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Necak",
+   "sajt": "https://www.vinarijanecak.com",
+   "nash_rejon": "Mlavski rejon",
+   "nash_gorod": "Petrovac",
+   "registr": "registar: Petrovac, Braničevski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "12300, Moravska 12"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Nedin",
+   "sajt": "https://www.vinarijanedin.com",
+   "nash_rejon": "Južnobanatski rejon",
+   "nash_gorod": "Gudurica",
+   "registr": "registar: Gudurica, Južnobanatski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Patkov vinograd",
+   "sajt": "https://patkovvinograd.business.site",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Krčedin",
+   "registr": "registar: Krčedin, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Pet Hrastova",
+   "sajt": "https://vinarijapethrastova.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Vrnjačka Banja",
+   "registr": "registar: Vrnjačka Banja, Raški okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Štuljacka 98, Štulac 36210"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Štuljacka 98, Štulac 36210",
+     "rejon": "Leskovački rejon",
+     "vinogorje": "Vinaračko vinogorje",
+     "po_kusku": "Štulac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Petra",
+   "sajt": "https://www.vinarijapetra.com",
+   "nash_rejon": "Subotički rejon",
+   "nash_gorod": "Palić",
+   "registr": "registar: Topola (Varošica), Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Novosadski put 222., 24413 Palić (Serbia)"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Novosadski put 222., 24413 Palić (Serbia)",
+     "rejon": "Subotički rejon",
+     "vinogorje": "Palićko vinogorje",
+     "po_kusku": "Palić"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Piano",
+   "sajt": "https://www.vinarijapiano.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Jagodina",
+   "registr": "registar: Jagodina, Pomoravski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Podrum Danguba",
+   "sajt": "https://vinarijapodrumdanguba.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Šid",
+   "registr": "registar: Šid, Sremski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Radovan",
+   "sajt": "https://katalog.vino.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "",
+   "registr": "registar: Starci, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Rajić",
+   "sajt": "https://www.vinarijarajic.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Glavica",
+   "registr": "registar: Glavica, Pomoravski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Selecta",
+   "sajt": "https://vinarijaselecta.com",
+   "nash_rejon": "Južnobanatski rejon",
+   "nash_gorod": "Gudurica",
+   "registr": "registar: Gudurica, Južnobanatski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "26335 Gudurica, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "26335 Gudurica, Srbija",
+     "rejon": "Južnobanatski rejon",
+     "vinogorje": "Vršačko vinogorje",
+     "po_kusku": "Gudurica"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Sočanski",
+   "sajt": "https://vinarijasocanski.com",
+   "nash_rejon": "Južnobanatski rejon",
+   "nash_gorod": "Veliko Središte",
+   "registr": "registar: Veliko Središte, Južnobanatski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Tana",
+   "sajt": "https://www.vinarijatana.rs",
+   "nash_rejon": "Rejon Negotinska Krajina",
+   "nash_gorod": "Tamnič",
+   "registr": "registar: Tamnič, Borski okrug",
+   "najdeno": [
+    [
+     "строка адреса",
+     "a: Vladetina 5, Beograd"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "строка адреса",
+     "mesto": "a: Vladetina 5, Beograd",
+     "rejon": "Beogradski rejon",
+     "vinogorje": null,
+     "po_kusku": "Beograd"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija Unikat",
+   "sajt": "https://www.vinarijaunikat.rs",
+   "nash_rejon": "Mlavski rejon",
+   "nash_gorod": "Požarevac",
+   "registr": "registar: Požarevac, Braničevski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Vladimir",
+   "sajt": "https://vinarijavladimir.com",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Topola",
+   "registr": "registar: Topola (Varošica), Šumadijski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarija Ćosić",
+   "sajt": "https://vinarijacosic.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Vitkovo, Rasinski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "37230, Vitkovo, Aleksandrovac, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "37230, Vitkovo, Aleksandrovac, Srbija",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Aleksandrovac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinarija ĐORĐE",
+   "sajt": "https://www.vinarijadjordje.rs",
+   "nash_rejon": "Južnobanatski rejon",
+   "nash_gorod": "Banatski Karlovac",
+   "registr": "registar: Banatski Karlovac, Južnobanatski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinarska Kuća Miljković",
+   "sajt": "https://www.vinarskakucamiljkovic.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "",
+   "registr": "registar: Gornje Rataje, Rasinski okrug",
+   "najdeno": [
+    [
+     "строка адреса",
+     "a: Rataje, Aleksandrovac, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "строка адреса",
+     "mesto": "a: Rataje, Aleksandrovac, Srbija",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Aleksandrovac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinartos Vinarija",
+   "sajt": "https://vinartosbecej.rs",
+   "nash_rejon": "Potiski rejon",
+   "nash_gorod": "Bečej",
+   "registr": "registar: Bečej, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinex Grozd",
+   "sajt": "https://www.vinex.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Belušić",
+   "registr": "registar: Belušić, Pomoravski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinik",
+   "sajt": "https://vino.ba",
+   "nash_rejon": "Južnobanatski rejon",
+   "nash_gorod": "Vršac",
+   "registr": "registar: Vršac, Južnobanatski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinis",
+   "sajt": "https://vinarijavinis.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Dobra Voda",
+   "registr": "registar: Dobra Voda, Pomoravski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Vinograd Hopovo",
+   "sajt": "https://vinogradhopovo.com",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Irig",
+   "registr": "registar: Irig, Sremski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "22406 Irig"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "22406 Irig",
+     "rejon": "Sremski rejon",
+     "vinogorje": "Fruškogorsko vinogorje",
+     "po_kusku": "Irig"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinska Kuća Milinčić",
+   "sajt": "https://vinskakucamilincic.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Aleksandrovac, Rasinski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "37230, Aleksandrovac"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "37230, Aleksandrovac",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Aleksandrovac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Vinum",
+   "sajt": "https://vinum.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Virtus",
+   "sajt": "https://www.vinarijavirtus.rs",
+   "nash_rejon": "Mlavski rejon",
+   "nash_gorod": "Žabari",
+   "registr": "registar: Viteževo, Braničevski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "VITEŽEVO BB 12374 ŽABARI"
+    ],
+    [
+     "индекс",
+     "Viteževo bb, 12374 Žabari, Republika Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "VITEŽEVO BB 12374 ŽABARI",
+     "rejon": "Mlavski rejon",
+     "vinogorje": "Požarevačko vinogorje",
+     "po_kusku": "VITEŽEVO"
+    },
+    {
+     "kak": "индекс",
+     "mesto": "Viteževo bb, 12374 Žabari, Republika Srbija",
+     "rejon": "Mlavski rejon",
+     "vinogorje": "Požarevačko vinogorje",
+     "po_kusku": "Viteževo"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Zupa",
+   "sajt": "https://www.vinozupa.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Александровац",
+   "registr": "registar: Aleksandrovac, Rasinski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Aleksandrovac 37230, Kruševačka 36, Srbija"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Aleksandrovac 37230, Kruševačka 36, Srbija",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Aleksandrovac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Zvonko Bogdan",
+   "sajt": "https://www.vinarijazvonkobogdan.com",
+   "nash_rejon": "Subotički rejon",
+   "nash_gorod": "Palić",
+   "registr": "registar: Palić, Severnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Đurđić",
+   "sajt": "https://www.djurdjic.rs",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Sremski Karlovci",
+   "registr": "registar: Sremski Karlovci, Južnobački okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Šijački",
+   "sajt": "https://novisad.travel",
+   "nash_rejon": "Sremski rejon",
+   "nash_gorod": "Баноштор",
+   "registr": "registar: Banoštor, Južnobački okrug",
+   "najdeno": [
+    [
+     "schema",
+     "Novi Sad"
+    ],
+    [
+     "индекс",
+     "Trg slobode 3, 21101 Novi Sad"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "schema",
+     "mesto": "Novi Sad",
+     "rejon": "Sremski rejon",
+     "vinogorje": null,
+     "po_kusku": "Novi Sad"
+    },
+    {
+     "kak": "индекс",
+     "mesto": "Trg slobode 3, 21101 Novi Sad",
+     "rejon": "Sremski rejon",
+     "vinogorje": null,
+     "po_kusku": "Novi Sad"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Žarković",
+   "sajt": "https://www.podrumzarkovic.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Raklja, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Амбелос Винарија (Ambelos Winery)",
+   "sajt": "https://www.ambelos.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Velika Plana",
+   "registr": "registar: Požarevac, Braničevski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Винарија Живковића (Vinarija Živkovića-Tržac)",
+   "sajt": "https://www.vinarijazivkovica.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Tržac",
+   "registr": "registar: Tržac, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Драгић Винарија (Vina Dragic)",
+   "sajt": "https://vinadragic.com",
+   "nash_rejon": "Subotički rejon",
+   "nash_gorod": "Riđica",
+   "registr": "registar: Zrenjanin, Srednjebanatski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Изба Јовановић (Izba Jovanovic)",
+   "sajt": "https://izbajovanovic.rs",
+   "nash_rejon": "Niški rejon",
+   "nash_gorod": "Vele Polje",
+   "registr": "registar: Vele Polje, Nišavski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Магаза (Magaza)",
+   "sajt": "https://vinarijamagaza.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Velika Drenova",
+   "registr": "registar: Velika Drenova, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Мали Подрум Гајић - Mali Podrum Gajić",
+   "sajt": "https://www.malipodrumgajic.com",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Gornja Zleginja",
+   "registr": "registar: Gornja Zleginja, Rasinski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "11080 Beograd-Zemun"
+    ],
+    [
+     "индекс",
+     "Gornje Zleginje 37272"
+    ]
+   ],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Полрум Вина Тодор (Podrum Vina Todor)",
+   "sajt": "https://www.podrumvinatodor.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Vitkovo, Rasinski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Vitkovo, 37230 Aleksandrovac Župski"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "Vitkovo, 37230 Aleksandrovac Župski",
+     "rejon": "Rejon Tri Morave",
+     "vinogorje": "Župsko vinogorje",
+     "po_kusku": "Vitkovo"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Три Планине (Vinarija Tri Planine)",
+   "sajt": "https://triplanine.rs",
+   "nash_rejon": "Rejon Tri Morave",
+   "nash_gorod": "Aleksandrovac",
+   "registr": "registar: Venčac, Rasinski okrug",
+   "najdeno": [],
+   "razobrano": []
+  },
+  {
+   "hozyaistvo": "Трилогия Винария - Vinarija Trilogija",
+   "sajt": "https://www.vinarijatrilogija.rs",
+   "nash_rejon": "Šumadijski rejon",
+   "nash_gorod": "Banja",
+   "registr": "registar: Banja, Šumadijski okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "34304 Banja, Arandjelovac"
+    ]
+   ],
+   "razobrano": [
+    {
+     "kak": "индекс",
+     "mesto": "34304 Banja, Arandjelovac",
+     "rejon": "Šumadijski rejon",
+     "vinogorje": "Oplenačko vinogorje",
+     "po_kusku": "Arandjelovac"
+    }
+   ]
+  },
+  {
+   "hozyaistvo": "Фенек (Fenek Monastery)",
+   "sajt": "https://www.manastirfenek.com",
+   "nash_rejon": "Beogradski rejon",
+   "nash_gorod": "Beograd",
+   "registr": "registar: Jakovo, Beograd okrug",
+   "najdeno": [
+    [
+     "индекс",
+     "Манастир Фенек 109, 11276 Јаково"
+    ],
+    [
+     "индекс",
+     "Манастир Фенек 113, 11276 Јаково"
+    ]
+   ],
+   "razobrano": []
+  }
+ ]
+}

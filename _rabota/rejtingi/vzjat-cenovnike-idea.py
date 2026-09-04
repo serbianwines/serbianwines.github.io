@@ -100,10 +100,30 @@ def spisok_cenovnikov():
     return najdeno
 
 
+def nomer_stolbca(adres):
+    """«H12» → 7. Буквенная часть адреса ячейки — номер столбца."""
+    bukvy = re.match(r"([A-Z]+)", adres or "")
+    if not bukvy:
+        return None
+    nomer = 0
+    for bukva in bukvy.group(1):
+        nomer = nomer * 26 + (ord(bukva) - 64)
+    return nomer - 1
+
+
 def stroki_xlsx(dvoichnoe):
     """Плоский лист книги Excel — списками значений, стандартной
     библиотекой. Книга здесь простая: один лист, строки без формул,
-    все тексты в общей таблице строк."""
+    все тексты в общей таблице строк.
+
+    Значение кладётся по адресу ячейки, а не подряд. Excel пустых ячеек
+    не пишет вовсе, и первая же редакция, складывавшая значения подряд,
+    съезжала на всех строках без акции: `StopaPDV` (20) вставала в
+    `SnizenaCena`, и «акционная цена» выходила двадцать динаров у пятисот
+    сорока семи товаров из семисот шестидесяти девяти. Цена уцелела
+    случайно — `RedovnaCena` стоит до первой дыры; будь пустой
+    `RobnaMarka`, съехала бы и она.
+    """
     with zipfile.ZipFile(dvoichnoe) as kniga:
         obshchie = []
         if "xl/sharedStrings.xml" in kniga.namelist():
@@ -115,14 +135,19 @@ def stroki_xlsx(dvoichnoe):
         koren = ET.fromstring(kniga.read(imya_lista))
         for stroka in koren.iter(XSD + "row"):
             znacheniya = []
-            for kletka in stroka:
+            for nomer, kletka in enumerate(stroka):
                 v = kletka.find(XSD + "v")
                 tekst = v.text if v is not None else None
                 if kletka.get("t") == "s" and tekst is not None:
                     tekst = obshchie[int(tekst)]
                 elif kletka.get("t") == "inlineStr":
                     tekst = "".join(t.text or "" for t in kletka.iter(XSD + "t"))
-                znacheniya.append(tekst)
+                stolbec = nomer_stolbca(kletka.get("r") or "")
+                if stolbec is None:
+                    stolbec = nomer
+                while len(znacheniya) <= stolbec:
+                    znacheniya.append(None)
+                znacheniya[stolbec] = tekst
             yield znacheniya
 
 

@@ -18,7 +18,7 @@
    "hozyaistvo": "ČOKA",
    "shtrihkod": "8606107899923",
    "cena_rsd": 1639.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -63,7 +63,7 @@
    "hozyaistvo": "LILLET",
    "shtrihkod": "3163934314173",
    "cena_rsd": 2649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -81,7 +81,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3263280118675",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 41,
    "v_prodazhe": true
   },
@@ -90,7 +90,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001308",
    "cena_rsd": 2119.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -99,7 +99,7 @@
    "hozyaistvo": "CASA DE CAMPO",
    "shtrihkod": "7804661041234",
    "cena_rsd": 1097.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 36,
    "v_prodazhe": true
   },
@@ -108,7 +108,7 @@
    "hozyaistvo": "GRAND SUD",
    "shtrihkod": "3263280104975",
    "cena_rsd": 849.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -117,7 +117,7 @@
    "hozyaistvo": "FRESCHELLO",
    "shtrihkod": "8008900060331",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 30,
    "v_prodazhe": true
   },
@@ -126,7 +126,7 @@
    "hozyaistvo": "VARVAGLIONE",
    "shtrihkod": "8031303000123",
    "cena_rsd": 1829.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -135,7 +135,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111804",
    "cena_rsd": 1949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -144,7 +144,7 @@
    "hozyaistvo": "LUC BELAIRE",
    "shtrihkod": "0813497005577",
    "cena_rsd": 4789.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -153,7 +153,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003002244",
    "cena_rsd": 489.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 14,
    "v_prodazhe": true
   },
@@ -162,7 +162,7 @@
    "hozyaistvo": "GRUMEN",
    "shtrihkod": "8607000312670",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 22,
    "v_prodazhe": true
   },
@@ -171,7 +171,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001001",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -189,7 +189,7 @@
    "hozyaistvo": "KATSAROS",
    "shtrihkod": "5202227500201",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -198,7 +198,7 @@
    "hozyaistvo": "CIELO E TERRA",
    "shtrihkod": "8008900007701",
    "cena_rsd": 499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 14,
    "v_prodazhe": true
   },
@@ -207,7 +207,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090061",
    "cena_rsd": 1789.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -216,7 +216,7 @@
    "hozyaistvo": "DESPOTIKA",
    "shtrihkod": "8606107067261",
    "cena_rsd": 1779.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -225,7 +225,7 @@
    "hozyaistvo": "DESPOTIKA",
    "shtrihkod": "8606107067599",
    "cena_rsd": 1534.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -234,7 +234,7 @@
    "hozyaistvo": "MIRAVAL",
    "shtrihkod": "3296180004250",
    "cena_rsd": 3719.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -243,7 +243,7 @@
    "hozyaistvo": "VINARIJA DEURIĆ",
    "shtrihkod": "8607000207501",
    "cena_rsd": 2099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -252,7 +252,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8606107362021",
    "cena_rsd": 1849.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -261,7 +261,7 @@
    "hozyaistvo": "CLASSIC",
    "shtrihkod": "5310008005514",
    "cena_rsd": 684.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 36,
    "v_prodazhe": true
   },
@@ -270,7 +270,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8606107362700",
    "cena_rsd": 949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 22,
    "v_prodazhe": true
   },
@@ -288,7 +288,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001018",
    "cena_rsd": 1139.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -297,7 +297,7 @@
    "hozyaistvo": "LUC BELAIRE",
    "shtrihkod": "0813497005607",
    "cena_rsd": 4789.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -306,7 +306,7 @@
    "hozyaistvo": "ŽDREPČEVA KRV",
    "shtrihkod": "8600102938083",
    "cena_rsd": 559.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -315,7 +315,7 @@
    "hozyaistvo": "TORO LOCO",
    "shtrihkod": "3469891135166",
    "cena_rsd": 699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 39,
    "v_prodazhe": true
   },
@@ -324,7 +324,7 @@
    "hozyaistvo": "TORO LOCO",
    "shtrihkod": "3469891135043",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -342,7 +342,7 @@
    "hozyaistvo": "VINARIJA TODOROVIĆ",
    "shtrihkod": "8606109554226",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -351,7 +351,7 @@
    "hozyaistvo": "CASTEL PIETRA",
    "shtrihkod": "8004305094742",
    "cena_rsd": 949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -360,7 +360,7 @@
    "hozyaistvo": "CASTEL PIETRA",
    "shtrihkod": "8004305095466",
    "cena_rsd": 859.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -369,7 +369,7 @@
    "hozyaistvo": "SENSI",
    "shtrihkod": "8002477177553",
    "cena_rsd": 2299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -378,7 +378,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074110487",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -396,7 +396,7 @@
    "hozyaistvo": "CALDIROLA",
    "shtrihkod": "8004300030608",
    "cena_rsd": 1299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -423,7 +423,7 @@
    "hozyaistvo": "MAESTRO",
    "shtrihkod": "8008900006797",
    "cena_rsd": 1269.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -432,7 +432,7 @@
    "hozyaistvo": "LEDERER",
    "shtrihkod": "8606107899275",
    "cena_rsd": 779.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -468,7 +468,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003004019",
    "cena_rsd": 459.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -477,7 +477,7 @@
    "hozyaistvo": "JANKO",
    "shtrihkod": "8606104792067",
    "cena_rsd": 2229.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 24,
    "v_prodazhe": true
   },
@@ -531,7 +531,7 @@
    "hozyaistvo": "LEDERER",
    "shtrihkod": "8606113173048",
    "cena_rsd": 849.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -540,7 +540,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8607000073373",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 30,
    "v_prodazhe": true
   },
@@ -549,7 +549,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8606106029062",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -576,7 +576,7 @@
    "hozyaistvo": "VINAKOPER",
    "shtrihkod": "3830000700337",
    "cena_rsd": 1469.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -585,7 +585,7 @@
    "hozyaistvo": "MANASTIR TVRDOŠ",
    "shtrihkod": "3871734000140",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -594,7 +594,7 @@
    "hozyaistvo": "BOTTER SPA",
    "shtrihkod": "8008863036695",
    "cena_rsd": 1054.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -603,7 +603,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003003043",
    "cena_rsd": 279.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -621,7 +621,7 @@
    "hozyaistvo": "FRONTERA",
    "shtrihkod": "7804320559001",
    "cena_rsd": 969.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -630,7 +630,7 @@
    "hozyaistvo": "SIMEX",
    "shtrihkod": "8607000303609",
    "cena_rsd": 669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -639,7 +639,7 @@
    "hozyaistvo": "SIMEX",
    "shtrihkod": "8607000303623",
    "cena_rsd": 669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -675,7 +675,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8606107362038",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -702,7 +702,7 @@
    "hozyaistvo": "BELO BRDO",
    "shtrihkod": "8606106791266",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -720,7 +720,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8607000073328",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -729,7 +729,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111491",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -738,7 +738,7 @@
    "hozyaistvo": "MIONETTO",
    "shtrihkod": "8006220001669",
    "cena_rsd": 1769.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 38,
    "v_prodazhe": true
   },
@@ -747,7 +747,7 @@
    "hozyaistvo": "VINO ŽUPA",
    "shtrihkod": "8600133104211",
    "cena_rsd": 629.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -756,7 +756,7 @@
    "hozyaistvo": "VINO ŽUPA",
    "shtrihkod": "8600133113695",
    "cena_rsd": 124.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -765,7 +765,7 @@
    "hozyaistvo": "SCANAVINO",
    "shtrihkod": "8002083123715",
    "cena_rsd": 1132.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -774,7 +774,7 @@
    "hozyaistvo": "PREMIUM",
    "shtrihkod": "5310008005033",
    "cena_rsd": 1389.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -783,7 +783,7 @@
    "hozyaistvo": "STANDARD",
    "shtrihkod": "5310008006245",
    "cena_rsd": 654.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 30,
    "v_prodazhe": true
   },
@@ -792,7 +792,7 @@
    "hozyaistvo": "JW GARCIA CARRION",
    "shtrihkod": "8410415370728",
    "cena_rsd": 719.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -801,7 +801,7 @@
    "hozyaistvo": "JW GARCIA CARRION",
    "shtrihkod": "8410261112008",
    "cena_rsd": 1069.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 22,
    "v_prodazhe": true
   },
@@ -810,7 +810,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498548",
    "cena_rsd": 2519.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -828,7 +828,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498449",
    "cena_rsd": 1854.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -837,7 +837,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498463",
    "cena_rsd": 1854.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -846,7 +846,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498456",
    "cena_rsd": 1854.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -855,7 +855,7 @@
    "hozyaistvo": "12 E MEZZO",
    "shtrihkod": "8031303003421",
    "cena_rsd": 1284.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -864,7 +864,7 @@
    "hozyaistvo": "ALLEGRINI",
    "shtrihkod": "8015822010481",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -873,7 +873,7 @@
    "hozyaistvo": "VINARIJA DEURIĆ",
    "shtrihkod": "8607000059551",
    "cena_rsd": 899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -882,7 +882,7 @@
    "hozyaistvo": "VINARIJA DEURIĆ",
    "shtrihkod": "8607000059537",
    "cena_rsd": 1049.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -891,7 +891,7 @@
    "hozyaistvo": "VINUM",
    "shtrihkod": "8600103811040",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -900,7 +900,7 @@
    "hozyaistvo": "VINARIJA KIŠ",
    "shtrihkod": "8606103942029",
    "cena_rsd": 1669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 30,
    "v_prodazhe": true
   },
@@ -909,7 +909,7 @@
    "hozyaistvo": "VINARIJA KIŠ",
    "shtrihkod": "8606103942043",
    "cena_rsd": 1669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 33,
    "v_prodazhe": true
   },
@@ -918,7 +918,7 @@
    "hozyaistvo": "MARINA CVETIĆ",
    "shtrihkod": "8033140750650",
    "cena_rsd": 5949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -927,7 +927,7 @@
    "hozyaistvo": "MANASTIR TVRDOŠ",
    "shtrihkod": "3871734000348",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -936,7 +936,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8011510025348",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -945,7 +945,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8052049651219",
    "cena_rsd": 1299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 35,
    "v_prodazhe": true
   },
@@ -954,7 +954,7 @@
    "hozyaistvo": "STANDARD",
    "shtrihkod": "5310008006061",
    "cena_rsd": 549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 31,
    "v_prodazhe": true
   },
@@ -963,7 +963,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498692",
    "cena_rsd": 1369.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1026,7 +1026,7 @@
    "hozyaistvo": "MUREDA",
    "shtrihkod": "8437008496238",
    "cena_rsd": 699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 16,
    "v_prodazhe": true
   },
@@ -1035,7 +1035,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8606101559045",
    "cena_rsd": 1549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -1044,7 +1044,7 @@
    "hozyaistvo": "CHATEAUX FONFROIDE",
    "shtrihkod": "3500610095436",
    "cena_rsd": 849.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -1053,7 +1053,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498715",
    "cena_rsd": 1369.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1062,7 +1062,7 @@
    "hozyaistvo": "CILIĆ VINARIJA",
    "shtrihkod": "3500610083099",
    "cena_rsd": 1974.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -1071,7 +1071,7 @@
    "hozyaistvo": "BJELICA",
    "shtrihkod": "8607000175534",
    "cena_rsd": 6299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -1080,7 +1080,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8019873677532",
    "cena_rsd": 2399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1089,7 +1089,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8019873134004",
    "cena_rsd": 3999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1098,7 +1098,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003002336",
    "cena_rsd": 459.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -1107,7 +1107,7 @@
    "hozyaistvo": "LEDERER",
    "shtrihkod": "8600102938298",
    "cena_rsd": 799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 38,
    "v_prodazhe": true
   },
@@ -1116,7 +1116,7 @@
    "hozyaistvo": "VINARIJA ČOKA",
    "shtrihkod": "8606106842036",
    "cena_rsd": 269.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1125,7 +1125,7 @@
    "hozyaistvo": "BENVENUTI",
    "shtrihkod": "3857500050106",
    "cena_rsd": 2069.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -1134,7 +1134,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3263280118682",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 40,
    "v_prodazhe": true
   },
@@ -1143,7 +1143,7 @@
    "hozyaistvo": "CIELO E TERRA",
    "shtrihkod": "8008900006247",
    "cena_rsd": 999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1152,7 +1152,7 @@
    "hozyaistvo": "TENUTA SANTOME",
    "shtrihkod": "8032862060351",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -1170,7 +1170,7 @@
    "hozyaistvo": "3 PASSO",
    "shtrihkod": "3500610144806",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1179,7 +1179,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263289999961",
    "cena_rsd": 1677.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 24,
    "v_prodazhe": true
   },
@@ -1188,7 +1188,7 @@
    "hozyaistvo": "100 ŽENA",
    "shtrihkod": "8607000342226",
    "cena_rsd": 1949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -1215,7 +1215,7 @@
    "hozyaistvo": "100 ŽENA",
    "shtrihkod": "8607000342257",
    "cena_rsd": 2199.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1224,7 +1224,7 @@
    "hozyaistvo": "100 ŽENA",
    "shtrihkod": "8607000342264",
    "cena_rsd": 1949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -1233,7 +1233,7 @@
    "hozyaistvo": "ŽDREPČEVA KRV",
    "shtrihkod": "8606107899558",
    "cena_rsd": 239.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -1242,7 +1242,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074130805",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 42,
    "v_prodazhe": true
   },
@@ -1269,7 +1269,7 @@
    "hozyaistvo": "GALATHEO",
    "shtrihkod": "4006542075014",
    "cena_rsd": 679.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -1296,7 +1296,7 @@
    "hozyaistvo": "VINARIJA TODOROVIĆ",
    "shtrihkod": "8606109554011",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -1305,7 +1305,7 @@
    "hozyaistvo": "VINARIJA TODOROVIĆ",
    "shtrihkod": "8606109554288",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1314,7 +1314,7 @@
    "hozyaistvo": "JUNGIĆ",
    "shtrihkod": "3877000075126",
    "cena_rsd": 2424.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -1323,7 +1323,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003006051",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -1332,7 +1332,7 @@
    "hozyaistvo": "SKARAMUČA",
    "shtrihkod": "3859888214026",
    "cena_rsd": 989.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1341,7 +1341,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610093708",
    "cena_rsd": 1162.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -1350,7 +1350,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294145",
    "cena_rsd": 2049.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1359,7 +1359,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294015",
    "cena_rsd": 2229.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 34,
    "v_prodazhe": true
   },
@@ -1386,7 +1386,7 @@
    "hozyaistvo": "LA CACCIATORA",
    "shtrihkod": "8004300011669",
    "cena_rsd": 549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1395,7 +1395,7 @@
    "hozyaistvo": "MARCHESI DI BAROLO",
    "shtrihkod": "8004910223087",
    "cena_rsd": 19699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1404,7 +1404,7 @@
    "hozyaistvo": "LEDERER",
    "shtrihkod": "8606102329647",
    "cena_rsd": 779.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -1413,7 +1413,7 @@
    "hozyaistvo": "VINARIJA ČOKA",
    "shtrihkod": "8606102329982",
    "cena_rsd": 629.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 41,
    "v_prodazhe": true
   },
@@ -1458,7 +1458,7 @@
    "hozyaistvo": "CALDIROLA",
    "shtrihkod": "8004300102596",
    "cena_rsd": 899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1476,7 +1476,7 @@
    "hozyaistvo": "RADGONSKE GORICE",
    "shtrihkod": "3830000344234",
    "cena_rsd": 619.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -1485,7 +1485,7 @@
    "hozyaistvo": "CHABLIS",
    "shtrihkod": "3269390084015",
    "cena_rsd": 6249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -1494,7 +1494,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294299",
    "cena_rsd": 1679.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1503,7 +1503,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294381",
    "cena_rsd": 1829.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -1512,7 +1512,7 @@
    "hozyaistvo": "VRANAC",
    "shtrihkod": "8600102938069",
    "cena_rsd": 519.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -1521,7 +1521,7 @@
    "hozyaistvo": "ILOČKI PODRUMI",
    "shtrihkod": "3859889556453",
    "cena_rsd": 1049.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -1530,7 +1530,7 @@
    "hozyaistvo": "VUKOJE",
    "shtrihkod": "3872153000025",
    "cena_rsd": 2349.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -1539,7 +1539,7 @@
    "hozyaistvo": "BYB",
    "shtrihkod": "8410302106300",
    "cena_rsd": 1449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -1548,7 +1548,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111392",
    "cena_rsd": 474.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -1566,7 +1566,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "4840403007819",
    "cena_rsd": 699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -1575,7 +1575,7 @@
    "hozyaistvo": "TORRES",
    "shtrihkod": "8410113001122",
    "cena_rsd": 1389.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1647,7 +1647,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "4006542077308",
    "cena_rsd": 879.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 41,
    "v_prodazhe": true
   },
@@ -1656,7 +1656,7 @@
    "hozyaistvo": "LEGAT",
    "shtrihkod": "8606111821026",
    "cena_rsd": 3199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1665,7 +1665,7 @@
    "hozyaistvo": "LEGAT",
    "shtrihkod": "8606111821002",
    "cena_rsd": 2199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1674,7 +1674,7 @@
    "hozyaistvo": "PIRG",
    "shtrihkod": "8606111873100",
    "cena_rsd": 2099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1683,7 +1683,7 @@
    "hozyaistvo": "PIRG",
    "shtrihkod": "8606111873087",
    "cena_rsd": 2099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1692,7 +1692,7 @@
    "hozyaistvo": "ŠAPAT",
    "shtrihkod": "8606107736617",
    "cena_rsd": 2399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1701,7 +1701,7 @@
    "hozyaistvo": "ŠAPAT",
    "shtrihkod": "8606107736518",
    "cena_rsd": 1749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1710,7 +1710,7 @@
    "hozyaistvo": "ŠAPAT",
    "shtrihkod": "8606107736549",
    "cena_rsd": 2199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1719,7 +1719,7 @@
    "hozyaistvo": "FRUG",
    "shtrihkod": "8606111966178",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1728,7 +1728,7 @@
    "hozyaistvo": "FRUG",
    "shtrihkod": "8606111966192",
    "cena_rsd": 2299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1737,7 +1737,7 @@
    "hozyaistvo": "FRUG",
    "shtrihkod": "8606111966208",
    "cena_rsd": 3199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1746,7 +1746,7 @@
    "hozyaistvo": "CAVIT",
    "shtrihkod": "8007890115441",
    "cena_rsd": 1399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1755,7 +1755,7 @@
    "hozyaistvo": "CAVIT",
    "shtrihkod": "8007890216643",
    "cena_rsd": 1799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1764,7 +1764,7 @@
    "hozyaistvo": "CAVIT",
    "shtrihkod": "8007890217046",
    "cena_rsd": 1399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1773,7 +1773,7 @@
    "hozyaistvo": "BORA",
    "shtrihkod": "8607000296055",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1782,7 +1782,7 @@
    "hozyaistvo": "BORA",
    "shtrihkod": "8607000296017",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1791,7 +1791,7 @@
    "hozyaistvo": "BORA",
    "shtrihkod": "8607000296000",
    "cena_rsd": 1399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1800,7 +1800,7 @@
    "hozyaistvo": "CLASSIC",
    "shtrihkod": "5310008007280",
    "cena_rsd": 819.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -1818,7 +1818,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "3760249952245",
    "cena_rsd": 5749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -1827,7 +1827,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "3500610066849",
    "cena_rsd": 3499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1845,7 +1845,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "3500610135934",
    "cena_rsd": 2199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1863,7 +1863,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294411",
    "cena_rsd": 2569.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -1872,7 +1872,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294176",
    "cena_rsd": 2049.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -1881,7 +1881,7 @@
    "hozyaistvo": "BYB",
    "shtrihkod": "8410302107697",
    "cena_rsd": 2299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -1890,7 +1890,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267630",
    "cena_rsd": 1869.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -1899,7 +1899,7 @@
    "hozyaistvo": "GRUMEN",
    "shtrihkod": "8607000312601",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -1917,7 +1917,7 @@
    "hozyaistvo": "SANTA CRISTINA",
    "shtrihkod": "8001935004158",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -1935,7 +1935,7 @@
    "hozyaistvo": "VRANAC",
    "shtrihkod": "8600102938090",
    "cena_rsd": 519.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -1944,7 +1944,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267951",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 26,
    "v_prodazhe": true
   },
@@ -1962,7 +1962,7 @@
    "hozyaistvo": "MATALJ",
    "shtrihkod": "8606101788216",
    "cena_rsd": 1749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -1971,7 +1971,7 @@
    "hozyaistvo": "STOBI",
    "shtrihkod": "5319991251755",
    "cena_rsd": 489.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -1980,7 +1980,7 @@
    "hozyaistvo": "STOBI",
    "shtrihkod": "5319991251786",
    "cena_rsd": 489.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 41,
    "v_prodazhe": true
   },
@@ -1989,7 +1989,7 @@
    "hozyaistvo": "BELO BRDO",
    "shtrihkod": "8606106791273",
    "cena_rsd": 2619.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -1998,7 +1998,7 @@
    "hozyaistvo": "TOR DEL COLLE",
    "shtrihkod": "8008863024654",
    "cena_rsd": 1169.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -2016,7 +2016,7 @@
    "hozyaistvo": "SOLDEPENAS",
    "shtrihkod": "8410702002370",
    "cena_rsd": 359.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -2025,7 +2025,7 @@
    "hozyaistvo": "FREIXENET",
    "shtrihkod": "8410036002015",
    "cena_rsd": 1762.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -2034,7 +2034,7 @@
    "hozyaistvo": "STANDARD",
    "shtrihkod": "5310008005934",
    "cena_rsd": 389.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -2043,7 +2043,7 @@
    "hozyaistvo": "STANDARD",
    "shtrihkod": "5310008005910",
    "cena_rsd": 394.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -2052,7 +2052,7 @@
    "hozyaistvo": "CHICHATEAU",
    "shtrihkod": "8607000099205",
    "cena_rsd": 2099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2061,7 +2061,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8606107362175",
    "cena_rsd": 2129.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -2079,7 +2079,7 @@
    "hozyaistvo": "MATALJ",
    "shtrihkod": "8606101788278",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2088,7 +2088,7 @@
    "hozyaistvo": "DESPOTIKA",
    "shtrihkod": "8606107067063",
    "cena_rsd": 2099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -2097,7 +2097,7 @@
    "hozyaistvo": "RADGONSKE GORICE",
    "shtrihkod": "3830000341042",
    "cena_rsd": 3099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -2133,7 +2133,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "3570590109515",
    "cena_rsd": 3249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2142,7 +2142,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "3452130039110",
    "cena_rsd": 2599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2151,7 +2151,7 @@
    "hozyaistvo": "DIONISOS",
    "shtrihkod": "8606110826206",
    "cena_rsd": 499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -2160,7 +2160,7 @@
    "hozyaistvo": "DIONISOS",
    "shtrihkod": "8606110826190",
    "cena_rsd": 499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -2187,7 +2187,7 @@
    "hozyaistvo": "HENKELL TROCKEN",
    "shtrihkod": "4003310012363",
    "cena_rsd": 412.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -2196,7 +2196,7 @@
    "hozyaistvo": "VINARIJA BUDIMIR",
    "shtrihkod": "8606106598049",
    "cena_rsd": 1849.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -2205,7 +2205,7 @@
    "hozyaistvo": "PORTO CRUZ",
    "shtrihkod": "3147690089704",
    "cena_rsd": 1929.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 28,
    "v_prodazhe": true
   },
@@ -2214,7 +2214,7 @@
    "hozyaistvo": "STOBI",
    "shtrihkod": "5319991251779",
    "cena_rsd": 489.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 42,
    "v_prodazhe": true
   },
@@ -2223,7 +2223,7 @@
    "hozyaistvo": "LASTAR",
    "shtrihkod": "8606108332191",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -2232,7 +2232,7 @@
    "hozyaistvo": "VRŠAČKI VINOGRADI",
    "shtrihkod": "8600107052067",
    "cena_rsd": 1759.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -2241,7 +2241,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "4006542077315",
    "cena_rsd": 879.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 42,
    "v_prodazhe": true
   },
@@ -2250,7 +2250,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "4006542073317",
    "cena_rsd": 829.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 21,
    "v_prodazhe": true
   },
@@ -2259,7 +2259,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267654",
    "cena_rsd": 3299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -2268,7 +2268,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294930",
    "cena_rsd": 2469.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2295,7 +2295,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111279",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2304,7 +2304,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3159560700107",
    "cena_rsd": 5199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -2322,7 +2322,7 @@
    "hozyaistvo": "SIMEX",
    "shtrihkod": "8607000303630",
    "cena_rsd": 669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -2331,7 +2331,7 @@
    "hozyaistvo": "SIMEX",
    "shtrihkod": "8607000303616",
    "cena_rsd": 669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -2340,7 +2340,7 @@
    "hozyaistvo": "CLASSIC",
    "shtrihkod": "5310008007150",
    "cena_rsd": 819.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2349,7 +2349,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8052432830658",
    "cena_rsd": 1649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2376,7 +2376,7 @@
    "hozyaistvo": "IMAKO",
    "shtrihkod": "5310140009968",
    "cena_rsd": 584.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -2385,7 +2385,7 @@
    "hozyaistvo": "IMAKO",
    "shtrihkod": "5310140009999",
    "cena_rsd": 584.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -2394,7 +2394,7 @@
    "hozyaistvo": "GALATHEO",
    "shtrihkod": "4006542075007",
    "cena_rsd": 679.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 34,
    "v_prodazhe": true
   },
@@ -2403,7 +2403,7 @@
    "hozyaistvo": "CASILLERO",
    "shtrihkod": "7804320256900",
    "cena_rsd": 1489.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -2412,7 +2412,7 @@
    "hozyaistvo": "CASILLERO",
    "shtrihkod": "7804320301174",
    "cena_rsd": 1489.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -2421,7 +2421,7 @@
    "hozyaistvo": "CASILLERO",
    "shtrihkod": "7804320303178",
    "cena_rsd": 1489.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -2430,7 +2430,7 @@
    "hozyaistvo": "VINARIJA JEREMIĆ",
    "shtrihkod": "8607000032233",
    "cena_rsd": 2494.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -2439,7 +2439,7 @@
    "hozyaistvo": "BOTTEGA",
    "shtrihkod": "8005829230333",
    "cena_rsd": 4772.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -2448,7 +2448,7 @@
    "hozyaistvo": "BOTTEGA",
    "shtrihkod": "8005829230388",
    "cena_rsd": 4679.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2457,7 +2457,7 @@
    "hozyaistvo": "UKUSI MOGA KRAJA",
    "shtrihkod": "8605002334423",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2466,7 +2466,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "3906995560055",
    "cena_rsd": 2699.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2475,7 +2475,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003004002",
    "cena_rsd": 749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -2484,7 +2484,7 @@
    "hozyaistvo": "VINARIJA DEURIĆ",
    "shtrihkod": "8607000059599",
    "cena_rsd": 1359.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2520,7 +2520,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3500610106989",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -2529,7 +2529,7 @@
    "hozyaistvo": "HUGO PIJACE",
    "shtrihkod": "3830000343190",
    "cena_rsd": 1079.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -2538,7 +2538,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8606101559014",
    "cena_rsd": 1799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 39,
    "v_prodazhe": true
   },
@@ -2556,7 +2556,7 @@
    "hozyaistvo": "STOBI",
    "shtrihkod": "5319992073127",
    "cena_rsd": 709.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 30,
    "v_prodazhe": true
   },
@@ -2565,7 +2565,7 @@
    "hozyaistvo": "LA DELIZIA",
    "shtrihkod": "8002006960311",
    "cena_rsd": 599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -2574,7 +2574,7 @@
    "hozyaistvo": "LA DELIZIA",
    "shtrihkod": "8002006960298",
    "cena_rsd": 604.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 16,
    "v_prodazhe": true
   },
@@ -2583,7 +2583,7 @@
    "hozyaistvo": "LA DELIZIA",
    "shtrihkod": "8002006960137",
    "cena_rsd": 604.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 36,
    "v_prodazhe": true
   },
@@ -2592,7 +2592,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074141757",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2601,7 +2601,7 @@
    "hozyaistvo": "VINARIJA KOMUNA",
    "shtrihkod": "8607000164033",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2610,7 +2610,7 @@
    "hozyaistvo": "VINARIJA TONKOVIĆ",
    "shtrihkod": "8607000070419",
    "cena_rsd": 1949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -2619,7 +2619,7 @@
    "hozyaistvo": "BRUT DARGENT",
    "shtrihkod": "3263287626029",
    "cena_rsd": 1199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -2637,7 +2637,7 @@
    "hozyaistvo": "VINA LAGUNA",
    "shtrihkod": "3858881191914",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -2655,7 +2655,7 @@
    "hozyaistvo": "PREMIUM",
    "shtrihkod": "5310008007808",
    "cena_rsd": 1239.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -2664,7 +2664,7 @@
    "hozyaistvo": "PREMIUM",
    "shtrihkod": "5310008007785",
    "cena_rsd": 1239.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -2673,7 +2673,7 @@
    "hozyaistvo": "KUTJEVO",
    "shtrihkod": "3850156001072",
    "cena_rsd": 949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -2682,7 +2682,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500611231161",
    "cena_rsd": 2129.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2691,7 +2691,7 @@
    "hozyaistvo": "RETSINA",
    "shtrihkod": "5201625001587",
    "cena_rsd": 379.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -2700,7 +2700,7 @@
    "hozyaistvo": "VINARIJA DEURIĆ",
    "shtrihkod": "8607000288517",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2709,7 +2709,7 @@
    "hozyaistvo": "VINARIJA KOMUNA",
    "shtrihkod": "8607000164002",
    "cena_rsd": 1299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2718,7 +2718,7 @@
    "hozyaistvo": "MANASTIR BUKOVO",
    "shtrihkod": "8606108951088",
    "cena_rsd": 1399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -2727,7 +2727,7 @@
    "hozyaistvo": "MANASTIR BUKOVO",
    "shtrihkod": "8606108951040",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -2736,7 +2736,7 @@
    "hozyaistvo": "MANASTIR STUDENICA",
    "shtrihkod": "8607000198908",
    "cena_rsd": 1609.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -2745,7 +2745,7 @@
    "hozyaistvo": "MANASTIR BUKOVO",
    "shtrihkod": "8606108951026",
    "cena_rsd": 1099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -2754,7 +2754,7 @@
    "hozyaistvo": "VINAKOPER",
    "shtrihkod": "3830000700122",
    "cena_rsd": 1469.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 31,
    "v_prodazhe": true
   },
@@ -2781,7 +2781,7 @@
    "hozyaistvo": "VINARIJA JEREMIĆ",
    "shtrihkod": "8607000032202",
    "cena_rsd": 1874.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -2790,7 +2790,7 @@
    "hozyaistvo": "ANTHON BERG",
    "shtrihkod": "5774540984155",
    "cena_rsd": 1049.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2799,7 +2799,7 @@
    "hozyaistvo": "JACOBS CREEK",
    "shtrihkod": "9300727004048",
    "cena_rsd": 2149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -2808,7 +2808,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "4840441002029",
    "cena_rsd": 699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -2817,7 +2817,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8606101559076",
    "cena_rsd": 2519.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 35,
    "v_prodazhe": true
   },
@@ -2826,7 +2826,7 @@
    "hozyaistvo": "CANTINE RIUNITE",
    "shtrihkod": "8002550504764",
    "cena_rsd": 349.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -2835,7 +2835,7 @@
    "hozyaistvo": "MORANDO",
    "shtrihkod": "8007531111146",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -2844,7 +2844,7 @@
    "hozyaistvo": "CASTEL",
    "shtrihkod": "3211201046460",
    "cena_rsd": 999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 21,
    "v_prodazhe": true
   },
@@ -2853,7 +2853,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8607000073359",
    "cena_rsd": 929.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -2862,7 +2862,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003002275",
    "cena_rsd": 1159.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -2871,7 +2871,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003004071",
    "cena_rsd": 1159.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -2880,7 +2880,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001698",
    "cena_rsd": 1159.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 24,
    "v_prodazhe": true
   },
@@ -2889,7 +2889,7 @@
    "hozyaistvo": "STOBI",
    "shtrihkod": "5319992073455",
    "cena_rsd": 594.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -2898,7 +2898,7 @@
    "hozyaistvo": "UKUSI MOGA KRAJA",
    "shtrihkod": "8605028603831",
    "cena_rsd": 1099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2907,7 +2907,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498319",
    "cena_rsd": 719.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2916,7 +2916,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090375",
    "cena_rsd": 1549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2925,7 +2925,7 @@
    "hozyaistvo": "BELLAVITA",
    "shtrihkod": "8004300588048",
    "cena_rsd": 599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2961,7 +2961,7 @@
    "hozyaistvo": "CASAL MENDES",
    "shtrihkod": "5601213184867",
    "cena_rsd": 899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -2970,7 +2970,7 @@
    "hozyaistvo": "CORONICA",
    "shtrihkod": "3859893281006",
    "cena_rsd": 2999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -2979,7 +2979,7 @@
    "hozyaistvo": "VINARIJA FENEK",
    "shtrihkod": "8607000292750",
    "cena_rsd": 1299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -2988,7 +2988,7 @@
    "hozyaistvo": "STANDARD",
    "shtrihkod": "5310008006054",
    "cena_rsd": 524.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -2997,7 +2997,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8033237520807",
    "cena_rsd": 1119.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -3006,7 +3006,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610156274",
    "cena_rsd": 1164.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3015,7 +3015,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610171048",
    "cena_rsd": 914.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3024,7 +3024,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610171055",
    "cena_rsd": 914.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -3033,7 +3033,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263286350598",
    "cena_rsd": 329.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -3042,7 +3042,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263286350611",
    "cena_rsd": 319.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -3051,7 +3051,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294039",
    "cena_rsd": 2569.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -3060,7 +3060,7 @@
    "hozyaistvo": "VINARIJA ČOKA",
    "shtrihkod": "8606107899510",
    "cena_rsd": 589.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -3069,7 +3069,7 @@
    "hozyaistvo": "VINARIJA ČOKA",
    "shtrihkod": "8606107899435",
    "cena_rsd": 639.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -3078,7 +3078,7 @@
    "hozyaistvo": "VINARIJA TONKOVIĆ",
    "shtrihkod": "8607000070433",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -3087,7 +3087,7 @@
    "hozyaistvo": "VINARIJA TONKOVIĆ",
    "shtrihkod": "8607000070426",
    "cena_rsd": 2389.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -3096,7 +3096,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003006129",
    "cena_rsd": 2299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -3105,7 +3105,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111835",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 42,
    "v_prodazhe": true
   },
@@ -3141,7 +3141,7 @@
    "hozyaistvo": "VINARIJA ĐORĐEVIĆ",
    "shtrihkod": "8606106286625",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -3150,7 +3150,7 @@
    "hozyaistvo": "TRI MEĐE I OBLAK",
    "shtrihkod": "8607000223501",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -3159,7 +3159,7 @@
    "hozyaistvo": "LA DELIZIA",
    "shtrihkod": "8002006960410",
    "cena_rsd": 1329.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -3168,7 +3168,7 @@
    "hozyaistvo": "VERTIZ",
    "shtrihkod": "8607000374661",
    "cena_rsd": 2499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -3177,7 +3177,7 @@
    "hozyaistvo": "VINAKOPER",
    "shtrihkod": "3830000705202",
    "cena_rsd": 1549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -3186,7 +3186,7 @@
    "hozyaistvo": "VINAKOPER",
    "shtrihkod": "3830000705097",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -3213,7 +3213,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610033346",
    "cena_rsd": 882.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -3231,7 +3231,7 @@
    "hozyaistvo": "IVANOVIĆ",
    "shtrihkod": "8606102431159",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -3240,7 +3240,7 @@
    "hozyaistvo": "SPASIĆ",
    "shtrihkod": "8606104719019",
    "cena_rsd": 1449.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 34,
    "v_prodazhe": true
   },
@@ -3258,7 +3258,7 @@
    "hozyaistvo": "HILANDAR",
    "shtrihkod": "5206949000100",
    "cena_rsd": 1799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 40,
    "v_prodazhe": true
   },
@@ -3267,7 +3267,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111477",
    "cena_rsd": 192.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -3276,7 +3276,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090412",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 18,
    "v_prodazhe": true
   },
@@ -3294,7 +3294,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001469",
    "cena_rsd": 1624.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -3303,7 +3303,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "4006542077926",
    "cena_rsd": 879.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 24,
    "v_prodazhe": true
   },
@@ -3312,7 +3312,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "4006542076042",
    "cena_rsd": 879.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 24,
    "v_prodazhe": true
   },
@@ -3330,7 +3330,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8052278320399",
    "cena_rsd": 3199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3339,7 +3339,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8052278320290",
    "cena_rsd": 2799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3348,7 +3348,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8052278320092",
    "cena_rsd": 2499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3357,7 +3357,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8052278320139",
    "cena_rsd": 2499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3366,7 +3366,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8052278320177",
    "cena_rsd": 2499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3375,7 +3375,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "8015957250189",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -3384,7 +3384,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "8006870012770",
    "cena_rsd": 1524.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3393,7 +3393,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "8006870013333",
    "cena_rsd": 1549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -3402,7 +3402,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111903",
    "cena_rsd": 2874.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3411,7 +3411,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8606106029758",
    "cena_rsd": 594.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3420,7 +3420,7 @@
    "hozyaistvo": "DOJA",
    "shtrihkod": "8607000131899",
    "cena_rsd": 5299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 16,
    "v_prodazhe": true
   },
@@ -3429,7 +3429,7 @@
    "hozyaistvo": "DESPOTIKA",
    "shtrihkod": "8606107067148",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 26,
    "v_prodazhe": true
   },
@@ -3438,7 +3438,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111866",
    "cena_rsd": 1949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3474,7 +3474,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610108501",
    "cena_rsd": 2117.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -3501,7 +3501,7 @@
    "hozyaistvo": "ŽILAVKA",
    "shtrihkod": "3870083000351",
    "cena_rsd": 999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -3510,7 +3510,7 @@
    "hozyaistvo": "BLATINA",
    "shtrihkod": "3870083000146",
    "cena_rsd": 1289.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 25,
    "v_prodazhe": true
   },
@@ -3519,7 +3519,7 @@
    "hozyaistvo": "LASTAR",
    "shtrihkod": "8606108332115",
    "cena_rsd": 1399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -3537,7 +3537,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8606107362120",
    "cena_rsd": 259.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3546,7 +3546,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8606107362083",
    "cena_rsd": 244.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3564,7 +3564,7 @@
    "hozyaistvo": "SANTA CRISTINA",
    "shtrihkod": "8001935361404",
    "cena_rsd": 1669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -3573,7 +3573,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074141894",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -3582,7 +3582,7 @@
    "hozyaistvo": "FREIXENET",
    "shtrihkod": "8410036808433",
    "cena_rsd": 1559.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -3591,7 +3591,7 @@
    "hozyaistvo": "FREIXENET",
    "shtrihkod": "8410036808396",
    "cena_rsd": 1559.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -3600,7 +3600,7 @@
    "hozyaistvo": "FREIXENET",
    "shtrihkod": "8410036808419",
    "cena_rsd": 1559.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -3609,7 +3609,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8606107362106",
    "cena_rsd": 244.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3627,7 +3627,7 @@
    "hozyaistvo": "TORA",
    "shtrihkod": "5319990221278",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -3636,7 +3636,7 @@
    "hozyaistvo": "TORA",
    "shtrihkod": "5319990221018",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -3645,7 +3645,7 @@
    "hozyaistvo": "TORA",
    "shtrihkod": "5319990221131",
    "cena_rsd": 1649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -3663,7 +3663,7 @@
    "hozyaistvo": "VINARIJA MOLOVIN",
    "shtrihkod": "8607000035845",
    "cena_rsd": 1349.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 38,
    "v_prodazhe": true
   },
@@ -3672,7 +3672,7 @@
    "hozyaistvo": "VINARIJA MOLOVIN",
    "shtrihkod": "8607000035869",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 38,
    "v_prodazhe": true
   },
@@ -3681,7 +3681,7 @@
    "hozyaistvo": "NIKOLAS WINES",
    "shtrihkod": "8606101750459",
    "cena_rsd": 979.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -3690,7 +3690,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090016",
    "cena_rsd": 3799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -3780,7 +3780,7 @@
    "hozyaistvo": "KAŠTEL",
    "shtrihkod": "8606102329111",
    "cena_rsd": 559.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -3789,7 +3789,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003003067",
    "cena_rsd": 359.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 14,
    "v_prodazhe": true
   },
@@ -3798,7 +3798,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294855",
    "cena_rsd": 1749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -3807,7 +3807,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498326",
    "cena_rsd": 719.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -3825,7 +3825,7 @@
    "hozyaistvo": "IZBA JOVANOVIĆ",
    "shtrihkod": "8607000135026",
    "cena_rsd": 2069.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -3834,7 +3834,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267814",
    "cena_rsd": 3449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3852,7 +3852,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003002190",
    "cena_rsd": 1099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -3861,7 +3861,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "4840403009394",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -3870,7 +3870,7 @@
    "hozyaistvo": "TORLEY",
    "shtrihkod": "5998815750669",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -3879,7 +3879,7 @@
    "hozyaistvo": "TORLEY",
    "shtrihkod": "5998815750638",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -3888,7 +3888,7 @@
    "hozyaistvo": "TORLEY",
    "shtrihkod": "5998815750607",
    "cena_rsd": 699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -3897,7 +3897,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001032",
    "cena_rsd": 689.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -3915,7 +3915,7 @@
    "hozyaistvo": "STOBI",
    "shtrihkod": "5319991646216",
    "cena_rsd": 829.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -3924,7 +3924,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294756",
    "cena_rsd": 2349.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -3933,7 +3933,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090191",
    "cena_rsd": 1549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 40,
    "v_prodazhe": true
   },
@@ -3942,7 +3942,7 @@
    "hozyaistvo": "BARON DE ROTHBERG",
    "shtrihkod": "3500610005992",
    "cena_rsd": 599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -3960,7 +3960,7 @@
    "hozyaistvo": "GROZD",
    "shtrihkod": "8606109488484",
    "cena_rsd": 829.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -3978,7 +3978,7 @@
    "hozyaistvo": "CONTE LORENZO  SORMANI",
    "shtrihkod": "8004300128145",
    "cena_rsd": 899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -3987,7 +3987,7 @@
    "hozyaistvo": "KUTJEVO",
    "shtrihkod": "3850156001003",
    "cena_rsd": 1339.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -4014,7 +4014,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263286346683",
    "cena_rsd": 882.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4023,7 +4023,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8607000073304",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -4032,7 +4032,7 @@
    "hozyaistvo": "ŽDREPČEVA KRV",
    "shtrihkod": "8600102938229",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -4059,7 +4059,7 @@
    "hozyaistvo": "TRAMPEX",
    "shtrihkod": "4006542073324",
    "cena_rsd": 829.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -4086,7 +4086,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111378",
    "cena_rsd": 474.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 42,
    "v_prodazhe": true
   },
@@ -4095,7 +4095,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8600103343312",
    "cena_rsd": 459.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -4113,7 +4113,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263286301323",
    "cena_rsd": 882.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4122,7 +4122,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001162",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -4131,7 +4131,7 @@
    "hozyaistvo": "BOTTER SPA",
    "shtrihkod": "8008863043426",
    "cena_rsd": 499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 24,
    "v_prodazhe": true
   },
@@ -4158,7 +4158,7 @@
    "hozyaistvo": "CHATEAUX FONFROIDE",
    "shtrihkod": "3500610035630",
    "cena_rsd": 1097.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -4167,7 +4167,7 @@
    "hozyaistvo": "PODRUM MATALJ",
    "shtrihkod": "8606101788254",
    "cena_rsd": 1299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -4176,7 +4176,7 @@
    "hozyaistvo": "ŽDREBAC",
    "shtrihkod": "8600102938014",
    "cena_rsd": 429.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4194,7 +4194,7 @@
    "hozyaistvo": "FIOR DI MASO",
    "shtrihkod": "8011425115271",
    "cena_rsd": 749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -4203,7 +4203,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001070",
    "cena_rsd": 459.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4221,7 +4221,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498173",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4230,7 +4230,7 @@
    "hozyaistvo": "CALDIROLA",
    "shtrihkod": "8004300661642",
    "cena_rsd": 679.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4239,7 +4239,7 @@
    "hozyaistvo": "ELIO PERRONE",
    "shtrihkod": "8606104996427",
    "cena_rsd": 1879.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -4248,7 +4248,7 @@
    "hozyaistvo": "SENSI",
    "shtrihkod": "8002477075408",
    "cena_rsd": 639.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -4257,7 +4257,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8606101559021",
    "cena_rsd": 1799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -4266,7 +4266,7 @@
    "hozyaistvo": "HENKELL TROCKEN",
    "shtrihkod": "4003310011908",
    "cena_rsd": 2969.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -4275,7 +4275,7 @@
    "hozyaistvo": "DULONG",
    "shtrihkod": "3272810159170",
    "cena_rsd": 1212.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -4284,7 +4284,7 @@
    "hozyaistvo": "CASA DE CAMPO",
    "shtrihkod": "7804661041111",
    "cena_rsd": 1054.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -4329,7 +4329,7 @@
    "hozyaistvo": "CHICHATEAU",
    "shtrihkod": "8607000099236",
    "cena_rsd": 3499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -4338,7 +4338,7 @@
    "hozyaistvo": "SIMEX",
    "shtrihkod": "8607000475207",
    "cena_rsd": 419.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -4347,7 +4347,7 @@
    "hozyaistvo": "SIMEX",
    "shtrihkod": "8607000475214",
    "cena_rsd": 419.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 21,
    "v_prodazhe": true
   },
@@ -4356,7 +4356,7 @@
    "hozyaistvo": "SIMEX",
    "shtrihkod": "8607000475221",
    "cena_rsd": 419.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -4374,7 +4374,7 @@
    "hozyaistvo": "VINARIJA ČOKA",
    "shtrihkod": "8606102329852",
    "cena_rsd": 429.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -4383,7 +4383,7 @@
    "hozyaistvo": "VINA LAGUNA",
    "shtrihkod": "3858881190443",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4392,7 +4392,7 @@
    "hozyaistvo": "STANDARD",
    "shtrihkod": "5310008006016",
    "cena_rsd": 524.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4401,7 +4401,7 @@
    "hozyaistvo": "MATEUS",
    "shtrihkod": "5601012011500",
    "cena_rsd": 999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -4410,7 +4410,7 @@
    "hozyaistvo": "ŽDREPČEVA KRV",
    "shtrihkod": "8600102938595",
    "cena_rsd": 429.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4419,7 +4419,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111583",
    "cena_rsd": 669.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -4428,7 +4428,7 @@
    "hozyaistvo": "GARLING",
    "shtrihkod": "4840044006790",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -4437,7 +4437,7 @@
    "hozyaistvo": "EFES",
    "shtrihkod": "8000420019158",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -4455,7 +4455,7 @@
    "hozyaistvo": "DŽERVIN",
    "shtrihkod": "8606107880372",
    "cena_rsd": 1159.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -4464,7 +4464,7 @@
    "hozyaistvo": "CIGNOMORO",
    "shtrihkod": "8058964010131",
    "cena_rsd": 3299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -4473,7 +4473,7 @@
    "hozyaistvo": "CIGNOMORO",
    "shtrihkod": "8058964010100",
    "cena_rsd": 4149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -4482,7 +4482,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267616",
    "cena_rsd": 1649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 26,
    "v_prodazhe": true
   },
@@ -4491,7 +4491,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8607000073335",
    "cena_rsd": 1349.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4500,7 +4500,7 @@
    "hozyaistvo": "VIRTUS",
    "shtrihkod": "8607000097805",
    "cena_rsd": 1589.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -4509,7 +4509,7 @@
    "hozyaistvo": "VIRTUS",
    "shtrihkod": "8607000097836",
    "cena_rsd": 1449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -4518,7 +4518,7 @@
    "hozyaistvo": "VIRTUS",
    "shtrihkod": "8607000097850",
    "cena_rsd": 1969.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -4527,7 +4527,7 @@
    "hozyaistvo": "RADGONSKE GORICE",
    "shtrihkod": "3830000340212",
    "cena_rsd": 1569.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 16,
    "v_prodazhe": true
   },
@@ -4554,7 +4554,7 @@
    "hozyaistvo": "HAUSBRANDT",
    "shtrihkod": "8017802133050",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -4563,7 +4563,7 @@
    "hozyaistvo": "LIBERO",
    "shtrihkod": "3850156006121",
    "cena_rsd": 1319.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -4572,7 +4572,7 @@
    "hozyaistvo": "SAINTE MARGUERITE SYMPHONIE",
    "shtrihkod": "3332380127501",
    "cena_rsd": 3319.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -4581,7 +4581,7 @@
    "hozyaistvo": "MOET",
    "shtrihkod": "3666140040183",
    "cena_rsd": 4109.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -4590,7 +4590,7 @@
    "hozyaistvo": "MOET",
    "shtrihkod": "3666140011916",
    "cena_rsd": 2589.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -4599,7 +4599,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8019873024015",
    "cena_rsd": 1219.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -4608,7 +4608,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8019873925145",
    "cena_rsd": 1269.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -4617,7 +4617,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001025",
    "cena_rsd": 689.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4626,7 +4626,7 @@
    "hozyaistvo": "LUC BELAIRE",
    "shtrihkod": "0813497007083",
    "cena_rsd": 4789.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -4635,7 +4635,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3263280118712",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -4644,7 +4644,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267593",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -4653,7 +4653,7 @@
    "hozyaistvo": "SIGNORE GIUSEPPE",
    "shtrihkod": "3263280114509",
    "cena_rsd": 1139.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -4662,7 +4662,7 @@
    "hozyaistvo": "RETSINA",
    "shtrihkod": "8607000173455",
    "cena_rsd": 409.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 42,
    "v_prodazhe": true
   },
@@ -4671,7 +4671,7 @@
    "hozyaistvo": "BOTTER SPA",
    "shtrihkod": "8008863057836",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 32,
    "v_prodazhe": true
   },
@@ -4680,7 +4680,7 @@
    "hozyaistvo": "DOJA",
    "shtrihkod": "8607000225918",
    "cena_rsd": 1299.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4698,7 +4698,7 @@
    "hozyaistvo": "GARLING",
    "shtrihkod": "4840044008121",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -4716,7 +4716,7 @@
    "hozyaistvo": "CLASSIC",
    "shtrihkod": "5310008007129",
    "cena_rsd": 819.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4743,7 +4743,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111446",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 26,
    "v_prodazhe": true
   },
@@ -4752,7 +4752,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294053",
    "cena_rsd": 5349.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -4761,7 +4761,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498043",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4797,7 +4797,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3159560603804",
    "cena_rsd": 949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 38,
    "v_prodazhe": true
   },
@@ -4806,7 +4806,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3159560603286",
    "cena_rsd": 949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 36,
    "v_prodazhe": true
   },
@@ -4815,7 +4815,7 @@
    "hozyaistvo": "100 ŽENA",
    "shtrihkod": "8606112369039",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -4833,7 +4833,7 @@
    "hozyaistvo": "DOJA",
    "shtrihkod": "8607000131820",
    "cena_rsd": 1579.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4869,7 +4869,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610127397",
    "cena_rsd": 507.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -4878,7 +4878,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610134432",
    "cena_rsd": 1944.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -4887,7 +4887,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263289993112",
    "cena_rsd": 1451.49,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -4914,7 +4914,7 @@
    "hozyaistvo": "BOTTER SPA",
    "shtrihkod": "8008863008180",
    "cena_rsd": 1069.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -4923,7 +4923,7 @@
    "hozyaistvo": "DŽERVIN",
    "shtrihkod": "8606107880303",
    "cena_rsd": 603.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -4932,7 +4932,7 @@
    "hozyaistvo": "MARTINI",
    "shtrihkod": "8000570552505",
    "cena_rsd": 1759.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -4950,7 +4950,7 @@
    "hozyaistvo": "DŽERVIN",
    "shtrihkod": "8606107880310",
    "cena_rsd": 617.49,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -4968,7 +4968,7 @@
    "hozyaistvo": "SANGRIA",
    "shtrihkod": "8600102938144",
    "cena_rsd": 529.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -4995,7 +4995,7 @@
    "hozyaistvo": "DOJA",
    "shtrihkod": "8607000131813",
    "cena_rsd": 1069.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 35,
    "v_prodazhe": true
   },
@@ -5004,7 +5004,7 @@
    "hozyaistvo": "LEDERER",
    "shtrihkod": "8606107899305",
    "cena_rsd": 779.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -5013,7 +5013,7 @@
    "hozyaistvo": "LEDERER",
    "shtrihkod": "8606107899299",
    "cena_rsd": 779.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -5022,7 +5022,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267777",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 28,
    "v_prodazhe": true
   },
@@ -5031,7 +5031,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003002213",
    "cena_rsd": 1349.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 31,
    "v_prodazhe": true
   },
@@ -5076,7 +5076,7 @@
    "hozyaistvo": "ILOČKI PODRUMI",
    "shtrihkod": "3859889556552",
    "cena_rsd": 1049.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -5085,7 +5085,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610102493",
    "cena_rsd": 1007.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 30,
    "v_prodazhe": true
   },
@@ -5121,7 +5121,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8019873714008",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5148,7 +5148,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003002091",
    "cena_rsd": 459.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -5184,7 +5184,7 @@
    "hozyaistvo": "GRUMEN",
    "shtrihkod": "8607000312618",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 14,
    "v_prodazhe": true
   },
@@ -5193,7 +5193,7 @@
    "hozyaistvo": "DESPOTIKA",
    "shtrihkod": "8606107067162",
    "cena_rsd": 1819.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -5211,7 +5211,7 @@
    "hozyaistvo": "SIGNORE GIUSEPPE",
    "shtrihkod": "8052783851272",
    "cena_rsd": 1259.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -5220,7 +5220,7 @@
    "hozyaistvo": "COMBO",
    "shtrihkod": "5205243317075",
    "cena_rsd": 1799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -5229,7 +5229,7 @@
    "hozyaistvo": "RUFFINO",
    "shtrihkod": "8001660109753",
    "cena_rsd": 3219.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -5265,7 +5265,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090368",
    "cena_rsd": 2469.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -5274,7 +5274,7 @@
    "hozyaistvo": "JACOBS CREEK",
    "shtrihkod": "9300727513212",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -5283,7 +5283,7 @@
    "hozyaistvo": "JACOBS CREEK",
    "shtrihkod": "9300727618016",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -5310,7 +5310,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8600103343480",
    "cena_rsd": 389.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 42,
    "v_prodazhe": true
   },
@@ -5319,7 +5319,7 @@
    "hozyaistvo": "NIKOLAS WINES",
    "shtrihkod": "8606101750985",
    "cena_rsd": 1379.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -5328,7 +5328,7 @@
    "hozyaistvo": "BT WINERY",
    "shtrihkod": "8606110836069",
    "cena_rsd": 1224.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5391,7 +5391,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610172748",
    "cena_rsd": 1099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5400,7 +5400,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001230",
    "cena_rsd": 459.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -5409,7 +5409,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111453",
    "cena_rsd": 429.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -5418,7 +5418,7 @@
    "hozyaistvo": "MATALJ",
    "shtrihkod": "8606101788223",
    "cena_rsd": 2299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -5427,7 +5427,7 @@
    "hozyaistvo": "MINIĆ",
    "shtrihkod": "8606105716024",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 32,
    "v_prodazhe": true
   },
@@ -5436,7 +5436,7 @@
    "hozyaistvo": "SANTA CRISTINA",
    "shtrihkod": "8001935002789",
    "cena_rsd": 2199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -5445,7 +5445,7 @@
    "hozyaistvo": "MOSTOS",
    "shtrihkod": "8437001185726",
    "cena_rsd": 799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -5463,7 +5463,7 @@
    "hozyaistvo": "CASILLERO",
    "shtrihkod": "7804320087016",
    "cena_rsd": 1529.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -5472,7 +5472,7 @@
    "hozyaistvo": "PERLINO",
    "shtrihkod": "8000428032401",
    "cena_rsd": 722.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -5481,7 +5481,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610136009",
    "cena_rsd": 939.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -5490,7 +5490,7 @@
    "hozyaistvo": "PETER WEINBACH",
    "shtrihkod": "4049366003542",
    "cena_rsd": 918.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -5499,7 +5499,7 @@
    "hozyaistvo": "DONJON DE LAMARQUISE",
    "shtrihkod": "3586253000921",
    "cena_rsd": 2944.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -5508,7 +5508,7 @@
    "hozyaistvo": "VIRTUS",
    "shtrihkod": "8607000097812",
    "cena_rsd": 1479.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5517,7 +5517,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610096662",
    "cena_rsd": 442.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -5526,7 +5526,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3500610096655",
    "cena_rsd": 442.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 27,
    "v_prodazhe": true
   },
@@ -5544,7 +5544,7 @@
    "hozyaistvo": "DESPOTIKA",
    "shtrihkod": "8606107067056",
    "cena_rsd": 2219.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -5553,7 +5553,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498371",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -5562,7 +5562,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294619",
    "cena_rsd": 2099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -5571,7 +5571,7 @@
    "hozyaistvo": "ZMAJEVAC",
    "shtrihkod": "8607000205262",
    "cena_rsd": 3199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5580,7 +5580,7 @@
    "hozyaistvo": "VERKAT",
    "shtrihkod": "8607000226908",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5607,7 +5607,7 @@
    "hozyaistvo": "SANGRIA",
    "shtrihkod": "8600102938519",
    "cena_rsd": 529.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -5616,7 +5616,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090221",
    "cena_rsd": 2469.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -5625,7 +5625,7 @@
    "hozyaistvo": "ZVONKO BOGDAN",
    "shtrihkod": "8606015090207",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 38,
    "v_prodazhe": true
   },
@@ -5643,7 +5643,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294046",
    "cena_rsd": 1699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 35,
    "v_prodazhe": true
   },
@@ -5652,7 +5652,7 @@
    "hozyaistvo": "SAVINO POLJE",
    "shtrihkod": "5206949000575",
    "cena_rsd": 2799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 14,
    "v_prodazhe": true
   },
@@ -5661,7 +5661,7 @@
    "hozyaistvo": "NIKOLAS WINES",
    "shtrihkod": "8606101750275",
    "cena_rsd": 699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -5670,7 +5670,7 @@
    "hozyaistvo": "NIKOLAS WINES",
    "shtrihkod": "8606101750305",
    "cena_rsd": 689.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -5679,7 +5679,7 @@
    "hozyaistvo": "LUCCARELLI",
    "shtrihkod": "8019873924650",
    "cena_rsd": 1329.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -5688,7 +5688,7 @@
    "hozyaistvo": "DOJA",
    "shtrihkod": "8607000131875",
    "cena_rsd": 1649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -5697,7 +5697,7 @@
    "hozyaistvo": "DOJA",
    "shtrihkod": "8607000131882",
    "cena_rsd": 1649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 15,
    "v_prodazhe": true
   },
@@ -5715,7 +5715,7 @@
    "hozyaistvo": "GRAND SUD",
    "shtrihkod": "3263286350161",
    "cena_rsd": 827.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -5724,7 +5724,7 @@
    "hozyaistvo": "GRAND SUD",
    "shtrihkod": "3263286345518",
    "cena_rsd": 849.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 16,
    "v_prodazhe": true
   },
@@ -5760,7 +5760,7 @@
    "hozyaistvo": "VINARIJA JOKIĆ",
    "shtrihkod": "3859892833015",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -5769,7 +5769,7 @@
    "hozyaistvo": "VINARIJA JOKIĆ",
    "shtrihkod": "3859892833022",
    "cena_rsd": 1799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -5778,7 +5778,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8606101559069",
    "cena_rsd": 4519.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -5787,7 +5787,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8606101559083",
    "cena_rsd": 2799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -5796,7 +5796,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8606101559038",
    "cena_rsd": 1429.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 32,
    "v_prodazhe": true
   },
@@ -5805,7 +5805,7 @@
    "hozyaistvo": "KOZLOVIĆ",
    "shtrihkod": "2504501054657",
    "cena_rsd": 2874.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -5859,7 +5859,7 @@
    "hozyaistvo": "IMAKO",
    "shtrihkod": "5310140009616",
    "cena_rsd": 979.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 11,
    "v_prodazhe": true
   },
@@ -5868,7 +5868,7 @@
    "hozyaistvo": "VINARIJA ĐORĐEVIĆ",
    "shtrihkod": "8606106286588",
    "cena_rsd": 3169.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5877,7 +5877,7 @@
    "hozyaistvo": "JUNGIĆ",
    "shtrihkod": "3877000075379",
    "cena_rsd": 6199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5886,7 +5886,7 @@
    "hozyaistvo": "RADOVANOVIĆ",
    "shtrihkod": "8607000216220",
    "cena_rsd": 3199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5895,7 +5895,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267906",
    "cena_rsd": 5199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5904,7 +5904,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8607000364532",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -5913,7 +5913,7 @@
    "hozyaistvo": "CHICHATEAU",
    "shtrihkod": "8607000099281",
    "cena_rsd": 2599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -5922,7 +5922,7 @@
    "hozyaistvo": "CHICHATEAU",
    "shtrihkod": "8607000099267",
    "cena_rsd": 3499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -5931,7 +5931,7 @@
    "hozyaistvo": "TRI ORAHA",
    "shtrihkod": "8607000137181",
    "cena_rsd": 2499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -5940,7 +5940,7 @@
    "hozyaistvo": "CASTELLO BANFI",
    "shtrihkod": "8015674840960",
    "cena_rsd": 2799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -5958,7 +5958,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8606106029857",
    "cena_rsd": 444.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -5967,7 +5967,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111286",
    "cena_rsd": 464.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -5994,7 +5994,7 @@
    "hozyaistvo": "UKUSI MOGA KRAJA",
    "shtrihkod": "8605028603824",
    "cena_rsd": 999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6003,7 +6003,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111019",
    "cena_rsd": 444.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -6012,7 +6012,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111361",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -6021,7 +6021,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111385",
    "cena_rsd": 449.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -6030,7 +6030,7 @@
    "hozyaistvo": "DOJA",
    "shtrihkod": "8607000131806",
    "cena_rsd": 1249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6039,7 +6039,7 @@
    "hozyaistvo": "CLASSIC",
    "shtrihkod": "5310008005859",
    "cena_rsd": 819.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6048,7 +6048,7 @@
    "hozyaistvo": "VRANAC",
    "shtrihkod": "8606107899312",
    "cena_rsd": 219.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -6057,7 +6057,7 @@
    "hozyaistvo": "VINARIJA ALEKSIĆ",
    "shtrihkod": "8607000073397",
    "cena_rsd": 649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6066,7 +6066,7 @@
    "hozyaistvo": "FIOR DI MASO",
    "shtrihkod": "0000002718718",
    "cena_rsd": 4299.9,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -6102,7 +6102,7 @@
    "hozyaistvo": "PREMIUM",
    "shtrihkod": "5310008005088",
    "cena_rsd": 1499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 39,
    "v_prodazhe": true
   },
@@ -6111,7 +6111,7 @@
    "hozyaistvo": "ERDEVIK",
    "shtrihkod": "8606107267791",
    "cena_rsd": 1549.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -6120,7 +6120,7 @@
    "hozyaistvo": "VINAKOPER",
    "shtrihkod": "3830000700108",
    "cena_rsd": 1469.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 22,
    "v_prodazhe": true
   },
@@ -6129,7 +6129,7 @@
    "hozyaistvo": "OPERA PRIMA",
    "shtrihkod": "8410261101118",
    "cena_rsd": 579.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 16,
    "v_prodazhe": true
   },
@@ -6138,7 +6138,7 @@
    "hozyaistvo": "GRAND ENVIE",
    "shtrihkod": "3175529649300",
    "cena_rsd": 949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6147,7 +6147,7 @@
    "hozyaistvo": "CHATEAU CHEVALIER",
    "shtrihkod": "3211209987550",
    "cena_rsd": 2299.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6156,7 +6156,7 @@
    "hozyaistvo": "LOUIS GIRARD",
    "shtrihkod": "3211209219569",
    "cena_rsd": 2689.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6165,7 +6165,7 @@
    "hozyaistvo": "LOUIS GIRARD",
    "shtrihkod": "3211209219590",
    "cena_rsd": 3249.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 7,
    "v_prodazhe": true
   },
@@ -6174,7 +6174,7 @@
    "hozyaistvo": "CASTEL",
    "shtrihkod": "3211201046521",
    "cena_rsd": 969.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -6192,7 +6192,7 @@
    "hozyaistvo": "KATSAROS",
    "shtrihkod": "5202227500249",
    "cena_rsd": 1224.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -6201,7 +6201,7 @@
    "hozyaistvo": "ZONIN",
    "shtrihkod": "8002235835053",
    "cena_rsd": 1749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -6210,7 +6210,7 @@
    "hozyaistvo": "ZONIN",
    "shtrihkod": "8002235020862",
    "cena_rsd": 1444.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -6219,7 +6219,7 @@
    "hozyaistvo": "ZONIN",
    "shtrihkod": "8002235212557",
    "cena_rsd": 1419.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -6237,7 +6237,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8019873724779",
    "cena_rsd": 1819.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6246,7 +6246,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8019873924407",
    "cena_rsd": 4099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -6255,7 +6255,7 @@
    "hozyaistvo": "N1",
    "shtrihkod": "8606111080034",
    "cena_rsd": 3399.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -6264,7 +6264,7 @@
    "hozyaistvo": "FANTINI",
    "shtrihkod": "8017494738014",
    "cena_rsd": 1779.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -6273,7 +6273,7 @@
    "hozyaistvo": "VINARIJA ALEKSANDROVIĆ",
    "shtrihkod": "8606100294473",
    "cena_rsd": 1509.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -6282,7 +6282,7 @@
    "hozyaistvo": "LASTAR",
    "shtrihkod": "8606108332078",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -6291,7 +6291,7 @@
    "hozyaistvo": "LASTAR",
    "shtrihkod": "8606108332122",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 17,
    "v_prodazhe": true
   },
@@ -6300,7 +6300,7 @@
    "hozyaistvo": "LASTAR",
    "shtrihkod": "8606108332108",
    "cena_rsd": 1949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6309,7 +6309,7 @@
    "hozyaistvo": "LES GRANDS CHAIS DE FRANCE",
    "shtrihkod": "3159560603279",
    "cena_rsd": 949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -6318,7 +6318,7 @@
    "hozyaistvo": "CALDIROLA",
    "shtrihkod": "8004300362303",
    "cena_rsd": 749.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 43,
    "v_prodazhe": true
   },
@@ -6336,7 +6336,7 @@
    "hozyaistvo": "ČOKA",
    "shtrihkod": "8606106842012",
    "cena_rsd": 609.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6354,7 +6354,7 @@
    "hozyaistvo": "MOSTOS",
    "shtrihkod": "8437016230794",
    "cena_rsd": 799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -6363,7 +6363,7 @@
    "hozyaistvo": "MOSTOS",
    "shtrihkod": "8437016230763",
    "cena_rsd": 799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 21,
    "v_prodazhe": true
   },
@@ -6372,7 +6372,7 @@
    "hozyaistvo": "VINARIJA DEURIĆ",
    "shtrihkod": "8607000214530",
    "cena_rsd": 1649.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -6381,7 +6381,7 @@
    "hozyaistvo": "VINARIJA DEURIĆ",
    "shtrihkod": "8607000168505",
    "cena_rsd": 1759.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -6399,7 +6399,7 @@
    "hozyaistvo": "MANASTIR TVRDOŠ",
    "shtrihkod": "3871734000034",
    "cena_rsd": 1899.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -6408,7 +6408,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498333",
    "cena_rsd": 719.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 38,
    "v_prodazhe": true
   },
@@ -6417,7 +6417,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263286301385",
    "cena_rsd": 882.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -6444,7 +6444,7 @@
    "hozyaistvo": "DULONG",
    "shtrihkod": "3500610044601",
    "cena_rsd": 1192.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 12,
    "v_prodazhe": true
   },
@@ -6453,7 +6453,7 @@
    "hozyaistvo": "TENUTA SANTOME",
    "shtrihkod": "8606103299147",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 10,
    "v_prodazhe": true
   },
@@ -6471,7 +6471,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074111460",
    "cena_rsd": 514.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6498,7 +6498,7 @@
    "hozyaistvo": "HENKELL TROCKEN",
    "shtrihkod": "4003310011625",
    "cena_rsd": 1179.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6534,7 +6534,7 @@
    "hozyaistvo": "CORVUS",
    "shtrihkod": "5999884265504",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 26,
    "v_prodazhe": true
   },
@@ -6543,7 +6543,7 @@
    "hozyaistvo": "TRAPICHE",
    "shtrihkod": "7790240017045",
    "cena_rsd": 999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 24,
    "v_prodazhe": true
   },
@@ -6552,7 +6552,7 @@
    "hozyaistvo": "BELO BRDO",
    "shtrihkod": "8606106791013",
    "cena_rsd": 1949.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 22,
    "v_prodazhe": true
   },
@@ -6561,7 +6561,7 @@
    "hozyaistvo": "MAGDA PEDRINI",
    "shtrihkod": "8054188980540",
    "cena_rsd": 1999.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -6579,7 +6579,7 @@
    "hozyaistvo": "BORGOLUCE",
    "shtrihkod": "8056737645054",
    "cena_rsd": 1969.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 20,
    "v_prodazhe": true
   },
@@ -6597,7 +6597,7 @@
    "hozyaistvo": "MUREDA",
    "shtrihkod": "8437008496320",
    "cena_rsd": 699.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -6606,7 +6606,7 @@
    "hozyaistvo": "MUREDA",
    "shtrihkod": "8437008496337",
    "cena_rsd": 719.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -6615,7 +6615,7 @@
    "hozyaistvo": "MUREDA",
    "shtrihkod": "8437008496245",
    "cena_rsd": 670.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -6624,7 +6624,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003001131",
    "cena_rsd": 2499.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 32,
    "v_prodazhe": true
   },
@@ -6633,7 +6633,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003003012",
    "cena_rsd": 279.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 16,
    "v_prodazhe": true
   },
@@ -6642,7 +6642,7 @@
    "hozyaistvo": "13 JUL PLANTAŽE",
    "shtrihkod": "3899003003029",
    "cena_rsd": 279.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 13,
    "v_prodazhe": true
   },
@@ -6678,7 +6678,7 @@
    "hozyaistvo": "VRŠAČKI VINOGRADI",
    "shtrihkod": "8600107012160",
    "cena_rsd": 504.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -6687,7 +6687,7 @@
    "hozyaistvo": "ČOKA",
    "shtrihkod": "8600102938649",
    "cena_rsd": 569.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 35,
    "v_prodazhe": true
   },
@@ -6696,7 +6696,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8600103343473",
    "cena_rsd": 1599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6705,7 +6705,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8606106029352",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6714,7 +6714,7 @@
    "hozyaistvo": "STATUS",
    "shtrihkod": "8600103343862",
    "cena_rsd": 1099.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -6723,7 +6723,7 @@
    "hozyaistvo": "CIELO E TERRA",
    "shtrihkod": "8008900007541",
    "cena_rsd": 1339.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6750,7 +6750,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "8006870010165",
    "cena_rsd": 1179.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -6759,7 +6759,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "8006870010240",
    "cena_rsd": 1074.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 4,
    "v_prodazhe": true
   },
@@ -6768,7 +6768,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "8006870011162",
    "cena_rsd": 1099.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -6777,7 +6777,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "8006870011209",
    "cena_rsd": 1149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 5,
    "v_prodazhe": true
   },
@@ -6786,7 +6786,7 @@
    "hozyaistvo": "SPECIAL MOMENTS",
    "shtrihkod": "3850334437273",
    "cena_rsd": 199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 8,
    "v_prodazhe": true
   },
@@ -6795,7 +6795,7 @@
    "hozyaistvo": "FRAGARIA",
    "shtrihkod": "8607000282041",
    "cena_rsd": 2149.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6813,7 +6813,7 @@
    "hozyaistvo": "FRAGARIA",
    "shtrihkod": "8607000282003",
    "cena_rsd": 3799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -6840,7 +6840,7 @@
    "hozyaistvo": "VINARIJA KOVAČEVIĆ",
    "shtrihkod": "8600103498166",
    "cena_rsd": 1799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6849,7 +6849,7 @@
    "hozyaistvo": "LAMBLIN",
    "shtrihkod": "3269390234014",
    "cena_rsd": 11199.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 6,
    "v_prodazhe": true
   },
@@ -6858,7 +6858,7 @@
    "hozyaistvo": "IVANOVIĆ",
    "shtrihkod": "8606102431135",
    "cena_rsd": 1699.0,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   },
@@ -6867,7 +6867,7 @@
    "hozyaistvo": "ILOČKI PODRUMI",
    "shtrihkod": "3859889556538",
    "cena_rsd": 1049.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 37,
    "v_prodazhe": true
   },
@@ -6876,7 +6876,7 @@
    "hozyaistvo": "IMPERIAL",
    "shtrihkod": "4840403008632",
    "cena_rsd": 799.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 9,
    "v_prodazhe": true
   },
@@ -6885,7 +6885,7 @@
    "hozyaistvo": "RUBIN",
    "shtrihkod": "8600074130829",
    "cena_rsd": 659.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 44,
    "v_prodazhe": true
   },
@@ -6894,7 +6894,7 @@
    "hozyaistvo": "JANKO",
    "shtrihkod": "8606104792036",
    "cena_rsd": 1579.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 23,
    "v_prodazhe": true
   },
@@ -6903,7 +6903,7 @@
    "hozyaistvo": "LA DELIZIA",
    "shtrihkod": "8002006960175",
    "cena_rsd": 599.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 14,
    "v_prodazhe": true
   },
@@ -6912,7 +6912,7 @@
    "hozyaistvo": "LA DELIZIA",
    "shtrihkod": "8002006960373",
    "cena_rsd": 1099.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 29,
    "v_prodazhe": true
   },
@@ -6921,7 +6921,7 @@
    "hozyaistvo": "JP CHENET",
    "shtrihkod": "3263286321284",
    "cena_rsd": 882.99,
-   "cena_akcii": 20.0,
+   "cena_akcii": null,
    "magazinov": 19,
    "v_prodazhe": true
   }

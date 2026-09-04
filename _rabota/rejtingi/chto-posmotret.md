@@ -57,30 +57,56 @@ Falstaff ранжирует около сорока сербских хозяй�
 
 ## 3. Цена у сильных вин: пятидесяти девяти не хватает
 
-Из 122 вин с баллом 93 и выше цена известна у 63. Было 60: собственные
-магазины хозяйств добавили почти две сотни цен всего (у 770 вин вместо
-582), но флагманов среди них мало — их как раз и не выставляют.
+Из 122 вин с баллом 93 и выше цена известна у 63. Собственные магазины
+хозяйств добавили почти две сотни цен всего (у 770 вин вместо 582), но
+флагманов среди них мало: их как раз и не выставляют онлайн.
 
-Не хватает: Matalj «Kremen Kamen Cabernet Sauvignon» (97), Aleksandrović
-«Kameničarka Prokupac» (97), Matalj «Zamna Cabernet Sauvignon» (96),
-La Gora «Aria» (96), Ivanović «Prokupac Gaga» (96), Arsenijević «Kaberne»
-(96), Zvonko Bogdan «Icon Campana Rubimus» и оба «Éclater» (95), Vinčić
-«Grand V» и «Grašac Grand Fru» (95), Temet «Tri Morave Reserve» и «Tri
-Morave Belo Reserve» (95), Tarpoš «Prokupac», «Merlot», «Chardonnay Extra
-Brut» (95), Reljić «Rebus Merlot-Cabernet Sauvignon-Probus» (95), Ralević
-«RaRa Tamjanika PETNAT» (95), Maurer «Kadarka 1880» (95), Matijašević
-«Tri Doline» (95), Erdevik «Marlon Delon» (95), Chichateau «Chi
-Chardonnay» (95).
+**Как искать.** В Wolt поиск идёт по имени, и одно имя хозяйства выдаёт
+сразу несколько вин — так закрылся Грумен. Ниже список по хозяйствам,
+сверху те, у кого балл выше и вин больше; в скобках — балл критика.
+Имена даны так, как их пишет этикетка; если поиск молчит, стоит
+попробовать вариант без диакритики.
 
-**Что нужно:** цена и магазин. Поиск в Wolt по имени хозяйства даёт сразу
-несколько вин — так закрылся Грумен. Второй путь — сайт самого хозяйства:
-у Арсенијевића есть раздел «online-prodavnica-vina», у Думо — «/shop/»,
-но машиной оба не читаются, а глазами читаются за минуту.
+- **Aleksandrović** — «Kameničarka Prokupac» (97); «Trijumf Selection Sauvignon Blanc» (93); «Trijumf Chardonnay Brut» (93)
+- **Matalj** — «Kremen Kamen Cabernet Sauvignon» (97); «Zamna Cabernet Sauvignon» (96); «Bagrina Bukovska» (94)
+- **Arsenijević** — «Kaberne» (96)
+- **Ivanović** — «Prokupac Gaga» (96)
+- **La Gora** — «Aria» (96)
+- **Zvonko Bogdan** — «Éclater Blanc de Blancs Brut Nature» (95); «Icon Campana Rubimus» (95); «Eclater Blanc De Blancs Extra Brut» (95); «Merlot Single Vineyard» (94); «Icon Campana Albus» (93)
+- **Temet** — «Tri Morave Reserve» (95); «Tri Morave Belo Reserve» (95); «Tri Morave Crveno Reserve» (94); «Beli Kamen Merlot» (94)
+- **Aleksić** — «Žuti Cvet Penuśavo Tamnjanika Sec» (95); «Biser Smederevka Extra Brut» (95); «Amanet Vranac» (95)
+- **Matijašević Vinogradi** — «Tri Doline» (95); «Čukundeda Prokupac» (93); «Sovinoa Sauvignon Blanc» (93)
+- **Tarpoš** — «Prokupac» (95); «Merlot» (95); «Chardonnay Extra Brut» (95)
+- **Ralević** — «RaRa Tamjanika PETNAT» (95); «Virgo» (94)
+- **Vinčić** — «Grašac Grand Fru» (95); «Grand V» (95)
+- **BT Winery** — «King Supreme Limited Edition Marselan» (95)
+- **Chichateau** — «Chi Chardonnay» (95)
+- **Erdevik** — «Marlon Delon Cabernet Sauvignon - Merlot» (95)
+- **Maurer** — «Kadarka 1880 (натуральное)» (95)
+- **Reljić Vinarija** — «Rebus Merlot-Cabernet Sauvignon-Probus» (95)
+- **Atelje vina Šapat** — «Atila Plavi» (94); «Reserve Cabernet Sauvignon» (93)
+- **Doja** — «Cabernet Sauvigon Breg» (94); «Breg Merlot» (93)
+- **Vinarija Radovan** — «Prokupac Radovan 100%» (94); «Tamjanika Radovan 100%» (93)
+- **DiBonis Winery** — «Di Icewine» (94)
+- **Džervin** — «Lozana» (94)
+- **Molovin** — «Vista Hill Red Reserve» (94)
+- **Podrum Pevac** — «GUŠT BARIK» (94)
+- **Stemina winery** — «Draga» (94)
+- **Vinarija Dumo** — «MMXXI» (94)
+- **Vinarija Gnezdo** — «Sovinjon Kis» (94)
+- **Винарија Тришић (Vinarija Trišić)** — «Dimasid» (94)
+- **Драгић Винарија (Vina Dragic)** — «Crni Biser» (94)
+- **Belo Brdo** — «Marselan Limited Edition» (93); «Limited Edition Cabernet Sauvignon» (93)
+- **Despotika** — «Morava Barik» (93); «Krunski Dokas (The Key Evidence) Grand Reserve» (93)
+- **Bjelica** — «Graffiti» (93)
+- **Fruškogorski** — «Tri sunca» (93)
+- **Podrum Bačina** — «Dolina Cuveé Barrique» (93)
+- **Vinarija Frug** — «Cabernet Sauvignon Signum» (93)
 
-**Помнить про канал.** Цена бывает трёх разных родов, и это измерено:
+**Что записывать.** Цену, лавку, урожай если виден и пометку SOLD OUT
+если стоит. Лавка важна: цена бывает трёх разных родов, и это измерено —
 в приложении доставки она на 18% выше полочной, в супермаркете на 21%
-выше, чем в винотеке, а у самого хозяйства на 10% ниже. Если видно, откуда
-цена, — это стоит записать вместе с ней.
+выше, чем в винотеке, а у самого хозяйства на 10% ниже.
 
 ## 4. Два призрака из поля производителя Decanter
 

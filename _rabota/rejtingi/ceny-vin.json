@@ -12,6 +12,7 @@
   "roda.rs/cenovnici, файл за 2026-09-04; крупные магазины сети",
   "data.gov.rs, наборы «Ценовници производа»",
   "сайты лавок, перечень — в lavki-spisok.json",
+  "ediskont.rs/sr/proizvodi/vino?limit=500",
   "WooCommerce Store API сайтов хозяйств; адреса — из карточек хозяйств Vivino",
   "consumer-api.wolt.com, ассортимент площадок из wolt.com/sitemap/venues/srb-1.xml",
   "Wolt, поиск «grumen», «LEGAT 1903», «baša» и «MV Vinarija», снимки экрана автора 3 сентября 2026"
@@ -29,26 +30,26 @@
   "stari-hrast-sauvignon-blanc": 2,
   "veritas-cukovic-bela-harmonija": 2,
   "veritas-cukovic-bermet-crveni": 1,
-  "aleksandrovic-harizma": 10,
+  "aleksandrovic-harizma": 11,
   "aleksandrovic-oplen": 4,
-  "aleksandrovic-prokupac": 8,
-  "aleksandrovic-regent-reserve": 5,
+  "aleksandrovic-prokupac": 9,
+  "aleksandrovic-regent-reserve": 6,
   "aleksandrovic-rodoslov-grand-reserve": 4,
-  "aleksandrovic-trijumf": 10,
+  "aleksandrovic-trijumf": 11,
   "aleksandrovic-trijumf-gold": 7,
   "aleksandrovic-trijumf-noir": 4,
   "aleksandrovic-trijumf-noir-penusavac": 1,
   "aleksandrovic-trijumf-penusavac-rose": 1,
   "aleksandrovic-trijumf-rose": 4,
   "aleksandrovic-trijumf-terroir": 5,
-  "aleksandrovic-varijanta": 7,
+  "aleksandrovic-varijanta": 8,
   "aleksic-amanet": 6,
-  "aleksic-barbara": 8,
+  "aleksic-barbara": 9,
   "aleksic-biser": 3,
-  "aleksic-kardas": 7,
+  "aleksic-kardas": 8,
   "aleksic-kardas-limited": 6,
   "aleksic-kontra": 2,
-  "aleksic-zuti-cvet": 8,
+  "aleksic-zuti-cvet": 9,
   "andrica-vinograd-consul-prokupac-merlot": 2,
   "arsenijevic-sauvignon-blanc": 2,
   "arsenijevic-prokupac-starosedelac": 3,
@@ -87,7 +88,7 @@
   "budimir-i-kao-da-si-andeo": 5,
   "budimir-lila-prokupac-boje": 5,
   "budimir-svb-rosa": 5,
-  "budimir-tamjanika": 6,
+  "budimir-tamjanika": 7,
   "budimir-vera-tamjanika": 3,
   "bukovo-filigran-cabernet-sauvignon": 2,
   "bukovo-filigran-crna-tamjanika": 3,
@@ -116,7 +117,7 @@
   "deuric-gorska-tamjanika": 2,
   "deuric-la-rem-chardonnay": 3,
   "deuric-la-rem-pinot-noir": 2,
-  "deuric-pinot-noir": 6,
+  "deuric-pinot-noir": 7,
   "deuric-princeps-merlot": 1,
   "deuric-princeza-na-zrnu-grasca": 2,
   "deuric-probus-276": 2,
@@ -125,9 +126,9 @@
   "dibonis-di-shiraz": 2,
   "doja-breg-cabernet-sauvignon": 3,
   "doja-cabernet-sauvignon-merlot": 2,
-  "doja-prokupac": 8,
+  "doja-prokupac": 9,
   "doja-breg-prokupac": 4,
-  "doja-tamjanika": 8,
+  "doja-tamjanika": 9,
   "draganic-miracolo-sangiovese": 3,
   "draganic-profil-palava": 3,
   "draganic-silueta-sauvignon-blanc": 2,
@@ -229,12 +230,12 @@
   "komuna-muscat-petit-grain": 3,
   "kostic-prokupac-barrique": 2,
   "kovacevic-amber-cuvee": 1,
-  "kovacevic-aurelius": 7,
+  "kovacevic-aurelius": 8,
   "kovacevic-edicija-s-aurelius": 4,
   "kovacevic-bermet-beli": 1,
   "kovacevic-bermet": 1,
-  "kovacevic-chardonnay": 6,
-  "kovacevic-fresco-bianco": 3,
+  "kovacevic-chardonnay": 7,
+  "kovacevic-fresco-bianco": 4,
   "kovacevic-fresco-rose": 3,
   "kovacevic-pro-pro": 2,
   "kovacevic-edicija-s-sauvignon": 3,
@@ -246,14 +247,14 @@
   "madzic-merlot": 3,
   "magaza-merlot": 3,
   "malca-carica-jelena": 2,
-  "marko-carine-merlot-cabernet-sauvignon": 1,
+  "marko-carine-merlot-cabernet-sauvignon": 2,
   "marko-doajen-chardonnay": 1,
-  "marko-doajen-prokupac": 1,
-  "marko-doajen-tamjanika": 1,
+  "marko-doajen-prokupac": 2,
+  "marko-doajen-tamjanika": 2,
   "matalj-cuvee-bukovski": 3,
   "matalj-kremen-kamen": 6,
   "matalj-zamna": 2,
-  "matijasevic-belina": 3,
+  "matijasevic-belina": 4,
   "matijasevic-belina-oranz": 1,
   "matijasevic-cukundeda": 4,
   "matijasevic-cukundeda-superiore": 1,
@@ -268,12 +269,12 @@
   "milijan-jelic-mammoth-pinot-noir": 2,
   "milijan-jelic-millennium": 2,
   "milijan-jelic-morange": 1,
-  "milijan-jelic-morava": 5,
+  "milijan-jelic-morava": 6,
   "milosavljevic-vila-vina-jefimija-tamjanika": 1,
   "milosavljevic-vila-vina-prokupac": 1,
-  "molovin-inat-frankovka": 3,
+  "molovin-inat-frankovka": 4,
   "molovin-inat-rajnski-rizling": 1,
-  "molovin-inat-traminac": 2,
+  "molovin-inat-traminac": 3,
   "mv-kaberne-sf": 1,
   "mv-tamjanika": 1,
   "nera-lesa-sila-grasac-malvazija": 2,
@@ -308,11 +309,11 @@
   "radovan-100-tamjanika": 3,
   "radovanovic-cabernet-sauvignon-classique": 4,
   "radovanovic-cabernet-sauvignon-grand-reserva": 3,
-  "radovanovic-reserve-cabernet-sauvignon": 2,
+  "radovanovic-reserve-cabernet-sauvignon": 3,
   "radovanovic-chardonnay-classique": 5,
-  "radovanovic-chardonnay-selekcija": 4,
-  "radovanovic-franc-cabernet-sauvignon": 5,
-  "radovanovic-rose": 5,
+  "radovanovic-chardonnay-selekcija": 5,
+  "radovanovic-franc-cabernet-sauvignon": 6,
+  "radovanovic-rose": 6,
   "vinska-kuca-rajic-chardonnay": 1,
   "vinska-kuca-rajic-tamjanika": 1,
   "braca-rajkovic-prince-rskavac": 2,
@@ -345,7 +346,7 @@
   "sokolov-zamak-pinot-noir": 1,
   "sokolov-zamak-tamjanika": 2,
   "vinarska-kuca-spasic-despot": 4,
-  "vinarska-kuca-spasic-tamjanika": 9,
+  "vinarska-kuca-spasic-tamjanika": 10,
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 3,
   "stari-hrast-selekcija-merlot": 2,
   "stemina-stephanos": 2,
@@ -358,7 +359,7 @@
   "todorovic-opus": 2,
   "todorovic-shiraz": 7,
   "tonkovic-kadarka": 4,
-  "tonkovic-fantazija-kadarka": 2,
+  "tonkovic-fantazija-kadarka": 3,
   "tonkovic-rapsodija": 5,
   "trasko-fucking-fabulous-edicion-limitada": 1,
   "tri-mede-i-oblak-grasac-beli": 1,
@@ -409,17 +410,17 @@
   "zmajevac-prokupac": 3,
   "zmajevac-tamjanika": 4,
   "zvonko-bogdan-8-tamburasa": 6,
-  "zvonko-bogdan-chardonnay": 9,
+  "zvonko-bogdan-chardonnay": 10,
   "zvonko-bogdan-cuvee-no1": 8,
   "zvonko-bogdan-merlot": 3,
-  "zvonko-bogdan-pinot-blanc": 8,
+  "zvonko-bogdan-pinot-blanc": 9,
   "zvonko-bogdan-rose-sec": 6,
   "zvonko-bogdan-tamjanika": 4,
   "zvonko-bogdan-zivot-tece": 10,
-  "doja-chardonnay-pinot-grigio": 4,
+  "doja-chardonnay-pinot-grigio": 5,
   "todorovic-sauvignon-blanc": 3,
-  "radovanovic-sauvignon-blanc": 2,
-  "temet-tri-morave-rose": 5,
+  "radovanovic-sauvignon-blanc": 3,
+  "temet-tri-morave-rose": 6,
   "zvonko-bogdan-4-konja-debela": 5,
   "aleksic-prokupac": 3,
   "cilic-onyx-rose": 3,
@@ -427,9 +428,9 @@
   "cilic-fume-blanc": 3,
   "matalj-terasa-chardonnay": 5,
   "budimir-tamjanika-zupska": 2,
-  "temet-tri-morave-crveno": 4,
-  "zvonko-bogdan-sauvignon-blanc": 6,
-  "lastar-tamjanika": 10,
+  "temet-tri-morave-crveno": 5,
+  "zvonko-bogdan-sauvignon-blanc": 7,
+  "lastar-tamjanika": 11,
   "lastar-pinot-noir": 7,
   "matalj-kremen": 7,
   "probus-magis": 1,
@@ -443,20 +444,20 @@
   "temet-ergo": 4,
   "aleksandrovic-rodoslov": 5,
   "braca-rajkovic-33": 5,
-  "aleksic-sevdah": 7,
+  "aleksic-sevdah": 8,
   "do-kraja-sveta-aura-rose": 1,
   "erdevik-tri-roze-koze": 7,
-  "kovacevic-rosetto": 7,
+  "kovacevic-rosetto": 8,
   "todorovic-rose": 2,
   "radovanovic-rizling-rajnski": 5,
-  "kovacevic-cuvee-piquant": 6,
+  "kovacevic-cuvee-piquant": 7,
   "do-kraja-sveta-merlot": 1,
-  "aleksandrovic-euforija": 5,
+  "aleksandrovic-euforija": 6,
   "aleksandrovic-varijanta-white-selection": 2,
   "vinarska-kuca-spasic-tamjanika-lekcija": 1,
-  "kovacevic-sauvignon": 5,
+  "kovacevic-sauvignon": 6,
   "lastar-chardonnay": 5,
-  "aleksandrovic-vizija": 6,
+  "aleksandrovic-vizija": 7,
   "aleksandrovic-chardonnay": 1,
   "legat-chardonnay": 3,
   "aleksandrovic-vozd": 2,
@@ -477,35 +478,35 @@
   "stemina-minna-rose": 1,
   "stojanovic-krokan": 1,
   "stojanovic-peharnik": 1,
-  "doja-cabernet-merlot": 2,
-  "zvonko-bogdan-rose": 3,
+  "doja-cabernet-merlot": 3,
+  "zvonko-bogdan-rose": 4,
   "madzic-the-merlot": 1,
-  "radovanovic-cabernet-sauvignon": 3,
+  "radovanovic-cabernet-sauvignon": 4,
   "sava-minic-tamjanika": 1,
   "lastar-triangl-chardonnay": 4,
   "arsenijevic-starosedelac": 1,
   "moderato-tamjanika": 1,
-  "tonkovic-tamjanika": 1,
+  "tonkovic-tamjanika": 2,
   "matalj-bukovski": 1,
-  "rubin-cabernet-sauvignon": 5,
-  "rubin-sauvignon-blanc": 4,
+  "rubin-cabernet-sauvignon": 6,
+  "rubin-sauvignon-blanc": 5,
   "arsenijevic-merlot": 3,
   "trivanovic-rose": 1,
-  "doja-chardonnay-barrique": 4,
+  "doja-chardonnay-barrique": 5,
   "deuric-severna-morava": 7,
   "despotika-nebo": 3,
   "nikad-nije-kasno-melodija": 2,
   "arsenijevic-chardonnay": 4,
   "budimir-triada-rose": 2,
   "trivanovic-pinot-grigio": 4,
-  "cilic-cabernet-merlot": 3,
+  "cilic-cabernet-merlot": 4,
   "matalj-dusica": 4,
   "jelic-morava": 4,
   "moderato-cabernet": 3,
   "trivanovic-shiraz": 4,
   "sava-minic-prokupac": 1,
   "jovic-vranac": 1,
-  "temet-tri-morave": 4,
+  "temet-tri-morave": 5,
   "botunjac-sveti-gral-prokupac": 2,
   "arsenijevic-rose": 1,
   "budimir-triada": 2,
@@ -524,7 +525,7 @@
   "draganic-luna-rose": 1,
   "galot-kapetan": 2,
   "galot-balerina": 3,
-  "zvonko-bogdan-pinot-grigio": 5,
+  "zvonko-bogdan-pinot-grigio": 6,
   "temet-tri-morave-white": 3,
   "matalj-terasa-sauvignon-blanc": 3,
   "draganic-bard-merlot": 1,
@@ -537,8 +538,8 @@
   "bjelica-babaroga-chardonnay": 1,
   "aleksic-arno": 4,
   "matalj-dusica-rose": 1,
-  "vinska-kuca-minica-stota-suza": 1,
-  "deuric-urban-rose": 3,
+  "vinska-kuca-minica-stota-suza": 2,
+  "deuric-urban-rose": 4,
   "janko-misija": 3,
   "deuric-chardonnay-barrique": 1,
   "kovacevic-sauvignon-blanc-s-edicija": 1,
@@ -546,18 +547,18 @@
   "budimir-vera": 1,
   "matalj-zemna-reserva": 2,
   "temet-ergo-red": 1,
-  "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 3,
+  "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 4,
   "coka-kastel": 3,
-  "rubin-muskat": 3,
-  "rubin-rubinov-prokupac": 2,
+  "rubin-muskat": 4,
+  "rubin-rubinov-prokupac": 3,
   "rubin-chardonnay": 5,
-  "rubin-merlot": 5,
+  "rubin-merlot": 6,
   "kovacevic-cuvee-rouge": 2,
   "kovacevic-cuvee-blanc": 2,
   "draskovic-muskat-otonel": 5,
   "vinska-kuca-minica-tamjanika-kasna-berba": 2,
   "molovin-poligraf-cuvee-belo": 3,
-  "rubin-car-lazar": 3,
+  "rubin-car-lazar": 4,
   "draskovic-chardonnay": 2,
   "nikolas-merlot": 2,
   "coka-mustuluk": 2,
@@ -575,7 +576,7 @@
   "matalj-chardonnay": 2,
   "grumen-merlot": 4,
   "rubin-amante-carmen": 3,
-  "gamanovic-grasac-beli": 2,
+  "gamanovic-grasac-beli": 3,
   "gamanovic-tamjanika-bela": 2,
   "rubin-grasevina": 2,
   "chateau-prince-magija-rose": 3,
@@ -585,7 +586,7 @@
   "vila-tamjanika": 2,
   "matijasevic-sedam-hrastova-cuvee-belo": 1,
   "fruskogorski-quet-grasac": 1,
-  "deuric-chardonnay": 3,
+  "deuric-chardonnay": 4,
   "fruskogorski-fruskac-beli": 1,
   "pusula-cabernet": 2,
   "trivanovic-lex": 2,
@@ -606,16 +607,16 @@
   "fragaria-votazi": 2,
   "coka-lederer-cabernet-sauvignon": 1,
   "coka-merlot": 1,
-  "rubin-carica-milica": 1,
+  "rubin-carica-milica": 2,
   "ukusi-moga-kraja-prokupac": 2,
-  "doja-rose": 3,
+  "doja-rose": 4,
   "dzervin-rose-romansa": 1,
   "rubin-rose": 1,
   "molovin-rose": 1,
   "pesic-merlot": 2,
-  "lastar-cru-6": 3,
+  "lastar-cru-6": 4,
   "salas-nas-merlot": 2,
-  "pesic-tamjanika": 2,
+  "pesic-tamjanika": 3,
   "zupa-kupinovo-vino": 1,
   "deuric-talas-beli": 1,
   "100-zena-tamjanika": 2,
@@ -626,7 +627,7 @@
   "temet-burgundac-sivi": 2,
   "fenek-fenecki-merlo-fenechki-merlot": 2,
   "tonkovic-kadarka-rose": 1,
-  "dordevic-tamjanika": 4,
+  "dordevic-tamjanika": 5,
   "doja-breg": 1,
   "rubin-amante-matea-merlot": 2,
   "draskovic-burgundac-beli": 3,
@@ -921,7 +922,7 @@
   "bjelica-evil-rose": 1,
   "art-tangenta-chardonnay": 1,
   "aleksic-zuti-cvet-penusavo": 1,
-  "aleksic-nostalgija": 2,
+  "aleksic-nostalgija": 3,
   "aleksandrovic-trijumf-rose-penusavo": 1,
   "aleksandrovic-trijumf-grappa": 1,
   "aleksandrovic-loza": 1,
@@ -931,6 +932,11 @@
   "aleksic-rose": 1,
   "pusula-cabernet-sauvignon": 1,
   "tonkovic-rapsodija-kadarka": 1,
+  "aleksic-bonaca-chardonnay": 1,
+  "dordevic-merlot": 1,
+  "vrt-pesak-sivi": 1,
+  "coka-mustuluk-beli": 1,
+  "dordevic-chardonnay": 2,
   "aleksandrovic-vozd-cabernet-sauvignon": 1,
   "aleksandrovic-trijumf-noir-sparkling": 1,
   "aleksandrovic-trijumf-chardonnay-sparkling": 1,
@@ -978,7 +984,6 @@
   "zarkovic-tamjanika": 1,
   "zarkovic-merlot": 1,
   "dordevic-rose": 1,
-  "dordevic-chardonnay": 1,
   "sukac-merlot": 1,
   "sukac-rose": 1,
   "sukac-grasac-beli": 1,
@@ -1090,7 +1095,6 @@
   "aleksandrovic-finesa-rose": 1,
   "aleksic-amanet-vranac": 1,
   "aleksic-arno-sauvignon-blanc": 1,
-  "aleksic-bonaca-chardonnay": 1,
   "aleksic-limited-bonaca-chardonnay": 1,
   "aleksic-kardas-cabernet-sauvignon": 1,
   "aleksic-mozaik-rose": 1,
@@ -1233,7 +1237,6 @@
   "mcculloch-sauvignon-blanc": 1,
   "mcculloch-traminac": 1,
   "belo-brdo-merlot": 1,
-  "dordevic-merlot": 1,
   "mikic-chardonnay": 1,
   "miletic-impresija-merlot": 1,
   "miletic-impresija-rose": 1,
@@ -1414,20 +1417,20 @@
   "mediana_0_75": 1100,
   "mediana_vinoteki": 1782,
   "mediana_u_hozyaistva": 1400,
-  "tolko_v_supermarkete": 193,
-  "vin_v_oboih": 233,
-  "nacenka_supermarketa": 1.158,
-  "deshevle_v_supermarkete": 50
+  "tolko_v_supermarkete": 186,
+  "vin_v_oboih": 240,
+  "nacenka_supermarketa": 1.163,
+  "deshevle_v_supermarkete": 49
  },
  "u_hozyaistva": {
-  "vin_i_tam_i_tam": 120,
-  "cena_hozyaistva_k_lavke": 0.911,
-  "deshevle_u_hozyaistva": 80
+  "vin_i_tam_i_tam": 121,
+  "cena_hozyaistva_k_lavke": 0.923,
+  "deshevle_u_hozyaistva": 79
  },
  "dostavka": {
-  "vin_tolko_iz_dostavki": 338,
-  "vin_i_tam_i_tam": 764,
-  "nacenka_dostavki": 1.102,
+  "vin_tolko_iz_dostavki": 335,
+  "vin_i_tam_i_tam": 767,
+  "nacenka_dostavki": 1.106,
   "lavok": 68
  },
  "hozyaistv_s_magazinom": 60,
@@ -1443,26 +1446,26 @@
   "stari-hrast-sauvignon-blanc": 1540,
   "veritas-cukovic-bela-harmonija": 1156,
   "veritas-cukovic-bermet-crveni": 3070,
-  "aleksandrovic-harizma": 1775,
+  "aleksandrovic-harizma": 1770,
   "aleksandrovic-oplen": 1528,
-  "aleksandrovic-prokupac": 1775,
-  "aleksandrovic-regent-reserve": 2335,
+  "aleksandrovic-prokupac": 1770,
+  "aleksandrovic-regent-reserve": 2306,
   "aleksandrovic-rodoslov-grand-reserve": 4642,
-  "aleksandrovic-trijumf": 1960,
+  "aleksandrovic-trijumf": 1920,
   "aleksandrovic-trijumf-gold": 2139,
   "aleksandrovic-trijumf-noir": 2473,
   "aleksandrovic-trijumf-noir-penusavac": 2055,
   "aleksandrovic-trijumf-penusavac-rose": 2055,
   "aleksandrovic-trijumf-rose": 1445,
   "aleksandrovic-trijumf-terroir": 2350,
-  "aleksandrovic-varijanta": 1380,
+  "aleksandrovic-varijanta": 1349,
   "aleksic-amanet": 1598,
-  "aleksic-barbara": 860,
+  "aleksic-barbara": 845,
   "aleksic-biser": 1980,
   "aleksic-kardas": 1000,
   "aleksic-kardas-limited": 1610,
   "aleksic-kontra": 2685,
-  "aleksic-zuti-cvet": 1166,
+  "aleksic-zuti-cvet": 1145,
   "andrica-vinograd-consul-prokupac-merlot": 1443,
   "arsenijevic-sauvignon-blanc": 1470,
   "arsenijevic-prokupac-starosedelac": 1550,
@@ -1501,7 +1504,7 @@
   "budimir-i-kao-da-si-andeo": 1540,
   "budimir-lila-prokupac-boje": 2175,
   "budimir-svb-rosa": 4400,
-  "budimir-tamjanika": 1701,
+  "budimir-tamjanika": 1700,
   "budimir-vera-tamjanika": 2310,
   "bukovo-filigran-cabernet-sauvignon": 1795,
   "bukovo-filigran-crna-tamjanika": 1440,
@@ -1530,7 +1533,7 @@
   "deuric-gorska-tamjanika": 1410,
   "deuric-la-rem-chardonnay": 3960,
   "deuric-la-rem-pinot-noir": 3845,
-  "deuric-pinot-noir": 1365,
+  "deuric-pinot-noir": 1300,
   "deuric-princeps-merlot": 4975,
   "deuric-princeza-na-zrnu-grasca": 1155,
   "deuric-probus-276": 1665,
@@ -1539,9 +1542,9 @@
   "dibonis-di-shiraz": 2203,
   "doja-breg-cabernet-sauvignon": 4686,
   "doja-cabernet-sauvignon-merlot": 1654,
-  "doja-prokupac": 1411,
+  "doja-prokupac": 1402,
   "doja-breg-prokupac": 4578,
-  "doja-tamjanika": 1212,
+  "doja-tamjanika": 1200,
   "draganic-miracolo-sangiovese": 2046,
   "draganic-profil-palava": 1980,
   "draganic-silueta-sauvignon-blanc": 1667,
@@ -1643,12 +1646,12 @@
   "komuna-muscat-petit-grain": 1299,
   "kostic-prokupac-barrique": 2375,
   "kovacevic-amber-cuvee": 2610,
-  "kovacevic-aurelius": 1680,
+  "kovacevic-aurelius": 1675,
   "kovacevic-edicija-s-aurelius": 2840,
   "kovacevic-bermet-beli": 1525,
   "kovacevic-bermet": 1310,
   "kovacevic-chardonnay": 1624,
-  "kovacevic-fresco-bianco": 1195,
+  "kovacevic-fresco-bianco": 1142,
   "kovacevic-fresco-rose": 1100,
   "kovacevic-pro-pro": 1940,
   "kovacevic-edicija-s-sauvignon": 2190,
@@ -1660,14 +1663,14 @@
   "madzic-merlot": 1518,
   "magaza-merlot": 1540,
   "malca-carica-jelena": 3285,
-  "marko-carine-merlot-cabernet-sauvignon": 2740,
+  "marko-carine-merlot-cabernet-sauvignon": 2570,
   "marko-doajen-chardonnay": 2730,
-  "marko-doajen-prokupac": 4065,
-  "marko-doajen-tamjanika": 4090,
+  "marko-doajen-prokupac": 3832,
+  "marko-doajen-tamjanika": 3845,
   "matalj-cuvee-bukovski": 2045,
   "matalj-kremen-kamen": 8756,
   "matalj-zamna": 3516,
-  "matijasevic-belina": 1919,
+  "matijasevic-belina": 1700,
   "matijasevic-belina-oranz": 2045,
   "matijasevic-cukundeda": 2000,
   "matijasevic-cukundeda-superiore": 22720,
@@ -1682,12 +1685,12 @@
   "milijan-jelic-mammoth-pinot-noir": 1995,
   "milijan-jelic-millennium": 1995,
   "milijan-jelic-morange": 2015,
-  "milijan-jelic-morava": 1584,
+  "milijan-jelic-morava": 1532,
   "milosavljevic-vila-vina-jefimija-tamjanika": 1750,
   "milosavljevic-vila-vina-prokupac": 1400,
-  "molovin-inat-frankovka": 1500,
+  "molovin-inat-frankovka": 1499,
   "molovin-inat-rajnski-rizling": 2850,
-  "molovin-inat-traminac": 1462,
+  "molovin-inat-traminac": 1350,
   "mv-kaberne-sf": 2020,
   "mv-tamjanika": 1730,
   "nera-lesa-sila-grasac-malvazija": 1445,
@@ -1722,10 +1725,10 @@
   "radovan-100-tamjanika": 2310,
   "radovanovic-cabernet-sauvignon-classique": 1460,
   "radovanovic-cabernet-sauvignon-grand-reserva": 9900,
-  "radovanovic-reserve-cabernet-sauvignon": 3198,
+  "radovanovic-reserve-cabernet-sauvignon": 3276,
   "radovanovic-chardonnay-classique": 1595,
-  "radovanovic-chardonnay-selekcija": 2185,
-  "radovanovic-franc-cabernet-sauvignon": 1980,
+  "radovanovic-chardonnay-selekcija": 2100,
+  "radovanovic-franc-cabernet-sauvignon": 1940,
   "radovanovic-rose": 1122,
   "vinska-kuca-rajic-chardonnay": 2900,
   "vinska-kuca-rajic-tamjanika": 2370,
@@ -1759,7 +1762,7 @@
   "sokolov-zamak-pinot-noir": 1595,
   "sokolov-zamak-tamjanika": 1367,
   "vinarska-kuca-spasic-despot": 1060,
-  "vinarska-kuca-spasic-tamjanika": 1160,
+  "vinarska-kuca-spasic-tamjanika": 1108,
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": 1320,
   "stari-hrast-selekcija-merlot": 3945,
   "stemina-stephanos": 1880,
@@ -1772,7 +1775,7 @@
   "todorovic-opus": 2195,
   "todorovic-shiraz": 1575,
   "tonkovic-kadarka": 1570,
-  "tonkovic-fantazija-kadarka": 1415,
+  "tonkovic-fantazija-kadarka": 1330,
   "tonkovic-rapsodija": 2389,
   "trasko-fucking-fabulous-edicion-limitada": 4075,
   "tri-mede-i-oblak-grasac-beli": 2380,
@@ -1823,17 +1826,17 @@
   "zmajevac-prokupac": 1750,
   "zmajevac-tamjanika": 1790,
   "zvonko-bogdan-8-tamburasa": 1447,
-  "zvonko-bogdan-chardonnay": 2000,
+  "zvonko-bogdan-chardonnay": 1990,
   "zvonko-bogdan-cuvee-no1": 2730,
   "zvonko-bogdan-merlot": 3960,
-  "zvonko-bogdan-pinot-blanc": 2025,
+  "zvonko-bogdan-pinot-blanc": 2000,
   "zvonko-bogdan-rose-sec": 1632,
   "zvonko-bogdan-tamjanika": 1512,
   "zvonko-bogdan-zivot-tece": 1550,
-  "doja-chardonnay-pinot-grigio": 1112,
+  "doja-chardonnay-pinot-grigio": 1100,
   "todorovic-sauvignon-blanc": 1020,
-  "radovanovic-sauvignon-blanc": 1275,
-  "temet-tri-morave-rose": 1376,
+  "radovanovic-sauvignon-blanc": 1250,
+  "temet-tri-morave-rose": 1388,
   "zvonko-bogdan-4-konja-debela": 1290,
   "aleksic-prokupac": 1250,
   "cilic-onyx-rose": 1188,
@@ -1841,9 +1844,9 @@
   "cilic-fume-blanc": 1450,
   "matalj-terasa-chardonnay": 1478,
   "budimir-tamjanika-zupska": 1612,
-  "temet-tri-morave-crveno": 1746,
-  "zvonko-bogdan-sauvignon-blanc": 1592,
-  "lastar-tamjanika": 1740,
+  "temet-tri-morave-crveno": 1660,
+  "zvonko-bogdan-sauvignon-blanc": 1584,
+  "lastar-tamjanika": 1650,
   "lastar-pinot-noir": 1716,
   "matalj-kremen": 1830,
   "probus-magis": 1950,
@@ -1857,20 +1860,20 @@
   "temet-ergo": 4075,
   "aleksandrovic-rodoslov": 4730,
   "braca-rajkovic-33": 5025,
-  "aleksic-sevdah": 650,
+  "aleksic-sevdah": 625,
   "do-kraja-sveta-aura-rose": 830,
   "erdevik-tri-roze-koze": 870,
-  "kovacevic-rosetto": 1099,
+  "kovacevic-rosetto": 1060,
   "todorovic-rose": 1015,
   "radovanovic-rizling-rajnski": 1300,
-  "kovacevic-cuvee-piquant": 1105,
+  "kovacevic-cuvee-piquant": 1100,
   "do-kraja-sveta-merlot": 1265,
-  "aleksandrovic-euforija": 1390,
+  "aleksandrovic-euforija": 1340,
   "aleksandrovic-varijanta-white-selection": 1410,
   "vinarska-kuca-spasic-tamjanika-lekcija": 1460,
-  "kovacevic-sauvignon": 1460,
+  "kovacevic-sauvignon": 1358,
   "lastar-chardonnay": 1720,
-  "aleksandrovic-vizija": 1892,
+  "aleksandrovic-vizija": 1780,
   "aleksandrovic-chardonnay": 2070,
   "legat-chardonnay": 2695,
   "aleksandrovic-vozd": 8225,
@@ -1891,35 +1894,35 @@
   "stemina-minna-rose": 1190,
   "stojanovic-krokan": 1460,
   "stojanovic-peharnik": 1730,
-  "doja-cabernet-merlot": 1540,
-  "zvonko-bogdan-rose": 1330,
+  "doja-cabernet-merlot": 1500,
+  "zvonko-bogdan-rose": 1440,
   "madzic-the-merlot": 2000,
-  "radovanovic-cabernet-sauvignon": 1476,
+  "radovanovic-cabernet-sauvignon": 1478,
   "sava-minic-tamjanika": 990,
   "lastar-triangl-chardonnay": 2172,
   "arsenijevic-starosedelac": 1488,
   "moderato-tamjanika": 625,
-  "tonkovic-tamjanika": 1320,
+  "tonkovic-tamjanika": 1310,
   "matalj-bukovski": 2035,
-  "rubin-cabernet-sauvignon": 660,
+  "rubin-cabernet-sauvignon": 635,
   "rubin-sauvignon-blanc": 660,
   "arsenijevic-merlot": 1575,
   "trivanovic-rose": 1335,
-  "doja-chardonnay-barrique": 1590,
+  "doja-chardonnay-barrique": 1580,
   "deuric-severna-morava": 1425,
   "despotika-nebo": 1230,
   "nikad-nije-kasno-melodija": 1004,
   "arsenijevic-chardonnay": 1445,
   "budimir-triada-rose": 1184,
   "trivanovic-pinot-grigio": 1460,
-  "cilic-cabernet-merlot": 1350,
+  "cilic-cabernet-merlot": 1325,
   "matalj-dusica": 1072,
   "jelic-morava": 1670,
   "moderato-cabernet": 576,
   "trivanovic-shiraz": 1350,
   "sava-minic-prokupac": 990,
   "jovic-vranac": 1515,
-  "temet-tri-morave": 2189,
+  "temet-tri-morave": 1999,
   "botunjac-sveti-gral-prokupac": 1450,
   "arsenijevic-rose": 1135,
   "budimir-triada": 1110,
@@ -1938,7 +1941,7 @@
   "draganic-luna-rose": 1254,
   "galot-kapetan": 1071,
   "galot-balerina": 1280,
-  "zvonko-bogdan-pinot-grigio": 1799,
+  "zvonko-bogdan-pinot-grigio": 1692,
   "temet-tri-morave-white": 1745,
   "matalj-terasa-sauvignon-blanc": 1294,
   "draganic-bard-merlot": 1980,
@@ -1951,7 +1954,7 @@
   "bjelica-babaroga-chardonnay": 5016,
   "aleksic-arno": 975,
   "matalj-dusica-rose": 960,
-  "vinska-kuca-minica-stota-suza": 1020,
+  "vinska-kuca-minica-stota-suza": 1110,
   "deuric-urban-rose": 1080,
   "janko-misija": 1300,
   "deuric-chardonnay-barrique": 1500,
@@ -1960,9 +1963,9 @@
   "budimir-vera": 2100,
   "matalj-zemna-reserva": 2900,
   "temet-ergo-red": 3150,
-  "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 480,
+  "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": 465,
   "coka-kastel": 544,
-  "rubin-muskat": 660,
+  "rubin-muskat": 621,
   "rubin-rubinov-prokupac": 660,
   "rubin-chardonnay": 660,
   "rubin-merlot": 660,
@@ -1971,7 +1974,7 @@
   "draskovic-muskat-otonel": 1100,
   "vinska-kuca-minica-tamjanika-kasna-berba": 1374,
   "molovin-poligraf-cuvee-belo": 701,
-  "rubin-car-lazar": 442,
+  "rubin-car-lazar": 435,
   "draskovic-chardonnay": 1014,
   "nikolas-merlot": 307,
   "coka-mustuluk": 1776,
@@ -1989,7 +1992,7 @@
   "matalj-chardonnay": 2340,
   "grumen-merlot": 1279,
   "rubin-amante-carmen": 1867,
-  "gamanovic-grasac-beli": 1224,
+  "gamanovic-grasac-beli": 1100,
   "gamanovic-tamjanika-bela": 1244,
   "rubin-grasevina": 450,
   "chateau-prince-magija-rose": 1290,
@@ -1999,7 +2002,7 @@
   "vila-tamjanika": 1240,
   "matijasevic-sedam-hrastova-cuvee-belo": 1479,
   "fruskogorski-quet-grasac": 1499,
-  "deuric-chardonnay": 1650,
+  "deuric-chardonnay": 1575,
   "fruskogorski-fruskac-beli": 599,
   "pusula-cabernet": 1864,
   "trivanovic-lex": 1607,
@@ -2020,16 +2023,16 @@
   "fragaria-votazi": 2175,
   "coka-lederer-cabernet-sauvignon": 780,
   "coka-merlot": 780,
-  "rubin-carica-milica": 475,
+  "rubin-carica-milica": 442,
   "ukusi-moga-kraja-prokupac": 1100,
-  "doja-rose": 970,
+  "doja-rose": 952,
   "dzervin-rose-romansa": 618,
   "rubin-rose": 465,
   "molovin-rose": 560,
   "pesic-merlot": 631,
-  "lastar-cru-6": 1100,
+  "lastar-cru-6": 1060,
   "salas-nas-merlot": 665,
-  "pesic-tamjanika": 765,
+  "pesic-tamjanika": 730,
   "zupa-kupinovo-vino": 630,
   "deuric-talas-beli": 900,
   "100-zena-tamjanika": 2049,
@@ -2040,7 +2043,7 @@
   "temet-burgundac-sivi": 2235,
   "fenek-fenecki-merlo-fenechki-merlot": 1250,
   "tonkovic-kadarka-rose": 1500,
-  "dordevic-tamjanika": 1145,
+  "dordevic-tamjanika": 1090,
   "doja-breg": 5300,
   "rubin-amante-matea-merlot": 1810,
   "draskovic-burgundac-beli": 846,
@@ -2335,7 +2338,7 @@
   "bjelica-evil-rose": 1200,
   "art-tangenta-chardonnay": 1320,
   "aleksic-zuti-cvet-penusavo": 1980,
-  "aleksic-nostalgija": 568,
+  "aleksic-nostalgija": 597,
   "aleksandrovic-trijumf-rose-penusavo": 1920,
   "aleksandrovic-trijumf-grappa": 1780,
   "aleksandrovic-loza": 1390,
@@ -2345,6 +2348,11 @@
   "aleksic-rose": 530,
   "pusula-cabernet-sauvignon": 792,
   "tonkovic-rapsodija-kadarka": 1560,
+  "aleksic-bonaca-chardonnay": 880,
+  "dordevic-merlot": 1100,
+  "vrt-pesak-sivi": 1200,
+  "coka-mustuluk-beli": 1500,
+  "dordevic-chardonnay": 1100,
   "aleksandrovic-vozd-cabernet-sauvignon": 8650,
   "aleksandrovic-trijumf-noir-sparkling": 2145,
   "aleksandrovic-trijumf-chardonnay-sparkling": 2145,
@@ -2392,7 +2400,6 @@
   "zarkovic-tamjanika": 800,
   "zarkovic-merlot": 1200,
   "dordevic-rose": 1000,
-  "dordevic-chardonnay": 1200,
   "sukac-merlot": 900,
   "sukac-rose": 800,
   "sukac-grasac-beli": 800,
@@ -2504,7 +2511,6 @@
   "aleksandrovic-finesa-rose": 1474,
   "aleksic-amanet-vranac": 1738,
   "aleksic-arno-sauvignon-blanc": 1390,
-  "aleksic-bonaca-chardonnay": 1081,
   "aleksic-limited-bonaca-chardonnay": 1390,
   "aleksic-kardas-cabernet-sauvignon": 1020,
   "aleksic-mozaik-rose": 590,
@@ -2647,7 +2653,6 @@
   "mcculloch-sauvignon-blanc": 1755,
   "mcculloch-traminac": 1605,
   "belo-brdo-merlot": 1450,
-  "dordevic-merlot": 1250,
   "mikic-chardonnay": 1001,
   "miletic-impresija-merlot": 1320,
   "miletic-impresija-rose": 1130,
@@ -3529,7 +3534,8 @@
    "maxi-cenovnik": 2049,
    "idea-cenovnik": 2050,
    "portal-cenovnik": 1900,
-   "lavki": 1650
+   "lavki": 1650,
+   "ediskont": 1505
   },
   "aleksandrovic-oplen": {
    "vinoteka": 1630,
@@ -3545,6 +3551,7 @@
    "maxi-cenovnik": 2299,
    "portal-cenovnik": 1600,
    "lavki": 1780,
+   "ediskont": 1505,
    "vinarije": 1815
   },
   "aleksandrovic-regent-reserve": {
@@ -3552,6 +3559,7 @@
    "prodajavina": 1980,
    "idea": 2570,
    "lavki": 2277,
+   "ediskont": 2000,
    "vinarije": 2550
   },
   "aleksandrovic-rodoslov-grand-reserve": {
@@ -3570,7 +3578,8 @@
    "maxi-cenovnik": 2229,
    "idea-cenovnik": 2230,
    "portal-cenovnik": 2000,
-   "lavki": 2115
+   "lavki": 2115,
+   "ediskont": 1685
   },
   "aleksandrovic-trijumf-gold": {
    "vinoteka": 2195,
@@ -3607,6 +3616,7 @@
    "prodajavina": 1170,
    "idea-cenovnik": 1700,
    "lavki": 1318,
+   "ediskont": 1174,
    "vinarije": 1430
   },
   "aleksic-amanet": {
@@ -3625,6 +3635,7 @@
    "maxi-cenovnik": 930,
    "idea-cenovnik": 930,
    "lavki": 824,
+   "ediskont": 725,
    "vinarije": 770
   },
   "aleksic-biser": {
@@ -3639,6 +3650,7 @@
    "idea-cenovnik": 1150,
    "portal-cenovnik": 1129,
    "lavki": 970,
+   "ediskont": 1000,
    "vinarije": 930
   },
   "aleksic-kardas-limited": {
@@ -3661,6 +3673,7 @@
    "maxi-cenovnik": 1350,
    "idea-cenovnik": 1350,
    "lavki": 1096,
+   "ediskont": 1100,
    "vinarije": 1080
   },
   "andrica-vinograd-consul-prokupac-merlot": {
@@ -3807,7 +3820,8 @@
    "prodajavina": 1540,
    "idea-cenovnik": 1849,
    "portal-cenovnik": 1700,
-   "lavki": 1600
+   "lavki": 1600,
+   "ediskont": 1300
   },
   "budimir-vera-tamjanika": {
    "vinoteka": 2410,
@@ -3962,6 +3976,7 @@
    "prodajavina": 1260,
    "idea-cenovnik": 1760,
    "portal-cenovnik": 1599,
+   "ediskont": 1250,
    "vinarije": 1260
   },
   "deuric-princeza-na-zrnu-grasca": {
@@ -4004,7 +4019,8 @@
    "maxi": 1579,
    "maxi-cenovnik": 1579,
    "portal-cenovnik": 1399,
-   "lavki": 1402
+   "lavki": 1402,
+   "ediskont": 1150
   },
   "doja-breg-prokupac": {
    "vinoteka": 4930,
@@ -4020,7 +4036,8 @@
    "maxi-cenovnik": 1299,
    "idea-cenovnik": 1299,
    "portal-cenovnik": 1200,
-   "lavki": 1103
+   "lavki": 1103,
+   "ediskont": 950
   },
   "draganic-miracolo-sangiovese": {
    "vinoteka": 2250,
@@ -4369,7 +4386,8 @@
    "maxi": 1749,
    "maxi-cenovnik": 1749,
    "idea-cenovnik": 1800,
-   "lavki": 1518
+   "lavki": 1518,
+   "ediskont": 1400
   },
   "kovacevic-edicija-s-aurelius": {
    "vinoteka": 2900,
@@ -4383,12 +4401,14 @@
    "idea": 1399,
    "idea-cenovnik": 1650,
    "portal-cenovnik": 2199,
-   "lavki": 1380
+   "lavki": 1380,
+   "ediskont": 1300
   },
   "kovacevic-fresco-bianco": {
    "vinoteka": 1195,
    "portal-cenovnik": 1199,
-   "lavki": 1090
+   "lavki": 1090,
+   "ediskont": 1000
   },
   "kovacevic-fresco-rose": {
    "vinoteka": 1195,
@@ -4440,6 +4460,18 @@
    "vinoteka": 3570,
    "vinarije": 3000
   },
+  "marko-carine-merlot-cabernet-sauvignon": {
+   "vinoteka": 2740,
+   "ediskont": 2400
+  },
+  "marko-doajen-prokupac": {
+   "vinoteka": 4065,
+   "ediskont": 3600
+  },
+  "marko-doajen-tamjanika": {
+   "vinoteka": 4090,
+   "ediskont": 3600
+  },
   "matalj-cuvee-bukovski": {
    "vinoteka": 2045,
    "wineart": 1980,
@@ -4460,7 +4492,8 @@
   "matijasevic-belina": {
    "vinoteka": 1480,
    "maxi-cenovnik": 1919,
-   "lavki": 2100
+   "lavki": 2100,
+   "ediskont": 1350
   },
   "matijasevic-cukundeda": {
    "vinoteka": 2045,
@@ -4515,16 +4548,19 @@
    "winestars": 1810,
    "wineart": 1584,
    "prodajavina": 1440,
-   "lavki": 1440
+   "lavki": 1440,
+   "ediskont": 1480
   },
   "molovin-inat-frankovka": {
    "vinoteka": 1785,
    "idea-cenovnik": 1500,
-   "portal-cenovnik": 1499
+   "portal-cenovnik": 1499,
+   "ediskont": 1200
   },
   "molovin-inat-traminac": {
    "vinoteka": 1575,
-   "idea-cenovnik": 1350
+   "idea-cenovnik": 1350,
+   "ediskont": 1200
   },
   "nera-lesa-sila-grasac-malvazija": {
    "vinoteka": 1490,
@@ -4606,7 +4642,8 @@
   },
   "radovanovic-reserve-cabernet-sauvignon": {
    "prodajavina": 3120,
-   "lavki": 3276
+   "lavki": 3276,
+   "ediskont": 3300
   },
   "radovanovic-chardonnay-classique": {
    "vinoteka": 1595,
@@ -4619,21 +4656,24 @@
    "vinoteka": 2390,
    "winestars": 2400,
    "prodajavina": 1980,
-   "lavki": 1980
+   "lavki": 1980,
+   "ediskont": 2100
   },
   "radovanovic-franc-cabernet-sauvignon": {
    "vinoteka": 2160,
    "wineart": 1980,
    "prodajavina": 1800,
    "idea": 2520,
-   "lavki": 1800
+   "lavki": 1800,
+   "ediskont": 1900
   },
   "radovanovic-rose": {
    "vinoteka": 1235,
    "cerpromet": 1140,
    "wineart": 1122,
    "prodajavina": 1020,
-   "lavki": 1122
+   "lavki": 1122,
+   "ediskont": 1100
   },
   "braca-rajkovic-prince-rskavac": {
    "vinoteka": 1490,
@@ -4721,6 +4761,7 @@
    "maxi": 1449,
    "maxi-cenovnik": 1449,
    "lavki": 1200,
+   "ediskont": 1000,
    "vinarije": 950
   },
   "vinarska-kuca-spasic-tamnjanika-lekcija-tamanika-lesson": {
@@ -4779,7 +4820,8 @@
   },
   "tonkovic-fantazija-kadarka": {
    "vinoteka": 1640,
-   "lavki": 1190
+   "lavki": 1190,
+   "ediskont": 1330
   },
   "tonkovic-rapsodija": {
    "vinoteka": 2050,
@@ -4968,7 +5010,8 @@
    "maxi-cenovnik": 2469,
    "idea": 2470,
    "portal-cenovnik": 2199,
-   "lavki": 1845
+   "lavki": 1845,
+   "ediskont": 1600
   },
   "zvonko-bogdan-cuvee-no1": {
    "vinoteka": 2800,
@@ -4993,7 +5036,8 @@
    "prodajavina": 1800,
    "maxi-cenovnik": 2469,
    "idea-cenovnik": 2470,
-   "lavki": 1845
+   "lavki": 1845,
+   "ediskont": 1700
   },
   "zvonko-bogdan-rose-sec": {
    "vinoteka": 1680,
@@ -5025,7 +5069,8 @@
    "winestars": 1100,
    "cerpromet": 1050,
    "wineart": 1155,
-   "lavki": 1125
+   "lavki": 1125,
+   "ediskont": 1050
   },
   "todorovic-sauvignon-blanc": {
    "winestars": 1100,
@@ -5034,14 +5079,16 @@
   },
   "radovanovic-sauvignon-blanc": {
    "winestars": 1250,
-   "portal-cenovnik": 1300
+   "portal-cenovnik": 1300,
+   "ediskont": 1050
   },
   "temet-tri-morave-rose": {
    "winestars": 1270,
    "cerpromet": 1450,
    "wineart": 1446,
    "prodajavina": 1300,
-   "lavki": 1376
+   "lavki": 1376,
+   "ediskont": 1400
   },
   "zvonko-bogdan-4-konja-debela": {
    "winestars": 1290,
@@ -5080,7 +5127,8 @@
    "winestars": 1620,
    "cerpromet": 1835,
    "wineart": 1832,
-   "prodajavina": 1660
+   "prodajavina": 1660,
+   "ediskont": 1650
   },
   "zvonko-bogdan-sauvignon-blanc": {
    "winestars": 1650,
@@ -5088,7 +5136,8 @@
    "wineart": 1584,
    "prodajavina": 1440,
    "portal-cenovnik": 1794,
-   "lavki": 1476
+   "lavki": 1476,
+   "ediskont": 1500
   },
   "lastar-tamjanika": {
    "winestars": 1650,
@@ -5100,6 +5149,7 @@
    "idea-cenovnik": 1950,
    "portal-cenovnik": 1899,
    "lavki": 1580,
+   "ediskont": 1500,
    "vinarije": 1500
   },
   "lastar-pinot-noir": {
@@ -5175,6 +5225,7 @@
    "idea-cenovnik": 650,
    "portal-cenovnik": 650,
    "lavki": 600,
+   "ediskont": 600,
    "vinarije": 540
   },
   "erdevik-tri-roze-koze": {
@@ -5193,7 +5244,8 @@
    "maxi-cenovnik": 1229,
    "idea": 1250,
    "portal-cenovnik": 1099,
-   "lavki": 924
+   "lavki": 924,
+   "ediskont": 900
   },
   "todorovic-rose": {
    "winestars": 1030,
@@ -5212,13 +5264,15 @@
    "idea": 1250,
    "idea-cenovnik": 1250,
    "portal-cenovnik": 1110,
-   "lavki": 990
+   "lavki": 990,
+   "ediskont": 1000
   },
   "aleksandrovic-euforija": {
    "winestars": 1390,
    "idea-cenovnik": 1680,
    "portal-cenovnik": 1153,
    "lavki": 1290,
+   "ediskont": 1174,
    "vinarije": 1430
   },
   "aleksandrovic-varijanta-white-selection": {
@@ -5230,7 +5284,8 @@
    "prodajavina": 1200,
    "idea": 1600,
    "idea-cenovnik": 1600,
-   "lavki": 1255
+   "lavki": 1255,
+   "ediskont": 1200
   },
   "lastar-chardonnay": {
    "winestars": 1720,
@@ -5245,7 +5300,8 @@
    "maxi-cenovnik": 2049,
    "idea-cenovnik": 2050,
    "portal-cenovnik": 2005,
-   "lavki": 1575
+   "lavki": 1575,
+   "ediskont": 1505
   },
   "legat-chardonnay": {
    "winestars": 2980,
@@ -5305,17 +5361,20 @@
   },
   "doja-cabernet-merlot": {
    "cerpromet": 1500,
-   "lavki": 1580
+   "lavki": 1580,
+   "ediskont": 1350
   },
   "zvonko-bogdan-rose": {
    "cerpromet": 1330,
    "idea": 1550,
-   "lavki": 1200
+   "lavki": 1200,
+   "ediskont": 1752
   },
   "radovanovic-cabernet-sauvignon": {
    "cerpromet": 1480,
    "wineart": 1452,
-   "lavki": 1476
+   "lavki": 1476,
+   "ediskont": 1500
   },
   "lastar-triangl-chardonnay": {
    "cerpromet": 2185,
@@ -5323,18 +5382,24 @@
    "lavki": 2030,
    "vinarije": 2160
   },
+  "tonkovic-tamjanika": {
+   "cerpromet": 1320,
+   "ediskont": 1300
+  },
   "rubin-cabernet-sauvignon": {
    "maxi": 660,
    "maxi-cenovnik": 660,
    "idea": 660,
    "portal-cenovnik": 610,
-   "lavki": 550
+   "lavki": 550,
+   "ediskont": 540
   },
   "rubin-sauvignon-blanc": {
    "maxi": 660,
    "maxi-cenovnik": 660,
    "idea": 660,
-   "lavki": 550
+   "lavki": 550,
+   "ediskont": 540
   },
   "arsenijevic-merlot": {
    "cerpromet": 1575,
@@ -5345,7 +5410,8 @@
    "cerpromet": 1500,
    "idea-cenovnik": 1650,
    "portal-cenovnik": 1600,
-   "lavki": 1580
+   "lavki": 1580,
+   "ediskont": 1330
   },
   "deuric-severna-morava": {
    "cerpromet": 1360,
@@ -5384,7 +5450,8 @@
   "cilic-cabernet-merlot": {
    "cerpromet": 1350,
    "idea-cenovnik": 1975,
-   "lavki": 1300
+   "lavki": 1300,
+   "ediskont": 1250
   },
   "matalj-dusica": {
    "cerpromet": 1085,
@@ -5413,7 +5480,8 @@
    "cerpromet": 1755,
    "maxi": 2399,
    "idea-cenovnik": 2380,
-   "portal-cenovnik": 1999
+   "portal-cenovnik": 1999,
+   "ediskont": 1600
   },
   "botunjac-sveti-gral-prokupac": {
    "cerpromet": 1530,
@@ -5477,7 +5545,8 @@
    "maxi": 1999,
    "maxi-cenovnik": 1999,
    "portal-cenovnik": 1799,
-   "lavki": 1476
+   "lavki": 1476,
+   "ediskont": 1360
   },
   "temet-tri-morave-white": {
    "wineart": 1755,
@@ -5532,9 +5601,14 @@
    "lavki": 1020,
    "vinarije": 930
   },
+  "vinska-kuca-minica-stota-suza": {
+   "prodajavina": 1020,
+   "ediskont": 1200
+  },
   "deuric-urban-rose": {
    "prodajavina": 1080,
    "portal-cenovnik": 1399,
+   "ediskont": 970,
    "vinarije": 1080
   },
   "janko-misija": {
@@ -5553,7 +5627,8 @@
   "rubin-medveda-krv-bears-blood-stono-poluslatko-crveno": {
    "maxi": 480,
    "maxi-cenovnik": 480,
-   "portal-cenovnik": 450
+   "portal-cenovnik": 450,
+   "ediskont": 420
   },
   "coka-kastel": {
    "maxi": 544,
@@ -5563,11 +5638,13 @@
   "rubin-muskat": {
    "maxi": 660,
    "maxi-cenovnik": 660,
-   "portal-cenovnik": 581
+   "portal-cenovnik": 581,
+   "ediskont": 540
   },
   "rubin-rubinov-prokupac": {
    "maxi": 660,
-   "maxi-cenovnik": 660
+   "maxi-cenovnik": 660,
+   "ediskont": 540
   },
   "rubin-chardonnay": {
    "maxi": 660,
@@ -5581,7 +5658,8 @@
    "maxi-cenovnik": 660,
    "idea": 660,
    "idea-cenovnik": 660,
-   "lavki": 550
+   "lavki": 550,
+   "ediskont": 531
   },
   "kovacevic-cuvee-rouge": {
    "maxi": 890,
@@ -5610,7 +5688,8 @@
   "rubin-car-lazar": {
    "maxi-cenovnik": 442,
    "idea-cenovnik": 475,
-   "portal-cenovnik": 428
+   "portal-cenovnik": 428,
+   "ediskont": 410
   },
   "draskovic-chardonnay": {
    "maxi-cenovnik": 1229,
@@ -5679,7 +5758,8 @@
   },
   "gamanovic-grasac-beli": {
    "maxi-cenovnik": 1399,
-   "portal-cenovnik": 1050
+   "portal-cenovnik": 1050,
+   "ediskont": 1100
   },
   "gamanovic-tamjanika-bela": {
    "maxi-cenovnik": 1299,
@@ -5711,6 +5791,7 @@
   "deuric-chardonnay": {
    "maxi-cenovnik": 1759,
    "idea-cenovnik": 1650,
+   "ediskont": 1130,
    "vinarije": 1500
   },
   "pusula-cabernet": {
@@ -5771,6 +5852,10 @@
    "idea": 2200,
    "idea-cenovnik": 2150
   },
+  "rubin-carica-milica": {
+   "idea": 475,
+   "ediskont": 410
+  },
   "ukusi-moga-kraja-prokupac": {
    "idea": 1100,
    "idea-cenovnik": 1100
@@ -5778,7 +5863,8 @@
   "doja-rose": {
    "idea": 1070,
    "portal-cenovnik": 970,
-   "lavki": 935
+   "lavki": 935,
+   "ediskont": 890
   },
   "pesic-merlot": {
    "idea-cenovnik": 650,
@@ -5787,6 +5873,7 @@
   "lastar-cru-6": {
    "idea-cenovnik": 1140,
    "portal-cenovnik": 1100,
+   "ediskont": 1000,
    "vinarije": 1020
   },
   "salas-nas-merlot": {
@@ -5795,7 +5882,8 @@
   },
   "pesic-tamjanika": {
    "idea-cenovnik": 800,
-   "portal-cenovnik": 730
+   "portal-cenovnik": 730,
+   "ediskont": 700
   },
   "100-zena-tamjanika": {
    "idea-cenovnik": 2199,
@@ -5822,6 +5910,7 @@
    "idea-cenovnik": 1600,
    "portal-cenovnik": 960,
    "lavki": 1090,
+   "ediskont": 1000,
    "vinarije": 1200
   },
   "rubin-amante-matea-merlot": {
@@ -6008,7 +6097,12 @@
   },
   "aleksic-nostalgija": {
    "lavki": 597,
+   "ediskont": 600,
    "vinarije": 540
+  },
+  "dordevic-chardonnay": {
+   "ediskont": 1000,
+   "vinarije": 1200
   }
  },
  "podhodit_neskolko": [
@@ -7410,6 +7504,46 @@
     "radovanovic-chardonnay-classique",
     "radovanovic-chardonnay-selekcija",
     "radovanovic-chardonnay-zdravica-za-vitezove-zdravija"
+   ]
+  },
+  {
+   "vino": "Chardonnay Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-radovanovic-075l",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "kandidaty": [
+    "radovanovic-chardonnay-classique",
+    "radovanovic-chardonnay-selekcija",
+    "radovanovic-chardonnay-zdravica-za-vitezove-zdravija"
+   ]
+  },
+  {
+   "vino": "Kremen Cabernet Sauvignon Matalj 0.75L",
+   "hozyaistvo": "Matalj",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kremen-cabernet-sauvignon-matalj-075l",
+   "cena_rsd": 1599.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "kandidaty": [
+    "matalj-kremen",
+    "matalj-kremen-cabernet-sauvignon"
+   ]
+  },
+  {
+   "vino": "Rose Sec Vino Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-sec-vino-zvonko-bogdan-0.75l-1840",
+   "cena_rsd": 1279.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "kandidaty": [
+    "zvonko-bogdan-rose",
+    "zvonko-bogdan-rose-sec"
    ]
   },
   {
@@ -9799,6 +9933,7 @@
     "idea-cenovnik": 930,
     "portal-cenovnik": 200,
     "lavki": 824,
+    "ediskont": 725,
     "vinarije": 770,
     "dostavka": 892
    },
@@ -10908,7 +11043,8 @@
     "maxi-cenovnik": 660,
     "idea": 660,
     "portal-cenovnik": 610,
-    "lavki": 550
+    "lavki": 550,
+    "ediskont": 540
    },
    "otbrosheno": {
     "cerpromet": 2650
@@ -10923,6 +11059,7 @@
     "maxi-cenovnik": 660,
     "idea": 660,
     "lavki": 550,
+    "ediskont": 540,
     "dostavka": 650
    },
    "otbrosheno": {
@@ -11089,6 +11226,15 @@
     350.0,
     550.0,
     556.0
+   ],
+   "pochemu": "у магазина несколько разных вин на одну нашу строку"
+  },
+  {
+   "klyuch_vina": "rubin-rose",
+   "magazin": "ediskont",
+   "ceny": [
+    369.9,
+    539.9
    ],
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
@@ -11323,6 +11469,16 @@
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   },
   {
+   "klyuch_vina": "vrt-pesak-sivi",
+   "magazin": "dostavka",
+   "ceny": [
+    1430.0,
+    1450.0,
+    3830.0
+   ],
+   "pochemu": "у магазина несколько разных вин на одну нашу строку"
+  },
+  {
    "klyuch_vina": "aven-cabernet-sauvignon",
    "magazin": "vinarije",
    "ceny": [
@@ -11510,16 +11666,6 @@
    "ceny": [
     1860.0,
     2457.0
-   ],
-   "pochemu": "у магазина несколько разных вин на одну нашу строку"
-  },
-  {
-   "klyuch_vina": "vrt-pesak-sivi",
-   "magazin": "dostavka",
-   "ceny": [
-    1430.0,
-    1450.0,
-    3830.0
    ],
    "pochemu": "у магазина несколько разных вин на одну нашу строку"
   }
@@ -70500,6 +70646,1056 @@
    "stranica": "https://dan-company.com/product/aglaja-chardonnay/",
    "hozyaistvo": "Aglaja",
    "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Aleksandria Belo Vino 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/aleksandria-belo-vino-075l",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Aleksandria Crno Vino 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/aleksandria-crno-vino-0.75l-157",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Belo Vino Alfacinha 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-alfacinha-075l",
+   "cena_rsd": 399.99,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Belo Vino Morava Aleksić 0.75L",
+   "hozyaistvo": "Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-morava-aleksic-075l",
+   "cena_rsd": 929.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Belo Vino Mula Velha Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-mula-velha-reserva-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Belo Vino Orfelin Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-orfelin-kovacevic-075l",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Belo Vino Tema Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-tema-aleksandrovic-0.75l-108",
+   "cena_rsd": 1323.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Borgo Lame Barbera D'Asti 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/borgo-lame-barbera-dasti-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Borgo Lame Nebbiolo Langhe 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/borgo-lame-nebbiolo-langhe-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Borgo Lame Piemonte Chardonnay 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/borgo-lame-piemonte-chardonnay-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Cabernet Syrah Vino J.P. Chenet 0.75L",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/cabernet-syrah-vino-j.p.-chenet-0.75l-578",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Cabernet Vino Plantaže 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/cabernet-vino-plantaze-0.75l-166",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Carpe Noctem Prosecco Rose 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/carpe-noctem-prosecco-rose-075l",
+   "cena_rsd": 1123.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Chardonay Rubin 0.75l",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonay-rubin-075l",
+   "cena_rsd": 539.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Chardonnay Vino J.P. Chenet 0.75L",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-jp-chenet-075l",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Chardonnay Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-plantaze-075l",
+   "cena_rsd": 619.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Chardonnay Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-tikves-0.75l-158",
+   "cena_rsd": 619.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Crveno Vino Alfacinha 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-alfacinha-075l",
+   "cena_rsd": 499.99,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Crveno Vino Alfacinha Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-alfacinha-reserva-075l",
+   "cena_rsd": 999.99,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Crveno Vino Cuvee No.1 Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-cuvee-no.1-zvonko-bogdan-0.75l-1455",
+   "cena_rsd": 2269.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Crveno Vino Orfelin Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-orfelin-kovacevic-075l",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Crveno vino Poligraf Molovin 0.75L",
+   "hozyaistvo": "Molovin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-poligraf-molovin-075l",
+   "cena_rsd": 649.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Crveno vino Život Teče Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-zivot-tece-zvonko-bogdan-0.75l-1452",
+   "cena_rsd": 1399.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Danese Chardonnay 0.75L",
+   "hozyaistvo": "Danese",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/danese-chardonnay-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Danese Montepulciano d'Abruzzo 0.75L",
+   "hozyaistvo": "Danese",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/danese-montepulciano-dabruzzo-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Danese Pinot Grigio 0.75L",
+   "hozyaistvo": "Danese",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/danese-pinot-grigio-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Dom Perignon Champagne 0.75L",
+   "hozyaistvo": "Moet & Chandon",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/dom-perignon-champagne-075l",
+   "cena_rsd": 27999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Elixir D' Or 0.75L 23K",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/elixir-d-or-075l-23k",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Frankovka Drašković 75cl",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/frankovka-draskovic-75cl",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Franzini Moscato Dolce Spumante 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/franzini-moscato-dolce-spumante-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Friso Cerasuolo D'Abruzzo 2017 0.75L",
+   "hozyaistvo": "Friso",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/friso-cerasuolo-dabruzzo-2017-075l",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Friso Chardonnay 2017 0.75L",
+   "hozyaistvo": "Friso",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/friso-chardonnay-2017-075l",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Frontera Vino Cabernet Sauvignon 0.75L",
+   "hozyaistvo": "Concha y Toro",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/frontera-vino-cabernet-sauvignon-0.75l-9",
+   "cena_rsd": 829.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "J.P. Chenet Ice Rose Edition 0.75l",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/jp-chenet-ice-rose-edition-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "J.P. Chenet Ice White Edition 0.75l",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/jp-chenet-ice-white-edition-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Kadarka Rose 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kadarka-rose-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Kratošija Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kratosija-vino-tikves-0.75l-159",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Krstač Vino Plantaže 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/krstac-vino-plantaze-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Kutjevo Crni Cuvee 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-crni-cuvee-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Kutjevo Graševina 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-grasevina-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Kutjevo Graševina Kvalitetna 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-grasevina-kvalitetna-075l",
+   "cena_rsd": 719.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Kutjevo Rose 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-rose-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Kutjevo Rose Kvalitetno 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-rose-kvalitetno-075l",
+   "cena_rsd": 591.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Lizzano Negroamaro 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/lizzano-negroamaro-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Macchia Primitivo di Manduria Dop 0.75L",
+   "hozyaistvo": "Lizzano",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/macchia-primitivo-di-manduria-dop-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Maestro Primitivo Puglia 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/maestro-primitivo-puglia-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Malvazija 13.jul 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/malvazija-13jul-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Marsuret Prosecco Treviso Extra Dry 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/marsuret-prosecco-treviso-extra-dry-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Merlot Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/merlot-vino-plantaze-075l",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Moet&Chandon Brut Imperial 0.75L",
+   "hozyaistvo": "Moet & Chandon",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/moetchandon-brut-imperial-075l",
+   "cena_rsd": 6499.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Montelliana Merlot DOC 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-merlot-doc-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Montelliana Mont Blanc Cuvee Extra Dry 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-mont-blanc-cuvee-extra-dry-075l",
+   "cena_rsd": 649.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Montelliana Pinot Grigio Delle Venezie DOC 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-pinot-grigio-delle-venezie-doc-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Montelliana Prosecco Doc Extra Dry 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-prosecco-doc-extra-dry-075l",
+   "cena_rsd": 799.99,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Montelliana Recantina DOC 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-recantina-doc-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Onde Chardonnay 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/onde-chardonnay-075l",
+   "cena_rsd": 739.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Onde Malvasia Nera 0.75L",
+   "hozyaistvo": "Nera",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/onde-malvasia-nera-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Onde Primitivo Salento 0.75L",
+   "hozyaistvo": "Lizzano",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/onde-primitivo-salento-075l",
+   "cena_rsd": 599.99,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Organic Vino Spumante Rose Pizzolato 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/organic-vino-spumante-rose-pizzolato-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Osam Tamburaša Belo Vino Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/osam-tamburasa-belo-vino-zvonko-bogdan-075l",
+   "cena_rsd": 1139.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Pinot Grigio Vino Veneto 0.75L",
+   "hozyaistvo": "La Cacciatora",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/pinot-grigio-vino-veneto-0.75l-177",
+   "cena_rsd": 629.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Poligraf Belo Molovin 0.75L",
+   "hozyaistvo": "Molovin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/poligraf-belo-molovin-075l",
+   "cena_rsd": 629.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Poligraf Rose Molovin 0.75L",
+   "hozyaistvo": "Molovin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/poligraf-rose-molovin-075l",
+   "cena_rsd": 629.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Pro Anima Chardonnay & Sauvignon 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/pro-anima-chardonnay-sauvignon-0.75l-2346",
+   "cena_rsd": 979.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Prosecco D.O.C Extra Dry 0.75L Franzini",
+   "hozyaistvo": "Franzini",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/prosecco-doc-extra-dry-075l-franzini",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Ramon Roqueta Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/ramon-roqueta-reserva-075l",
+   "cena_rsd": 799.99,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Rose Antigona 75cl S",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-antigona-75cl-s",
+   "cena_rsd": 529.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Rose Pesic 75cl",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-pesic-75cl",
+   "cena_rsd": 579.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Rose Vino Orfelin Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-orfelin-kovacevic-075l",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Rose Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-plantaze-0.75l-693",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Rose Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-tikves-0.75l-12",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Roza Nostra Vino 75c",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/roza-nostra-vino-75c",
+   "cena_rsd": 1169.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Sandiliano Grand Cuvee V.S. Brut 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sandiliano-grand-cuvee-vs-brut-075l",
+   "cena_rsd": 499.9,
+   "cvet_magazina": "игристое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Sauvignon Blanc Pesi",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sauvignon-blanc-pesi",
+   "cena_rsd": 579.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Sauvignon Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sauvignon-vino-plantaze-0.75l-1118",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Stobi Antigona Belo",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/stobi-antigona-belo",
+   "cena_rsd": 529.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Stobi Temjanika 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/stobi-temjanika-075l",
+   "cena_rsd": 749.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "T'ga Za Jug Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tga-za-jug-vino-tikves-0.75l-1115",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Tagua Cabernet Sauvignon Family Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tagua-cabernet-sauvignon-family-reserva-075l",
+   "cena_rsd": 2499.99,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Tagua Cabernet Sauvignon Gran Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tagua-cabernet-sauvignon-gran-reserva-075l",
+   "cena_rsd": 1499.99,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Tagua Cabernet Sauvignon Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tagua-cabernet-sauvignon-reserva-075l",
+   "cena_rsd": 999.99,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Temjanika Special Selection Tikveš 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/temjanika-special-selection-tikves-075l",
+   "cena_rsd": 1399.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Temjanika Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/temjanika-vino-tikves-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Tines De Roqueta Tina 21 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tines-de-roqueta-tina-21-075l",
+   "cena_rsd": 999.99,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Tri Doline Crveno 75",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tri-doline-crveno-75",
+   "cena_rsd": 2199.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Trianon Vino 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/trianon-vino-075l",
+   "cena_rsd": 1599.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Trijumf Roze Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/trijumf-roze-aleksandrovic-0.75l-593",
+   "cena_rsd": 1259.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Varijanta Bela Aleksandrović 0.75L",
+   "hozyaistvo": "Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/varijanta-bela-aleksandrovic-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vinarija Marko Roze 0.75L",
+   "hozyaistvo": "Vinarija Marko",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-marko-roze-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vinarija Marko Tamjanika Dualismo 0.75L",
+   "hozyaistvo": "Vinarija Marko",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-marko-tamjanika-dualismo-075l",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Vino Antigona Stobi 0.75L",
+   "hozyaistvo": "Stobi",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-antigona-stobi-075l",
+   "cena_rsd": 529.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Graschatz Geronimo 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-graschatz-geronimo-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Muskat San Martino 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-muskat-san-martino-075l",
+   "cena_rsd": 1249.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Nopi Djogri 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-nopi-djogri-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Tamjanika Bellucci 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tamjanika-bellucci-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Tri Bele Koze 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tri-bele-koze-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Tri Crvene Koze 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tri-crvene-koze-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Tri Roze Koze 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tri-roze-koze-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vino Vladika Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-vladika-plantaze-0.75l-1660",
+   "cena_rsd": 1799.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vranac Pesic 75cl",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-pesic-75cl",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vranac Pro Corde Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-pro-corde-vino-plantaze-075l",
+   "cena_rsd": 1049.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vranac Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-vino-plantaze-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
+  },
+  {
+   "vino": "Vrt Pesak Žuti 0.75L",
+   "hozyaistvo": "Vrt",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vrt-pesak-zuti-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Špricer Rose Rubin 0.5 u limenci",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/spricer-rose-rubin-05-u-limenci",
+   "cena_rsd": 114.9,
+   "cvet_magazina": "розе",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "дом есть, вина нет"
+  },
+  {
+   "vino": "Žilavka Vukoje 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/zilavka-vukoje-075l",
+   "cena_rsd": 1839.9,
+   "cvet_magazina": "белое",
+   "magazin": "ediskont",
+   "v_prodazhe": true,
+   "pochemu": "хозяйства нет в наших таблицах"
   },
   {
    "vino": "SINERGIJA",

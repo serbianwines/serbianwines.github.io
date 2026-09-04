@@ -1,0 +1,2068 @@
+{
+ "chto_eto": "Винный раздел дисконта напитков «eDiskont»: имя, цена в динарах, цвет со страницы раздела.",
+ "istochnik": "ediskont.rs/sr/proizvodi/vino?limit=500",
+ "sobrano": "2026-09-04",
+ "vina": [
+  {
+   "vino": "Aleksandria Belo Vino 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/aleksandria-belo-vino-075l",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Aleksandria Crno Vino 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/aleksandria-crno-vino-0.75l-157",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Aleksandria Crveno Vino 0.2L u pakovanju od 21 komada",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/aleksandria-crveno-vino-02l-u-pakovanju-od-21-komada",
+   "cena_rsd": 5667.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Aleksandrović Prokupac 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/aleksandrovic-prokupac-075l",
+   "cena_rsd": 1504.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Antica Formula Branca 1L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/antica-formula-branca-1l",
+   "cena_rsd": 5099.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Aurelius Vino Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/aurelius-vino-kovacevic-075l",
+   "cena_rsd": 1399.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Barbara - Rose Vino Aleksić 0.75L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/barbara-rose-vino-aleksic-0.75l-2462",
+   "cena_rsd": 724.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Belo Vino Alfacinha 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-alfacinha-075l",
+   "cena_rsd": 399.99,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Belo Vino Morava Aleksić 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-morava-aleksic-075l",
+   "cena_rsd": 929.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Belo Vino Mula Velha Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-mula-velha-reserva-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Belo Vino Orfelin Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-orfelin-kovacevic-075l",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Belo Vino Tema Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-tema-aleksandrovic-0.75l-108",
+   "cena_rsd": 1323.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Belo vino Žuti Cvet - Aleksić 0.187l u pakovanju od 24 kom",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/belo-vino-zuti-cvet-aleksic-0187l-u-pakovanju-od-24-kom",
+   "cena_rsd": 5997.6,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Bonaca Chardonnay Aleksić 0.75L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/bonaca-chardonnay-aleksic-0.75l-2469",
+   "cena_rsd": 879.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Borgo Lame Barbera D'Asti 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/borgo-lame-barbera-dasti-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Borgo Lame Nebbiolo Langhe 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/borgo-lame-nebbiolo-langhe-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Borgo Lame Piemonte Chardonnay 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/borgo-lame-piemonte-chardonnay-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Cabernet & Merlot Cilić 0.75L",
+   "hozyaistvo": "Vinarija Cilić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/cabernet-merlot-cilic-075l",
+   "cena_rsd": 1249.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Cabernet Sauvignon Reserve Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/cabernet-sauvignon-reserve-radovanovic-0.75l-22",
+   "cena_rsd": 3299.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Cabernet Syrah Vino J.P. Chenet 0.75L",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/cabernet-syrah-vino-j.p.-chenet-0.75l-578",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Cabernet Vino Plantaže 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/cabernet-vino-plantaze-0.75l-166",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Car Lazar 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/car-lazar-075l",
+   "cena_rsd": 409.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Carpe Noctem Prosecco Rose 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/carpe-noctem-prosecco-rose-075l",
+   "cena_rsd": 1123.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonay Rubin 0.75l",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonay-rubin-075l",
+   "cena_rsd": 539.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonay Vino J.P. Chenet 0.187L",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonay-vino-j.p.-chenet-0.187l-1233",
+   "cena_rsd": 279.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonnay Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-radovanovic-075l",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonnay Selekcija Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-selekcija-radovanovic-0.75l-21",
+   "cena_rsd": 2099.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonnay Vino J.P. Chenet 0.75L",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-jp-chenet-075l",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonnay Vino Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-kovacevic-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonnay Vino Plantaže 0.18L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-plantaze-0.18l-163",
+   "cena_rsd": 229.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonnay Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-plantaze-075l",
+   "cena_rsd": 619.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Chardonnay Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/chardonnay-vino-tikves-0.75l-158",
+   "cena_rsd": 619.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Crveno Vino Alfacinha 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-alfacinha-075l",
+   "cena_rsd": 499.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Crveno Vino Alfacinha Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-alfacinha-reserva-075l",
+   "cena_rsd": 999.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Crveno Vino Cuvee No.1 Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-cuvee-no.1-zvonko-bogdan-0.75l-1455",
+   "cena_rsd": 2269.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Crveno Vino Orfelin Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-orfelin-kovacevic-075l",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Crveno vino Poligraf Molovin 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-poligraf-molovin-075l",
+   "cena_rsd": 649.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Crveno vino Život Teče Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/crveno-vino-zivot-tece-zvonko-bogdan-0.75l-1452",
+   "cena_rsd": 1399.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Cuvee Piquant Kovačević 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/cuvee-piquant-kovacevic-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Danese Chardonnay 0.75L",
+   "hozyaistvo": "Danese",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/danese-chardonnay-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Danese Montepulciano d'Abruzzo 0.75L",
+   "hozyaistvo": "Danese",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/danese-montepulciano-dabruzzo-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Danese Pinot Grigio 0.75L",
+   "hozyaistvo": "Danese",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/danese-pinot-grigio-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Deurić Chardonnay 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/deuric-chardonnay-075l",
+   "cena_rsd": 1129.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Deurić Pinot Noir 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/deuric-pinot-noir-075l",
+   "cena_rsd": 1249.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Deurić Urban Rose 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/deuric-urban-rose-075l",
+   "cena_rsd": 969.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Doja Barrique Chardonnay 0.75L",
+   "hozyaistvo": "Vinarija Doja",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/doja-barrique-chardonnay-075l",
+   "cena_rsd": 1329.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Doja Chardonnay & Pinot Grigio 0.75L",
+   "hozyaistvo": "Vinarija Doja",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/doja-chardonnay-pinot-grigio-075l",
+   "cena_rsd": 1049.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Doja Merlot Cabernet 0.75L",
+   "hozyaistvo": "Vinarija Doja",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/doja-merlot-cabernet-075l",
+   "cena_rsd": 1349.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Doja Rose Vino 0.75L",
+   "hozyaistvo": "Vinarija Doja",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/doja-rose-vino-075l",
+   "cena_rsd": 889.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Doja Tamjanika 0.75L",
+   "hozyaistvo": "Vinarija Doja",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/doja-tamjanika-075l",
+   "cena_rsd": 949.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Doja Vino Prokupac 0.75L",
+   "hozyaistvo": "Vinarija Doja",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/doja-vino-prokupac-075l",
+   "cena_rsd": 1149.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Dom Perignon Champagne 0.75L",
+   "hozyaistvo": "Moet & Chandon",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/dom-perignon-champagne-075l",
+   "cena_rsd": 27999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Elixir D' Or 0.75L 23K",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/elixir-d-or-075l-23k",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Franc Cabernet Sauvignon Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/franc-cabernet-sauvignon-radovanovic-075l",
+   "cena_rsd": 1899.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Frankovka Drašković 75cl",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/frankovka-draskovic-75cl",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Frankovka Inat Molovin 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/frankovka-inat-molovin-075l",
+   "cena_rsd": 1199.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Franzini Moscato Dolce Spumante 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/franzini-moscato-dolce-spumante-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Fresco Bianco Kovačević 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/fresco-bianco-kovacevic-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Friso Cerasuolo D'Abruzzo 2017 0.75L",
+   "hozyaistvo": "Friso",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/friso-cerasuolo-dabruzzo-2017-075l",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Friso Chardonnay 2017 0.75L",
+   "hozyaistvo": "Friso",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/friso-chardonnay-2017-075l",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Frontera Vino Cabernet Sauvignon 0.75L",
+   "hozyaistvo": "Concha y Toro",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/frontera-vino-cabernet-sauvignon-0.75l-9",
+   "cena_rsd": 829.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Grand Sud Cabernet 1L",
+   "hozyaistvo": "Grand Sud",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/grand-sud-cabernet-1l",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Grand Sud Vino Chardonnay 1L",
+   "hozyaistvo": "Grand Sud",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/grand-sud-vino-chardonnay-1l-552",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Grand Sud Vino Merlot 1L",
+   "hozyaistvo": "Grand Sud",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/grand-sud-vino-merlot-1l-553",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Grašac Beli Gamanović 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/grasac-beli-gamanovic-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Harizma Vino Vinarija Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/harizma-vino-vinarija-aleksandrovic-0.75l-343",
+   "cena_rsd": 1504.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Henkell Trocken Champagne 0.2L",
+   "hozyaistvo": "Henkell & Co",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/henkell-trocken-champagne-02l",
+   "cena_rsd": 399.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "J.P. Chenet Ice Rose Edition 0.75l",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/jp-chenet-ice-rose-edition-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "J.P. Chenet Ice White Edition 0.75l",
+   "hozyaistvo": "J.P. Chenet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/jp-chenet-ice-white-edition-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kadarka Fantazija 0.75L",
+   "hozyaistvo": "Vinarija Tonković",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kadarka-fantazija-075l",
+   "cena_rsd": 1329.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kadarka Rose 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kadarka-rose-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kardaš Crveno Vino Aleksić 0.75L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kardas-crveno-vino-aleksic-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kratošija Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kratosija-vino-tikves-0.75l-159",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kratošija Vino Tikveš 1L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kratosija-vino-tikves-1l-161",
+   "cena_rsd": 529.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kremen Cabernet Sauvignon Matalj 0.75L",
+   "hozyaistvo": "Matalj",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kremen-cabernet-sauvignon-matalj-075l",
+   "cena_rsd": 1599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Krstač Vino Plantaže 0.18L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/krstac-vino-plantaze-0.18l-164",
+   "cena_rsd": 229.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Krstač Vino Plantaže 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/krstac-vino-plantaze-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kutjevo Crni Cuvee 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-crni-cuvee-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kutjevo Graševina 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-grasevina-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kutjevo Graševina Kvalitetna 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-grasevina-kvalitetna-075l",
+   "cena_rsd": 719.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kutjevo Rose 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-rose-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Kutjevo Rose Kvalitetno 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/kutjevo-rose-kvalitetno-075l",
+   "cena_rsd": 591.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Lastar Cru 6 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/lastar-cru-6-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Lizzano Negroamaro 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/lizzano-negroamaro-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Macchia Primitivo di Manduria Dop 0.75L",
+   "hozyaistvo": "Lizzano",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/macchia-primitivo-di-manduria-dop-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Maestro Primitivo Puglia 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/maestro-primitivo-puglia-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Malvazija 13.jul 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/malvazija-13jul-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Marsuret Prosecco Treviso Extra Dry 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/marsuret-prosecco-treviso-extra-dry-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Matijašević Belina 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/matijasevic-belina-075l",
+   "cena_rsd": 1349.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Medveđa Krv Rubin 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/medvedja-krv-rubin-075l",
+   "cena_rsd": 419.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Merlot Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/merlot-vino-plantaze-075l",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Merlot&Cabernet Djordjević 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/merlotcabernet-djordjevic-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Moet&Chandon Brut Imperial 0.75L",
+   "hozyaistvo": "Moet & Chandon",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/moetchandon-brut-imperial-075l",
+   "cena_rsd": 6499.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Moje Vino Bijelo Plantaže 1L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/moje-vino-bijelo-plantaze-1l",
+   "cena_rsd": 419.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Moje Vino Crveno Plantaže 1L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/moje-vino-crveno-plantaze-1l",
+   "cena_rsd": 419.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Moje Vino Rose Plantaže 1L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/moje-vino-rose-plantaze-1l",
+   "cena_rsd": 419.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Montelliana Merlot DOC 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-merlot-doc-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Montelliana Mont Blanc Cuvee Extra Dry 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-mont-blanc-cuvee-extra-dry-075l",
+   "cena_rsd": 649.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Montelliana Pinot Grigio Delle Venezie DOC 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-pinot-grigio-delle-venezie-doc-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Montelliana Prosecco Doc Extra Dry 0.2L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-prosecco-doc-extra-dry-02l",
+   "cena_rsd": 399.99,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Montelliana Prosecco Doc Extra Dry 0.375L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-prosecco-doc-extra-dry-0375l",
+   "cena_rsd": 699.99,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Montelliana Prosecco Doc Extra Dry 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-prosecco-doc-extra-dry-075l",
+   "cena_rsd": 799.99,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Montelliana Recantina DOC 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/montelliana-recantina-doc-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Morava Jelić 0.75L",
+   "hozyaistvo": "Vinarija Milijan Jelić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/morava-jelic-075l",
+   "cena_rsd": 1479.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Muskat Rubin 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/muskat-rubin-075l",
+   "cena_rsd": 539.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Nostalgija Aleksić 1L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/nostalgija-aleksic-1l",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Nostalgija Crno Vino Aleksić 0.75L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/nostalgija-crno-vino-aleksic-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Onde Chardonnay 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/onde-chardonnay-075l",
+   "cena_rsd": 739.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Onde Malvasia Nera 0.75L",
+   "hozyaistvo": "Lizzano",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/onde-malvasia-nera-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Onde Primitivo Salento 0.75L",
+   "hozyaistvo": "Lizzano",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/onde-primitivo-salento-075l",
+   "cena_rsd": 599.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Orfelin Bag In Box Belo Vino 3L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/orfelin-bag-in-box-belo-vino-3l",
+   "cena_rsd": 1449.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Orfelin Bag In Box Crveno Vino 3L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/orfelin-bag-in-box-crveno-vino-3l",
+   "cena_rsd": 1479.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Orfelin Bag In Box Rose Vino 3L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/orfelin-bag-in-box-rose-vino-3l",
+   "cena_rsd": 1449.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Organic Vino Spumante Rose Pizzolato 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/organic-vino-spumante-rose-pizzolato-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Osam Tamburaša Belo Vino Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/osam-tamburasa-belo-vino-zvonko-bogdan-075l",
+   "cena_rsd": 1139.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Pinot Grigio Vino Veneto 0.75L",
+   "hozyaistvo": "La Cacciatora",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/pinot-grigio-vino-veneto-0.75l-177",
+   "cena_rsd": 629.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Poligraf Belo Molovin 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/poligraf-belo-molovin-075l",
+   "cena_rsd": 629.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Poligraf Rose Molovin 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/poligraf-rose-molovin-075l",
+   "cena_rsd": 629.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Pro Anima Chardonnay & Sauvignon 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/pro-anima-chardonnay-sauvignon-0.75l-2346",
+   "cena_rsd": 979.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Prosecco D.O.C Extra Dry 0.75L Franzini",
+   "hozyaistvo": "Franzini",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/prosecco-doc-extra-dry-075l-franzini",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Radovanović Belo Vino 5L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/radovanovic-belo-vino-5l",
+   "cena_rsd": 2599.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Ramon Roqueta Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/ramon-roqueta-reserva-075l",
+   "cena_rsd": 799.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Regent Reserve Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/regent-reserve-aleksandrovic-0.75l-1070",
+   "cena_rsd": 1999.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose 4 konja debela Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-4-konja-debela-zvonko-bogdan-075l",
+   "cena_rsd": 1752.45,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Antigona 75cl S",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-antigona-75cl-s",
+   "cena_rsd": 529.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Pesic 75cl",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-pesic-75cl",
+   "cena_rsd": 579.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-radovanovic-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Rubin 0.187L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-rubin-0187l",
+   "cena_rsd": 169.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Rubin 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-rubin-075l",
+   "cena_rsd": 369.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Rubin 1L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-rubin-1l",
+   "cena_rsd": 369.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Sec Vino Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-sec-vino-zvonko-bogdan-0.75l-1840",
+   "cena_rsd": 1279.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Vino Orfelin Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-orfelin-kovacevic-075l",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Vino Plantaže 0.18L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-plantaze-018l",
+   "cena_rsd": 229.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-plantaze-0.75l-693",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Vino Status 2L",
+   "hozyaistvo": "Vinarija Status",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-status-2l",
+   "cena_rsd": 399.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-tikves-0.75l-12",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rose Vino Tikveš 1L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rose-vino-tikves-1l-15",
+   "cena_rsd": 499.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rosetto Vino Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rosetto-vino-kovacevic-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Roza Nostra Vino 75c",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/roza-nostra-vino-75c",
+   "cena_rsd": 1169.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rubin Merlot 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rubin-merlot-075l",
+   "cena_rsd": 531.24,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rubin Rose 2016 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rubin-rose-2016-075l",
+   "cena_rsd": 539.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Rubinov Prokupac 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/rubinov-prokupac-075l",
+   "cena_rsd": 539.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sandiliano Grand Cuvee V.S. Brut 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sandiliano-grand-cuvee-vs-brut-075l",
+   "cena_rsd": 499.9,
+   "cvet_magazina": "игристое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sauvignon Blanc Pesi",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sauvignon-blanc-pesi",
+   "cena_rsd": 579.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sauvignon Blanc Rubin 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sauvignon-blanc-rubin-075l",
+   "cena_rsd": 539.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sauvignon Blanc Vino Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sauvignon-blanc-vino-radovanovic-0.75l-19",
+   "cena_rsd": 1049.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sauvignon Vino Kovačević 0.75L",
+   "hozyaistvo": "Vinarija Kovačević",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sauvignon-vino-kovacevic-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sauvignon Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sauvignon-vino-plantaze-0.75l-1118",
+   "cena_rsd": 659.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sevdah Belo Vino Aleksić 0.75L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sevdah-belo-vino-aleksic-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Sevdah Belo Vino Aleksić 1L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/sevdah-belo-vino-aleksic-1l-2567",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Smederevka Vino Tikveš 1L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/smederevka-vino-tikves-1l-162",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Stari Grad Rubin 1L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/stari-grad-rubin-1l",
+   "cena_rsd": 399.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Stobi Antigona Belo",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/stobi-antigona-belo",
+   "cena_rsd": 529.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Stobi Temjanika 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/stobi-temjanika-075l",
+   "cena_rsd": 749.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Stota Suza Tamnjanika Minić 0.75L",
+   "hozyaistvo": "Vinska kuća Minića",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/stota-suza-tamnjanika-minic-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "T'ga Za Jug Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tga-za-jug-vino-tikves-0.75l-1115",
+   "cena_rsd": 799.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tagua Cabernet Sauvignon Family Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tagua-cabernet-sauvignon-family-reserva-075l",
+   "cena_rsd": 2499.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tagua Cabernet Sauvignon Gran Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tagua-cabernet-sauvignon-gran-reserva-075l",
+   "cena_rsd": 1499.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tagua Cabernet Sauvignon Reserva 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tagua-cabernet-sauvignon-reserva-075l",
+   "cena_rsd": 999.99,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tamjanika Budimir 0.75L",
+   "hozyaistvo": "Vino Budimir",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tamjanika-budimir-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tamjanika Pešić 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tamjanika-pesic-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tamjanika Tonković 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tamjanika-tonkovic-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tamnjanika Spasić 0.75L",
+   "hozyaistvo": "Vinarska kuća Spasić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tamnjanika-spasic-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Temjanika Special Selection Tikveš 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/temjanika-special-selection-tikves-075l",
+   "cena_rsd": 1399.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Temjanika Vino Tikveš 0.75L",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/temjanika-vino-tikves-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tines De Roqueta Tina 21 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tines-de-roqueta-tina-21-075l",
+   "cena_rsd": 999.99,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Traminac Inat Molovin 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/traminac-inat-molovin-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tri Doline Crveno 75",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tri-doline-crveno-75",
+   "cena_rsd": 2199.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tri Morave Belo Vino Temet 0.75L",
+   "hozyaistvo": "Vinarija Temet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tri-morave-belo-vino-temet-075l",
+   "cena_rsd": 1599.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tri Morave Crveno Vino Temet 0.75L",
+   "hozyaistvo": "Vinarija Temet",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tri-morave-crveno-vino-temet-075l",
+   "cena_rsd": 1649.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Tri Morave Rose Temet 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/tri-morave-rose-temet-075l",
+   "cena_rsd": 1399.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Trianon Vino 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/trianon-vino-075l",
+   "cena_rsd": 1599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Trijumf Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/trijumf-aleksandrovic-0.75l-297",
+   "cena_rsd": 1624.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Trijumf Roze Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/trijumf-roze-aleksandrovic-0.75l-593",
+   "cena_rsd": 1259.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Trijumf Vino Gold Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/trijumf-vino-gold-aleksandrovic-0.75l-1841",
+   "cena_rsd": 1745.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Varijanta Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/varijanta-aleksandrovic-0.75l-298",
+   "cena_rsd": 1173.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Varijanta Bela Aleksandrović 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/varijanta-bela-aleksandrovic-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vinarija Lastar Tamjanika 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-lastar-tamjanika-075l",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vinarija Marko Carine 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-marko-carine-075l",
+   "cena_rsd": 2399.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vinarija Marko Doajen Prokupac 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-marko-doajen-prokupac-075l",
+   "cena_rsd": 3599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vinarija Marko Doajen Tamjanika 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-marko-doajen-tamjanika-075l",
+   "cena_rsd": 3599.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vinarija Marko Roze 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-marko-roze-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vinarija Marko Tamjanika Dualismo 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vinarija-marko-tamjanika-dualismo-075l",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Aleksandria Bela 0.2L u pakovanju od 21 kom",
+   "hozyaistvo": "Tikveš",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-aleksandria-bela-02l-u-pakovanju-od-21-kom",
+   "cena_rsd": 5667.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Antigona Stobi 0.75L",
+   "hozyaistvo": "Stobi",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-antigona-stobi-075l",
+   "cena_rsd": 529.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Cabernet Sauvignon Radovanović 0.75L",
+   "hozyaistvo": "Podrum Radovanović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-cabernet-sauvignon-radovanovic-075l",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Cabernet Sauvignon Rubin 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-cabernet-sauvignon-rubin-075l",
+   "cena_rsd": 539.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Carica Milica Rubin 0.75L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-carica-milica-rubin-075l",
+   "cena_rsd": 409.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Euforija Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-euforija-aleksandrovic-0.75l-1095",
+   "cena_rsd": 1173.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Graschatz Geronimo 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-graschatz-geronimo-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Graševina Rubin 1L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-grasevina-rubin-1l",
+   "cena_rsd": 369.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Italijanski Rizling Status 1L",
+   "hozyaistvo": "Vinarija Status",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-italijanski-rizling-status-1l",
+   "cena_rsd": 359.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Kalčino Status 1L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-kalcino-status-1l",
+   "cena_rsd": 359.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Medveđa Krv Rubin 1L",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-medvedja-krv-rubin-1l",
+   "cena_rsd": 349.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Muskat San Martino 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-muskat-san-martino-075l",
+   "cena_rsd": 1249.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Nopi Djogri 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-nopi-djogri-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Pinot Blanc Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-pinot-blanc-zvonko-bogdan-075l",
+   "cena_rsd": 1699.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Sangria Status 1L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-sangria-status-1l",
+   "cena_rsd": 419.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Sauvignon Blanc Zvonko Bogdan 0.75L",
+   "hozyaistvo": "Vinarija Zvonko Bogdan",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-sauvignon-blanc-zvonko-bogdan-0.75l-1453",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Smederevka Status 2L",
+   "hozyaistvo": "Vinarija Status",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-smederevka-status-2l",
+   "cena_rsd": 399.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Smederevka Status 3L",
+   "hozyaistvo": "Vinarija Status",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-smederevka-status-3l",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Smederevka Stobi 1L",
+   "hozyaistvo": "Stobi",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-smederevka-stobi-1l",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Tamjanika Bellucci 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tamjanika-bellucci-075l",
+   "cena_rsd": 1299.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Tri Bele Koze 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tri-bele-koze-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Tri Crvene Koze 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tri-crvene-koze-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Tri Roze Koze 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-tri-roze-koze-075l",
+   "cena_rsd": 699.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Vladika Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-vladika-plantaze-0.75l-1660",
+   "cena_rsd": 1799.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Vranac Status 1L",
+   "hozyaistvo": "Vinarija Status",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-vranac-status-1l",
+   "cena_rsd": 359.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Vranac Status 2L",
+   "hozyaistvo": "Vinarija Status",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-vranac-status-2l",
+   "cena_rsd": 399.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Vranac Status 3L",
+   "hozyaistvo": "Vinarija Status",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-vranac-status-3l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vino Zvonko Bogdan Chardonnay 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vino-zvonko-bogdan-chardonnay-075l",
+   "cena_rsd": 1599.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vizija Aleksandrović 0.75L",
+   "hozyaistvo": "Vinarija Aleksandrović",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vizija-aleksandrovic-075l",
+   "cena_rsd": 1504.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vranac Pesic 75cl",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-pesic-75cl",
+   "cena_rsd": 549.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vranac Pro Corde Vino Plantaže 0.18L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-pro-corde-vino-plantaze-0.18l-1116",
+   "cena_rsd": 279.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vranac Pro Corde Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-pro-corde-vino-plantaze-075l",
+   "cena_rsd": 1049.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vranac Vino Plantaže 0.18L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-vino-plantaze-0.18l-165",
+   "cena_rsd": 229.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vranac Vino Plantaže 0.75L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-vino-plantaze-075l",
+   "cena_rsd": 599.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vranac Vino Plantaže 1L",
+   "hozyaistvo": "13. Jul – Plantaže",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vranac-vino-plantaze-1l",
+   "cena_rsd": 439.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vrt Pesak Sivi 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vrt-pesak-sivi-075l",
+   "cena_rsd": 1199.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Vrt Pesak Žuti 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/vrt-pesak-zuti-075l",
+   "cena_rsd": 899.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Zvonko Bogdan Pinot Grigio 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/zvonko-bogdan-pinot-grigio-075l",
+   "cena_rsd": 1359.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Čoka Muštuluk Beli 0.75L",
+   "hozyaistvo": "Čoka",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/coka-mustuluk-beli-075l",
+   "cena_rsd": 1499.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Đorđević Chardonnay 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/djordjevic-chardonnay-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Đorđević Tamjanika 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/djordjevic-tamjanika-075l",
+   "cena_rsd": 999.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Špricer Beli Rubin 0.5L u pakovanju od 24 komada",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/spricer-beli-rubin-05l-u-pakovanju-od-24-komada",
+   "cena_rsd": 2757.6,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Špricer Rose Rubin 0.5 u limenci",
+   "hozyaistvo": "Rubin",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/spricer-rose-rubin-05-u-limenci",
+   "cena_rsd": 114.9,
+   "cvet_magazina": "розе",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Ždrepčeva Krv Čoka 1L",
+   "hozyaistvo": "Čoka",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/zdrepceva-krv-coka-1l",
+   "cena_rsd": 449.9,
+   "cvet_magazina": "красное",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Žilavka Vukoje 0.75L",
+   "hozyaistvo": "",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/zilavka-vukoje-075l",
+   "cena_rsd": 1839.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  },
+  {
+   "vino": "Žuti Cvet - Belo Vino Aleksić 0.75L",
+   "hozyaistvo": "Podrum Vina Aleksić",
+   "stranica": "https://www.ediskont.rs/sr/proizvod/zuti-cvet-belo-vino-aleksic-075l",
+   "cena_rsd": 1099.9,
+   "cvet_magazina": "белое",
+   "magazin": "eDiskont",
+   "v_prodazhe": true
+  }
+ ]
+}

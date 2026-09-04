@@ -49,5 +49,12 @@
    "adres": "https://delicent.com",
    "gde": "Београд, витрина в Wolt — «delicent-wine-deli»"
   }
- ]
+ ],
+ "diskonty_napitkov": {
+  "ediskont.rs": "взят отдельным сборщиком `vzjat-ediskont.py`: API нет, раздел берётся целиком по `?limit=500`.",
+  "probar.rs": "взят здесь: Store API WooCommerce, 1137 вин.",
+  "drinkstore.rs": "каталога нет вовсе — одна рекламная страница.",
+  "podrumpica.com": "сайт не отвечает.",
+  "diskontpicapazova.com": "Roma-al, дистрибутор. Цены оптовые: Алексић «Nostalgija» 0,75 за 540,34 при рознице около 900. REST API, карта сайта и карточки товаров отдают 500, открываются только разделы. Как розница не годится."
+ }
 }

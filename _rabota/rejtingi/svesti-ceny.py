@@ -280,6 +280,10 @@ def main():
                 # тот же, что у «Vinoteka Beograd» и «Wine Stars», —
                 # это витрина винотеки, а не полка сети и не доставка.
                 ("lavki", "lavki-ceny.json"),
+                # Дисконт напитков: не винотека и не сеть. Полка уже,
+                # чем у винотеки, и дешевле; берётся разбором вёрстки —
+                # каталога по API у него нет.
+                ("ediskont", "ediskont-ceny.json"),
                 ("vinarije", "vinarije-ceny.json"),
                 # Витрина доставки: шестьдесят шесть винотек Wolt по
                 # всей Сербии. Канал четвёртый и самый дорогой — цена
@@ -348,7 +352,7 @@ def main():
     # С ними медиана «у винотек» поднялась с 1782 до 2110 динаров —
     # то есть перестала быть ценой сербской бутылки, с которой её
     # сравнивают. Как источник цены для наших вин лавки остаются.
-    NE_VINOTEKA = SUPERMARKET | {"vinarije", "dostavka", "lavki"}
+    NE_VINOTEKA = SUPERMARKET | {"vinarije", "dostavka", "lavki", "ediskont"}
     vinoteki = [z["cena_rsd"] for z in syroe["vina"]
                 if z["magazin"] not in NE_VINOTEKA and z.get("cena_rsd")
                 and (z.get("litrov") or 0.75) == 0.75]

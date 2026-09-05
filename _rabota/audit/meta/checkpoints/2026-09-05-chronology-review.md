@@ -39,6 +39,10 @@ Remedy: rewrite the operative wording with source time, for example: «В про
 
 E003568 is accurately classified as a checked-only branch snapshot. The two derived JSONL views are one provenance chain, the importer is not evidence that the organizer records were read, and absence of the raw API cache prevents organizer-level verification. Keeping the producer-attributed advice, reducing confidence to medium, recording IDs 591497/598416/701094 as leads, and marking the substantive supplement pending independent review are all appropriate. Award year and vintage remain correctly separated.
 
+## Follow-up acceptance — C0510/M0481
+
+The bounded correction is accepted against base `ae02d40`, reviewed commit `e912096`. **SPEC: PASS. QUALITY: APPROVED.** The review covered only the temporal attribution to the program agreed in 2016 and the documented 1971 transformation/destruction facts; C0486, C0491, C0509, and C0574 were not re-researched. No Critical, Important, or Minor findings remain in the chronology package.
+
 ## Before/after and preservation assessment
 
 The four requested new reviews use the frozen candidate keys and record exact decision before/after objects. M0542 preserves its earlier substantive decision change and adds only the bounded evidence-role supplement. The observed working-tree diff affects only `_rabota/audit/decisions.jsonl`, `_rabota/audit/meta/review.jsonl`, and `_rabota/audit/sources.jsonl`; no diff was observed for `index.html`, claims, candidates, or baseline. I did not rerun the reported validations.

@@ -2,93 +2,23 @@
   "schema_version": 1,
   "inputs_sha256": {
     "claims": "280cddbc35d5693b4d0ffdfc3923e9472e4ae546346f2c4c1536477f95bb5654",
-    "decisions": "2a38d3d6f93bdf2a1fdf259e47d3a8c8538006c45455d8b98a51b89ad27d9b85",
+    "decisions": "602fedc2d5db2353a6e7831039abb2041e329dcc9b8f75c80fd629e5ebc86309",
     "candidates": "812f30bdc7ac9593d211354c4bb66650312884c62d45f9b0223e510d0f586c2d",
-    "review": "30835b667f4177e86923aa6cb4f1d8e83adaa90e59cb7343cbce6bba95c6936b",
+    "review": "4df6575cd752738bd58092c2f5e91b1544d4c60ac61d03bb9637764f0ff03884",
     "source_policy": "54dd427a8e8a533bb28dd36400c3be4f688688f28a30fb1f9e9fe9648ab803b5",
     "sources": "86aa5c04313a70a575f3c11154a577a351a30c4f7026e4357143648d1a140a87"
   },
   "counts": {
     "candidates": 2488,
-    "reviewed": 474,
-    "pending": 2014,
-    "pending_independent_review": 3,
-    "P1": 350,
+    "reviewed": 480,
+    "pending": 2008,
+    "pending_independent_review": 0,
+    "P1": 344,
     "P2": 1642,
     "P3": 22
   },
-  "pending_independent_reviews": [
-    {
-      "candidate_key": "risk:C0437:disputed_status",
-      "meta_id": "M0417",
-      "claim_ids": [
-        "C0437"
-      ],
-      "state": "pending_independent_review",
-      "next_action": "independent check of changed editorial advice"
-    },
-    {
-      "candidate_key": "risk:C0462:disputed_status,high_consensus_without_strong_source,high_risk_fact_type",
-      "meta_id": "M0438",
-      "claim_ids": [
-        "C0462"
-      ],
-      "state": "pending_independent_review",
-      "next_action": "independent check of changed editorial advice"
-    },
-    {
-      "candidate_key": "risk:C0492:disputed_status,high_consensus_without_strong_source,high_risk_fact_type",
-      "meta_id": "M0461",
-      "claim_ids": [
-        "C0492"
-      ],
-      "state": "pending_independent_review",
-      "next_action": "independent check of changed editorial advice"
-    }
-  ],
+  "pending_independent_reviews": [],
   "items": [
-    {
-      "candidate_key": "risk:C0427:high_consensus_without_strong_source,high_risk_fact_type,categorical_or_superlative",
-      "meta_id": "M0408",
-      "claim_ids": [
-        "C0427"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "awards/firsts/records",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0449:disputed_status,non_high_consensus,high_risk_fact_type,categorical_or_superlative",
-      "meta_id": "M0427",
-      "claim_ids": [
-        "C0449"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "awards/firsts/records",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0465:high_consensus_without_strong_source,high_risk_fact_type,categorical_or_superlative",
-      "meta_id": "M0441",
-      "claim_ids": [
-        "C0465"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "awards/firsts/records",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
     {
       "candidate_key": "risk:C0466:disputed_status,late_source_recheck,unknown_source_classification",
       "meta_id": "M0442",
@@ -188,34 +118,6 @@
       "next_action": "substantive editorial review"
     },
     {
-      "candidate_key": "risk:C0544:high_consensus_without_strong_source,high_risk_fact_type",
-      "meta_id": "M0514",
-      "claim_ids": [
-        "C0544"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "awards/firsts/records",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0545:high_consensus_without_strong_source,high_risk_fact_type",
-      "meta_id": "M0515",
-      "claim_ids": [
-        "C0545"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "awards/firsts/records",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
       "candidate_key": "risk:C0547:disputed_status,non_high_consensus",
       "meta_id": "M0517",
       "claim_ids": [
@@ -296,20 +198,6 @@
         "decision_status_disagrees"
       ],
       "topic": "sensory/serving recommendation",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0574:high_consensus_without_strong_source,high_risk_fact_type",
-      "meta_id": "M0542",
-      "claim_ids": [
-        "C0574"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "awards/firsts/records",
       "state": "pending",
       "next_action": "substantive editorial review"
     },

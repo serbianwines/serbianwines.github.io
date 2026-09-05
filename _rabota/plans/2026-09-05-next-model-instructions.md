@@ -7,7 +7,7 @@
 1. Этот файл.
 2. `_rabota/plans/2026-09-05-meta-audit-editorial-priority.md`, действующий согласованный план.
 3. `_rabota/audit/meta/report.md`, текущее состояние.
-4. `_rabota/audit/meta/checkpoints/2026-09-05-chronology-review.md`, одно открытое замечание.
+4. `_rabota/audit/meta/checkpoints/2026-09-05-chronology-review.md`, принятый follow-up по C0510/M0481; открытых замечаний нет.
 
 Старый план от 28 августа и старые Task 6C в handoff являются историей. Не возобновлять линейный обход всех 2488 кандидатов и не переделывать завершённые этапы.
 

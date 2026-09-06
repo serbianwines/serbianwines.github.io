@@ -2,18 +2,18 @@
   "schema_version": 1,
   "inputs_sha256": {
     "claims": "280cddbc35d5693b4d0ffdfc3923e9472e4ae546346f2c4c1536477f95bb5654",
-    "decisions": "d68c6ef2f9f190c23441c3858ecac2cda858339aa6b8783f3503ffeb5b75adc4",
+    "decisions": "ae636dc6391b58741eb88d9f3d9a097483b62c068ec2ab88b52fd635c67a4cc4",
     "candidates": "812f30bdc7ac9593d211354c4bb66650312884c62d45f9b0223e510d0f586c2d",
-    "review": "85a16c0a0f40c3dc4addcf37022be0dc1b401599ec1328b4314ba66be5eabe70",
+    "review": "1c1b591a6b9a6431113c892b0baa83977a4298b238dddcc0860499063f016636",
     "source_policy": "54dd427a8e8a533bb28dd36400c3be4f688688f28a30fb1f9e9fe9648ab803b5",
     "sources": "54e4fd699e996ca3626bd9ad1d7509ceb88e62bb6eb62ccf0a872e6552983dc3"
   },
   "counts": {
     "candidates": 2488,
-    "reviewed": 494,
-    "pending": 1994,
+    "reviewed": 498,
+    "pending": 1990,
     "pending_independent_review": 0,
-    "P1": 330,
+    "P1": 326,
     "P2": 1642,
     "P3": 22
   },
@@ -86,48 +86,6 @@
         "sensitive_topic_with_evidence_risk"
       ],
       "topic": "legal/GI/registry",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0611:disputed_status,high_risk_fact_type,categorical_or_superlative",
-      "meta_id": "M0576",
-      "claim_ids": [
-        "C0611"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "awards/firsts/records",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0612:high_consensus_without_strong_source,high_risk_fact_type,categorical_or_superlative",
-      "meta_id": "M0577",
-      "claim_ids": [
-        "C0612"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "awards/firsts/records",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0624:disputed_status,non_high_consensus,high_risk_fact_type",
-      "meta_id": "M0589",
-      "claim_ids": [
-        "C0624"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "general editorial claim",
       "state": "pending",
       "next_action": "substantive editorial review"
     },
@@ -240,20 +198,6 @@
         "sensitive_topic_with_evidence_risk"
       ],
       "topic": "variety identity/origin",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0682:disputed_status,non_high_consensus,high_risk_fact_type",
-      "meta_id": "M0640",
-      "claim_ids": [
-        "C0682"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "general editorial claim",
       "state": "pending",
       "next_action": "substantive editorial review"
     },

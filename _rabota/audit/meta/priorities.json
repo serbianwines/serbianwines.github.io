@@ -2,51 +2,23 @@
   "schema_version": 1,
   "inputs_sha256": {
     "claims": "280cddbc35d5693b4d0ffdfc3923e9472e4ae546346f2c4c1536477f95bb5654",
-    "decisions": "22fa3050cd0fac9242fe54106db3d2cea06ad0d052de81cac9ced5bcc73c5d5b",
+    "decisions": "a08fe2ec4873b6ee4957c0d84bdf10384d2c6c57b0128c3a5d7cb78c0c2d0db9",
     "candidates": "812f30bdc7ac9593d211354c4bb66650312884c62d45f9b0223e510d0f586c2d",
-    "review": "b6249a88a15c8ea9b0a4f0e0d163d2e45f92342eb6c787fe47f3eba6ba4528ef",
+    "review": "0bea8f69a91aea32c901ecfb7c9962ec3cfefb41d48289f2194d9d4dff35b1e3",
     "source_policy": "54dd427a8e8a533bb28dd36400c3be4f688688f28a30fb1f9e9fe9648ab803b5",
-    "sources": "461eb491b464b255e290374d4ecc9ea49ebd98a8b8f9d13109033a2823e6930b"
+    "sources": "20c37701d2d0bbf9165d1d9a58fd25aac0824c97e8b334c67aa593ff5f7e773a"
   },
   "counts": {
     "candidates": 2488,
-    "reviewed": 509,
-    "pending": 1979,
+    "reviewed": 511,
+    "pending": 1977,
     "pending_independent_review": 0,
-    "P1": 318,
+    "P1": 316,
     "P2": 1639,
     "P3": 22
   },
   "pending_independent_reviews": [],
   "items": [
-    {
-      "candidate_key": "risk:C0466:disputed_status,late_source_recheck,unknown_source_classification",
-      "meta_id": "M0442",
-      "claim_ids": [
-        "C0466"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "general editorial claim",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0467:disputed_status,high_risk_fact_type,categorical_or_superlative,unknown_source_classification",
-      "meta_id": "M0443",
-      "claim_ids": [
-        "C0467"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "variety identity/origin",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
     {
       "candidate_key": "risk:C0529:disputed_status,non_high_consensus,late_source_recheck,unknown_source_classification",
       "meta_id": "M0499",

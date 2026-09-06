@@ -2,19 +2,19 @@
   "schema_version": 1,
   "inputs_sha256": {
     "claims": "280cddbc35d5693b4d0ffdfc3923e9472e4ae546346f2c4c1536477f95bb5654",
-    "decisions": "a08fe2ec4873b6ee4957c0d84bdf10384d2c6c57b0128c3a5d7cb78c0c2d0db9",
+    "decisions": "1b151faa974f616ca26a54f37f278c77a02e47479ec8abf1e07c12d8cc071eb2",
     "candidates": "812f30bdc7ac9593d211354c4bb66650312884c62d45f9b0223e510d0f586c2d",
-    "review": "0bea8f69a91aea32c901ecfb7c9962ec3cfefb41d48289f2194d9d4dff35b1e3",
+    "review": "18776812f41ebb2d9d803f65bc99817cc228b56291d5be8e915b2cedcfa15121",
     "source_policy": "54dd427a8e8a533bb28dd36400c3be4f688688f28a30fb1f9e9fe9648ab803b5",
-    "sources": "20c37701d2d0bbf9165d1d9a58fd25aac0824c97e8b334c67aa593ff5f7e773a"
+    "sources": "4056a22bc9f63309f95b10065119e56f886a3b8b90e5ac53196085e410f9d603"
   },
   "counts": {
     "candidates": 2488,
-    "reviewed": 511,
-    "pending": 1977,
+    "reviewed": 516,
+    "pending": 1972,
     "pending_independent_review": 0,
-    "P1": 316,
-    "P2": 1639,
+    "P1": 314,
+    "P2": 1636,
     "P3": 22
   },
   "pending_independent_reviews": [],
@@ -30,34 +30,6 @@
         "decision_status_disagrees"
       ],
       "topic": "general editorial claim",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0598:disputed_status,high_risk_fact_type,unknown_source_classification",
-      "meta_id": "M0565",
-      "claim_ids": [
-        "C0598"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "general editorial claim",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0599:high_consensus_without_strong_source,high_risk_fact_type",
-      "meta_id": "M0566",
-      "claim_ids": [
-        "C0599"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "sensitive_topic_with_evidence_risk"
-      ],
-      "topic": "legal/GI/registry",
       "state": "pending",
       "next_action": "substantive editorial review"
     },
@@ -6044,48 +6016,6 @@
       "meta_id": "M0560",
       "claim_ids": [
         "C0592"
-      ],
-      "priority": "P2",
-      "reasons": [
-        "editorial_evidence_check"
-      ],
-      "topic": "general editorial claim",
-      "state": "pending",
-      "next_action": "evidence sufficiency check"
-    },
-    {
-      "candidate_key": "risk:C0596:high_risk_fact_type,unknown_source_classification",
-      "meta_id": "M0563",
-      "claim_ids": [
-        "C0596"
-      ],
-      "priority": "P2",
-      "reasons": [
-        "editorial_evidence_check"
-      ],
-      "topic": "general editorial claim",
-      "state": "pending",
-      "next_action": "evidence sufficiency check"
-    },
-    {
-      "candidate_key": "risk:C0597:high_consensus_without_strong_source,high_risk_fact_type",
-      "meta_id": "M0564",
-      "claim_ids": [
-        "C0597"
-      ],
-      "priority": "P2",
-      "reasons": [
-        "editorial_evidence_check"
-      ],
-      "topic": "general editorial claim",
-      "state": "pending",
-      "next_action": "evidence sufficiency check"
-    },
-    {
-      "candidate_key": "risk:C0600:disputed_status,non_high_consensus,high_risk_fact_type,categorical_or_superlative",
-      "meta_id": "M0567",
-      "claim_ids": [
-        "C0600"
       ],
       "priority": "P2",
       "reasons": [

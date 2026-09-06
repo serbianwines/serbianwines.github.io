@@ -2,18 +2,18 @@
   "schema_version": 1,
   "inputs_sha256": {
     "claims": "280cddbc35d5693b4d0ffdfc3923e9472e4ae546346f2c4c1536477f95bb5654",
-    "decisions": "1b151faa974f616ca26a54f37f278c77a02e47479ec8abf1e07c12d8cc071eb2",
+    "decisions": "15f641fe918ed336bef8c0d8460822f13d7773ada728ba3407a03503738f45ba",
     "candidates": "812f30bdc7ac9593d211354c4bb66650312884c62d45f9b0223e510d0f586c2d",
-    "review": "18776812f41ebb2d9d803f65bc99817cc228b56291d5be8e915b2cedcfa15121",
+    "review": "5fc9a990bc9e83cd600b444b46a40e45c696a6e5ae4866ec6a1cfe7a1a8aa79f",
     "source_policy": "54dd427a8e8a533bb28dd36400c3be4f688688f28a30fb1f9e9fe9648ab803b5",
     "sources": "4056a22bc9f63309f95b10065119e56f886a3b8b90e5ac53196085e410f9d603"
   },
   "counts": {
     "candidates": 2488,
-    "reviewed": 516,
-    "pending": 1972,
+    "reviewed": 518,
+    "pending": 1970,
     "pending_independent_review": 0,
-    "P1": 314,
+    "P1": 312,
     "P2": 1636,
     "P3": 22
   },
@@ -156,34 +156,6 @@
         "sensitive_topic_with_evidence_risk"
       ],
       "topic": "legal/GI/registry",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0758:disputed_status,high_risk_fact_type,categorical_or_superlative,unknown_source_classification",
-      "meta_id": "M0714",
-      "claim_ids": [
-        "C0758"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "general editorial claim",
-      "state": "pending",
-      "next_action": "substantive editorial review"
-    },
-    {
-      "candidate_key": "risk:C0762:disputed_status,unknown_source_classification",
-      "meta_id": "M0718",
-      "claim_ids": [
-        "C0762"
-      ],
-      "priority": "P1",
-      "reasons": [
-        "decision_status_disagrees"
-      ],
-      "topic": "general editorial claim",
       "state": "pending",
       "next_action": "substantive editorial review"
     },

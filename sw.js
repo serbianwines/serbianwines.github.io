@@ -57,6 +57,9 @@ self.addEventListener('fetch', (sob) => {
   if (zapros.method !== 'GET') return;
   if (new URL(zapros.url).origin !== self.location.origin) return;
 
+  // Keep the personal checklist separate from the offline book cache.
+  if (new URL(zapros.url).pathname.startsWith('/photo-hunt/')) return;
+
   // сама книга: сеть впереди, копия про запас
   if (zapros.mode === 'navigate' || zapros.destination === 'document') {
     sob.respondWith(
